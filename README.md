@@ -4,7 +4,7 @@
 
 **Bonjour Today. Fluent Tomorrow.** Canadian French from zero to B2 in about 6 months, for learners anywhere in Canada.
 
-Bonjourly is a free, non-profit project: no ads, no fees, no data collection. **Use it at https://truxai2115.github.io/bonjourly/**
+Bonjourly is a free, non-profit project: no ads, no fees, no data collection. **Use it at https://ahmrishad167.github.io/bonjourly/**
 
 - **168 lessons, A1 to B2.** One lesson a day finishes in about 6 months; learners can also go at their own pace.
 - **Six steps per lesson**: Learn, Drill, Vocabulary, Listen, Speak & Write, Quiz. Each step ends with an evaluation that unlocks the next step.
