@@ -97,7 +97,7 @@ function viewHome() {
     <section class="hero">${SKY}
       <div class="quote">Le français<br>ouvre des portes!</div>
       <div class="copy">
-        <h1><span class="fl"><span style="background:#1f4fbf"></span><span style="background:#fff"></span><span style="background:#e2363f"></span></span>Bonjour${state.name ? `, ${esc(state.name)}` : ''}!</h1>
+        <h1><span class="fl"><span style="background:#1f4fbf"></span><span style="background:#fff"></span><span style="background:#e2363f"></span></span>Bonjour${state.profile && state.name ? `, ${esc(state.name)}` : ''}!</h1>
         <h2>Canadian French, from zero to B2</h2>
         <p>168 lessons. Take one a day and reach B2 in about 6 months, or learn at your own pace. You're on lesson ${cw}: month ${monthOf(cw)}, week ${planWeekOf(cw)} of the plan.</p>
         <a class="btn" href="#w${cw}-d${d + 1}">Continue learning ${ic('chev')}</a>

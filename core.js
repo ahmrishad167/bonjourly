@@ -80,7 +80,14 @@ function freshState() {
 function loadState() {
   try {
     const s = JSON.parse(localStorage.getItem(KEY) || sessionStorage.getItem(KEY));
-    if (s && s.weeks) return Object.assign(freshState(), s, { settings: Object.assign(freshState().settings, s.settings) });
+    if (s && s.weeks) {
+      if (!s.profile) {
+        // Saved before registration existed (or a guest): no name, and guest progress lives in the session only.
+        s.name = '';
+        if (localStorage.getItem(KEY)) { sessionStorage.setItem(KEY, JSON.stringify(s)); localStorage.removeItem(KEY); }
+      }
+      return Object.assign(freshState(), s, { settings: Object.assign(freshState().settings, s.settings) });
+    }
   } catch (e) { /* storage unavailable */ }
   return freshState();
 }
