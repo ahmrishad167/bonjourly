@@ -1,0 +1,630 @@
+{
+ "w": 156,
+ "title": "Professional: negotiation and problem-solving",
+ "goal": "By the end of this lesson you can negotiate in French (make offers, counter-offers and conditions), work through a problem with colleagues, and disagree politely in a meeting, the way it's done in Quebec workplaces.",
+ "learn": [
+  {
+   "h": "Making offers and conditions",
+   "body": [
+    "Proposals use the conditional and *si* clauses: *Nous pourrions vous offrir un rabais de 10 % si vous signez pour deux ans.* *Seriez-vous prêts à…?* *Qu'est-ce que vous diriez de…?*",
+    "Conditions: *à condition que* + subjunctive (*à condition que la livraison soit faite avant mai*), *à condition de* + infinitive, *pourvu que* + subjunctive (provided that), *dans la mesure où* + indicative (insofar as)."
+   ],
+   "table": {
+    "head": [
+     "Move",
+     "Expression"
+    ],
+    "rows": [
+     [
+      "Offer",
+      "Nous serions prêts à… / On pourrait vous proposer…"
+     ],
+     [
+      "Counter-offer",
+      "Ce que je vous propose plutôt, c'est…"
+     ],
+     [
+      "Condition",
+      "À condition que… / Pourvu que… (+ subj.)"
+     ],
+     [
+      "Compromise",
+      "Coupons la poire en deux. / Trouvons un terrain d'entente."
+     ],
+     [
+      "Closing",
+      "Marché conclu! / On s'entend là-dessus?"
+     ]
+    ]
+   },
+   "tip": "À condition que and pourvu que: subjunctive, always."
+  },
+  {
+   "h": "Problem-solving language",
+   "body": [
+    "Stating the problem: *Le problème, c'est que…*, *On fait face à un enjeu de…* (in Quebec, *un enjeu* is the everyday word for an issue). Exploring solutions: *Une piste de solution serait de…*, *Et si on…?* + imparfait (*Et si on changeait de fournisseur?*), *Quelles sont nos options?*",
+    "Evaluating: *L'avantage, c'est que…; l'inconvénient, c'est que…*, *Ça risque de…*, *À court terme / à long terme…*. Deciding: *On va de l'avant avec…* (we're going ahead with), *On retient l'option B.*"
+   ]
+  },
+  {
+   "h": "Disagreeing politely",
+   "body": [
+    "Acknowledge before disagreeing: *Je comprends ton point, mais…*, *C'est un bon point. Par contre…*, *Je vois où tu veux en venir, cependant…*.",
+    "Soften with the conditional and questions: *Je ne suis pas sûr que ce soit la meilleure option.* *Est-ce qu'on a pensé à…?* *Je me demande si…* *Je serais plutôt d'avis de…*",
+    "Avoid *Vous avez tort* or *C'est faux* in meetings: they sound aggressive. Quebec workplace culture especially values consensus and a calm tone."
+   ]
+  },
+  {
+   "h": "Reaching agreement",
+   "body": [
+    "*On s'entend sur…*, *Je pense qu'on peut trouver un terrain d'entente*, *C'est une solution gagnant-gagnant*, *Je suis prêt à faire un compromis sur…, mais pas sur…*",
+    "Confirm in writing: *Je vous envoie une confirmation par courriel*, *Comme convenu, …* (as agreed)."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Nous pourrions vous offrir un rabais de 10 % si vous signez pour deux ans.",
+   "en": "We could offer you a 10% discount if you sign for two years.",
+   "note": "conditional + si"
+  },
+  {
+   "fr": "Seriez-vous prêts à revoir le délai de livraison?",
+   "en": "Would you be willing to revisit the delivery deadline?",
+   "note": "être prêt à + infinitive"
+  },
+  {
+   "fr": "J'accepte, à condition que le paiement soit fait en deux versements.",
+   "en": "I accept, provided the payment is made in two instalments.",
+   "note": "à condition que + subjunctive"
+  },
+  {
+   "fr": "Ce que je vous propose plutôt, c'est un contrat d'un an renouvelable.",
+   "en": "What I suggest instead is a renewable one-year contract.",
+   "note": "counter-offer"
+  },
+  {
+   "fr": "Coupons la poire en deux : 4 500 $.",
+   "en": "Let's split the difference: $4,500.",
+   "note": "couper la poire en deux"
+  },
+  {
+   "fr": "Le problème, c'est que nos coûts ont augmenté de 15 %.",
+   "en": "The problem is that our costs have gone up 15%.",
+   "note": "stating a problem"
+  },
+  {
+   "fr": "Et si on changeait de fournisseur?",
+   "en": "What if we changed suppliers?",
+   "note": "et si + imparfait = suggestion"
+  },
+  {
+   "fr": "Une piste de solution serait de partager les coûts.",
+   "en": "One possible solution would be to share the costs.",
+   "note": "une piste de solution"
+  },
+  {
+   "fr": "Je comprends ton point, mais ça risque de retarder le projet.",
+   "en": "I get your point, but that could delay the project.",
+   "note": "acknowledge, then disagree"
+  },
+  {
+   "fr": "Je ne suis pas certaine que ce soit la meilleure option.",
+   "en": "I'm not sure that's the best option.",
+   "note": "soft disagreement + subjunctive"
+  },
+  {
+   "fr": "Est-ce qu'on a pensé à faire appel à un consultant?",
+   "en": "Have we thought about bringing in a consultant?",
+   "note": "suggesting through a question"
+  },
+  {
+   "fr": "Je suis prêt à faire un compromis sur le prix, mais pas sur la qualité.",
+   "en": "I'm willing to compromise on price, but not on quality.",
+   "note": "setting limits"
+  },
+  {
+   "fr": "On va de l'avant avec l'option B.",
+   "en": "We're going ahead with option B.",
+   "note": "aller de l'avant: decision"
+  },
+  {
+   "fr": "Comme convenu, je vous envoie l'entente par courriel.",
+   "en": "As agreed, I'm sending you the agreement by email.",
+   "note": "comme convenu"
+  },
+  {
+   "fr": "Pourvu que les délais soient respectés, on peut signer.",
+   "en": "As long as the deadlines are met, we can sign.",
+   "note": "pourvu que + subjunctive"
+  },
+  {
+   "fr": "C'est une solution gagnant-gagnant.",
+   "en": "It's a win-win solution.",
+   "note": "invariable compound"
+  }
+ ],
+ "quebec": {
+  "intro": "In a Quebec meeting, disagreement is usually wrapped in politeness and consensus-seeking: people acknowledge the other view, use 'par contre' and questions, and avoid frontal contradiction. Here is what you'll hear, from neutral to familiar.",
+  "items": [
+   {
+    "std": "Je ne suis pas tout à fait d'accord.",
+    "qc": "Chu pas certain, moi…",
+    "en": "I'm not quite convinced.",
+    "note": "a very common soft opener; informal chu"
+   },
+   {
+    "std": "C'est une bonne idée; cependant, le budget est limité.",
+    "qc": "C'est une bonne idée; par contre, le budget est serré.",
+    "en": "It's a good idea; however, the budget is tight.",
+    "note": "par contre is the go-to 'however' in Quebec speech"
+   },
+   {
+    "std": "Je comprends votre point de vue.",
+    "qc": "Je comprends ton point.",
+    "en": "I get your point.",
+    "note": "'ton point' is a common calque in Quebec; 'ton point de vue' or 'ce que tu veux dire' is more standard"
+   },
+   {
+    "std": "Il y a un problème avec ce calendrier.",
+    "qc": "Y'a un enjeu avec l'échéancier.",
+    "en": "There's an issue with the timeline.",
+    "note": "enjeu and échéancier are everyday Quebec office words"
+   },
+   {
+    "std": "Ce n'est pas grave, on trouvera une solution.",
+    "qc": "C'est pas grave, on va trouver une solution.",
+    "en": "No big deal, we'll find a solution.",
+    "note": "aller + infinitive replaces the future in speech"
+   },
+   {
+    "std": "Parfait, nous sommes d'accord.",
+    "qc": "Parfait, on s'entend.",
+    "en": "Great, we agree.",
+    "note": "on s'entend = we agree / it's a deal (also 'Entendu')"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "J'accepte, à condition que vous ___ avant mai. (livrer)",
+   "options": [
+    "livrez",
+    "livrerez",
+    "livriez",
+    "livreriez"
+   ],
+   "a": 2,
+   "why": "à condition que + subjunctive: livriez."
+  },
+  {
+   "t": "mcq",
+   "q": "'Couper la poire en deux' means…",
+   "options": [
+    "to share a pear",
+    "to split the difference",
+    "to end a negotiation",
+    "to cut costs"
+   ],
+   "a": 1,
+   "why": "A compromise halfway between two positions."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is the most polite way to disagree in a meeting?",
+   "options": [
+    "C'est faux.",
+    "Vous avez tort.",
+    "Je comprends ton point, par contre…",
+    "N'importe quoi."
+   ],
+   "a": 2,
+   "why": "Acknowledge first, then disagree."
+  },
+  {
+   "t": "mcq",
+   "q": "'On va de l'avant avec ce projet' means…",
+   "options": [
+    "We're dropping the project",
+    "We're going ahead with the project",
+    "We're ahead of schedule",
+    "We're postponing it"
+   ],
+   "a": 1,
+   "why": "aller de l'avant = to go ahead."
+  },
+  {
+   "t": "fill",
+   "q": "Et si on ___ le fournisseur? (changer, imparfait)",
+   "a": [
+    "changeait"
+   ],
+   "en": "What if we changed the supplier?",
+   "why": "et si + imparfait = suggestion."
+  },
+  {
+   "t": "fill",
+   "q": "Pourvu que le prix ___ raisonnable, on signe. (être)",
+   "a": [
+    "soit"
+   ],
+   "en": "As long as the price is reasonable, we'll sign.",
+   "why": "pourvu que + subjunctive."
+  },
+  {
+   "t": "fill",
+   "q": "Nous ___ prêts à baisser le prix. (être, conditional)",
+   "a": [
+    "serions"
+   ],
+   "en": "We would be willing to lower the price.",
+   "why": "Conditional softens the offer."
+  },
+  {
+   "t": "fill",
+   "q": "Comme ___, je vous envoie le contrat.",
+   "a": [
+    "convenu",
+    "prévu",
+    "entendu"
+   ],
+   "en": "As agreed, I'm sending you the contract.",
+   "why": "comme convenu = as agreed."
+  },
+  {
+   "t": "fill",
+   "q": "Une ___ de solution serait de réduire les heures.",
+   "a": [
+    "piste"
+   ],
+   "en": "One possible solution would be to reduce hours.",
+   "why": "une piste de solution."
+  },
+  {
+   "t": "build",
+   "en": "I'm not sure it's the best option.",
+   "a": "Je ne suis pas sûr que ce soit la meilleure option."
+  },
+  {
+   "t": "build",
+   "en": "Let's find common ground.",
+   "a": "Trouvons un terrain d'entente."
+  },
+  {
+   "t": "build",
+   "en": "What would you say to a discount?",
+   "a": "Qu'est-ce que vous diriez d'un rabais?"
+  },
+  {
+   "t": "translate",
+   "en": "It's a deal!",
+   "a": [
+    "Marché conclu!",
+    "C'est entendu!",
+    "Entendu!",
+    "Affaire conclue!",
+    "On s'entend!"
+   ],
+   "why": "marché conclu / affaire conclue are the classic formulas."
+  },
+  {
+   "t": "translate",
+   "en": "It's a good idea; however, it's expensive.",
+   "a": [
+    "C'est une bonne idée; par contre, c'est cher.",
+    "C'est une bonne idée; cependant, c'est cher.",
+    "C'est une bonne idée, mais c'est cher.",
+    "C'est une bonne idée; toutefois, c'est cher.",
+    "C'est une bonne idée; par contre, ça coûte cher."
+   ],
+   "why": "par contre is the most natural in Quebec speech."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "la négociation",
+   "en": "negotiation",
+   "g": "f",
+   "ex": "Les négociations ont duré trois mois."
+  },
+  {
+   "fr": "le rabais",
+   "en": "discount",
+   "g": "m",
+   "ex": "On vous offre un rabais de 15 %."
+  },
+  {
+   "fr": "la contre-offre",
+   "en": "counter-offer",
+   "g": "f",
+   "ex": "Ils ont fait une contre-offre le lendemain."
+  },
+  {
+   "fr": "à condition que",
+   "en": "provided that (+ subjunctive)",
+   "ex": "Je viendrai, à condition que tu conduises."
+  },
+  {
+   "fr": "pourvu que",
+   "en": "as long as (+ subjunctive)",
+   "ex": "Pourvu qu'il fasse beau!"
+  },
+  {
+   "fr": "le terrain d'entente",
+   "en": "common ground",
+   "g": "m",
+   "ex": "On a fini par trouver un terrain d'entente."
+  },
+  {
+   "fr": "le compromis",
+   "en": "compromise",
+   "g": "m",
+   "ex": "Chacun a dû faire un compromis."
+  },
+  {
+   "fr": "l'enjeu",
+   "en": "issue, stake",
+   "g": "m",
+   "ex": "Le principal enjeu, c'est la main-d'œuvre."
+  },
+  {
+   "fr": "l'échéancier",
+   "en": "timeline, schedule",
+   "g": "m",
+   "ex": "L'échéancier est très serré."
+  },
+  {
+   "fr": "la piste de solution",
+   "en": "possible solution, lead",
+   "g": "f",
+   "ex": "On a trois pistes de solution."
+  },
+  {
+   "fr": "par contre",
+   "en": "however, on the other hand",
+   "ex": "Le prix est bon; par contre, le délai est long."
+  },
+  {
+   "fr": "aller de l'avant",
+   "en": "to go ahead",
+   "ex": "La direction a décidé d'aller de l'avant."
+  },
+  {
+   "fr": "l'entente",
+   "en": "agreement",
+   "g": "f",
+   "ex": "L'entente a été signée hier."
+  },
+  {
+   "fr": "gagnant-gagnant",
+   "en": "win-win",
+   "ex": "C'est un accord gagnant-gagnant."
+  },
+  {
+   "fr": "le fournisseur",
+   "en": "supplier",
+   "g": "m",
+   "ex": "Notre fournisseur a augmenté ses prix."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "à condition que",
+    "tip": "a-kon-di-SYON-kuh."
+   },
+   {
+    "fr": "pourvu que",
+    "tip": "poor-VU-kuh: the u is the French [y]."
+   },
+   {
+    "fr": "échéancier",
+    "tip": "é-shé-an-SYÉ: two é sounds, then a nasal."
+   },
+   {
+    "fr": "enjeu",
+    "tip": "an-JEU: nasal an."
+   },
+   {
+    "fr": "terrain d'entente",
+    "tip": "tè-RIN-dan-TANT."
+   },
+   {
+    "fr": "gagnant-gagnant",
+    "tip": "ga-NYAN ga-NYAN."
+   }
+  ],
+  "title": "La négociation avec le fournisseur",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Merci de nous recevoir. Comme vous le savez, vos nouveaux prix nous posent problème.",
+    "en": "Thanks for meeting us. As you know, your new prices are a problem for us."
+   },
+   {
+    "s": "B",
+    "fr": "Je comprends. Par contre, nos coûts de transport ont augmenté de 15 %.",
+    "en": "I understand. However, our transport costs have risen 15%."
+   },
+   {
+    "s": "A",
+    "fr": "Seriez-vous prêts à revenir à l'ancien tarif si on s'engage pour deux ans?",
+    "en": "Would you be willing to go back to the old rate if we commit for two years?"
+   },
+   {
+    "s": "B",
+    "fr": "L'ancien tarif, ce serait difficile. Ce que je vous propose plutôt, c'est une hausse de 5 %.",
+    "en": "The old rate would be difficult. What I suggest instead is a 5% increase."
+   },
+   {
+    "s": "A",
+    "fr": "Cinq pour cent, à condition que les livraisons soient hebdomadaires.",
+    "en": "Five percent, provided deliveries are weekly."
+   },
+   {
+    "s": "B",
+    "fr": "Hebdomadaires… c'est un enjeu pour nous. Et si on faisait des livraisons aux deux semaines?",
+    "en": "Weekly… that's an issue for us. What if we delivered every two weeks?"
+   },
+   {
+    "s": "A",
+    "fr": "Je pense qu'on peut trouver un terrain d'entente. Aux deux semaines, ça marche.",
+    "en": "I think we can find common ground. Every two weeks works."
+   },
+   {
+    "s": "B",
+    "fr": "Parfait, on s'entend. Je vous envoie l'entente par courriel, comme convenu.",
+    "en": "Perfect, we have a deal. I'll send you the agreement by email, as agreed."
+   }
+  ],
+  "questions": [
+   {
+    "q": "By how much have the supplier's transport costs risen?",
+    "options": [
+     "5%",
+     "10%",
+     "15%"
+    ],
+    "a": 2
+   },
+   {
+    "q": "What price increase do they agree on?",
+    "options": [
+     "0%",
+     "5%",
+     "15%"
+    ],
+    "a": 1
+   },
+   {
+    "q": "How often will deliveries be made?",
+    "options": [
+     "Every week",
+     "Every two weeks",
+     "Every month"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Make an offer with a condition to a client.",
+   "model": "Nous pourrions vous offrir un rabais de 10 %, à condition que vous signiez avant la fin du mois."
+  },
+  {
+   "prompt": "A colleague proposes moving the launch earlier. Disagree politely and suggest an alternative.",
+   "model": "Je comprends ton point, c'est vrai que ça nous donnerait un avantage. Par contre, je ne suis pas certain que l'équipe soit prête. Et si on faisait un lancement partiel en mars?"
+  },
+  {
+   "prompt": "Close the negotiation and confirm next steps.",
+   "model": "Parfait, on s'entend sur 5 % et des livraisons aux deux semaines. Je vous envoie une confirmation par courriel cet après-midi."
+  }
+ ],
+ "write": {
+  "prompt": "Write a follow-up email (6–8 sentences) after a negotiation: thank the other party, summarise the agreement, state one condition, propose the next step.",
+  "model": "Bonjour Monsieur Gagnon, Je vous remercie de la rencontre productive de ce matin. Comme convenu, nous acceptons une hausse de 5 % de vos tarifs pour une durée de deux ans. En contrepartie, les livraisons seront effectuées aux deux semaines. Cette entente est valide à condition que les délais de livraison soient respectés. Je vous propose de signer le contrat lors d'une brève rencontre la semaine prochaine. N'hésitez pas à me contacter si vous avez des questions. Cordialement, Rishad"
+ },
+ "quiz": [
+  {
+   "q": "'Pourvu que' is followed by…",
+   "options": [
+    "the indicative",
+    "the subjunctive",
+    "the conditional",
+    "an infinitive"
+   ],
+   "a": 1,
+   "why": "pourvu que + subjunctive."
+  },
+  {
+   "q": "In Quebec offices, 'un enjeu' is often used for…",
+   "options": [
+    "a game",
+    "an issue / concern",
+    "a bet at the casino",
+    "a holiday"
+   ],
+   "a": 1,
+   "why": "enjeu = stake, issue."
+  },
+  {
+   "q": "'Et si on reportait la réunion?' is…",
+   "options": [
+    "an order",
+    "a suggestion",
+    "a complaint",
+    "a question about the past"
+   ],
+   "a": 1,
+   "why": "et si + imparfait = what if we…"
+  },
+  {
+   "q": "Which phrase confirms a deal?",
+   "options": [
+    "On s'entend.",
+    "On verra.",
+    "Je me demande si…",
+    "Ça risque de…"
+   ],
+   "a": 0,
+   "why": "on s'entend = agreed."
+  },
+  {
+   "q": "'Un terrain d'entente' is…",
+   "options": [
+    "a sports field",
+    "common ground",
+    "a building lot",
+    "a legal dispute"
+   ],
+   "a": 1,
+   "why": "trouver un terrain d'entente = find common ground."
+  },
+  {
+   "q": "Which sentence is correct?",
+   "options": [
+    "À condition que vous payez.",
+    "À condition que vous payiez.",
+    "À condition de vous payez.",
+    "À condition que vous paierez."
+   ],
+   "a": 1,
+   "why": "Subjunctive: payiez."
+  },
+  {
+   "q": "'Par contre' means…",
+   "options": [
+    "against",
+    "however / on the other hand",
+    "by contract",
+    "on purpose"
+   ],
+   "a": 1,
+   "why": "The most common 'however' in Quebec speech."
+  },
+  {
+   "q": "'Comme convenu' means…",
+   "options": [
+    "as usual",
+    "as agreed",
+    "as convenient",
+    "as expected"
+   ],
+   "a": 1,
+   "why": "convenir de = to agree on."
+  },
+  {
+   "q": "Why avoid 'Vous avez tort' in a Quebec meeting?",
+   "options": [
+    "It's grammatically wrong",
+    "It sounds confrontational",
+    "It's too informal",
+    "It's an anglicism"
+   ],
+   "a": 1,
+   "why": "Quebec workplace culture prefers softened disagreement."
+  }
+ ]
+}

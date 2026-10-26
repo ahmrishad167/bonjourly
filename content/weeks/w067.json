@@ -1,0 +1,701 @@
+{
+ "w": 67,
+ "title": "False friends",
+ "goal": "By the end of this lesson you can avoid the most common French–English false friends and recognise the Quebec anglicisms (canceller, checker, chum) you will hear every day, along with their standard equivalents.",
+ "learn": [
+  {
+   "h": "What is a false friend?",
+   "body": [
+    "A false friend (*un faux ami*) is a French word that looks like an English word but means something different. English and French share thousands of real cognates (*la nation*, *important*, *le restaurant*), which is why the false ones are so dangerous.",
+    "Learn them in pairs: the French word and what it really means, plus the French word for the English meaning."
+   ]
+  },
+  {
+   "h": "The top false friends",
+   "body": [
+    "These are the ones English speakers get wrong most often. Study the right-hand column: that is how to say the English meaning in French."
+   ],
+   "table": {
+    "head": [
+     "French",
+     "Really means",
+     "For the English meaning, say"
+    ],
+    "rows": [
+     [
+      "actuellement",
+      "currently, right now",
+      "en fait (actually)"
+     ],
+     [
+      "éventuellement",
+      "possibly, if need be",
+      "finalement, à la longue (eventually)"
+     ],
+     [
+      "la librairie",
+      "bookstore",
+      "la bibliothèque (library)"
+     ],
+     [
+      "sensible",
+      "sensitive",
+      "raisonnable, sensé (sensible)"
+     ],
+     [
+      "assister à",
+      "to attend",
+      "aider (to assist)"
+     ],
+     [
+      "attendre",
+      "to wait (for)",
+      "assister à (to attend)"
+     ],
+     [
+      "rester",
+      "to stay",
+      "se reposer (to rest)"
+     ],
+     [
+      "la monnaie",
+      "change, coins",
+      "l'argent (money)"
+     ],
+     [
+      "blesser",
+      "to injure",
+      "bénir (to bless)"
+     ],
+     [
+      "large",
+      "wide",
+      "grand (large)"
+     ]
+    ]
+   },
+   "tip": "Actuellement = right now. If you mean 'actually', say en fait."
+  },
+  {
+   "h": "Quebec anglicisms",
+   "body": [
+    "Living next to English, Quebec French has borrowed many English words and structures. In casual speech you will hear *canceller* (to cancel), *checker* (to check), *booker* (to book), *parker* (to park) and *un chum* (a boyfriend, or a male friend).",
+    "Understand them and use them with friends if you like, but in writing, at work and with strangers, use the standard forms: *annuler*, *vérifier*, *réserver*, *se stationner*. The Office québécois de la langue française (OQLF) actively promotes these standard words.",
+    "Note: *se stationner* and *le stationnement* are the normal Quebec words for parking. In France, *se garer* and *le parking* are more common."
+   ],
+   "table": {
+    "head": [
+     "Anglicism (informal)",
+     "Standard",
+     "English"
+    ],
+    "rows": [
+     [
+      "canceller",
+      "annuler",
+      "to cancel"
+     ],
+     [
+      "checker",
+      "vérifier, regarder",
+      "to check"
+     ],
+     [
+      "booker",
+      "réserver",
+      "to book"
+     ],
+     [
+      "parker",
+      "se stationner",
+      "to park"
+     ],
+     [
+      "un chum",
+      "un copain, un ami, un conjoint",
+      "boyfriend / buddy"
+     ],
+     [
+      "faire du sens",
+      "avoir du sens",
+      "to make sense"
+     ],
+     [
+      "appliquer sur un poste",
+      "postuler à un poste",
+      "to apply for a job"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Chum and blonde",
+   "body": [
+    "*Mon chum* usually means 'my boyfriend' or 'my partner' (male). *Un chum* or *mes chums* can also mean buddies. Context tells you which.",
+    "The female equivalent is *ma blonde* (my girlfriend, my partner), whatever her hair colour! *Une chum* (or *une amie*) is a female friend. These are very common, friendly, informal Quebec words."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Actuellement, je travaille à Laval.",
+   "en": "Currently, I work in Laval.",
+   "note": "actuellement = right now, not 'actually'"
+  },
+  {
+   "fr": "En fait, je ne suis pas d'accord.",
+   "en": "Actually, I don't agree.",
+   "note": "use en fait for 'actually'"
+  },
+  {
+   "fr": "J'ai acheté ce roman à la librairie.",
+   "en": "I bought this novel at the bookstore."
+  },
+  {
+   "fr": "J'emprunte des livres à la bibliothèque.",
+   "en": "I borrow books from the library."
+  },
+  {
+   "fr": "Mon fils est très sensible.",
+   "en": "My son is very sensitive."
+  },
+  {
+   "fr": "Hier, j'ai assisté à une réunion importante.",
+   "en": "Yesterday, I attended an important meeting.",
+   "note": "assister à = to attend"
+  },
+  {
+   "fr": "Je t'attends devant le métro.",
+   "en": "I'm waiting for you in front of the metro.",
+   "note": "attendre has no preposition: attendre quelqu'un"
+  },
+  {
+   "fr": "Ce soir, je reste à la maison.",
+   "en": "Tonight, I'm staying home."
+  },
+  {
+   "fr": "Avez-vous de la monnaie pour le parcomètre?",
+   "en": "Do you have change for the parking meter?"
+  },
+  {
+   "fr": "Il a été blessé dans un accident.",
+   "en": "He was injured in an accident."
+  },
+  {
+   "fr": "J'ai dû annuler mon rendez-vous.",
+   "en": "I had to cancel my appointment.",
+   "note": "standard; canceller in casual Quebec speech"
+  },
+  {
+   "fr": "Peux-tu vérifier l'heure du film?",
+   "en": "Can you check the time of the movie?",
+   "note": "standard; checker in casual speech"
+  },
+  {
+   "fr": "Mon chum fait le souper ce soir.",
+   "en": "My boyfriend is making supper tonight.",
+   "note": "informal Quebec"
+  },
+  {
+   "fr": "Ma blonde travaille à l'hôpital.",
+   "en": "My girlfriend works at the hospital.",
+   "note": "informal Quebec; nothing to do with hair"
+  },
+  {
+   "fr": "Où est-ce qu'on peut se stationner?",
+   "en": "Where can we park?"
+  },
+  {
+   "fr": "Ça n'a pas de sens!",
+   "en": "That makes no sense! / That's crazy!",
+   "note": "standard; very common in Quebec"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebec speech is full of English verbs with French endings (canceller, checker) and words like chum and blonde. Understand them, use them casually if you want, and keep the standard forms for writing and formal situations.",
+  "items": [
+   {
+    "std": "J'ai annulé mon rendez-vous.",
+    "qc": "J'ai cancellé mon rendez-vous.",
+    "en": "I cancelled my appointment.",
+    "note": "Informal anglicism; also spelled canceler"
+   },
+   {
+    "std": "Je vais vérifier.",
+    "qc": "J'vas checker ça.",
+    "en": "I'll check.",
+    "note": "Informal anglicism, extremely common"
+   },
+   {
+    "std": "Mon copain est parti.",
+    "qc": "Mon chum est parti.",
+    "en": "My boyfriend left.",
+    "note": "Informal; chum can also mean buddy"
+   },
+   {
+    "std": "Ma copine vient avec nous.",
+    "qc": "Ma blonde vient avec nous.",
+    "en": "My girlfriend is coming with us.",
+    "note": "Informal Quebec"
+   },
+   {
+    "std": "Ça a du sens.",
+    "qc": "Ça fait du sens.",
+    "en": "It makes sense.",
+    "note": "Calque from English; avoid in writing"
+   },
+   {
+    "std": "Je me suis stationné en face.",
+    "qc": "J'ai parké en face.",
+    "en": "I parked across the street.",
+    "note": "Informal; se stationner is the Quebec standard"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "'Actuellement' means…",
+   "options": [
+    "actually",
+    "currently",
+    "finally",
+    "eventually"
+   ],
+   "a": 1,
+   "why": "Actuellement = right now, at present."
+  },
+  {
+   "t": "mcq",
+   "q": "Where do you borrow books for free?",
+   "options": [
+    "à la librairie",
+    "à la bibliothèque",
+    "au libraire",
+    "à la papeterie"
+   ],
+   "a": 1,
+   "why": "La bibliothèque = library; la librairie = bookstore."
+  },
+  {
+   "t": "mcq",
+   "q": "What is the standard French for the Quebec anglicism 'checker'?",
+   "options": [
+    "chèquer",
+    "vérifier",
+    "contrôler une chèque",
+    "attendre"
+   ],
+   "a": 1,
+   "why": "Checker → vérifier (or regarder)."
+  },
+  {
+   "t": "mcq",
+   "q": "'Ma blonde' in Quebec means…",
+   "options": [
+    "my blond friend",
+    "my girlfriend",
+    "my beer",
+    "my sister"
+   ],
+   "a": 1,
+   "why": "Ma blonde = my girlfriend/partner, any hair colour."
+  },
+  {
+   "t": "mcq",
+   "q": "'Il est très sensible' means…",
+   "options": [
+    "He is very sensible.",
+    "He is very sensitive.",
+    "He is very nice.",
+    "He is very tired."
+   ],
+   "a": 1,
+   "why": "Sensible = sensitive."
+  },
+  {
+   "t": "fill",
+   "q": "J'ai ___ à la conférence hier. (attended)",
+   "a": [
+    "assisté"
+   ],
+   "en": "I attended the conference yesterday.",
+   "why": "assister à = to attend."
+  },
+  {
+   "t": "fill",
+   "q": "Je t'___ depuis vingt minutes! (to wait)",
+   "a": [
+    "attends"
+   ],
+   "en": "I've been waiting for you for twenty minutes!",
+   "why": "attendre quelqu'un, no preposition."
+  },
+  {
+   "t": "fill",
+   "q": "On doit ___ le souper, ma mère est malade. (to cancel, standard)",
+   "a": [
+    "annuler"
+   ],
+   "en": "We have to cancel supper, my mother is sick.",
+   "why": "Standard for canceller."
+  },
+  {
+   "t": "fill",
+   "q": "___ fait, je préfère le thé. (In)",
+   "a": [
+    "En"
+   ],
+   "en": "Actually, I prefer tea.",
+   "why": "En fait = actually."
+  },
+  {
+   "t": "build",
+   "en": "Currently, I live in Montreal.",
+   "a": "Actuellement, j'habite à Montréal."
+  },
+  {
+   "t": "build",
+   "en": "My boyfriend is making supper.",
+   "a": "Mon chum fait le souper."
+  },
+  {
+   "t": "build",
+   "en": "Where can we park?",
+   "a": "Où est-ce qu'on peut se stationner?"
+  },
+  {
+   "t": "translate",
+   "en": "I'm staying home tonight.",
+   "a": [
+    "Je reste à la maison ce soir.",
+    "Ce soir, je reste à la maison.",
+    "Je reste chez moi ce soir.",
+    "Ce soir, je reste chez moi."
+   ],
+   "why": "rester = to stay."
+  },
+  {
+   "t": "translate",
+   "en": "Do you have change?",
+   "a": [
+    "Avez-vous de la monnaie?",
+    "Vous avez de la monnaie?",
+    "As-tu de la monnaie?",
+    "Tu as de la monnaie?",
+    "Est-ce que vous avez de la monnaie?",
+    "Est-ce que tu as de la monnaie?"
+   ],
+   "why": "la monnaie = change, coins."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "actuellement",
+   "en": "currently, right now",
+   "ex": "Actuellement, il est en réunion."
+  },
+  {
+   "fr": "en fait",
+   "en": "actually, in fact",
+   "ex": "En fait, c'est une bonne idée."
+  },
+  {
+   "fr": "éventuellement",
+   "en": "possibly, if need be",
+   "ex": "On pourra éventuellement changer la date."
+  },
+  {
+   "fr": "la librairie",
+   "en": "bookstore",
+   "g": "f",
+   "ex": "La librairie ferme à 21 h."
+  },
+  {
+   "fr": "la bibliothèque",
+   "en": "library",
+   "g": "f",
+   "ex": "La bibliothèque est gratuite."
+  },
+  {
+   "fr": "sensible",
+   "en": "sensitive",
+   "ex": "J'ai les dents sensibles."
+  },
+  {
+   "fr": "assister à",
+   "en": "to attend",
+   "ex": "J'ai assisté au spectacle."
+  },
+  {
+   "fr": "rester",
+   "en": "to stay",
+   "ex": "Reste avec moi."
+  },
+  {
+   "fr": "la monnaie",
+   "en": "change, coins; currency",
+   "g": "f",
+   "ex": "Gardez la monnaie."
+  },
+  {
+   "fr": "blesser",
+   "en": "to injure, to hurt",
+   "ex": "Il s'est blessé au bras."
+  },
+  {
+   "fr": "annuler",
+   "en": "to cancel",
+   "ex": "Le vol est annulé."
+  },
+  {
+   "fr": "vérifier",
+   "en": "to check",
+   "ex": "Je vais vérifier mes courriels."
+  },
+  {
+   "fr": "le chum",
+   "en": "boyfriend; buddy (informal)",
+   "g": "m",
+   "ex": "Je sors avec mes chums vendredi.",
+   "qc": true
+  },
+  {
+   "fr": "la blonde",
+   "en": "girlfriend (informal)",
+   "g": "f",
+   "ex": "Sa blonde s'appelle Émilie.",
+   "qc": true
+  },
+  {
+   "fr": "se stationner",
+   "en": "to park",
+   "ex": "On peut se stationner dans la rue.",
+   "qc": true
+  },
+  {
+   "fr": "large",
+   "en": "wide",
+   "ex": "Cette rue est très large."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "actuellement",
+    "tip": "ak-tu-el-MAHN, five syllables."
+   },
+   {
+    "fr": "la bibliothèque",
+    "tip": "bee-blee-o-TEK; th = t."
+   },
+   {
+    "fr": "la librairie",
+    "tip": "lee-bray-REE."
+   },
+   {
+    "fr": "un chum",
+    "tip": "Said like English 'chum', but with a French 'o' sound: TCHOM."
+   },
+   {
+    "fr": "checker",
+    "tip": "tchè-KAY: English root, French -er ending."
+   },
+   {
+    "fr": "en fait",
+    "tip": "ahn FET: the t is pronounced in en fait."
+   }
+  ],
+  "title": "Un rendez-vous annulé",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Allô? Salut Marie, c'est moi.",
+    "en": "Hello? Hi Marie, it's me."
+   },
+   {
+    "s": "B",
+    "fr": "Salut! On se voit toujours ce soir?",
+    "en": "Hi! Are we still seeing each other tonight?"
+   },
+   {
+    "s": "A",
+    "fr": "En fait, je dois annuler. Mon chum est malade.",
+    "en": "Actually, I have to cancel. My boyfriend is sick."
+   },
+   {
+    "s": "B",
+    "fr": "Oh non! Il a quoi?",
+    "en": "Oh no! What's wrong with him?"
+   },
+   {
+    "s": "A",
+    "fr": "La grippe. Actuellement, il est au lit.",
+    "en": "The flu. Right now he's in bed."
+   },
+   {
+    "s": "B",
+    "fr": "Pas de problème. Je vais checker si le resto peut changer la réservation.",
+    "en": "No problem. I'll check if the restaurant can change the reservation."
+   },
+   {
+    "s": "A",
+    "fr": "Merci. On pourrait y aller samedi?",
+    "en": "Thanks. Could we go Saturday?"
+   },
+   {
+    "s": "B",
+    "fr": "Bonne idée. Je te texte après.",
+    "en": "Good idea. I'll text you after."
+   }
+  ],
+  "questions": [
+   {
+    "q": "Why does speaker A cancel?",
+    "options": [
+     "She has to work",
+     "Her boyfriend is sick",
+     "The restaurant is closed"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does 'actuellement, il est au lit' mean?",
+    "options": [
+     "Actually he's in bed",
+     "Right now he's in bed",
+     "Eventually he'll be in bed"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What new day do they suggest?",
+    "options": [
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Say where you are working or studying currently, using 'actuellement'.",
+   "model": "Actuellement, je travaille dans une entreprise à Montréal."
+  },
+  {
+   "prompt": "Say 'I'll check' and 'I have to cancel' first casually (Quebec), then in standard French.",
+   "model": "J'vas checker. Je dois canceller. / Je vais vérifier. Je dois annuler."
+  },
+  {
+   "prompt": "Introduce your partner or a friend using chum or blonde.",
+   "model": "Je te présente mon chum, Alex. / Voici ma blonde, Sophie."
+  }
+ ],
+ "write": {
+  "prompt": "Write a short formal email (4–5 sentences) to cancel an appointment. Use only standard French (no anglicisms).",
+  "model": "Bonjour Madame Tremblay, je vous écris pour annuler mon rendez-vous de jeudi à 14 h. Actuellement, je suis à l'extérieur de la ville. Pourriez-vous vérifier s'il y a une place la semaine prochaine? Merci beaucoup et bonne journée. Alex Martin"
+ },
+ "quiz": [
+  {
+   "q": "'Éventuellement' means…",
+   "options": [
+    "eventually (for sure)",
+    "possibly",
+    "never",
+    "immediately"
+   ],
+   "a": 1,
+   "why": "It means 'possibly, if necessary', not 'in the end'."
+  },
+  {
+   "q": "How do you say 'I attended the meeting'?",
+   "options": [
+    "J'ai attendu la réunion.",
+    "J'ai assisté à la réunion.",
+    "J'ai aidé la réunion.",
+    "J'ai resté à la réunion."
+   ],
+   "a": 1,
+   "why": "Assister à = to attend. Attendre = to wait."
+  },
+  {
+   "q": "'Il a été blessé' means…",
+   "options": [
+    "He was blessed.",
+    "He was injured.",
+    "He was blamed.",
+    "He was bored."
+   ],
+   "a": 1,
+   "why": "Blesser = to injure."
+  },
+  {
+   "q": "Which is the standard Quebec verb for 'to park'?",
+   "options": [
+    "parker",
+    "se stationner",
+    "parquer",
+    "garer le parking"
+   ],
+   "a": 1,
+   "why": "Se stationner (France often says se garer)."
+  },
+  {
+   "q": "'Ça fait du sens' is…",
+   "options": [
+    "perfect standard French",
+    "a calque from English; standard is 'ça a du sens'",
+    "a France expression",
+    "incorrect everywhere and never heard"
+   ],
+   "a": 1,
+   "why": "Heard in Quebec, but the standard is avoir du sens."
+  },
+  {
+   "q": "'Rester' means…",
+   "options": [
+    "to rest",
+    "to stay",
+    "to arrest",
+    "to restore"
+   ],
+   "a": 1,
+   "why": "Rester = to stay; to rest = se reposer."
+  },
+  {
+   "q": "'Une rue large' is…",
+   "options": [
+    "a long street",
+    "a wide street",
+    "a big city",
+    "a busy street"
+   ],
+   "a": 1,
+   "why": "Large = wide."
+  },
+  {
+   "q": "'Mes chums' most likely means…",
+   "options": [
+    "my boyfriends",
+    "my buddies",
+    "my cousins",
+    "my coworkers only"
+   ],
+   "a": 1,
+   "why": "In the plural, chums usually means friends."
+  },
+  {
+   "q": "How do you say 'Actually, I'm tired'?",
+   "options": [
+    "Actuellement, je suis fatigué.",
+    "En fait, je suis fatigué.",
+    "Éventuellement, je suis fatigué.",
+    "Finalement je suis fatigué actuellement."
+   ],
+   "a": 1,
+   "why": "En fait = actually."
+  }
+ ]
+}

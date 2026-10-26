@@ -1,0 +1,654 @@
+{
+ "w": 124,
+ "title": "Listening: regional accents",
+ "goal": "By the end of this lesson you can recognise the main features of Quebec pronunciation, tell apart some regional accents (Montreal, Quebec City, Saguenay–Lac-Saint-Jean, Gaspésie) from a European French accent, and keep understanding speakers whose accent is new to you.",
+ "learn": [
+  {
+   "h": "Features shared across Quebec",
+   "body": [
+    "Most Quebec speakers, from news anchors to teenagers, share a few features. Learn these first: they appear everywhere in the province.",
+    "1) *t* and *d* before *i* and *u* become 'ts' and 'dz': *tu dis* → 'tsu dzi', *mardi* → 'mar-dzi'. 2) *i*, *u* and *ou* become shorter and more open in closed syllables: *vite* sounds closer to English 'vit', *musique* to 'mu-zik'. 3) Long vowels, especially in stressed syllables, glide (diphthongs) in casual speech: *père* → 'paèr', *fête* → 'faèt', *neige* → 'naèj'."
+   ],
+   "table": {
+    "head": [
+     "Word",
+     "Quebec",
+     "France (Paris)"
+    ],
+    "rows": [
+     [
+      "tu dis",
+      "tsu dzi",
+      "tu di"
+     ],
+     [
+      "petite",
+      "p'tsitt (short, open i)",
+      "p'tite"
+     ],
+     [
+      "fête",
+      "faèt (casual)",
+      "fèt"
+     ],
+     [
+      "pâte / patte",
+      "two different vowels (pâte darker, like 'pawt')",
+      "usually the same vowel"
+     ],
+     [
+      "brin / brun",
+      "two different nasals",
+      "often the same nasal"
+     ],
+     [
+      "moi, toi",
+      "mwa / moé (informal)",
+      "mwa"
+     ]
+    ]
+   },
+   "tip": "Affrication (tsu, dzi) is standard Quebec pronunciation, not slang: you'll hear it on Radio-Canada."
+  },
+  {
+   "h": "Montreal and Quebec City",
+   "body": [
+    "Montreal French is urban and multilingual: you'll hear more English loanwords and code-switching, plus the accents of speakers whose first language is Arabic, Spanish, Haitian Creole, Vietnamese and more. Many older Montrealers roll their r with the tip of the tongue; most younger speakers use a throat (uvular) r.",
+    "Quebec City speakers use the uvular r, and their accent is often perceived by other Quebecers as a bit more measured. In practice the differences between Montreal and Quebec City are small compared to the regions: vocabulary and rhythm vary more than sounds."
+   ]
+  },
+  {
+   "h": "Saguenay–Lac-Saint-Jean and Gaspésie",
+   "body": [
+    "Saguenay–Lac-Saint-Jean is famous for a strong, sing-song accent with long, rich diphthongs and a slower rhythm. People from the region are affectionately called *les Bleuets*, after the local wild blueberries.",
+    "Gaspésie is varied. Many speakers have a calm, slower rhythm and older rural vocabulary. Along the Baie-des-Chaleurs, the Acadian influence is audible: you may hear forms like *j'avons* (for *nous avons*) among older speakers. The Îles-de-la-Madeleine have their own Acadian-influenced accent."
+   ]
+  },
+  {
+   "h": "European French compared",
+   "body": [
+    "A Paris accent has no 'ts/dz' (*tu dis* stays 'tu di'), no diphthongs, shorter vowels overall, and usually merges sounds Quebec keeps apart (*patte/pâte*, *brin/brun*). Intonation tends to rise at the end of each word group.",
+    "Southern France sounds different again: the final *-e* is often pronounced (*la vie-e*), and nasal vowels can end in a slight 'ng' (*pain* → 'peng'). Belgian and Swiss French have their own rhythms and words (*septante*, *nonante*)."
+   ]
+  },
+  {
+   "h": "How to train your ear",
+   "body": [
+    "Listen to the same content in different accents: a news bulletin from Radio-Canada, then a regional radio station, then a podcast from France. Focus on one feature at a time (affrication this lesson, diphthongs next week).",
+    "When you don't understand someone, ask politely: *Pardon, pouvez-vous répéter un peu plus lentement?* or *Excusez-moi, je n'ai pas bien saisi.* Most people are happy to slow down for a learner."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Tu dis que t'es arrivé mardi?",
+   "en": "You're saying you got here Tuesday?",
+   "note": "Quebec: 'tsu dzi', 'mar-dzi'"
+  },
+  {
+   "fr": "Il fait frette à matin!",
+   "en": "It's freezing this morning!",
+   "note": "frette = froid, informal Quebec; à matin = ce matin"
+  },
+  {
+   "fr": "On va fêter ça avec mon père.",
+   "en": "We're going to celebrate with my dad.",
+   "note": "listen for 'faèter', 'paèr' in casual speech"
+  },
+  {
+   "fr": "La musique est vite.",
+   "en": "The music is fast.",
+   "note": "short, open i and u in closed syllables: 'muzik', 'vit'"
+  },
+  {
+   "fr": "J'ai mangé des pâtes, pas de la patte!",
+   "en": "I ate pasta, not paw!",
+   "note": "Quebec keeps â and a distinct"
+  },
+  {
+   "fr": "Moé, j'viens du Lac-Saint-Jean.",
+   "en": "Me, I'm from Lac-Saint-Jean.",
+   "note": "moé = moi, informal"
+  },
+  {
+   "fr": "Les Bleuets sont fiers de leur région.",
+   "en": "People from Saguenay–Lac-Saint-Jean are proud of their region.",
+   "note": "Bleuets = nickname"
+  },
+  {
+   "fr": "En Gaspésie, on prend le temps de jaser.",
+   "en": "In Gaspésie, people take the time to chat.",
+   "note": "jaser = to chat, Quebec"
+  },
+  {
+   "fr": "À Paris, on dit « tu dis » sans le petit « s ».",
+   "en": "In Paris, they say 'tu dis' without the little 's'.",
+   "note": "no affrication in France"
+  },
+  {
+   "fr": "Pardon, pouvez-vous répéter plus lentement?",
+   "en": "Sorry, could you repeat more slowly?",
+   "note": "a key survival phrase"
+  },
+  {
+   "fr": "Je n'ai pas bien saisi ce que vous avez dit.",
+   "en": "I didn't quite catch what you said.",
+   "note": "saisir = to catch, grasp"
+  },
+  {
+   "fr": "Son accent est très prononcé.",
+   "en": "His accent is very strong.",
+   "note": "prononcé = strong, marked"
+  },
+  {
+   "fr": "Elle a un petit accent de la Beauce.",
+   "en": "She has a slight Beauce accent.",
+   "note": "un petit accent = a slight accent"
+  },
+  {
+   "fr": "Mon grand-père roulait ses r.",
+   "en": "My grandfather rolled his r's.",
+   "note": "the rolled r of older Montrealers"
+  },
+  {
+   "fr": "En Belgique, on dit « septante » pour soixante-dix.",
+   "en": "In Belgium, they say 'septante' for seventy.",
+   "note": "francophone variety"
+  },
+  {
+   "fr": "Peu importe l'accent, on finit par se comprendre.",
+   "en": "Whatever the accent, we end up understanding each other.",
+   "note": "peu importe = no matter"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebec pronunciation has features that change how familiar words sound. Here they are side by side with the 'textbook' pronunciation. Affrication (tsu, dzi) is standard Quebec; the other forms are casual.",
+  "items": [
+   {
+    "std": "Tu dis ça mardi?",
+    "qc": "Tsu dzis ça mardzi?",
+    "en": "You're saying that Tuesday?",
+    "note": "t/d → ts/dz before i and u: standard Quebec pronunciation"
+   },
+   {
+    "std": "C'est une belle fête.",
+    "qc": "C't'une belle faète.",
+    "en": "It's a nice party.",
+    "note": "diphthong in casual speech"
+   },
+   {
+    "std": "Moi aussi.",
+    "qc": "Moé itou.",
+    "en": "Me too.",
+    "note": "moé and itou: informal, more common in the regions"
+   },
+   {
+    "std": "Il fait froid.",
+    "qc": "Y fait frette.",
+    "en": "It's cold.",
+    "note": "frette, informal"
+   },
+   {
+    "std": "Elle est petite.",
+    "qc": "A l'est p'tsite.",
+    "en": "She's small.",
+    "note": "a = elle, short open i; informal"
+   },
+   {
+    "std": "Nous avons fini. (Acadian-influenced)",
+    "qc": "J'avons fini.",
+    "en": "We've finished.",
+    "note": "traditional Acadian form, heard among older speakers in parts of Gaspésie and the Îles"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "In Quebec, 'tu' usually sounds like…",
+   "options": [
+    "tou",
+    "tsu",
+    "chu",
+    "du"
+   ],
+   "a": 1,
+   "why": "Affrication of t before u."
+  },
+  {
+   "t": "mcq",
+   "q": "Which feature is typical of a Paris accent?",
+   "options": [
+    "tsu dzi",
+    "patte and pâte sound the same",
+    "strong diphthongs",
+    "moé, toé"
+   ],
+   "a": 1,
+   "why": "Paris usually merges a and â."
+  },
+  {
+   "t": "mcq",
+   "q": "Who are 'les Bleuets'?",
+   "options": [
+    "Montreal hockey fans",
+    "People from Saguenay–Lac-Saint-Jean",
+    "Gaspé fishermen",
+    "Quebec City police"
+   ],
+   "a": 1,
+   "why": "Named after the region's blueberries."
+  },
+  {
+   "t": "mcq",
+   "q": "'J'avons fini' reflects…",
+   "options": [
+    "a Paris accent",
+    "Acadian influence",
+    "a spelling mistake only",
+    "Montreal slang"
+   ],
+   "a": 1,
+   "why": "Traditional Acadian form."
+  },
+  {
+   "t": "fill",
+   "q": "Pardon, pouvez-vous ___ plus lentement? (repeat)",
+   "a": [
+    "répéter"
+   ],
+   "en": "Sorry, can you repeat more slowly?",
+   "why": "Survival phrase."
+  },
+  {
+   "t": "fill",
+   "q": "Je n'ai pas bien ___. (caught)",
+   "a": [
+    "saisi",
+    "compris"
+   ],
+   "en": "I didn't quite catch that.",
+   "why": "Saisir = to catch, grasp."
+  },
+  {
+   "t": "fill",
+   "q": "Il fait ___ à matin! (cold, informal Quebec)",
+   "a": [
+    "frette"
+   ],
+   "en": "It's freezing this morning!",
+   "why": "Frette = froid, informal."
+  },
+  {
+   "t": "fill",
+   "q": "Son accent est très ___. (strong)",
+   "a": [
+    "prononcé",
+    "fort"
+   ],
+   "en": "His accent is very strong.",
+   "why": "Un accent prononcé."
+  },
+  {
+   "t": "build",
+   "en": "Where are you from?",
+   "a": "Tu viens d'où?"
+  },
+  {
+   "t": "build",
+   "en": "She has a slight accent.",
+   "a": "Elle a un petit accent."
+  },
+  {
+   "t": "build",
+   "en": "My grandfather rolled his r's.",
+   "a": "Mon grand-père roulait ses r."
+  },
+  {
+   "t": "translate",
+   "en": "Could you speak more slowly?",
+   "a": [
+    "Pourriez-vous parler plus lentement?",
+    "Pouvez-vous parler plus lentement?",
+    "Peux-tu parler plus lentement?",
+    "Pourrais-tu parler plus lentement?"
+   ],
+   "why": "Polite request."
+  },
+  {
+   "t": "translate",
+   "en": "I'm from Saguenay.",
+   "a": [
+    "Je viens du Saguenay.",
+    "Je suis du Saguenay.",
+    "Je viens de Saguenay.",
+    "Je suis de Saguenay."
+   ],
+   "why": "Du Saguenay (region) or de Saguenay (city)."
+  },
+  {
+   "t": "translate",
+   "en": "Me too.",
+   "a": [
+    "Moi aussi.",
+    "Moé aussi.",
+    "Moi itou.",
+    "Moé itou."
+   ],
+   "why": "Moé and itou are informal."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "l'accent",
+   "en": "accent",
+   "g": "m",
+   "ex": "Tu as un bel accent."
+  },
+  {
+   "fr": "prononcé",
+   "en": "strong, marked (accent)",
+   "ex": "Son accent est prononcé."
+  },
+  {
+   "fr": "la prononciation",
+   "en": "pronunciation",
+   "g": "f",
+   "ex": "Ta prononciation s'améliore."
+  },
+  {
+   "fr": "rouler les r",
+   "en": "to roll one's r's",
+   "ex": "Il roule les r."
+  },
+  {
+   "fr": "saisir",
+   "en": "to catch, to grasp",
+   "ex": "Je n'ai pas saisi."
+  },
+  {
+   "fr": "la région",
+   "en": "region",
+   "g": "f",
+   "ex": "Je viens d'une région éloignée."
+  },
+  {
+   "fr": "régional",
+   "en": "regional",
+   "ex": "Il a un accent régional."
+  },
+  {
+   "fr": "le parler",
+   "en": "way of speaking, dialect",
+   "g": "m",
+   "ex": "Le parler gaspésien est chantant."
+  },
+  {
+   "fr": "chantant",
+   "en": "sing-song, lilting",
+   "ex": "Un accent chantant."
+  },
+  {
+   "fr": "les Bleuets",
+   "en": "people from Saguenay–Lac-Saint-Jean",
+   "g": "m",
+   "ex": "Les Bleuets sont accueillants.",
+   "qc": true
+  },
+  {
+   "fr": "jaser",
+   "en": "to chat",
+   "ex": "On a jasé toute la soirée.",
+   "qc": true
+  },
+  {
+   "fr": "frette",
+   "en": "cold, freezing (informal)",
+   "ex": "Y fait frette!",
+   "qc": true
+  },
+  {
+   "fr": "moé / toé",
+   "en": "me / you (informal)",
+   "ex": "Moé, j'aime ça.",
+   "qc": true
+  },
+  {
+   "fr": "peu importe",
+   "en": "no matter, whatever",
+   "ex": "Peu importe l'accent, parle!"
+  },
+  {
+   "fr": "s'habituer à",
+   "en": "to get used to",
+   "ex": "Je m'habitue à l'accent."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "tu dis, mardi",
+    "tip": "Quebec: tsu dzi, mar-dzi. France: tu di, mar-di."
+   },
+   {
+    "fr": "petite",
+    "tip": "Quebec: p'tsitt, with a short open i. France: p'tit."
+   },
+   {
+    "fr": "père, fête",
+    "tip": "Casual Quebec: paèr, faèt (glide). France: pèr, fèt."
+   },
+   {
+    "fr": "pâte / patte",
+    "tip": "Quebec: pâte is darker, like 'pawt'; patte is bright 'pat'."
+   },
+   {
+    "fr": "brin / brun",
+    "tip": "Quebec keeps two nasals: brin (bright), brun (rounded)."
+   },
+   {
+    "fr": "moi",
+    "tip": "Standard mwa; informal Quebec moé (mwè)."
+   },
+   {
+    "fr": "pain (Southern France)",
+    "tip": "Often 'peng', with a slight g at the end."
+   }
+  ],
+  "title": "Trois accents au bureau",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Salut! Toi, t'es d'où? J'entends un petit accent.",
+    "en": "Hi! Where are you from? I hear a slight accent."
+   },
+   {
+    "s": "B",
+    "fr": "Moé, j'viens d'Alma, au Lac-Saint-Jean. Une vraie Bleuet! Pis toi?",
+    "en": "Me, I'm from Alma, in Lac-Saint-Jean. A real Bleuet! And you?"
+   },
+   {
+    "s": "A",
+    "fr": "Moi, je viens de Lyon. Au début, je ne comprenais pas « tsu dzis ». Je pensais que tout le monde était enrhumé!",
+    "en": "I'm from Lyon. At first, I didn't understand 'tsu dzis'. I thought everyone had a cold!"
+   },
+   {
+    "s": "B",
+    "fr": "Ha! Pis l'accent de Montréal, tu le comprends?",
+    "en": "Ha! And the Montreal accent, do you understand it?"
+   },
+   {
+    "s": "A",
+    "fr": "Oui, mais les Montréalais mettent de l'anglais partout. Toi, tu parles plus lentement.",
+    "en": "Yes, but Montrealers put English everywhere. You speak more slowly."
+   },
+   {
+    "s": "B",
+    "fr": "Plus lentement, pis plus joliment! Ma grand-mère de Gaspé dit encore « j'avons » et « astheure ».",
+    "en": "More slowly, and more nicely! My grandmother from Gaspé still says 'j'avons' and 'astheure'."
+   },
+   {
+    "s": "A",
+    "fr": "« J'avons »? On dirait du vieux français!",
+    "en": "'J'avons'? It sounds like old French!"
+   },
+   {
+    "s": "B",
+    "fr": "C'est l'influence acadienne. Finalement, peu importe l'accent, on finit toujours par se comprendre.",
+    "en": "It's the Acadian influence. In the end, no matter the accent, we always end up understanding each other."
+   }
+  ],
+  "questions": [
+   {
+    "q": "Where is B from?",
+    "options": [
+     "Gaspé",
+     "Alma, Lac-Saint-Jean",
+     "Montreal"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What confused A at first?",
+    "options": [
+     "The word 'dépanneur'",
+     "The 'tsu dzi' pronunciation",
+     "The rolled r"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does B's grandmother from Gaspé still say?",
+    "options": [
+     "Septante",
+     "J'avons and astheure",
+     "Moé and toé"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Read the same sentence twice, first with Quebec affrication, then 'France style': 'Tu dis que tu pars mardi midi?'",
+   "model": "Quebec : tsu dzi kuh tsu par mar-dzi mi-dzi? / France : tu di kuh tu par mar-di mi-di?"
+  },
+  {
+   "prompt": "Describe your own accent in French and what's hard for you to pronounce.",
+   "model": "J'ai un accent anglais assez prononcé. J'ai de la difficulté avec le r et avec la différence entre « tu » et « tout »."
+  },
+  {
+   "prompt": "Ask someone politely to repeat, in three different ways.",
+   "model": "Pardon? / Excusez-moi, pouvez-vous répéter plus lentement? / Désolé, je n'ai pas bien saisi."
+  },
+  {
+   "prompt": "Compare two accents you've heard (Montreal, a region, or France) in three sentences.",
+   "model": "À Montréal, les gens parlent vite et mélangent souvent le français et l'anglais. Au Lac-Saint-Jean, l'accent est plus chantant et plus lent. En France, on ne dit pas « tsu », mais « tu »."
+  }
+ ],
+ "write": {
+  "prompt": "Write 7–9 sentences about your experience with accents in French: which ones you find easy or hard, a funny misunderstanding, and your strategy for understanding new accents.",
+  "model": "Quand je suis arrivé à Montréal, je trouvais l'accent québécois très difficile. Mes professeurs parlaient un français international, mais dans la rue, j'entendais « tsu dzis » et « moé ». Une fois, une collègue de Chicoutimi m'a dit qu'il faisait « frette », et j'ai pensé qu'elle parlait de son frère! Maintenant, je comprends bien les Montréalais, mais les accents des régions restent un défi. Les films français, par contre, me semblent plus faciles parce que les gens articulent beaucoup. Ma stratégie, c'est d'écouter la radio régionale de Radio-Canada dix minutes par jour. Et quand je ne comprends pas, je demande poliment de répéter. Peu importe l'accent, les gens apprécient toujours l'effort."
+ },
+ "quiz": [
+  {
+   "q": "Which feature is standard Quebec pronunciation, used even on the news?",
+   "options": [
+    "moé / toé",
+    "tsu / dzi before i and u",
+    "j'avons",
+    "frette"
+   ],
+   "a": 1,
+   "why": "Affrication is neutral in Quebec."
+  },
+  {
+   "q": "Diphthongs like 'faète' for fête are typical of…",
+   "options": [
+    "formal Paris French",
+    "casual Quebec speech",
+    "Belgian French",
+    "written French"
+   ],
+   "a": 1,
+   "why": "Long vowels glide in casual Quebec speech."
+  },
+  {
+   "q": "Which accent is described as strong and sing-song, with rich diphthongs?",
+   "options": [
+    "Saguenay–Lac-Saint-Jean",
+    "Paris",
+    "Geneva",
+    "Brussels"
+   ],
+   "a": 0,
+   "why": "The Bleuets' accent."
+  },
+  {
+   "q": "In Paris French, 'brin' and 'brun' usually…",
+   "options": [
+    "sound the same",
+    "sound very different",
+    "aren't words",
+    "rhyme with 'pain'"
+   ],
+   "a": 0,
+   "why": "Many Parisians merge the two nasals."
+  },
+  {
+   "q": "Which phrase asks someone to repeat?",
+   "options": [
+    "Peu importe.",
+    "Je n'ai pas bien saisi.",
+    "Ça s'entend.",
+    "Il fait frette."
+   ],
+   "a": 1,
+   "why": "I didn't quite catch that."
+  },
+  {
+   "q": "Montreal French is especially marked by…",
+   "options": [
+    "Acadian forms",
+    "English loanwords and multilingual influence",
+    "no affrication",
+    "septante and nonante"
+   ],
+   "a": 1,
+   "why": "Urban, multilingual city."
+  },
+  {
+   "q": "'Septante' (70) is used in…",
+   "options": [
+    "Quebec",
+    "Belgium and Switzerland",
+    "Paris",
+    "Gaspésie"
+   ],
+   "a": 1,
+   "why": "Belgian and Swiss French."
+  },
+  {
+   "q": "What does 'frette' mean?",
+   "options": [
+    "brother",
+    "freezing cold",
+    "fresh",
+    "fried"
+   ],
+   "a": 1,
+   "why": "Informal Quebec for froid."
+  },
+  {
+   "q": "A rolled r with the tip of the tongue is mostly heard among…",
+   "options": [
+    "young Quebec City speakers",
+    "older Montrealers",
+    "Parisian newscasters",
+    "all Quebecers"
+   ],
+   "a": 1,
+   "why": "Most younger speakers use a uvular r."
+  }
+ ]
+}

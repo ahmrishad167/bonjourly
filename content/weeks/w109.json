@@ -1,0 +1,691 @@
+{
+ "w": 109,
+ "title": "Emphatic pronouns with même",
+ "goal": "By the end of this lesson you can say 'myself, yourself, themselves' for emphasis (moi-même, eux-mêmes), use soi-même with on and chacun, answer the phone with 'C'est moi-même', and tell même 'same', 'even' and '-self' apart.",
+ "learn": [
+  {
+   "h": "Stressed pronoun + même = '-self'",
+   "body": [
+    "To say 'myself, yourself, himself' for emphasis, French adds *-même* to the stressed pronoun with a hyphen: *moi-même*, *toi-même*, *lui-même*. In the plural, *même* takes an s: *nous-mêmes*, *eux-mêmes*.",
+    "These are emphatic, not reflexive. 'I wash myself' is *je me lave* (reflexive). 'I did it myself' is *je l'ai fait moi-même* (emphasis: me and nobody else)."
+   ],
+   "table": {
+    "head": [
+     "Pronoun",
+     "Emphatic form",
+     "English"
+    ],
+    "rows": [
+     [
+      "moi",
+      "moi-même",
+      "myself"
+     ],
+     [
+      "toi",
+      "toi-même",
+      "yourself (tu)"
+     ],
+     [
+      "lui / elle",
+      "lui-même / elle-même",
+      "himself / herself"
+     ],
+     [
+      "soi",
+      "soi-même",
+      "oneself"
+     ],
+     [
+      "nous",
+      "nous-mêmes",
+      "ourselves"
+     ],
+     [
+      "vous",
+      "vous-même / vous-mêmes",
+      "yourself (formal) / yourselves"
+     ],
+     [
+      "eux / elles",
+      "eux-mêmes / elles-mêmes",
+      "themselves"
+     ]
+    ]
+   },
+   "tip": "Vous-même for one person you vouvoie, vous-mêmes for several people."
+  },
+  {
+   "h": "Where it goes and what it means",
+   "body": [
+    "*-même* can follow the subject for emphasis: *Moi-même, je n'y crois pas.* It can come at the end: *Je l'ai construit moi-même.* It can follow a noun: *Le directeur lui-même est venu.* (The director himself came.)",
+    "Common combinations: *par moi-même* (by myself, on my own), *de moi-même* (of my own accord), *en personne* is a synonym when talking about a physical presence."
+   ]
+  },
+  {
+   "h": "Soi and soi-même",
+   "body": [
+    "*Soi* is the stressed pronoun for a general, unspecified subject: *on*, *chacun*, *tout le monde*, *personne*, or an impersonal *il faut*. *On est mieux chez soi.* (You're better off at home.)",
+    "*Soi-même* is the emphatic version: *Il faut le faire soi-même.* (You have to do it yourself.) *Faire ça soi-même* is the French for DIY; in Quebec, home renovation shows love the phrase."
+   ]
+  },
+  {
+   "h": "Three different 'même's",
+   "body": [
+    "Before a noun with an article, *même* means 'same': *la même chose*, *les mêmes amis*. After a pronoun with a hyphen, it means '-self': *lui-même*. As an adverb, it means 'even': *Même mon père a ri.* (Even my father laughed.)",
+    "Fixed expressions: *quand même* (still, anyway), *même si* (even if), *de même* (likewise), *tout de même* (all the same)."
+   ],
+   "table": {
+    "head": [
+     "Use",
+     "Example",
+     "English"
+    ],
+    "rows": [
+     [
+      "same",
+      "On a le même char.",
+      "We have the same car."
+     ],
+     [
+      "-self",
+      "Elle l'a dit elle-même.",
+      "She said it herself."
+     ],
+     [
+      "even",
+      "Même les enfants ont compris.",
+      "Even the kids understood."
+     ],
+     [
+      "anyway",
+      "Il pleut, mais j'y vais quand même.",
+      "It's raining, but I'm going anyway."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Quebec: on the phone and in reply",
+   "body": [
+    "When someone calls and asks for you, Quebecers commonly answer *C'est moi-même* or *C'est lui-même / elle-même* ('Speaking'). It's polite and very common.",
+    "As a reply to a wish (*Bonne journée!*), Quebecers often say *Toi pareil!*, *Vous de même!* or *Toi aussi!*; the older word *itou* (also) survives too: *Moi itou!* In casual speech, *pareil* also replaces *quand même*: *J'y vais pareil.*"
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "J'ai réparé la clôture moi-même.",
+   "en": "I fixed the fence myself.",
+   "note": "emphasis at the end"
+  },
+  {
+   "fr": "Tu l'as fait toi-même? Bravo!",
+   "en": "You made it yourself? Bravo!",
+   "note": "toi-même"
+  },
+  {
+   "fr": "Le premier ministre lui-même a répondu à la lettre.",
+   "en": "The premier himself answered the letter.",
+   "note": "after a noun: the person in person"
+  },
+  {
+   "fr": "Elle a écrit le discours elle-même.",
+   "en": "She wrote the speech herself.",
+   "note": "elle-même"
+  },
+  {
+   "fr": "Nous avons peint la maison nous-mêmes.",
+   "en": "We painted the house ourselves.",
+   "note": "plural: mêmes"
+  },
+  {
+   "fr": "Vous pouvez vérifier vous-même.",
+   "en": "You can check for yourself.",
+   "note": "vous-même: one person, formal"
+  },
+  {
+   "fr": "Les enfants ont préparé le souper eux-mêmes.",
+   "en": "The kids made supper themselves.",
+   "note": "eux-mêmes"
+  },
+  {
+   "fr": "Il vaut mieux faire ça soi-même.",
+   "en": "It's better to do it yourself.",
+   "note": "soi-même with an impersonal subject"
+  },
+  {
+   "fr": "Chacun pour soi!",
+   "en": "Every man for himself!",
+   "note": "soi after chacun"
+  },
+  {
+   "fr": "Il a démissionné de lui-même.",
+   "en": "He resigned of his own accord.",
+   "note": "de + -même = voluntarily"
+  },
+  {
+   "fr": "J'ai appris à nager par moi-même.",
+   "en": "I learned to swim by myself.",
+   "note": "par moi-même = on my own"
+  },
+  {
+   "fr": "— Je voudrais parler à Sophie Tremblay. — C'est elle-même.",
+   "en": "\"I'd like to speak to Sophie Tremblay.\" \"Speaking.\"",
+   "note": "phone answer, very common in Quebec"
+  },
+  {
+   "fr": "Même ma grand-mère utilise Facebook.",
+   "en": "Even my grandmother uses Facebook.",
+   "note": "même = even"
+  },
+  {
+   "fr": "On a eu la même idée!",
+   "en": "We had the same idea!",
+   "note": "même = same, before the noun"
+  },
+  {
+   "fr": "Il fait froid, mais on sort quand même.",
+   "en": "It's cold, but we're going out anyway.",
+   "note": "quand même = anyway"
+  },
+  {
+   "fr": "Moi-même, je ne savais pas quoi dire.",
+   "en": "I myself didn't know what to say.",
+   "note": "emphasis at the start"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebecers use the -même forms naturally ('faire ça soi-même', 'c'est moi-même' on the phone), and reply to wishes with 'toi pareil', 'vous de même' or the old word 'itou'.",
+  "items": [
+   {
+    "std": "— Puis-je parler à Marc? — C'est moi.",
+    "qc": "— Est-ce que je pourrais parler à Marc? — C'est moi-même.",
+    "en": "\"Can I speak to Marc?\" \"Speaking.\"",
+    "note": "very common and polite in Quebec; also C'est lui-même / elle-même"
+   },
+   {
+    "std": "Bonne journée! — Toi aussi!",
+    "qc": "Bonne journée! — Toi pareil!",
+    "en": "Have a good day! — You too!",
+    "note": "informal; vous de même is the polite version"
+   },
+   {
+    "std": "Moi aussi.",
+    "qc": "Moi itou.",
+    "en": "Me too.",
+    "note": "old-fashioned / rural flavour, still heard, informal"
+   },
+   {
+    "std": "J'y vais quand même.",
+    "qc": "J'y vas pareil.",
+    "en": "I'm going anyway.",
+    "note": "pareil = quand même; j'y vas = j'y vais, informal"
+   },
+   {
+    "std": "Je l'ai fait moi-même.",
+    "qc": "Je l'ai faite moi-même.",
+    "en": "I made it myself.",
+    "note": "in Quebec speech the t of faite is often pronounced even when standard agreement doesn't require it; write fait"
+   },
+   {
+    "std": "C'est le même que le mien.",
+    "qc": "C'est pareil comme le mien.",
+    "en": "It's the same as mine.",
+    "note": "pareil comme is casual Quebec; standard is pareil au mien or le même que"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Nous avons construit le cabanon ___.",
+   "options": [
+    "nous-même",
+    "nous-mêmes",
+    "nous mêmes",
+    "notre-même"
+   ],
+   "a": 1,
+   "why": "Plural pronoun: nous-mêmes, with a hyphen and an s."
+  },
+  {
+   "t": "mcq",
+   "q": "Il faut le faire ___.",
+   "options": [
+    "lui-même",
+    "soi-même",
+    "se-même",
+    "eux-mêmes"
+   ],
+   "a": 1,
+   "why": "With an impersonal subject (il faut), use soi-même."
+  },
+  {
+   "t": "mcq",
+   "q": "In 'Même les enfants ont ri', même means…",
+   "options": [
+    "same",
+    "themselves",
+    "even",
+    "anyway"
+   ],
+   "a": 2,
+   "why": "Even the children laughed."
+  },
+  {
+   "t": "mcq",
+   "q": "Someone calls asking for you. A natural Quebec answer is…",
+   "options": [
+    "C'est moi-même.",
+    "Je suis même.",
+    "Moi-même suis là.",
+    "C'est même moi."
+   ],
+   "a": 0,
+   "why": "C'est moi-même = Speaking."
+  },
+  {
+   "t": "fill",
+   "q": "Elle a écrit la lettre ___. (herself)",
+   "a": [
+    "elle-même"
+   ],
+   "en": "She wrote the letter herself.",
+   "why": "Stressed pronoun + -même."
+  },
+  {
+   "t": "fill",
+   "q": "Les étudiants ont organisé la fête ___. (themselves)",
+   "a": [
+    "eux-mêmes"
+   ],
+   "en": "The students organized the party themselves.",
+   "why": "Masculine or mixed plural: eux-mêmes."
+  },
+  {
+   "t": "fill",
+   "q": "On a eu la ___ idée! (same)",
+   "a": [
+    "même"
+   ],
+   "en": "We had the same idea!",
+   "why": "Même before a noun = same."
+  },
+  {
+   "t": "fill",
+   "q": "Il a démissionné de ___. (of his own accord)",
+   "a": [
+    "lui-même"
+   ],
+   "en": "He resigned of his own accord.",
+   "why": "De lui-même = voluntarily."
+  },
+  {
+   "t": "build",
+   "en": "I fixed it myself.",
+   "a": "Je l'ai réparé moi-même."
+  },
+  {
+   "t": "build",
+   "en": "Even my father laughed.",
+   "a": "Même mon père a ri."
+  },
+  {
+   "t": "build",
+   "en": "You can check for yourselves.",
+   "a": "Vous pouvez vérifier vous-mêmes."
+  },
+  {
+   "t": "translate",
+   "en": "Did you make it yourself?",
+   "a": [
+    "Tu l'as fait toi-même?",
+    "Vous l'avez fait vous-même?",
+    "L'as-tu fait toi-même?",
+    "L'avez-vous fait vous-même?",
+    "Est-ce que tu l'as fait toi-même?",
+    "Est-ce que vous l'avez fait vous-même?"
+   ],
+   "why": "Match the -même form to tu or vous."
+  },
+  {
+   "t": "translate",
+   "en": "The director himself came.",
+   "a": [
+    "Le directeur lui-même est venu.",
+    "Le directeur est venu lui-même."
+   ],
+   "why": "Noun + lui-même = in person."
+  },
+  {
+   "t": "translate",
+   "en": "I'm going anyway.",
+   "a": [
+    "J'y vais quand même.",
+    "J'y vais tout de même.",
+    "J'y vais pareil."
+   ],
+   "why": "Quand même is standard; pareil is casual Quebec."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "moi-même",
+   "en": "myself",
+   "ex": "Je l'ai fait moi-même."
+  },
+  {
+   "fr": "soi-même",
+   "en": "oneself, yourself (general)",
+   "ex": "Il faut le voir soi-même."
+  },
+  {
+   "fr": "eux-mêmes / elles-mêmes",
+   "en": "themselves",
+   "ex": "Ils l'ont dit eux-mêmes."
+  },
+  {
+   "fr": "le / la même",
+   "en": "the same",
+   "ex": "C'est toujours la même histoire."
+  },
+  {
+   "fr": "même",
+   "en": "even",
+   "ex": "Même lui était d'accord."
+  },
+  {
+   "fr": "quand même",
+   "en": "anyway, still",
+   "ex": "C'est cher, mais je l'achète quand même."
+  },
+  {
+   "fr": "par soi-même",
+   "en": "on one's own",
+   "ex": "J'ai appris par moi-même."
+  },
+  {
+   "fr": "en personne",
+   "en": "in person",
+   "ex": "Le ministre est venu en personne."
+  },
+  {
+   "fr": "chacun pour soi",
+   "en": "every man for himself",
+   "ex": "Dans le trafic, c'est chacun pour soi."
+  },
+  {
+   "fr": "réparer",
+   "en": "to repair, to fix",
+   "ex": "Il répare son vélo lui-même."
+  },
+  {
+   "fr": "le cabanon",
+   "en": "garden shed",
+   "g": "m",
+   "ex": "On a construit un cabanon."
+  },
+  {
+   "fr": "la rénovation",
+   "en": "renovation",
+   "g": "f",
+   "ex": "Les rénovations coûtent cher."
+  },
+  {
+   "fr": "pareil",
+   "en": "anyway; the same",
+   "ex": "Il pleut, mais on sort pareil.",
+   "qc": true
+  },
+  {
+   "fr": "itou",
+   "en": "also, too",
+   "ex": "Moi itou, j'ai faim.",
+   "qc": true
+  },
+  {
+   "fr": "vous de même",
+   "en": "same to you",
+   "ex": "Bonne soirée! — Vous de même!"
+  },
+  {
+   "fr": "démissionner",
+   "en": "to resign, to quit",
+   "ex": "Elle a démissionné de son poste."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "moi-même",
+    "tip": "mwa-MÈM: même has an open 'è'."
+   },
+   {
+    "fr": "eux-mêmes",
+    "tip": "eu-MÈM: the s is silent, it sounds just like the singular."
+   },
+   {
+    "fr": "soi-même",
+    "tip": "swa-MÈM: same sound as moi-même with s."
+   },
+   {
+    "fr": "nous-mêmes",
+    "tip": "noo-MÈM: no liaison before a consonant."
+   },
+   {
+    "fr": "quand même",
+    "tip": "kan-MÈM: no liaison."
+   },
+   {
+    "fr": "c'est moi-même",
+    "tip": "sè mwa-MÈM, smooth and polite on the phone."
+   }
+  ],
+  "title": "Le cabanon",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Allô?",
+    "en": "Hello?"
+   },
+   {
+    "s": "B",
+    "fr": "Bonjour, est-ce que je pourrais parler à Luc Gagnon?",
+    "en": "Hello, could I speak to Luc Gagnon?"
+   },
+   {
+    "s": "A",
+    "fr": "C'est moi-même.",
+    "en": "Speaking."
+   },
+   {
+    "s": "B",
+    "fr": "Ici Karine, ta voisine! J'ai vu ton nouveau cabanon. Tu l'as acheté où?",
+    "en": "It's Karine, your neighbour! I saw your new shed. Where did you buy it?"
+   },
+   {
+    "s": "A",
+    "fr": "Je ne l'ai pas acheté, je l'ai construit moi-même!",
+    "en": "I didn't buy it, I built it myself!"
+   },
+   {
+    "s": "B",
+    "fr": "Voyons donc! Même le toit?",
+    "en": "No way! Even the roof?"
+   },
+   {
+    "s": "A",
+    "fr": "Même le toit. Mon fils m'a aidé un peu, mais on a presque tout fait nous-mêmes.",
+    "en": "Even the roof. My son helped a bit, but we did almost everything ourselves."
+   },
+   {
+    "s": "B",
+    "fr": "Bravo! Il faut le faire soi-même pour être fier, hein?",
+    "en": "Bravo! You have to do it yourself to be proud, right?"
+   },
+   {
+    "s": "A",
+    "fr": "Exactement. Bonne fin de semaine, Karine!",
+    "en": "Exactly. Have a good weekend, Karine!"
+   },
+   {
+    "s": "B",
+    "fr": "Toi pareil!",
+    "en": "You too!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "How does Luc answer when Karine asks for him?",
+    "options": [
+     "Who's calling?",
+     "Speaking.",
+     "He's not here."
+    ],
+    "a": 1
+   },
+   {
+    "q": "Where did the shed come from?",
+    "options": [
+     "A hardware store",
+     "Luc built it",
+     "A neighbour gave it"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Who helped Luc?",
+    "options": [
+     "Karine",
+     "His son",
+     "Nobody"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Name three things you did yourself recently (cooked, fixed, organized).",
+   "model": "J'ai fait mon pain moi-même, j'ai réparé mon vélo moi-même et j'ai organisé mon voyage par moi-même."
+  },
+  {
+   "prompt": "Answer a phone call where someone asks for you by name.",
+   "model": "Oui, c'est moi-même. Qu'est-ce que je peux faire pour vous?"
+  },
+  {
+   "prompt": "Give advice using 'Il faut … soi-même' or 'On est mieux …'.",
+   "model": "Pour apprendre une langue, il faut parler soi-même, pas juste écouter. Et l'hiver, on est mieux chez soi!"
+  },
+  {
+   "prompt": "Reply to 'Bonne fin de semaine!' in three ways: casual Quebec, polite, and standard.",
+   "model": "Toi pareil! / Vous de même! / Toi aussi!"
+  }
+ ],
+ "write": {
+  "prompt": "Write 6–8 sentences about a project you (or your family) did yourselves: renovation, a meal, a trip. Use at least four -même forms and one 'même' meaning 'even'.",
+  "model": "L'été passé, on a rénové notre sous-sol nous-mêmes. Mon mari a posé le plancher lui-même. Moi, j'ai peint les murs moi-même, même le plafond! Les enfants ont choisi eux-mêmes la couleur de leur chambre. Mon beau-père, qui est électricien, est venu en personne pour vérifier l'électricité. Ça nous a pris trois mois, mais on est vraiment fiers. Quand on fait les choses soi-même, on les apprécie encore plus."
+ },
+ "quiz": [
+  {
+   "q": "What is the emphatic form for 'ils'?",
+   "options": [
+    "ils-mêmes",
+    "eux-mêmes",
+    "leur-même",
+    "se-mêmes"
+   ],
+   "a": 1,
+   "why": "Stressed pronoun eux + -mêmes."
+  },
+  {
+   "q": "'Je me lave' vs 'Je l'ai lavé moi-même': which is reflexive?",
+   "options": [
+    "Je me lave",
+    "Je l'ai lavé moi-même",
+    "Both",
+    "Neither"
+   ],
+   "a": 0,
+   "why": "Me is reflexive; moi-même is emphasis."
+  },
+  {
+   "q": "Which subject goes with soi?",
+   "options": [
+    "je",
+    "on / chacun",
+    "vous",
+    "ils"
+   ],
+   "a": 1,
+   "why": "Soi refers to an unspecified subject: on, chacun, tout le monde."
+  },
+  {
+   "q": "'Il a fait ça de lui-même' means…",
+   "options": [
+    "He did it alone.",
+    "He did it of his own accord.",
+    "He did it to himself.",
+    "He did the same thing."
+   ],
+   "a": 1,
+   "why": "De lui-même = voluntarily, without being asked."
+  },
+  {
+   "q": "In 'les mêmes problèmes', même means…",
+   "options": [
+    "even",
+    "same",
+    "themselves",
+    "anyway"
+   ],
+   "a": 1,
+   "why": "Article + même + noun = same."
+  },
+  {
+   "q": "Which is correct for several people you address as vous?",
+   "options": [
+    "vous-même",
+    "vous-mêmes",
+    "vous même",
+    "vos-mêmes"
+   ],
+   "a": 1,
+   "why": "Plural: vous-mêmes."
+  },
+  {
+   "q": "'J'y vas pareil' in Quebec means…",
+   "options": [
+    "I go the same way.",
+    "I'm going anyway.",
+    "I'm going too.",
+    "I went there."
+   ],
+   "a": 1,
+   "why": "Pareil = quand même in casual Quebec speech."
+  },
+  {
+   "q": "What does 'itou' mean?",
+   "options": [
+    "also",
+    "here",
+    "everything",
+    "already"
+   ],
+   "a": 0,
+   "why": "Itou is an old word for aussi, still heard in Quebec."
+  },
+  {
+   "q": "Which is a polite reply to 'Bonne journée!'?",
+   "options": [
+    "Vous de même!",
+    "Moi-même!",
+    "Chacun pour soi!",
+    "Quand même!"
+   ],
+   "a": 0,
+   "why": "Vous de même = same to you."
+  }
+ ]
+}

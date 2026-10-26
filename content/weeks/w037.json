@@ -1,0 +1,662 @@
+{
+ "w": 37,
+ "title": "Clothing and shopping",
+ "goal": "By the end of this lesson you can name everyday and winter clothing, describe what people wear, point at items with ce / cette / ces, and handle a shopping conversation in a Quebec store, including Quebec words like tuque, mitaines, bas and chandail.",
+ "learn": [
+  {
+   "h": "Clothes: the essentials",
+   "body": [
+    "Learn each item with its article: *le pantalon* (pants, singular in French!), *le jean / les jeans*, *la chemise* (shirt), *le t-shirt*, *la robe* (dress), *la jupe* (skirt), *le manteau* (coat), *la veste* (jacket), *les bottes* (boots).",
+    "Quebec has its own everyday words: *le chandail* (sweater or top), *les souliers* (shoes), *les bas* (socks), *le foulard* (scarf), *le coton ouaté* (hoodie, sweatshirt)."
+   ],
+   "table": {
+    "head": [
+     "Quebec",
+     "France",
+     "English"
+    ],
+    "rows": [
+     [
+      "le chandail",
+      "le pull",
+      "sweater, top"
+     ],
+     [
+      "les souliers",
+      "les chaussures",
+      "shoes"
+     ],
+     [
+      "les bas",
+      "les chaussettes",
+      "socks"
+     ],
+     [
+      "la tuque",
+      "le bonnet",
+      "toque, winter hat"
+     ],
+     [
+      "les mitaines",
+      "les moufles",
+      "mittens"
+     ],
+     [
+      "le foulard",
+      "l'écharpe",
+      "scarf"
+     ]
+    ]
+   },
+   "tip": "In France, 'bas' means stockings and 'mitaines' are fingerless gloves: in Quebec they're socks and mittens."
+  },
+  {
+   "h": "Wearing and putting on",
+   "body": [
+    "*Porter* = to wear (a state): *Elle porte une robe rouge.* *Mettre* = to put on (an action): *Mets ta tuque!* *S'habiller* = to get dressed. *Enlever* = to take off: *Enlève tes bottes.*",
+    "Colours and adjectives go after the noun and agree: *une tuque noire*, *des bas blancs*, *un manteau chaud*. Remember *beau / belle* goes before: *un beau chandail*."
+   ]
+  },
+  {
+   "h": "This, that, these: ce, cet, cette, ces",
+   "body": [
+    "To point at things in a store, use demonstrative adjectives: *ce* (masculine), *cet* (masculine before a vowel), *cette* (feminine), *ces* (plural).",
+    "Add *-ci* (this here) or *-là* (that there) to contrast: *ce chandail-ci ou ce chandail-là?* In Quebec speech, *-là* is used constantly: *C'te chandail-là.*"
+   ],
+   "table": {
+    "head": [
+     "Form",
+     "Use",
+     "Example"
+    ],
+    "rows": [
+     [
+      "ce",
+      "masculine",
+      "ce manteau"
+     ],
+     [
+      "cet",
+      "masculine + vowel / h",
+      "cet anorak"
+     ],
+     [
+      "cette",
+      "feminine",
+      "cette robe"
+     ],
+     [
+      "ces",
+      "plural",
+      "ces bottes"
+     ]
+    ]
+   },
+   "tip": "Ce, cet, cette all sound almost the same in speech: [sè(t)]."
+  },
+  {
+   "h": "In the store",
+   "body": [
+    "*Je cherche un manteau.* (I'm looking for a coat.) *Vous avez ça en noir?* *Quelle taille?* (What size?) *Je porte du medium / du dix.* *Je peux essayer ce chandail?* (Can I try on this sweater?) *Où sont les cabines d'essayage?*",
+    "*Combien ça coûte?* / *C'est combien?* *C'est en solde.* (It's on sale.) *Je vais le prendre.* (I'll take it.) At the cash: *Comptant ou carte?* (Cash or card?)"
+   ]
+  },
+  {
+   "h": "Quebec: magasiner for winter",
+   "body": [
+    "Remember *magasiner* (to go shopping) from lesson 33. Winter shopping means *une tuque*, *des mitaines*, *des bottes d'hiver* and *un habit de neige* (snowsuit). Stores announce *les soldes de l'après-Noël* and *le Vendredi fou* (Black Friday)."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Je cherche un manteau d'hiver.",
+   "en": "I'm looking for a winter coat."
+  },
+  {
+   "fr": "Elle porte une robe bleue.",
+   "en": "She's wearing a blue dress."
+  },
+  {
+   "fr": "Mets ta tuque et tes mitaines!",
+   "en": "Put on your toque and mittens!"
+  },
+  {
+   "fr": "J'ai acheté des bas chauds.",
+   "en": "I bought warm socks.",
+   "note": "bas = socks in Quebec"
+  },
+  {
+   "fr": "Enlève tes souliers, s'il te plaît.",
+   "en": "Take off your shoes, please."
+  },
+  {
+   "fr": "Ce chandail est trop grand.",
+   "en": "This sweater is too big."
+  },
+  {
+   "fr": "Cette jupe est en solde.",
+   "en": "This skirt is on sale."
+  },
+  {
+   "fr": "Ces bottes coûtent cent dollars.",
+   "en": "These boots cost a hundred dollars."
+  },
+  {
+   "fr": "Cet anorak est très chaud.",
+   "en": "This parka is very warm.",
+   "note": "cet before a vowel"
+  },
+  {
+   "fr": "Je peux essayer ce pantalon?",
+   "en": "Can I try on these pants?",
+   "note": "pantalon is singular in French"
+  },
+  {
+   "fr": "Vous avez ça en noir?",
+   "en": "Do you have this in black?"
+  },
+  {
+   "fr": "Je porte du medium.",
+   "en": "I wear a medium."
+  },
+  {
+   "fr": "C'est combien, ce foulard?",
+   "en": "How much is this scarf?"
+  },
+  {
+   "fr": "Il porte toujours un coton ouaté gris.",
+   "en": "He always wears a grey hoodie."
+  },
+  {
+   "fr": "Je vais magasiner des bottes samedi.",
+   "en": "I'm going shopping for boots on Saturday."
+  },
+  {
+   "fr": "Comptant ou carte?",
+   "en": "Cash or card?"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebec clothing words differ from France in ways that can confuse: bas are socks, mitaines are mittens, a chandail is a sweater, and a tuque is the winter hat everyone owns.",
+  "items": [
+   {
+    "std": "un bonnet",
+    "qc": "une tuque",
+    "en": "a toque, winter hat",
+    "note": "neutral in Quebec, used by everyone"
+   },
+   {
+    "std": "des moufles",
+    "qc": "des mitaines",
+    "en": "mittens",
+    "note": "in France, mitaines = fingerless gloves"
+   },
+   {
+    "std": "des chaussettes",
+    "qc": "des bas",
+    "en": "socks",
+    "note": "in France, bas = stockings"
+   },
+   {
+    "std": "un pull",
+    "qc": "un chandail",
+    "en": "a sweater, a top",
+    "note": "neutral; also a hockey jersey"
+   },
+   {
+    "std": "un sweat à capuche",
+    "qc": "un coton ouaté",
+    "en": "a hoodie, a sweatshirt",
+    "note": "neutral Quebec term"
+   },
+   {
+    "std": "Ce chandail est beau.",
+    "qc": "C'te chandail-là est beau.",
+    "en": "That sweater is nice.",
+    "note": "informal: ce/cette → c'te, plus -là"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "In Quebec, 'des bas' are…",
+   "options": [
+    "stockings",
+    "socks",
+    "low shoes",
+    "shorts"
+   ],
+   "a": 1,
+   "why": "Bas = socks in Quebec."
+  },
+  {
+   "t": "mcq",
+   "q": "___ robe est belle.",
+   "options": [
+    "Ce",
+    "Cet",
+    "Cette",
+    "Ces"
+   ],
+   "a": 2,
+   "why": "Robe is feminine: cette."
+  },
+  {
+   "t": "mcq",
+   "q": "___ anorak est chaud.",
+   "options": [
+    "Ce",
+    "Cet",
+    "Cette",
+    "Ces"
+   ],
+   "a": 1,
+   "why": "Masculine before a vowel: cet."
+  },
+  {
+   "t": "mcq",
+   "q": "'Porter' means…",
+   "options": [
+    "to carry only",
+    "to wear",
+    "to put on",
+    "to take off"
+   ],
+   "a": 1,
+   "why": "Porter = to wear (also to carry)."
+  },
+  {
+   "t": "fill",
+   "q": "Mets ta ___ ! (toque)",
+   "a": [
+    "tuque"
+   ],
+   "en": "Put on your toque!",
+   "why": "La tuque = winter hat."
+  },
+  {
+   "t": "fill",
+   "q": "___ bottes coûtent cent dollars.",
+   "a": [
+    "Ces"
+   ],
+   "en": "These boots cost a hundred dollars.",
+   "why": "Plural: ces."
+  },
+  {
+   "t": "fill",
+   "q": "Elle porte une robe ___ . (blue)",
+   "a": [
+    "bleue"
+   ],
+   "en": "She's wearing a blue dress.",
+   "why": "Bleu + e for feminine."
+  },
+  {
+   "t": "fill",
+   "q": "Je peux ___ ce chandail? (to try on)",
+   "a": [
+    "essayer"
+   ],
+   "en": "Can I try on this sweater?",
+   "why": "essayer = to try (on)."
+  },
+  {
+   "t": "build",
+   "en": "I'm looking for a winter coat.",
+   "a": "Je cherche un manteau d'hiver."
+  },
+  {
+   "t": "build",
+   "en": "Do you have this in black?",
+   "a": "Vous avez ça en noir?"
+  },
+  {
+   "t": "build",
+   "en": "Take off your shoes, please.",
+   "a": "Enlève tes souliers, s'il te plaît."
+  },
+  {
+   "t": "translate",
+   "en": "How much is this sweater?",
+   "a": [
+    "C'est combien, ce chandail?",
+    "Combien coûte ce chandail?",
+    "Ce chandail coûte combien?",
+    "C'est combien ce chandail?",
+    "Combien ça coûte, ce chandail?",
+    "C'est combien, ce pull?",
+    "Combien coûte ce pull?"
+   ],
+   "why": "Chandail is masculine: ce chandail."
+  },
+  {
+   "t": "translate",
+   "en": "I bought mittens.",
+   "a": [
+    "J'ai acheté des mitaines.",
+    "J'ai acheté des moufles."
+   ],
+   "why": "Quebec: mitaines; France: moufles."
+  },
+  {
+   "t": "translate",
+   "en": "She's wearing a red skirt.",
+   "a": [
+    "Elle porte une jupe rouge."
+   ],
+   "why": "porter + noun + colour after."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "le manteau",
+   "en": "coat",
+   "g": "m",
+   "ex": "Un manteau d'hiver."
+  },
+  {
+   "fr": "le pantalon",
+   "en": "pants, trousers",
+   "g": "m",
+   "ex": "Ce pantalon est trop long."
+  },
+  {
+   "fr": "la chemise",
+   "en": "shirt",
+   "g": "f",
+   "ex": "Une chemise blanche."
+  },
+  {
+   "fr": "la robe",
+   "en": "dress",
+   "g": "f",
+   "ex": "Elle porte une robe verte."
+  },
+  {
+   "fr": "la jupe",
+   "en": "skirt",
+   "g": "f",
+   "ex": "Cette jupe est en solde."
+  },
+  {
+   "fr": "les bottes",
+   "en": "boots",
+   "g": "f",
+   "ex": "Des bottes d'hiver."
+  },
+  {
+   "fr": "le chandail",
+   "en": "sweater, top",
+   "g": "m",
+   "ex": "Un chandail de laine.",
+   "qc": true
+  },
+  {
+   "fr": "les souliers",
+   "en": "shoes",
+   "g": "m",
+   "ex": "Enlève tes souliers.",
+   "qc": true
+  },
+  {
+   "fr": "les bas",
+   "en": "socks",
+   "g": "m",
+   "ex": "J'ai froid aux pieds, donne-moi des bas.",
+   "qc": true
+  },
+  {
+   "fr": "la tuque",
+   "en": "toque, winter hat",
+   "g": "f",
+   "ex": "Une tuque du Canadien.",
+   "qc": true
+  },
+  {
+   "fr": "les mitaines",
+   "en": "mittens",
+   "g": "f",
+   "ex": "Mets tes mitaines!",
+   "qc": true
+  },
+  {
+   "fr": "le foulard",
+   "en": "scarf",
+   "g": "m",
+   "ex": "Un foulard de laine.",
+   "qc": true
+  },
+  {
+   "fr": "porter",
+   "en": "to wear",
+   "ex": "Il porte des lunettes."
+  },
+  {
+   "fr": "essayer",
+   "en": "to try (on)",
+   "ex": "Je peux essayer?"
+  },
+  {
+   "fr": "la taille",
+   "en": "size (clothes)",
+   "g": "f",
+   "ex": "Quelle taille?"
+  },
+  {
+   "fr": "en solde",
+   "en": "on sale",
+   "ex": "Tout est en solde!"
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "la tuque",
+    "tip": "la-TSÜK: Quebec ts before ü."
+   },
+   {
+    "fr": "les mitaines",
+    "tip": "lay-mee-TÈNN."
+   },
+   {
+    "fr": "le chandail",
+    "tip": "luh-shahn-DAÏ: ail sounds like 'eye'."
+   },
+   {
+    "fr": "les souliers",
+    "tip": "lay-soo-LYÉ."
+   },
+   {
+    "fr": "cette, cet",
+    "tip": "Both [sètt]."
+   },
+   {
+    "fr": "essayer",
+    "tip": "é-sè-YÉ."
+   }
+  ],
+  "title": "À la boutique",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Bonjour! Je peux vous aider?",
+    "en": "Hello! Can I help you?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, je cherche un manteau d'hiver et une tuque.",
+    "en": "Yes, I'm looking for a winter coat and a toque."
+   },
+   {
+    "s": "A",
+    "fr": "Quelle taille?",
+    "en": "What size?"
+   },
+   {
+    "s": "B",
+    "fr": "Je porte du medium. Vous avez ce manteau-là en noir?",
+    "en": "I wear a medium. Do you have that coat in black?"
+   },
+   {
+    "s": "A",
+    "fr": "Oui. Les cabines d'essayage sont au fond. Et les tuques sont en solde, vingt pour cent.",
+    "en": "Yes. The fitting rooms are at the back. And the toques are on sale, twenty percent off."
+   },
+   {
+    "s": "B",
+    "fr": "Parfait. Je vais prendre le manteau et cette tuque grise.",
+    "en": "Perfect. I'll take the coat and this grey toque."
+   },
+   {
+    "s": "A",
+    "fr": "Ça fait deux cent dix dollars. Comptant ou carte?",
+    "en": "That's two hundred ten dollars. Cash or card?"
+   },
+   {
+    "s": "B",
+    "fr": "Carte, s'il vous plaît.",
+    "en": "Card, please."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What size does B wear?",
+    "options": [
+     "Small",
+     "Medium",
+     "Large"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What is on sale?",
+    "options": [
+     "Coats",
+     "Toques",
+     "Mittens"
+    ],
+    "a": 1
+   },
+   {
+    "q": "How does B pay?",
+    "options": [
+     "Cash",
+     "Card",
+     "Cheque"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Describe what you are wearing today, with colours.",
+   "model": "Aujourd'hui, je porte un jean bleu, un chandail gris et des souliers noirs."
+  },
+  {
+   "prompt": "You're in a store: ask for a size, a colour and the price.",
+   "model": "Vous avez ce chandail en medium? En rouge? C'est combien?"
+  },
+  {
+   "prompt": "Tell a child what to put on before going out in winter.",
+   "model": "Mets ton manteau, ta tuque, tes mitaines et tes bottes. Il fait frette!"
+  }
+ ],
+ "write": {
+  "prompt": "Write 6 sentences about a shopping trip: what you looked for, tried on, bought and paid.",
+  "model": "Samedi, je suis allé magasiner au centre-ville. J'ai cherché des bottes d'hiver. J'ai essayé trois paires. J'ai choisi des bottes noires très chaudes. J'ai aussi acheté des bas de laine et une tuque. Tout est en solde cette semaine, alors j'ai payé seulement cent vingt dollars."
+ },
+ "quiz": [
+  {
+   "q": "'Les mitaines' in Quebec are…",
+   "options": [
+    "fingerless gloves",
+    "mittens",
+    "socks",
+    "kittens"
+   ],
+   "a": 1,
+   "why": "Quebec mitaines = mittens."
+  },
+  {
+   "q": "France word for Quebec 'souliers':",
+   "options": [
+    "chaussures",
+    "sandales",
+    "bottes",
+    "pantoufles"
+   ],
+   "a": 0,
+   "why": "Souliers = chaussures (shoes)."
+  },
+  {
+   "q": "'Le pantalon' is…",
+   "options": [
+    "always plural",
+    "singular in French",
+    "feminine",
+    "a shirt"
+   ],
+   "a": 1,
+   "why": "Un pantalon = a pair of pants."
+  },
+  {
+   "q": "Mettre vs porter: 'Put on your coat!'",
+   "options": [
+    "Porte ton manteau!",
+    "Mets ton manteau!",
+    "Enlève ton manteau!",
+    "Essaie ton manteau!"
+   ],
+   "a": 1,
+   "why": "Mettre = put on; porter = wear."
+  },
+  {
+   "q": "'Cet' is used before…",
+   "options": [
+    "feminine nouns",
+    "plural nouns",
+    "masculine nouns starting with a vowel",
+    "all nouns"
+   ],
+   "a": 2,
+   "why": "cet ami, cet anorak, cet hiver."
+  },
+  {
+   "q": "'C'est en solde' means…",
+   "options": [
+    "It's sold out",
+    "It's on sale",
+    "It's sold",
+    "It's for sale"
+   ],
+   "a": 1,
+   "why": "En solde = discounted."
+  },
+  {
+   "q": "Quebec 'coton ouaté' is…",
+   "options": [
+    "cotton wool",
+    "a hoodie / sweatshirt",
+    "a cotton dress",
+    "a towel"
+   ],
+   "a": 1,
+   "why": "Coton ouaté = sweatshirt / hoodie."
+  },
+  {
+   "q": "'Quelle taille?' asks…",
+   "options": [
+    "What colour?",
+    "What size?",
+    "What price?",
+    "What style?"
+   ],
+   "a": 1,
+   "why": "Taille = size."
+  }
+ ]
+}

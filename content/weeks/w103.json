@@ -1,0 +1,645 @@
+{
+ "w": 103,
+ "title": "Review and checkpoint 6",
+ "goal": "By the end of this lesson you can combine the subjunctive, conjunctions, relative pronouns, the passive, indirect speech and cause-effect language from lessons 85–102, and summarize a short Radio-Canada news segment.",
+ "learn": [
+  {
+   "h": "The subjunctive (lessons 85–87, 90)",
+   "body": [
+    "Formation: *ils* stem + *-e, -es, -e, -ions, -iez, -ent*; two-stem verbs (*vienne / venions*); irregulars *être, avoir, aller, faire, pouvoir, savoir, vouloir*.",
+    "Triggers: wishes (*vouloir que, souhaiter que*), emotion (*content que, avoir peur que*), necessity (*il faut que, il est important que*), doubt (*douter que, ne pas penser que, il est possible que*), and conjunctions *avant que, jusqu'à ce que, bien que, pour que*.",
+    "Indicative instead: *espérer que, penser que* (affirmative), *il est probable que, après que, dès que*. Same subject → infinitive: *Je veux partir*, *avant de partir*."
+   ],
+   "table": {
+    "head": [
+     "+ subjunctive",
+     "+ indicative"
+    ],
+    "rows": [
+     [
+      "Il faut que tu viennes.",
+      "Je sais que tu viens."
+     ],
+     [
+      "Je doute qu'il ait raison.",
+      "Je pense qu'il a raison."
+     ],
+     [
+      "Il est possible qu'il neige.",
+      "Il est probable qu'il neigera."
+     ],
+     [
+      "avant qu'il parte",
+      "après qu'il est parti"
+     ],
+     [
+      "souhaiter que",
+      "espérer que"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Linking ideas (lessons 88–90, 100)",
+   "body": [
+    "Coordination: *mais, ou, et, donc, or, ni, car*. Subordination: *parce que, puisque, comme, quand, si, même si, dès que, pendant que, depuis que*.",
+    "Future after *quand / dès que* when the meaning is future; *si* + present, never the future.",
+    "Cause: *à cause de* (negative), *grâce à* (positive), *en raison de* (formal), *vu que*. Consequence: *donc, c'est pour ça que, par conséquent, si bien que*. Quebec speech: *faque / ça fait que*, *pis*, *à cause que*."
+   ]
+  },
+  {
+   "h": "Relative pronouns and 'what' (lessons 91–93)",
+   "body": [
+    "*qui* (subject), *que* (object), *dont* (de + noun, whose), *où* (place and time), *lequel / auquel / duquel* after prepositions for things, *qui* after prepositions for people.",
+    "*ce qui / ce que / ce dont* = what: *Ce qui m'énerve, c'est le trafic. Ce dont j'ai besoin, c'est de repos.*",
+    "Quebec speech often uses *que* for everything (*le gars que j'te parlais*) and *c'est ça que*; write *dont* and *ce que*."
+   ]
+  },
+  {
+   "h": "Verb structures (lessons 94–96)",
+   "body": [
+    "Infinitive patterns: no preposition (*vouloir*), *à* (*commencer à*), *de* (*essayer de*); *sans / pour / au lieu de* + infinitive; *être en train de*.",
+    "Passive: *être* + agreeing participle; *par* or *de*; alternatives *on*, pronominal passive, *se faire* + infinitive (*Je me suis fait voler*).",
+    "Indefinites: *quelqu'un, quelque chose, personne, rien, chacun, n'importe qui*; *quelque chose de bon*; *Je n'ai rien vu / Je n'ai vu personne*."
+   ]
+  },
+  {
+   "h": "Reporting and reading news (lessons 97–102)",
+   "body": [
+    "Indirect speech: *dire que*, *demander si*, *ce que / ce qui*, *dire de* + infinitive. After a past verb: présent → imparfait, passé composé → plus-que-parfait, futur → conditionnel, *demain* → *le lendemain*.",
+    "News French uses nominalization (*Hausse des loyers*, *Fermeture du pont*) and long sentences: find the conjugated verbs, bracket the subordinate clauses, keep the main clause.",
+    "Checkpoint task: listen to a two-minute Radio-Canada segment (Ohdio or Le Téléjournal), note who, what, where, when, why, then summarize it in 5–6 sentences using indirect speech."
+   ],
+   "tip": "Summary formula: Selon Radio-Canada, … Le ministre a annoncé que … Il a expliqué que … C'est pourquoi …"
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Il faut que vous soyez prêts avant que le train parte.",
+   "en": "You have to be ready before the train leaves.",
+   "note": "lessons 85, 90: two subjunctives"
+  },
+  {
+   "fr": "Je suis contente que tu puisses venir.",
+   "en": "I'm glad you can come.",
+   "note": "lesson 86: emotion + subjunctive"
+  },
+  {
+   "fr": "Je ne pense pas qu'il ait raison, mais j'espère qu'il viendra.",
+   "en": "I don't think he's right, but I hope he'll come.",
+   "note": "lesson 87: subjunctive vs indicative"
+  },
+  {
+   "fr": "Il neigeait, donc on est restés chez nous.",
+   "en": "It was snowing, so we stayed home.",
+   "note": "lesson 88; Quebec speech: faque"
+  },
+  {
+   "fr": "Dès que j'aurai fini, je t'appellerai.",
+   "en": "As soon as I've finished, I'll call you.",
+   "note": "lesson 90: future after dès que"
+  },
+  {
+   "fr": "C'est le livre dont tout le monde parle.",
+   "en": "It's the book everyone is talking about.",
+   "note": "lesson 91: dont"
+  },
+  {
+   "fr": "Voilà la raison pour laquelle je suis parti.",
+   "en": "That's the reason why I left.",
+   "note": "lesson 92: pour laquelle"
+  },
+  {
+   "fr": "Ce qui m'inquiète, c'est le prix.",
+   "en": "What worries me is the price.",
+   "note": "lesson 93: ce qui"
+  },
+  {
+   "fr": "J'essaie d'apprendre à conduire sans stresser.",
+   "en": "I'm trying to learn to drive without stressing.",
+   "note": "lesson 94: de, à, sans + infinitive"
+  },
+  {
+   "fr": "Il s'est fait voler son vélo devant le cégep.",
+   "en": "He got his bike stolen in front of the CEGEP.",
+   "note": "lesson 95: se faire passive"
+  },
+  {
+   "fr": "Personne n'a rien dit.",
+   "en": "No one said anything.",
+   "note": "lesson 96: personne + rien"
+  },
+  {
+   "fr": "Le dépanneur est juste en face de l'église.",
+   "en": "The convenience store is right across from the church.",
+   "note": "lesson 97"
+  },
+  {
+   "fr": "Elle m'a demandé si je viendrais le lendemain.",
+   "en": "She asked me if I would come the next day.",
+   "note": "lesson 99: tense shift"
+  },
+  {
+   "fr": "Grâce aux bénévoles, la collecte a été un succès.",
+   "en": "Thanks to the volunteers, the fundraiser was a success.",
+   "note": "lesson 100"
+  },
+  {
+   "fr": "Hausse des tarifs d'électricité en avril",
+   "en": "Electricity rates go up in April",
+   "note": "lesson 101: headline nominalization"
+  },
+  {
+   "fr": "Selon Radio-Canada, la ministre a annoncé que les travaux commenceraient au printemps.",
+   "en": "According to Radio-Canada, the minister announced that the work would begin in the spring.",
+   "note": "lessons 99, 102: summary sentence"
+  }
+ ],
+ "quebec": {
+  "intro": "Checkpoint task: summarize a Radio-Canada segment. News anchors speak standard French; people interviewed in the segment often speak casual Quebec French. Practise turning what they say into standard reported speech.",
+  "items": [
+   {
+    "std": "Il dit qu'il ne peut pas payer son loyer.",
+    "qc": "Y dit qu'y est pus capable de payer son loyer.",
+    "en": "He says he can't pay his rent anymore.",
+    "note": "pus = plus; être capable de = pouvoir, common in Quebec"
+   },
+   {
+    "std": "Elle explique qu'elle a dû attendre six heures à l'urgence.",
+    "qc": "A dit qu'a l'a attendu six heures à l'urgence.",
+    "en": "She says she waited six hours in the ER.",
+    "note": "a = elle; a l'a = elle a"
+   },
+   {
+    "std": "Il affirme que la tempête a causé beaucoup de dégâts.",
+    "qc": "Y dit que la tempête a fait ben du dommage.",
+    "en": "He says the storm caused a lot of damage.",
+    "note": "ben du = beaucoup de; faire du dommage, Quebec"
+   },
+   {
+    "std": "Ils disent qu'il faut que le gouvernement agisse.",
+    "qc": "Faut que le gouvernement fasse de quoi, qu'y disent.",
+    "en": "They say the government has to do something.",
+    "note": "de quoi = quelque chose, informal Quebec"
+   },
+   {
+    "std": "Elle a dit que c'était la troisième fois cette année.",
+    "qc": "A m'a dit que c'tait la troisième fois c't'année.",
+    "en": "She told me it was the third time this year.",
+    "note": "c't'année = cette année in fast speech"
+   },
+   {
+    "std": "Donc, les résidents ont été évacués.",
+    "qc": "Faque les résidents se sont fait évacuer.",
+    "en": "So the residents were evacuated.",
+    "note": "faque + se faire passive"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Il faut que nous ___ à l'heure.",
+   "options": [
+    "sommes",
+    "soyons",
+    "serons",
+    "soyions"
+   ],
+   "a": 1,
+   "why": "Il faut que + subjunctive: soyons."
+  },
+  {
+   "t": "mcq",
+   "q": "J'espère que tu ___ bientôt.",
+   "options": [
+    "viennes",
+    "viendras",
+    "viendrais",
+    "venir"
+   ],
+   "a": 1,
+   "why": "Espérer que + indicative."
+  },
+  {
+   "t": "mcq",
+   "q": "C'est la ville ___ je suis né.",
+   "options": [
+    "dont",
+    "que",
+    "où",
+    "laquelle"
+   ],
+   "a": 2,
+   "why": "Place → où."
+  },
+  {
+   "t": "mcq",
+   "q": "« Je partirai demain. » (reported a week later) → Il a dit qu'il partirait ___.",
+   "options": [
+    "demain",
+    "le lendemain",
+    "la veille",
+    "hier"
+   ],
+   "a": 1,
+   "why": "Demain → le lendemain."
+  },
+  {
+   "t": "fill",
+   "q": "Je doute qu'il ___ la réponse. (savoir)",
+   "a": [
+    "sache"
+   ],
+   "en": "I doubt he knows the answer.",
+   "why": "Doubt → subjunctive."
+  },
+  {
+   "t": "fill",
+   "q": "Quand j'___ à Québec, je t'écrirai. (arriver)",
+   "a": [
+    "arriverai"
+   ],
+   "en": "When I get to Quebec City, I'll write to you.",
+   "why": "Future after quand."
+  },
+  {
+   "t": "fill",
+   "q": "___ j'ai besoin, c'est de vacances.",
+   "a": [
+    "Ce dont"
+   ],
+   "en": "What I need is a vacation.",
+   "why": "Avoir besoin de → ce dont."
+  },
+  {
+   "t": "fill",
+   "q": "Elle s'est ___ arrêter par la police.",
+   "a": [
+    "fait"
+   ],
+   "en": "She got arrested by the police.",
+   "why": "Se faire + infinitive; fait doesn't agree."
+  },
+  {
+   "t": "fill",
+   "q": "___ à ton aide, j'ai fini. (thanks)",
+   "a": [
+    "Grâce"
+   ],
+   "en": "Thanks to your help, I finished.",
+   "why": "Positive cause → grâce à."
+  },
+  {
+   "t": "build",
+   "en": "I'm glad you're here.",
+   "a": "Je suis content que tu sois là."
+  },
+  {
+   "t": "build",
+   "en": "He asked me what I wanted.",
+   "a": "Il m'a demandé ce que je voulais."
+  },
+  {
+   "t": "build",
+   "en": "No one knows when the bridge will reopen.",
+   "a": "Personne ne sait quand le pont rouvrira."
+  },
+  {
+   "t": "translate",
+   "en": "I don't think it's a good idea.",
+   "a": [
+    "Je ne pense pas que ce soit une bonne idée.",
+    "Je ne crois pas que ce soit une bonne idée.",
+    "Je pense pas que ce soit une bonne idée."
+   ],
+   "why": "Negative opinion → subjunctive."
+  },
+  {
+   "t": "translate",
+   "en": "She said she would come.",
+   "a": [
+    "Elle a dit qu'elle viendrait.",
+    "Elle m'a dit qu'elle viendrait.",
+    "Elle a dit qu'elle allait venir."
+   ],
+   "why": "Futur → conditionnel after a past reporting verb."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "le reportage",
+   "en": "news report, segment",
+   "g": "m",
+   "ex": "J'ai écouté un reportage sur la crise du logement."
+  },
+  {
+   "fr": "le bulletin de nouvelles",
+   "en": "newscast",
+   "g": "m",
+   "ex": "Le bulletin de nouvelles commence à 18 h.",
+   "qc": true
+  },
+  {
+   "fr": "l'animateur / l'animatrice",
+   "en": "host, anchor",
+   "ex": "L'animatrice pose une question au ministre."
+  },
+  {
+   "fr": "résumer",
+   "en": "to summarize",
+   "ex": "Résume le reportage en cinq phrases."
+  },
+  {
+   "fr": "le résumé",
+   "en": "summary",
+   "g": "m",
+   "ex": "Écris un résumé du reportage."
+  },
+  {
+   "fr": "selon",
+   "en": "according to",
+   "ex": "Selon les experts, …"
+  },
+  {
+   "fr": "annoncer",
+   "en": "to announce",
+   "ex": "Le gouvernement a annoncé un plan."
+  },
+  {
+   "fr": "déclarer",
+   "en": "to declare, to state",
+   "ex": "Le maire a déclaré que…"
+  },
+  {
+   "fr": "l'urgence",
+   "en": "emergency room",
+   "g": "f",
+   "ex": "Il a attendu à l'urgence."
+  },
+  {
+   "fr": "la crise du logement",
+   "en": "housing crisis",
+   "g": "f",
+   "ex": "La crise du logement touche Montréal."
+  },
+  {
+   "fr": "les dégâts",
+   "en": "damage",
+   "g": "m",
+   "ex": "La tempête a fait des dégâts."
+  },
+  {
+   "fr": "évacuer",
+   "en": "to evacuate",
+   "ex": "Les résidents ont été évacués."
+  },
+  {
+   "fr": "être capable de",
+   "en": "to be able to (often = pouvoir)",
+   "ex": "Chu pas capable de dormir.",
+   "qc": true
+  },
+  {
+   "fr": "de quoi",
+   "en": "something (informal)",
+   "ex": "Faut faire de quoi!",
+   "qc": true
+  },
+  {
+   "fr": "le citoyen / la citoyenne",
+   "en": "citizen, resident",
+   "ex": "Les citoyens sont inquiets."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "que nous soyons",
+    "tip": "swa-YON: no extra i."
+   },
+   {
+    "fr": "qu'il sache",
+    "tip": "keel-SASH."
+   },
+   {
+    "fr": "dont / donc",
+    "tip": "DON vs DONK (k often heard): don't confuse them."
+   },
+   {
+    "fr": "il viendrait / il viendra",
+    "tip": "-drè vs -dra: conditional vs future."
+   },
+   {
+    "fr": "faque",
+    "tip": "FAK."
+   },
+   {
+    "fr": "Y est pus capable",
+    "tip": "yé-pü-kap-AB: pus = plus, final l of capable often dropped."
+   }
+  ],
+  "title": "Résumer un reportage",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "As-tu écouté le reportage de Radio-Canada sur la crise du logement?",
+    "en": "Did you listen to the Radio-Canada report on the housing crisis?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui. Selon le reportage, les loyers ont augmenté de dix pour cent en un an.",
+    "en": "Yes. According to the report, rents went up ten percent in one year."
+   },
+   {
+    "s": "A",
+    "fr": "Qu'est-ce que les locataires ont dit?",
+    "en": "What did the tenants say?"
+   },
+   {
+    "s": "B",
+    "fr": "Une locataire a expliqué qu'elle devrait déménager si son loyer augmentait encore.",
+    "en": "One tenant explained that she would have to move if her rent went up again."
+   },
+   {
+    "s": "A",
+    "fr": "Et le gouvernement?",
+    "en": "And the government?"
+   },
+   {
+    "s": "B",
+    "fr": "La ministre a annoncé qu'on construirait cinq mille logements, mais les groupes doutent que ce soit suffisant.",
+    "en": "The minister announced that five thousand homes would be built, but groups doubt it's enough."
+   },
+   {
+    "s": "A",
+    "fr": "C'est pour ça que tout le monde en parle.",
+    "en": "That's why everyone's talking about it."
+   },
+   {
+    "s": "B",
+    "fr": "Exactement. Il faut que les solutions arrivent avant que le 1er juillet arrive!",
+    "en": "Exactly. The solutions need to come before July 1st arrives!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "By how much did rents rise?",
+    "options": [
+     "Five percent",
+     "Ten percent",
+     "Twenty percent"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What did the minister announce?",
+    "options": [
+     "A rent freeze",
+     "Five thousand new homes",
+     "A new tax"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What do the groups think?",
+    "options": [
+     "It's enough",
+     "It may not be enough",
+     "It's too much"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Checkpoint: listen to a 2-minute Radio-Canada segment. Summarize it aloud in 5–6 sentences with indirect speech.",
+   "model": "Selon Radio-Canada, la Ville de Montréal a annoncé qu'elle fermerait le pont pendant deux fins de semaine. Le porte-parole a expliqué que des réparations étaient urgentes. Il a ajouté que des navettes seraient offertes. Plusieurs citoyens ont dit qu'ils étaient fâchés. C'est pourquoi la ville demande aux gens d'utiliser le métro."
+  },
+  {
+   "prompt": "Give your opinion on the segment using one subjunctive trigger and one indicative trigger.",
+   "model": "Je pense que c'est nécessaire, mais je doute que les gens soient contents."
+  },
+  {
+   "prompt": "Turn this interview quote into standard reported speech: 'Chu pus capable de payer, faque j'm'en vas chez ma mère.'",
+   "model": "Il a dit qu'il ne pouvait plus payer et qu'il allait donc s'installer chez sa mère."
+  }
+ ],
+ "write": {
+  "prompt": "Write a 6–8 sentence summary of a Radio-Canada segment of your choice. Include: a headline (nominalization), indirect speech in the past, one relative clause with dont or où, one cause expression, and one subjunctive.",
+  "model": "Titre : Fermeture d'urgence de l'autoroute 15. Selon Radio-Canada, l'autoroute 15 a été fermée hier en raison d'un affaissement de la chaussée. Le ministère des Transports a expliqué que les inspecteurs avaient découvert une fissure importante. Un porte-parole a déclaré que la route resterait fermée jusqu'au lendemain. Les automobilistes dont le trajet passe par Laval ont été invités à prendre le train. Un camionneur a dit qu'il avait perdu trois heures. Il est important que le gouvernement investisse dans l'entretien des routes."
+ },
+ "quiz": [
+  {
+   "q": "Which trigger takes the indicative?",
+   "options": [
+    "Il faut que",
+    "Bien que",
+    "Il est probable que",
+    "Je doute que"
+   ],
+   "a": 2,
+   "why": "Probable = near-certain → indicative."
+  },
+  {
+   "q": "'Faque' means…",
+   "options": [
+    "because",
+    "so",
+    "although",
+    "if"
+   ],
+   "a": 1,
+   "why": "Faque = ça fait que = donc."
+  },
+  {
+   "q": "Le projet ___ je pense…",
+   "options": [
+    "dont",
+    "auquel",
+    "que",
+    "où"
+   ],
+   "a": 1,
+   "why": "Penser à → auquel."
+  },
+  {
+   "q": "Ce ___ m'intéresse, c'est l'histoire.",
+   "options": [
+    "que",
+    "qui",
+    "dont",
+    "quoi"
+   ],
+   "a": 1,
+   "why": "Subject of intéresse → ce qui."
+  },
+  {
+   "q": "'On m'a donné un livre' in English is…",
+   "options": [
+    "I gave a book",
+    "I was given a book",
+    "A book gave me",
+    "We gave him a book"
+   ],
+   "a": 1,
+   "why": "On replaces the impossible French passive with donner à."
+  },
+  {
+   "q": "Which is correct?",
+   "options": [
+    "Je n'ai vu rien.",
+    "Je n'ai rien vu.",
+    "Je n'ai pas rien vu.",
+    "Je rien ai vu."
+   ],
+   "a": 1,
+   "why": "Rien before the participle."
+  },
+  {
+   "q": "« J'ai perdu mes clés. » → Elle a dit qu'elle ___ ses clés.",
+   "options": [
+    "a perdu",
+    "avait perdu",
+    "perdrait",
+    "perde"
+   ],
+   "a": 1,
+   "why": "Passé composé → plus-que-parfait."
+  },
+  {
+   "q": "'Démission du ministre' unpacked:",
+   "options": [
+    "The minister was hired.",
+    "The minister resigned.",
+    "The minister was elected.",
+    "The minister spoke."
+   ],
+   "a": 1,
+   "why": "Démissionner → la démission."
+  },
+  {
+   "q": "Si tu ___ le temps, viens me voir.",
+   "options": [
+    "auras",
+    "as",
+    "aurais",
+    "aies"
+   ],
+   "a": 1,
+   "why": "Si + present."
+  },
+  {
+   "q": "'Le gars que j'te parlais' in standard French:",
+   "options": [
+    "Le gars que je te parlais",
+    "Le gars dont je te parlais",
+    "Le gars où je te parlais",
+    "Le gars lequel je te parlais"
+   ],
+   "a": 1,
+   "why": "Parler de → dont."
+  }
+ ]
+}

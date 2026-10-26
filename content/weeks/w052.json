@@ -1,0 +1,627 @@
+{
+ "w": 52,
+ "title": "Demonstrative pronouns: celui, celle, ceux",
+ "goal": "By the end of this lesson you can say 'this one', 'that one', 'the ones' and 'the one of / the one who' with celui, celle, ceux and celles, and use ça, ceci and cela.",
+ "learn": [
+  {
+   "h": "Replacing ce + noun",
+   "body": [
+    "A demonstrative pronoun replaces *ce / cette / ces + noun* so you don't repeat the noun. It agrees in gender and number with the noun it replaces.",
+    "These pronouns never stand alone: they are always followed by *-ci / -là*, by *de*, or by *qui / que*."
+   ],
+   "table": {
+    "head": [
+     "",
+     "Singular",
+     "Plural"
+    ],
+    "rows": [
+     [
+      "Masculine",
+      "celui",
+      "ceux"
+     ],
+     [
+      "Feminine",
+      "celle",
+      "celles"
+     ],
+     [
+      "Example",
+      "Ce manteau? Je préfère celui-là.",
+      "Ces bottes? Je prends celles-ci."
+     ]
+    ]
+   },
+   "tip": "Ceux is the only one that doesn't look like its partner: celui → ceux."
+  },
+  {
+   "h": "Celui-ci, celle-là: this one, that one",
+   "body": [
+    "Add *-ci* (this one, here) or *-là* (that one, there): *Quel gâteau veux-tu? Celui-ci ou celui-là?*",
+    "In everyday speech, *-là* is used much more than *-ci*, often for both: *Je veux celle-là.* (I want that one / this one.)"
+   ]
+  },
+  {
+   "h": "Celui de: the one of (possession, origin)",
+   "body": [
+    "*Celui de, celle de, ceux de, celles de* + noun = 'the one(s) of / ...'s': *Ce n'est pas mon auto, c'est* **celle de** *ma sœur.* (It's my sister's.)",
+    "Also for origin or type: *Les bagels de Montréal sont meilleurs que* **ceux de** *New York.* *Le train de 8 h ou* **celui de** *9 h?*"
+   ]
+  },
+  {
+   "h": "Celui qui, celui que: the one who / that",
+   "body": [
+    "*Celui qui* + verb = the one who / that (subject): *C'est* **celui qui** *parle fort.* *Celle qui chante, c'est ma cousine.*",
+    "*Celui que* + subject + verb = the one (that) I / you… (object): *C'est* **celle que** *je préfère.* We'll study *qui* and *que* in depth next week.",
+    "*Ceux qui* = those who, people who: *Ceux qui veulent venir sont les bienvenus.*"
+   ]
+  },
+  {
+   "h": "Ça, ceci, cela",
+   "body": [
+    "For things without a clear gender (an idea, a situation, an object you point at), use the neutral pronouns: *ceci* (this), *cela* (that), and in speech almost always **ça**.",
+    "*Ça coûte combien?* *Cela me semble juste* (more formal). *Ceci* is rare in speech, mostly for 'this' in writing: *Lisez ceci attentivement.*"
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Quelle tuque préfères-tu? Celle-ci ou celle-là?",
+   "en": "Which toque do you prefer? This one or that one?",
+   "note": "tuque is feminine: celle"
+  },
+  {
+   "fr": "Ce chandail est trop petit. Je vais essayer celui-là.",
+   "en": "This sweater is too small. I'll try that one.",
+   "note": "chandail is masculine: celui"
+  },
+  {
+   "fr": "Ces souliers sont beaux, mais ceux-là sont plus confortables.",
+   "en": "These shoes are nice, but those are more comfortable.",
+   "note": "masculine plural: ceux"
+  },
+  {
+   "fr": "Les pommes du Québec? Je préfère celles-ci.",
+   "en": "Quebec apples? I prefer these.",
+   "note": "feminine plural: celles"
+  },
+  {
+   "fr": "Ce n'est pas mon téléphone, c'est celui de Marc.",
+   "en": "It's not my phone, it's Marc's.",
+   "note": "celui de = possession"
+  },
+  {
+   "fr": "Ma voiture est grise; celle de mon voisin est rouge.",
+   "en": "My car is grey; my neighbour's is red.",
+   "note": "celle de"
+  },
+  {
+   "fr": "Le train de 8 h est plein. Prenons celui de 9 h.",
+   "en": "The 8 o'clock train is full. Let's take the 9 o'clock one.",
+   "note": "celui de + time"
+  },
+  {
+   "fr": "Les bagels de Montréal sont meilleurs que ceux de New York.",
+   "en": "Montreal bagels are better than New York ones.",
+   "note": "comparison with ceux de"
+  },
+  {
+   "fr": "C'est celui qui parle avec le prof.",
+   "en": "He's the one who's talking with the teacher.",
+   "note": "celui qui + verb"
+  },
+  {
+   "fr": "La chanson que j'aime le plus? C'est celle que tu chantes.",
+   "en": "The song I like most? It's the one you sing.",
+   "note": "celle que + subject + verb"
+  },
+  {
+   "fr": "Ceux qui ont fini peuvent partir.",
+   "en": "Those who are finished can leave.",
+   "note": "ceux qui = those who"
+  },
+  {
+   "fr": "Prends celle que tu veux.",
+   "en": "Take whichever one you want.",
+   "note": "celle que"
+  },
+  {
+   "fr": "Ça, c'est une bonne idée!",
+   "en": "Now that's a good idea!",
+   "note": "ça for emphasis"
+  },
+  {
+   "fr": "Cela ne me dérange pas.",
+   "en": "That doesn't bother me.",
+   "note": "cela: more formal than ça"
+  },
+  {
+   "fr": "Lisez ceci avant de signer.",
+   "en": "Read this before signing.",
+   "note": "ceci: mostly written"
+  },
+  {
+   "fr": "Mes clés? Ce sont celles qui sont sur la table.",
+   "en": "My keys? They're the ones on the table.",
+   "note": "celles qui"
+  }
+ ],
+ "quebec": {
+  "intro": "In Quebec speech, 'celle-là' and 'ceux-là' are extremely common, often referring to people (sometimes with attitude!). 'Celui-là' is usually shortened to 'çui-là' [swi-la], and you'll also hear 'lui-là' or 'elle-là' for 'that guy / that woman'. Ça replaces cela almost everywhere.",
+  "items": [
+   {
+    "std": "Celui-là est mieux.",
+    "qc": "Çui-là est mieux.",
+    "en": "That one's better.",
+    "note": "çui-là [swi-la]; informal"
+   },
+   {
+    "std": "Celle-là, elle exagère!",
+    "qc": "Celle-là, a exagère!",
+    "en": "That one, she's going too far!",
+    "note": "a = elle; can sound judgmental about a person"
+   },
+   {
+    "std": "Ceux-là ne viennent jamais.",
+    "qc": "Ceux-là, y viennent jamais.",
+    "en": "Those guys never come.",
+    "note": "y = ils; ne dropped; informal"
+   },
+   {
+    "std": "Cet homme-là ne parle pas.",
+    "qc": "Lui-là, y parle pas.",
+    "en": "That guy doesn't talk.",
+    "note": "lui-là / elle-là point at a person; informal"
+   },
+   {
+    "std": "Cela ne me dérange pas.",
+    "qc": "Ça me dérange pas.",
+    "en": "That doesn't bother me.",
+    "note": "ça everywhere in speech"
+   },
+   {
+    "std": "C'est celle que je veux.",
+    "qc": "C'est celle-là que j'veux.",
+    "en": "That's the one I want.",
+    "note": "the -là is added for emphasis; informal"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Ce livre ou ___-là? (m sg)",
+   "options": [
+    "celle",
+    "celui",
+    "ceux",
+    "cela"
+   ],
+   "a": 1,
+   "why": "Livre is masculine singular: celui."
+  },
+  {
+   "t": "mcq",
+   "q": "Ces chaussures? Je préfère ___-ci.",
+   "options": [
+    "ceux",
+    "celles",
+    "celle",
+    "celui"
+   ],
+   "a": 1,
+   "why": "Chaussures is feminine plural: celles."
+  },
+  {
+   "t": "mcq",
+   "q": "'It's Paul's' (le vélo) =",
+   "options": [
+    "C'est celui à Paul.",
+    "C'est celui de Paul.",
+    "C'est ça de Paul.",
+    "C'est celle de Paul."
+   ],
+   "a": 1,
+   "why": "Celui de + owner."
+  },
+  {
+   "t": "mcq",
+   "q": "'Those who know' =",
+   "options": [
+    "ceux que savent",
+    "ceux qui savent",
+    "celui qui sait",
+    "ça qui sait"
+   ],
+   "a": 1,
+   "why": "Ceux qui + verb (subject)."
+  },
+  {
+   "t": "fill",
+   "q": "Mon appartement est petit, mais ___ de Julie est grand. (the one)",
+   "a": [
+    "celui"
+   ],
+   "en": "My apartment is small, but Julie's is big.",
+   "why": "Appartement is masculine: celui de."
+  },
+  {
+   "t": "fill",
+   "q": "Ces gâteaux sont bons, mais ___-là sont meilleurs. (those)",
+   "a": [
+    "ceux"
+   ],
+   "en": "These cakes are good, but those are better.",
+   "why": "Masculine plural: ceux."
+  },
+  {
+   "t": "fill",
+   "q": "La robe bleue? C'est ___ que je préfère. (the one)",
+   "a": [
+    "celle"
+   ],
+   "en": "The blue dress? It's the one I prefer.",
+   "why": "Robe is feminine: celle que."
+  },
+  {
+   "t": "fill",
+   "q": "___ coûte combien? (that)",
+   "a": [
+    "Ça"
+   ],
+   "en": "How much does that cost?",
+   "why": "Neutral pronoun: ça."
+  },
+  {
+   "t": "build",
+   "en": "I prefer that one.",
+   "a": "Je préfère celui-là."
+  },
+  {
+   "t": "build",
+   "en": "It's my brother's car.",
+   "a": "C'est celle de mon frère."
+  },
+  {
+   "t": "build",
+   "en": "Those who are finished can leave.",
+   "a": "Ceux qui ont fini peuvent partir."
+  },
+  {
+   "t": "translate",
+   "en": "This one or that one?",
+   "a": [
+    "Celui-ci ou celui-là?",
+    "Celle-ci ou celle-là?",
+    "Ceux-ci ou ceux-là?",
+    "Celles-ci ou celles-là?"
+   ],
+   "why": "Choose the form that matches the noun."
+  },
+  {
+   "t": "translate",
+   "en": "It's Marie's.",
+   "a": [
+    "C'est celui de Marie.",
+    "C'est celle de Marie.",
+    "Ce sont ceux de Marie.",
+    "Ce sont celles de Marie.",
+    "C'est à Marie."
+   ],
+   "why": "Celui de / celle de + owner (or c'est à Marie)."
+  },
+  {
+   "t": "translate",
+   "en": "That doesn't bother me.",
+   "a": [
+    "Ça ne me dérange pas.",
+    "Cela ne me dérange pas.",
+    "Ça me dérange pas."
+   ],
+   "why": "Ça / cela as a neutral subject."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "celui",
+   "en": "the one (m)",
+   "ex": "Celui-là est à moi."
+  },
+  {
+   "fr": "celle",
+   "en": "the one (f)",
+   "ex": "Celle de Marie."
+  },
+  {
+   "fr": "ceux",
+   "en": "the ones (m pl)",
+   "ex": "Ceux qui veulent venir."
+  },
+  {
+   "fr": "celles",
+   "en": "the ones (f pl)",
+   "ex": "Celles-ci sont neuves."
+  },
+  {
+   "fr": "ça",
+   "en": "that, it",
+   "ex": "Ça va?"
+  },
+  {
+   "fr": "cela",
+   "en": "that (formal)",
+   "ex": "Cela dépend."
+  },
+  {
+   "fr": "ceci",
+   "en": "this (mostly written)",
+   "ex": "Lisez ceci."
+  },
+  {
+   "fr": "préférer",
+   "en": "to prefer",
+   "ex": "Je préfère celle-ci."
+  },
+  {
+   "fr": "essayer",
+   "en": "to try (on)",
+   "ex": "Je peux essayer celui-là?"
+  },
+  {
+   "fr": "déranger",
+   "en": "to bother, disturb",
+   "ex": "Ça te dérange?"
+  },
+  {
+   "fr": "dépendre de",
+   "en": "to depend on",
+   "ex": "Ça dépend de toi."
+  },
+  {
+   "fr": "les souliers",
+   "en": "shoes",
+   "g": "m",
+   "ex": "Ces souliers sont neufs.",
+   "qc": true
+  },
+  {
+   "fr": "la tuque",
+   "en": "toque, winter hat",
+   "g": "f",
+   "ex": "Prends celle-là, elle est plus chaude.",
+   "qc": true
+  },
+  {
+   "fr": "çui-là",
+   "en": "that one (spoken celui-là)",
+   "ex": "Çui-là est meilleur.",
+   "qc": true
+  },
+  {
+   "fr": "lui-là / elle-là",
+   "en": "that guy / that woman (spoken)",
+   "ex": "Lui-là, y parle trop.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "celui",
+    "tip": "suh-LWI; in speech often [swi]."
+   },
+   {
+    "fr": "celle / celles",
+    "tip": "Both [sèl]."
+   },
+   {
+    "fr": "ceux",
+    "tip": "[seu], like the vowel in deux."
+   },
+   {
+    "fr": "celui-ci / celui-là",
+    "tip": "suh-lwi-SI / suh-lwi-LA."
+   },
+   {
+    "fr": "ceux-là",
+    "tip": "seu-LA."
+   },
+   {
+    "fr": "çui-là",
+    "tip": "Quebec casual: [swi-la]."
+   }
+  ],
+  "title": "À la boulangerie",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Bonjour! Je voudrais un pain, s'il vous plaît.",
+    "en": "Hello! I'd like a loaf of bread, please."
+   },
+   {
+    "s": "B",
+    "fr": "Lequel? Celui-ci est aux olives, celui-là est au fromage.",
+    "en": "Which one? This one is olive, that one is cheese."
+   },
+   {
+    "s": "A",
+    "fr": "Celui au fromage, s'il vous plaît. Et ces croissants-là, ils sont au beurre?",
+    "en": "The cheese one, please. And those croissants, are they butter?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui. Ceux qui sont à droite sont aux amandes.",
+    "en": "Yes. The ones on the right are almond."
+   },
+   {
+    "s": "A",
+    "fr": "Parfait, deux de ceux-là. Et les tartes?",
+    "en": "Perfect, two of those. And the pies?"
+   },
+   {
+    "s": "B",
+    "fr": "Celle aux pommes est la plus populaire, mais celle au sucre est ma préférée.",
+    "en": "The apple one is the most popular, but the sugar one is my favourite."
+   },
+   {
+    "s": "A",
+    "fr": "Alors je prends celle que vous préférez!",
+    "en": "Then I'll take the one you prefer!"
+   },
+   {
+    "s": "B",
+    "fr": "Excellent choix!",
+    "en": "Excellent choice!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Which bread does A choose?",
+    "options": [
+     "Olive",
+     "Cheese",
+     "Plain"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What kind are the croissants on the right?",
+    "options": [
+     "Butter",
+     "Chocolate",
+     "Almond"
+    ],
+    "a": 2
+   },
+   {
+    "q": "Which pie does A buy?",
+    "options": [
+     "Apple",
+     "Sugar",
+     "Blueberry"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "In a store, compare two items of each kind and choose: a coat, two pairs of boots, a toque.",
+   "model": "Ce manteau-ci est chaud, mais celui-là est plus beau. Ces bottes-ci ou celles-là? Celles-là. Et cette tuque? Je prends celle-là."
+  },
+  {
+   "prompt": "Say whose things these are, using celui de / celle de / ceux de.",
+   "model": "Ce vélo, c'est celui de mon fils. Cette tasse, c'est celle de ma femme. Ces livres, ce sont ceux de la bibliothèque."
+  },
+  {
+   "prompt": "Point at a person and say 'That guy talks too much' in standard French and Quebec style.",
+   "model": "Celui-là parle trop. / Lui-là, y parle trop."
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences comparing things you own with those of family or friends. Use at least four different demonstrative pronouns, including one with de and one with qui or que.",
+  "model": "Mon appartement est petit, mais celui de mes parents est très grand. Ma voiture est vieille; celle de ma sœur est neuve. Mes enfants aiment les films d'animation, surtout ceux de Disney. J'ai deux vélos: celui que j'utilise le plus est rouge. Mes amis qui habitent en ville n'ont pas d'auto. Ceux qui habitent en banlieue en ont deux!"
+ },
+ "quiz": [
+  {
+   "q": "Which pronoun replaces 'ces crayons' (m pl)?",
+   "options": [
+    "celles",
+    "ceux",
+    "celui",
+    "ceuxs"
+   ],
+   "a": 1,
+   "why": "Masculine plural: ceux."
+  },
+  {
+   "q": "Which pronoun replaces 'cette pomme'?",
+   "options": [
+    "celui",
+    "celle",
+    "cela",
+    "ceux"
+   ],
+   "a": 1,
+   "why": "Feminine singular: celle."
+  },
+  {
+   "q": "Can celui stand alone: 'Je veux celui.'?",
+   "options": [
+    "Yes",
+    "No, it needs -ci/-là, de or qui/que",
+    "Only in Quebec",
+    "Only in writing"
+   ],
+   "a": 1,
+   "why": "Demonstrative pronouns always need a complement."
+  },
+  {
+   "q": "'My car or my wife's?' =",
+   "options": [
+    "Ma voiture ou celle de ma femme?",
+    "Ma voiture ou celui de ma femme?",
+    "Ma voiture ou cela de ma femme?",
+    "Ma voiture ou ça de ma femme?"
+   ],
+   "a": 0,
+   "why": "Voiture is feminine: celle de."
+  },
+  {
+   "q": "'C'est celle ___ je veux.'",
+   "options": [
+    "qui",
+    "que",
+    "de",
+    "là"
+   ],
+   "a": 1,
+   "why": "Je is the subject, so que."
+  },
+  {
+   "q": "'C'est celui ___ parle.'",
+   "options": [
+    "qui",
+    "que",
+    "de",
+    "ci"
+   ],
+   "a": 0,
+   "why": "Celui is the subject of parle: qui."
+  },
+  {
+   "q": "Which neutral pronoun is most common in speech?",
+   "options": [
+    "ceci",
+    "cela",
+    "ça",
+    "celui"
+   ],
+   "a": 2,
+   "why": "Ça replaces cela in everyday speech."
+  },
+  {
+   "q": "In Quebec speech, 'çui-là' means…",
+   "options": [
+    "that one",
+    "this guy's",
+    "those ones",
+    "nobody"
+   ],
+   "a": 0,
+   "why": "Çui-là = celui-là."
+  },
+  {
+   "q": "'Lui-là, y parle pas' means…",
+   "options": [
+    "He doesn't talk to him",
+    "That guy doesn't talk",
+    "It's not him",
+    "Don't talk there"
+   ],
+   "a": 1,
+   "why": "Lui-là points at a person; y = il."
+  }
+ ]
+}

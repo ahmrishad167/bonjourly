@@ -1,0 +1,658 @@
+{
+ "w": 108,
+ "title": "Subjonctif passé",
+ "goal": "By the end of this lesson you can form the past subjunctive and use it to react to things that already happened (Je suis content que tu sois venu), to express doubt about the past, and to set deadlines (Il faut que tu aies fini avant 5 h).",
+ "learn": [
+  {
+   "h": "Forming the subjonctif passé",
+   "body": [
+    "The past subjunctive is a compound tense: the present subjunctive of *avoir* or *être* + the past participle. *que j'aie fini*, *que tu sois venu*.",
+    "Same auxiliary choice and same agreement as the passé composé: *Je suis contente qu'elle soit venue.* *Je doute qu'ils se soient trompés.*"
+   ],
+   "table": {
+    "head": [
+     "Person",
+     "avoir + participle",
+     "être + participle"
+    ],
+    "rows": [
+     [
+      "que je / j'",
+      "que j'aie fini",
+      "que je sois parti(e)"
+     ],
+     [
+      "que tu",
+      "que tu aies fini",
+      "que tu sois parti(e)"
+     ],
+     [
+      "qu'il / elle / on",
+      "qu'il ait fini",
+      "qu'elle soit partie"
+     ],
+     [
+      "que nous",
+      "que nous ayons fini",
+      "que nous soyons parti(e)s"
+     ],
+     [
+      "que vous",
+      "que vous ayez fini",
+      "que vous soyez parti(e)(s)"
+     ],
+     [
+      "qu'ils / elles",
+      "qu'ils aient fini",
+      "qu'elles soient parties"
+     ]
+    ]
+   },
+   "tip": "aie, aies, ait and aient all sound the same: [è]."
+  },
+  {
+   "h": "Present or past subjunctive? It's about timing",
+   "body": [
+    "The trigger is the same as for the present subjunctive (emotion, doubt, necessity, wish). What changes is when the action happens compared to the main verb.",
+    "Same time or later → present subjunctive: *Je suis content que tu viennes* (you're coming now / soon). Earlier → past subjunctive: *Je suis content que tu sois venu* (you came, and I'm happy about it)."
+   ],
+   "table": {
+    "head": [
+     "Present subjunctive (now / later)",
+     "Past subjunctive (before)"
+    ],
+    "rows": [
+     [
+      "Je suis désolé que tu sois malade.",
+      "Je suis désolé que tu aies été malade."
+     ],
+     [
+      "J'ai peur qu'il parte.",
+      "J'ai peur qu'il soit déjà parti."
+     ],
+     [
+      "Je doute qu'elle comprenne.",
+      "Je doute qu'elle ait compris."
+     ],
+     [
+      "C'est dommage qu'on rate le show.",
+      "C'est dommage qu'on ait raté le show."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Reacting to the past: emotion and doubt",
+   "body": [
+    "This is the most frequent use. After an emotion (*content, déçu, surpris, fier, désolé*, *c'est dommage*), doubt (*douter, ne pas croire, ne pas penser*) or judgment (*c'est étonnant, c'est normal*), the past subjunctive talks about something already done.",
+    "*Je ne crois pas qu'il ait reçu mon courriel.* (I don't think he got my email.) *C'est normal que tu aies été nerveux.*"
+   ]
+  },
+  {
+   "h": "Deadlines and conjunctions",
+   "body": [
+    "The past subjunctive can also point to the future: something must be finished before a given moment. *Il faut que tu aies fini avant cinq heures.* (You need to have finished by five.)",
+    "It also appears after conjunctions that require the subjunctive: *bien que* (although), *avant que*, *jusqu'à ce que*, *à moins que*, *sans que*. *Bien qu'il ait beaucoup neigé, l'école est ouverte.*",
+    "Reminder: *après que* takes the indicative in standard French (*après qu'il est parti*), even though many people use the subjunctive in speech."
+   ]
+  },
+  {
+   "h": "Quebec speech",
+   "body": [
+    "Quebec speakers use the past subjunctive naturally in fixed reactions: *Chu content que tu sois venu!* *C'est plate que t'aies manqué ça.*",
+    "In very casual speech, you may also hear the indicative where the subjunctive is required: *chu content que t'es venu*. Recognise it, but use the subjunctive yourself."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Je suis content que tu sois venu.",
+   "en": "I'm glad you came.",
+   "note": "emotion + past action"
+  },
+  {
+   "fr": "Je suis contente que vous ayez aimé le repas.",
+   "en": "I'm glad you liked the meal.",
+   "note": "aimer takes avoir: ayez aimé"
+  },
+  {
+   "fr": "C'est dommage qu'elle soit partie si tôt.",
+   "en": "It's too bad she left so early.",
+   "note": "partir takes être, feminine agreement"
+  },
+  {
+   "fr": "Je ne crois pas qu'il ait reçu mon message.",
+   "en": "I don't think he got my message.",
+   "note": "doubt about the past"
+  },
+  {
+   "fr": "Nous sommes surpris que tu aies réussi si vite.",
+   "en": "We're surprised you succeeded so fast.",
+   "note": "surprise + past action"
+  },
+  {
+   "fr": "Il faut que tu aies terminé avant vendredi.",
+   "en": "You need to have finished before Friday.",
+   "note": "deadline in the future"
+  },
+  {
+   "fr": "Bien qu'il ait beaucoup neigé, les écoles sont ouvertes.",
+   "en": "Although it snowed a lot, schools are open.",
+   "note": "bien que + subjunctive"
+  },
+  {
+   "fr": "J'ai peur qu'ils se soient perdus.",
+   "en": "I'm afraid they got lost.",
+   "note": "pronominal verb: se soient perdus"
+  },
+  {
+   "fr": "Je doute que vous ayez compris la question.",
+   "en": "I doubt you understood the question.",
+   "note": "douter que + subjunctive"
+  },
+  {
+   "fr": "Elle est déçue que nous ne soyons pas allés à sa fête.",
+   "en": "She's disappointed we didn't go to her party.",
+   "note": "negation around the auxiliary"
+  },
+  {
+   "fr": "C'est le meilleur film que j'aie jamais vu.",
+   "en": "It's the best film I've ever seen.",
+   "note": "after a superlative, the subjunctive is common in careful French"
+  },
+  {
+   "fr": "Attends ici jusqu'à ce que j'aie fini.",
+   "en": "Wait here until I've finished.",
+   "note": "jusqu'à ce que + subjunctive"
+  },
+  {
+   "fr": "Je suis fier que mon fils ait obtenu son diplôme.",
+   "en": "I'm proud my son got his diploma.",
+   "note": "fier que + subjunctive"
+  },
+  {
+   "fr": "C'est normal que tu aies été nerveux à l'entrevue.",
+   "en": "It's normal that you were nervous at the interview.",
+   "note": "impersonal judgment"
+  },
+  {
+   "fr": "Il est parti sans que personne l'ait vu.",
+   "en": "He left without anyone seeing him.",
+   "note": "sans que + subjunctive"
+  }
+ ],
+ "quebec": {
+  "intro": "Reactions like 'Je suis content que tu sois venu' are everyday Quebec phrases, usually with 'chu' for 'je suis' and 't'aies / t'sois' contractions. Very casual speech sometimes uses the indicative instead; recognise it but don't copy it.",
+  "items": [
+   {
+    "std": "Je suis content que tu sois venu.",
+    "qc": "Chu content que tu sois v'nu.",
+    "en": "I'm glad you came.",
+    "note": "chu = je suis, informal"
+   },
+   {
+    "std": "C'est dommage que tu aies manqué ça.",
+    "qc": "C'est plate que t'aies manqué ça.",
+    "en": "Too bad you missed that.",
+    "note": "plate = boring / too bad, informal Quebec"
+   },
+   {
+    "std": "J'ai peur qu'il soit déjà parti.",
+    "qc": "J'ai peur qu'y soit déjà parti.",
+    "en": "I'm afraid he's already left.",
+    "note": "qu'il → qu'y in speech"
+   },
+   {
+    "std": "Il faut que tu aies fini avant cinq heures.",
+    "qc": "Faut que t'aies fini avant cinq heures.",
+    "en": "You've got to be done before five.",
+    "note": "il dropped from il faut, informal"
+   },
+   {
+    "std": "Je suis content que tu sois venu.",
+    "qc": "Chu content que t'es v'nu.",
+    "en": "I'm glad you came.",
+    "note": "indicative instead of subjunctive: heard in casual speech, non-standard"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Je suis content que tu ___ venu.",
+   "options": [
+    "es",
+    "sois",
+    "aies",
+    "seras"
+   ],
+   "a": 1,
+   "why": "Venir takes être; after an emotion use the subjunctive: sois venu."
+  },
+  {
+   "t": "mcq",
+   "q": "Which sentence refers to a past action?",
+   "options": [
+    "Je doute qu'il comprenne.",
+    "Je doute qu'il ait compris.",
+    "Je doute qu'il comprendra.",
+    "Je doute qu'il comprend."
+   ],
+   "a": 1,
+   "why": "Ait compris = past subjunctive."
+  },
+  {
+   "t": "mcq",
+   "q": "Which conjunction takes the indicative in standard French?",
+   "options": [
+    "bien que",
+    "avant que",
+    "après que",
+    "jusqu'à ce que"
+   ],
+   "a": 2,
+   "why": "Après que takes the indicative, even if you hear the subjunctive."
+  },
+  {
+   "t": "mcq",
+   "q": "'C'est plate que t'aies manqué ça' means…",
+   "options": [
+    "It's flat that you missed it.",
+    "Too bad you missed that.",
+    "You shouldn't miss that.",
+    "I'm glad you missed that."
+   ],
+   "a": 1,
+   "why": "Plate = boring / too bad in Quebec; t'aies = tu aies."
+  },
+  {
+   "t": "fill",
+   "q": "Je ne crois pas qu'elle ___ reçu ma lettre. (avoir)",
+   "a": [
+    "ait"
+   ],
+   "en": "I don't think she received my letter.",
+   "why": "Qu'elle ait, subjunctive of avoir."
+  },
+  {
+   "t": "fill",
+   "q": "Il faut que vous ___ terminé avant midi. (avoir)",
+   "a": [
+    "ayez"
+   ],
+   "en": "You need to have finished before noon.",
+   "why": "Vous form: ayez."
+  },
+  {
+   "t": "fill",
+   "q": "C'est dommage que nous ne ___ pas restés. (être)",
+   "a": [
+    "soyons"
+   ],
+   "en": "It's too bad we didn't stay.",
+   "why": "Rester takes être: nous soyons restés."
+  },
+  {
+   "t": "fill",
+   "q": "J'ai peur qu'ils se ___ perdus. (être)",
+   "a": [
+    "soient"
+   ],
+   "en": "I'm afraid they got lost.",
+   "why": "Pronominal verbs take être: ils se soient perdus."
+  },
+  {
+   "t": "build",
+   "en": "I'm glad you came.",
+   "a": "Je suis content que tu sois venu."
+  },
+  {
+   "t": "build",
+   "en": "I doubt he understood.",
+   "a": "Je doute qu'il ait compris."
+  },
+  {
+   "t": "build",
+   "en": "Although it snowed, we went out.",
+   "a": "Bien qu'il ait neigé, nous sommes sortis."
+  },
+  {
+   "t": "translate",
+   "en": "It's too bad you missed the show.",
+   "a": [
+    "C'est dommage que tu aies manqué le spectacle.",
+    "C'est dommage que vous ayez manqué le spectacle.",
+    "C'est dommage que tu aies raté le spectacle.",
+    "C'est dommage que vous ayez raté le spectacle.",
+    "C'est dommage que tu aies manqué le show.",
+    "C'est dommage que tu aies raté le show."
+   ],
+   "why": "Emotion/judgment + past subjunctive."
+  },
+  {
+   "t": "translate",
+   "en": "I'm happy she came.",
+   "a": [
+    "Je suis content qu'elle soit venue.",
+    "Je suis contente qu'elle soit venue.",
+    "Je suis heureux qu'elle soit venue.",
+    "Je suis heureuse qu'elle soit venue."
+   ],
+   "why": "Venue agrees with elle."
+  },
+  {
+   "t": "translate",
+   "en": "Wait until I've finished.",
+   "a": [
+    "Attends jusqu'à ce que j'aie fini.",
+    "Attendez jusqu'à ce que j'aie fini.",
+    "Attends que j'aie fini.",
+    "Attendez que j'aie fini."
+   ],
+   "why": "Jusqu'à ce que / attendre que + subjunctive."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "être content(e) que",
+   "en": "to be glad that",
+   "ex": "Je suis content que tu sois là."
+  },
+  {
+   "fr": "être déçu(e) que",
+   "en": "to be disappointed that",
+   "ex": "Elle est déçue qu'on soit partis."
+  },
+  {
+   "fr": "être surpris(e) que",
+   "en": "to be surprised that",
+   "ex": "Je suis surpris qu'il ait accepté."
+  },
+  {
+   "fr": "être fier / fière que",
+   "en": "to be proud that",
+   "ex": "Je suis fière que tu aies réussi."
+  },
+  {
+   "fr": "c'est dommage que",
+   "en": "it's a shame that",
+   "ex": "C'est dommage qu'il ait plu."
+  },
+  {
+   "fr": "douter que",
+   "en": "to doubt that",
+   "ex": "Je doute qu'il ait lu le rapport."
+  },
+  {
+   "fr": "avoir peur que",
+   "en": "to be afraid that",
+   "ex": "J'ai peur qu'elle se soit blessée."
+  },
+  {
+   "fr": "bien que",
+   "en": "although",
+   "ex": "Bien qu'il ait étudié, il a échoué."
+  },
+  {
+   "fr": "jusqu'à ce que",
+   "en": "until",
+   "ex": "Reste jusqu'à ce que j'aie fini."
+  },
+  {
+   "fr": "sans que",
+   "en": "without (someone doing something)",
+   "ex": "Il est parti sans que je le sache."
+  },
+  {
+   "fr": "obtenir son diplôme",
+   "en": "to graduate, to get one's diploma",
+   "ex": "Elle a obtenu son diplôme en juin."
+  },
+  {
+   "fr": "l'entrevue",
+   "en": "interview (job)",
+   "g": "f",
+   "ex": "J'ai une entrevue demain.",
+   "qc": true
+  },
+  {
+   "fr": "plate",
+   "en": "boring; too bad",
+   "ex": "C'est plate qu'il pleuve.",
+   "qc": true
+  },
+  {
+   "fr": "se perdre",
+   "en": "to get lost",
+   "ex": "On s'est perdus dans le Vieux-Québec."
+  },
+  {
+   "fr": "recevoir",
+   "en": "to receive, to get",
+   "ex": "As-tu reçu mon courriel?"
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "que j'aie fini",
+    "tip": "kuh-zhè fi-NI: aie sounds like [è]."
+   },
+   {
+    "fr": "que tu sois venu",
+    "tip": "kuh tu swa vuh-NU; casually 'k'tu swa v'nu'."
+   },
+   {
+    "fr": "que nous ayons",
+    "tip": "Liaison in [z]: noo-zè-YON."
+   },
+   {
+    "fr": "qu'ils aient",
+    "tip": "kil-ZÈ: liaison in [z], aient = [è]."
+   },
+   {
+    "fr": "que vous soyez",
+    "tip": "kuh voo swa-YÉ."
+   },
+   {
+    "fr": "chu content",
+    "tip": "Quebec casual for je suis content: shu kon-TAN."
+   }
+  ],
+  "title": "Après l'entrevue",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Pis, ton entrevue ce matin?",
+    "en": "So, your interview this morning?"
+   },
+   {
+    "s": "B",
+    "fr": "Ça s'est bien passé, je pense. Mais j'ai peur d'avoir trop parlé.",
+    "en": "It went well, I think. But I'm afraid I talked too much."
+   },
+   {
+    "s": "A",
+    "fr": "C'est normal que tu aies été nerveux. Ils t'ont posé des questions en français?",
+    "en": "It's normal that you were nervous. Did they ask you questions in French?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, toute l'entrevue! Ils étaient surpris que j'aie appris le français si vite.",
+    "en": "Yes, the whole interview! They were surprised I learned French so quickly."
+   },
+   {
+    "s": "A",
+    "fr": "Bravo! Chu fier que t'aies osé.",
+    "en": "Bravo! I'm proud you dared."
+   },
+   {
+    "s": "B",
+    "fr": "Merci. Par contre, je ne crois pas qu'ils aient reçu mes références.",
+    "en": "Thanks. But I don't think they got my references."
+   },
+   {
+    "s": "A",
+    "fr": "Il faut qu'ils les aient reçues avant vendredi?",
+    "en": "Do they need to have received them before Friday?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui. Je vais les renvoyer ce soir, juste au cas.",
+    "en": "Yes. I'll send them again tonight, just in case."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What is B worried about?",
+    "options": [
+     "Being late",
+     "Having talked too much",
+     "Not understanding French"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What surprised the interviewers?",
+    "options": [
+     "How fast B learned French",
+     "B's English",
+     "B's references"
+    ],
+    "a": 0
+   },
+   {
+    "q": "What will B do tonight?",
+    "options": [
+     "Call the company",
+     "Resend the references",
+     "Prepare another interview"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "React to three pieces of news from a friend (they got a job, moved, had a cold). Use past subjunctive.",
+   "model": "Je suis tellement content que tu aies eu le poste! C'est super que vous ayez déménagé près du parc. Par contre, je suis désolé que tu aies été malade."
+  },
+  {
+   "prompt": "Express doubt about something that happened: 'Je ne crois pas que…' / 'Je doute que…'.",
+   "model": "Je ne crois pas que le colis soit arrivé. Je doute que le livreur ait sonné."
+  },
+  {
+   "prompt": "Set a deadline for a colleague using 'Il faut que tu aies… avant…'.",
+   "model": "Il faut que tu aies envoyé la présentation avant demain midi."
+  },
+  {
+   "prompt": "Thank a guest leaving your party, in casual Quebec style.",
+   "model": "Merci d'être venu! Chu vraiment content que tu sois v'nu."
+  }
+ ],
+ "write": {
+  "prompt": "Write a short message (6–8 sentences) to a friend after their birthday party. Thank them, react to things that happened, and use the past subjunctive at least four times.",
+  "model": "Salut Julie! Merci encore pour la belle soirée. Je suis vraiment contente que tu m'aies invitée. C'est dommage que ton frère soit parti si tôt, j'aurais aimé lui parler. J'étais surprise que tes collègues aient préparé un gâteau aussi beau! Par contre, je ne crois pas que ton voisin ait apprécié la musique à minuit. Bien qu'on ait dansé jusqu'à deux heures, je ne suis même pas fatiguée. On se reprend bientôt!"
+ },
+ "quiz": [
+  {
+   "q": "How is the subjonctif passé formed?",
+   "options": [
+    "Imparfait of avoir/être + participle",
+    "Present subjunctive of avoir/être + participle",
+    "Conditional of avoir/être + participle",
+    "Future of avoir/être + participle"
+   ],
+   "a": 1,
+   "why": "Que j'aie fini, que je sois parti."
+  },
+  {
+   "q": "When do you choose the past subjunctive over the present?",
+   "options": [
+    "When the action happened before the main verb",
+    "When the sentence is negative",
+    "When the subject is plural",
+    "Always after être"
+   ],
+   "a": 0,
+   "why": "It's about timing: earlier action → past subjunctive."
+  },
+  {
+   "q": "Complete: Je suis désolé que vous ___ malade la semaine passée.",
+   "options": [
+    "soyez",
+    "ayez été",
+    "étiez",
+    "serez"
+   ],
+   "a": 1,
+   "why": "Past action + emotion: ayez été."
+  },
+  {
+   "q": "Which sentence is correct?",
+   "options": [
+    "Bien qu'il a plu, on est sortis.",
+    "Bien qu'il ait plu, on est sortis.",
+    "Bien qu'il aurait plu, on est sortis.",
+    "Bien qu'il avait plu, on est sortis."
+   ],
+   "a": 1,
+   "why": "Bien que always takes the subjunctive."
+  },
+  {
+   "q": "'Il faut que tu aies fini avant 17 h' refers to…",
+   "options": [
+    "the past",
+    "a deadline in the future",
+    "a habit",
+    "a regret"
+   ],
+   "a": 1,
+   "why": "The past subjunctive can mark something completed before a future point."
+  },
+  {
+   "q": "Which is the correct agreement? 'Je suis contente qu'elles ___.'",
+   "options": [
+    "soient venu",
+    "soient venues",
+    "aient venues",
+    "aient venu"
+   ],
+   "a": 1,
+   "why": "Venir takes être; agree with elles: venues."
+  },
+  {
+   "q": "What is 'chu' in 'Chu content que tu sois v'nu'?",
+   "options": [
+    "je suis",
+    "c'est",
+    "tu es",
+    "j'ai"
+   ],
+   "a": 0,
+   "why": "Chu is the casual Quebec contraction of je suis."
+  },
+  {
+   "q": "'Je ne pense pas qu'il ait compris' means…",
+   "options": [
+    "I don't think he understands.",
+    "I don't think he understood.",
+    "I didn't think he would understand.",
+    "I think he didn't understand yet."
+   ],
+   "a": 1,
+   "why": "Ait compris = past."
+  },
+  {
+   "q": "In 'Chu content que t'es v'nu', what is non-standard?",
+   "options": [
+    "chu",
+    "the indicative t'es instead of t'sois",
+    "v'nu",
+    "content"
+   ],
+   "a": 1,
+   "why": "Emotion triggers the subjunctive: que tu sois venu."
+  }
+ ]
+}

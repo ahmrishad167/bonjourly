@@ -1,0 +1,654 @@
+{
+ "w": 79,
+ "title": "Review and checkpoint 4",
+ "goal": "By the end of this lesson you have reviewed lessons 60 to 78 (plus-que-parfait, venir de, gérondif, conditionnel, si clauses, impersonal verbs, place prepositions, negatives, tout, and the everyday themes and Quebec layers) and tested yourself with a mixed-skill quiz.",
+ "learn": [
+  {
+   "h": "Talking about the past: plus-que-parfait and venir de",
+   "body": [
+    "Plus-que-parfait (lesson 68): imparfait of *avoir/être* + past participle, for what had already happened before another past event: *Quand je suis arrivé, il était déjà parti.*",
+    "Passé récent (lesson 69): *venir de* + infinitive for what just happened: *Je viens de manger*. In the past, use the imparfait: *Je venais de rentrer quand il a appelé.*"
+   ],
+   "table": {
+    "head": [
+     "Form",
+     "Example",
+     "English"
+    ],
+    "rows": [
+     [
+      "passé composé",
+      "J'ai mangé.",
+      "I ate."
+     ],
+     [
+      "plus-que-parfait",
+      "J'avais mangé.",
+      "I had eaten."
+     ],
+     [
+      "passé récent",
+      "Je viens de manger.",
+      "I've just eaten."
+     ],
+     [
+      "passé récent (past)",
+      "Je venais de manger.",
+      "I had just eaten."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Conditionnel and si clauses",
+   "body": [
+    "Conditionnel (lesson 71): future stem + imparfait endings: *je voudrais, tu pourrais, il faudrait, ce serait*. Use it for politeness (*Pourriez-vous…?*), wishes (*J'aimerais…*) and advice (*Tu devrais…*).",
+    "Si clauses (lesson 72): Type 1 *si* + present → present / future / imperative: *S'il pleut, on restera ici.* Type 2 *si* + imparfait → conditionnel: *Si j'avais le temps, je voyagerais.* Never put the conditional after *si*: not *si j'aurais*."
+   ],
+   "tip": "Les si n'aiment pas les -rais."
+  },
+  {
+   "h": "Gérondif, impersonal verbs and tout",
+   "body": [
+    "Gérondif (lesson 70): *en* + nous-stem + *-ant*: *en parlant, en finissant, en faisant*; irregular *étant, ayant, sachant*. It shows simultaneity or manner: *J'apprends en écoutant la radio.*",
+    "Impersonal verbs (lesson 73): *il faut, il a fallu, il faudra, il faudrait*; *il pleut, il a plu, il pleuvra*; *il neige*; *il reste, il manque*.",
+    "Tout (lesson 76): *tout le, toute la, tous les, toutes les*; pronoun *tout* (everything), *tous* [tooss] / *toutes* (all of them); adverb *tout seul, toute seule*."
+   ]
+  },
+  {
+   "h": "Places and negatives",
+   "body": [
+    "Places (lesson 74): *à* + city, *en* + feminine or vowel-initial name, *au* + masculine, *aux* + plural. From: *de / d' / du / des*. *À Québec* (city) vs *au Québec* (province).",
+    "Negatives (lesson 75): *ne… jamais, plus, rien, personne, pas encore, nulle part, que*. *Personne* and *nulle part* go after the participle: *Je n'ai vu personne*. *Rien* and *personne* can be subjects: *Personne n'est venu.*"
+   ]
+  },
+  {
+   "h": "Themes and Quebec layers, lessons 60–67 and 77–78",
+   "body": [
+    "Themes: Quebec expressions (*avoir de la misère, niaiser, c'est plate*), the workplace (*une job, le boss, faire du temps supplémentaire*), transport (*le char, l'autobus, le métro*), housing (*un 4½, le bail, le 1er juillet*), health (*avoir mal à, la carte soleil, le CLSC*), food (*déjeuner, dîner, souper*), nature (*le chalet, l'orignal*), and false friends (*actuellement, librairie, canceller → annuler*).",
+    "Listening and speech: Radio-Canada news (*les manchettes, la météo, la circulation*) and joual contractions (*chu, t'sé, y'é, a l'a, y'a, pis, ben*, the question *-tu*)."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Quand on est arrivés, le film avait déjà commencé.",
+   "en": "When we arrived, the movie had already started.",
+   "note": "plus-que-parfait (w68)"
+  },
+  {
+   "fr": "Je viens de signer mon bail pour un 4½.",
+   "en": "I've just signed my lease for a two-bedroom apartment.",
+   "note": "venir de (w69) + housing (w63)"
+  },
+  {
+   "fr": "Je me suis fait mal au dos en déménageant.",
+   "en": "I hurt my back moving.",
+   "note": "gérondif (w70) + health (w64)"
+  },
+  {
+   "fr": "Pourriez-vous m'aider, s'il vous plaît?",
+   "en": "Could you help me, please?",
+   "note": "conditionnel (w71)"
+  },
+  {
+   "fr": "Si j'avais un char, j'irais au chalet tous les week-ends.",
+   "en": "If I had a car, I'd go to the cottage every weekend.",
+   "note": "si type 2 (w72) + Quebec 'char'"
+  },
+  {
+   "fr": "Il a fallu pelleter avant de partir travailler.",
+   "en": "We had to shovel before leaving for work.",
+   "note": "impersonal falloir (w73)"
+  },
+  {
+   "fr": "Mon boss vient du Saguenay, mais il habite en Ontario.",
+   "en": "My boss is from the Saguenay, but he lives in Ontario.",
+   "note": "place prepositions (w74)"
+  },
+  {
+   "fr": "Je n'ai vu personne au bureau ce matin.",
+   "en": "I didn't see anyone at the office this morning.",
+   "note": "negatives (w75)"
+  },
+  {
+   "fr": "Toute l'équipe a travaillé tout le week-end.",
+   "en": "The whole team worked all weekend.",
+   "note": "tout (w76)"
+  },
+  {
+   "fr": "Selon la météo, il neigera toute la nuit.",
+   "en": "According to the forecast, it will snow all night.",
+   "note": "news (w77) + impersonal verbs"
+  },
+  {
+   "fr": "Chu fatigué, t'sé. J'ai fait du temps supplémentaire.",
+   "en": "I'm tired, you know. I worked overtime.",
+   "note": "joual (w78) + workplace (w61)"
+  },
+  {
+   "fr": "On soupe en ville ce soir?",
+   "en": "Shall we have supper downtown tonight?",
+   "note": "souper (w65), en ville (w74)"
+  },
+  {
+   "fr": "Actuellement, je cherche une job à temps partiel.",
+   "en": "Currently, I'm looking for a part-time job.",
+   "note": "false friend actuellement (w67)"
+  },
+  {
+   "fr": "On a vu un orignal en s'en allant au chalet.",
+   "en": "We saw a moose on the way to the cottage.",
+   "note": "nature (w66) + gérondif"
+  },
+  {
+   "fr": "J'ai de la misère à comprendre les nouvelles.",
+   "en": "I have trouble understanding the news.",
+   "note": "avoir de la misère à (w60)"
+  }
+ ],
+ "quebec": {
+  "intro": "Checkpoint 4 brings together the Quebec layers of lessons 60 to 78. Test yourself: can you give the standard equivalent of each spoken form?",
+  "items": [
+   {
+    "std": "J'ai du mal à me lever.",
+    "qc": "J'ai de la misère à me lever.",
+    "en": "I have trouble getting up.",
+    "note": "w60; informal but very common"
+   },
+   {
+    "std": "Je vais vérifier et annuler.",
+    "qc": "J'vas checker pis canceller.",
+    "en": "I'll check and cancel.",
+    "note": "w67 anglicisms; informal"
+   },
+   {
+    "std": "Il pleut et il fait très froid.",
+    "qc": "Y mouille pis y fait frette.",
+    "en": "It's raining and it's freezing.",
+    "note": "w73; informal"
+   },
+   {
+    "std": "Si j'avais su…",
+    "qc": "Si j'aurais su…",
+    "en": "If I had known…",
+    "note": "w72; heard but nonstandard"
+   },
+   {
+    "std": "Il n'y a personne, pas du tout.",
+    "qc": "Y'a pas personne pantoute.",
+    "en": "There's nobody at all.",
+    "note": "w75; double negative is nonstandard"
+   },
+   {
+    "std": "Ils sont tous là.",
+    "qc": "Y sont toutes là.",
+    "en": "They're all here.",
+    "note": "w76; toutes [tut] in speech"
+   },
+   {
+    "std": "Est-ce que tu viens ce soir?",
+    "qc": "Tu viens-tu à soir?",
+    "en": "Are you coming tonight?",
+    "note": "w78; informal"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Which sentence says he left BEFORE you arrived?",
+   "options": [
+    "Quand je suis arrivé, il partait.",
+    "Quand je suis arrivé, il était parti.",
+    "Quand je suis arrivé, il est parti.",
+    "Quand j'arrive, il part."
+   ],
+   "a": 1,
+   "why": "Plus-que-parfait = earlier past (w68)."
+  },
+  {
+   "t": "mcq",
+   "q": "Which si clause is standard?",
+   "options": [
+    "Si j'aurais le temps…",
+    "Si j'avais le temps…",
+    "Si j'aurai le temps…",
+    "Si j'eus le temps…"
+   ],
+   "a": 1,
+   "why": "si + imparfait (w72)."
+  },
+  {
+   "t": "mcq",
+   "q": "'Avoir mal au cœur' means…",
+   "options": [
+    "heart pain",
+    "nausea",
+    "heartbreak",
+    "fear"
+   ],
+   "a": 1,
+   "why": "Nausea (w64)."
+  },
+  {
+   "t": "mcq",
+   "q": "In Quebec, 'le dîner' is…",
+   "options": [
+    "breakfast",
+    "lunch",
+    "supper",
+    "a snack"
+   ],
+   "a": 1,
+   "why": "Déjeuner, dîner, souper (w65)."
+  },
+  {
+   "t": "fill",
+   "q": "Elle vient ___ partir. (of)",
+   "a": [
+    "de"
+   ],
+   "en": "She has just left.",
+   "why": "venir de + infinitive (w69)."
+  },
+  {
+   "t": "fill",
+   "q": "J'ai appris à cuisiner en ___ ma mère. (regarder)",
+   "a": [
+    "regardant"
+   ],
+   "en": "I learned to cook by watching my mother.",
+   "why": "Gérondif (w70)."
+  },
+  {
+   "t": "fill",
+   "q": "Il ___ partir plus tôt demain. (falloir, futur)",
+   "a": [
+    "faudra"
+   ],
+   "en": "We'll have to leave earlier tomorrow.",
+   "why": "falloir → il faudra (w73)."
+  },
+  {
+   "t": "fill",
+   "q": "Mes parents habitent ___ Nouveau-Brunswick. (in the)",
+   "a": [
+    "au"
+   ],
+   "en": "My parents live in New Brunswick.",
+   "why": "Masculine province → au (w74)."
+  },
+  {
+   "t": "fill",
+   "q": "Je ne connais ___ ici. (nobody)",
+   "a": [
+    "personne"
+   ],
+   "en": "I don't know anyone here.",
+   "why": "ne… personne (w75)."
+  },
+  {
+   "t": "fill",
+   "q": "Elles sont ___ venues. (all)",
+   "a": [
+    "toutes"
+   ],
+   "en": "They all came.",
+   "why": "Feminine plural pronoun (w76)."
+  },
+  {
+   "t": "build",
+   "en": "If I were rich, I would buy a cottage.",
+   "a": "Si j'étais riche, j'achèterais un chalet."
+  },
+  {
+   "t": "build",
+   "en": "I had already eaten when she called.",
+   "a": "J'avais déjà mangé quand elle a appelé."
+  },
+  {
+   "t": "translate",
+   "en": "Could you speak more slowly?",
+   "a": [
+    "Pourriez-vous parler plus lentement?",
+    "Pourrais-tu parler plus lentement?",
+    "Vous pourriez parler plus lentement?",
+    "Tu pourrais parler plus lentement?"
+   ],
+   "why": "Polite conditionnel (w71)."
+  },
+  {
+   "t": "translate",
+   "en": "I'm going to Quebec City.",
+   "a": [
+    "Je vais à Québec.",
+    "Je m'en vais à Québec."
+   ],
+   "why": "City → à (w74)."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "déjà",
+   "en": "already",
+   "ex": "Il était déjà parti."
+  },
+  {
+   "fr": "venir de",
+   "en": "to have just",
+   "ex": "Je viens de finir."
+  },
+  {
+   "fr": "en passant",
+   "en": "by the way",
+   "ex": "En passant, merci!"
+  },
+  {
+   "fr": "j'aimerais ça",
+   "en": "I'd like that",
+   "ex": "Un souper? J'aimerais ça!",
+   "qc": true
+  },
+  {
+   "fr": "à ta place",
+   "en": "if I were you",
+   "ex": "À ta place, je resterais."
+  },
+  {
+   "fr": "même si",
+   "en": "even if",
+   "ex": "Je sors même s'il pleut."
+  },
+  {
+   "fr": "il faut",
+   "en": "one must, it's necessary",
+   "ex": "Il faut partir."
+  },
+  {
+   "fr": "il mouille",
+   "en": "it's raining (Quebec)",
+   "ex": "Y mouille encore.",
+   "qc": true
+  },
+  {
+   "fr": "en ville",
+   "en": "downtown (Quebec)",
+   "ex": "On va en ville?",
+   "qc": true
+  },
+  {
+   "fr": "ne… plus",
+   "en": "no longer",
+   "ex": "Je n'y vais plus."
+  },
+  {
+   "fr": "pantoute",
+   "en": "at all (informal)",
+   "ex": "Pas pantoute!",
+   "qc": true
+  },
+  {
+   "fr": "tout le monde",
+   "en": "everyone",
+   "ex": "Tout le monde est là."
+  },
+  {
+   "fr": "les manchettes",
+   "en": "headlines",
+   "g": "f",
+   "ex": "Voici les manchettes."
+  },
+  {
+   "fr": "t'sé",
+   "en": "you know (informal)",
+   "ex": "C'est dur, t'sé.",
+   "qc": true
+  },
+  {
+   "fr": "avoir de la misère à",
+   "en": "to have trouble (doing)",
+   "ex": "J'ai de la misère à dormir.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "j'avais / j'aurais",
+    "tip": "zha-VÈ / zho-RÈ: imparfait vs conditionnel."
+   },
+   {
+    "fr": "je parlerai / je parlerais",
+    "tip": "Future [é] vs conditional [è]."
+   },
+   {
+    "fr": "Ils sont tous là.",
+    "tip": "Pronoun tous: TOOSS."
+   },
+   {
+    "fr": "aux États-Unis",
+    "tip": "oh-zay-ta-zu-NEE."
+   },
+   {
+    "fr": "en écoutant",
+    "tip": "ahn-nay-koo-TAHN."
+   },
+   {
+    "fr": "chu / t'sé / y'é",
+    "tip": "SHU / TSAY / YAY."
+   }
+  ],
+  "title": "Retour de vacances",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Allô! Tu viens de rentrer de la Gaspésie?",
+    "en": "Hi! You just got back from the Gaspé?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, hier soir. Mais on avait oublié de réserver le dernier hôtel!",
+    "en": "Yes, last night. But we had forgotten to book the last hotel!"
+   },
+   {
+    "s": "A",
+    "fr": "Oh non! Qu'est-ce que vous avez fait?",
+    "en": "Oh no! What did you do?"
+   },
+   {
+    "s": "B",
+    "fr": "Il a fallu dormir dans le char. Il pleuvait toute la nuit.",
+    "en": "We had to sleep in the car. It was raining all night."
+   },
+   {
+    "s": "A",
+    "fr": "Ouf! Vous deviez être fâchés! Mais à part ça?",
+    "en": "Phew! You must have been angry! But apart from that?"
+   },
+   {
+    "s": "B",
+    "fr": "C'était super. On a vu des baleines en faisant du kayak.",
+    "en": "It was great. We saw whales while kayaking."
+   },
+   {
+    "s": "A",
+    "fr": "Wow! Moi, je n'ai jamais vu de baleine.",
+    "en": "Wow! I've never seen a whale."
+   },
+   {
+    "s": "B",
+    "fr": "Si t'avais une semaine de congé, tu pourrais y aller en août.",
+    "en": "If you had a week off, you could go in August."
+   },
+   {
+    "s": "A",
+    "fr": "J'aimerais ça! Mais au travail, personne ne veut me remplacer.",
+    "en": "I'd like that! But at work, nobody wants to replace me."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What had B forgotten?",
+    "options": [
+     "The tent",
+     "To book the last hotel",
+     "The car keys"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What did they see while kayaking?",
+    "options": [
+     "Moose",
+     "Whales",
+     "Bears"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Why can't A take a vacation?",
+    "options": [
+     "No money",
+     "Nobody wants to replace A at work",
+     "A doesn't like travelling"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Tell a 4-sentence story with a plus-que-parfait and a venir de.",
+   "model": "Hier, je venais de sortir quand j'ai vu que j'avais oublié mon cellulaire. Je suis rentré, mais ma coloc était déjà partie avec mes clés!"
+  },
+  {
+   "prompt": "Say what you would do if you had a month of vacation (three sentences).",
+   "model": "Si j'avais un mois de vacances, j'irais en Gaspésie. Je ferais du kayak. Je ne travaillerais pas du tout!"
+  },
+  {
+   "prompt": "Make a polite request to a landlord and a casual one to a friend.",
+   "model": "Pourriez-vous réparer le chauffe-eau? / Tu pourrais-tu m'aider samedi?"
+  },
+  {
+   "prompt": "Describe today's weather and what you must do because of it.",
+   "model": "Il neige depuis ce matin, alors il faut pelleter l'entrée et il faudrait mettre les pneus d'hiver."
+  }
+ ],
+ "write": {
+  "prompt": "Checkpoint writing task (8–10 sentences): write about a recent trip in Quebec. Include a plus-que-parfait, a venir de, a gérondif, a si clause, a negative other than pas, and at least two place prepositions.",
+  "model": "Je viens de rentrer d'une semaine au Saguenay. Avant de partir, j'avais tout planifié. On est partis de Montréal en char et on a écouté des balados en roulant. Au Lac-Saint-Jean, il a plu deux jours, mais ce n'était pas grave. On a fait du vélo et on a mangé de la tourtière. Je n'avais jamais vu un aussi grand lac! Si j'avais plus de vacances, j'irais aussi en Gaspésie. Tout le monde était très gentil. J'aimerais ça y retourner l'été prochain."
+ },
+ "quiz": [
+  {
+   "q": "Conditional of 'pouvoir' with vous:",
+   "options": [
+    "vous pourrez",
+    "vous pourriez",
+    "vous pouviez",
+    "vous pourrions"
+   ],
+   "a": 1,
+   "why": "pourr- + -iez."
+  },
+  {
+   "q": "Which is a type 1 sentence?",
+   "options": [
+    "Si tu viens, on mangera ensemble.",
+    "Si tu venais, on mangerait ensemble.",
+    "Si tu viendrais, on mange.",
+    "Si tu es venu, on mangerait."
+   ],
+   "a": 0,
+   "why": "si + present → future."
+  },
+  {
+   "q": "'En s'en allant' means…",
+   "options": [
+    "while leaving / on the way",
+    "after leaving",
+    "without leaving",
+    "before going"
+   ],
+   "a": 0,
+   "why": "Gérondif of s'en aller (w70)."
+  },
+  {
+   "q": "Past participle of 'pleuvoir':",
+   "options": [
+    "pleuvu",
+    "plu",
+    "pleut",
+    "plut"
+   ],
+   "a": 1,
+   "why": "il a plu (w73)."
+  },
+  {
+   "q": "Which is correct?",
+   "options": [
+    "en Japon",
+    "au Mexique",
+    "à Ontario",
+    "en États-Unis"
+   ],
+   "a": 1,
+   "why": "Le Mexique is masculine → au (w74)."
+  },
+  {
+   "q": "'Rien n'a changé' means…",
+   "options": [
+    "Nothing changed.",
+    "Everything changed.",
+    "Something changed.",
+    "He didn't change."
+   ],
+   "a": 0,
+   "why": "Rien as subject (w75)."
+  },
+  {
+   "q": "'Tous' is pronounced [tooss] in…",
+   "options": [
+    "tous les jours",
+    "Merci à tous!",
+    "tous mes amis",
+    "tous les deux"
+   ],
+   "a": 1,
+   "why": "Pronoun at the end (w76)."
+  },
+  {
+   "q": "'Actuellement' means…",
+   "options": [
+    "actually",
+    "currently",
+    "eventually",
+    "finally"
+   ],
+   "a": 1,
+   "why": "False friend (w67)."
+  },
+  {
+   "q": "'Les manchettes' in a news bulletin are…",
+   "options": [
+    "the ads",
+    "the headlines",
+    "the weather",
+    "the hosts"
+   ],
+   "a": 1,
+   "why": "w77."
+  },
+  {
+   "q": "'A l'a raison' means…",
+   "options": [
+    "She has a reason.",
+    "She's right.",
+    "He's right.",
+    "It's reasonable."
+   ],
+   "a": 1,
+   "why": "a l'a = elle a; avoir raison = to be right (w78)."
+  }
+ ]
+}

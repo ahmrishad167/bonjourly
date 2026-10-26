@@ -1,0 +1,2788 @@
+[
+ {
+  "id": "a01",
+  "title": "Bonjour, Samir!",
+  "level": "A1",
+  "week": 8,
+  "place": "Montréal",
+  "summary": "Samir, a newcomer from Toronto, meets his neighbour Mme Tremblay and her very bossy orange cat.",
+  "text": [
+   "Montréal, rue Saint-Denis. Voici Samir, avec une boîte, une valise et un sac. Samir, c'est un nouveau voisin. Et voici une voisine : une dame avec un gros chat orange.",
+   "— Bonjour, monsieur! Bienvenue!",
+   "— Bonjour, madame! Je m'appelle Samir.",
+   "— Enchantée, Samir! Moi, c'est madame Tremblay. Gisèle Tremblay. Ça va?",
+   "— Ça va bien, merci. Et vous?",
+   "— Très bien, merci! Et lui, c'est Caramel. Caramel, c'est le boss de la rue.",
+   "— Salut, Caramel!",
+   "— Miaou.",
+   "— Bon! Bonne journée, Samir. Bienvenue dans le quartier!",
+   "— Merci, madame. Bonne journée! À bientôt!",
+   "— Bye!",
+   "Une minute plus tard. Voici l'appartement de Samir : une boîte, une valise, un sac... et un gros chat orange.",
+   "— Caramel? Oh non!"
+  ],
+  "dialogue_ok": true,
+  "glossary": [
+   {
+    "fr": "voici",
+    "en": "here is / here are"
+   },
+   {
+    "fr": "un voisin, une voisine",
+    "en": "a neighbour (m./f.)"
+   },
+   {
+    "fr": "une boîte",
+    "en": "a box"
+   },
+   {
+    "fr": "une valise",
+    "en": "a suitcase"
+   },
+   {
+    "fr": "gros",
+    "en": "big, fat"
+   },
+   {
+    "fr": "Bienvenue!",
+    "en": "Welcome!"
+   },
+   {
+    "fr": "Enchantée",
+    "en": "Nice to meet you (said by a woman; a man writes « enchanté »)"
+   },
+   {
+    "fr": "Ça va?",
+    "en": "How are you? / Is it going OK?"
+   },
+   {
+    "fr": "le boss",
+    "en": "the boss (informal)",
+    "qc": true
+   },
+   {
+    "fr": "le quartier",
+    "en": "the neighbourhood"
+   },
+   {
+    "fr": "À bientôt!",
+    "en": "See you soon!"
+   },
+   {
+    "fr": "Bye!",
+    "en": "Bye! (very common goodbye in Quebec French)",
+    "qc": true
+   }
+  ],
+  "questions": [
+   {
+    "q": "What is Mme Tremblay's first name?",
+    "options": [
+     "Caramel",
+     "Gisèle",
+     "Samir"
+    ],
+    "a": 1,
+    "why": "She says « Moi, c'est madame Tremblay. Gisèle Tremblay. »"
+   },
+   {
+    "q": "Who or what is Caramel?",
+    "options": [
+     "A new neighbour",
+     "A big orange cat",
+     "A street in Montréal"
+    ],
+    "a": 1,
+    "why": "Mme Tremblay is « une dame avec un gros chat orange » and says « lui, c'est Caramel »."
+   },
+   {
+    "q": "How does Samir answer « Ça va? »",
+    "options": [
+     "Ça va bien, merci. Et vous?",
+     "Bienvenue dans le quartier!",
+     "Enchantée!"
+    ],
+    "a": 0,
+    "why": "« Ça va bien, merci. Et vous? » = I'm fine, thanks. And you?"
+   },
+   {
+    "q": "What does « Bienvenue dans le quartier! » mean?",
+    "options": [
+     "Goodbye, neighbour!",
+     "Is the neighbourhood nice?",
+     "Welcome to the neighbourhood!"
+    ],
+    "a": 2,
+    "why": "« Bienvenue » = welcome, « le quartier » = the neighbourhood."
+   },
+   {
+    "q": "Where is Caramel at the end of the story?",
+    "options": [
+     "In Samir's apartment",
+     "With Mme Tremblay",
+     "On rue Saint-Denis"
+    ],
+    "a": 0,
+    "why": "In Samir's apartment there is « une boîte, une valise, un sac... et un gros chat orange »."
+   }
+  ],
+  "quebec_note": "French speakers in Quebec very often say « Bye! » (or « Bye-bye! ») to end a conversation, even one held entirely in French. It is completely natural and not considered English."
+ },
+ {
+  "id": "a02",
+  "title": "Au dépanneur",
+  "level": "A1",
+  "week": 12,
+  "place": "Montréal",
+  "summary": "Samir insists on speaking French at the corner store, then discovers he has forgotten his card.",
+  "text": [
+   "Samir a faim, mais il n'a pas de lait. Il va au dépanneur du coin. Le caissier s'appelle Raj.",
+   "— Bonjour-hi!",
+   "— Bonjour! Je cherche le lait, s'il vous plaît.",
+   "— Oh, the milk? It's in the back, in the fridge.",
+   "— Non, non! En français, s'il vous plaît. Je veux parler français!",
+   "— Ah! Pas de problème! Le lait est au fond, dans le frigo.",
+   "Samir trouve le lait, un pain et un gros sac de chips.",
+   "— C'est tout?",
+   "— Oui, merci. Je paie avec la carte.",
+   "Mais la carte n'est pas dans la poche de Samir. Elle est sur la table, à l'appartement.",
+   "— Oh non! Je suis désolé! Je n'ai pas d'argent!",
+   "Raj rigole.",
+   "— Pas de problème, mon ami. Tu paies demain. Mais demain, on parle encore français, OK?",
+   "— OK! Merci, Raj!",
+   "Samir rentre avec le lait, le pain et les chips. Il ne paie pas aujourd'hui, mais il a un nouvel ami."
+  ],
+  "dialogue_ok": true,
+  "glossary": [
+   {
+    "fr": "le dépanneur",
+    "en": "the corner store (convenience store)",
+    "qc": true
+   },
+   {
+    "fr": "du coin",
+    "en": "on the corner, local"
+   },
+   {
+    "fr": "avoir faim",
+    "en": "to be hungry"
+   },
+   {
+    "fr": "le caissier",
+    "en": "the cashier"
+   },
+   {
+    "fr": "Bonjour-hi!",
+    "en": "bilingual greeting used in Montréal stores",
+    "qc": true
+   },
+   {
+    "fr": "je cherche",
+    "en": "I'm looking for"
+   },
+   {
+    "fr": "au fond",
+    "en": "at the back"
+   },
+   {
+    "fr": "le frigo",
+    "en": "the fridge"
+   },
+   {
+    "fr": "C'est tout?",
+    "en": "Is that all?"
+   },
+   {
+    "fr": "je paie",
+    "en": "I pay (payer)"
+   },
+   {
+    "fr": "la poche",
+    "en": "the pocket"
+   },
+   {
+    "fr": "désolé",
+    "en": "sorry"
+   },
+   {
+    "fr": "l'argent",
+    "en": "money"
+   },
+   {
+    "fr": "rigoler",
+    "en": "to laugh (informal)"
+   },
+   {
+    "fr": "demain",
+    "en": "tomorrow"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Why does Samir go to the dépanneur?",
+    "options": [
+     "He wants to meet Raj",
+     "He has no milk",
+     "He needs a new card"
+    ],
+    "a": 1,
+    "why": "« Il n'a pas de lait. Il va au dépanneur du coin. »"
+   },
+   {
+    "q": "When Raj switches to English, what does Samir ask?",
+    "options": [
+     "To speak French",
+     "To speak Punjabi",
+     "To speak more slowly"
+    ],
+    "a": 0,
+    "why": "« En français, s'il vous plaît. [...] je veux parler français! »"
+   },
+   {
+    "q": "Where is the milk?",
+    "options": [
+     "On the table",
+     "At the cash",
+     "At the back, in the fridge"
+    ],
+    "a": 2,
+    "why": "« Le lait est au fond, dans le frigo. »"
+   },
+   {
+    "q": "What is Samir's problem at the cash?",
+    "options": [
+     "The store has no chips",
+     "His card is at home",
+     "Raj doesn't speak French"
+    ],
+    "a": 1,
+    "why": "« Elle est sur la table, à l'appartement. »"
+   },
+   {
+    "q": "What does Raj ask in return?",
+    "options": [
+     "That Samir pays double",
+     "That Samir brings a friend",
+     "That they speak French again tomorrow"
+    ],
+    "a": 2,
+    "why": "« Mais demain, on parle encore français, OK? »"
+   }
+  ],
+  "quebec_note": "A « dépanneur » (often just « le dép ») is a Quebec corner store selling milk, snacks, beer and lottery tickets. « Bonjour-hi » is the bilingual greeting of downtown Montréal shops; in 2017 the National Assembly passed a motion inviting merchants to greet customers with a simple « Bonjour »."
+ },
+ {
+  "id": "a03",
+  "title": "La ligne orange",
+  "level": "A1",
+  "week": 15,
+  "place": "Montréal",
+  "summary": "On his first day of work, Samir takes the métro in the wrong direction and ends up in Laval, where luck is waiting.",
+  "text": [
+   "C'est le premier jour de travail de Samir. Le bureau est à Square-Victoria. Samir habite près de la station Mont-Royal, sur la ligne orange. Direction Côte-Vertu ou Montmorency? Samir hésite... Montmorency!",
+   "Il y a beaucoup de monde dans le métro. Samir écoute de la musique. Une station, cinq stations, huit stations... Mais où est Square-Victoria?",
+   "« Montmorency. Terminus! » Samir n'est pas à Montréal. Il est à Laval!",
+   "Sur le quai, il y a une jeune femme avec un badge. Le badge du bureau de Samir!",
+   "— Excusez-moi, vous travaillez chez Pixel Nord?",
+   "— Oui! Et toi, tu es qui?",
+   "— Je m'appelle Samir. C'est mon premier jour... et je suis à Laval.",
+   "— Ha! Moi, c'est Jessica. J'habite ici, à Laval. Tu es dans la mauvaise direction, mon ami! Allez, on va au bureau ensemble. Direction Côte-Vertu!",
+   "Samir est en retard, oui. Mais maintenant, il a une collègue."
+  ],
+  "dialogue_ok": true,
+  "glossary": [
+   {
+    "fr": "le premier jour",
+    "en": "the first day"
+   },
+   {
+    "fr": "le travail",
+    "en": "work, job"
+   },
+   {
+    "fr": "le bureau",
+    "en": "the office"
+   },
+   {
+    "fr": "habiter",
+    "en": "to live (somewhere)"
+   },
+   {
+    "fr": "la ligne",
+    "en": "the (métro) line"
+   },
+   {
+    "fr": "il y a",
+    "en": "there is / there are"
+   },
+   {
+    "fr": "beaucoup de monde",
+    "en": "lots of people"
+   },
+   {
+    "fr": "Terminus!",
+    "en": "Last stop!"
+   },
+   {
+    "fr": "le quai",
+    "en": "the platform"
+   },
+   {
+    "fr": "travailler chez",
+    "en": "to work at (a company)"
+   },
+   {
+    "fr": "la mauvaise direction",
+    "en": "the wrong direction"
+   },
+   {
+    "fr": "ensemble",
+    "en": "together"
+   },
+   {
+    "fr": "en retard",
+    "en": "late"
+   },
+   {
+    "fr": "une collègue",
+    "en": "a coworker (f.)"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Which métro line does Samir take?",
+    "options": [
+     "The green line",
+     "The orange line",
+     "The blue line"
+    ],
+    "a": 1,
+    "why": "« la station Mont-Royal, sur la ligne orange »."
+   },
+   {
+    "q": "Where is Samir's office?",
+    "options": [
+     "Near Square-Victoria",
+     "In Laval",
+     "Near Mont-Royal station"
+    ],
+    "a": 0,
+    "why": "« Le bureau est à Square-Victoria. »"
+   },
+   {
+    "q": "Where does Samir arrive by mistake?",
+    "options": [
+     "Côte-Vertu",
+     "Berri-UQAM",
+     "Montmorency, in Laval"
+    ],
+    "a": 2,
+    "why": "« Montmorency. Terminus! [...] Il est à Laval! »"
+   },
+   {
+    "q": "How does Samir guess that Jessica works at his company?",
+    "options": [
+     "Her coffee cup",
+     "Her music",
+     "Her badge"
+    ],
+    "a": 2,
+    "why": "She has « le badge du bureau de Samir »."
+   },
+   {
+    "q": "What does « en retard » mean?",
+    "options": [
+     "Late",
+     "Lost",
+     "Tired"
+    ],
+    "a": 0,
+    "why": "The story translates it: « late » = « en retard »."
+   }
+  ],
+  "quebec_note": "Notice that Samir says « vous » but Jessica answers with « tu » right away: in Quebec, coworkers of similar age almost always use « tu », even on the first day."
+ },
+ {
+  "id": "a04",
+  "title": "Canadien contre Leafs",
+  "level": "A1",
+  "week": 18,
+  "place": "Montréal",
+  "summary": "Jessica invites Samir to a Canadiens game, but she doesn't know that he is a secret Toronto Maple Leafs fan.",
+  "text": [
+   "Lundi, Jessica arrive au bureau avec deux billets.",
+   "— Samir! Samedi soir, il y a un match du Canadien au Centre Bell. Le match commence à dix-neuf heures. Tu veux aller au match avec moi?",
+   "— Oui! J'adore le hockey! C'est contre qui?",
+   "— Contre Toronto! Les Maple Leafs!",
+   "Samir est de Toronto. Il adore les Leafs depuis l'âge de six ans. Mais il ne dit rien. Chut!",
+   "Samedi, dix-huit heures trente. Le billet coûte quatre-vingt-cinq dollars et une bière coûte quatorze dollars! ",
+   "Première période : un à zéro pour Montréal. Deuxième période : deux à deux. Troisième période : trois à trois! Prolongation!",
+   "Puis un joueur de Toronto marque. Quatre à trois pour les Leafs!",
+   "— OUI! crie Samir.",
+   "Vingt personnes regardent Samir. Jessica aussi.",
+   "— Samir... Tu es pour Toronto?",
+   "— Euh... Je suis de Toronto. Désolé!",
+   "— Bon. Tu paies la poutine, d'abord!"
+  ],
+  "dialogue_ok": true,
+  "glossary": [
+   {
+    "fr": "le billet",
+    "en": "the ticket"
+   },
+   {
+    "fr": "le Canadien",
+    "en": "the Montréal Canadiens hockey team (also « le CH », « les Habs »)",
+    "qc": true
+   },
+   {
+    "fr": "commencer",
+    "en": "to start"
+   },
+   {
+    "fr": "dix-neuf heures",
+    "en": "7 p.m. (24-hour clock)"
+   },
+   {
+    "fr": "contre",
+    "en": "against"
+   },
+   {
+    "fr": "ne... rien",
+    "en": "nothing"
+   },
+   {
+    "fr": "coûter",
+    "en": "to cost"
+   },
+   {
+    "fr": "la période",
+    "en": "the period (in hockey)"
+   },
+   {
+    "fr": "la prolongation",
+    "en": "overtime"
+   },
+   {
+    "fr": "le joueur",
+    "en": "the player"
+   },
+   {
+    "fr": "marquer",
+    "en": "to score"
+   },
+   {
+    "fr": "crier",
+    "en": "to shout"
+   },
+   {
+    "fr": "la poutine",
+    "en": "fries with cheese curds and gravy",
+    "qc": true
+   },
+   {
+    "fr": "d'abord",
+    "en": "then / in that case (at the end of a sentence)",
+    "qc": true
+   }
+  ],
+  "questions": [
+   {
+    "q": "What time does the game start?",
+    "options": [
+     "6:30 p.m.",
+     "7 p.m.",
+     "9 p.m."
+    ],
+    "a": 1,
+    "why": "« Le match commence à dix-neuf heures » = 19:00 = 7 p.m."
+   },
+   {
+    "q": "How much does one ticket cost?",
+    "options": [
+     "$14",
+     "$95",
+     "$85"
+    ],
+    "a": 2,
+    "why": "« Le billet coûte quatre-vingt-cinq dollars » = 85."
+   },
+   {
+    "q": "What is the score after the third period?",
+    "options": [
+     "3–3",
+     "4–3 for Toronto",
+     "2–2"
+    ],
+    "a": 0,
+    "why": "« Troisième période : trois à trois! Prolongation! »"
+   },
+   {
+    "q": "Why do twenty people look at Samir?",
+    "options": [
+     "He spills his beer",
+     "He shouts « OUI! » when Toronto scores",
+     "He sings the anthem"
+    ],
+    "a": 1,
+    "why": "Toronto scores in overtime and « OUI! crie Samir » in a Montréal crowd."
+   },
+   {
+    "q": "What does Jessica mean by « Tu paies la poutine, d'abord! »?",
+    "options": [
+     "First, pay for the poutine",
+     "In that case, you're paying for the poutine!",
+     "You never pay for poutine"
+    ],
+    "a": 1,
+    "why": "In Quebec, « d'abord » at the end of a sentence means « then / in that case »."
+   }
+  ],
+  "quebec_note": "Montréal fans call their team « le Canadien » (singular!) or « le CH ». At the end of a sentence, Quebecers use « d'abord » to mean « then, in that case »: « Viens, d'abord! » = « Come on, then! »."
+ },
+ {
+  "id": "a05",
+  "title": "Mon chum Kevin",
+  "level": "A1",
+  "week": 22,
+  "place": "Montréal",
+  "summary": "Jessica shows Samir her desk photos, and two Quebec words, « chum » and « blonde », cause a funny misunderstanding.",
+  "text": [
+   "Le bureau de Pixel Nord est grand et moderne. Il y a des plantes vertes et des chaises rouges. Le bureau de Samir est à côté du bureau de Jessica, devant la fenêtre.",
+   "Sur le bureau de Jessica, il y a beaucoup de photos.",
+   "— Ça, c'est ma mère, et ça, c'est mon chien, Pinotte. Et lui, c'est mon chum, Kevin.",
+   "Samir regarde la photo. Kevin est grand, avec une barbe rousse et un beau sourire.",
+   "— Ton chum? Ah, ton ami!",
+   "— Non, non, pas mon ami. Mon chum! Mon amoureux!",
+   "— Oh! Pardon!",
+   "Le midi, ils mangent à la cafétéria.",
+   "— Et toi, Samir, tu as une blonde?",
+   "Samir touche ses cheveux noirs.",
+   "— Une blonde? Non... Mes cheveux sont noirs.",
+   "Jessica rigole.",
+   "— Mais non! Une blonde, c'est une amoureuse! Ta girlfriend!",
+   "— Ah... Non. Pas de blonde, pas de chum. J'ai seulement un chat... et c'est le chat de ma voisine!"
+  ],
+  "dialogue_ok": true,
+  "glossary": [
+   {
+    "fr": "à côté de",
+    "en": "next to"
+   },
+   {
+    "fr": "devant",
+    "en": "in front of"
+   },
+   {
+    "fr": "la fenêtre",
+    "en": "the window"
+   },
+   {
+    "fr": "sur",
+    "en": "on"
+   },
+   {
+    "fr": "mon chum",
+    "en": "my boyfriend",
+    "qc": true
+   },
+   {
+    "fr": "ma blonde",
+    "en": "my girlfriend (any hair colour!)",
+    "qc": true
+   },
+   {
+    "fr": "Pinotte",
+    "en": "a pet name; « une pinotte » = a peanut",
+    "qc": true
+   },
+   {
+    "fr": "une barbe rousse",
+    "en": "a red beard"
+   },
+   {
+    "fr": "le sourire",
+    "en": "the smile"
+   },
+   {
+    "fr": "un amoureux, une amoureuse",
+    "en": "a sweetheart, partner"
+   },
+   {
+    "fr": "le midi",
+    "en": "at noon / at lunchtime"
+   },
+   {
+    "fr": "les cheveux",
+    "en": "hair"
+   },
+   {
+    "fr": "seulement",
+    "en": "only"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Where is Samir's desk?",
+    "options": [
+     "Next to Jessica's desk, in front of the window",
+     "In the cafeteria",
+     "Behind the red chairs"
+    ],
+    "a": 0,
+    "why": "« à côté du bureau de Jessica, devant la fenêtre »."
+   },
+   {
+    "q": "Who is Pinotte?",
+    "options": [
+     "Jessica's mother",
+     "Jessica's dog",
+     "Jessica's boyfriend"
+    ],
+    "a": 1,
+    "why": "« ça, c'est mon chien, Pinotte »."
+   },
+   {
+    "q": "What does Samir first think « chum » means?",
+    "options": [
+     "Brother",
+     "Boss",
+     "Friend"
+    ],
+    "a": 2,
+    "why": "He says « Ton chum? Ah, ton ami! » because in English « chum » means a friend."
+   },
+   {
+    "q": "Why does Samir touch his hair?",
+    "options": [
+     "He thinks « blonde » means a blond person",
+     "He wants a haircut",
+     "He is nervous about Kevin"
+    ],
+    "a": 0,
+    "why": "He answers « Mes cheveux sont noirs », thinking of hair colour."
+   },
+   {
+    "q": "What does Samir say about the cat?",
+    "options": [
+     "It is his cat",
+     "It belongs to his neighbour",
+     "It belongs to Jessica"
+    ],
+    "a": 1,
+    "why": "« C'est le chat de ma voisine! » (Caramel, Mme Tremblay's cat)."
+   }
+  ],
+  "quebec_note": "In Quebec, « mon chum » = my boyfriend and « ma blonde » = my girlfriend, whatever her hair colour. « Un chum » can also mean a buddy, but « mon chum » with a romantic context means boyfriend."
+ },
+ {
+  "id": "a06",
+  "title": "La vraie poutine",
+  "level": "A1",
+  "week": 26,
+  "place": "Montréal (marché Jean-Talon)",
+  "summary": "Samir wants to cook poutine for Mme Tremblay, and a cheese seller at the Jean-Talon market saves him from a terrible mistake.",
+  "text": [
+   "Samedi, Samir va faire un souper pour Mme Tremblay. Il va préparer une poutine! Il part au marché Jean-Talon.",
+   "Au marché, il y a des fruits, des légumes, du pain et du fromage. Samir choisit des pommes de terre, puis il va au comptoir du fromage.",
+   "— Bonjour! Je voudrais du cheddar râpé, s'il vous plaît.",
+   "— Du cheddar râpé? Pour quoi faire?",
+   "— Pour une poutine!",
+   "— Non, non, non! Pour une vraie poutine, on prend du fromage en grains! Tiens, goûte.",
+   "Samir mange un grain. Squick, squick!",
+   "— Il fait du bruit!",
+   "— Oui! Un bon fromage en grains fait « squick-squick ». C'est le signe qu'il est frais!",
+   "Le soir, Mme Tremblay vient chez Samir avec Caramel et une tarte au sucre. Samir sert la poutine. Mme Tremblay goûte. Elle ferme les yeux.",
+   "— Samir... tu vas devenir un vrai Québécois."
+  ],
+  "dialogue_ok": true,
+  "glossary": [
+   {
+    "fr": "le souper",
+    "en": "supper, the evening meal",
+    "qc": true
+   },
+   {
+    "fr": "aller + infinitif",
+    "en": "going to (futur proche)"
+   },
+   {
+    "fr": "le marché",
+    "en": "the market"
+   },
+   {
+    "fr": "choisir",
+    "en": "to choose"
+   },
+   {
+    "fr": "les pommes de terre",
+    "en": "potatoes"
+   },
+   {
+    "fr": "Pour quoi faire?",
+    "en": "What for?"
+   },
+   {
+    "fr": "le comptoir",
+    "en": "the counter"
+   },
+   {
+    "fr": "râpé",
+    "en": "grated, shredded"
+   },
+   {
+    "fr": "le fromage en grains",
+    "en": "cheese curds",
+    "qc": true
+   },
+   {
+    "fr": "Tiens, goûte.",
+    "en": "Here, taste."
+   },
+   {
+    "fr": "faire du bruit",
+    "en": "to make noise"
+   },
+   {
+    "fr": "frais",
+    "en": "fresh"
+   },
+   {
+    "fr": "la tarte au sucre",
+    "en": "sugar pie (a Quebec dessert)",
+    "qc": true
+   },
+   {
+    "fr": "servir (il sert)",
+    "en": "to serve"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What is Samir going to cook for Mme Tremblay?",
+    "options": [
+     "A sugar pie",
+     "A poutine",
+     "A cheese soup"
+    ],
+    "a": 1,
+    "why": "« Il va préparer une poutine! »"
+   },
+   {
+    "q": "What cheese does Samir ask for first?",
+    "options": [
+     "Cheese curds",
+     "Brie",
+     "Grated cheddar"
+    ],
+    "a": 2,
+    "why": "« Je voudrais du cheddar râpé »."
+   },
+   {
+    "q": "According to the fromagère, what does real poutine need?",
+    "options": [
+     "Cheese curds",
+     "Maple syrup",
+     "Grated cheddar"
+    ],
+    "a": 0,
+    "why": "« Pour une vraie poutine, on prend du fromage en grains! »"
+   },
+   {
+    "q": "Why does the cheese go « squick-squick »?",
+    "options": [
+     "It is old",
+     "It is fresh",
+     "It is frozen"
+    ],
+    "a": 1,
+    "why": "« C'est le signe qu'il est frais! »"
+   },
+   {
+    "q": "What does Mme Tremblay bring?",
+    "options": [
+     "Caramel and a sugar pie",
+     "Brown gravy",
+     "A bag of potatoes"
+    ],
+    "a": 0,
+    "why": "« Mme Tremblay vient chez Samir avec Caramel et une tarte au sucre. »"
+   }
+  ],
+  "quebec_note": "Fresh cheese curds squeak against your teeth; Quebecers call it « le fromage qui fait squick-squick ». In Quebec the meals are « le déjeuner » (breakfast), « le dîner » (lunch) and « le souper » (supper)."
+ },
+ {
+  "id": "a07",
+  "title": "La première tempête",
+  "level": "A1",
+  "week": 29,
+  "place": "Montréal",
+  "summary": "During his first snowstorm, Samir goes outside without a hat, and Mme Tremblay's family offers him a gift he cannot refuse.",
+  "text": [
+   "Le quinze novembre, il fait moins dix degrés et il neige beaucoup. C'est la première tempête de l'hiver pour Samir.",
+   "Samir téléphone à sa mère, à Toronto.",
+   "— Maman, il neige beaucoup!",
+   "— Ici aussi, il neige, mais pas beaucoup. Tu as une tuque, j'espère?",
+   "— Euh... non.",
+   "Dans la rue, il y a Mme Tremblay avec sa famille : son fils Marc, sa belle-fille Annie et sa petite-fille Léa. Léa a six ans. Ils font un bonhomme de neige.",
+   "Samir sort parce qu'il veut aider. Mais il porte une casquette des Leafs et des espadrilles.",
+   "— Grand-maman, le monsieur n'a pas de tuque!",
+   "Mme Tremblay rit. Elle donne une tuque à Samir : une tuque bleu, blanc, rouge... avec le logo du Canadien.",
+   "— Mais c'est une tuque du Canadien!",
+   "— Oui. Il fait moins dix, donc tu n'as pas le choix!",
+   "Léa met la casquette des Leafs sur la tête du bonhomme de neige."
+  ],
+  "dialogue_ok": true,
+  "glossary": [
+   {
+    "fr": "il fait froid",
+    "en": "it's cold (weather)"
+   },
+   {
+    "fr": "il neige",
+    "en": "it's snowing"
+   },
+   {
+    "fr": "la tempête",
+    "en": "the storm"
+   },
+   {
+    "fr": "l'hiver",
+    "en": "winter"
+   },
+   {
+    "fr": "une tuque",
+    "en": "a winter hat (beanie)",
+    "qc": true
+   },
+   {
+    "fr": "le fils",
+    "en": "the son"
+   },
+   {
+    "fr": "la belle-fille",
+    "en": "the daughter-in-law"
+   },
+   {
+    "fr": "la petite-fille",
+    "en": "the granddaughter"
+   },
+   {
+    "fr": "un bonhomme de neige",
+    "en": "a snowman"
+   },
+   {
+    "fr": "parce que",
+    "en": "because"
+   },
+   {
+    "fr": "des espadrilles",
+    "en": "sneakers, running shoes",
+    "qc": true
+   },
+   {
+    "fr": "donc",
+    "en": "so, therefore"
+   },
+   {
+    "fr": "le choix",
+    "en": "the choice"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What is the temperature?",
+    "options": [
+     "Minus ten degrees",
+     "Minus thirty degrees",
+     "Zero degrees"
+    ],
+    "a": 0,
+    "why": "« Il fait froid : moins dix degrés. »"
+   },
+   {
+    "q": "How old is Léa?",
+    "options": [
+     "Ten",
+     "Six",
+     "Thirty"
+    ],
+    "a": 1,
+    "why": "« Léa a six ans. »"
+   },
+   {
+    "q": "Why does Samir go outside?",
+    "options": [
+     "To buy a tuque",
+     "To call his mother",
+     "Because he wants to help"
+    ],
+    "a": 2,
+    "why": "« Samir sort parce qu'il veut aider. »"
+   },
+   {
+    "q": "What is the problem with the tuque Mme Tremblay gives him?",
+    "options": [
+     "It is too small",
+     "It has the Canadiens logo",
+     "It is wet"
+    ],
+    "a": 1,
+    "why": "Samir is a Leafs fan and says « c'est une tuque du Canadien! »"
+   },
+   {
+    "q": "What happens to Samir's Leafs cap?",
+    "options": [
+     "Léa puts it on the snowman",
+     "Mme Tremblay throws it away",
+     "Samir keeps it on"
+    ],
+    "a": 0,
+    "why": "« Léa met la casquette des Leafs sur la tête du bonhomme de neige. »"
+   }
+  ],
+  "quebec_note": "« Une tuque » is the Canadian word for a knitted winter hat; in France it is « un bonnet ». In Quebec, sneakers are « des espadrilles », a word that means rope-soled summer shoes in France."
+ },
+ {
+  "id": "a08",
+  "title": "Remorquage!",
+  "level": "A1",
+  "week": 32,
+  "place": "Montréal",
+  "summary": "A snow-removal operation surprises Samir at 6 a.m., and he runs outside in pyjamas to save his car from the tow truck.",
+  "text": [
+   "D'habitude, Samir se lève à sept heures. Il se douche et il prend un café. Il se dépêche rarement.",
+   "Mais aujourd'hui, à six heures, il y a un bruit terrible dans la rue : BIP! BIP! Il y a des camions orange et une énorme souffleuse.",
+   "À la porte, c'est Mme Tremblay, en robe de chambre.",
+   "— Samir! Réveille-toi! Ton auto!",
+   "— Mon auto?",
+   "— C'est le déneigement ce matin! Regarde les pancartes! Déplace ton auto, vite! Sinon, c'est la remorqueuse!",
+   "Samir ne s'habille pas. Il met ses bottes et sa tuque du Canadien, et il sort en pyjama.",
+   "Une remorqueuse est déjà devant son auto.",
+   "— Monsieur! Attendez! C'est mon auto!",
+   "Le chauffeur regarde la tuque du Canadien.",
+   "— T'es un fan du Canadien, toi? OK. Vas-y, mais dépêche-toi!",
+   "Samir déplace son auto. Mme Tremblay sourit.",
+   "— Tu vois? Porte toujours ta tuque du Canadien!",
+   "Maintenant, Samir dort toujours avec sa tuque à côté du lit."
+  ],
+  "dialogue_ok": true,
+  "glossary": [
+   {
+    "fr": "se lever",
+    "en": "to get up"
+   },
+   {
+    "fr": "se dépêcher",
+    "en": "to hurry"
+   },
+   {
+    "fr": "rarement / souvent / toujours",
+    "en": "rarely / often / always"
+   },
+   {
+    "fr": "la souffleuse",
+    "en": "the snowblower",
+    "qc": true
+   },
+   {
+    "fr": "en robe de chambre",
+    "en": "in a bathrobe"
+   },
+   {
+    "fr": "Réveille-toi!",
+    "en": "Wake up!"
+   },
+   {
+    "fr": "l'auto",
+    "en": "the car (common in Quebec; « voiture » in France)",
+    "qc": true
+   },
+   {
+    "fr": "le déneigement",
+    "en": "snow removal",
+    "qc": true
+   },
+   {
+    "fr": "la pancarte",
+    "en": "the (temporary) sign"
+   },
+   {
+    "fr": "déplacer",
+    "en": "to move (something)"
+   },
+   {
+    "fr": "sinon",
+    "en": "otherwise"
+   },
+   {
+    "fr": "la remorqueuse",
+    "en": "the tow truck"
+   },
+   {
+    "fr": "s'habiller",
+    "en": "to get dressed"
+   },
+   {
+    "fr": "T'es",
+    "en": "you are (spoken form of « tu es »)",
+    "qc": true
+   },
+   {
+    "fr": "Vas-y!",
+    "en": "Go ahead!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What time does Samir usually get up?",
+    "options": [
+     "At six",
+     "At seven",
+     "At eight"
+    ],
+    "a": 1,
+    "why": "« D'habitude, Samir se lève à sept heures. »"
+   },
+   {
+    "q": "Why does Mme Tremblay knock on his door?",
+    "options": [
+     "Caramel is lost",
+     "She needs coffee",
+     "There is snow removal and his car must be moved"
+    ],
+    "a": 2,
+    "why": "« C'est le déneigement ce matin! [...] Déplace ton auto, vite! »"
+   },
+   {
+    "q": "What does Samir wear outside?",
+    "options": [
+     "Pyjamas, boots and his Canadiens tuque",
+     "A suit and a coat",
+     "His bathrobe and sneakers"
+    ],
+    "a": 0,
+    "why": "« Il met ses bottes et sa tuque du Canadien, et il sort en pyjama. »"
+   },
+   {
+    "q": "Why does the tow-truck driver let Samir move his car?",
+    "options": [
+     "Samir pays him",
+     "Samir looks like a Canadiens fan",
+     "Mme Tremblay asks him"
+    ],
+    "a": 1,
+    "why": "He sees the tuque and says « T'es un fan du Canadien, toi? Bon, OK. »"
+   },
+   {
+    "q": "Which sentence is an imperative (an order)?",
+    "options": [
+     "Il se douche.",
+     "Mme Tremblay sourit.",
+     "Déplace ton auto!"
+    ],
+    "a": 2,
+    "why": "« Déplace! » gives an order; the others describe actions."
+   }
+  ],
+  "quebec_note": "In Montréal, orange signs and a siren warn residents to move their cars before the snow-removal convoy passes; cars left behind are towed. Quebecers say « l'auto » or, informally, « le char » for the car."
+ },
+ {
+  "id": "a09",
+  "title": "À la cabane à sucre",
+  "level": "A1",
+  "week": 36,
+  "place": "Laurentides",
+  "summary": "Samir discovers the sugar shack with Jessica and Kevin, puts maple syrup on everything, and meets a surprising dance partner.",
+  "text": [
+   "Samedi dernier, Samir est allé à la cabane à sucre avec Jessica et Kevin.",
+   "À la cabane, ils ont mangé de la soupe aux pois, du jambon, des fèves au lard et une omelette. Samir a mis du sirop sur le jambon, sur l'omelette et même dans son café!",
+   "— T'es pire qu'un Québécois! a dit Kevin.",
+   "Après le repas, ils sont sortis. Un homme a versé du sirop chaud sur la neige. Samir a pris un bâton et il a roulé la tire. Délicieux!",
+   "Ensuite, il y a eu de la musique. Une vieille dame avec des lunettes de soleil a pris la main de Samir.",
+   "— Viens danser, mon beau!",
+   "Samir a dansé, il a tourné... et il est tombé dans la neige. Tout le monde a applaudi. La dame a enlevé ses lunettes. C'était Mme Tremblay!",
+   "— Bonjour, Samir! Le monde est petit, hein?"
+  ],
+  "dialogue_ok": true,
+  "glossary": [
+   {
+    "fr": "la cabane à sucre",
+    "en": "the sugar shack",
+    "qc": true
+   },
+   {
+    "fr": "la soupe aux pois",
+    "en": "pea soup"
+   },
+   {
+    "fr": "les fèves au lard",
+    "en": "baked beans with pork",
+    "qc": true
+   },
+   {
+    "fr": "le sirop d'érable",
+    "en": "maple syrup"
+   },
+   {
+    "fr": "même",
+    "en": "even"
+   },
+   {
+    "fr": "pire que",
+    "en": "worse than"
+   },
+   {
+    "fr": "verser",
+    "en": "to pour"
+   },
+   {
+    "fr": "le bâton",
+    "en": "the stick"
+   },
+   {
+    "fr": "la tire (sur la neige)",
+    "en": "maple taffy (on snow)",
+    "qc": true
+   },
+   {
+    "fr": "rouler",
+    "en": "to roll"
+   },
+   {
+    "fr": "mon beau",
+    "en": "dear, sweetie (affectionate)",
+    "qc": true
+   },
+   {
+    "fr": "tomber",
+    "en": "to fall (passé composé with être)"
+   },
+   {
+    "fr": "enlever",
+    "en": "to take off"
+   },
+   {
+    "fr": "Le monde est petit!",
+    "en": "It's a small world!"
+   },
+   {
+    "fr": "hein?",
+    "en": "eh? right?",
+    "qc": true
+   }
+  ],
+  "questions": [
+   {
+    "q": "Who did Samir go to the sugar shack with?",
+    "options": [
+     "Raj and Léa",
+     "Jessica and Kevin",
+     "His mother"
+    ],
+    "a": 1,
+    "why": "« Samir est allé à la cabane à sucre avec Jessica et Kevin. »"
+   },
+   {
+    "q": "Where did Samir put maple syrup?",
+    "options": [
+     "Only on the crêpes",
+     "In the soup",
+     "On the ham, the omelette and in his coffee"
+    ],
+    "a": 2,
+    "why": "« sur le jambon, sur l'omelette et même dans son café! »"
+   },
+   {
+    "q": "How is « la tire » made?",
+    "options": [
+     "Hot syrup is poured on snow and rolled on a stick",
+     "Syrup is frozen in a fridge",
+     "Syrup is mixed with coffee"
+    ],
+    "a": 0,
+    "why": "« Un homme a versé du sirop chaud sur la neige. Samir a pris un bâton et il a roulé la tire. »"
+   },
+   {
+    "q": "What happened when Samir danced?",
+    "options": [
+     "He won a prize",
+     "He fell in the snow",
+     "He lost his tuque"
+    ],
+    "a": 1,
+    "why": "« il est tombé dans la neige. Tout le monde a applaudi. »"
+   },
+   {
+    "q": "Who was the old lady?",
+    "options": [
+     "Kevin's grandmother",
+     "The owner of the cabane",
+     "Mme Tremblay"
+    ],
+    "a": 2,
+    "why": "« La dame a enlevé ses lunettes. C'était Mme Tremblay! »"
+   }
+  ],
+  "quebec_note": "Every spring, Quebecers go « à la cabane à sucre » for a huge traditional meal and « la tire sur la neige ». The word « hein » at the end of a sentence (« Le monde est petit, hein? ») asks for agreement, like « eh? » in English Canada."
+ },
+ {
+  "id": "a10",
+  "title": "Sur la glace",
+  "level": "A1",
+  "week": 40,
+  "place": "Montréal (lac aux Castors, mont Royal)",
+  "summary": "Samir buys his first skates and falls again and again on the mont Royal, until a tiny expert gives him a lesson.",
+  "text": [
+   "Samedi, Samir a magasiné au centre-ville avec Jessica. Il a acheté des patins noirs, des mitaines rouges et un pantalon de neige. Les patins ont coûté quatre-vingt-dix-neuf dollars.",
+   "Dimanche, il est allé au lac aux Castors, sur le mont Royal. Il faisait beau, mais très froid. Samir n'a jamais patiné. Il a fait un pas... et il est tombé. Une fois, deux fois, cinq fois!",
+   "Une petite fille avec un casque rose est arrivée à côté de lui.",
+   "— Monsieur, plie les genoux! Regarde devant, pas tes pieds! Et donne-moi la main!",
+   "— Léa?",
+   "— Salut, Samir! Grand-maman est là-bas!",
+   "Sur un banc, Mme Tremblay buvait un chocolat chaud.",
+   "— Léa, c'est la championne de la famille! Elle joue au hockey depuis deux ans!",
+   "Après une heure, Samir a fait le tour du lac sans tomber. Léa a crié :",
+   "— Bravo! L'hiver prochain, tu joues au hockey avec moi!"
+  ],
+  "dialogue_ok": true,
+  "glossary": [
+   {
+    "fr": "magasiner",
+    "en": "to go shopping",
+    "qc": true
+   },
+   {
+    "fr": "le centre-ville",
+    "en": "downtown"
+   },
+   {
+    "fr": "les patins",
+    "en": "skates"
+   },
+   {
+    "fr": "les mitaines",
+    "en": "mittens",
+    "qc": true
+   },
+   {
+    "fr": "le pantalon de neige",
+    "en": "snow pants"
+   },
+   {
+    "fr": "patiner",
+    "en": "to skate"
+   },
+   {
+    "fr": "un pas",
+    "en": "a step"
+   },
+   {
+    "fr": "le casque",
+    "en": "the helmet"
+   },
+   {
+    "fr": "plier les genoux",
+    "en": "to bend your knees"
+   },
+   {
+    "fr": "là-bas",
+    "en": "over there"
+   },
+   {
+    "fr": "le banc",
+    "en": "the bench"
+   },
+   {
+    "fr": "il faisait beau",
+    "en": "the weather was nice"
+   },
+   {
+    "fr": "faire le tour",
+    "en": "to go around"
+   },
+   {
+    "fr": "sans",
+    "en": "without"
+   }
+  ],
+  "questions": [
+   {
+    "q": "How much did the skates cost?",
+    "options": [
+     "$99",
+     "$89",
+     "$79"
+    ],
+    "a": 0,
+    "why": "« quatre-vingt-dix-neuf dollars » = 99."
+   },
+   {
+    "q": "What was the weather like on Sunday?",
+    "options": [
+     "Snowy and windy",
+     "Nice but very cold",
+     "Warm and rainy"
+    ],
+    "a": 1,
+    "why": "« Il faisait beau, mais très froid. »"
+   },
+   {
+    "q": "What advice does the little girl give?",
+    "options": [
+     "Skate faster",
+     "Look at your feet",
+     "Bend your knees and look ahead"
+    ],
+    "a": 2,
+    "why": "« Plie les genoux! Regarde devant, pas tes pieds! »"
+   },
+   {
+    "q": "Who is the little girl?",
+    "options": [
+     "Jessica's daughter",
+     "Léa, Mme Tremblay's granddaughter",
+     "A skating teacher"
+    ],
+    "a": 1,
+    "why": "Samir recognizes her: « Léa? » and she says « Grand-maman est là-bas! »"
+   },
+   {
+    "q": "What did Samir manage to do after one hour?",
+    "options": [
+     "Score a goal",
+     "Skate around the lake without falling",
+     "Play hockey with Léa"
+    ],
+    "a": 1,
+    "why": "« Samir a fait le tour du lac sans tomber. »"
+   }
+  ],
+  "quebec_note": "« Magasiner » (to go shopping) is a Quebec verb; in France people say « faire du shopping ». The lac aux Castors on the mont Royal is a favourite free outdoor skating spot in winter."
+ },
+ {
+  "id": "a11",
+  "title": "Montréal en 1967",
+  "level": "A2",
+  "week": 41,
+  "place": "Montréal",
+  "summary": "Over tea and an old photo album, Mme Tremblay tells Samir about Expo 67 and how she met her husband.",
+  "text": [
+   "Un dimanche après-midi, Mme Tremblay invite Samir à prendre le thé. Sur la table, il y a un vieil album de photos.",
+   "— Regarde, Samir. Ça, c'est moi en 1967. J'avais dix-neuf ans.",
+   "Sur la photo, une jeune femme souriait devant une immense sphère.",
+   "— C'était l'Expo 67, l'exposition universelle. Le monde entier venait à Montréal! Il y avait des pavillons de tous les pays. Moi, je travaillais au pavillon du Québec. Je donnais des informations aux touristes.",
+   "— Et l'hiver, c'était comment, à l'époque?",
+   "— Ah, l'hiver! Il neigeait pendant des jours. Mon père faisait une patinoire dans la cour, et mes frères jouaient au hockey jusqu'à minuit. Moi, je préférais le patin artistique.",
+   "Samir tourne la page. Il y a la photo d'un jeune homme avec une guitare et un drôle de chapeau.",
+   "— Et lui, c'est qui?",
+   "— Lui, c'était Robert, mon mari. Il venait de Toronto, comme toi! Il ne parlait pas un mot de français. Chaque jour, il venait au pavillon du Québec et il posait la même question : « Où sont les toilettes? » Après deux semaines, j'ai compris : il ne cherchait pas les toilettes. Il me cherchait, moi!",
+   "Mme Tremblay rit.",
+   "— Un an plus tard, il parlait très bien français. Et il chantait faux, mais en français!",
+   "Samir regarde Caramel, puis sa tasse de thé.",
+   "— Alors... il y a de l'espoir pour moi?",
+   "— Beaucoup d'espoir, mon beau. Beaucoup."
+  ],
+  "dialogue_ok": true,
+  "glossary": [
+   {
+    "fr": "l'imparfait (j'avais, il venait)",
+    "en": "past tense for descriptions and habits"
+   },
+   {
+    "fr": "l'exposition universelle",
+    "en": "the world's fair"
+   },
+   {
+    "fr": "le monde entier",
+    "en": "the whole world"
+   },
+   {
+    "fr": "le pavillon",
+    "en": "the pavilion"
+   },
+   {
+    "fr": "à l'époque",
+    "en": "back then"
+   },
+   {
+    "fr": "la patinoire",
+    "en": "the skating rink"
+   },
+   {
+    "fr": "la cour",
+    "en": "the backyard"
+   },
+   {
+    "fr": "le patin artistique",
+    "en": "figure skating"
+   },
+   {
+    "fr": "un drôle de chapeau",
+    "en": "a funny-looking hat"
+   },
+   {
+    "fr": "le mari",
+    "en": "the husband"
+   },
+   {
+    "fr": "poser une question",
+    "en": "to ask a question"
+   },
+   {
+    "fr": "les toilettes",
+    "en": "the washroom"
+   },
+   {
+    "fr": "chanter faux",
+    "en": "to sing out of tune"
+   },
+   {
+    "fr": "l'espoir",
+    "en": "hope"
+   }
+  ],
+  "questions": [
+   {
+    "q": "How old was Mme Tremblay in 1967?",
+    "options": [
+     "Nineteen",
+     "Sixteen",
+     "Twenty-nine"
+    ],
+    "a": 0,
+    "why": "« Ça, c'est moi en 1967. J'avais dix-neuf ans. »"
+   },
+   {
+    "q": "What was her job at Expo 67?",
+    "options": [
+     "She sold tickets",
+     "She sang in a band",
+     "She gave information to tourists at the Québec pavilion"
+    ],
+    "a": 2,
+    "why": "« je travaillais au pavillon du Québec. Je donnais des informations aux touristes. »"
+   },
+   {
+    "q": "What did her brothers do in winter?",
+    "options": [
+     "They went skiing",
+     "They played hockey on a backyard rink",
+     "They did figure skating"
+    ],
+    "a": 1,
+    "why": "« Mon père faisait une patinoire dans la cour, et mes frères jouaient au hockey jusqu'à minuit. »"
+   },
+   {
+    "q": "Why did Robert come to the pavilion every day?",
+    "options": [
+     "He was really looking for her",
+     "He was really looking for the washroom",
+     "He worked there"
+    ],
+    "a": 0,
+    "why": "« il ne cherchait pas les toilettes. Il me cherchait, moi! »"
+   },
+   {
+    "q": "Why is the imparfait used in « Il neigeait pendant des jours »?",
+    "options": [
+     "It is a single, finished action",
+     "It describes a repeated situation in the past",
+     "It is a future plan"
+    ],
+    "a": 1,
+    "why": "The imparfait describes habits and background situations in the past."
+   }
+  ],
+  "quebec_note": "Expo 67 put Montréal on the world map; its American pavilion, the Biosphère, still stands on île Sainte-Hélène. Many Quebec families used to build « une patinoire » in the backyard every winter."
+ },
+ {
+  "id": "a12",
+  "title": "Où est Caramel?",
+  "level": "A2",
+  "week": 45,
+  "place": "Montréal",
+  "summary": "Caramel disappears and the whole street searches for him, but the cat has chosen a very unexpected hiding place.",
+  "text": [
+   "Lundi soir, Mme Tremblay frappe chez Samir. Elle a les larmes aux yeux.",
+   "— Caramel a disparu! Je le cherche depuis ce matin!",
+   "Samir prend sa tuque et son téléphone. — On va le trouver, madame. C'est promis.",
+   "Ils cherchent dans la ruelle, sous les balcons, derrière les poubelles. Pas de Caramel.",
+   "Samir va au dépanneur et montre une photo à Raj.",
+   "— Tu le connais? Gros chat orange, très gourmand.",
+   "— Bien sûr que je le connais! Il vient ici chaque matin et je lui donne du jambon. Mais aujourd'hui, je ne l'ai pas vu.",
+   "— Du jambon? Chaque matin? Mme Tremblay ne va pas aimer ça...",
+   "Ensuite, Samir parle aux enfants de la rue. Il leur montre la photo. — Vous l'avez vu?",
+   "— Non, mais on va le chercher avec toi!",
+   "À dix heures, toujours pas de Caramel. Samir rentre chez lui, très triste. Il ouvre sa garde-robe pour ranger sa tuque... et deux yeux jaunes le regardent.",
+   "Dans une vieille boîte de déménagement, sur son chandail préféré, Caramel dort comme un roi.",
+   "Samir le prend dans ses bras et l'apporte à Mme Tremblay. Elle l'embrasse, puis elle regarde Samir.",
+   "— Merci! Mais comment est-il entré chez toi?",
+   "Samir réfléchit. Le matin, il laisse toujours sa porte ouverte pour sortir les poubelles.",
+   "— Je pense qu'il aime ma garde-robe.",
+   "Mme Tremblay sourit. — Non, Samir. Je pense qu'il t'aime, toi."
+  ],
+  "dialogue_ok": true,
+  "glossary": [
+   {
+    "fr": "avoir les larmes aux yeux",
+    "en": "to have tears in your eyes"
+   },
+   {
+    "fr": "disparaître (il a disparu)",
+    "en": "to disappear"
+   },
+   {
+    "fr": "le / la / les",
+    "en": "him, her, it / them (direct object pronouns)"
+   },
+   {
+    "fr": "lui / leur",
+    "en": "to him, to her / to them (indirect object pronouns)"
+   },
+   {
+    "fr": "la ruelle",
+    "en": "the back lane (alley)",
+    "qc": true
+   },
+   {
+    "fr": "les poubelles",
+    "en": "the garbage bins"
+   },
+   {
+    "fr": "gourmand",
+    "en": "greedy (for food), a foodie"
+   },
+   {
+    "fr": "montrer",
+    "en": "to show"
+   },
+   {
+    "fr": "la garde-robe",
+    "en": "the closet",
+    "qc": true
+   },
+   {
+    "fr": "ranger",
+    "en": "to put away"
+   },
+   {
+    "fr": "une boîte de déménagement",
+    "en": "a moving box"
+   },
+   {
+    "fr": "le chandail",
+    "en": "the sweater",
+    "qc": true
+   },
+   {
+    "fr": "apporter",
+    "en": "to bring"
+   },
+   {
+    "fr": "réfléchir",
+    "en": "to think, to reflect"
+   }
+  ],
+  "questions": [
+   {
+    "q": "In « Je le cherche depuis ce matin », what does « le » replace?",
+    "options": [
+     "Samir",
+     "Caramel",
+     "the morning"
+    ],
+    "a": 1,
+    "why": "Mme Tremblay is looking for Caramel: « le » = him (the cat)."
+   },
+   {
+    "q": "What secret does Raj reveal?",
+    "options": [
+     "He gives Caramel ham every morning",
+     "Caramel sleeps in his store",
+     "He wants to adopt Caramel"
+    ],
+    "a": 0,
+    "why": "« Il vient ici chaque matin et je lui donne du jambon. »"
+   },
+   {
+    "q": "In « Il leur montre la photo », who is « leur »?",
+    "options": [
+     "Raj",
+     "Mme Tremblay",
+     "The children"
+    ],
+    "a": 2,
+    "why": "Samir shows the photo to the children: « leur » = to them."
+   },
+   {
+    "q": "Where is Caramel?",
+    "options": [
+     "Under a balcony",
+     "In a moving box in Samir's closet",
+     "At the dépanneur"
+    ],
+    "a": 1,
+    "why": "« Dans une vieille boîte de déménagement, sur son chandail préféré, Caramel dort »."
+   },
+   {
+    "q": "How did Caramel probably get in?",
+    "options": [
+     "Through the window",
+     "Raj brought him",
+     "Samir leaves his door open in the morning"
+    ],
+    "a": 2,
+    "why": "« il laisse toujours sa porte ouverte pour sortir les poubelles »."
+   }
+  ],
+  "quebec_note": "Montréal's « ruelles » (back lanes) are a big part of neighbourhood life; many are « ruelles vertes » with gardens and play areas. In Quebec a closet is « une garde-robe » and a sweater is « un chandail »."
+ },
+ {
+  "id": "a13",
+  "title": "Le Carnaval de Québec",
+  "level": "A2",
+  "week": 50,
+  "place": "Québec",
+  "summary": "At the Québec Winter Carnival, Jessica dares Samir to try the famous snow bath in exchange for dinner.",
+  "text": [
+   "En février, Jessica et Samir vont au Carnaval de Québec. Ils y vont en autobus : trois heures de route.",
+   "— Tu as apporté des mitaines? demande Jessica.",
+   "— Oui, j'en ai deux paires!",
+   "À Québec, il fait encore plus froid qu'à Montréal : moins vingt-six degrés. Mais les rues du Vieux-Québec sont pleines de monde. Ils visitent le palais de glace, ils regardent les sculptures de neige et, bien sûr, ils rencontrent Bonhomme, la mascotte du Carnaval, avec sa tuque rouge et sa ceinture fléchée.",
+   "— C'est le plus grand carnaval d'hiver du monde! dit Jessica.",
+   "Un monsieur leur offre du caribou, une boisson à base de vin, très sucrée et très forte. Samir en boit un petit verre.",
+   "— Wow! C'est plus fort que le café!",
+   "L'après-midi, c'est le bain de neige : des gens courent dans la neige en maillot de bain!",
+   "— Tu y vas? demande Jessica.",
+   "— Moi? Jamais!",
+   "— Je te propose un marché : tu y vas, et moi, je t'invite au meilleur restaurant de Québec.",
+   "Cinq minutes plus tard, Samir court dans la neige en maillot de bain... avec sa tuque du Canadien. Les gens crient, applaudissent, prennent des photos. Bonhomme lui fait un gros câlin.",
+   "Le soir, au restaurant, Samir mange la meilleure soupe à l'oignon de sa vie.",
+   "— Alors? demande Jessica.",
+   "— C'était le pire moment et le meilleur moment de ma journée!"
+  ],
+  "dialogue_ok": true,
+  "glossary": [
+   {
+    "fr": "y aller",
+    "en": "to go there (« y » = there)"
+   },
+   {
+    "fr": "j'en ai deux",
+    "en": "I have two of them (« en » = of them)"
+   },
+   {
+    "fr": "plus froid que",
+    "en": "colder than"
+   },
+   {
+    "fr": "le palais de glace",
+    "en": "the ice palace"
+   },
+   {
+    "fr": "Bonhomme (Carnaval)",
+    "en": "the snowman mascot of the Québec Carnival",
+    "qc": true
+   },
+   {
+    "fr": "la ceinture fléchée",
+    "en": "the traditional arrow-patterned sash",
+    "qc": true
+   },
+   {
+    "fr": "le caribou",
+    "en": "a strong sweet drink of wine and spirits",
+    "qc": true
+   },
+   {
+    "fr": "sucré",
+    "en": "sweet"
+   },
+   {
+    "fr": "fort",
+    "en": "strong"
+   },
+   {
+    "fr": "le bain de neige",
+    "en": "the snow bath"
+   },
+   {
+    "fr": "le maillot de bain",
+    "en": "the swimsuit"
+   },
+   {
+    "fr": "un marché",
+    "en": "a deal (here)"
+   },
+   {
+    "fr": "le meilleur / le pire",
+    "en": "the best / the worst"
+   },
+   {
+    "fr": "faire un câlin",
+    "en": "to give a hug"
+   }
+  ],
+  "questions": [
+   {
+    "q": "In « j'en ai deux paires », what does « en » replace?",
+    "options": [
+     "Mittens",
+     "Buses",
+     "Hours"
+    ],
+    "a": 0,
+    "why": "Jessica asks about « des mitaines »; « en » replaces them."
+   },
+   {
+    "q": "What is the temperature in Québec?",
+    "options": [
+     "Minus ten",
+     "Minus twenty-six",
+     "Minus six"
+    ],
+    "a": 1,
+    "why": "« moins vingt-six degrés », colder than Montréal."
+   },
+   {
+    "q": "What is « le caribou » in this story?",
+    "options": [
+     "An animal at the carnival",
+     "A hot soup",
+     "A sweet, strong drink"
+    ],
+    "a": 2,
+    "why": "« une boisson à base de vin, très sucrée et très forte »."
+   },
+   {
+    "q": "What deal does Jessica propose?",
+    "options": [
+     "She pays for the bus",
+     "If he does the snow bath, she takes him to the best restaurant",
+     "She does the snow bath with him"
+    ],
+    "a": 1,
+    "why": "« tu y vas, et moi, je t'invite au meilleur restaurant de Québec »."
+   },
+   {
+    "q": "What was Samir wearing during the snow bath?",
+    "options": [
+     "A swimsuit and his Canadiens tuque",
+     "A ceinture fléchée",
+     "His snow pants"
+    ],
+    "a": 0,
+    "why": "« Samir court dans la neige en maillot de bain... avec sa tuque du Canadien »."
+   }
+  ],
+  "quebec_note": "Bonhomme Carnaval has been the mascot of the Québec Winter Carnival since 1955; he wears a red tuque and a « ceinture fléchée », the colourful sash of the old voyageurs. « Caribou » is the traditional Carnival drink."
+ },
+ {
+  "id": "a14",
+  "title": "Le jour du déménagement",
+  "level": "A2",
+  "week": 54,
+  "place": "Montréal (Rosemont)",
+  "summary": "On July 1st, Moving Day, Samir helps Jessica and Kevin move, but their giant green couch refuses to climb the spiral staircase.",
+  "text": [
+   "Au Québec, beaucoup de baux finissent le 30 juin. Donc, le 1er juillet, des milliers de gens déménagent le même jour. Cette année, Jessica et Kevin déménagent dans un appartement qui est au troisième étage, à Rosemont.",
+   "Samir les aide. Il fait trente-deux degrés. Les rues sont pleines de camions, de matelas et de gens qui crient.",
+   "— Samir, prends cette boîte-là. Non, pas celle-ci! Celle qui est marquée « fragile »!",
+   "Après cinq heures, il reste un seul objet : le divan. Le grand divan vert que Kevin adore. Mais l'appartement a un escalier extérieur en colimaçon, typique de Montréal.",
+   "Ils montent. Ils tournent. Ils poussent. Le divan ne passe pas.",
+   "— On le montera par le balcon avec une corde! dit Kevin.",
+   "— Tu es fou! dit Jessica.",
+   "Le voisin d'en face, un vieux monsieur qui les regarde depuis une heure, leur crie :",
+   "— Ça ne passera pas! J'ai essayé avec mon divan en 1998!",
+   "Finalement, ils laissent le divan sur le trottoir avec une affiche : « GRATUIT ». Dix minutes plus tard, deux étudiants l'emportent.",
+   "Le soir, ils mangent de la pizza par terre.",
+   "— L'année prochaine, je louerai un camion et j'engagerai des déménageurs, dit Kevin.",
+   "— L'année prochaine, dit Jessica, on achètera des meubles qui passent dans l'escalier!",
+   "Samir regarde son téléphone et éclate de rire. Les deux étudiants ont publié une photo sur Internet : ils sont assis sur le grand divan vert, dans leur nouvel appartement... au troisième étage, avec un escalier en colimaçon."
+  ],
+  "dialogue_ok": true,
+  "glossary": [
+   {
+    "fr": "un bail (des baux)",
+    "en": "a lease (leases)"
+   },
+   {
+    "fr": "déménager",
+    "en": "to move (house)"
+   },
+   {
+    "fr": "l'étage",
+    "en": "the floor, storey"
+   },
+   {
+    "fr": "le matelas",
+    "en": "the mattress"
+   },
+   {
+    "fr": "celle-ci / celle qui",
+    "en": "this one / the one that"
+   },
+   {
+    "fr": "le divan",
+    "en": "the couch",
+    "qc": true
+   },
+   {
+    "fr": "l'escalier en colimaçon",
+    "en": "the spiral staircase"
+   },
+   {
+    "fr": "pousser",
+    "en": "to push"
+   },
+   {
+    "fr": "le voisin d'en face",
+    "en": "the neighbour across the street"
+   },
+   {
+    "fr": "le trottoir",
+    "en": "the sidewalk"
+   },
+   {
+    "fr": "gratuit",
+    "en": "free (no cost)"
+   },
+   {
+    "fr": "louer",
+    "en": "to rent"
+   },
+   {
+    "fr": "les déménageurs",
+    "en": "movers"
+   },
+   {
+    "fr": "les meubles",
+    "en": "furniture"
+   },
+   {
+    "fr": "éclater de rire",
+    "en": "to burst out laughing"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Why do so many people move on July 1st in Quebec?",
+    "options": [
+     "It's a tradition of Canada Day",
+     "Many leases end on June 30",
+     "Moving trucks are free"
+    ],
+    "a": 1,
+    "why": "« beaucoup de baux finissent le 30 juin. Donc, le 1er juillet, des milliers de gens déménagent »."
+   },
+   {
+    "q": "Which box must Samir take?",
+    "options": [
+     "The one marked « fragile »",
+     "The heaviest one",
+     "This one here"
+    ],
+    "a": 0,
+    "why": "« Non, pas celle-ci! Celle qui est marquée « fragile »! »"
+   },
+   {
+    "q": "What does the old neighbour say?",
+    "options": [
+     "He will help them",
+     "He wants the couch",
+     "It won't fit; he tried in 1998"
+    ],
+    "a": 2,
+    "why": "« Ça ne passera pas! J'ai essayé avec mon divan en 1998! »"
+   },
+   {
+    "q": "Which sentence is in the futur simple?",
+    "options": [
+     "Ils laissent le divan.",
+     "Je louerai un camion.",
+     "J'ai essayé avec mon divan."
+    ],
+    "a": 1,
+    "why": "« louerai » is the futur simple of « louer »."
+   },
+   {
+    "q": "What is funny at the end?",
+    "options": [
+     "The students got the couch up a spiral staircase",
+     "The couch was broken",
+     "Kevin bought the couch back"
+    ],
+    "a": 0,
+    "why": "The students are sitting on it « au troisième étage, avec un escalier en colimaçon »."
+   }
+  ],
+  "quebec_note": "Quebec's « jour du déménagement » on July 1st is famous: trucks are booked months ahead and the sidewalks fill with abandoned furniture. Montréal's outdoor spiral staircases are an iconic, and couch-hostile, part of its architecture."
+ },
+ {
+  "id": "a15",
+  "title": "Le voleur de dîners",
+  "level": "A2",
+  "week": 60,
+  "place": "Montréal",
+  "summary": "Someone is stealing Jessica's lunch from the office fridge, so she sets a spicy trap, and the culprit is a big surprise.",
+  "text": [
+   "Au bureau, il y a un frigo pour tout le monde. Depuis deux semaines, quelqu'un mange le dîner de Jessica. Lundi, son pâté chinois. Mardi, sa soupe. Mercredi, son sandwich. Jessica est en maudit.",
+   "— Ça n'a pas d'allure! Je vais trouver le voleur!",
+   "Jeudi, elle prépare un piège. Elle met dans son plat bleu un chili extrêmement épicé, avec six piments forts. Puis elle se cache discrètement derrière la photocopieuse avec Samir.",
+   "À midi, quelqu'un entre lentement dans la cuisine. Il ouvre le frigo, il prend le plat bleu, il le met dans le micro-ondes. Il mange une cuillère... deux cuillères... Il devient rouge comme une tomate. Il tousse. Il a les larmes aux yeux.",
+   "Jessica saute devant lui.",
+   "— C'est toi, le voleur!... Euh... Monsieur Gagnon?!",
+   "C'est le patron. Il boit un grand verre d'eau.",
+   "— Le voleur? Mais non, Jessica! C'est mon dîner! Ce plat bleu, c'est le mien!",
+   "— Non, monsieur. Le vôtre, il est où, alors?",
+   "Samir ouvre le frigo. Derrière le lait, il y a un autre plat bleu, exactement pareil. Samir l'ouvre... et le referme très vite.",
+   "— Je pense que le sien est là depuis deux semaines, dit-il. Et ça ne sent pas bon.",
+   "M. Gagnon devient encore plus rouge.",
+   "— Jessica... je suis vraiment désolé. Je pensais sincèrement que c'était le mien.",
+   "Le lendemain, il commande de la pizza pour toute l'équipe. Et Jessica achète des plats... roses."
+  ],
+  "dialogue_ok": true,
+  "glossary": [
+   {
+    "fr": "le dîner",
+    "en": "lunch (in Quebec)",
+    "qc": true
+   },
+   {
+    "fr": "le pâté chinois",
+    "en": "Quebec shepherd's pie (beef, corn, potatoes)",
+    "qc": true
+   },
+   {
+    "fr": "être en maudit",
+    "en": "to be really angry (informal)",
+    "qc": true
+   },
+   {
+    "fr": "Ça n'a pas d'allure!",
+    "en": "That's ridiculous! This makes no sense!",
+    "qc": true
+   },
+   {
+    "fr": "le voleur",
+    "en": "the thief"
+   },
+   {
+    "fr": "un piège",
+    "en": "a trap"
+   },
+   {
+    "fr": "le plat",
+    "en": "the food container (also: dish)"
+   },
+   {
+    "fr": "épicé",
+    "en": "spicy"
+   },
+   {
+    "fr": "discrètement / lentement",
+    "en": "discreetly / slowly"
+   },
+   {
+    "fr": "se cacher",
+    "en": "to hide"
+   },
+   {
+    "fr": "tousser",
+    "en": "to cough"
+   },
+   {
+    "fr": "le mien / le vôtre / le sien",
+    "en": "mine / yours / his"
+   },
+   {
+    "fr": "pareil",
+    "en": "the same, identical"
+   },
+   {
+    "fr": "sentir bon",
+    "en": "to smell good"
+   },
+   {
+    "fr": "l'équipe",
+    "en": "the team"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What does « dîner » mean in Quebec?",
+    "options": [
+     "Supper",
+     "Breakfast",
+     "Lunch"
+    ],
+    "a": 2,
+    "why": "In Quebec: déjeuner = breakfast, dîner = lunch, souper = supper."
+   },
+   {
+    "q": "What is Jessica's trap?",
+    "options": [
+     "A camera in the fridge",
+     "A very spicy chili",
+     "A note on the container"
+    ],
+    "a": 1,
+    "why": "« un chili extrêmement épicé, avec six piments forts »."
+   },
+   {
+    "q": "Who eats the chili?",
+    "options": [
+     "Samir",
+     "M. Gagnon, the boss",
+     "Kevin"
+    ],
+    "a": 1,
+    "why": "« Monsieur Gagnon?! C'est le patron. »"
+   },
+   {
+    "q": "Why did M. Gagnon eat Jessica's lunches?",
+    "options": [
+     "He thought her blue container was his",
+     "He was very hungry",
+     "He wanted to test the team"
+    ],
+    "a": 0,
+    "why": "« Je pensais sincèrement que c'était le mien. » The two containers are identical."
+   },
+   {
+    "q": "In « le sien est là depuis deux semaines », « le sien » means...",
+    "options": [
+     "mine",
+     "his",
+     "yours"
+    ],
+    "a": 1,
+    "why": "« Le sien » = his (M. Gagnon's container)."
+   }
+  ],
+  "quebec_note": "« Être en maudit » (to be furious) and « Ça n'a pas d'allure » (that's ridiculous) are everyday Quebec expressions; you'll often hear « Ça a pas d'allure » with the « ne » dropped. « Le pâté chinois » is Quebec's beloved comfort food."
+ },
+ {
+  "id": "a16",
+  "title": "Un gros rhume",
+  "level": "A2",
+  "week": 64,
+  "place": "Montréal",
+  "summary": "Samir catches a bad cold, calls Info-Santé and goes to the pharmacy, where a familiar face finds the real cause of his problem.",
+  "text": [
+   "Un mardi de février, Samir se réveille avec mal à la gorge, mal à la tête et le nez qui coule. Il a de la fièvre : trente-huit et demi. Il écrit à son patron pour dire qu'il est malade, puis il compose le 811, Info-Santé. Une infirmière lui pose des questions.",
+   "— Avez-vous de la difficulté à respirer?",
+   "— Non.",
+   "— C'est probablement un rhume. Allez voir un pharmacien et reposez-vous.",
+   "Samir prend l'autobus 97 jusqu'à la pharmacie. Derrière le comptoir, il y a un pharmacien avec une barbe rousse. C'est Kevin, le chum de Jessica!",
+   "— Samir! T'as l'air magané!",
+   "— Merci, Kevin...",
+   "Kevin lui pose des questions, comme l'infirmière. Puis il demande :",
+   "— Tu dors bien? Tu as chaud, la nuit?",
+   "— Non, j'ai froid! Dans mon appartement, le calorifère est toujours brûlant et je ne peux pas le baisser. Donc, je dors avec la fenêtre ouverte.",
+   "— Ouverte? En février? Il fait moins vingt dehors!",
+   "— Ben... oui.",
+   "— Ben voyons donc, Samir!",
+   "Kevin lui donne du sirop pour la toux, des pastilles pour la gorge et un conseil :",
+   "— Appelle ton propriétaire. Un calorifère qu'on ne peut pas baisser, ce n'est pas normal. Et ferme ta fenêtre!",
+   "Le soir, le propriétaire vient réparer le calorifère. Mme Tremblay apporte une soupe poulet et nouilles. Caramel se couche sur les pieds de Samir. Le lendemain matin, la fièvre est partie."
+  ],
+  "dialogue_ok": true,
+  "glossary": [
+   {
+    "fr": "avoir mal à la gorge / à la tête",
+    "en": "to have a sore throat / a headache"
+   },
+   {
+    "fr": "le nez qui coule",
+    "en": "a runny nose"
+   },
+   {
+    "fr": "la fièvre",
+    "en": "fever"
+   },
+   {
+    "fr": "Info-Santé 811",
+    "en": "Quebec's free 24/7 health phone line with nurses",
+    "qc": true
+   },
+   {
+    "fr": "l'infirmière",
+    "en": "the nurse"
+   },
+   {
+    "fr": "respirer",
+    "en": "to breathe"
+   },
+   {
+    "fr": "un rhume",
+    "en": "a cold"
+   },
+   {
+    "fr": "se reposer",
+    "en": "to rest"
+   },
+   {
+    "fr": "avoir l'air magané",
+    "en": "to look worn out, beat up",
+    "qc": true
+   },
+   {
+    "fr": "le calorifère",
+    "en": "the radiator",
+    "qc": true
+   },
+   {
+    "fr": "baisser",
+    "en": "to lower, turn down"
+   },
+   {
+    "fr": "le sirop pour la toux",
+    "en": "cough syrup"
+   },
+   {
+    "fr": "Ben voyons donc!",
+    "en": "Oh come on! You've got to be kidding!",
+    "qc": true
+   },
+   {
+    "fr": "le propriétaire",
+    "en": "the landlord"
+   },
+   {
+    "fr": "le lendemain",
+    "en": "the next day"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What number does Samir call?",
+    "options": [
+     "911",
+     "811",
+     "311"
+    ],
+    "a": 1,
+    "why": "« il compose le 811, Info-Santé »."
+   },
+   {
+    "q": "What does the nurse think he has?",
+    "options": [
+     "A cold",
+     "The flu",
+     "A broken nose"
+    ],
+    "a": 0,
+    "why": "« C'est probablement un rhume. »"
+   },
+   {
+    "q": "Who is the pharmacist?",
+    "options": [
+     "Raj",
+     "M. Gagnon",
+     "Kevin"
+    ],
+    "a": 2,
+    "why": "« C'est Kevin, le chum de Jessica! »"
+   },
+   {
+    "q": "What is the real cause of Samir's cold?",
+    "options": [
+     "He never wears a tuque",
+     "He sleeps with the window open because the radiator is too hot",
+     "He ate Jessica's chili"
+    ],
+    "a": 1,
+    "why": "« le calorifère est toujours brûlant [...] je dors avec la fenêtre ouverte »."
+   },
+   {
+    "q": "What does Kevin tell him to do?",
+    "options": [
+     "Go to the hospital",
+     "Buy a new radiator",
+     "Call his landlord and close the window"
+    ],
+    "a": 2,
+    "why": "« Appelle ton propriétaire. [...] Et ferme ta fenêtre! »"
+   }
+  ],
+  "quebec_note": "In Quebec, dialing 811 reaches Info-Santé, where a nurse gives free health advice day and night, and pharmacists can assess and treat many minor problems. « Magané » (worn out, damaged) is a very common Quebec word."
+ },
+ {
+  "id": "a17",
+  "title": "Les baleines de Tadoussac",
+  "level": "A2",
+  "week": 68,
+  "place": "Tadoussac (Côte-Nord)",
+  "summary": "Samir had promised his mother a whale photo, but on the boat at Tadoussac, things don't go as planned.",
+  "text": [
+   "En août, Samir est parti sur la Côte-Nord avec Jessica et Kevin. Ils avaient loué une auto et ils avaient réservé un camping à Tadoussac, là où le fjord du Saguenay rencontre le fleuve Saint-Laurent.",
+   "Samir n'avait jamais vu de baleine. Avant de partir, il avait promis à sa mère : « Je vais t'envoyer une photo de baleine! » Il avait même acheté un nouvel objectif pour son téléphone.",
+   "Le matin, ils ont pris un bateau. Il faisait gris et il ventait. La guide expliquait :",
+   "— Ici, on peut voir des petits rorquals, des phoques et des bélugas, les baleines blanches. Le béluga est une espèce menacée.",
+   "Une heure a passé. Rien. Samir avait froid et il avait mal au cœur. Jessica lui a donné une pastille au gingembre.",
+   "Soudain, quelqu'un a crié : — Là! Une baleine! Tout le monde a couru à gauche du bateau. Samir aussi... mais il a échappé son téléphone. Le temps de le ramasser, la baleine avait disparu.",
+   "— Non! Pas de photo!",
+   "Puis, juste à côté du bateau, du côté droit, où il n'y avait plus personne, une tête blanche est sortie de l'eau. Un béluga a regardé Samir. Samir a regardé le béluga. Il n'a pas pris de photo. Il a seulement regardé.",
+   "Le soir, en mangeant une guédille aux crevettes, Samir a écrit à sa mère : « Pas de photo. Mais un béluga m'a regardé dans les yeux. »",
+   "Sa mère a répondu : « Ça, c'est mieux qu'une photo. »"
+  ],
+  "dialogue_ok": true,
+  "glossary": [
+   {
+    "fr": "le plus-que-parfait (il avait promis)",
+    "en": "past perfect: had promised"
+   },
+   {
+    "fr": "la baleine",
+    "en": "the whale"
+   },
+   {
+    "fr": "le fleuve",
+    "en": "the (large) river flowing to the sea"
+   },
+   {
+    "fr": "l'objectif",
+    "en": "the camera lens"
+   },
+   {
+    "fr": "il vente",
+    "en": "it's windy",
+    "qc": true
+   },
+   {
+    "fr": "le phoque",
+    "en": "the seal"
+   },
+   {
+    "fr": "le béluga",
+    "en": "the beluga (white whale)"
+   },
+   {
+    "fr": "une espèce menacée",
+    "en": "an endangered species"
+   },
+   {
+    "fr": "avoir mal au cœur",
+    "en": "to feel nauseous (false friend: not heart pain!)"
+   },
+   {
+    "fr": "le gingembre",
+    "en": "ginger"
+   },
+   {
+    "fr": "soudain",
+    "en": "suddenly"
+   },
+   {
+    "fr": "échapper",
+    "en": "to drop (something)",
+    "qc": true
+   },
+   {
+    "fr": "ramasser",
+    "en": "to pick up"
+   },
+   {
+    "fr": "la guédille",
+    "en": "a hot-dog bun filled with seafood or egg salad",
+    "qc": true
+   }
+  ],
+  "questions": [
+   {
+    "q": "What had Samir promised his mother?",
+    "options": [
+     "To call her every day",
+     "To send her a whale photo",
+     "To bring her a beluga souvenir"
+    ],
+    "a": 1,
+    "why": "« il avait promis à sa mère : « Je vais t'envoyer une photo de baleine! » »"
+   },
+   {
+    "q": "What does « avoir mal au cœur » mean?",
+    "options": [
+     "To have heart pain",
+     "To be sad",
+     "To feel sick to your stomach"
+    ],
+    "a": 2,
+    "why": "It's a false friend: « mal au cœur » = nausea, here seasickness."
+   },
+   {
+    "q": "Why did Samir miss the first whale?",
+    "options": [
+     "He dropped his phone",
+     "He was asleep",
+     "He was on the wrong boat"
+    ],
+    "a": 0,
+    "why": "« il a échappé son téléphone. Le temps de le ramasser, la baleine avait disparu »."
+   },
+   {
+    "q": "Where did the beluga appear?",
+    "options": [
+     "Far away on the left",
+     "On the right side, where nobody was",
+     "Under the dock"
+    ],
+    "a": 1,
+    "why": "« du côté droit, où il n'y avait plus personne, une tête blanche est sortie de l'eau »."
+   },
+   {
+    "q": "Why is « la baleine avait disparu » in the plus-que-parfait?",
+    "options": [
+     "It happened before he picked up his phone",
+     "It's a habit",
+     "It's in the future"
+    ],
+    "a": 0,
+    "why": "The plus-que-parfait shows an action completed before another past action."
+   }
+  ],
+  "quebec_note": "Tadoussac is one of the best places in the world to see whales, including the endangered St. Lawrence belugas. In Quebec French, « échapper » commonly means to drop something, and « il vente » means it's windy."
+ },
+ {
+  "id": "a18",
+  "title": "L'entrevue",
+  "level": "A2",
+  "week": 72,
+  "place": "Montréal (Mile End)",
+  "summary": "Samir prepares for a dream job interview with Mme Tremblay, but the recruiter remembers him from a very embarrassing winter morning.",
+  "text": [
+   "Samir vient de recevoir un courriel : il a une entrevue jeudi chez Studio Boréal, une compagnie de jeux vidéo dans le Mile End. Ce serait le travail de ses rêves.",
+   "Mercredi soir, Mme Tremblay l'aide à se préparer.",
+   "— Je serai la patronne. Assieds-toi. Alors, monsieur, si vous étiez un animal, quel animal seriez-vous?",
+   "— Euh... un chat?",
+   "— Non! Caramel est un chat, et il ne travaille jamais. Toi, tu serais un castor : travaillant et canadien!",
+   "Jeudi, Samir arrive en avance, en répétant ses réponses dans sa tête. La recruteuse le regarde longtemps.",
+   "— Excusez-moi... Est-ce qu'on s'est déjà rencontrés?",
+   "— Je ne pense pas, madame.",
+   "— Mais oui! L'hiver dernier, rue Saint-Denis, six heures du matin, un déneigement... un gars en pyjama avec une tuque du Canadien!",
+   "Samir devient tout rouge.",
+   "— C'était... moi.",
+   "— J'habite en face de chez vous! J'ai ri pendant une semaine!",
+   "Puis elle reprend son sérieux.",
+   "— Bon. Si vous étiez un animal, vous seriez quoi?",
+   "Samir sourit.",
+   "— Un castor, madame. Travaillant et canadien.",
+   "— Excellente réponse.",
+   "À la fin, elle lui dit en souriant : — Si vous êtes capable de sauver votre auto en pyjama à moins vingt, vous serez capable de gérer nos projets. Je vous appellerai demain.",
+   "Le lendemain, à neuf heures, son téléphone sonne. Une heure plus tard, Samir frappe chez Mme Tremblay avec des fleurs. Il vient d'obtenir le poste."
+  ],
+  "dialogue_ok": true,
+  "glossary": [
+   {
+    "fr": "venir de + infinitif",
+    "en": "to have just (done)"
+   },
+   {
+    "fr": "le courriel",
+    "en": "email",
+    "qc": true
+   },
+   {
+    "fr": "l'entrevue",
+    "en": "the (job) interview"
+   },
+   {
+    "fr": "le travail de ses rêves",
+    "en": "his dream job"
+   },
+   {
+    "fr": "si vous étiez..., vous seriez...",
+    "en": "if you were..., you would be..."
+   },
+   {
+    "fr": "Assieds-toi.",
+    "en": "Sit down."
+   },
+   {
+    "fr": "le castor",
+    "en": "the beaver"
+   },
+   {
+    "fr": "travaillant",
+    "en": "hard-working",
+    "qc": true
+   },
+   {
+    "fr": "en avance",
+    "en": "early"
+   },
+   {
+    "fr": "en répétant",
+    "en": "while rehearsing (gérondif)"
+   },
+   {
+    "fr": "un gars",
+    "en": "a guy",
+    "qc": true
+   },
+   {
+    "fr": "en face de",
+    "en": "across from"
+   },
+   {
+    "fr": "reprendre son sérieux",
+    "en": "to become serious again"
+   },
+   {
+    "fr": "gérer",
+    "en": "to manage"
+   },
+   {
+    "fr": "le poste",
+    "en": "the position, job"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What does « Samir vient de recevoir un courriel » mean?",
+    "options": [
+     "Samir is going to receive an email",
+     "Samir has just received an email",
+     "Samir is coming to send an email"
+    ],
+    "a": 1,
+    "why": "« venir de + infinitif » = to have just done something."
+   },
+   {
+    "q": "What animal does Mme Tremblay suggest?",
+    "options": [
+     "A cat",
+     "A beaver",
+     "A beluga"
+    ],
+    "a": 1,
+    "why": "« tu serais un castor : travaillant et canadien! »"
+   },
+   {
+    "q": "How does the recruiter know Samir?",
+    "options": [
+     "She is Jessica's sister",
+     "She lives across from him and saw him in pyjamas",
+     "She drove the tow truck"
+    ],
+    "a": 1,
+    "why": "« J'habite en face de chez vous! J'ai ri pendant une semaine! »"
+   },
+   {
+    "q": "Which phrase is a gérondif?",
+    "options": [
+     "en souriant",
+     "vous seriez",
+     "je serai"
+    ],
+    "a": 0,
+    "why": "The gérondif is « en » + present participle (-ant): en souriant, en répétant."
+   },
+   {
+    "q": "What happens at the end?",
+    "options": [
+     "Samir refuses the job",
+     "He gets the job and brings flowers to Mme Tremblay",
+     "The recruiter never calls"
+    ],
+    "a": 1,
+    "why": "« Samir frappe chez Mme Tremblay avec des fleurs. Il vient d'obtenir le poste. »"
+   }
+  ],
+  "quebec_note": "Quebec prefers « courriel » over « e-mail », a word created by the Office québécois de la langue française. « Travaillant » (hard-working) is a typical Quebec adjective; in France people would say « travailleur »."
+ },
+ {
+  "id": "a19",
+  "title": "Gens du pays",
+  "level": "A2",
+  "week": 78,
+  "place": "Montréal (parc Maisonneuve)",
+  "summary": "Samir celebrates the Fête nationale with Mme Tremblay's family and discovers that someone has been sharing his secrets.",
+  "text": [
+   "Le 24 juin, c'est la Fête nationale du Québec, qu'on appelle aussi la Saint-Jean. Mme Tremblay invite Samir à fêter au parc Maisonneuve avec toute sa famille.",
+   "— Il faut porter du bleu et du blanc! lui dit-elle.",
+   "Au parc, il y a tout le monde : des familles, des étudiants, des gens qui viennent du Maroc, d'Haïti, du Vietnam, du Mexique, de France et même de l'Ontario, comme Samir. Partout, des drapeaux fleurdelisés.",
+   "Marc, le fils de Mme Tremblay, lui donne une bière.",
+   "— Pis, Samir, t'es-tu content d'être icitte?",
+   "— Chu très content! répond Samir, fier de son accent.",
+   "La nuit tombe. On allume un grand feu de joie. Puis la foule chante une chanson que Samir ne connaît pas. Il ne connaît rien des paroles, alors il chante « la la la ».",
+   "Soudain, toute la famille Tremblay se tourne vers lui et chante : « Mon cher Samir, c'est à ton tour de te laisser parler d'amour... »",
+   "Léa lui donne un petit gâteau avec une chandelle.",
+   "— Bonne fête, Samir!",
+   "— Mais... comment vous savez que c'est ma fête? Je ne l'ai dit à personne!",
+   "Mme Tremblay sourit.",
+   "— Ta mère m'a appelée la semaine passée. On jase souvent, elle et moi.",
+   "— Ma mère? Mais elle ne parle pas un mot de français!",
+   "— Pis? Elle parle un peu anglais, moi aussi, et on se débrouille. Il faut juste un peu de bonne volonté.",
+   "Samir souffle la chandelle. Il pense : « Ma mère et Mme Tremblay. Ensemble. Ça va être dangereux. »"
+  ],
+  "dialogue_ok": true,
+  "glossary": [
+   {
+    "fr": "la Fête nationale / la Saint-Jean",
+    "en": "Quebec's national holiday, June 24",
+    "qc": true
+   },
+   {
+    "fr": "il faut",
+    "en": "you have to, one must"
+   },
+   {
+    "fr": "le drapeau fleurdelisé",
+    "en": "the Quebec flag (with fleurs-de-lis)",
+    "qc": true
+   },
+   {
+    "fr": "Pis?",
+    "en": "So? / And then? (spoken « puis »)",
+    "qc": true
+   },
+   {
+    "fr": "t'es-tu",
+    "en": "are you (spoken; « -tu » marks a question)",
+    "qc": true
+   },
+   {
+    "fr": "icitte",
+    "en": "here (spoken « ici »)",
+    "qc": true
+   },
+   {
+    "fr": "chu",
+    "en": "I am (spoken « je suis »)",
+    "qc": true
+   },
+   {
+    "fr": "le feu de joie",
+    "en": "the bonfire"
+   },
+   {
+    "fr": "la foule",
+    "en": "the crowd"
+   },
+   {
+    "fr": "ne... rien / ne... personne",
+    "en": "nothing / nobody"
+   },
+   {
+    "fr": "les paroles",
+    "en": "the lyrics"
+   },
+   {
+    "fr": "la chandelle",
+    "en": "the candle",
+    "qc": true
+   },
+   {
+    "fr": "Bonne fête!",
+    "en": "Happy birthday! (in Quebec)",
+    "qc": true
+   },
+   {
+    "fr": "jaser",
+    "en": "to chat",
+    "qc": true
+   },
+   {
+    "fr": "se débrouiller",
+    "en": "to manage, get by"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What colours does Mme Tremblay say to wear?",
+    "options": [
+     "Red and white",
+     "Blue and white",
+     "Green and yellow"
+    ],
+    "a": 1,
+    "why": "« Il faut porter du bleu et du blanc! » (the colours of the Quebec flag)."
+   },
+   {
+    "q": "What does Marc mean by « T'es-tu content d'être icitte? »",
+    "options": [
+     "Are you happy to be here?",
+     "Are you tired of being here?",
+     "Do you want to leave?"
+    ],
+    "a": 0,
+    "why": "Spoken Quebec: « t'es-tu » = es-tu, « icitte » = ici."
+   },
+   {
+    "q": "Why does the Tremblay family sing to Samir?",
+    "options": [
+     "He won a contest",
+     "It's his first Saint-Jean",
+     "It's his birthday"
+    ],
+    "a": 2,
+    "why": "Léa says « Bonne fête, Samir! », which means happy birthday in Quebec."
+   },
+   {
+    "q": "How did Mme Tremblay know?",
+    "options": [
+     "Raj told her",
+     "Samir's mother called her",
+     "She read his mail"
+    ],
+    "a": 1,
+    "why": "« Ta mère m'a appelée la semaine passée. »"
+   },
+   {
+    "q": "In « Je ne l'ai dit à personne », what does « ne... personne » mean?",
+    "options": [
+     "to everyone",
+     "to someone",
+     "to nobody"
+    ],
+    "a": 2,
+    "why": "« ne... personne » = nobody / not anyone."
+   }
+  ],
+  "quebec_note": "Gilles Vigneault's song « Gens du pays » is Quebec's unofficial anthem, and its chorus is also sung as the birthday song: « Mon cher [name], c'est à ton tour... ». In Quebec, « Bonne fête! » means « Happy birthday! »."
+ },
+ {
+  "id": "a20",
+  "title": "Un an plus tard",
+  "level": "A2",
+  "week": 84,
+  "place": "Saint-Sauveur (Laurentides)",
+  "summary": "One year after arriving, Samir is invited to a chalet in the Laurentides, where a big surprise and some alarming news await him.",
+  "text": [
+   "Le 30 juin, un an après son arrivée à Montréal, Samir reçoit un texto de Jessica : « Chalet en fin de semaine à Saint-Sauveur! Apporte ton maillot. Pis pas de tuque, il fait trente degrés! »",
+   "Dans l'auto de Kevin, Samir regarde les montagnes des Laurentides en pensant à son premier jour au Québec : la boîte, la valise, le sac... et un gros chat orange.",
+   "Au chalet, il n'y a personne, et les rideaux sont fermés.",
+   "— Bizarre, dit Samir. Où sont les autres?",
+   "Il ouvre la porte. « SURPRISE! » Tout le monde est là : Mme Tremblay, Marc, Annie, Léa, Raj et même M. Gagnon. Caramel est là aussi, dans son panier, l'air fâché.",
+   "Puis une femme s'avance. C'est sa mère.",
+   "— Bonjour, mon chéri. Je suis très fière de toi.",
+   "Samir reste bouche bée. Sa mère parle français!",
+   "— Maman? Depuis quand tu parles français?",
+   "— Depuis huit mois. Je prends des cours en ligne, et Gisèle me fait pratiquer au téléphone tous les dimanches. Nous avions tout organisé!",
+   "— Et ce n'est pas tout, ajoute Mme Tremblay.",
+   "— J'ai trouvé un appartement à Montréal, dit sa mère. Juste à côté de chez toi. Je déménage demain... le 1er juillet!",
+   "Samir, Jessica et Kevin se regardent, horrifiés.",
+   "— Le 1er juillet?! Maman, tu as un divan?",
+   "Le soir, devant le feu, Samir fait un petit discours :",
+   "— Il y a un an, je ne connaissais personne ici. Aujourd'hui, j'ai une famille. Merci à tous!",
+   "Tout le monde applaudit. Caramel, lui, ne dit rien. Il dort sur les pieds de Samir."
+  ],
+  "dialogue_ok": true,
+  "glossary": [
+   {
+    "fr": "un texto",
+    "en": "a text message",
+    "qc": true
+   },
+   {
+    "fr": "le chalet",
+    "en": "the cottage (in the country)",
+    "qc": true
+   },
+   {
+    "fr": "la fin de semaine",
+    "en": "the weekend",
+    "qc": true
+   },
+   {
+    "fr": "en pensant à",
+    "en": "while thinking about"
+   },
+   {
+    "fr": "les rideaux",
+    "en": "the curtains"
+   },
+   {
+    "fr": "le panier",
+    "en": "the (pet) carrier, basket"
+   },
+   {
+    "fr": "fâché",
+    "en": "angry"
+   },
+   {
+    "fr": "s'avancer",
+    "en": "to step forward"
+   },
+   {
+    "fr": "fier, fière",
+    "en": "proud"
+   },
+   {
+    "fr": "rester bouche bée",
+    "en": "to be speechless"
+   },
+   {
+    "fr": "des cours en ligne",
+    "en": "online classes"
+   },
+   {
+    "fr": "nous avions tout organisé",
+    "en": "we had organized everything"
+   },
+   {
+    "fr": "le discours",
+    "en": "the speech"
+   },
+   {
+    "fr": "ne... personne",
+    "en": "nobody, no one"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Why is this weekend special?",
+    "options": [
+     "It's Samir's birthday",
+     "It's one year since Samir arrived",
+     "It's Kevin's new job"
+    ],
+    "a": 1,
+    "why": "« un an après son arrivée à Montréal »."
+   },
+   {
+    "q": "What is surprising about Samir's mother?",
+    "options": [
+     "She speaks French",
+     "She brought Caramel",
+     "She lives in the chalet"
+    ],
+    "a": 0,
+    "why": "« Sa mère parle français! » She has been taking classes for eight months."
+   },
+   {
+    "q": "Who helped her practise?",
+    "options": [
+     "Jessica",
+     "Raj",
+     "Mme Tremblay (Gisèle)"
+    ],
+    "a": 2,
+    "why": "« Gisèle me fait pratiquer au téléphone tous les dimanches. »"
+   },
+   {
+    "q": "Why are Samir, Jessica and Kevin horrified?",
+    "options": [
+     "The chalet is too small",
+     "His mother is moving on July 1st",
+     "Caramel ran away"
+    ],
+    "a": 1,
+    "why": "They remember Moving Day (and the green couch): « Je déménage demain... le 1er juillet! »"
+   },
+   {
+    "q": "What does Samir say in his speech?",
+    "options": [
+     "He wants to go back to Toronto",
+     "A year ago he knew nobody; now he has a family",
+     "He will never move again"
+    ],
+    "a": 1,
+    "why": "« Il y a un an, je ne connaissais personne ici. Aujourd'hui, j'ai une famille. »"
+   }
+  ],
+  "quebec_note": "« Aller au chalet » in the Laurentides or the Eastern Townships is a classic Quebec summer weekend. Quebec French says « la fin de semaine » for the weekend and « un texto » for a text message."
+ }
+]

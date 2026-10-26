@@ -1,0 +1,653 @@
+{
+ "w": 112,
+ "title": "Spoken discourse markers",
+ "goal": "By the end of this lesson you can recognise and use the little words that organise conversation (bon, alors, en fait, bref, en tout cas) and understand the Quebec markers ben là, coudonc, genre, t'sais, pis and faque.",
+ "learn": [
+  {
+   "h": "What discourse markers do",
+   "body": [
+    "Discourse markers are the small words that don't change the facts of a sentence but tell the listener how to take it: starting a topic, correcting yourself, summing up, showing surprise or impatience. English has 'well', 'so', 'anyway', 'I mean', 'like', 'you know'.",
+    "French learners often sound stiff because they leave them out. A few well-placed markers make you sound fluent, and recognising them makes fast speech much easier to follow."
+   ]
+  },
+  {
+   "h": "Standard markers you can use anywhere",
+   "body": [
+    "These are neutral and work in both France and Quebec, in conversation and in semi-formal speech (meetings, presentations).",
+    "*En fait* corrects or clarifies (actually). *Bref* and *enfin bref* sum up. *D'ailleurs* adds a related point (by the way, besides). *Sinon* changes the topic (otherwise / other than that)."
+   ],
+   "table": {
+    "head": [
+     "Marker",
+     "Function",
+     "Example"
+    ],
+    "rows": [
+     [
+      "bon",
+      "start, decide, wrap up",
+      "Bon, on y va?"
+     ],
+     [
+      "alors / donc",
+      "so, then",
+      "Alors, qu'est-ce qu'on fait?"
+     ],
+     [
+      "en fait",
+      "actually, correction",
+      "En fait, je ne peux pas venir."
+     ],
+     [
+      "enfin",
+      "well, I mean (self-correction)",
+      "Il est grand… enfin, pas si grand."
+     ],
+     [
+      "bref",
+      "in short, anyway",
+      "Bref, c'était une longue journée."
+     ],
+     [
+      "d'ailleurs",
+      "besides, by the way",
+      "D'ailleurs, je voulais te demander…"
+     ],
+     [
+      "sinon",
+      "otherwise; other than that",
+      "Sinon, ça va, toi?"
+     ],
+     [
+      "en tout cas",
+      "anyway, in any case",
+      "En tout cas, merci pour tout."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Quebec markers: ben là, coudonc, en tout cas",
+   "body": [
+    "*Ben là!* (from *bien là*) is a protest or mild indignation: 'Come on!', 'Well, really!' *Ben là, t'es en retard d'une heure!* With a softer tone, *ben* alone just means 'well': *Ben, je sais pas.*",
+    "*Coudonc* (from *écoute donc*) signals surprise, curiosity or impatience: 'Hey, say…', 'What the heck…', 'I wonder…'. *Coudonc, es-tu malade?* (Hey, are you sick or something?)",
+    "*En tout cas* is standard French, but Quebecers use it constantly to close a topic or move on, often with a sigh: *En tout cas… on verra.*"
+   ],
+   "tip": "Ben là = 'come on!'; coudonc = 'hey, what's going on?'"
+  },
+  {
+   "h": "Fillers: genre, t'sais, là, pis, faque",
+   "body": [
+    "*Genre* works like English 'like': *Il était genre deux heures du matin.* It's very common among younger speakers on both sides of the Atlantic.",
+    "*T'sais* (tu sais) = 'you know'; *là* at the end of a phrase adds emphasis or marks a pause: *Je suis fatigué, là.* *Pis* (puis) = 'and, and then'; *faque* (ça fait que) = 'so'. These are all informal Quebec speech.",
+    "Use them sparingly yourself. In writing, at work with strangers or in a job interview, stick to the standard markers in the table above."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Bon, je pense qu'on a fini.",
+   "en": "OK, I think we're done.",
+   "note": "bon to wrap up"
+  },
+  {
+   "fr": "En fait, je préfère rester ici.",
+   "en": "Actually, I'd rather stay here.",
+   "note": "en fait = actually"
+  },
+  {
+   "fr": "Bref, on a raté l'avion.",
+   "en": "Long story short, we missed the plane.",
+   "note": "bref sums up"
+  },
+  {
+   "fr": "Il fait beau… enfin, il ne pleut pas.",
+   "en": "It's nice out… well, it's not raining.",
+   "note": "enfin corrects"
+  },
+  {
+   "fr": "Sinon, comment vont les enfants?",
+   "en": "Other than that, how are the kids?",
+   "note": "sinon changes the topic"
+  },
+  {
+   "fr": "D'ailleurs, c'est elle qui m'a parlé de ce restaurant.",
+   "en": "Actually, she's the one who told me about this restaurant.",
+   "note": "d'ailleurs adds a related point"
+  },
+  {
+   "fr": "En tout cas, merci d'être venu.",
+   "en": "Anyway, thanks for coming.",
+   "note": "closing a conversation"
+  },
+  {
+   "fr": "Ben là, tu pourrais m'aider un peu!",
+   "en": "Come on, you could help me a bit!",
+   "note": "ben là = protest, informal"
+  },
+  {
+   "fr": "Coudonc, t'es où? Ça fait une heure que je t'attends.",
+   "en": "Hey, where are you? I've been waiting for an hour.",
+   "note": "coudonc = impatience, informal"
+  },
+  {
+   "fr": "Coudonc, as-tu gagné à la loto?",
+   "en": "Say, did you win the lottery or what?",
+   "note": "coudonc = surprised curiosity"
+  },
+  {
+   "fr": "Il avait genre quinze chats chez lui.",
+   "en": "He had, like, fifteen cats at his place.",
+   "note": "genre = like, informal"
+  },
+  {
+   "fr": "T'sais, c'est pas facile de déménager.",
+   "en": "You know, moving isn't easy.",
+   "note": "t'sais = tu sais, informal"
+  },
+  {
+   "fr": "On est allés au parc, pis après on a mangé une crème glacée.",
+   "en": "We went to the park, and then we had ice cream.",
+   "note": "pis = and then, informal"
+  },
+  {
+   "fr": "Il pleuvait, faque on est restés en dedans.",
+   "en": "It was raining, so we stayed inside.",
+   "note": "faque = so, informal"
+  },
+  {
+   "fr": "Arrête, là!",
+   "en": "Stop it, OK?",
+   "note": "là adds insistence"
+  },
+  {
+   "fr": "Alors, qu'est-ce que vous avez décidé?",
+   "en": "So, what did you decide?",
+   "note": "alors opens a question"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebec conversation runs on markers like ben là, coudonc, en tout cas, genre, t'sais, pis and faque. Understanding them is key to following real speech; use the standard ones when the setting is formal.",
+  "items": [
+   {
+    "std": "Allons donc, tu exagères!",
+    "qc": "Ben là, t'exagères!",
+    "en": "Come on, you're exaggerating!",
+    "note": "ben là = protest, informal"
+   },
+   {
+    "std": "Dis donc, tu es malade?",
+    "qc": "Coudonc, es-tu malade?",
+    "en": "Hey, are you sick or something?",
+    "note": "coudonc from écoute donc; 'es-tu' is the Quebec question form"
+   },
+   {
+    "std": "Quoi qu'il en soit, on verra.",
+    "qc": "En tout cas… on verra ben.",
+    "en": "Anyway… we'll see.",
+    "note": "en tout cas is standard; ben = bien, informal"
+   },
+   {
+    "std": "Il était environ minuit.",
+    "qc": "Il était genre minuit.",
+    "en": "It was, like, midnight.",
+    "note": "genre = like, informal (also used in France)"
+   },
+   {
+    "std": "Il neigeait, donc on est restés à la maison.",
+    "qc": "Il neigeait, faque on est restés à maison.",
+    "en": "It was snowing, so we stayed home.",
+    "note": "faque = ça fait que; à maison = à la maison, both informal"
+   },
+   {
+    "std": "Tu sais, je t'aime bien.",
+    "qc": "T'sais, je t'aime ben.",
+    "en": "You know, I really like you.",
+    "note": "t'sais and ben, informal"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Which marker sums up a story?",
+   "options": [
+    "bref",
+    "sinon",
+    "coudonc",
+    "d'ailleurs"
+   ],
+   "a": 0,
+   "why": "Bref = in short."
+  },
+  {
+   "t": "mcq",
+   "q": "Your friend is an hour late. You say: '___, t'étais où?'",
+   "options": [
+    "Bref",
+    "Coudonc",
+    "D'ailleurs",
+    "Donc"
+   ],
+   "a": 1,
+   "why": "Coudonc expresses impatience or surprise."
+  },
+  {
+   "t": "mcq",
+   "q": "'Ben là!' usually expresses…",
+   "options": [
+    "agreement",
+    "protest / 'come on!'",
+    "a greeting",
+    "a summary"
+   ],
+   "a": 1,
+   "why": "Ben là = mild indignation."
+  },
+  {
+   "t": "mcq",
+   "q": "In a job interview, which marker is most appropriate?",
+   "options": [
+    "faque",
+    "genre",
+    "en fait",
+    "coudonc"
+   ],
+   "a": 2,
+   "why": "En fait is neutral; the others are informal."
+  },
+  {
+   "t": "fill",
+   "q": "___, je ne peux pas venir ce soir. (Actually)",
+   "a": [
+    "En fait"
+   ],
+   "en": "Actually, I can't come tonight.",
+   "why": "En fait corrects or clarifies."
+  },
+  {
+   "t": "fill",
+   "q": "Il pleuvait, ___ on est restés en dedans. (so, informal Quebec)",
+   "a": [
+    "faque",
+    "fait que",
+    "ça fait que"
+   ],
+   "en": "It was raining, so we stayed inside.",
+   "why": "Faque = ça fait que = donc."
+  },
+  {
+   "t": "fill",
+   "q": "___, comment va ta mère? (other than that)",
+   "a": [
+    "Sinon"
+   ],
+   "en": "Other than that, how's your mother?",
+   "why": "Sinon changes the topic."
+  },
+  {
+   "t": "fill",
+   "q": "Il avait ___ vingt ans. (like, informal)",
+   "a": [
+    "genre"
+   ],
+   "en": "He was, like, twenty.",
+   "why": "Genre as a filler = like."
+  },
+  {
+   "t": "build",
+   "en": "Anyway, thanks for coming.",
+   "a": "En tout cas, merci d'être venu."
+  },
+  {
+   "t": "build",
+   "en": "Long story short, we missed the bus.",
+   "a": "Bref, on a manqué l'autobus."
+  },
+  {
+   "t": "build",
+   "en": "Come on, you're exaggerating!",
+   "a": "Ben là, tu exagères!"
+  },
+  {
+   "t": "translate",
+   "en": "So, what did you decide?",
+   "a": [
+    "Alors, qu'est-ce que tu as décidé?",
+    "Alors, qu'est-ce que vous avez décidé?",
+    "Donc, qu'est-ce que tu as décidé?",
+    "Donc, qu'est-ce que vous avez décidé?",
+    "Alors, qu'as-tu décidé?",
+    "Alors, qu'avez-vous décidé?"
+   ],
+   "why": "Alors / donc to open a question."
+  },
+  {
+   "t": "translate",
+   "en": "Actually, I prefer tea.",
+   "a": [
+    "En fait, je préfère le thé.",
+    "En fait, j'aime mieux le thé."
+   ],
+   "why": "En fait = actually."
+  },
+  {
+   "t": "translate",
+   "en": "You know, it's not easy.",
+   "a": [
+    "Tu sais, ce n'est pas facile.",
+    "Vous savez, ce n'est pas facile.",
+    "Tu sais, c'est pas facile.",
+    "T'sais, c'est pas facile."
+   ],
+   "why": "Tu sais / vous savez; t'sais is informal."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "bon",
+   "en": "well, OK, right",
+   "ex": "Bon, on commence."
+  },
+  {
+   "fr": "en fait",
+   "en": "actually, in fact",
+   "ex": "En fait, j'ai changé d'idée."
+  },
+  {
+   "fr": "bref",
+   "en": "in short, anyway",
+   "ex": "Bref, tout s'est bien terminé."
+  },
+  {
+   "fr": "enfin",
+   "en": "well, I mean; finally",
+   "ex": "Il est sympa… enfin, la plupart du temps."
+  },
+  {
+   "fr": "d'ailleurs",
+   "en": "besides, by the way",
+   "ex": "D'ailleurs, il m'a appelé hier."
+  },
+  {
+   "fr": "sinon",
+   "en": "otherwise; other than that",
+   "ex": "Sinon, quoi de neuf?"
+  },
+  {
+   "fr": "en tout cas",
+   "en": "anyway, in any case",
+   "ex": "En tout cas, bonne chance!"
+  },
+  {
+   "fr": "de toute façon",
+   "en": "anyway, in any case",
+   "ex": "De toute façon, c'est trop tard."
+  },
+  {
+   "fr": "ben là",
+   "en": "come on!, well really!",
+   "ex": "Ben là, c'est pas juste!",
+   "qc": true
+  },
+  {
+   "fr": "coudonc",
+   "en": "hey, say (surprise, impatience)",
+   "ex": "Coudonc, qu'est-ce qui se passe?",
+   "qc": true
+  },
+  {
+   "fr": "genre",
+   "en": "like (filler)",
+   "ex": "C'était genre super bon."
+  },
+  {
+   "fr": "t'sais",
+   "en": "you know",
+   "ex": "T'sais, je comprends.",
+   "qc": true
+  },
+  {
+   "fr": "pis",
+   "en": "and, and then",
+   "ex": "Pis, ta fin de semaine?",
+   "qc": true
+  },
+  {
+   "fr": "faque",
+   "en": "so",
+   "ex": "J'étais fatigué, faque je suis parti.",
+   "qc": true
+  },
+  {
+   "fr": "mettons",
+   "en": "let's say; sure, OK",
+   "ex": "Mettons qu'on se voit à huit heures.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "ben là",
+    "tip": "bin-LA, rising and insistent on là."
+   },
+   {
+    "fr": "coudonc",
+    "tip": "koo-DON(K): stress on the end, often with a rising tone."
+   },
+   {
+    "fr": "t'sais",
+    "tip": "Just 'tsé': the tu has vanished."
+   },
+   {
+    "fr": "faque",
+    "tip": "FAK: one quick syllable."
+   },
+   {
+    "fr": "pis",
+    "tip": "PI, never 'pwi' in casual Quebec speech."
+   },
+   {
+    "fr": "en tout cas",
+    "tip": "an-too-KA; often stretched: 'en tout caaas…' to close a topic."
+   }
+  ],
+  "title": "Le retard",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Coudonc, t'étais où? Ça fait quarante minutes que je t'attends!",
+    "en": "Hey, where were you? I've been waiting for forty minutes!"
+   },
+   {
+    "s": "B",
+    "fr": "Ben là, c'est pas de ma faute! Le métro était bloqué.",
+    "en": "Come on, it's not my fault! The metro was stuck."
+   },
+   {
+    "s": "A",
+    "fr": "Encore? Pis t'as pas pensé à m'écrire?",
+    "en": "Again? And you didn't think of texting me?"
+   },
+   {
+    "s": "B",
+    "fr": "J'avais pus de batterie, faque j'pouvais pas.",
+    "en": "My battery was dead, so I couldn't."
+   },
+   {
+    "s": "A",
+    "fr": "Bon. En fait, c'est pas grave, le film commence juste à huit heures.",
+    "en": "OK. Actually, it's no big deal, the movie only starts at eight."
+   },
+   {
+    "s": "B",
+    "fr": "T'sais, j'ai couru genre dix minutes pour arriver ici.",
+    "en": "You know, I ran for, like, ten minutes to get here."
+   },
+   {
+    "s": "A",
+    "fr": "En tout cas, t'es là. On va chercher du popcorn?",
+    "en": "Anyway, you're here. Shall we get popcorn?"
+   },
+   {
+    "s": "B",
+    "fr": "Mettons! Pis c'est moi qui paie, pour me faire pardonner.",
+    "en": "Sure! And I'm paying, to make it up to you."
+   }
+  ],
+  "questions": [
+   {
+    "q": "Why was B late?",
+    "options": [
+     "He forgot",
+     "The metro was stuck",
+     "He was at work"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Why didn't B text?",
+    "options": [
+     "His phone battery was dead",
+     "He didn't have A's number",
+     "He was driving"
+    ],
+    "a": 0
+   },
+   {
+    "q": "What does 'Mettons!' mean in B's last line?",
+    "options": [
+     "Let's put it there",
+     "Sure! / OK!",
+     "Let's say eight",
+     "No way"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Tell a short story about your weekend in 4–5 sentences, using alors, en fait, d'ailleurs and bref.",
+   "model": "Alors, samedi, on voulait aller au marché Jean-Talon. En fait, il pleuvait trop, donc on est allés au cinéma. D'ailleurs, le film était excellent. Bref, une belle fin de semaine."
+  },
+  {
+   "prompt": "React to a friend who arrives two hours late, casual Quebec style.",
+   "model": "Coudonc, t'étais où? Ben là, ça fait deux heures que je t'attends!"
+  },
+  {
+   "prompt": "Retell the same weekend story in casual Quebec style with pis, faque, genre and en tout cas.",
+   "model": "Samedi, on voulait aller au marché, pis il pleuvait genre à boire debout, faque on est allés au cinéma. En tout cas, c'était le fun."
+  },
+  {
+   "prompt": "Close a phone conversation politely using a marker.",
+   "model": "Bon, en tout cas, je te laisse. Merci d'avoir appelé, bonne soirée!"
+  }
+ ],
+ "write": {
+  "prompt": "Write a short text message conversation (8–10 lines) between two friends in Quebec planning an evening, using at least six different discourse markers. Then rewrite two of the lines in neutral standard French.",
+  "model": "A : Coudonc, t'es où? / B : Ben là, j'suis encore au bureau! / A : Pis, on se voit ce soir? / B : Mettons. Genre vers 7 h? / A : Parfait. En fait, Julie vient aussi. / B : Super! Faque on va au resto thaï? / A : Bon, OK. En tout cas, écris-moi quand tu pars. Standard : « Dis donc, où es-tu? » « Alors, on va au restaurant thaï? »"
+ },
+ "quiz": [
+  {
+   "q": "'Coudonc' comes from…",
+   "options": [
+    "coup donc",
+    "écoute donc",
+    "tout donc",
+    "comment donc"
+   ],
+   "a": 1,
+   "why": "Écoute donc → coudonc."
+  },
+  {
+   "q": "Which marker introduces a correction?",
+   "options": [
+    "bref",
+    "en fait",
+    "sinon",
+    "pis"
+   ],
+   "a": 1,
+   "why": "En fait = actually."
+  },
+  {
+   "q": "'Sinon, ça va?' means…",
+   "options": [
+    "If not, OK?",
+    "Other than that, how are you?",
+    "So, are you OK?",
+    "Otherwise you'll go?"
+   ],
+   "a": 1,
+   "why": "Sinon changes the topic."
+  },
+  {
+   "q": "'Faque' is the spoken form of…",
+   "options": [
+    "fait que / ça fait que",
+    "faire que",
+    "parce que",
+    "en fait"
+   ],
+   "a": 0,
+   "why": "Ça fait que → faque = so."
+  },
+  {
+   "q": "Which marker is NOT informal?",
+   "options": [
+    "genre",
+    "d'ailleurs",
+    "t'sais",
+    "ben là"
+   ],
+   "a": 1,
+   "why": "D'ailleurs is neutral and fine in writing."
+  },
+  {
+   "q": "'En tout cas' is often used to…",
+   "options": [
+    "start a list",
+    "close a topic or move on",
+    "ask a question",
+    "express anger"
+   ],
+   "a": 1,
+   "why": "Anyway, in any case."
+  },
+  {
+   "q": "'Il avait genre trois voitures' — genre means…",
+   "options": [
+    "kind of car",
+    "like (filler)",
+    "gender",
+    "type"
+   ],
+   "a": 1,
+   "why": "Genre as a filler."
+  },
+  {
+   "q": "What does 'là' add in 'Je suis tanné, là!'?",
+   "options": [
+    "location",
+    "insistence / emphasis",
+    "a question",
+    "past time"
+   ],
+   "a": 1,
+   "why": "Final là emphasises. Tanné = fed up in Quebec."
+  },
+  {
+   "q": "'Pis' in 'Pis, ta fin de semaine?' means…",
+   "options": [
+    "Worse",
+    "So / and",
+    "Never",
+    "Then never"
+   ],
+   "a": 1,
+   "why": "Pis = puis, here 'So, how was…?'"
+  }
+ ]
+}

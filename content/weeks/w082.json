@@ -1,0 +1,642 @@
+{
+ "w": 82,
+ "title": "Speaking lesson: phone calls and appointments",
+ "goal": "By the end of this lesson you can make a phone call in French to book, change or cancel an appointment at a clinic or a SAAQ service centre, understand automated menus, spell your name, give numbers, and ask the other person to repeat or slow down.",
+ "learn": [
+  {
+   "h": "Opening and closing a call",
+   "body": [
+    "Answering: *Allô?* (personal phone; very common in Quebec) or the name of the business: *Clinique médicale du Plateau, bonjour!* Introducing yourself: *Bonjour, mon nom est…* or *Bonjour, c'est Alex Martin.*",
+    "Stating your purpose: *Je vous appelle pour prendre un rendez-vous* (I'm calling to make an appointment), *…pour changer / annuler mon rendez-vous*, *…pour avoir des informations sur…*",
+    "Closing: *Merci beaucoup, bonne journée!* In Quebec, calls very often end with a quick *Bye!* or *Bye-bye!*, even in French and even with businesses."
+   ],
+   "table": {
+    "head": [
+     "They say",
+     "Meaning",
+     "You answer"
+    ],
+    "rows": [
+     [
+      "Ne quittez pas.",
+      "Hold on / Please hold.",
+      "Merci."
+     ],
+     [
+      "Je vous mets en attente.",
+      "I'm putting you on hold.",
+      "D'accord."
+     ],
+     [
+      "C'est à quel nom?",
+      "What name is it under?",
+      "Martin, M-A-R-T-I-N."
+     ],
+     [
+      "Quel est votre numéro de téléphone?",
+      "What's your phone number?",
+      "C'est le 514 555-0123."
+     ],
+     [
+      "Avez-vous votre carte d'assurance maladie?",
+      "Do you have your health card?",
+      "Oui, le numéro est…"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Survival phrases when you don't understand",
+   "body": [
+    "Phone calls are harder than face-to-face: no gestures and often a bad line. Prepare these: *Pardon, pouvez-vous répéter?* (Sorry, can you repeat?), *Pourriez-vous parler plus lentement, s'il vous plaît?* (Could you speak more slowly?), *Pouvez-vous l'épeler?* (Can you spell it?), *Je n'ai pas bien compris* (I didn't quite understand).",
+    "Repeat back to check: *Donc, c'est mardi le 12 à 14 h 30, c'est bien ça?* (So, it's Tuesday the 12th at 2:30, is that right?).",
+    "If needed: *Est-ce qu'il y a quelqu'un qui parle anglais?* But try French first; people are usually patient."
+   ],
+   "tip": "Write down your key sentences and numbers BEFORE you call."
+  },
+  {
+   "h": "Booking: dates, times and availability",
+   "body": [
+    "*Est-ce que vous avez des disponibilités cette semaine?* (Do you have any openings this week?), *Le premier rendez-vous disponible, c'est quand?* (When's the first available appointment?), *Je suis disponible le matin* (I'm available in the morning), *Ça me convient* (That works for me), *Ça ne me convient pas, avez-vous autre chose?* (That doesn't work for me, do you have anything else?).",
+    "Times on the phone use the 24-hour clock: *à 14 h 30* (quatorze heures trente). Dates: *le mardi 12 mars*."
+   ]
+  },
+  {
+   "h": "Automated menus and Quebec services",
+   "body": [
+    "Automated menus: *Pour le service en français, faites le 1. For service in English, press 9.* *Faites le 1* or *Appuyez sur le 1* = press 1. *Faites le 0 pour parler à un agent.* *Votre appel est important pour nous.* *Veuillez patienter.*",
+    "The SAAQ (Société de l'assurance automobile du Québec) handles driver's licences (*le permis de conduire*), vehicle registration (*l'immatriculation*) and road tests (*l'examen de conduite*). Many SAAQ services now require an online appointment, but you may still call for information.",
+    "For a doctor, many Quebecers book through a clinic, a *GMF* (groupe de médecine de famille), or the online system *Rendez-vous santé Québec*. Your *numéro d'assurance maladie* is always asked."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Clinique médicale Saint-Denis, bonjour!",
+   "en": "Saint-Denis Medical Clinic, hello!"
+  },
+  {
+   "fr": "Bonjour, je vous appelle pour prendre un rendez-vous avec un médecin.",
+   "en": "Hello, I'm calling to make an appointment with a doctor."
+  },
+  {
+   "fr": "Est-ce que vous avez des disponibilités cette semaine?",
+   "en": "Do you have any openings this week?"
+  },
+  {
+   "fr": "Le premier rendez-vous disponible est jeudi à 9 h 15.",
+   "en": "The first available appointment is Thursday at 9:15."
+  },
+  {
+   "fr": "Ça me convient parfaitement.",
+   "en": "That works perfectly for me."
+  },
+  {
+   "fr": "C'est à quel nom?",
+   "en": "What name is it under?"
+  },
+  {
+   "fr": "Mon nom de famille, c'est Martin: M-A-R-T-I-N.",
+   "en": "My last name is Martin: M-A-R-T-I-N."
+  },
+  {
+   "fr": "Pardon, pourriez-vous répéter plus lentement?",
+   "en": "Sorry, could you repeat that more slowly?"
+  },
+  {
+   "fr": "Ne quittez pas, je vérifie.",
+   "en": "Please hold, I'm checking."
+  },
+  {
+   "fr": "Je dois annuler mon rendez-vous de demain.",
+   "en": "I have to cancel my appointment tomorrow."
+  },
+  {
+   "fr": "Est-ce que je peux le déplacer à la semaine prochaine?",
+   "en": "Can I move it to next week?"
+  },
+  {
+   "fr": "Je voudrais changer l'adresse sur mon permis de conduire.",
+   "en": "I'd like to change the address on my driver's licence."
+  },
+  {
+   "fr": "Pour le service en français, faites le 1.",
+   "en": "For service in French, press 1."
+  },
+  {
+   "fr": "Donc, c'est mardi le 12 à 14 h 30, c'est bien ça?",
+   "en": "So it's Tuesday the 12th at 2:30 p.m., is that right?"
+  },
+  {
+   "fr": "Qu'est-ce que je dois apporter?",
+   "en": "What should I bring?"
+  },
+  {
+   "fr": "Parfait, merci beaucoup. Bonne journée, bye!",
+   "en": "Perfect, thanks a lot. Have a nice day, bye!",
+   "note": "bye is very common in Quebec phone calls"
+  }
+ ],
+ "quebec": {
+  "intro": "Booking at a clinic or the SAAQ means dealing with Quebec phone habits: 'Allô' to answer, 'faites le 1' in menus, the 24-hour clock, your health insurance number, and a cheerful 'Bonne journée, bye!' to finish.",
+  "items": [
+   {
+    "std": "Bonjour? / Oui?",
+    "qc": "Allô?",
+    "en": "Hello? (answering the phone)",
+    "note": "Standard in Quebec"
+   },
+   {
+    "std": "Appuyez sur la touche 1.",
+    "qc": "Faites le 1.",
+    "en": "Press 1.",
+    "note": "Standard Quebec menu wording"
+   },
+   {
+    "std": "Au revoir.",
+    "qc": "Bonne journée, bye!",
+    "en": "Have a nice day, bye!",
+    "note": "Informal but used even by businesses"
+   },
+   {
+    "std": "Un instant, s'il vous plaît.",
+    "qc": "Une seconde, là.",
+    "en": "One second.",
+    "note": "Informal"
+   },
+   {
+    "std": "Mon numéro de téléphone est le…",
+    "qc": "Mon numéro, c'est le cinq-un-quatre…",
+    "en": "My number is 514…",
+    "note": "Area codes are often said digit by digit; the rest in pairs"
+   },
+   {
+    "std": "Je voudrais un rendez-vous.",
+    "qc": "J'aurais besoin d'un rendez-vous.",
+    "en": "I'd need an appointment.",
+    "note": "Very common polite conditionnel in Quebec"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "The receptionist says 'Ne quittez pas.' What should you do?",
+   "options": [
+    "Hang up",
+    "Stay on the line",
+    "Call back later",
+    "Leave a message"
+   ],
+   "a": 1,
+   "why": "Ne quittez pas = please hold."
+  },
+  {
+   "t": "mcq",
+   "q": "'Faites le 1' in a phone menu means…",
+   "options": [
+    "Do it once",
+    "Press 1",
+    "Wait one minute",
+    "Option 1 is closed"
+   ],
+   "a": 1,
+   "why": "Faire le 1 = press 1."
+  },
+  {
+   "t": "mcq",
+   "q": "What does the SAAQ handle?",
+   "options": [
+    "Health cards",
+    "Driver's licences and vehicle registration",
+    "Taxes",
+    "Housing"
+   ],
+   "a": 1,
+   "why": "Société de l'assurance automobile du Québec."
+  },
+  {
+   "t": "mcq",
+   "q": "'Ça me convient' means…",
+   "options": [
+    "That's convenient for you",
+    "That works for me",
+    "I'm convinced",
+    "I agree with you"
+   ],
+   "a": 1,
+   "why": "convenir à = to suit."
+  },
+  {
+   "t": "fill",
+   "q": "Je vous appelle pour ___ un rendez-vous. (to make)",
+   "a": [
+    "prendre"
+   ],
+   "en": "I'm calling to make an appointment.",
+   "why": "prendre rendez-vous / un rendez-vous."
+  },
+  {
+   "t": "fill",
+   "q": "Pourriez-vous ___, s'il vous plaît? (to repeat)",
+   "a": [
+    "répéter"
+   ],
+   "en": "Could you repeat, please?",
+   "why": "répéter."
+  },
+  {
+   "t": "fill",
+   "q": "Avez-vous des ___ cette semaine? (openings)",
+   "a": [
+    "disponibilités"
+   ],
+   "en": "Do you have any openings this week?",
+   "why": "des disponibilités."
+  },
+  {
+   "t": "fill",
+   "q": "Pouvez-vous l'___? (to spell)",
+   "a": [
+    "épeler"
+   ],
+   "en": "Can you spell it?",
+   "why": "épeler = to spell."
+  },
+  {
+   "t": "build",
+   "en": "I have to cancel my appointment.",
+   "a": "Je dois annuler mon rendez-vous."
+  },
+  {
+   "t": "build",
+   "en": "What should I bring?",
+   "a": "Qu'est-ce que je dois apporter?"
+  },
+  {
+   "t": "build",
+   "en": "Can I move it to next week?",
+   "a": "Est-ce que je peux le déplacer à la semaine prochaine?"
+  },
+  {
+   "t": "translate",
+   "en": "I'm calling to make an appointment.",
+   "a": [
+    "Je vous appelle pour prendre un rendez-vous.",
+    "Je vous appelle pour prendre rendez-vous.",
+    "J'appelle pour prendre un rendez-vous.",
+    "J'appelle pour prendre rendez-vous."
+   ],
+   "why": "appeler pour + infinitive."
+  },
+  {
+   "t": "translate",
+   "en": "Could you speak more slowly?",
+   "a": [
+    "Pourriez-vous parler plus lentement?",
+    "Pouvez-vous parler plus lentement?",
+    "Est-ce que vous pourriez parler plus lentement?"
+   ],
+   "why": "Polite request."
+  },
+  {
+   "t": "translate",
+   "en": "That works for me.",
+   "a": [
+    "Ça me convient.",
+    "Ça me va.",
+    "Ça marche pour moi.",
+    "C'est correct pour moi."
+   ],
+   "why": "Ça me convient / ça me va."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "allô",
+   "en": "hello (on the phone)",
+   "ex": "Allô? Oui, c'est moi.",
+   "qc": true
+  },
+  {
+   "fr": "prendre rendez-vous",
+   "en": "to make an appointment",
+   "ex": "J'ai pris rendez-vous chez le dentiste."
+  },
+  {
+   "fr": "annuler / déplacer",
+   "en": "to cancel / to move (an appointment)",
+   "ex": "Je dois déplacer mon rendez-vous."
+  },
+  {
+   "fr": "la disponibilité",
+   "en": "availability, opening",
+   "g": "f",
+   "ex": "Il n'y a pas de disponibilité avant mai."
+  },
+  {
+   "fr": "convenir (à)",
+   "en": "to suit, to work for",
+   "ex": "Est-ce que 10 h vous convient?"
+  },
+  {
+   "fr": "ne quittez pas",
+   "en": "please hold",
+   "ex": "Ne quittez pas, je vous transfère."
+  },
+  {
+   "fr": "mettre en attente",
+   "en": "to put on hold",
+   "ex": "On m'a mis en attente vingt minutes."
+  },
+  {
+   "fr": "épeler",
+   "en": "to spell",
+   "ex": "Pouvez-vous épeler votre nom?"
+  },
+  {
+   "fr": "le nom de famille",
+   "en": "last name",
+   "g": "m",
+   "ex": "Quel est votre nom de famille?"
+  },
+  {
+   "fr": "le permis de conduire",
+   "en": "driver's licence",
+   "g": "m",
+   "ex": "Mon permis de conduire expire en juin."
+  },
+  {
+   "fr": "l'immatriculation",
+   "en": "vehicle registration",
+   "g": "f",
+   "ex": "Je dois renouveler mon immatriculation."
+  },
+  {
+   "fr": "l'examen de conduite",
+   "en": "road test",
+   "g": "m",
+   "ex": "J'ai mon examen de conduite lundi."
+  },
+  {
+   "fr": "le numéro d'assurance maladie",
+   "en": "health insurance number",
+   "g": "m",
+   "ex": "Avez-vous votre numéro d'assurance maladie?",
+   "qc": true
+  },
+  {
+   "fr": "la boîte vocale",
+   "en": "voicemail",
+   "g": "f",
+   "ex": "Laissez un message dans ma boîte vocale."
+  },
+  {
+   "fr": "rappeler",
+   "en": "to call back",
+   "ex": "Je vous rappelle demain."
+  },
+  {
+   "fr": "faire le 1",
+   "en": "to press 1 (phone menu)",
+   "ex": "Pour le français, faites le 1.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "Allô?",
+    "tip": "a-LO, rising: the classic Quebec phone greeting."
+   },
+   {
+    "fr": "rendez-vous",
+    "tip": "rahn-day-VOO: the z and s are silent."
+   },
+   {
+    "fr": "14 h 30",
+    "tip": "ka-TORZ eur TRAHNT."
+   },
+   {
+    "fr": "épeler: A, E, I",
+    "tip": "A = ah, E = euh, I = ee. Don't mix up E and I!"
+   },
+   {
+    "fr": "G et J",
+    "tip": "G = zhay, J = zhee: the opposite of English!"
+   },
+   {
+    "fr": "514",
+    "tip": "cinq-un-quatre (often digit by digit for area codes)."
+   },
+   {
+    "fr": "Ne quittez pas",
+    "tip": "nuh kee-tay PA, often 'quittez pas' quickly."
+   }
+  ],
+  "title": "Prendre rendez-vous à la clinique",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Clinique médicale du Plateau, bonjour!",
+    "en": "Plateau Medical Clinic, hello!"
+   },
+   {
+    "s": "B",
+    "fr": "Bonjour, je vous appelle pour prendre un rendez-vous. J'ai mal à l'oreille depuis trois jours.",
+    "en": "Hello, I'm calling to make an appointment. I've had an earache for three days."
+   },
+   {
+    "s": "A",
+    "fr": "D'accord. Êtes-vous un patient de la clinique?",
+    "en": "OK. Are you a patient of the clinic?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, mon médecin, c'est la Dre Lavoie.",
+    "en": "Yes, my doctor is Dr. Lavoie."
+   },
+   {
+    "s": "A",
+    "fr": "Ne quittez pas, je vérifie… Elle a une disponibilité demain à 14 h 30.",
+    "en": "Please hold, I'm checking… She has an opening tomorrow at 2:30."
+   },
+   {
+    "s": "B",
+    "fr": "Pardon, pourriez-vous répéter l'heure?",
+    "en": "Sorry, could you repeat the time?"
+   },
+   {
+    "s": "A",
+    "fr": "Quatorze heures trente, donc deux heures et demie.",
+    "en": "Fourteen thirty, so half past two."
+   },
+   {
+    "s": "B",
+    "fr": "Parfait, ça me convient.",
+    "en": "Perfect, that works for me."
+   },
+   {
+    "s": "A",
+    "fr": "C'est à quel nom? Et votre numéro d'assurance maladie, s'il vous plaît?",
+    "en": "What name is it under? And your health insurance number, please?"
+   },
+   {
+    "s": "B",
+    "fr": "Martin, M-A-R-T-I-N. Le numéro est MART 8505 1234.",
+    "en": "Martin, M-A-R-T-I-N. The number is MART 8505 1234."
+   },
+   {
+    "s": "A",
+    "fr": "Merci. N'oubliez pas votre carte. Bonne journée!",
+    "en": "Thank you. Don't forget your card. Have a nice day!"
+   },
+   {
+    "s": "B",
+    "fr": "Merci, bonne journée, bye!",
+    "en": "Thanks, have a nice day, bye!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Why is B calling?",
+    "options": [
+     "A sore throat",
+     "An earache",
+     "A check-up"
+    ],
+    "a": 1
+   },
+   {
+    "q": "When is the appointment?",
+    "options": [
+     "Today at 2:30",
+     "Tomorrow at 2:30",
+     "Tomorrow at 4:30"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What must B bring?",
+    "options": [
+     "A prescription",
+     "The health card",
+     "Cash"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Role-play: call the SAAQ to ask how to change the address on your driver's licence. Open, explain, ask one question, close.",
+   "model": "Bonjour, je vous appelle parce que j'ai déménagé. Je voudrais changer l'adresse sur mon permis de conduire. Est-ce que je peux le faire en ligne, ou est-ce que je dois prendre rendez-vous? Parfait, merci beaucoup. Bonne journée!"
+  },
+  {
+   "prompt": "Spell your full name and give your phone number aloud.",
+   "model": "Mon nom, c'est Alex Martin: A-L-E-X, M-A-R-T-I-N. Mon numéro, c'est le 514 555-0123."
+  },
+  {
+   "prompt": "The receptionist offers Monday at 8 a.m., which doesn't work. Refuse politely and ask for another time.",
+   "model": "Malheureusement, lundi à 8 h, ça ne me convient pas. Est-ce que vous auriez quelque chose en après-midi?"
+  },
+  {
+   "prompt": "Call to cancel tomorrow's appointment and ask to move it to next week.",
+   "model": "Bonjour, j'ai un rendez-vous demain à 10 h, mais je dois l'annuler. Est-ce que je pourrais le déplacer à la semaine prochaine?"
+  }
+ ],
+ "write": {
+  "prompt": "Prepare a call script (6–8 lines) before phoning a clinic: greeting, reason, availability, a 'please repeat' line, confirmation of the date and time, and closing. Then practise it aloud three times.",
+  "model": "Bonjour, mon nom est Alex Martin. Je vous appelle pour prendre un rendez-vous avec mon médecin de famille. J'ai de la fièvre depuis deux jours. Je suis disponible mercredi ou jeudi, le matin. Pardon, pourriez-vous répéter plus lentement? Donc, c'est jeudi le 15 à 9 h 30, c'est bien ça? Parfait, merci beaucoup. Bonne journée!"
+ },
+ "quiz": [
+  {
+   "q": "'C'est à quel nom?' means…",
+   "options": [
+    "What's the name of the place?",
+    "What name is it under?",
+    "Who is calling?",
+    "What's your first name?"
+   ],
+   "a": 1,
+   "why": "Asked when booking or picking something up."
+  },
+  {
+   "q": "How do you say the letter 'G' in French?",
+   "options": [
+    "jee",
+    "zhay",
+    "gay",
+    "zhee"
+   ],
+   "a": 1,
+   "why": "G = [zhay], J = [zhee]."
+  },
+  {
+   "q": "'Je vous mets en attente' means…",
+   "options": [
+    "I'm putting you on hold.",
+    "I'll wait for you.",
+    "I'm putting you on the waiting list.",
+    "I'm hanging up."
+   ],
+   "a": 0,
+   "why": "Mettre en attente = put on hold."
+  },
+  {
+   "q": "'16 h 45' is…",
+   "options": [
+    "4:45 a.m.",
+    "4:45 p.m.",
+    "6:45 p.m.",
+    "4:15 p.m."
+   ],
+   "a": 1,
+   "why": "16 h = 4 p.m."
+  },
+  {
+   "q": "Which is the best first sentence on the phone?",
+   "options": [
+    "Je veux rendez-vous.",
+    "Bonjour, je vous appelle pour prendre un rendez-vous.",
+    "Allô, donne-moi un rendez-vous.",
+    "Rendez-vous, s'il vous plaît."
+   ],
+   "a": 1,
+   "why": "Greeting + polite purpose."
+  },
+  {
+   "q": "'La boîte vocale' is…",
+   "options": [
+    "the voice box",
+    "voicemail",
+    "a speaker",
+    "a call centre"
+   ],
+   "a": 1,
+   "why": "Voicemail."
+  },
+  {
+   "q": "How do you check information on the phone?",
+   "options": [
+    "C'est bien ça?",
+    "C'est fini?",
+    "C'est quoi ça?",
+    "C'est tout?"
+   ],
+   "a": 0,
+   "why": "…, c'est bien ça? = is that right?"
+  },
+  {
+   "q": "In Quebec, how do people usually answer a personal phone?",
+   "options": [
+    "Bonjour madame?",
+    "Allô?",
+    "Oui, monsieur?",
+    "Salutations?"
+   ],
+   "a": 1,
+   "why": "Allô is the standard greeting on the phone."
+  }
+ ]
+}

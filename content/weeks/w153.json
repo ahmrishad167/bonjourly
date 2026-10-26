@@ -1,0 +1,635 @@
+{
+ "w": 153,
+ "title": "Reading: news editorials",
+ "goal": "By the end of this lesson you can read a French-language editorial or opinion column, identify the thesis, the arguments and the tone, and recognise the vocabulary and structures editorialists use to persuade.",
+ "learn": [
+  {
+   "h": "Editorial, column, open letter",
+   "body": [
+    "An *éditorial* expresses the official position of the newspaper and is written by the *éditorialiste*. A *chronique* is a signed column by a *chroniqueur* who gives a personal view. A *lettre ouverte* or *libre opinion* is written by a reader or an outside expert.",
+    "In Quebec, the main opinion pages are in *Le Devoir* (Montreal daily founded in 1910 by Henri Bourassa, still printed) and *La Presse* (Montreal, now digital only since 2018). *Le Journal de Montréal* and *Le Journal de Québec* publish many popular columnists with a sharper, more populist tone."
+   ],
+   "table": {
+    "head": [
+     "Genre",
+     "Author",
+     "Typical tone"
+    ],
+    "rows": [
+     [
+      "l'éditorial",
+      "l'éditorialiste (for the paper)",
+      "measured, argued, formal"
+     ],
+     [
+      "la chronique",
+      "le chroniqueur / la chroniqueuse",
+      "personal, ironic, lively"
+     ],
+     [
+      "la lettre ouverte / libre opinion",
+      "a reader, an expert",
+      "varies; often militant"
+     ],
+     [
+      "le billet / le carnet",
+      "a columnist",
+      "short, humorous"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "The structure of an editorial",
+   "body": [
+    "1. *L'accroche*: a fact from the news. 2. *La thèse*: the position, often stated early (*Il est temps que…*, *Québec doit…*). 3. *Les arguments*, each introduced by connectors. 4. *La concession*: acknowledging the other side (*Certes…, mais…*). 5. *La conclusion*: a recommendation or a warning.",
+    "When you read, highlight the thesis sentence and the connectors: they are the skeleton of the text."
+   ],
+   "table": {
+    "head": [
+     "Function",
+     "Connectors"
+    ],
+    "rows": [
+     [
+      "Add an argument",
+      "de plus, en outre, par ailleurs, qui plus est"
+     ],
+     [
+      "Concede",
+      "certes, il est vrai que, sans doute… mais"
+     ],
+     [
+      "Oppose",
+      "or, pourtant, en revanche, cependant"
+     ],
+     [
+      "Conclude",
+      "bref, en somme, au bout du compte, force est de constater que"
+     ]
+    ]
+   },
+   "tip": "'Or' at the start of a sentence means 'yet / however', not 'or'."
+  },
+  {
+   "h": "Persuasion techniques",
+   "body": [
+    "Rhetorical questions: *Faut-il vraiment s'en étonner?* Irony: *Bravo pour la transparence!* Strong evaluative words: *un fiasco*, *une gabegie* (waste), *un pas dans la bonne direction*, *une occasion ratée*.",
+    "Impersonal structures that sound objective: *Il faut…*, *Il importe de…*, *Force est de constater que…* (one has to admit that), *Il serait temps que…* + subjunctive.",
+    "Watch the verbs that report others' views: *prétendre* (to claim, implies doubt), *affirmer*, *soutenir*, *reconnaître*, *déplorer*, *dénoncer*, *saluer* (to welcome)."
+   ]
+  },
+  {
+   "h": "Reading strategy",
+   "body": [
+    "Read the title and the last paragraph first: they usually give the thesis and the conclusion. Then read the whole text and mark each argument. Guess unknown words from context before reaching for a dictionary.",
+    "Finally, summarise in one sentence: *L'éditorialiste soutient que… parce que…*"
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Il est temps que Québec investisse sérieusement dans le transport collectif.",
+   "en": "It's time Quebec City invested seriously in public transit.",
+   "note": "thesis + il est temps que + subjunctive; 'Québec' often means the provincial government"
+  },
+  {
+   "fr": "Certes, le projet coûte cher. Mais l'inaction coûterait encore plus cher.",
+   "en": "Admittedly, the project is expensive. But doing nothing would cost even more.",
+   "note": "concession with certes… mais"
+  },
+  {
+   "fr": "Force est de constater que les promesses n'ont pas été tenues.",
+   "en": "One has to admit that the promises were not kept.",
+   "note": "typical editorial formula"
+  },
+  {
+   "fr": "Or, rien dans le budget ne va dans ce sens.",
+   "en": "Yet nothing in the budget points in that direction.",
+   "note": "or = yet, however"
+  },
+  {
+   "fr": "Le gouvernement prétend avoir réglé le problème.",
+   "en": "The government claims to have solved the problem.",
+   "note": "prétendre suggests the writer doubts it"
+  },
+  {
+   "fr": "Faut-il vraiment s'en étonner?",
+   "en": "Should we really be surprised?",
+   "note": "rhetorical question"
+  },
+  {
+   "fr": "Cette réforme représente un pas dans la bonne direction.",
+   "en": "This reform is a step in the right direction.",
+   "note": "positive evaluation"
+  },
+  {
+   "fr": "C'est une occasion ratée de moderniser le système.",
+   "en": "It's a missed opportunity to modernise the system.",
+   "note": "negative evaluation"
+  },
+  {
+   "fr": "De plus, les régions sont les grandes oubliées de ce plan.",
+   "en": "Moreover, the regions are largely forgotten in this plan.",
+   "note": "les grandes oubliées = those most overlooked"
+  },
+  {
+   "fr": "Les syndicats dénoncent une décision prise sans consultation.",
+   "en": "The unions condemn a decision made without consultation.",
+   "note": "dénoncer = to condemn publicly"
+  },
+  {
+   "fr": "Plusieurs experts saluent l'initiative.",
+   "en": "Several experts welcome the initiative.",
+   "note": "saluer = to welcome, praise"
+  },
+  {
+   "fr": "Bref, la ministre doit revoir sa copie.",
+   "en": "In short, the minister must go back to the drawing board.",
+   "note": "revoir sa copie: to rework a proposal"
+  },
+  {
+   "fr": "En revanche, l'opposition n'a proposé aucune solution de rechange.",
+   "en": "On the other hand, the opposition has proposed no alternative.",
+   "note": "en revanche = by contrast"
+  },
+  {
+   "fr": "Il importe de rappeler que la santé relève des provinces.",
+   "en": "It is important to remember that health falls under provincial jurisdiction.",
+   "note": "relever de = to fall under"
+  },
+  {
+   "fr": "Au bout du compte, ce sont les contribuables qui paieront la facture.",
+   "en": "In the end, taxpayers will foot the bill.",
+   "note": "au bout du compte = ultimately"
+  },
+  {
+   "fr": "Qui plus est, le calendrier semble irréaliste.",
+   "en": "What's more, the timeline seems unrealistic.",
+   "note": "qui plus est: formal addition"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebec opinion pages (Le Devoir, La Presse, Le Journal de Montréal) are written in standard French, but columnists often slip in Quebec words and idioms for effect, and refer to institutions by Quebec shorthand. Here is what you'll meet and how to decode it.",
+  "items": [
+   {
+    "std": "le gouvernement du Québec",
+    "qc": "Québec (« Québec annonce… »)",
+    "en": "the Quebec government",
+    "note": "like 'Ottawa' for the federal government"
+   },
+   {
+    "std": "le gouvernement fédéral",
+    "qc": "Ottawa",
+    "en": "the federal government",
+    "note": "standard metonymy in Quebec news"
+   },
+   {
+    "std": "un député de l'Assemblée nationale",
+    "qc": "un député (MNA)",
+    "en": "a member of the National Assembly",
+    "note": "In Quebec, député covers both MNAs and federal MPs; context tells which"
+   },
+   {
+    "std": "Le ministre a esquivé la question.",
+    "qc": "Le ministre a patiné.",
+    "en": "The minister dodged the question.",
+    "note": "a Quebec idiom often used by columnists"
+   },
+   {
+    "std": "Les gens ordinaires paieront.",
+    "qc": "C'est monsieur et madame Tout-le-Monde qui vont payer.",
+    "en": "Ordinary people will pay.",
+    "note": "common in populist columns"
+   },
+   {
+    "std": "la rentrée parlementaire",
+    "qc": "le retour en Chambre",
+    "en": "the return of Parliament / the Assembly",
+    "note": "'en Chambre' is common in Quebec political reporting"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Who writes an 'éditorial'?",
+   "options": [
+    "Any reader",
+    "The newspaper, through its editorialist",
+    "A guest expert",
+    "The sports reporter"
+   ],
+   "a": 1,
+   "why": "The editorial is the paper's official position."
+  },
+  {
+   "t": "mcq",
+   "q": "In an editorial, 'Or, …' at the start of a sentence means…",
+   "options": [
+    "Or…",
+    "Gold…",
+    "Yet / However…",
+    "Therefore…"
+   ],
+   "a": 2,
+   "why": "or introduces a contradicting fact."
+  },
+  {
+   "t": "mcq",
+   "q": "'Le maire prétend que tout va bien' suggests the writer…",
+   "options": [
+    "agrees",
+    "doubts it",
+    "is neutral",
+    "is the mayor"
+   ],
+   "a": 1,
+   "why": "prétendre = to claim, often with doubt."
+  },
+  {
+   "t": "mcq",
+   "q": "'Saluer une décision' means…",
+   "options": [
+    "to greet it",
+    "to welcome / praise it",
+    "to reject it",
+    "to postpone it"
+   ],
+   "a": 1,
+   "why": "In opinion writing, saluer = to welcome."
+  },
+  {
+   "t": "fill",
+   "q": "___ est de constater que le plan a échoué.",
+   "a": [
+    "Force"
+   ],
+   "en": "One has to admit that the plan failed.",
+   "why": "force est de constater que."
+  },
+  {
+   "t": "fill",
+   "q": "Il est temps que le gouvernement ___ des mesures. (prendre)",
+   "a": [
+    "prenne"
+   ],
+   "en": "It's time the government took action.",
+   "why": "il est temps que + subjunctive."
+  },
+  {
+   "t": "fill",
+   "q": "___, le projet est coûteux, mais il est nécessaire.",
+   "a": [
+    "Certes"
+   ],
+   "en": "Admittedly, the project is costly, but it's necessary.",
+   "why": "certes… mais = concession."
+  },
+  {
+   "t": "fill",
+   "q": "En ___, l'opposition n'a rien proposé.",
+   "a": [
+    "revanche"
+   ],
+   "en": "On the other hand, the opposition proposed nothing.",
+   "why": "en revanche = by contrast."
+  },
+  {
+   "t": "build",
+   "en": "It's a missed opportunity.",
+   "a": "C'est une occasion ratée."
+  },
+  {
+   "t": "build",
+   "en": "In the end, taxpayers will pay.",
+   "a": "Au bout du compte, les contribuables paieront."
+  },
+  {
+   "t": "build",
+   "en": "Should we really be surprised?",
+   "a": "Faut-il vraiment s'en étonner?"
+  },
+  {
+   "t": "translate",
+   "en": "This reform is a step in the right direction.",
+   "a": [
+    "Cette réforme est un pas dans la bonne direction.",
+    "Cette réforme représente un pas dans la bonne direction.",
+    "Cette réforme constitue un pas dans la bonne direction."
+   ],
+   "why": "un pas dans la bonne direction."
+  },
+  {
+   "t": "translate",
+   "en": "The unions condemn the decision.",
+   "a": [
+    "Les syndicats dénoncent la décision.",
+    "Les syndicats condamnent la décision."
+   ],
+   "why": "dénoncer is the usual verb in news writing."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "l'éditorial",
+   "en": "editorial",
+   "g": "m",
+   "ex": "L'éditorial du jour porte sur le logement."
+  },
+  {
+   "fr": "la chronique",
+   "en": "column",
+   "g": "f",
+   "ex": "Je lis sa chronique tous les samedis."
+  },
+  {
+   "fr": "la lettre ouverte",
+   "en": "open letter",
+   "g": "f",
+   "ex": "Cent médecins signent une lettre ouverte."
+  },
+  {
+   "fr": "la thèse",
+   "en": "thesis, position",
+   "g": "f",
+   "ex": "La thèse de l'auteur est claire dès le début."
+  },
+  {
+   "fr": "certes",
+   "en": "admittedly, certainly",
+   "ex": "Certes, la situation est complexe."
+  },
+  {
+   "fr": "or",
+   "en": "yet, however (linking)",
+   "ex": "Il avait promis de baisser les impôts. Or, ils ont augmenté."
+  },
+  {
+   "fr": "force est de constater",
+   "en": "one has to admit",
+   "ex": "Force est de constater que rien n'a changé."
+  },
+  {
+   "fr": "en revanche",
+   "en": "on the other hand",
+   "ex": "Le centre va bien; en revanche, les banlieues souffrent."
+  },
+  {
+   "fr": "qui plus est",
+   "en": "what's more",
+   "ex": "Le projet est cher et, qui plus est, inutile."
+  },
+  {
+   "fr": "dénoncer",
+   "en": "to condemn, denounce",
+   "ex": "L'opposition dénonce un manque de transparence."
+  },
+  {
+   "fr": "saluer",
+   "en": "to welcome, praise",
+   "ex": "Les groupes environnementaux saluent la mesure."
+  },
+  {
+   "fr": "prétendre",
+   "en": "to claim",
+   "ex": "Il prétend ne rien savoir."
+  },
+  {
+   "fr": "le contribuable",
+   "en": "taxpayer",
+   "g": "m",
+   "ex": "Les contribuables en ont assez."
+  },
+  {
+   "fr": "la gabegie",
+   "en": "waste, mismanagement",
+   "g": "f",
+   "ex": "L'éditorialiste parle d'une véritable gabegie."
+  },
+  {
+   "fr": "revoir sa copie",
+   "en": "to rework one's proposal",
+   "ex": "Le ministre devra revoir sa copie."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "éditorialiste",
+    "tip": "é-di-to-rya-LISTE: five syllables."
+   },
+   {
+    "fr": "force est de constater",
+    "tip": "for-sè-de-kon-sta-TÉ: liaison-like link force‿est."
+   },
+   {
+    "fr": "en revanche",
+    "tip": "an-ruh-VANSH: two nasal an sounds."
+   },
+   {
+    "fr": "qui plus est",
+    "tip": "ki-ply-ZÈ: the s of plus links in [z]."
+   },
+   {
+    "fr": "contribuable",
+    "tip": "kon-tri-BUABL."
+   },
+   {
+    "fr": "Le Devoir",
+    "tip": "luh-duh-VWAR, often luh-d'VWAR."
+   }
+  ],
+  "title": "Discussion autour d'un éditorial",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "As-tu lu l'éditorial du Devoir sur le logement?",
+    "en": "Did you read Le Devoir's editorial on housing?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui. La thèse est claire : Québec doit construire plus de logements sociaux.",
+    "en": "Yes. The thesis is clear: the Quebec government must build more social housing."
+   },
+   {
+    "s": "A",
+    "fr": "Et ses arguments?",
+    "en": "And its arguments?"
+   },
+   {
+    "s": "B",
+    "fr": "D'abord, les loyers ont explosé. De plus, les promesses du gouvernement n'ont pas été tenues.",
+    "en": "First, rents have exploded. Moreover, the government's promises weren't kept."
+   },
+   {
+    "s": "A",
+    "fr": "Il y a une concession?",
+    "en": "Is there a concession?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui : « Certes, les taux d'intérêt compliquent les choses. Or, d'autres provinces y arrivent. »",
+    "en": "Yes: 'Admittedly, interest rates complicate things. Yet other provinces manage.'"
+   },
+   {
+    "s": "A",
+    "fr": "Et la conclusion?",
+    "en": "And the conclusion?"
+   },
+   {
+    "s": "B",
+    "fr": "Bref, le gouvernement doit revoir sa copie avant le prochain budget.",
+    "en": "In short, the government must rework its plan before the next budget."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What is the editorial about?",
+    "options": [
+     "Transit",
+     "Housing",
+     "Health care"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What concession does the editorial make?",
+    "options": [
+     "Interest rates complicate things",
+     "Rents are falling",
+     "Other provinces are failing"
+    ],
+    "a": 0
+   },
+   {
+    "q": "What does the editorial conclude?",
+    "options": [
+     "Nothing can be done",
+     "The government must rework its plan",
+     "The opposition should take power"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Summarise an editorial you read recently (or invent one) in three sentences: thesis, main argument, conclusion.",
+   "model": "L'éditorialiste soutient que la ville doit investir dans les pistes cyclables. Selon lui, cela réduirait la congestion et la pollution. Il conclut que le maire doit agir avant l'été."
+  },
+  {
+   "prompt": "Give your own reaction to that editorial, with a concession.",
+   "model": "Certes, les pistes cyclables sont utiles en été. Mais en hiver, peu de gens font du vélo à Montréal, donc je trouve l'argument un peu faible."
+  },
+  {
+   "prompt": "Use three connectors from this lesson in a short spoken argument about public transit.",
+   "model": "Le métro est essentiel. De plus, il réduit la pollution. Or, le gouvernement coupe dans son financement. Bref, c'est une occasion ratée."
+  }
+ ],
+ "write": {
+  "prompt": "Write a short editorial (8–10 sentences) on a local issue (snow removal, housing, transit…). Include a hook, a thesis, two arguments, a concession and a conclusion.",
+  "model": "Chaque hiver, c'est la même histoire : les trottoirs de Montréal deviennent de véritables patinoires. Il est temps que la Ville fasse du déneigement des trottoirs une priorité. D'abord, les chutes envoient des centaines de personnes âgées à l'urgence chaque année. De plus, les familles avec des poussettes sont pratiquement condamnées à rester chez elles. Certes, le déneigement coûte cher et les tempêtes sont imprévisibles. Or, d'autres villes nordiques réussissent à garder leurs trottoirs praticables. Force est de constater que c'est une question de volonté politique. Bref, l'administration doit revoir sa copie avant la prochaine bordée de neige."
+ },
+ "quiz": [
+  {
+   "q": "Which Quebec newspaper was founded by Henri Bourassa in 1910?",
+   "options": [
+    "La Presse",
+    "Le Devoir",
+    "Le Soleil",
+    "Le Journal de Montréal"
+   ],
+   "a": 1,
+   "why": "Le Devoir, founded in 1910."
+  },
+  {
+   "q": "A 'chronique' is…",
+   "options": [
+    "the paper's official position",
+    "a signed personal column",
+    "a news brief",
+    "a correction"
+   ],
+   "a": 1,
+   "why": "Written by a chroniqueur with a personal voice."
+  },
+  {
+   "q": "'Force est de constater que…' means…",
+   "options": [
+    "By force we see…",
+    "One has to admit that…",
+    "We must force…",
+    "It is forbidden to note…"
+   ],
+   "a": 1,
+   "why": "A fixed formula of editorial writing."
+  },
+  {
+   "q": "In Quebec news, 'Ottawa annonce…' means…",
+   "options": [
+    "the city of Ottawa announces",
+    "the federal government announces",
+    "the Ottawa Senators announce",
+    "Ontario announces"
+   ],
+   "a": 1,
+   "why": "Metonymy: the capital stands for the government."
+  },
+  {
+   "q": "Which connector introduces a concession?",
+   "options": [
+    "certes",
+    "bref",
+    "de plus",
+    "or"
+   ],
+   "a": 0,
+   "why": "certes… mais = admittedly… but."
+  },
+  {
+   "q": "'Une gabegie' is…",
+   "options": [
+    "a celebration",
+    "waste and mismanagement",
+    "a small gift",
+    "a scandal involving money laundering"
+   ],
+   "a": 1,
+   "why": "A strong negative word in opinion writing."
+  },
+  {
+   "q": "Best first step when reading an editorial?",
+   "options": [
+    "Look up every word",
+    "Read the title and last paragraph",
+    "Read the comments",
+    "Count the paragraphs"
+   ],
+   "a": 1,
+   "why": "They usually reveal the thesis and conclusion."
+  },
+  {
+   "q": "'Qui plus est' means…",
+   "options": [
+    "who is more",
+    "what's more",
+    "the more, the better",
+    "whoever"
+   ],
+   "a": 1,
+   "why": "A formal addition connector."
+  },
+  {
+   "q": "'Il est temps que' is followed by…",
+   "options": [
+    "the indicative",
+    "the subjunctive",
+    "the infinitive only",
+    "the future"
+   ],
+   "a": 1,
+   "why": "Il est temps qu'on agisse."
+  }
+ ]
+}

@@ -1,0 +1,661 @@
+{
+ "w": 160,
+ "title": "Literature: short texts by Quebec authors",
+ "goal": "By the end of this lesson you can situate key Quebec authors and works, read short literary passages (including dialogue written in joual), and talk about a text's themes, narrator and style in French.",
+ "learn": [
+  {
+   "h": "A short map of Quebec literature",
+   "body": [
+    "Before 1945: the *roman du terroir* glorified rural life, faith and tradition (*Maria Chapdelaine*, 1913, by the French-born Louis Hémon; *Trente arpents*, 1938, by Ringuet).",
+    "1945: Gabrielle Roy's *Bonheur d'occasion* moves the novel to the city, the working-class Saint-Henri district of Montreal. The 1960s *Révolution tranquille* brings an explosion of new voices: Anne Hébert, Hubert Aquin, Marie-Claire Blais, Réjean Ducharme, and the poets of the *Hexagone* group (Gaston Miron).",
+    "1968: Michel Tremblay's play *Les Belles-sœurs* puts joual on the main stage. Later: Roch Carrier's story *Le chandail de hockey* (1979), Dany Laferrière, Kim Thúy (*Ru*, 2009), Michel Jean, Naomi Fontaine (Innu author of *Kuessipan*)."
+   ],
+   "table": {
+    "head": [
+     "Author",
+     "Work",
+     "Genre, year"
+    ],
+    "rows": [
+     [
+      "Gabrielle Roy",
+      "Bonheur d'occasion",
+      "novel, 1945"
+     ],
+     [
+      "Anne Hébert",
+      "Kamouraska",
+      "novel, 1970"
+     ],
+     [
+      "Michel Tremblay",
+      "Les Belles-sœurs",
+      "play, 1968"
+     ],
+     [
+      "Roch Carrier",
+      "Le chandail de hockey",
+      "short story, 1979"
+     ],
+     [
+      "Kim Thúy",
+      "Ru",
+      "novel in fragments, 2009"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Joual in literature: mostly on stage",
+   "body": [
+    "Joual became a literary choice in the 1960s: the writers of the magazine *Parti pris* (for example Jacques Renaud's *Le Cassé*, 1964) and above all Michel Tremblay used it to show the reality of working-class Montreal. It caused fierce debate: some saw it as authentic, others as a degraded French.",
+    "In *Les Belles-sœurs*, Germaine Lauzon wins a million trading stamps (*timbres-primes*) and invites her neighbours to help paste them into booklets; they steal them. The whole play is written in joual, with forms like *chus* (je suis), *moé / toé* (moi / toi), *icitte* (ici), *pis* (puis, et).",
+    "Most Quebec prose, including short stories, is written in standard French with Quebec vocabulary and dialogue. In Tremblay's novels, for instance, the narration is standard and the dialogue is in joual."
+   ],
+   "table": {
+    "head": [
+     "Written joual",
+     "Standard"
+    ],
+    "rows": [
+     [
+      "chus",
+      "je suis"
+     ],
+     [
+      "moé, toé",
+      "moi, toi"
+     ],
+     [
+      "icitte",
+      "ici"
+     ],
+     [
+      "y'é",
+      "il est"
+     ],
+     [
+      "astheure",
+      "maintenant (à cette heure)"
+     ],
+     [
+      "pantoute",
+      "pas du tout"
+     ]
+    ]
+   },
+   "tip": "Read joual aloud: the spelling imitates pronunciation, and your ear often recognises what your eye doesn't."
+  },
+  {
+   "h": "Talking about a text",
+   "body": [
+    "Narrator: *le narrateur est à la première personne / un narrateur omniscient*. Setting: *l'action se déroule à…, dans les années 1940*. Characters: *le personnage principal, les personnages secondaires*.",
+    "Themes: *la pauvreté, l'identité, la langue, la religion, l'exil, l'enfance, la mémoire*. Style: *le registre familier, l'humour, l'ironie, une écriture fragmentée, des phrases courtes*."
+   ]
+  },
+  {
+   "h": "Le chandail de hockey: a classic short story",
+   "body": [
+    "Roch Carrier tells, in the first person, a childhood memory from 1946 in his small home village of Sainte-Justine, south-east of Quebec City: all the boys wear Maurice Richard's Canadiens jersey. When his worn-out jersey is replaced by mistake with a Toronto Maple Leafs jersey ordered from the Eaton's catalogue, the boy is humiliated.",
+    "The text is in standard French with Quebec vocabulary (*chandail*, *patinoire*). It's funny, but it also evokes the French-English tension and the religious, hockey-centred village life of the time. A line from it appears on the back of the old Canadian five-dollar bill."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "L'action se déroule dans le quartier Saint-Henri, à Montréal, pendant la guerre.",
+   "en": "The story takes place in the Saint-Henri district of Montreal during the war.",
+   "note": "describing the setting (Bonheur d'occasion)"
+  },
+  {
+   "fr": "Le narrateur raconte un souvenir d'enfance à la première personne.",
+   "en": "The narrator tells a childhood memory in the first person.",
+   "note": "describing the narrator (Le chandail de hockey)"
+  },
+  {
+   "fr": "Tremblay a fait entrer la langue populaire sur la scène du théâtre.",
+   "en": "Tremblay brought popular speech onto the theatre stage.",
+   "note": "faire entrer = to bring in"
+  },
+  {
+   "fr": "Chus pas capable de rester icitte toute seule.",
+   "en": "I can't stay here all alone.",
+   "note": "written joual: chus = je suis, icitte = ici (in the style of the theatre of the time)"
+  },
+  {
+   "fr": "Astheure, c'est moé qui décide!",
+   "en": "Now I'm the one who decides!",
+   "note": "written joual: astheure = maintenant, moé = moi"
+  },
+  {
+   "fr": "La pièce a suscité un vif débat sur la langue.",
+   "en": "The play sparked a heated debate about language.",
+   "note": "susciter un débat"
+  },
+  {
+   "fr": "Le roman du terroir idéalise la vie rurale.",
+   "en": "The 'terroir' novel idealises rural life.",
+   "note": "literary history"
+  },
+  {
+   "fr": "Les personnages sont prisonniers de leur condition sociale.",
+   "en": "The characters are trapped by their social condition.",
+   "note": "analysing themes"
+  },
+  {
+   "fr": "L'écriture fragmentée de Kim Thúy évoque la mémoire de l'exil.",
+   "en": "Kim Thúy's fragmented writing evokes the memory of exile.",
+   "note": "describing style"
+  },
+  {
+   "fr": "Le récit mêle humour et nostalgie.",
+   "en": "The story mixes humour and nostalgia.",
+   "note": "mêler = to mix"
+  },
+  {
+   "fr": "Les dialogues sont en joual, alors que la narration est en français standard.",
+   "en": "The dialogue is in joual, whereas the narration is in standard French.",
+   "note": "typical of Tremblay's novels"
+  },
+  {
+   "fr": "Cette nouvelle illustre la rivalité entre Montréal et Toronto.",
+   "en": "This short story illustrates the rivalry between Montreal and Toronto.",
+   "note": "une nouvelle = a short story"
+  },
+  {
+   "fr": "L'auteure donne la parole à une communauté innue.",
+   "en": "The author gives a voice to an Innu community.",
+   "note": "donner la parole à (Naomi Fontaine)"
+  },
+  {
+   "fr": "Le titre de la pièce est ironique.",
+   "en": "The title of the play is ironic.",
+   "note": "les belles-sœurs = sisters-in-law, but the women are far from 'belles' to each other"
+  },
+  {
+   "fr": "On reconnaît dans ce passage le vocabulaire de la Révolution tranquille.",
+   "en": "In this passage you can recognise the vocabulary of the Quiet Revolution.",
+   "note": "historical context"
+  }
+ ],
+ "quebec": {
+  "intro": "Joual entered Quebec literature mainly through theatre, with Michel Tremblay's Les Belles-sœurs (1968), and through some 1960s prose (Jacques Renaud's Le Cassé). Most Quebec short stories are actually written in standard French, with joual reserved for dialogue. Here are written joual forms you'll meet on stage and in dialogue, with their standard equivalents.",
+  "items": [
+   {
+    "std": "Je suis fatiguée de tout ça.",
+    "qc": "Chus tannée de toute ça.",
+    "en": "I'm fed up with all that.",
+    "note": "chus, tannée (fed up), toute: written joual, informal"
+   },
+   {
+    "std": "Viens ici tout de suite!",
+    "qc": "Viens icitte tu-suite!",
+    "en": "Come here right now!",
+    "note": "icitte = ici"
+   },
+   {
+    "std": "Moi, je n'ai rien dit, toi non plus.",
+    "qc": "Moé, j'ai rien dit, toé non plus.",
+    "en": "I didn't say anything, you neither.",
+    "note": "moé/toé: old-fashioned or rural pronunciation, typical of Tremblay's characters"
+   },
+   {
+    "std": "Maintenant, il est trop tard.",
+    "qc": "Astheure, y'est trop tard.",
+    "en": "Now it's too late.",
+    "note": "astheure = à cette heure = maintenant"
+   },
+   {
+    "std": "Elles ne m'ont pas aidée du tout.",
+    "qc": "Y m'ont pas aidée pantoute.",
+    "en": "They didn't help me at all.",
+    "note": "y = ils/elles in speech; pantoute"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Which work put joual on the main stage in 1968?",
+   "options": [
+    "Bonheur d'occasion",
+    "Les Belles-sœurs",
+    "Kamouraska",
+    "Maria Chapdelaine"
+   ],
+   "a": 1,
+   "why": "Michel Tremblay's play."
+  },
+  {
+   "t": "mcq",
+   "q": "'Icitte' means…",
+   "options": [
+    "here",
+    "this",
+    "then",
+    "quickly"
+   ],
+   "a": 0,
+   "why": "icitte = ici."
+  },
+  {
+   "t": "mcq",
+   "q": "In Tremblay's novels, joual is used mainly…",
+   "options": [
+    "in the narration",
+    "in the dialogue",
+    "in the titles",
+    "nowhere"
+   ],
+   "a": 1,
+   "why": "Narration is standard; characters speak joual."
+  },
+  {
+   "t": "mcq",
+   "q": "Le chandail de hockey is about a boy who…",
+   "options": [
+    "wins a hockey game",
+    "receives a Toronto jersey by mistake",
+    "meets Maurice Richard",
+    "moves to Toronto"
+   ],
+   "a": 1,
+   "why": "The Eaton's catalogue sends a Maple Leafs jersey."
+  },
+  {
+   "t": "mcq",
+   "q": "Bonheur d'occasion takes place in…",
+   "options": [
+    "a rural village",
+    "Saint-Henri, Montreal",
+    "Quebec City",
+    "Paris"
+   ],
+   "a": 1,
+   "why": "Gabrielle Roy's urban novel (1945)."
+  },
+  {
+   "t": "fill",
+   "q": "Chus fatiguée. → Standard: Je ___ fatiguée.",
+   "a": [
+    "suis"
+   ],
+   "en": "I'm tired.",
+   "why": "chus = je suis."
+  },
+  {
+   "t": "fill",
+   "q": "Astheure, c'est fini. → Standard: ___, c'est fini.",
+   "a": [
+    "Maintenant"
+   ],
+   "en": "Now it's over.",
+   "why": "astheure = maintenant."
+  },
+  {
+   "t": "fill",
+   "q": "L'action se ___ à Montréal.",
+   "a": [
+    "déroule",
+    "passe",
+    "situe"
+   ],
+   "en": "The story takes place in Montreal.",
+   "why": "se dérouler / se passer = to take place."
+  },
+  {
+   "t": "fill",
+   "q": "Le narrateur raconte l'histoire à la première ___.",
+   "a": [
+    "personne"
+   ],
+   "en": "The narrator tells the story in the first person.",
+   "why": "à la première personne."
+  },
+  {
+   "t": "build",
+   "en": "The play sparked a debate about language.",
+   "a": "La pièce a suscité un débat sur la langue."
+  },
+  {
+   "t": "build",
+   "en": "The story mixes humour and nostalgia.",
+   "a": "Le récit mêle humour et nostalgie."
+  },
+  {
+   "t": "build",
+   "en": "The characters speak in joual.",
+   "a": "Les personnages parlent en joual."
+  },
+  {
+   "t": "translate",
+   "en": "It's a short story by Roch Carrier.",
+   "a": [
+    "C'est une nouvelle de Roch Carrier.",
+    "Il s'agit d'une nouvelle de Roch Carrier.",
+    "C'est un conte de Roch Carrier."
+   ],
+   "why": "une nouvelle = a short story (not 'news' here)."
+  },
+  {
+   "t": "translate",
+   "en": "The main theme is identity.",
+   "a": [
+    "Le thème principal est l'identité.",
+    "Le thème principal, c'est l'identité.",
+    "Le principal thème est l'identité."
+   ],
+   "why": "le thème principal."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "la nouvelle",
+   "en": "short story",
+   "g": "f",
+   "ex": "Ce recueil contient douze nouvelles."
+  },
+  {
+   "fr": "le recueil",
+   "en": "collection (of stories, poems)",
+   "g": "m",
+   "ex": "C'est son premier recueil de poèmes."
+  },
+  {
+   "fr": "la pièce de théâtre",
+   "en": "play",
+   "g": "f",
+   "ex": "La pièce a été créée en 1968."
+  },
+  {
+   "fr": "le personnage",
+   "en": "character",
+   "g": "m",
+   "ex": "Le personnage principal est une mère de famille."
+  },
+  {
+   "fr": "le narrateur / la narratrice",
+   "en": "narrator",
+   "ex": "La narratrice se souvient de son enfance."
+  },
+  {
+   "fr": "se dérouler",
+   "en": "to take place",
+   "ex": "L'histoire se déroule en Gaspésie."
+  },
+  {
+   "fr": "le roman du terroir",
+   "en": "rural 'land' novel",
+   "g": "m",
+   "ex": "Trente arpents est un roman du terroir.",
+   "qc": true
+  },
+  {
+   "fr": "la Révolution tranquille",
+   "en": "the Quiet Revolution (1960s)",
+   "g": "f",
+   "ex": "La Révolution tranquille a transformé le Québec.",
+   "qc": true
+  },
+  {
+   "fr": "susciter",
+   "en": "to arouse, spark",
+   "ex": "Le livre a suscité la controverse."
+  },
+  {
+   "fr": "le timbre-prime",
+   "en": "trading stamp",
+   "g": "m",
+   "ex": "Germaine gagne un million de timbres-primes."
+  },
+  {
+   "fr": "astheure",
+   "en": "now (familiar, from à cette heure)",
+   "ex": "Astheure, on fait quoi?",
+   "qc": true
+  },
+  {
+   "fr": "icitte",
+   "en": "here (familiar)",
+   "ex": "Viens icitte!",
+   "qc": true
+  },
+  {
+   "fr": "tanné / tannée",
+   "en": "fed up (familiar)",
+   "ex": "Chus tannée de l'hiver.",
+   "qc": true
+  },
+  {
+   "fr": "le chandail",
+   "en": "sweater; hockey jersey",
+   "g": "m",
+   "ex": "Il portait le chandail du Canadien.",
+   "qc": true
+  },
+  {
+   "fr": "mêler",
+   "en": "to mix, blend",
+   "ex": "L'auteur mêle réalité et fiction."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "chus",
+    "tip": "[ʃy]: the written form of the joual je suis."
+   },
+   {
+    "fr": "moé, toé",
+    "tip": "[mwe], [twe]: older pronunciation of moi, toi."
+   },
+   {
+    "fr": "icitte",
+    "tip": "i-SITT: the final t is pronounced."
+   },
+   {
+    "fr": "astheure",
+    "tip": "a-ZEUR: from à cette heure."
+   },
+   {
+    "fr": "Les Belles-sœurs",
+    "tip": "lé-bèl-SEUR."
+   },
+   {
+    "fr": "Bonheur d'occasion",
+    "tip": "bo-NEUR do-ka-ZYON."
+   }
+  ],
+  "title": "Au théâtre",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "On va voir Les Belles-sœurs au TNM samedi. Tu viens?",
+    "en": "We're going to see Les Belles-sœurs at the TNM on Saturday. Are you coming?"
+   },
+   {
+    "s": "B",
+    "fr": "J'aimerais ben, mais j'ai peur de rien comprendre. C'est tout en joual, non?",
+    "en": "I'd like to, but I'm afraid I won't understand a thing. It's all in joual, isn't it?"
+   },
+   {
+    "s": "A",
+    "fr": "Oui, mais tu vis à Montréal depuis trois ans. Tu vas reconnaître plus de choses que tu penses.",
+    "en": "Yes, but you've lived in Montreal for three years. You'll recognise more than you think."
+   },
+   {
+    "s": "B",
+    "fr": "C'est l'histoire de quoi, au juste?",
+    "en": "What's it about, exactly?"
+   },
+   {
+    "s": "A",
+    "fr": "Une femme gagne un million de timbres-primes et invite ses voisines à les coller. Elles finissent par les voler.",
+    "en": "A woman wins a million trading stamps and invites her neighbours to stick them in. They end up stealing them."
+   },
+   {
+    "s": "B",
+    "fr": "Ha! C'est une comédie, alors?",
+    "en": "Ha! So it's a comedy?"
+   },
+   {
+    "s": "A",
+    "fr": "Oui et non. C'est drôle, mais c'est aussi un portrait très dur de la pauvreté et de la jalousie.",
+    "en": "Yes and no. It's funny, but it's also a very harsh portrait of poverty and jealousy."
+   },
+   {
+    "s": "B",
+    "fr": "OK, je vais lire le texte avant. Comme ça, je serai prêt.",
+    "en": "OK, I'll read the text beforehand. That way I'll be ready."
+   }
+  ],
+  "questions": [
+   {
+    "q": "Why is B hesitant?",
+    "options": [
+     "It's too expensive",
+     "He fears he won't understand the joual",
+     "He doesn't like theatre"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does Germaine win in the play?",
+    "options": [
+     "A car",
+     "A million trading stamps",
+     "A trip to Paris"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does B decide to do?",
+    "options": [
+     "Stay home",
+     "Read the text beforehand",
+     "Watch the film instead"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Present a Quebec book or play you know (or one from this week) in 4–5 sentences: author, genre, setting, main character, theme.",
+   "model": "Le chandail de hockey est une nouvelle de Roch Carrier publiée en 1979. L'action se déroule dans un petit village québécois, Sainte-Justine, en 1946. Le narrateur, un petit garçon, adore Maurice Richard. Quand il reçoit par erreur un chandail des Maple Leafs, il est humilié. Le texte parle de l'enfance, du hockey et des tensions entre francophones et anglophones."
+  },
+  {
+   "prompt": "Read these joual lines aloud, then 'translate' them into standard French: 'Chus tannée. Astheure, j'reste icitte pis j'bouge pus.'",
+   "model": "Je suis fatiguée, j'en ai assez. Maintenant, je reste ici et je ne bouge plus."
+  },
+  {
+   "prompt": "Give your opinion: should literature be written in joual? Use one concession.",
+   "model": "Je pense que le joual a sa place en littérature, surtout au théâtre, parce qu'il donne une voix authentique aux personnages. Certes, il peut être difficile à lire pour les non-Québécois, mais c'est aussi le cas de bien des dialectes dans d'autres littératures."
+  }
+ ],
+ "write": {
+  "prompt": "Write a short literary commentary (120–150 words) on a Quebec text you have read (or on Le chandail de hockey as described here): context, narrator, themes, style, and your personal reaction.",
+  "model": "Le chandail de hockey, de Roch Carrier, est une courte nouvelle autobiographique publiée en 1979. Le narrateur, devenu adulte, se souvient de l'hiver 1946 dans son petit village de Sainte-Justine. À l'époque, tous les garçons portent le chandail de Maurice Richard, idole du Canadien. Lorsque sa mère commande un nouveau chandail dans le catalogue d'Eaton, le garçon reçoit par erreur celui des Maple Leafs de Toronto. Le récit mêle humour et nostalgie, mais il évoque aussi des thèmes plus sérieux : l'identité canadienne-française, le poids de la religion et la méfiance envers le Canada anglais. L'écriture est simple et vivante, avec des phrases qui imitent le regard d'un enfant. Personnellement, j'ai trouvé ce texte à la fois drôle et touchant, et il m'a aidé à comprendre la place du hockey dans la culture québécoise."
+ },
+ "quiz": [
+  {
+   "q": "Who wrote Bonheur d'occasion (1945)?",
+   "options": [
+    "Anne Hébert",
+    "Gabrielle Roy",
+    "Kim Thúy",
+    "Marie-Claire Blais"
+   ],
+   "a": 1,
+   "why": "Gabrielle Roy, set in Saint-Henri."
+  },
+  {
+   "q": "'Une nouvelle' in literature is…",
+   "options": [
+    "a news item",
+    "a short story",
+    "a novel",
+    "a new edition"
+   ],
+   "a": 1,
+   "why": "nouvelle = short story."
+  },
+  {
+   "q": "Where does joual mostly appear in Quebec literature?",
+   "options": [
+    "In poetry only",
+    "In theatre and dialogue",
+    "In history books",
+    "In legal texts"
+   ],
+   "a": 1,
+   "why": "Mainly on stage (Tremblay) and in characters' dialogue."
+  },
+  {
+   "q": "'Astheure' comes from…",
+   "options": [
+    "à cette heure",
+    "à cet endroit",
+    "assez tard",
+    "à l'heure"
+   ],
+   "a": 0,
+   "why": "à cette heure → astheure = maintenant."
+  },
+  {
+   "q": "The roman du terroir typically celebrates…",
+   "options": [
+    "city life",
+    "rural life, faith and tradition",
+    "war",
+    "science"
+   ],
+   "a": 1,
+   "why": "e.g. Maria Chapdelaine, Trente arpents."
+  },
+  {
+   "q": "Kim Thúy's Ru is known for its…",
+   "options": [
+    "joual dialogue",
+    "fragmented writing about exile",
+    "hockey stories",
+    "rural setting"
+   ],
+   "a": 1,
+   "why": "Short fragments about leaving Vietnam and arriving in Quebec."
+  },
+  {
+   "q": "'L'action se déroule à Québec' means…",
+   "options": [
+    "The action unrolls in Quebec",
+    "The story takes place in Quebec City",
+    "The action is delayed",
+    "The action is in Quebec's style"
+   ],
+   "a": 1,
+   "why": "se dérouler = to take place."
+  },
+  {
+   "q": "The Quiet Revolution took place in…",
+   "options": [
+    "the 1860s",
+    "the 1920s",
+    "the 1960s",
+    "the 1990s"
+   ],
+   "a": 2,
+   "why": "La Révolution tranquille: the 1960s."
+  },
+  {
+   "q": "'Moé' and 'toé' are…",
+   "options": [
+    "English words",
+    "older/popular pronunciations of moi and toi",
+    "Indigenous words",
+    "errors only found in texts"
+   ],
+   "a": 1,
+   "why": "Still heard in some rural or older speakers, frequent in Tremblay."
+  }
+ ]
+}

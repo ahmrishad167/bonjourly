@@ -1,0 +1,638 @@
+{
+ "w": 157,
+ "title": "Review and checkpoint 9",
+ "goal": "By the end of this lesson you have reviewed lessons 147–156 (literary tenses, register switching, concession, hedging, Quebec idioms, editorials, talk radio, meetings and negotiation) and tested yourself in a mixed-skill quiz.",
+ "learn": [
+  {
+   "h": "Literary tenses: recognition (lessons 147–148)",
+   "body": [
+    "Passé simple: *il parla, elle finit, ils vinrent, il fut, il eut*. Passé antérieur: *quand il eut fini*. Imparfait du subjonctif: *qu'il fût, qu'il eût, qu'il vînt* (circumflex!). You only need to recognise them and convert them to spoken forms.",
+    "Conversion: passé simple → passé composé; passé antérieur → passé composé; imparfait du subjonctif → present subjunctive; *il eût fallu* → *il aurait fallu*."
+   ],
+   "table": {
+    "head": [
+     "Literary",
+     "Spoken"
+    ],
+    "rows": [
+     [
+      "Il vint et repartit.",
+      "Il est venu et il est reparti."
+     ],
+     [
+      "Dès qu'elle eut fini, elle sortit.",
+      "Dès qu'elle a fini, elle est sortie."
+     ],
+     [
+      "Il fallait qu'il fût là.",
+      "Il fallait qu'il soit là."
+     ],
+     [
+      "On eût dit un enfant.",
+      "On aurait dit un enfant."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Register, concession and hedging (lessons 149–151)",
+   "body": [
+    "Register: familiar (*chu, y'a, pis, char*), neutral Quebec (*je suis, il y a, auto*), formal (*nous, cela, inversion*). Choose by audience, medium and stakes.",
+    "Concession: *bien que / quoique* + subjunctive; *même si* + indicative; *malgré* + noun; *avoir beau* + infinitive; *pourtant, cependant, toutefois, néanmoins* between clauses.",
+    "Hedging: conditional (*je dirais*), *il se peut que* + subjunctive, *il est probable que* + indicative, *sans doute* (= probably), journalistic conditional (*le ministre aurait démissionné*); Quebec *mettons, dans le fond, j'dirais que*."
+   ]
+  },
+  {
+   "h": "Media and idioms (lessons 152–154)",
+   "body": [
+    "Idioms: *patiner* (dodge), *virer capot* (switch sides), *tirer la couverte de son bord*, *ne pas être sorti du bois*, *brasser la cage*, *avoir les deux pieds dans la même bottine*, *se faire passer un sapin*, *couper les coins ronds*.",
+    "Editorials: thesis, arguments, concession (*certes… mais*, *or*), conclusion (*bref, force est de constater que*). Talk radio: fillers (*tsé, fait que, là*) vs structure markers (*en fait, bref*); turn-taking (*si je peux me permettre, laissez-moi finir*)."
+   ]
+  },
+  {
+   "h": "Workplace French (lessons 155–156)",
+   "body": [
+    "Meetings: *l'ordre du jour, le compte rendu, faire un suivi, céder la parole, reporter un point*. Tu is common at work in Quebec; start with vous with clients.",
+    "Negotiation: *nous pourrions…, à condition que / pourvu que* + subjunctive, *coupons la poire en deux, terrain d'entente, on s'entend*. Polite disagreement: *Je comprends ton point; par contre…*"
+   ],
+   "tip": "The subjunctive appeared in almost every week of this block: bien que, il se peut que, à condition que, il est temps que, proposer que."
+  }
+ ],
+ "examples": [
+  {
+   "fr": "À peine fut-il arrivé qu'on lui demanda de repartir.",
+   "en": "He had barely arrived when he was asked to leave again.",
+   "note": "w148: passé antérieur + passé simple"
+  },
+  {
+   "fr": "Il fallait qu'elle vînt seule.",
+   "en": "She had to come alone.",
+   "note": "w148: imparfait du subjonctif → qu'elle vienne"
+  },
+  {
+   "fr": "Chu pas capable, j'ai trop d'ouvrage.",
+   "en": "I can't, I've got too much work.",
+   "note": "w149: familiar Quebec; neutral: Je ne peux pas, j'ai trop de travail"
+  },
+  {
+   "fr": "Bien que la proposition soit intéressante, elle coûte trop cher.",
+   "en": "Although the proposal is interesting, it costs too much.",
+   "note": "w150: bien que + subjunctive"
+  },
+  {
+   "fr": "J'ai beau lui expliquer, il ne veut rien savoir.",
+   "en": "No matter how much I explain, he won't hear of it.",
+   "note": "w150: avoir beau"
+  },
+  {
+   "fr": "Il se peut que la séance soit prolongée.",
+   "en": "The session may be extended.",
+   "note": "w151: il se peut que + subjunctive"
+  },
+  {
+   "fr": "Selon certaines sources, la ministre aurait démissionné.",
+   "en": "According to some sources, the minister has reportedly resigned.",
+   "note": "w151: journalistic conditional"
+  },
+  {
+   "fr": "Dans le fond, mettons qu'on se reparle demain.",
+   "en": "Basically, let's say we talk again tomorrow.",
+   "note": "w151: Quebec hedging markers (informal)"
+  },
+  {
+   "fr": "Questionné sur son budget, le maire a patiné.",
+   "en": "Asked about his budget, the mayor dodged.",
+   "note": "w152: patiner"
+  },
+  {
+   "fr": "Avec cette dette, on n'est pas sortis du bois.",
+   "en": "With this debt, we're not out of the woods.",
+   "note": "w152"
+  },
+  {
+   "fr": "Certes, le projet est ambitieux. Or, les fonds manquent.",
+   "en": "Admittedly, the project is ambitious. Yet funds are lacking.",
+   "note": "w153: editorial connectors"
+  },
+  {
+   "fr": "Si je peux me permettre, ce n'est pas ce que l'étude affirme.",
+   "en": "If I may, that's not what the study says.",
+   "note": "w154: polite interruption"
+  },
+  {
+   "fr": "Passons au point suivant de l'ordre du jour.",
+   "en": "Let's move on to the next item on the agenda.",
+   "note": "w155: meetings"
+  },
+  {
+   "fr": "Je vais vérifier et je te reviens là-dessus.",
+   "en": "I'll check and get back to you on that.",
+   "note": "w155: Quebec office phrase"
+  },
+  {
+   "fr": "On accepte, pourvu que les délais soient respectés.",
+   "en": "We accept, as long as the deadlines are met.",
+   "note": "w156: pourvu que + subjunctive"
+  },
+  {
+   "fr": "C'est un bon point; par contre, l'échéancier est serré.",
+   "en": "That's a good point; however, the timeline is tight.",
+   "note": "w156: polite disagreement"
+  }
+ ],
+ "quebec": {
+  "intro": "Mixed-skill review of the Quebec points from this block: spoken equivalents of literary forms, joual vs neutral, Quebec hedges, media idioms, talk-radio reductions and workplace tu.",
+  "items": [
+   {
+    "std": "Quand il eut terminé, il partit.",
+    "qc": "Quand y'a fini, y'est parti.",
+    "en": "When he had finished, he left.",
+    "note": "literary vs informal spoken"
+   },
+   {
+    "std": "Même s'il pleut, on y va.",
+    "qc": "Même si y mouille, on y va pareil.",
+    "en": "Even if it rains, we're going anyway.",
+    "note": "mouiller = to rain, pareil = anyway (informal)"
+   },
+   {
+    "std": "Disons qu'on se voit à midi.",
+    "qc": "Mettons qu'on se voit à midi.",
+    "en": "Let's say we meet at noon.",
+    "note": "mettons: informal"
+   },
+   {
+    "std": "Il a changé de camp.",
+    "qc": "Y'a viré capot.",
+    "en": "He switched sides.",
+    "note": "Quebec idiom, familiar"
+   },
+   {
+    "std": "Alors, tu sais, je vais te dire une chose.",
+    "qc": "Fait que, tsé, m'as te dire une affaire.",
+    "en": "So, you know, I'll tell you one thing.",
+    "note": "talk-radio speech, very informal"
+   },
+   {
+    "std": "Pourriez-vous m'envoyer le compte rendu?",
+    "qc": "Peux-tu m'envoyer le compte rendu?",
+    "en": "Could you send me the minutes?",
+    "note": "tu is normal with colleagues in Quebec"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "'Qu'il eût' is…",
+   "options": [
+    "passé simple of avoir",
+    "imparfait du subjonctif of avoir",
+    "present of avoir",
+    "passé antérieur of être"
+   ],
+   "a": 1,
+   "why": "The circumflex marks the subjunctive; il eut (no accent) is passé simple."
+  },
+  {
+   "t": "mcq",
+   "q": "Même s'il ___ froid, on sortira.",
+   "options": [
+    "fasse",
+    "fait",
+    "fera",
+    "ferait"
+   ],
+   "a": 1,
+   "why": "même si + present indicative."
+  },
+  {
+   "t": "mcq",
+   "q": "'Le PDG aurait quitté ses fonctions' in a news report means…",
+   "options": [
+    "He would have left",
+    "He has reportedly left",
+    "He should have left",
+    "He will leave"
+   ],
+   "a": 1,
+   "why": "Journalistic conditional: unconfirmed."
+  },
+  {
+   "t": "mcq",
+   "q": "'Tirer la couverte de son bord' means…",
+   "options": [
+    "to make one's bed",
+    "to look after one's own interests",
+    "to go to sleep early",
+    "to steal a blanket"
+   ],
+   "a": 1,
+   "why": "International: tirer la couverture à soi."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is the neutral version of 'Mon char a lâché'?",
+   "options": [
+    "Mon auto est tombée en panne.",
+    "Ma voiture tomba en panne.",
+    "Mon char est brisé, là.",
+    "Mon auto a lâché pantoute."
+   ],
+   "a": 0,
+   "why": "auto + tomber en panne = neutral Quebec."
+  },
+  {
+   "t": "fill",
+   "q": "Bien qu'il ___ tard, elle travaille encore. (être)",
+   "a": [
+    "soit"
+   ],
+   "en": "Although it's late, she's still working.",
+   "why": "bien que + subjunctive."
+  },
+  {
+   "t": "fill",
+   "q": "Il est ___ qu'il viendra. (likely)",
+   "a": [
+    "probable"
+   ],
+   "en": "It's likely he'll come.",
+   "why": "probable que + indicative."
+  },
+  {
+   "t": "fill",
+   "q": "___ est de constater que rien n'a changé.",
+   "a": [
+    "Force"
+   ],
+   "en": "One has to admit that nothing has changed.",
+   "why": "Editorial formula."
+  },
+  {
+   "t": "fill",
+   "q": "J'accepte à condition que vous ___ avant vendredi. (payer)",
+   "a": [
+    "payiez"
+   ],
+   "en": "I accept provided you pay before Friday.",
+   "why": "à condition que + subjunctive."
+  },
+  {
+   "t": "build",
+   "en": "Let's move on to the next item.",
+   "a": "Passons au point suivant."
+  },
+  {
+   "t": "build",
+   "en": "No matter how much I try, it doesn't work.",
+   "a": "J'ai beau essayer, ça ne marche pas."
+  },
+  {
+   "t": "build",
+   "en": "We're not out of the woods.",
+   "a": "On n'est pas sortis du bois."
+  },
+  {
+   "t": "translate",
+   "en": "Let me finish!",
+   "a": [
+    "Laissez-moi finir!",
+    "Laisse-moi finir!",
+    "Laissez-moi terminer!",
+    "Laisse-moi terminer!"
+   ],
+   "why": "laisser + infinitive."
+  },
+  {
+   "t": "translate",
+   "en": "I'm not sure it's a good idea.",
+   "a": [
+    "Je ne suis pas sûr que ce soit une bonne idée.",
+    "Je ne suis pas sûre que ce soit une bonne idée.",
+    "Je ne suis pas certain que ce soit une bonne idée.",
+    "Je ne suis pas certaine que ce soit une bonne idée.",
+    "Je suis pas sûr que ce soit une bonne idée."
+   ],
+   "why": "Negative certainty → subjunctive."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "reconnaître",
+   "en": "to recognise",
+   "ex": "Je reconnais le passé simple, mais je ne l'utilise pas."
+  },
+  {
+   "fr": "le niveau de langue",
+   "en": "register",
+   "g": "m",
+   "ex": "Adapte ton niveau de langue à ton public."
+  },
+  {
+   "fr": "quoique",
+   "en": "although (+ subjunctive)",
+   "ex": "Quoiqu'il soit jeune, il est très posé."
+  },
+  {
+   "fr": "néanmoins",
+   "en": "nevertheless",
+   "ex": "Le risque est réel; néanmoins, il faut essayer."
+  },
+  {
+   "fr": "il se peut que",
+   "en": "it may be that",
+   "ex": "Il se peut que je sois en retard."
+  },
+  {
+   "fr": "mettons",
+   "en": "let's say (familiar)",
+   "ex": "Mettons vers sept heures?",
+   "qc": true
+  },
+  {
+   "fr": "patiner",
+   "en": "to dodge a question",
+   "ex": "Le ministre a encore patiné.",
+   "qc": true
+  },
+  {
+   "fr": "virer capot",
+   "en": "to switch sides",
+   "ex": "Elle a viré capot à la dernière minute.",
+   "qc": true
+  },
+  {
+   "fr": "l'éditorialiste",
+   "en": "editorial writer",
+   "ex": "L'éditorialiste critique la réforme."
+  },
+  {
+   "fr": "or",
+   "en": "yet, however",
+   "ex": "Il avait promis. Or, il n'a rien fait."
+  },
+  {
+   "fr": "en ondes",
+   "en": "on the air",
+   "ex": "Bonjour, vous êtes en ondes.",
+   "qc": true
+  },
+  {
+   "fr": "le compte rendu",
+   "en": "meeting summary",
+   "g": "m",
+   "ex": "Qui fait le compte rendu?"
+  },
+  {
+   "fr": "faire un suivi",
+   "en": "to follow up",
+   "ex": "On fait un suivi la semaine prochaine."
+  },
+  {
+   "fr": "pourvu que",
+   "en": "as long as (+ subjunctive)",
+   "ex": "Pourvu que ça dure!"
+  },
+  {
+   "fr": "le terrain d'entente",
+   "en": "common ground",
+   "g": "m",
+   "ex": "Nous avons trouvé un terrain d'entente."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "qu'il fût / il fut",
+    "tip": "Same sound [fy]: spelling only."
+   },
+   {
+    "fr": "chu",
+    "tip": "Familiar Quebec je suis: one syllable."
+   },
+   {
+    "fr": "quoique",
+    "tip": "[kwak], identical to quoi que."
+   },
+   {
+    "fr": "fait que",
+    "tip": "[fak] in fast Quebec speech."
+   },
+   {
+    "fr": "force est de constater",
+    "tip": "for-sè-de-kon-sta-TÉ."
+   },
+   {
+    "fr": "pourvu que",
+    "tip": "poor-VU-kuh."
+   },
+   {
+    "fr": "échéancier",
+    "tip": "é-shé-an-SYÉ."
+   }
+  ],
+  "title": "Bilan de la session",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Pis, ton bilan des dix dernières semaines?",
+    "en": "So, your review of the last ten weeks?"
+   },
+   {
+    "s": "B",
+    "fr": "J'dirais que c'est plutôt positif. Le passé simple, je le reconnais maintenant sans problème.",
+    "en": "I'd say it's fairly positive. The passé simple, I can recognise it easily now."
+   },
+   {
+    "s": "A",
+    "fr": "Et le subjonctif imparfait?",
+    "en": "And the imperfect subjunctive?"
+   },
+   {
+    "s": "B",
+    "fr": "Bien qu'il soit rare, je l'ai repéré dans un roman la semaine passée!",
+    "en": "Although it's rare, I spotted it in a novel last week!"
+   },
+   {
+    "s": "A",
+    "fr": "Bravo. Et à la radio, tu comprends mieux?",
+    "en": "Well done. And on the radio, do you understand better?"
+   },
+   {
+    "s": "B",
+    "fr": "J'ai beau écouter, les débats rapides restent difficiles. Par contre, je suis les idées principales.",
+    "en": "No matter how much I listen, fast debates remain hard. However, I can follow the main ideas."
+   },
+   {
+    "s": "A",
+    "fr": "C'est normal. Et au travail?",
+    "en": "That's normal. And at work?"
+   },
+   {
+    "s": "B",
+    "fr": "J'ai animé ma première réunion en français. On n'est pas sortis du bois, mais ça avance!",
+    "en": "I ran my first meeting in French. We're not out of the woods, but it's progressing!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What can B now recognise easily?",
+    "options": [
+     "Joual",
+     "The passé simple",
+     "Legal French"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What is still difficult for B?",
+    "options": [
+     "Reading novels",
+     "Fast radio debates",
+     "Writing emails"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What did B do at work for the first time?",
+    "options": [
+     "Ran a meeting in French",
+     "Negotiated a contract",
+     "Gave a radio interview"
+    ],
+    "a": 0
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Tell a short story (4–5 sentences) about a problem at work, first in familiar Quebec style, then in neutral French.",
+   "model": "Familier : Lundi, mon boss a cancellé le meeting à la dernière minute, pis personne savait quoi faire. / Neutre : Lundi, mon gestionnaire a annulé la réunion à la dernière minute, et personne ne savait quoi faire."
+  },
+  {
+   "prompt": "Give a nuanced opinion on remote work using bien que, il se peut que and par contre.",
+   "model": "Bien que le télétravail soit pratique, il se peut qu'il isole certains employés. Par contre, il réduit beaucoup le temps de transport."
+  },
+  {
+   "prompt": "Summarise a news topic in editorial style: thesis, concession, conclusion.",
+   "model": "Il est temps que la ville investisse dans le transport collectif. Certes, les coûts sont élevés. Bref, l'inaction coûterait encore plus cher."
+  }
+ ],
+ "write": {
+  "prompt": "Checkpoint task: read (or imagine) a short editorial on a Quebec issue and write a 120–150-word summary and response. Include the thesis, two arguments, one concession, a hedged opinion and a conclusion.",
+  "model": "Dans son éditorial, Le Devoir soutient que Québec doit investir davantage dans le logement social. D'abord, les loyers ont fortement augmenté depuis cinq ans. De plus, les listes d'attente pour les HLM s'allongent. L'éditorialiste reconnaît que les taux d'intérêt compliquent la construction; il affirme toutefois que d'autres provinces y parviennent. Je dirais que l'argument est convaincant, dans une certaine mesure. Il se peut cependant que la solution passe aussi par le secteur privé, par exemple grâce à des incitatifs fiscaux. Bien que l'État ait un rôle essentiel, il ne pourra pas tout faire seul. Bref, je partage l'essentiel de l'analyse, mais je proposerais une approche mixte."
+ },
+ "quiz": [
+  {
+   "q": "'Dès qu'il eut mangé' is in the…",
+   "options": [
+    "plus-que-parfait",
+    "passé antérieur",
+    "subjonctif imparfait",
+    "passé surcomposé"
+   ],
+   "a": 1,
+   "why": "eut (passé simple of avoir) + participle."
+  },
+  {
+   "q": "Which connector takes the indicative?",
+   "options": [
+    "bien que",
+    "quoique",
+    "même si",
+    "à condition que"
+   ],
+   "a": 2,
+   "why": "même si + indicative."
+  },
+  {
+   "q": "'Sans doute' usually means…",
+   "options": [
+    "certainly",
+    "probably",
+    "doubtfully",
+    "never"
+   ],
+   "a": 1,
+   "why": "For certainty, say sans aucun doute."
+  },
+  {
+   "q": "'Avoir les deux pieds dans la même bottine' describes someone…",
+   "options": [
+    "fast",
+    "clumsy / ineffective",
+    "stubborn",
+    "lucky"
+   ],
+   "a": 1,
+   "why": "Quebec idiom."
+  },
+  {
+   "q": "In an editorial, 'certes… mais' introduces…",
+   "options": [
+    "a conclusion",
+    "a concession",
+    "a quotation",
+    "a question"
+   ],
+   "a": 1,
+   "why": "Admittedly… but."
+  },
+  {
+   "q": "On talk radio, 'Je vous arrête tout de suite' is…",
+   "options": [
+    "a greeting",
+    "a firm interruption",
+    "a goodbye",
+    "a thank-you"
+   ],
+   "a": 1,
+   "why": "Used to cut someone off."
+  },
+  {
+   "q": "'Faire un suivi' means…",
+   "options": [
+    "to follow up",
+    "to chase someone",
+    "to watch a series",
+    "to queue"
+   ],
+   "a": 0,
+   "why": "Workplace vocabulary."
+  },
+  {
+   "q": "Pourvu que + …",
+   "options": [
+    "indicative",
+    "subjunctive",
+    "conditional",
+    "infinitive"
+   ],
+   "a": 1,
+   "why": "Pourvu que tout aille bien."
+  },
+  {
+   "q": "Which is formal register?",
+   "options": [
+    "Y'a pas de trouble.",
+    "C'est correct.",
+    "Cela ne pose aucun problème.",
+    "Pas de souci, là."
+   ],
+   "a": 2,
+   "why": "cela + full construction."
+  },
+  {
+   "q": "'Il eût fallu' in modern French is…",
+   "options": [
+    "il a fallu",
+    "il aurait fallu",
+    "il fallait",
+    "il faudra"
+   ],
+   "a": 1,
+   "why": "Literary conditionnel passé 2e forme."
+  }
+ ]
+}

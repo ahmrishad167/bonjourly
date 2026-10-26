@@ -1,0 +1,727 @@
+{
+ "w": 22,
+ "title": "Prepositions of location",
+ "goal": "By the end of this lesson you can say where people and things are, using à, dans, chez, sur, sous, devant, derrière, à côté de and friends, and name cities, countries and Quebec places correctly.",
+ "learn": [
+  {
+   "h": "À, dans and chez: the three workhorses",
+   "body": [
+    "*À* means 'at' or 'in' for a place you go to or are at: *à l'école*, *à la banque*, *à Montréal*. It joins with *le* and *les*: *à + le = au*, *à + les = aux*. *À la* and *à l'* never change.",
+    "*Dans* means 'inside' something with walls or limits: *dans la cuisine*, *dans le sac*, *dans le métro*.",
+    "*Chez* means 'at the home or business of' a person: *chez moi* (at my place), *chez Marie*, *chez le dentiste*. It is followed by a person, never by a place."
+   ],
+   "table": {
+    "head": [
+     "Combination",
+     "Result",
+     "Example"
+    ],
+    "rows": [
+     [
+      "à + le",
+      "au",
+      "Je suis au travail."
+     ],
+     [
+      "à + la",
+      "à la",
+      "Elle est à la banque."
+     ],
+     [
+      "à + l'",
+      "à l'",
+      "Il est à l'hôpital."
+     ],
+     [
+      "à + les",
+      "aux",
+      "Nous sommes aux toilettes."
+     ],
+     [
+      "chez + person",
+      "chez",
+      "On mange chez Paul."
+     ]
+    ]
+   },
+   "tip": "Chez + person, à + place: chez le médecin, but à la clinique."
+  },
+  {
+   "h": "Where exactly? Position words",
+   "body": [
+    "Short prepositions go straight before the noun: *sur* (on), *sous* (under), *devant* (in front of), *derrière* (behind), *entre* (between), *dans* (in).",
+    "Longer ones end in *de*: *à côté de* (next to), *en face de* (across from), *près de* (near), *loin de* (far from), *au coin de* (at the corner of), *au milieu de* (in the middle of). The *de* joins with *le* and *les*: *de + le = du*, *de + les = des*."
+   ],
+   "table": {
+    "head": [
+     "Preposition",
+     "Meaning",
+     "Example"
+    ],
+    "rows": [
+     [
+      "sur",
+      "on",
+      "Le livre est sur la table."
+     ],
+     [
+      "sous",
+      "under",
+      "Le chat est sous le lit."
+     ],
+     [
+      "devant / derrière",
+      "in front of / behind",
+      "Le parc est derrière l'école."
+     ],
+     [
+      "entre",
+      "between",
+      "La banque est entre le café et la pharmacie."
+     ],
+     [
+      "à côté de",
+      "next to",
+      "J'habite à côté du métro."
+     ],
+     [
+      "en face de",
+      "across from",
+      "Le dépanneur est en face de l'église."
+     ],
+     [
+      "près de / loin de",
+      "near / far from",
+      "C'est loin des magasins."
+     ]
+    ]
+   },
+   "tip": "Sur and sous look alike: sous has the u of 'under'."
+  },
+  {
+   "h": "Cities, countries and provinces",
+   "body": [
+    "Cities take *à*: *à Montréal*, *à Paris*, *à Toronto*.",
+    "Feminine countries and provinces (most end in *-e*) take *en*: *en France*, *en Ontario* (vowel), *en Colombie-Britannique*. Masculine ones take *au*: *au Canada*, *au Mexique*, *au Manitoba*. Plural ones take *aux*: *aux États-Unis*.",
+    "Careful with Quebec: *au Québec* = in the province, *à Québec* = in Quebec City."
+   ],
+   "table": {
+    "head": [
+     "Place",
+     "Gender",
+     "'In / to'"
+    ],
+    "rows": [
+     [
+      "Montréal (city)",
+      "—",
+      "à Montréal"
+     ],
+     [
+      "la France",
+      "f",
+      "en France"
+     ],
+     [
+      "le Canada",
+      "m",
+      "au Canada"
+     ],
+     [
+      "le Québec (province)",
+      "m",
+      "au Québec"
+     ],
+     [
+      "Québec (city)",
+      "—",
+      "à Québec"
+     ],
+     [
+      "les États-Unis",
+      "pl",
+      "aux États-Unis"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Asking where: où?",
+   "body": [
+    "Use *où* (where) with *être*: *Où est la gare?* *Où sont les toilettes?* In conversation you will also hear *C'est où, la gare?* and *La gare est où?*",
+    "To answer, use *c'est* + preposition: *C'est à côté de la banque.* *C'est tout près.* (It's very close.)"
+   ]
+  },
+  {
+   "h": "Quebec: everyday places and phrases",
+   "body": [
+    "In Quebec, the corner store is *le dépanneur* (often *le dep*): *Je vais au dépanneur.* *En ville* means 'downtown': *Je travaille en ville.*",
+    "*Dans le bout* means 'around here, in the area': *Y a-tu une pharmacie dans le bout?* Quebecers also say *sur la rue Saint-Denis* where France says *dans la rue* or just *rue Saint-Denis*."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Je suis au travail.",
+   "en": "I'm at work.",
+   "note": "à + le = au"
+  },
+  {
+   "fr": "Elle est à la pharmacie.",
+   "en": "She's at the pharmacy.",
+   "note": "à la does not contract"
+  },
+  {
+   "fr": "Les enfants sont à l'école.",
+   "en": "The children are at school.",
+   "note": "à l' before a vowel"
+  },
+  {
+   "fr": "On mange chez mes parents ce soir.",
+   "en": "We're eating at my parents' place tonight.",
+   "note": "chez + people"
+  },
+  {
+   "fr": "Le chat dort sous le lit.",
+   "en": "The cat is sleeping under the bed."
+  },
+  {
+   "fr": "Mes clés sont sur la table.",
+   "en": "My keys are on the table."
+  },
+  {
+   "fr": "Le café est à côté du dépanneur.",
+   "en": "The café is next to the corner store.",
+   "note": "de + le = du"
+  },
+  {
+   "fr": "La banque est en face de l'église.",
+   "en": "The bank is across from the church."
+  },
+  {
+   "fr": "J'habite près du métro.",
+   "en": "I live near the metro."
+  },
+  {
+   "fr": "Mon bureau est loin de chez moi.",
+   "en": "My office is far from my place.",
+   "note": "de + chez moi: loin de chez moi"
+  },
+  {
+   "fr": "La pharmacie est entre la banque et le cinéma.",
+   "en": "The pharmacy is between the bank and the movie theatre."
+  },
+  {
+   "fr": "Il y a un parc derrière l'hôpital.",
+   "en": "There's a park behind the hospital."
+  },
+  {
+   "fr": "Mon frère habite à Québec, mais je vis au Québec depuis deux ans.",
+   "en": "My brother lives in Quebec City, but I've been living in Quebec for two years.",
+   "note": "à Québec = the city; au Québec = the province"
+  },
+  {
+   "fr": "Ma sœur travaille aux États-Unis.",
+   "en": "My sister works in the United States.",
+   "note": "plural country: aux"
+  },
+  {
+   "fr": "Où sont les toilettes, s'il vous plaît?",
+   "en": "Where are the washrooms, please?"
+  },
+  {
+   "fr": "Je travaille en ville le lundi.",
+   "en": "I work downtown on Mondays.",
+   "note": "en ville = downtown, very common in Quebec"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebec has its own everyday place words: the dépanneur, 'en ville' for downtown, and 'dans le bout' for 'around here'. In fast speech, 'sur la' and 'sur le' also shrink.",
+  "items": [
+   {
+    "std": "Je vais à l'épicerie du coin.",
+    "qc": "J'vas au dépanneur.",
+    "en": "I'm going to the corner store.",
+    "note": "dépanneur (or dep) is the Quebec word; standard elsewhere: l'épicerie du coin"
+   },
+   {
+    "std": "Je vais au centre-ville.",
+    "qc": "J'vas en ville.",
+    "en": "I'm going downtown.",
+    "note": "en ville is neutral and used by everyone in Quebec"
+   },
+   {
+    "std": "Il y a une pharmacie près d'ici?",
+    "qc": "Y a-tu une pharmacie dans le boutte?",
+    "en": "Is there a pharmacy around here?",
+    "note": "informal; dans le bout = in the area, often said with a final t: boutte"
+   },
+   {
+    "std": "Le magasin est dans la rue Sainte-Catherine.",
+    "qc": "Le magasin est sur la rue Sainte-Catherine.",
+    "en": "The store is on Sainte-Catherine Street.",
+    "note": "sur la rue is normal Quebec usage, even in writing"
+   },
+   {
+    "std": "Mets ça sur la table.",
+    "qc": "Mets ça su'a table.",
+    "en": "Put that on the table.",
+    "note": "informal speech: sur la → su'a, sur le → su'l"
+   },
+   {
+    "std": "C'est au coin de la rue.",
+    "qc": "C'est su'l coin.",
+    "en": "It's on the corner.",
+    "note": "informal; standard Quebec: sur le coin de la rue"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Je suis ___ travail.",
+   "options": [
+    "à le",
+    "au",
+    "à la",
+    "aux"
+   ],
+   "a": 1,
+   "why": "à + le always contracts to au."
+  },
+  {
+   "t": "mcq",
+   "q": "Which means 'at my place'?",
+   "options": [
+    "à moi",
+    "dans moi",
+    "chez moi",
+    "sur moi"
+   ],
+   "a": 2,
+   "why": "Chez + person = at that person's home."
+  },
+  {
+   "t": "mcq",
+   "q": "'In Quebec City' is…",
+   "options": [
+    "au Québec",
+    "à Québec",
+    "en Québec",
+    "dans Québec"
+   ],
+   "a": 1,
+   "why": "Cities take à. Au Québec means the province."
+  },
+  {
+   "t": "mcq",
+   "q": "'Next to the bank' is…",
+   "options": [
+    "à côté la banque",
+    "à côté de la banque",
+    "à côté du banque",
+    "côté de la banque"
+   ],
+   "a": 1,
+   "why": "À côté de + la banque; banque is feminine, so no contraction."
+  },
+  {
+   "t": "fill",
+   "q": "Le chat est ___ le lit. (under)",
+   "a": [
+    "sous"
+   ],
+   "en": "The cat is under the bed.",
+   "why": "Sous = under, sur = on."
+  },
+  {
+   "t": "fill",
+   "q": "J'habite à côté ___ métro.",
+   "a": [
+    "du"
+   ],
+   "en": "I live next to the metro.",
+   "why": "de + le = du."
+  },
+  {
+   "t": "fill",
+   "q": "Ma cousine habite ___ France.",
+   "a": [
+    "en"
+   ],
+   "en": "My cousin lives in France.",
+   "why": "Feminine countries take en."
+  },
+  {
+   "t": "fill",
+   "q": "Nous allons ___ États-Unis.",
+   "a": [
+    "aux"
+   ],
+   "en": "We're going to the United States.",
+   "why": "Plural countries take aux (à + les)."
+  },
+  {
+   "t": "build",
+   "en": "The keys are on the table.",
+   "a": "Les clés sont sur la table."
+  },
+  {
+   "t": "build",
+   "en": "The bank is across from the church.",
+   "a": "La banque est en face de l'église."
+  },
+  {
+   "t": "build",
+   "en": "I'm going to the corner store.",
+   "a": "Je vais au dépanneur."
+  },
+  {
+   "t": "translate",
+   "en": "Where is the pharmacy?",
+   "a": [
+    "Où est la pharmacie?",
+    "La pharmacie est où?",
+    "C'est où, la pharmacie?",
+    "C'est où la pharmacie?"
+   ],
+   "why": "Où + est + the noun, or the casual word order with où at the end."
+  },
+  {
+   "t": "translate",
+   "en": "I live in Canada.",
+   "a": [
+    "J'habite au Canada.",
+    "Je vis au Canada.",
+    "Je demeure au Canada."
+   ],
+   "why": "Canada is masculine: au Canada."
+  },
+  {
+   "t": "translate",
+   "en": "We are eating at Marie's place.",
+   "a": [
+    "Nous mangeons chez Marie.",
+    "On mange chez Marie."
+   ],
+   "why": "Chez + a person's name."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "sur",
+   "en": "on",
+   "ex": "Le livre est sur la table."
+  },
+  {
+   "fr": "sous",
+   "en": "under",
+   "ex": "Les bottes sont sous le lit."
+  },
+  {
+   "fr": "dans",
+   "en": "in, inside",
+   "ex": "Mon téléphone est dans mon sac."
+  },
+  {
+   "fr": "devant",
+   "en": "in front of",
+   "ex": "Je t'attends devant le cinéma."
+  },
+  {
+   "fr": "derrière",
+   "en": "behind",
+   "ex": "Le parc est derrière l'école."
+  },
+  {
+   "fr": "entre",
+   "en": "between",
+   "ex": "C'est entre la banque et le café."
+  },
+  {
+   "fr": "à côté de",
+   "en": "next to",
+   "ex": "J'habite à côté du parc."
+  },
+  {
+   "fr": "en face de",
+   "en": "across from, opposite",
+   "ex": "Le dépanneur est en face de la gare."
+  },
+  {
+   "fr": "près de / loin de",
+   "en": "near / far from",
+   "ex": "C'est près d'ici."
+  },
+  {
+   "fr": "chez",
+   "en": "at the home of",
+   "ex": "Je suis chez moi."
+  },
+  {
+   "fr": "le dépanneur",
+   "en": "corner store",
+   "g": "m",
+   "ex": "Je vais au dépanneur.",
+   "qc": true
+  },
+  {
+   "fr": "en ville",
+   "en": "downtown",
+   "ex": "On se voit en ville?",
+   "qc": true
+  },
+  {
+   "fr": "dans le bout",
+   "en": "around here, in the area",
+   "ex": "Y a un bon resto dans le bout.",
+   "qc": true
+  },
+  {
+   "fr": "la rue",
+   "en": "street",
+   "g": "f",
+   "ex": "J'habite sur la rue Fleury."
+  },
+  {
+   "fr": "le coin",
+   "en": "corner",
+   "g": "m",
+   "ex": "Le café est au coin de la rue."
+  },
+  {
+   "fr": "la pharmacie",
+   "en": "pharmacy, drugstore",
+   "g": "f",
+   "ex": "La pharmacie est ouverte."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "sur, sous",
+    "tip": "sur has the tight French u [sür]; sous has [ou] like 'soo'."
+   },
+   {
+    "fr": "au, aux",
+    "tip": "Both sound like 'oh'. Aux links with [z] before a vowel: aux‿États-Unis."
+   },
+   {
+    "fr": "derrière",
+    "tip": "Two r's in the back of the throat: dè-RYÈR."
+   },
+   {
+    "fr": "en face de",
+    "tip": "ahn-FASS-duh; the e of de is light."
+   },
+   {
+    "fr": "à côté du",
+    "tip": "a-ko-TAY-dü; du has the French u."
+   },
+   {
+    "fr": "chez moi",
+    "tip": "shay-MWA; the z is silent."
+   },
+   {
+    "fr": "dans le boutte",
+    "tip": "Quebec speech: dahn-l'BOUTT, with the final t pronounced."
+   }
+  ],
+  "title": "Y a-tu un dépanneur dans le bout?",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Excusez-moi, il y a un dépanneur près d'ici?",
+    "en": "Excuse me, is there a corner store near here?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, sur la rue Masson, au coin de la 2e Avenue.",
+    "en": "Yes, on Masson Street, at the corner of 2nd Avenue."
+   },
+   {
+    "s": "A",
+    "fr": "C'est loin?",
+    "en": "Is it far?"
+   },
+   {
+    "s": "B",
+    "fr": "Non, c'est tout près. C'est à côté de la pharmacie.",
+    "en": "No, it's very close. It's next to the pharmacy."
+   },
+   {
+    "s": "A",
+    "fr": "En face de l'église?",
+    "en": "Across from the church?"
+   },
+   {
+    "s": "B",
+    "fr": "Non, derrière l'église. Il y a aussi une banque entre les deux.",
+    "en": "No, behind the church. There's also a bank between the two."
+   },
+   {
+    "s": "A",
+    "fr": "Parfait. Et le métro, c'est où?",
+    "en": "Perfect. And the metro, where is it?"
+   },
+   {
+    "s": "B",
+    "fr": "Le métro, c'est en ville. C'est loin d'ici, prenez l'autobus.",
+    "en": "The metro is downtown. It's far from here, take the bus."
+   },
+   {
+    "s": "A",
+    "fr": "Merci beaucoup!",
+    "en": "Thanks a lot!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Which street is the corner store on?",
+    "options": [
+     "Saint-Denis",
+     "Masson",
+     "Sainte-Catherine"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What is the store next to?",
+    "options": [
+     "The pharmacy",
+     "The bank",
+     "The church"
+    ],
+    "a": 0
+   },
+   {
+    "q": "What does B suggest for getting to the metro?",
+    "options": [
+     "Walk",
+     "Take a taxi",
+     "Take the bus"
+    ],
+    "a": 2
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Describe where three objects are in the room around you.",
+   "model": "Mon téléphone est sur la table. Mon sac est sous la chaise. La lampe est à côté du lit."
+  },
+  {
+   "prompt": "Say where you live and what is near your home.",
+   "model": "J'habite à Montréal, sur la rue Fleury. Il y a un dépanneur à côté de chez moi et un parc en face."
+  },
+  {
+   "prompt": "Ask a passer-by if there's a pharmacy nearby, first politely, then the casual Quebec way.",
+   "model": "Excusez-moi, il y a une pharmacie près d'ici? / Y a-tu une pharmacie dans le boutte?"
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences describing your street or neighbourhood: what is next to, across from, behind and near your home.",
+  "model": "J'habite à Laval, sur la rue des Érables. À côté de chez moi, il y a un dépanneur. En face, il y a un petit parc. La pharmacie est près de l'école. Le métro est loin de chez moi, alors je prends l'autobus. Je travaille en ville."
+ },
+ "quiz": [
+  {
+   "q": "'À + les' becomes…",
+   "options": [
+    "à les",
+    "aux",
+    "des",
+    "au"
+   ],
+   "a": 1,
+   "why": "à + les = aux; à + le = au."
+  },
+  {
+   "q": "Which sentence is correct?",
+   "options": [
+    "Je suis chez la pharmacie.",
+    "Je suis à la pharmacie.",
+    "Je suis au la pharmacie.",
+    "Je suis dans chez moi."
+   ],
+   "a": 1,
+   "why": "Chez is for people; places take à."
+  },
+  {
+   "q": "'In France' is…",
+   "options": [
+    "à France",
+    "au France",
+    "en France",
+    "dans France"
+   ],
+   "a": 2,
+   "why": "La France is feminine: en France."
+  },
+  {
+   "q": "'Au Québec' means…",
+   "options": [
+    "in Quebec City",
+    "in the province of Quebec",
+    "at the Quebec store",
+    "near Quebec"
+   ],
+   "a": 1,
+   "why": "Au Québec = the province; à Québec = the city."
+  },
+  {
+   "q": "'Près du parc' contains…",
+   "options": [
+    "de + la",
+    "de + le",
+    "de + les",
+    "à + le"
+   ],
+   "a": 1,
+   "why": "du = de + le."
+  },
+  {
+   "q": "In Quebec, 'en ville' usually means…",
+   "options": [
+    "in the countryside",
+    "downtown",
+    "in the suburbs",
+    "at home"
+   ],
+   "a": 1,
+   "why": "En ville = downtown, the city centre."
+  },
+  {
+   "q": "What is a 'dépanneur'?",
+   "options": [
+    "A tow truck",
+    "A corner store",
+    "A bakery",
+    "A pharmacy"
+   ],
+   "a": 1,
+   "why": "In Quebec, the dépanneur (dep) is the corner convenience store."
+  },
+  {
+   "q": "'Behind the school' is…",
+   "options": [
+    "devant l'école",
+    "derrière l'école",
+    "sous l'école",
+    "entre l'école"
+   ],
+   "a": 1,
+   "why": "Derrière = behind; devant = in front of."
+  },
+  {
+   "q": "In casual Quebec speech, 'sur la table' often sounds like…",
+   "options": [
+    "sur-la-tab",
+    "su'a table",
+    "sous la table",
+    "s'la table"
+   ],
+   "a": 1,
+   "why": "Sur la contracts to su'a in informal speech."
+  }
+ ]
+}

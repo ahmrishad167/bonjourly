@@ -1,0 +1,633 @@
+{
+ "w": 131,
+ "title": "Expletive ne: avant qu'il ne parte",
+ "goal": "By the end of this lesson you can recognise the expletive ne in formal French, understand that it is not a negation, use it after avant que, à moins que, de peur que and in comparisons, and know when to leave it out.",
+ "learn": [
+  {
+   "h": "A ne that does not negate",
+   "body": [
+    "In formal French you will meet a lone *ne* with no *pas*: *Partez avant qu'il ne pleuve.* This is the *ne explétif*. It does **not** make the sentence negative: the meaning is simply 'Leave before it rains.'",
+    "It is optional. *Partez avant qu'il pleuve* means exactly the same thing. The *ne* adds a formal, written tone. It appears after expressions that contain an idea of fear, prevention or doubt, as if the speaker were thinking 'I hope it doesn't happen'."
+   ],
+   "tip": "Lone ne without pas, jamais, rien, personne, plus → it's expletive. Ignore it for meaning."
+  },
+  {
+   "h": "Where it appears",
+   "body": [
+    "With the subjonctif: after *avant que*, *à moins que*, *de peur que*, *de crainte que*, and after verbs of fear and prevention: *craindre que*, *avoir peur que*, *redouter que*, *empêcher que*, *éviter que*.",
+    "With the indicative: in comparisons of inequality: *Il est plus tard que je ne pensais.* *C'est moins cher qu'on ne le dit.* *Elle parle autrement qu'elle n'écrit.*"
+   ],
+   "table": {
+    "head": [
+     "Trigger",
+     "Example (formal)",
+     "Meaning"
+    ],
+    "rows": [
+     [
+      "avant que",
+      "Rentre avant qu'il ne fasse nuit.",
+      "before it gets dark"
+     ],
+     [
+      "à moins que",
+      "Je viendrai, à moins qu'il ne neige.",
+      "unless it snows"
+     ],
+     [
+      "de peur que / de crainte que",
+      "Il chuchote de peur qu'on ne l'entende.",
+      "for fear someone hears him"
+     ],
+     [
+      "craindre / avoir peur que",
+      "Je crains qu'il ne soit trop tard.",
+      "I fear it's too late"
+     ],
+     [
+      "empêcher / éviter que",
+      "Évitez que l'eau ne gèle.",
+      "Prevent the water from freezing"
+     ],
+     [
+      "plus / moins … que",
+      "C'est plus facile que je ne croyais.",
+      "easier than I thought"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Expletive ne vs real negation",
+   "body": [
+    "A real negation needs a second word: *pas, plus, jamais, rien…* Compare: *Je crains qu'il ne vienne.* (I'm afraid he'll come) vs *Je crains qu'il ne vienne pas.* (I'm afraid he won't come).",
+    "Read the second sentence carefully on exams: one small *pas* reverses the meaning."
+   ],
+   "table": {
+    "head": [
+     "Sentence",
+     "Meaning"
+    ],
+    "rows": [
+     [
+      "J'ai peur qu'elle ne parte.",
+      "I'm afraid she'll leave."
+     ],
+     [
+      "J'ai peur qu'elle ne parte pas.",
+      "I'm afraid she won't leave."
+     ],
+     [
+      "à moins qu'il ne pleuve",
+      "unless it rains"
+     ],
+     [
+      "à moins qu'il ne pleuve pas",
+      "unless it doesn't rain (rare)"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "When NOT to use it",
+   "body": [
+    "Never after *sans que*: *Il est parti sans que je le sache* (not *sans que je ne le sache*, which grammars consider an error even though it is common).",
+    "Not after *après que* (which takes the indicative anyway), and not after a negative or interrogative main clause in comparisons: *Il n'est pas plus grand que je pensais.*",
+    "In everyday speech, in Quebec and in France, people almost always drop it. Use it when you write formally, or when you want to sound careful."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Partez avant qu'il ne pleuve.",
+   "en": "Leave before it rains.",
+   "note": "expletive ne: no negative meaning"
+  },
+  {
+   "fr": "Partez avant qu'il pleuve.",
+   "en": "Leave before it rains.",
+   "note": "same meaning, more neutral"
+  },
+  {
+   "fr": "Je passerai demain, à moins qu'il ne neige.",
+   "en": "I'll come by tomorrow, unless it snows.",
+   "note": "à moins que + ne + subjonctif"
+  },
+  {
+   "fr": "Il parle à voix basse de peur qu'on ne l'entende.",
+   "en": "He speaks quietly for fear of being overheard.",
+   "note": "de peur que + ne"
+  },
+  {
+   "fr": "Je crains qu'il ne soit trop tard.",
+   "en": "I'm afraid it's too late.",
+   "note": "craindre que + ne"
+  },
+  {
+   "fr": "Je crains qu'il ne soit pas assez tard.",
+   "en": "I'm afraid it isn't late enough.",
+   "note": "ne… pas = a real negation"
+  },
+  {
+   "fr": "Elle a peur que son fils ne se blesse.",
+   "en": "She's afraid her son will hurt himself.",
+   "note": "not 'won't hurt himself'"
+  },
+  {
+   "fr": "Il faut éviter que les tuyaux ne gèlent.",
+   "en": "We must prevent the pipes from freezing.",
+   "note": "éviter que + ne, very common in Quebec winter advice"
+  },
+  {
+   "fr": "Rien n'empêche que la réunion ne soit reportée.",
+   "en": "Nothing prevents the meeting from being postponed.",
+   "note": "empêcher que + ne, formal"
+  },
+  {
+   "fr": "Le projet a coûté plus cher qu'on ne l'avait prévu.",
+   "en": "The project cost more than had been planned.",
+   "note": "comparison + ne + le (neuter)"
+  },
+  {
+   "fr": "C'est moins difficile que je ne le croyais.",
+   "en": "It's less difficult than I thought.",
+   "note": "moins… que + ne"
+  },
+  {
+   "fr": "Il est parti sans que personne le sache.",
+   "en": "He left without anyone knowing.",
+   "note": "sans que: no expletive ne"
+  },
+  {
+   "fr": "Il est arrivé après que nous sommes partis.",
+   "en": "He arrived after we had left.",
+   "note": "après que: indicative, no ne"
+  },
+  {
+   "fr": "Tant que tu ne m'auras pas répondu, je resterai ici.",
+   "en": "As long as you haven't answered me, I'll stay here.",
+   "note": "a real negation with pas, for contrast"
+  },
+  {
+   "fr": "Vérifiez vos pneus avant que l'hiver n'arrive.",
+   "en": "Check your tires before winter arrives.",
+   "note": "n' before a vowel"
+  },
+  {
+   "fr": "Avant qu'il parte, on va prendre une photo.",
+   "en": "Before he leaves, we'll take a picture.",
+   "note": "spoken style: no ne"
+  }
+ ],
+ "quebec": {
+  "intro": "The expletive ne is almost absent from Quebec speech (and from casual speech in France too). You'll find it in Radio-Canada news copy, government notices and novels. In conversation, Quebecers drop it, just as they drop the ne of ordinary negation.",
+  "items": [
+   {
+    "std": "Partons avant qu'il ne fasse noir.",
+    "qc": "On part avant qu'y fasse noir.",
+    "en": "Let's leave before it gets dark.",
+    "note": "no ne; y = il; on = we"
+   },
+   {
+    "std": "Je crains qu'il ne pleuve.",
+    "qc": "J'ai peur qu'y mouille.",
+    "en": "I'm afraid it'll rain.",
+    "note": "mouiller = to rain, informal Quebec"
+   },
+   {
+    "std": "À moins qu'il ne neige, j'irai.",
+    "qc": "À moins qu'y neige, j'vas y aller.",
+    "en": "Unless it snows, I'll go.",
+    "note": "j'vas = je vais, informal"
+   },
+   {
+    "std": "C'est plus loin que je ne pensais.",
+    "qc": "C'est plus loin que j'pensais.",
+    "en": "It's farther than I thought.",
+    "note": "comparison without ne"
+   },
+   {
+    "std": "Évitez que les tuyaux ne gèlent.",
+    "qc": "Faut pas que les tuyaux gèlent.",
+    "en": "Don't let the pipes freeze.",
+    "note": "faut = il faut; informal"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "'Rentre avant qu'il ne fasse nuit' means…",
+   "options": [
+    "Come home before it gets dark.",
+    "Come home before it doesn't get dark.",
+    "Don't come home at night.",
+    "Come home when it's dark."
+   ],
+   "a": 0,
+   "why": "The lone ne is expletive: no negative meaning."
+  },
+  {
+   "t": "mcq",
+   "q": "'J'ai peur qu'il ne vienne pas' means…",
+   "options": [
+    "I'm afraid he'll come.",
+    "I'm afraid he won't come.",
+    "I'm not afraid he'll come.",
+    "He's afraid to come."
+   ],
+   "a": 1,
+   "why": "ne… pas is a real negation."
+  },
+  {
+   "t": "mcq",
+   "q": "Which conjunction does NOT take an expletive ne?",
+   "options": [
+    "avant que",
+    "à moins que",
+    "sans que",
+    "de peur que"
+   ],
+   "a": 2,
+   "why": "Sans que already means 'without'; ne after it is considered a mistake."
+  },
+  {
+   "t": "mcq",
+   "q": "Which sentence contains an expletive ne?",
+   "options": [
+    "Il ne mange jamais.",
+    "C'est plus cher que je ne pensais.",
+    "Je ne sais pas.",
+    "Il ne reste rien."
+   ],
+   "a": 1,
+   "why": "Only in the comparison is ne alone and non-negative."
+  },
+  {
+   "t": "mcq",
+   "q": "In Quebec conversation, the expletive ne is…",
+   "options": [
+    "Mandatory",
+    "Almost never heard",
+    "Used only with sans que",
+    "Pronounced 'nin'"
+   ],
+   "a": 1,
+   "why": "It belongs to formal written French."
+  },
+  {
+   "t": "fill",
+   "q": "Je viendrai, à moins qu'il ___ neige. (formal)",
+   "a": [
+    "ne"
+   ],
+   "en": "I'll come, unless it snows.",
+   "why": "À moins que + expletive ne + subjonctif."
+  },
+  {
+   "t": "fill",
+   "q": "Partez avant que la tempête ___ commence. (formal)",
+   "a": [
+    "ne"
+   ],
+   "en": "Leave before the storm starts.",
+   "why": "Avant que + ne in formal style."
+  },
+  {
+   "t": "fill",
+   "q": "C'est moins cher qu'on ne le ___. (dire, present)",
+   "a": [
+    "dit"
+   ],
+   "en": "It's cheaper than people say.",
+   "why": "Comparisons use the indicative: on dit."
+  },
+  {
+   "t": "fill",
+   "q": "Il est parti sans que je le ___. (savoir, subjonctif)",
+   "a": [
+    "sache"
+   ],
+   "en": "He left without my knowing.",
+   "why": "Sans que + subjonctif, no ne."
+  },
+  {
+   "t": "build",
+   "en": "I fear it's too late.",
+   "a": "Je crains qu'il ne soit trop tard."
+  },
+  {
+   "t": "build",
+   "en": "It's easier than I thought.",
+   "a": "C'est plus facile que je ne pensais."
+  },
+  {
+   "t": "build",
+   "en": "Leave before it rains.",
+   "a": "Partez avant qu'il ne pleuve."
+  },
+  {
+   "t": "translate",
+   "en": "Before he leaves, call me.",
+   "a": [
+    "Avant qu'il parte, appelle-moi.",
+    "Avant qu'il ne parte, appelle-moi.",
+    "Avant qu'il parte, appelez-moi.",
+    "Avant qu'il ne parte, appelez-moi.",
+    "Appelle-moi avant qu'il parte.",
+    "Appelle-moi avant qu'il ne parte.",
+    "Appelez-moi avant qu'il parte.",
+    "Appelez-moi avant qu'il ne parte."
+   ],
+   "why": "The ne is optional; both versions are correct."
+  },
+  {
+   "t": "translate",
+   "en": "I'm afraid she won't come.",
+   "a": [
+    "J'ai peur qu'elle ne vienne pas.",
+    "Je crains qu'elle ne vienne pas.",
+    "J'ai peur qu'elle vienne pas."
+   ],
+   "why": "Here you need ne… pas: a real negation."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "le ne explétif",
+   "en": "expletive ne",
+   "g": "m",
+   "ex": "Le ne explétif n'a pas de sens négatif."
+  },
+  {
+   "fr": "avant que",
+   "en": "before (+ subjonctif)",
+   "ex": "Avant qu'il ne parte, dis-lui merci."
+  },
+  {
+   "fr": "à moins que",
+   "en": "unless (+ subjonctif)",
+   "ex": "À moins qu'il ne pleuve, on ira."
+  },
+  {
+   "fr": "de peur que / de crainte que",
+   "en": "for fear that",
+   "ex": "Il se tait de peur qu'on ne se moque de lui."
+  },
+  {
+   "fr": "craindre",
+   "en": "to fear",
+   "ex": "Je crains le pire."
+  },
+  {
+   "fr": "redouter",
+   "en": "to dread",
+   "ex": "On redoute une tempête."
+  },
+  {
+   "fr": "empêcher",
+   "en": "to prevent",
+   "ex": "La neige empêche les autobus de circuler."
+  },
+  {
+   "fr": "éviter",
+   "en": "to avoid, prevent",
+   "ex": "Évitez de laisser l'auto au soleil."
+  },
+  {
+   "fr": "geler",
+   "en": "to freeze",
+   "ex": "Le lac a gelé cette nuit."
+  },
+  {
+   "fr": "le tuyau",
+   "en": "pipe",
+   "g": "m",
+   "ex": "Les tuyaux ont gelé."
+  },
+  {
+   "fr": "reporter",
+   "en": "to postpone",
+   "ex": "La réunion est reportée à lundi."
+  },
+  {
+   "fr": "prévoir",
+   "en": "to plan, forecast",
+   "ex": "C'est plus cher qu'on ne l'avait prévu."
+  },
+  {
+   "fr": "chuchoter",
+   "en": "to whisper",
+   "ex": "Ils chuchotent dans le corridor."
+  },
+  {
+   "fr": "à voix basse",
+   "en": "in a low voice",
+   "ex": "Parlez à voix basse."
+  },
+  {
+   "fr": "mouiller",
+   "en": "to rain (informal)",
+   "ex": "Y mouille depuis à matin.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "avant qu'il ne parte",
+    "tip": "[a-van ki-luh PART]; ne is a quick, light [nuh]."
+   },
+   {
+    "fr": "à moins qu'il ne neige",
+    "tip": "[a mwin ki-luh NÈJ]."
+   },
+   {
+    "fr": "que je ne pensais",
+    "tip": "Fast: [kuh-jun pan-SÈ]; listen for the n."
+   },
+   {
+    "fr": "qu'y fasse noir",
+    "tip": "Quebec: [ki fass NWAR]; il → y."
+   },
+   {
+    "fr": "ne vienne pas",
+    "tip": "Listen for pas at the end: it decides the meaning."
+   },
+   {
+    "fr": "geler / gèlent",
+    "tip": "[juh-LÉ] / [JÈL]: the accent changes the vowel."
+   }
+  ],
+  "title": "Avis de la Ville : grand froid",
+  "dialogue": [
+   {
+    "s": "B",
+    "fr": "Écoute l'avis de la Ville : « Un froid extrême est prévu à partir de ce soir. »",
+    "en": "Listen to the City's notice: 'Extreme cold is expected starting tonight.'"
+   },
+   {
+    "s": "B",
+    "fr": "« Afin d'éviter que vos tuyaux ne gèlent, laissez couler un mince filet d'eau. »",
+    "en": "'To prevent your pipes from freezing, leave a thin trickle of water running.'"
+   },
+   {
+    "s": "A",
+    "fr": "Pis quoi d'autre?",
+    "en": "And what else?"
+   },
+   {
+    "s": "B",
+    "fr": "« Limitez vos déplacements, à moins qu'ils ne soient essentiels. »",
+    "en": "'Limit your travel, unless it is essential.'"
+   },
+   {
+    "s": "A",
+    "fr": "Ok. Faut pas que les tuyaux gèlent. Pis j'ai peur que l'auto démarre pas demain matin.",
+    "en": "OK. The pipes mustn't freeze. And I'm afraid the car won't start tomorrow morning."
+   },
+   {
+    "s": "B",
+    "fr": "Branche-la avant d'aller te coucher. Pis rentre le chat avant qu'y gèle!",
+    "en": "Plug it in before you go to bed. And bring the cat in before it freezes!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What does the City recommend to protect the pipes?",
+    "options": [
+     "Turn off the water",
+     "Leave a thin trickle of water running",
+     "Call a plumber"
+    ],
+    "a": 1
+   },
+   {
+    "q": "'À moins qu'ils ne soient essentiels' means…",
+    "options": [
+     "unless they are essential",
+     "unless they are not essential",
+     "because they are essential"
+    ],
+    "a": 0
+   },
+   {
+    "q": "What is speaker A worried about?",
+    "options": [
+     "The cat",
+     "The car not starting",
+     "The pipes"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Give three pieces of winter advice using avant que, then say them again casually without ne.",
+   "model": "Formel : Rentrez le bois avant qu'il ne neige. Vérifiez vos pneus avant que l'hiver n'arrive. Partez avant que la tempête ne commence. / Familier : Rentre le bois avant qu'y neige…"
+  },
+  {
+   "prompt": "Say two sentences with 'j'ai peur que': one where you fear something will happen, one where you fear it won't.",
+   "model": "J'ai peur que le vol ne soit annulé. J'ai peur que mon colis n'arrive pas à temps."
+  },
+  {
+   "prompt": "Compare expectation and reality: 'C'était plus … que je ne pensais.' Give three examples.",
+   "model": "Montréal était plus grande que je ne pensais. L'hiver était moins dur que je ne le craignais. Le français québécois est plus musical que je ne l'imaginais."
+  }
+ ],
+ "write": {
+  "prompt": "Write a short formal notice (5–6 sentences) from a building manager about a water shutdown. Use the expletive ne at least three times.",
+  "model": "Avis aux résidents. Des travaux de plomberie auront lieu le mardi 12 novembre. L'eau sera coupée de 9 h à 15 h, à moins que les travaux ne se terminent plus tôt. Nous vous invitons à remplir quelques bouteilles d'eau avant que la coupure ne commence. Afin d'éviter que les tuyaux ne soient endommagés, n'ouvrez pas les robinets pendant les travaux. Nous vous remercions de votre compréhension."
+ },
+ "quiz": [
+  {
+   "q": "The expletive ne…",
+   "options": [
+    "makes the sentence negative",
+    "has no negative meaning",
+    "is mandatory in speech",
+    "replaces pas"
+   ],
+   "a": 1,
+   "why": "It's a stylistic, optional marker."
+  },
+  {
+   "q": "Which is a recognised error?",
+   "options": [
+    "avant qu'il ne parte",
+    "sans qu'il ne parte",
+    "à moins qu'il ne parte",
+    "de peur qu'il ne parte"
+   ],
+   "a": 1,
+   "why": "Sans que does not take the expletive ne."
+  },
+  {
+   "q": "'Il travaille plus qu'il ne le faut.' The ne is…",
+   "options": [
+    "negative",
+    "expletive",
+    "a mistake",
+    "Quebec slang"
+   ],
+   "a": 1,
+   "why": "Comparisons of inequality allow an expletive ne."
+  },
+  {
+   "q": "Which mood follows avant que?",
+   "options": [
+    "indicative",
+    "subjonctif",
+    "conditionnel",
+    "infinitive"
+   ],
+   "a": 1,
+   "why": "Avant que always takes the subjonctif."
+  },
+  {
+   "q": "'Je crains qu'il ne soit malade' means…",
+   "options": [
+    "I fear he isn't sick.",
+    "I fear he's sick.",
+    "I know he's sick.",
+    "He isn't sick."
+   ],
+   "a": 1,
+   "why": "No pas → no negation."
+  },
+  {
+   "q": "Which verb can trigger an expletive ne?",
+   "options": [
+    "penser",
+    "empêcher",
+    "savoir",
+    "dire"
+   ],
+   "a": 1,
+   "why": "Verbs of prevention and fear: empêcher, éviter, craindre."
+  },
+  {
+   "q": "Where are you most likely to see the expletive ne in Quebec?",
+   "options": [
+    "Text messages",
+    "A dépanneur conversation",
+    "An official notice or the news",
+    "A hockey game chat"
+   ],
+   "a": 2,
+   "why": "It's a feature of formal written French."
+  },
+  {
+   "q": "Which tense/mood follows après que in correct French?",
+   "options": [
+    "subjonctif + ne",
+    "indicative, no ne",
+    "conditionnel + ne",
+    "infinitive"
+   ],
+   "a": 1,
+   "why": "Après que takes the indicative and no expletive ne."
+  }
+ ]
+}

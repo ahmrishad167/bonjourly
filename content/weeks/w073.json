@@ -1,0 +1,672 @@
+{
+ "w": 73,
+ "title": "Impersonal verbs: falloir, pleuvoir, neiger",
+ "goal": "By the end of this lesson you can use impersonal verbs with il in every tense you know (il faut, il pleut, il neige, il fait froid, il y a) and understand the Quebec weather talk you hear every day: faut que, y mouille, y fait frette.",
+ "learn": [
+  {
+   "h": "What is an impersonal verb?",
+   "body": [
+    "Some verbs are only used with *il*, and this *il* means 'it', not 'he': *il faut* (it is necessary), *il pleut* (it's raining), *il neige* (it's snowing), *il grêle* (it's hailing), *il gèle* (it's freezing).",
+    "Other verbs can also be used impersonally: *il fait* + weather (*il fait beau, il fait froid*), *il y a* (there is/are), *il est* + time (*il est huit heures*), *il reste* (there is … left), *il manque* (… is missing)."
+   ]
+  },
+  {
+   "h": "Falloir: il faut",
+   "body": [
+    "*Il faut* + infinitive means 'you have to / we need to / one must', with no specific person: *Il faut partir* (We have to go). *Il ne faut pas* means 'you must not': *Il ne faut pas fumer ici*.",
+    "*Il faut* + noun means 'you need': *Il faut deux heures pour aller à Québec* (It takes two hours to get to Quebec City). Add an indirect pronoun for a person: *Il me faut un stylo* (I need a pen).",
+    "*Il faut que* + subject + verb also exists; the verb after it is in the subjunctive, which you will learn in lesson 85. For now, notice that with most -er verbs it looks like the present: *Il faut que je travaille*."
+   ],
+   "table": {
+    "head": [
+     "Tense",
+     "falloir",
+     "English"
+    ],
+    "rows": [
+     [
+      "présent",
+      "il faut",
+      "it is necessary"
+     ],
+     [
+      "passé composé",
+      "il a fallu",
+      "it was necessary / we had to"
+     ],
+     [
+      "imparfait",
+      "il fallait",
+      "it was necessary / we used to have to"
+     ],
+     [
+      "futur",
+      "il faudra",
+      "it will be necessary"
+     ],
+     [
+      "conditionnel",
+      "il faudrait",
+      "it would be necessary / we should"
+     ]
+    ]
+   },
+   "tip": "Il ne faut pas = you must not (not 'you don't have to'). 'You don't have to' = Tu n'es pas obligé de."
+  },
+  {
+   "h": "Weather verbs in all tenses",
+   "body": [
+    "*pleuvoir* → *il pleut, il a plu, il pleuvait, il pleuvra, il pleuvrait*. *neiger* → *il neige, il a neigé, il neigeait, il neigera, il neigerait*.",
+    "The noun forms: *la pluie* (rain), *la neige* (snow), *la grêle* (hail), *le verglas* (freezing rain, ice), *la tempête* (storm).",
+    "Remember the past-tense logic: *Il neigeait quand je suis sorti* (scene, imparfait) vs *Il a neigé toute la nuit* (completed, passé composé)."
+   ],
+   "table": {
+    "head": [
+     "",
+     "pleuvoir",
+     "neiger"
+    ],
+    "rows": [
+     [
+      "présent",
+      "il pleut",
+      "il neige"
+     ],
+     [
+      "passé composé",
+      "il a plu",
+      "il a neigé"
+     ],
+     [
+      "imparfait",
+      "il pleuvait",
+      "il neigeait"
+     ],
+     [
+      "futur",
+      "il pleuvra",
+      "il neigera"
+     ],
+     [
+      "conditionnel",
+      "il pleuvrait",
+      "il neigerait"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Quebec weather talk",
+   "body": [
+    "In Quebec speech, impersonal *il* is usually pronounced *y*: *y pleut*, *y neige*, *y fait froid*. *Il faut* is often reduced to just *faut*: *Faut y aller* (We have to go).",
+    "*Il mouille* is the traditional Quebec verb for 'it's raining' (from older French). You will hear *y mouille* constantly. *Y fait frette* means 'it's freezing cold' (informal). *La poudrerie* is blowing snow, and *la slush* (or *la sloche*) is the slushy snow on sidewalks."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Il faut partir tout de suite.",
+   "en": "We have to leave right away."
+  },
+  {
+   "fr": "Il ne faut pas oublier tes bottes.",
+   "en": "You mustn't forget your boots.",
+   "note": "il ne faut pas = must not"
+  },
+  {
+   "fr": "Il faut trois heures pour aller à Québec.",
+   "en": "It takes three hours to get to Quebec City.",
+   "note": "il faut + duration"
+  },
+  {
+   "fr": "Il me faut un nouveau manteau d'hiver.",
+   "en": "I need a new winter coat."
+  },
+  {
+   "fr": "Hier, il a fallu pelleter l'entrée deux fois.",
+   "en": "Yesterday we had to shovel the driveway twice.",
+   "note": "passé composé of falloir"
+  },
+  {
+   "fr": "Il pleut depuis ce matin.",
+   "en": "It's been raining since this morning."
+  },
+  {
+   "fr": "Il a neigé toute la nuit.",
+   "en": "It snowed all night."
+  },
+  {
+   "fr": "Il neigeait quand je suis sorti du bureau.",
+   "en": "It was snowing when I left the office.",
+   "note": "imparfait: background"
+  },
+  {
+   "fr": "Demain, il pleuvra sur Montréal.",
+   "en": "Tomorrow, it will rain over Montreal."
+  },
+  {
+   "fr": "Il faudrait acheter des pneus d'hiver.",
+   "en": "We should buy winter tires.",
+   "note": "required in Quebec from December 1 to March 15"
+  },
+  {
+   "fr": "Il fait moins vingt ce matin!",
+   "en": "It's minus twenty this morning!"
+  },
+  {
+   "fr": "Il y a du verglas sur les trottoirs.",
+   "en": "There's ice on the sidewalks."
+  },
+  {
+   "fr": "Il reste deux places dans l'autobus.",
+   "en": "There are two seats left on the bus.",
+   "note": "il reste = there is/are … left"
+  },
+  {
+   "fr": "Il manque une chaise.",
+   "en": "There's a chair missing."
+  },
+  {
+   "fr": "S'il neige demain, il faudra partir plus tôt.",
+   "en": "If it snows tomorrow, we'll have to leave earlier."
+  },
+  {
+   "fr": "Il fallait marcher dix minutes pour aller à l'école.",
+   "en": "We used to have to walk ten minutes to get to school."
+  }
+ ],
+ "quebec": {
+  "intro": "Quebecers talk about the weather constantly. In speech, impersonal 'il' becomes 'y', 'il faut' becomes 'faut', and 'il mouille' (it's raining) is the everyday Quebec verb alongside 'il pleut'.",
+  "items": [
+   {
+    "std": "Il pleut.",
+    "qc": "Y mouille.",
+    "en": "It's raining.",
+    "note": "Il mouille is traditional Quebec French; y = il in speech"
+   },
+   {
+    "std": "Il faut y aller.",
+    "qc": "Faut y aller.",
+    "en": "We have to go.",
+    "note": "il dropped in casual speech"
+   },
+   {
+    "std": "Il faut que je travaille.",
+    "qc": "Faut que j'travaille.",
+    "en": "I have to work.",
+    "note": "Subjunctive after il faut que comes in lesson 85"
+   },
+   {
+    "std": "Il fait très froid.",
+    "qc": "Y fait frette.",
+    "en": "It's freezing.",
+    "note": "Informal; frette = very cold"
+   },
+   {
+    "std": "Il pleut très fort.",
+    "qc": "Y pleut à boire debout.",
+    "en": "It's pouring.",
+    "note": "Quebec expression: 'raining so hard you could drink standing up'"
+   },
+   {
+    "std": "Il y a de la neige poussée par le vent.",
+    "qc": "Y'a d'la poudrerie.",
+    "en": "There's blowing snow.",
+    "note": "Poudrerie is the standard Quebec word"
+   },
+   {
+    "std": "Il y a de la neige fondante partout.",
+    "qc": "Y'a d'la slush partout.",
+    "en": "There's slush everywhere.",
+    "note": "Informal; also spelled sloche"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "'Il ne faut pas toucher' means…",
+   "options": [
+    "You don't have to touch.",
+    "You must not touch.",
+    "He doesn't touch.",
+    "It's not touching."
+   ],
+   "a": 1,
+   "why": "Il ne faut pas = must not."
+  },
+  {
+   "t": "mcq",
+   "q": "What is the passé composé of 'il pleut'?",
+   "options": [
+    "il a pleuvu",
+    "il a plu",
+    "il est plu",
+    "il pleuvait"
+   ],
+   "a": 1,
+   "why": "Pleuvoir → plu."
+  },
+  {
+   "t": "mcq",
+   "q": "'Y mouille' means…",
+   "options": [
+    "He's wet.",
+    "It's raining.",
+    "It's foggy.",
+    "He's swimming."
+   ],
+   "a": 1,
+   "why": "Il mouille = it's raining in Quebec speech."
+  },
+  {
+   "t": "mcq",
+   "q": "'Il reste du café?' means…",
+   "options": [
+    "Is there any coffee left?",
+    "Is he staying for coffee?",
+    "Is the coffee resting?",
+    "Did he stay at the café?"
+   ],
+   "a": 0,
+   "why": "Il reste = there is … left."
+  },
+  {
+   "t": "fill",
+   "q": "Demain, il ___ toute la journée. (neiger, futur)",
+   "a": [
+    "neigera"
+   ],
+   "en": "Tomorrow, it will snow all day.",
+   "why": "Futur of neiger."
+  },
+  {
+   "t": "fill",
+   "q": "Hier, il a ___ pelleter deux fois. (falloir)",
+   "a": [
+    "fallu"
+   ],
+   "en": "Yesterday we had to shovel twice.",
+   "why": "Past participle of falloir: fallu."
+  },
+  {
+   "t": "fill",
+   "q": "Il ___ quand je suis arrivé. (pleuvoir, imparfait)",
+   "a": [
+    "pleuvait"
+   ],
+   "en": "It was raining when I arrived.",
+   "why": "Background: imparfait."
+  },
+  {
+   "t": "fill",
+   "q": "Il ___ acheter des pneus d'hiver. (falloir, conditionnel)",
+   "a": [
+    "faudrait"
+   ],
+   "en": "We should buy winter tires.",
+   "why": "Conditionnel of falloir."
+  },
+  {
+   "t": "build",
+   "en": "It takes two hours to get to Ottawa.",
+   "a": "Il faut deux heures pour aller à Ottawa."
+  },
+  {
+   "t": "build",
+   "en": "There's ice on the sidewalks.",
+   "a": "Il y a du verglas sur les trottoirs."
+  },
+  {
+   "t": "build",
+   "en": "We have to leave right away.",
+   "a": "Il faut partir tout de suite."
+  },
+  {
+   "t": "translate",
+   "en": "It's raining.",
+   "a": [
+    "Il pleut.",
+    "Il mouille.",
+    "Y pleut.",
+    "Y mouille."
+   ],
+   "why": "Il pleut (standard), il mouille (Quebec)."
+  },
+  {
+   "t": "translate",
+   "en": "It snowed all night.",
+   "a": [
+    "Il a neigé toute la nuit."
+   ],
+   "why": "Completed action: passé composé."
+  },
+  {
+   "t": "translate",
+   "en": "I need a pen.",
+   "a": [
+    "Il me faut un stylo.",
+    "J'ai besoin d'un stylo.",
+    "Il me faut un crayon.",
+    "J'ai besoin d'un crayon."
+   ],
+   "why": "Il me faut or j'ai besoin de."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "il faut",
+   "en": "it is necessary, one must",
+   "ex": "Il faut manger des légumes."
+  },
+  {
+   "fr": "il pleut",
+   "en": "it's raining",
+   "ex": "Il pleut, prends ton parapluie."
+  },
+  {
+   "fr": "il neige",
+   "en": "it's snowing",
+   "ex": "Il neige depuis hier."
+  },
+  {
+   "fr": "il mouille",
+   "en": "it's raining (Quebec)",
+   "ex": "Y mouille encore!",
+   "qc": true
+  },
+  {
+   "fr": "la pluie",
+   "en": "rain",
+   "g": "f",
+   "ex": "La pluie va arrêter ce soir."
+  },
+  {
+   "fr": "la neige",
+   "en": "snow",
+   "g": "f",
+   "ex": "Les enfants jouent dans la neige."
+  },
+  {
+   "fr": "le verglas",
+   "en": "freezing rain, black ice",
+   "g": "m",
+   "ex": "Attention au verglas!"
+  },
+  {
+   "fr": "la tempête",
+   "en": "storm",
+   "g": "f",
+   "ex": "Une tempête de neige arrive."
+  },
+  {
+   "fr": "la poudrerie",
+   "en": "blowing snow",
+   "g": "f",
+   "ex": "Avec la poudrerie, on ne voit rien.",
+   "qc": true
+  },
+  {
+   "fr": "frette",
+   "en": "freezing cold (informal)",
+   "ex": "Y fait frette à matin!",
+   "qc": true
+  },
+  {
+   "fr": "pelleter",
+   "en": "to shovel",
+   "ex": "Il faut pelleter l'entrée."
+  },
+  {
+   "fr": "les pneus d'hiver",
+   "en": "winter tires",
+   "g": "m",
+   "ex": "Les pneus d'hiver sont obligatoires au Québec."
+  },
+  {
+   "fr": "il reste",
+   "en": "there is/are … left",
+   "ex": "Il reste du gâteau."
+  },
+  {
+   "fr": "il manque",
+   "en": "… is missing",
+   "ex": "Il manque deux personnes."
+  },
+  {
+   "fr": "le trottoir",
+   "en": "sidewalk",
+   "g": "m",
+   "ex": "Le trottoir est glissant."
+  },
+  {
+   "fr": "la météo",
+   "en": "weather forecast",
+   "g": "f",
+   "ex": "As-tu vu la météo?"
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "il faut / il fallait",
+    "tip": "eel FOH / eel fa-LÈ."
+   },
+   {
+    "fr": "il pleut",
+    "tip": "eel PLEU: the eu as in 'feu'."
+   },
+   {
+    "fr": "il pleuvait",
+    "tip": "eel pleu-VÈ."
+   },
+   {
+    "fr": "il neige",
+    "tip": "eel NÈZH; Quebec: y NAÈZH."
+   },
+   {
+    "fr": "y mouille",
+    "tip": "ee MOOY."
+   },
+   {
+    "fr": "frette",
+    "tip": "FRÈT, short and sharp."
+   },
+   {
+    "fr": "le verglas",
+    "tip": "vèr-GLAH; the s is silent."
+   }
+  ],
+  "title": "La météo du matin",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "As-tu vu la météo? Y paraît qu'il va neiger cet après-midi.",
+    "en": "Did you see the forecast? Apparently it's going to snow this afternoon."
+   },
+   {
+    "s": "B",
+    "fr": "Encore? Il a neigé toute la nuit!",
+    "en": "Again? It snowed all night!"
+   },
+   {
+    "s": "A",
+    "fr": "Oui, et ce soir, il va y avoir du verglas.",
+    "en": "Yes, and tonight there's going to be freezing rain."
+   },
+   {
+    "s": "B",
+    "fr": "Bon, il faut que je quitte le bureau plus tôt.",
+    "en": "OK, I have to leave the office earlier."
+   },
+   {
+    "s": "A",
+    "fr": "Moi aussi. Et il faudrait pelleter l'entrée avant.",
+    "en": "Me too. And we should shovel the driveway first."
+   },
+   {
+    "s": "B",
+    "fr": "Il fait combien dehors?",
+    "en": "What's the temperature outside?"
+   },
+   {
+    "s": "A",
+    "fr": "Moins quinze, mais avec le vent, on dirait moins vingt-cinq. Y fait frette!",
+    "en": "Minus fifteen, but with the wind, it feels like minus twenty-five. It's freezing!"
+   },
+   {
+    "s": "B",
+    "fr": "Faut que je trouve ma tuque, d'abord.",
+    "en": "I need to find my hat, then."
+   }
+  ],
+  "questions": [
+   {
+    "q": "When did it snow?",
+    "options": [
+     "All night",
+     "All week",
+     "Only in the morning"
+    ],
+    "a": 0
+   },
+   {
+    "q": "What is expected tonight?",
+    "options": [
+     "Rain",
+     "Freezing rain",
+     "Sun"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does it feel like with the wind?",
+    "options": [
+     "Minus fifteen",
+     "Minus twenty",
+     "Minus twenty-five"
+    ],
+    "a": 2
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Describe today's weather and tomorrow's forecast.",
+   "model": "Aujourd'hui, il fait froid et il neige un peu. Demain, il pleuvra et il fera plus doux."
+  },
+  {
+   "prompt": "Say three things you must do (il faut) before winter in Quebec.",
+   "model": "Il faut installer les pneus d'hiver, il faut acheter une pelle et il faut sortir les manteaux."
+  },
+  {
+   "prompt": "Say 'It's raining and it's freezing' casually, the Quebec way.",
+   "model": "Y mouille pis y fait frette!"
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences about your worst winter day in Quebec: the weather, what you had to do, and what happened.",
+  "model": "C'était en janvier. Il faisait moins trente et il y avait de la poudrerie. Il a neigé toute la nuit, alors le matin il a fallu pelleter pendant une heure. Ensuite, il y avait du verglas sur les trottoirs et je suis tombé. Il a fallu prendre un taxi pour aller au travail. Si seulement il faisait toujours chaud!"
+ },
+ "quiz": [
+  {
+   "q": "What is the future of 'il pleut'?",
+   "options": [
+    "il pleura",
+    "il pleuvra",
+    "il pleuvera",
+    "il plaira"
+   ],
+   "a": 1,
+   "why": "Stem pleuvr- + -a."
+  },
+  {
+   "q": "'Il faudra' is the ___ of falloir.",
+   "options": [
+    "imparfait",
+    "futur",
+    "conditionnel",
+    "passé composé"
+   ],
+   "a": 1,
+   "why": "faudr- + -a = futur."
+  },
+  {
+   "q": "'Le verglas' is…",
+   "options": [
+    "fog",
+    "freezing rain / ice",
+    "a heatwave",
+    "a snowplow"
+   ],
+   "a": 1,
+   "why": "Le verglas = freezing rain, glaze ice."
+  },
+  {
+   "q": "'Faut y aller' is the casual form of…",
+   "options": [
+    "Il faut y aller.",
+    "Il fait y aller.",
+    "Il faudra aller.",
+    "Il fallait y aller."
+   ],
+   "a": 0,
+   "why": "Quebec speech drops il."
+  },
+  {
+   "q": "'Y pleut à boire debout' means…",
+   "options": [
+    "It's drizzling.",
+    "It's pouring.",
+    "It's freezing.",
+    "It's dry."
+   ],
+   "a": 1,
+   "why": "Quebec expression for heavy rain."
+  },
+  {
+   "q": "How do you say 'You don't have to come'?",
+   "options": [
+    "Il ne faut pas venir.",
+    "Tu n'es pas obligé de venir.",
+    "Il faut ne pas venir.",
+    "Tu ne faut pas venir."
+   ],
+   "a": 1,
+   "why": "Il ne faut pas = must not; use ne pas être obligé de."
+  },
+  {
+   "q": "Which sentence describes the background of a story?",
+   "options": [
+    "Il a neigé.",
+    "Il neigeait.",
+    "Il neigera.",
+    "Il neige."
+   ],
+   "a": 1,
+   "why": "Imparfait = scene, background."
+  },
+  {
+   "q": "'La poudrerie' is…",
+   "options": [
+    "gunpowder",
+    "blowing snow",
+    "powdered sugar",
+    "a ski hill"
+   ],
+   "a": 1,
+   "why": "Snow blown by the wind."
+  },
+  {
+   "q": "'Il me faut deux heures' means…",
+   "options": [
+    "I need two hours.",
+    "I have two hours.",
+    "It's two o'clock for me.",
+    "I lost two hours."
+   ],
+   "a": 0,
+   "why": "il + indirect pronoun + faut = need."
+  }
+ ]
+}

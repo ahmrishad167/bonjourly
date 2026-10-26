@@ -1,0 +1,657 @@
+{
+ "w": 90,
+ "title": "Temporal conjunctions: dès que, aussitôt que, avant que",
+ "goal": "By the end of this lesson you can order events with dès que, aussitôt que, pendant que, depuis que, avant que and jusqu'à ce que, choosing the indicative, the subjunctive or an infinitive correctly.",
+ "learn": [
+  {
+   "h": "The rule of thumb: real time vs not-yet time",
+   "body": [
+    "Conjunctions that place an event at a real moment (when, as soon as, while, since, after) take the INDICATIVE.",
+    "Conjunctions that point to an event that hasn't happened yet relative to the main action (before, until, while waiting for) take the SUBJUNCTIVE."
+   ],
+   "table": {
+    "head": [
+     "+ indicative",
+     "+ subjunctive"
+    ],
+    "rows": [
+     [
+      "quand, lorsque (when)",
+      "avant que (before)"
+     ],
+     [
+      "dès que, aussitôt que (as soon as)",
+      "jusqu'à ce que (until)"
+     ],
+     [
+      "pendant que (while)",
+      "en attendant que (until, while waiting for)"
+     ],
+     [
+      "depuis que (since)",
+      "d'ici (à ce) que (by the time)"
+     ],
+     [
+      "après que, une fois que (after, once)",
+      ""
+     ],
+     [
+      "chaque fois que (every time)",
+      ""
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Dès que and aussitôt que: future after 'as soon as'",
+   "body": [
+    "*Dès que* and *aussitôt que* both mean 'as soon as'. Like *quand*, they take the future when the meaning is future: *Dès que tu arriveras, on mangera.*",
+    "When the first action must be completed before the second, use the *futur antérieur* (will have done): *Aussitôt que j'aurai fini, je t'appellerai.* = As soon as I've finished, I'll call you.",
+    "In the past: *Dès qu'il est arrivé, on est partis.*"
+   ],
+   "tip": "English present after 'as soon as' → French future."
+  },
+  {
+   "h": "Avant que vs avant de",
+   "body": [
+    "*Avant que* + subjunctive when the subjects are different: *Rentre avant qu'il fasse noir.*",
+    "*Avant de* + infinitive when the subject is the same: *Je mange avant de partir* (not *avant que je parte*).",
+    "Formal French may add a non-negative *ne* after *avant que*: *avant qu'il ne parte*. It is optional and means the same thing."
+   ],
+   "table": {
+    "head": [
+     "Same subject",
+     "Different subjects"
+    ],
+    "rows": [
+     [
+      "Je téléphone avant de partir.",
+      "Je téléphone avant que tu partes."
+     ],
+     [
+      "Lave-toi les mains avant de manger.",
+      "Lave-toi les mains avant qu'on mange."
+     ],
+     [
+      "Après avoir mangé, il est sorti.",
+      "Après qu'on a mangé, il est sorti."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Pendant que, tandis que, depuis que, jusqu'à ce que",
+   "body": [
+    "*Pendant que* = while (two actions at the same time): *Je cuisine pendant que tu mets la table.* *Tandis que* can mean 'while' but more often 'whereas' (contrast): *Il aime l'été, tandis que moi, je préfère l'hiver.*",
+    "*Depuis que* = since (starting point, indicative): *Depuis qu'il habite à Québec, il parle mieux français.*",
+    "*Jusqu'à ce que* = until, + subjunctive: *Attends ici jusqu'à ce que je revienne.* With the same subject, use *jusqu'à* + noun or rephrase: *Je travaille jusqu'à six heures.*"
+   ]
+  },
+  {
+   "h": "Quebec: avant que in real speech, and jusqu'à temps que",
+   "body": [
+    "Quebecers do use the subjunctive after *avant que* in everyday speech: *Appelle-moi avant que tu partes.* In casual speech it is also used with the same subject (*avant que je parte*), where careful French prefers *avant de partir*.",
+    "Very common in Quebec: *jusqu'à temps que* for *jusqu'à ce que*, also with the subjunctive: *Attends jusqu'à temps qu'y arrive.* It's informal; write *jusqu'à ce que*. You'll also hear *aussitôt que* much more often than in France."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Dès que tu arriveras, on passera à table.",
+   "en": "As soon as you arrive, we'll sit down to eat.",
+   "note": "future after dès que"
+  },
+  {
+   "fr": "Aussitôt que j'aurai fini, je t'appellerai.",
+   "en": "As soon as I've finished, I'll call you.",
+   "note": "futur antérieur: first action completed"
+  },
+  {
+   "fr": "Dès qu'il est arrivé, on est partis.",
+   "en": "As soon as he arrived, we left.",
+   "note": "past events → passé composé"
+  },
+  {
+   "fr": "Rentre avant qu'il fasse noir.",
+   "en": "Come home before it gets dark.",
+   "note": "avant que + subjunctive"
+  },
+  {
+   "fr": "Je prends une douche avant de partir.",
+   "en": "I take a shower before leaving.",
+   "note": "same subject → avant de + infinitive"
+  },
+  {
+   "fr": "On doit finir avant que le patron revienne.",
+   "en": "We have to finish before the boss comes back.",
+   "note": "different subjects → subjunctive"
+  },
+  {
+   "fr": "Je fais la vaisselle pendant que tu passes l'aspirateur.",
+   "en": "I do the dishes while you vacuum.",
+   "note": "pendant que = simultaneous actions"
+  },
+  {
+   "fr": "Il adore le ski, tandis que sa femme préfère la raquette.",
+   "en": "He loves skiing, whereas his wife prefers snowshoeing.",
+   "note": "tandis que = whereas"
+  },
+  {
+   "fr": "Depuis qu'elle travaille de la maison, elle est moins stressée.",
+   "en": "Since she's been working from home, she's less stressed.",
+   "note": "depuis que + present for an ongoing situation"
+  },
+  {
+   "fr": "Reste ici jusqu'à ce que je revienne.",
+   "en": "Stay here until I come back.",
+   "note": "jusqu'à ce que + subjunctive"
+  },
+  {
+   "fr": "Une fois que tu auras ton permis, tu pourras conduire seul.",
+   "en": "Once you have your licence, you'll be able to drive alone.",
+   "note": "une fois que + future"
+  },
+  {
+   "fr": "Chaque fois que je vais à Québec, je mange une poutine.",
+   "en": "Every time I go to Quebec City, I eat a poutine.",
+   "note": "habit → present"
+  },
+  {
+   "fr": "Après avoir mangé, nous sommes allés marcher.",
+   "en": "After eating, we went for a walk.",
+   "note": "same subject: après + past infinitive"
+  },
+  {
+   "fr": "Après que les invités sont partis, on a rangé.",
+   "en": "After the guests left, we tidied up.",
+   "note": "après que + indicative"
+  },
+  {
+   "fr": "En attendant que le café soit prêt, je lis le journal.",
+   "en": "While I wait for the coffee to be ready, I read the paper.",
+   "note": "en attendant que + subjunctive"
+  },
+  {
+   "fr": "Il faut partir avant que les routes soient fermées.",
+   "en": "We have to leave before the roads are closed.",
+   "note": "subjunctive of être with a passive"
+  }
+ ],
+ "quebec": {
+  "intro": "In everyday Quebec speech, 'avant que' really does take the subjunctive, even in casual talk, and 'jusqu'à temps que' is the usual spoken way to say 'until'.",
+  "items": [
+   {
+    "std": "Appelle-moi avant de partir.",
+    "qc": "Appelle-moi avant que tu partes.",
+    "en": "Call me before you leave.",
+    "note": "same subject with avant que: common in speech; careful French prefers avant de"
+   },
+   {
+    "std": "Attends jusqu'à ce qu'il arrive.",
+    "qc": "Attends jusqu'à temps qu'y arrive.",
+    "en": "Wait until he gets here.",
+    "note": "jusqu'à temps que: informal Quebec, still + subjunctive"
+   },
+   {
+    "std": "Dès que j'ai fini, je t'appelle.",
+    "qc": "Aussitôt que j'ai fini, j't'appelle.",
+    "en": "As soon as I'm done, I'll call you.",
+    "note": "speech often uses the present for a near future"
+   },
+   {
+    "std": "Rentre avant qu'il fasse noir.",
+    "qc": "Rentre avant qu'y fasse noir.",
+    "en": "Come home before it gets dark.",
+    "note": "y = il; the subjunctive fasse stays"
+   },
+   {
+    "std": "Pendant que tu es là, aide-moi.",
+    "qc": "Tant qu'à être là, aide-moi.",
+    "en": "While you're here, help me.",
+    "note": "tant qu'à + infinitive = since / while (you're at it); informal"
+   },
+   {
+    "std": "Il faut finir avant que le patron revienne.",
+    "qc": "Faut finir avant que le boss revienne.",
+    "en": "We have to finish before the boss comes back.",
+    "note": "le boss: common anglicism in casual speech"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Dès que tu ___, on mangera.",
+   "options": [
+    "arrives",
+    "arriveras",
+    "arrives-tu",
+    "arrivais"
+   ],
+   "a": 1,
+   "why": "Future meaning → future after dès que."
+  },
+  {
+   "t": "mcq",
+   "q": "Rentre avant qu'il ___ noir.",
+   "options": [
+    "fait",
+    "fera",
+    "fasse",
+    "faisait"
+   ],
+   "a": 2,
+   "why": "Avant que + subjunctive."
+  },
+  {
+   "t": "mcq",
+   "q": "Je mange ___ partir.",
+   "options": [
+    "avant que",
+    "avant de",
+    "avant",
+    "avant qu'on"
+   ],
+   "a": 1,
+   "why": "Same subject → avant de + infinitive."
+  },
+  {
+   "t": "mcq",
+   "q": "Which conjunction takes the subjunctive?",
+   "options": [
+    "pendant que",
+    "depuis que",
+    "jusqu'à ce que",
+    "dès que"
+   ],
+   "a": 2,
+   "why": "Until = the event hasn't happened yet → subjunctive."
+  },
+  {
+   "t": "fill",
+   "q": "Aussitôt que j'___ fini, je t'appellerai. (avoir, futur)",
+   "a": [
+    "aurai"
+   ],
+   "en": "As soon as I've finished, I'll call you.",
+   "why": "Futur antérieur: aurai fini."
+  },
+  {
+   "t": "fill",
+   "q": "Reste ici jusqu'à ce que je ___. (revenir)",
+   "a": [
+    "revienne"
+   ],
+   "en": "Stay here until I come back.",
+   "why": "Jusqu'à ce que + subjunctive."
+  },
+  {
+   "t": "fill",
+   "q": "Depuis qu'il ___ à Québec, il parle mieux. (habiter)",
+   "a": [
+    "habite"
+   ],
+   "en": "Since he's been living in Quebec City, he speaks better.",
+   "why": "Depuis que + present for an ongoing situation."
+  },
+  {
+   "t": "fill",
+   "q": "Je cuisine ___ tu mets la table. (while)",
+   "a": [
+    "pendant que",
+    "tandis que"
+   ],
+   "en": "I cook while you set the table.",
+   "why": "Simultaneous actions → pendant que."
+  },
+  {
+   "t": "fill",
+   "q": "Après ___ mangé, ils sont sortis. (same subject)",
+   "a": [
+    "avoir"
+   ],
+   "en": "After eating, they went out.",
+   "why": "Après + past infinitive: avoir mangé."
+  },
+  {
+   "t": "build",
+   "en": "Come home before it gets dark.",
+   "a": "Rentre avant qu'il fasse noir."
+  },
+  {
+   "t": "build",
+   "en": "As soon as he arrived, we left.",
+   "a": "Dès qu'il est arrivé, on est partis."
+  },
+  {
+   "t": "build",
+   "en": "Wait here until I come back.",
+   "a": "Attends ici jusqu'à ce que je revienne."
+  },
+  {
+   "t": "translate",
+   "en": "Call me before you leave.",
+   "a": [
+    "Appelle-moi avant de partir.",
+    "Appelez-moi avant de partir.",
+    "Appelle-moi avant que tu partes.",
+    "Appelez-moi avant que vous partiez."
+   ],
+   "why": "Avant de + infinitive, or avant que + subjunctive."
+  },
+  {
+   "t": "translate",
+   "en": "As soon as you arrive, we'll eat.",
+   "a": [
+    "Dès que tu arriveras, on mangera.",
+    "Dès que tu arriveras, nous mangerons.",
+    "Dès que vous arriverez, on mangera.",
+    "Dès que vous arriverez, nous mangerons.",
+    "Aussitôt que tu arriveras, on mangera.",
+    "Aussitôt que vous arriverez, nous mangerons.",
+    "Aussitôt que tu arriveras, nous mangerons.",
+    "Aussitôt que vous arriverez, on mangera."
+   ],
+   "why": "Future after dès que / aussitôt que."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "dès que",
+   "en": "as soon as",
+   "ex": "Dès que je peux, je t'écris."
+  },
+  {
+   "fr": "aussitôt que",
+   "en": "as soon as",
+   "ex": "Aussitôt qu'il arrive, on part."
+  },
+  {
+   "fr": "avant que",
+   "en": "before (+ subj.)",
+   "ex": "Pars avant qu'il pleuve."
+  },
+  {
+   "fr": "avant de",
+   "en": "before (+ infinitive)",
+   "ex": "Mange avant de partir."
+  },
+  {
+   "fr": "jusqu'à ce que",
+   "en": "until (+ subj.)",
+   "ex": "J'attends jusqu'à ce qu'il revienne."
+  },
+  {
+   "fr": "pendant que",
+   "en": "while",
+   "ex": "Je lis pendant que tu dors."
+  },
+  {
+   "fr": "tandis que",
+   "en": "whereas, while",
+   "ex": "Il aime l'été, tandis que je préfère l'hiver."
+  },
+  {
+   "fr": "depuis que",
+   "en": "since (time)",
+   "ex": "Depuis que je cours, je dors mieux."
+  },
+  {
+   "fr": "une fois que",
+   "en": "once",
+   "ex": "Une fois que tu auras fini, appelle-moi."
+  },
+  {
+   "fr": "en attendant que",
+   "en": "until, while waiting for (+ subj.)",
+   "ex": "En attendant qu'il arrive, buvons un café."
+  },
+  {
+   "fr": "faire noir",
+   "en": "to be dark",
+   "ex": "Il fait noir à cinq heures en hiver."
+  },
+  {
+   "fr": "passer l'aspirateur",
+   "en": "to vacuum",
+   "ex": "Je passe l'aspirateur le samedi."
+  },
+  {
+   "fr": "jusqu'à temps que",
+   "en": "until (informal)",
+   "ex": "Attends jusqu'à temps que j'arrive.",
+   "qc": true
+  },
+  {
+   "fr": "tant qu'à",
+   "en": "since, while (you're at it)",
+   "ex": "Tant qu'à être là, reste à souper.",
+   "qc": true
+  },
+  {
+   "fr": "la raquette",
+   "en": "snowshoe; snowshoeing",
+   "g": "f",
+   "ex": "On fait de la raquette au mont Royal."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "dès que",
+    "tip": "dè-KUH: open è, like the start of 'deck'."
+   },
+   {
+    "fr": "aussitôt que",
+    "tip": "o-see-TÔ-kuh: long ô in Quebec."
+   },
+   {
+    "fr": "jusqu'à ce que",
+    "tip": "zhuss-ka-suh-KUH: four quick syllables."
+   },
+   {
+    "fr": "jusqu'à temps que",
+    "tip": "Quebec: zhuss-ka-TAN-kuh."
+   },
+   {
+    "fr": "avant qu'il fasse",
+    "tip": "a-van-keel-FASS: liaison-free, the t of avant is silent."
+   },
+   {
+    "fr": "pendant que",
+    "tip": "pan-dan-KUH: two nasal vowels."
+   }
+  ],
+  "title": "Avant la tempête",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Ils annoncent trente centimètres de neige ce soir.",
+    "en": "They're forecasting thirty centimetres of snow tonight."
+   },
+   {
+    "s": "B",
+    "fr": "Il faut faire l'épicerie avant que les routes soient fermées.",
+    "en": "We have to get groceries before the roads are closed."
+   },
+   {
+    "s": "A",
+    "fr": "Je vais y aller dès que j'aurai fini ma réunion.",
+    "en": "I'll go as soon as I've finished my meeting."
+   },
+   {
+    "s": "B",
+    "fr": "Pendant que tu fais les courses, je vais sortir la pelle.",
+    "en": "While you do the shopping, I'll get the shovel out."
+   },
+   {
+    "s": "A",
+    "fr": "Bonne idée. Depuis qu'on a le souffleur, c'est moins pénible.",
+    "en": "Good idea. Since we got the snowblower, it's less of a pain."
+   },
+   {
+    "s": "B",
+    "fr": "Oui, mais il faut attendre jusqu'à ce qu'il arrête de neiger.",
+    "en": "Yes, but we have to wait until it stops snowing."
+   },
+   {
+    "s": "A",
+    "fr": "En attendant que ça se calme, on fera un bon feu.",
+    "en": "Until it calms down, we'll make a nice fire."
+   },
+   {
+    "s": "B",
+    "fr": "Parfait. Texte-moi aussitôt que t'es sorti du magasin.",
+    "en": "Perfect. Text me as soon as you're out of the store."
+   }
+  ],
+  "questions": [
+   {
+    "q": "How much snow is forecast?",
+    "options": [
+     "Ten centimetres",
+     "Twenty centimetres",
+     "Thirty centimetres"
+    ],
+    "a": 2
+   },
+   {
+    "q": "When will A go shopping?",
+    "options": [
+     "Right now",
+     "After the meeting",
+     "Tomorrow morning"
+    ],
+    "a": 1
+   },
+   {
+    "q": "When will they clear the snow?",
+    "options": [
+     "After it stops snowing",
+     "Before it starts",
+     "During the storm"
+    ],
+    "a": 0
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Describe your morning routine with avant de, pendant que and dès que.",
+   "model": "Dès que je me lève, je fais du café. Pendant que le café coule, je prends ma douche. Je déjeune avant de partir."
+  },
+  {
+   "prompt": "Give two instructions to a child using avant que and jusqu'à ce que.",
+   "model": "Rentre avant qu'il fasse noir. Reste au parc jusqu'à ce que j'arrive."
+  },
+  {
+   "prompt": "Say 'Wait until he gets here' in standard French, then the Quebec casual way.",
+   "model": "Attends jusqu'à ce qu'il arrive. / Attends jusqu'à temps qu'y arrive."
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences describing how you prepare for a trip. Use at least four temporal conjunctions, including one with the subjunctive and one with the futur antérieur.",
+  "model": "Avant de partir, je fais toujours une liste. Dès que j'ai réservé l'hôtel, j'imprime la confirmation. Pendant que je fais ma valise, j'écoute de la musique. Je demande à ma voisine d'arroser les plantes jusqu'à ce que je revienne. Aussitôt que je serai arrivé, je lui enverrai un texto."
+ },
+ "quiz": [
+  {
+   "q": "Which takes the indicative?",
+   "options": [
+    "avant que",
+    "jusqu'à ce que",
+    "dès que",
+    "en attendant que"
+   ],
+   "a": 2,
+   "why": "Dès que places the event at a real moment."
+  },
+  {
+   "q": "Je te téléphonerai dès que je ___ les résultats.",
+   "options": [
+    "reçois",
+    "recevrai",
+    "reçoive",
+    "recevrais"
+   ],
+   "a": 1,
+   "why": "Future after dès que."
+  },
+  {
+   "q": "'Tandis que' most often means…",
+   "options": [
+    "until",
+    "whereas",
+    "before",
+    "as soon as"
+   ],
+   "a": 1,
+   "why": "Tandis que often expresses contrast."
+  },
+  {
+   "q": "Choose the best standard sentence.",
+   "options": [
+    "Je mange avant que je parte.",
+    "Je mange avant de partir.",
+    "Je mange avant partir.",
+    "Je mange avant que partir."
+   ],
+   "a": 1,
+   "why": "Same subject → avant de + infinitive."
+  },
+  {
+   "q": "'Jusqu'à temps que' is…",
+   "options": [
+    "incorrect everywhere",
+    "an informal Quebec form of jusqu'à ce que",
+    "a formal written form",
+    "a time expression meaning 'on time'"
+   ],
+   "a": 1,
+   "why": "Common in Quebec speech; write jusqu'à ce que."
+  },
+  {
+   "q": "Une fois que tu ___ fini, envoie-moi le fichier.",
+   "options": [
+    "auras",
+    "aies",
+    "aurais",
+    "avais"
+   ],
+   "a": 0,
+   "why": "Futur antérieur: action completed before the other."
+  },
+  {
+   "q": "In 'avant qu'il ne parte', ne…",
+   "options": [
+    "makes it negative",
+    "is optional and not negative",
+    "is required",
+    "means only"
+   ],
+   "a": 1,
+   "why": "The ne explétif is formal and optional."
+  },
+  {
+   "q": "Après qu'ils ___ partis, on a rangé. (standard)",
+   "options": [
+    "soient",
+    "sont",
+    "seront",
+    "soyent"
+   ],
+   "a": 1,
+   "why": "Après que + indicative."
+  },
+  {
+   "q": "'Tant qu'à être là' means…",
+   "options": [
+    "As long as I'm not there",
+    "Since I'm here anyway",
+    "Until I'm there",
+    "Before I get there"
+   ],
+   "a": 1,
+   "why": "Informal Quebec: since (you're) here anyway."
+  }
+ ]
+}

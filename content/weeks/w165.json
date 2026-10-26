@@ -1,0 +1,628 @@
+{
+ "w": 165,
+ "title": "Mock assessment 2",
+ "goal": "By the end of this lesson you have completed a second full four-skill B2 mock test, compared your results with Mock 1, and identified the skill to target in lesson 166.",
+ "learn": [
+  {
+   "h": "Mock 2: what's different",
+   "body": [
+    "Same four parts as Mock 1 (*compréhension de l'oral, compréhension des écrits, production écrite, production orale*), with new topics and slightly harder tasks: a formal complaint letter, a longer listening passage and a debate-style speaking task.",
+    "After the test, compare with Mock 1: Which skill improved most? Which errors came back? Write three goals for lesson 166 in your *carnet d'erreurs*."
+   ],
+   "table": {
+    "head": [
+     "Part",
+     "Task this lesson",
+     "Time"
+    ],
+    "rows": [
+     [
+      "Oral comprehension",
+      "radio-style interview + 4 questions",
+      "15 min"
+     ],
+     [
+      "Written comprehension",
+      "examples, drills, quiz",
+      "30 min"
+     ],
+     [
+      "Written production",
+      "formal complaint letter, 200–250 words",
+      "50 min"
+     ],
+     [
+      "Oral production",
+      "debate position + role-play",
+      "20 min (+ 10 min prep)"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "What a B2 examiner rewards",
+   "body": [
+    "Task completion: did you answer every part of the instructions? Coherence: clear paragraphs, varied connectors (*d'une part… d'autre part, en revanche, par conséquent, bref*). Range: precise vocabulary, nominalisations, relative clauses, subjunctive, conditional, passive.",
+    "Accuracy: errors are allowed at B2 if they don't block understanding, but recurring errors on gender, agreement, prepositions and moods lower your score."
+   ]
+  },
+  {
+   "h": "The formal complaint letter",
+   "body": [
+    "Structure: sender and date, *Objet :* line, greeting (*Madame, Monsieur,*), the facts (*Le 3 mars dernier, j'ai acheté…*), the problem (*Or, dès la première utilisation…*), the request (*Je vous saurais gré de bien vouloir…*, *Je vous demande donc de…*), a firm but polite close (*Dans l'attente de votre réponse, je vous prie d'agréer…*).",
+    "In Quebec, mention your rights calmly if useful: the *Office de la protection du consommateur* (OPC) handles consumer complaints, and a *mise en demeure* is a formal notice before legal action."
+   ],
+   "tip": "Je vous saurais gré de… = I would be grateful if you… (very formal, perfect for exams)."
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Objet : Demande de remboursement – commande no 45821",
+   "en": "Subject: Refund request – order no. 45821",
+   "note": "formal letter subject line"
+  },
+  {
+   "fr": "Le 3 mars dernier, j'ai acheté un lave-vaisselle dans votre succursale de Laval.",
+   "en": "On March 3, I bought a dishwasher at your Laval branch.",
+   "note": "stating the facts; succursale = branch (Quebec usage)"
+  },
+  {
+   "fr": "Or, dès la première utilisation, l'appareil a cessé de fonctionner.",
+   "en": "However, from the very first use, the appliance stopped working.",
+   "note": "or introduces the problem"
+  },
+  {
+   "fr": "Je vous saurais gré de bien vouloir procéder au remboursement.",
+   "en": "I would be grateful if you would kindly issue the refund.",
+   "note": "very formal request"
+  },
+  {
+   "fr": "À défaut d'une réponse d'ici dix jours, je m'adresserai à l'Office de la protection du consommateur.",
+   "en": "Failing a reply within ten days, I will contact the Office de la protection du consommateur.",
+   "note": "à défaut de = failing"
+  },
+  {
+   "fr": "Les mesures annoncées ont été accueillies avec scepticisme.",
+   "en": "The announced measures were met with scepticism.",
+   "note": "passive voice"
+  },
+  {
+   "fr": "D'une part, la hausse est modeste; d'autre part, elle touche les plus pauvres.",
+   "en": "On the one hand, the increase is modest; on the other, it hits the poorest.",
+   "note": "balanced argument"
+  },
+  {
+   "fr": "La personne à qui j'ai parlé m'a promis un rappel.",
+   "en": "The person I spoke to promised to call me back.",
+   "note": "à qui for people"
+  },
+  {
+   "fr": "Il est indispensable que les règles soient respectées.",
+   "en": "It's essential that the rules be respected.",
+   "note": "necessity → subjunctive"
+  },
+  {
+   "fr": "Si j'avais su, je n'aurais pas signé ce contrat.",
+   "en": "If I had known, I wouldn't have signed this contract.",
+   "note": "past conditional"
+  },
+  {
+   "fr": "La diminution du nombre d'abonnés inquiète la direction.",
+   "en": "The drop in subscribers worries management.",
+   "note": "nominalisation"
+  },
+  {
+   "fr": "Je ne m'attendais pas à ce qu'il réagisse aussi vite.",
+   "en": "I didn't expect him to react so quickly.",
+   "note": "s'attendre à ce que + subjunctive"
+  },
+  {
+   "fr": "Dans l'attente de votre réponse, je vous prie d'agréer mes salutations distinguées.",
+   "en": "Awaiting your reply, yours faithfully.",
+   "note": "formal closing"
+  },
+  {
+   "fr": "Selon l'invitée, la pénurie de main-d'œuvre risque de s'aggraver.",
+   "en": "According to the guest, the labour shortage may get worse.",
+   "note": "reporting a speaker"
+  },
+  {
+   "fr": "Cette décision, je la trouve à la fois courageuse et risquée.",
+   "en": "This decision, I find it both brave and risky.",
+   "note": "dislocation for emphasis (spoken style)"
+  }
+ ],
+ "quebec": {
+  "intro": "Mock 2 listening includes a radio interview with a Quebec guest. Check these spoken features: they speed up speech but rarely change meaning.",
+  "items": [
+   {
+    "std": "Je ne sais pas trop.",
+    "qc": "Chais pas trop.",
+    "en": "I don't really know.",
+    "note": "chais = je sais, ne dropped"
+   },
+   {
+    "std": "Il y a beaucoup de monde.",
+    "qc": "Y'a ben du monde.",
+    "en": "There are lots of people.",
+    "note": "ben du = beaucoup de (informal)"
+   },
+   {
+    "std": "Ils sont en train de travailler.",
+    "qc": "Y sont après travailler.",
+    "en": "They're working right now.",
+    "note": "être après + infinitive = être en train de (popular Quebec)"
+   },
+   {
+    "std": "C'est tout à fait ça.",
+    "qc": "C'est en plein ça.",
+    "en": "That's exactly it.",
+    "note": "en plein ça: common Quebec expression"
+   },
+   {
+    "std": "Elle a magasiné toute la journée.",
+    "qc": "A l'a magasiné toute la journée.",
+    "en": "She went shopping all day.",
+    "note": "magasiner is standard Quebec; 'a l'a' = elle a (informal)"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Which opening suits a formal complaint letter?",
+   "options": [
+    "Salut!",
+    "Madame, Monsieur,",
+    "Allo,",
+    "Cher ami,"
+   ],
+   "a": 1,
+   "why": "Neutral formal greeting."
+  },
+  {
+   "t": "mcq",
+   "q": "'À défaut de réponse' means…",
+   "options": [
+    "Because of a reply",
+    "Failing a reply",
+    "With a faulty reply",
+    "Before replying"
+   ],
+   "a": 1,
+   "why": "à défaut de = in the absence of."
+  },
+  {
+   "t": "mcq",
+   "q": "Je ne m'attendais pas à ce qu'il ___.",
+   "options": [
+    "vient",
+    "vienne",
+    "viendra",
+    "venir"
+   ],
+   "a": 1,
+   "why": "s'attendre à ce que + subjunctive."
+  },
+  {
+   "t": "mcq",
+   "q": "'Y sont après manger' means…",
+   "options": [
+    "They ate after",
+    "They're eating right now",
+    "They'll eat later",
+    "They're after food"
+   ],
+   "a": 1,
+   "why": "être après + infinitive = être en train de."
+  },
+  {
+   "t": "fill",
+   "q": "Je vous saurais ___ de bien vouloir me rembourser.",
+   "a": [
+    "gré"
+   ],
+   "en": "I'd be grateful if you would refund me.",
+   "why": "savoir gré à quelqu'un de."
+  },
+  {
+   "t": "fill",
+   "q": "Si j'avais su, je n'___ pas venu.",
+   "a": [
+    "serais"
+   ],
+   "en": "If I'd known, I wouldn't have come.",
+   "why": "si + plus-que-parfait → conditionnel passé."
+  },
+  {
+   "t": "fill",
+   "q": "La personne à ___ j'ai écrit ne m'a pas répondu.",
+   "a": [
+    "qui",
+    "laquelle"
+   ],
+   "en": "The person I wrote to didn't answer me.",
+   "why": "écrire à quelqu'un → à qui."
+  },
+  {
+   "t": "fill",
+   "q": "D'une part, c'est utile; d'___ part, c'est cher.",
+   "a": [
+    "autre"
+   ],
+   "en": "On the one hand it's useful; on the other it's expensive.",
+   "why": "d'une part… d'autre part."
+  },
+  {
+   "t": "fill",
+   "q": "Il est indispensable que vous ___ présent. (être)",
+   "a": [
+    "soyez"
+   ],
+   "en": "It's essential that you be present.",
+   "why": "necessity → subjunctive."
+  },
+  {
+   "t": "build",
+   "en": "The appliance stopped working.",
+   "a": "L'appareil a cessé de fonctionner."
+  },
+  {
+   "t": "build",
+   "en": "The measures were met with scepticism.",
+   "a": "Les mesures ont été accueillies avec scepticisme."
+  },
+  {
+   "t": "build",
+   "en": "That's exactly it.",
+   "a": "C'est tout à fait ça."
+  },
+  {
+   "t": "translate",
+   "en": "I'm requesting a refund.",
+   "a": [
+    "Je demande un remboursement.",
+    "Je vous demande un remboursement.",
+    "Je sollicite un remboursement.",
+    "Je demande à être remboursé.",
+    "Je demande à être remboursée."
+   ],
+   "why": "demander un remboursement."
+  },
+  {
+   "t": "translate",
+   "en": "If I had known, I wouldn't have signed.",
+   "a": [
+    "Si j'avais su, je n'aurais pas signé.",
+    "Si j'avais su, j'aurais pas signé."
+   ],
+   "why": "si + plus-que-parfait, conditionnel passé."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "la lettre de réclamation",
+   "en": "complaint letter",
+   "g": "f",
+   "ex": "J'ai envoyé une lettre de réclamation au fabricant."
+  },
+  {
+   "fr": "l'objet",
+   "en": "subject line; object",
+   "g": "m",
+   "ex": "Précisez l'objet de votre lettre."
+  },
+  {
+   "fr": "le remboursement",
+   "en": "refund",
+   "g": "m",
+   "ex": "J'attends toujours mon remboursement."
+  },
+  {
+   "fr": "la succursale",
+   "en": "branch (store, bank)",
+   "g": "f",
+   "ex": "La succursale de Laval ferme à 21 h."
+  },
+  {
+   "fr": "la mise en demeure",
+   "en": "formal notice (legal)",
+   "g": "f",
+   "ex": "Il a reçu une mise en demeure de son locateur.",
+   "qc": true
+  },
+  {
+   "fr": "le locateur / la locatrice",
+   "en": "landlord (Quebec legal term)",
+   "ex": "Le locateur doit chauffer le logement.",
+   "qc": true
+  },
+  {
+   "fr": "à défaut de",
+   "en": "failing, in the absence of",
+   "ex": "À défaut de paiement, le contrat est annulé."
+  },
+  {
+   "fr": "savoir gré à quelqu'un de",
+   "en": "to be grateful to someone for",
+   "ex": "Je vous saurais gré de me répondre rapidement."
+  },
+  {
+   "fr": "s'attendre à ce que",
+   "en": "to expect that (+ subjunctive)",
+   "ex": "Je m'attends à ce qu'il refuse."
+  },
+  {
+   "fr": "accueillir",
+   "en": "to receive, welcome",
+   "ex": "La nouvelle a été bien accueillie."
+  },
+  {
+   "fr": "d'une part… d'autre part",
+   "en": "on the one hand… on the other",
+   "ex": "D'une part c'est rapide, d'autre part c'est fiable."
+  },
+  {
+   "fr": "la garantie",
+   "en": "warranty",
+   "g": "f",
+   "ex": "L'appareil est encore sous garantie."
+  },
+  {
+   "fr": "magasiner",
+   "en": "to shop (Quebec)",
+   "ex": "On a magasiné tout l'après-midi.",
+   "qc": true
+  },
+  {
+   "fr": "en plein ça",
+   "en": "exactly that (familiar)",
+   "ex": "C'est en plein ça que je voulais dire!",
+   "qc": true
+  },
+  {
+   "fr": "être après + infinitif",
+   "en": "to be in the middle of doing (popular Quebec)",
+   "ex": "J'suis après souper, j'te rappelle.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "chais pas",
+    "tip": "[ʃɛpa]: je ne sais pas, fully fused."
+   },
+   {
+    "fr": "y'a ben du monde",
+    "tip": "yab-BIN-dü-MONDE: ben is nasal [bɛ̃]."
+   },
+   {
+    "fr": "succursale",
+    "tip": "sy-kyr-SAL."
+   },
+   {
+    "fr": "remboursement",
+    "tip": "ran-boor-suh-MAN."
+   },
+   {
+    "fr": "je vous saurais gré",
+    "tip": "juh-voo-so-rè-GRÉ."
+   },
+   {
+    "fr": "en plein ça",
+    "tip": "an-plin-SA."
+   }
+  ],
+  "title": "Entrevue : la pénurie de main-d'œuvre",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Bonjour et bienvenue. Mon invitée dirige une PME de Drummondville. Madame Roy, comment ça va dans votre entreprise?",
+    "en": "Hello and welcome. My guest runs a small business in Drummondville. Ms. Roy, how are things at your company?"
+   },
+   {
+    "s": "B",
+    "fr": "Ben, honnêtement, c'est difficile. Il nous manque une quinzaine d'employés depuis un an.",
+    "en": "Well, honestly, it's hard. We've been short about fifteen employees for a year."
+   },
+   {
+    "s": "A",
+    "fr": "Quelles sont les conséquences?",
+    "en": "What are the consequences?"
+   },
+   {
+    "s": "B",
+    "fr": "On a dû refuser des contrats. Pis les employés qui restent font beaucoup d'heures supplémentaires.",
+    "en": "We've had to turn down contracts. And the remaining employees work a lot of overtime."
+   },
+   {
+    "s": "A",
+    "fr": "Avez-vous essayé de recruter à l'étranger?",
+    "en": "Have you tried recruiting abroad?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, on a accueilli six travailleurs de Tunisie l'an passé. C'est en plein ça qu'il nous fallait.",
+    "en": "Yes, we welcomed six workers from Tunisia last year. That's exactly what we needed."
+   },
+   {
+    "s": "A",
+    "fr": "Mais le processus est long, non?",
+    "en": "But the process is long, isn't it?"
+   },
+   {
+    "s": "B",
+    "fr": "Très long. Près d'un an. Il faudrait que les gouvernements simplifient les démarches.",
+    "en": "Very long. Almost a year. The governments should simplify the procedures."
+   },
+   {
+    "s": "A",
+    "fr": "Et l'automatisation, c'est une solution?",
+    "en": "And automation, is that a solution?"
+   },
+   {
+    "s": "B",
+    "fr": "En partie. Chais pas si ça va tout régler, mais on vient d'acheter deux robots pour l'emballage.",
+    "en": "Partly. I don't know if it'll solve everything, but we just bought two robots for packaging."
+   }
+  ],
+  "questions": [
+   {
+    "q": "How many employees is the company short?",
+    "options": [
+     "About five",
+     "About fifteen",
+     "About fifty"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Where did the foreign workers come from?",
+    "options": [
+     "France",
+     "Tunisia",
+     "Mexico"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does Ms. Roy ask of governments?",
+    "options": [
+     "Lower taxes",
+     "Simpler procedures",
+     "Higher wages"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What did the company buy?",
+    "options": [
+     "A new building",
+     "Two packaging robots",
+     "Trucks"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Debate position (3 minutes, 10 min prep): 'Faut-il interdire les téléphones cellulaires à l'école secondaire?' Take a side, give two arguments, answer one objection.",
+   "model": "Je suis favorable à l'interdiction des cellulaires en classe. D'une part, ils nuisent à la concentration : un élève qui reçoit des notifications perd le fil du cours. D'autre part, ils favorisent la cyberintimidation pendant les pauses. On pourrait objecter que le téléphone est un outil pédagogique. Je vous accorde qu'il peut être utile, mais l'école dispose d'ordinateurs pour ça. Bref, l'interdiction protège à la fois l'apprentissage et le bien-être des jeunes."
+  },
+  {
+   "prompt": "Role-play: you bought a winter coat that tore after a week. Ask the store manager for an exchange or refund.",
+   "model": "Bonjour, j'ai acheté ce manteau ici il y a une semaine, et la couture de la manche s'est déchirée. Voici ma facture. J'aimerais l'échanger ou être remboursé. Je m'attendais à ce qu'un manteau de ce prix dure plus d'une semaine."
+  },
+  {
+   "prompt": "Compare your Mock 1 and Mock 2 results aloud in 4–5 sentences.",
+   "model": "Depuis le premier examen blanc, ma compréhension orale s'est nettement améliorée. En revanche, je fais encore des erreurs de prépositions à l'écrit. Mon expression orale est plus fluide, même si je cherche parfois mes mots. La semaine prochaine, je vais donc travailler surtout les prépositions."
+  }
+ ],
+ "write": {
+  "prompt": "Production écrite (50 minutes, 200–250 words): Your online order arrived damaged and customer service hasn't answered your two emails. Write a formal complaint letter.",
+  "model": "Montréal, le 14 novembre. Objet : Réclamation – commande no 45821. Madame, Monsieur, Le 2 novembre dernier, j'ai commandé sur votre site une table de cuisine au prix de 649 $. La livraison a eu lieu le 9 novembre. Or, dès l'ouverture de la boîte, j'ai constaté que le plateau était fissuré et qu'il manquait deux pattes. J'ai aussitôt écrit à votre service à la clientèle, le 9 puis le 11 novembre, en joignant des photos. À ce jour, je n'ai reçu aucune réponse, ce que je trouve inacceptable de la part d'une entreprise de votre réputation. Je vous saurais donc gré de bien vouloir, au choix, me faire livrer une table neuve dans les plus brefs délais ou procéder au remboursement intégral de ma commande, frais de livraison compris. Je vous rappelle que la Loi sur la protection du consommateur oblige le commerçant à fournir un bien conforme à la description. À défaut d'une réponse de votre part d'ici dix jours, je me verrai dans l'obligation de porter plainte auprès de l'Office de la protection du consommateur. Dans l'attente de votre réponse, je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées. Rishad"
+ },
+ "quiz": [
+  {
+   "q": "In a formal letter, 'Or, …' introduces…",
+   "options": [
+    "an alternative",
+    "the problem / contradicting fact",
+    "the greeting",
+    "the signature"
+   ],
+   "a": 1,
+   "why": "or = yet, however."
+  },
+  {
+   "q": "Which Quebec body handles consumer complaints?",
+   "options": [
+    "Hydro-Québec",
+    "L'Office de la protection du consommateur",
+    "La SAQ",
+    "Revenu Québec"
+   ],
+   "a": 1,
+   "why": "OPC."
+  },
+  {
+   "q": "'Une mise en demeure' is…",
+   "options": [
+    "a house sale",
+    "a formal legal notice",
+    "a moving day",
+    "a rental contract"
+   ],
+   "a": 1,
+   "why": "A formal demand before legal action."
+  },
+  {
+   "q": "Which sentence is in the passive?",
+   "options": [
+    "On a accepté la proposition.",
+    "La proposition a été acceptée.",
+    "Ils acceptent la proposition.",
+    "Accepte la proposition."
+   ],
+   "a": 1,
+   "why": "être + past participle."
+  },
+  {
+   "q": "'C'est en plein ça' means…",
+   "options": [
+    "It's full",
+    "That's exactly it",
+    "It's in the middle",
+    "It's over"
+   ],
+   "a": 1,
+   "why": "Familiar Quebec: exactly that."
+  },
+  {
+   "q": "s'attendre à ce que + …",
+   "options": [
+    "indicative",
+    "subjunctive",
+    "infinitive",
+    "future"
+   ],
+   "a": 1,
+   "why": "Je m'attends à ce qu'il vienne."
+  },
+  {
+   "q": "In Quebec legal language, the landlord is…",
+   "options": [
+    "le locataire",
+    "le locateur",
+    "le loueur de char",
+    "le propriétaire-locataire"
+   ],
+   "a": 1,
+   "why": "locateur (landlord) vs locataire (tenant)."
+  },
+  {
+   "q": "What should you do right after a mock exam?",
+   "options": [
+    "Forget it",
+    "Compare results and set goals",
+    "Retake it immediately",
+    "Only check the score"
+   ],
+   "a": 1,
+   "why": "Use the results to target your next week."
+  },
+  {
+   "q": "'Je vous saurais gré de…' is…",
+   "options": [
+    "familiar",
+    "neutral",
+    "very formal",
+    "incorrect"
+   ],
+   "a": 2,
+   "why": "A classic formal request formula."
+  }
+ ]
+}

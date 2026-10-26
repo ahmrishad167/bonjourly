@@ -1,0 +1,656 @@
+{
+ "w": 61,
+ "title": "Jobs and the workplace",
+ "goal": "By the end of this lesson you can say what you do for a living, name common professions in the masculine and feminine, describe your schedule and working conditions, and handle simple workplace conversations.",
+ "learn": [
+  {
+   "h": "Saying what you do",
+   "body": [
+    "With *être*, professions take **no article**: *Je suis infirmière.* *Il est électricien.* (Not *je suis une infirmière*.)",
+    "With *c'est*, you need an article: *C'est un bon médecin. C'est une avocate.* Other ways: *Je travaille comme serveur* (I work as a waiter), *Je travaille chez Desjardins / dans une banque / en informatique*."
+   ],
+   "tip": "Je suis + job (no article). C'est un / une + job."
+  },
+  {
+   "h": "Masculine and feminine job titles",
+   "body": [
+    "Most job titles have a feminine form. Quebec led the way in feminising titles, so forms like *une ingénieure, une professeure, une auteure* are standard in Quebec.",
+    "Common patterns: *-ier → -ière*, *-eur → -euse* or *-rice*, *-ien → -ienne*, and some words are the same for both (*un / une architecte, un / une dentiste*)."
+   ],
+   "table": {
+    "head": [
+     "Masculine",
+     "Feminine",
+     "Meaning"
+    ],
+    "rows": [
+     [
+      "infirmier",
+      "infirmière",
+      "nurse"
+     ],
+     [
+      "vendeur",
+      "vendeuse",
+      "salesperson"
+     ],
+     [
+      "directeur",
+      "directrice",
+      "director, manager"
+     ],
+     [
+      "électricien",
+      "électricienne",
+      "electrician"
+     ],
+     [
+      "ingénieur",
+      "ingénieure",
+      "engineer"
+     ],
+     [
+      "professeur",
+      "professeure",
+      "teacher, professor"
+     ],
+     [
+      "comptable",
+      "comptable",
+      "accountant"
+     ],
+     [
+      "avocat",
+      "avocate",
+      "lawyer"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Working conditions",
+   "body": [
+    "*Travailler à temps plein / à temps partiel* (full-time / part-time), *de jour / de soir / de nuit*, *du lundi au vendredi*, *de 9 h à 17 h*, *en télétravail* (remotely).",
+    "*Le salaire* (salary), *gagner* (to earn): *Je gagne vingt-cinq dollars de l'heure.* *Les vacances*, *un congé* (day off, leave), *un congé de maternité / parental*, *être en congé de maladie*."
+   ]
+  },
+  {
+   "h": "Looking for a job",
+   "body": [
+    "*Chercher un emploi*, *postuler* (to apply), *envoyer son CV*, *passer une entrevue* (Quebec; France says *un entretien*), *être embauché* (to be hired), *être congédié / renvoyé* (to be fired), *démissionner* (to resign), *prendre sa retraite* (to retire).",
+    "Polite questions in an interview: *Quelles sont vos disponibilités?* (When are you available?) *Quand pouvez-vous commencer?*"
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Je suis infirmière à l'hôpital Sainte-Justine.",
+   "en": "I'm a nurse at Sainte-Justine Hospital.",
+   "note": "no article after être"
+  },
+  {
+   "fr": "Mon frère est électricien.",
+   "en": "My brother is an electrician.",
+   "note": "no article"
+  },
+  {
+   "fr": "C'est une excellente ingénieure.",
+   "en": "She's an excellent engineer.",
+   "note": "c'est une + adjective + job"
+  },
+  {
+   "fr": "Je travaille comme serveur dans un resto du Plateau.",
+   "en": "I work as a waiter in a restaurant on the Plateau.",
+   "note": "travailler comme"
+  },
+  {
+   "fr": "Elle travaille à temps partiel les fins de semaine.",
+   "en": "She works part-time on weekends.",
+   "note": "à temps partiel"
+  },
+  {
+   "fr": "Je travaille de nuit cette semaine.",
+   "en": "I'm working nights this week.",
+   "note": "de nuit"
+  },
+  {
+   "fr": "Je gagne vingt-huit dollars de l'heure.",
+   "en": "I earn twenty-eight dollars an hour.",
+   "note": "de l'heure = per hour"
+  },
+  {
+   "fr": "J'ai envoyé mon CV à trois entreprises.",
+   "en": "I sent my résumé to three companies.",
+   "note": "le CV"
+  },
+  {
+   "fr": "J'ai une entrevue demain à dix heures.",
+   "en": "I have an interview tomorrow at ten.",
+   "note": "entrevue: Quebec usage"
+  },
+  {
+   "fr": "Elle a été embauchée la semaine passée.",
+   "en": "She was hired last week.",
+   "note": "passive: a été embauchée"
+  },
+  {
+   "fr": "Mon père prendra sa retraite l'an prochain.",
+   "en": "My father will retire next year.",
+   "note": "futur simple"
+  },
+  {
+   "fr": "Je fais du télétravail deux jours par semaine.",
+   "en": "I work from home two days a week.",
+   "note": "le télétravail"
+  },
+  {
+   "fr": "Ma collègue est en congé de maternité.",
+   "en": "My colleague is on maternity leave.",
+   "note": "en congé de"
+  },
+  {
+   "fr": "Il a démissionné parce qu'il était épuisé.",
+   "en": "He resigned because he was exhausted.",
+   "note": "passé composé + imparfait"
+  },
+  {
+   "fr": "Quand pouvez-vous commencer?",
+   "en": "When can you start?",
+   "note": "interview question (vous)"
+  },
+  {
+   "fr": "On dîne à midi à la cafétéria.",
+   "en": "We have lunch at noon in the cafeteria.",
+   "note": "dîner = lunch in Quebec"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebec workplaces have their own vocabulary. 'Job' is feminine in Quebec ('une job'; in France 'un job'), overtime is 'du temps supplémentaire' (accepted in Quebec; elsewhere 'des heures supplémentaires'), and in casual talk the boss is 'le boss'. You'll also hear 'un shift' or 'un chiffre' for a work shift.",
+  "items": [
+   {
+    "std": "J'ai trouvé un emploi.",
+    "qc": "J'me suis trouvé une job.",
+    "en": "I found a job.",
+    "note": "une job: feminine in Quebec; informal"
+   },
+   {
+    "std": "Je fais des heures supplémentaires.",
+    "qc": "Je fais du temps supplémentaire.",
+    "en": "I'm working overtime.",
+    "note": "common and accepted in Quebec; 'du overtime' is also heard (informal)"
+   },
+   {
+    "std": "Mon patron est gentil.",
+    "qc": "Mon boss est ben correct.",
+    "en": "My boss is pretty nice.",
+    "note": "le boss; informal"
+   },
+   {
+    "std": "Je travaille par quarts de nuit.",
+    "qc": "J'fais des shifts de nuit.",
+    "en": "I work night shifts.",
+    "note": "quart de travail is the standard term; shift is informal"
+   },
+   {
+    "std": "Il a quitté son emploi.",
+    "qc": "Y'a lâché sa job.",
+    "en": "He quit his job.",
+    "note": "lâcher = to quit; informal"
+   },
+   {
+    "std": "Je touche l'assurance-emploi.",
+    "qc": "Chu sur le chômage.",
+    "en": "I'm on EI (unemployment).",
+    "note": "the official program is l'assurance-emploi; informal"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Which is correct?",
+   "options": [
+    "Je suis un dentiste.",
+    "Je suis dentiste.",
+    "Je suis le dentiste de profession.",
+    "Je dentiste."
+   ],
+   "a": 1,
+   "why": "No article after être + profession."
+  },
+  {
+   "t": "mcq",
+   "q": "Feminine of 'directeur':",
+   "options": [
+    "directeuse",
+    "directrice",
+    "directeure",
+    "directière"
+   ],
+   "a": 1,
+   "why": "-teur → -trice."
+  },
+  {
+   "t": "mcq",
+   "q": "In Quebec, 'une entrevue' is…",
+   "options": [
+    "a job interview",
+    "a view",
+    "a meeting room",
+    "a salary"
+   ],
+   "a": 0,
+   "why": "Entrevue = interview (France: entretien)."
+  },
+  {
+   "t": "mcq",
+   "q": "'Je travaille à temps partiel' means…",
+   "options": [
+    "I work full-time",
+    "I work part-time",
+    "I work overtime",
+    "I work from home"
+   ],
+   "a": 1,
+   "why": "Temps partiel = part-time."
+  },
+  {
+   "t": "fill",
+   "q": "Ma sœur est ___. (nurse, f)",
+   "a": [
+    "infirmière"
+   ],
+   "en": "My sister is a nurse.",
+   "why": "Infirmier → infirmière."
+  },
+  {
+   "t": "fill",
+   "q": "C'est ___ bon avocat. (a)",
+   "a": [
+    "un"
+   ],
+   "en": "He's a good lawyer.",
+   "why": "C'est + article."
+  },
+  {
+   "t": "fill",
+   "q": "Je gagne vingt dollars ___ l'heure. (per)",
+   "a": [
+    "de"
+   ],
+   "en": "I earn twenty dollars an hour.",
+   "why": "De l'heure = per hour."
+  },
+  {
+   "t": "fill",
+   "q": "Mon grand-père a pris sa ___ à 65 ans. (retirement)",
+   "a": [
+    "retraite"
+   ],
+   "en": "My grandfather retired at 65.",
+   "why": "Prendre sa retraite."
+  },
+  {
+   "t": "build",
+   "en": "I work as a cashier.",
+   "a": "Je travaille comme caissier."
+  },
+  {
+   "t": "build",
+   "en": "I have an interview tomorrow.",
+   "a": "J'ai une entrevue demain."
+  },
+  {
+   "t": "build",
+   "en": "She was hired last week.",
+   "a": "Elle a été embauchée la semaine passée."
+  },
+  {
+   "t": "translate",
+   "en": "What do you do for a living?",
+   "a": [
+    "Qu'est-ce que tu fais dans la vie?",
+    "Qu'est-ce que vous faites dans la vie?",
+    "Que faites-vous dans la vie?",
+    "Tu fais quoi dans la vie?"
+   ],
+   "why": "Fixed question: faire dans la vie."
+  },
+  {
+   "t": "translate",
+   "en": "I'm an engineer.",
+   "a": [
+    "Je suis ingénieur.",
+    "Je suis ingénieure."
+   ],
+   "why": "No article; feminine ingénieure."
+  },
+  {
+   "t": "translate",
+   "en": "I found a job!",
+   "a": [
+    "J'ai trouvé un emploi!",
+    "J'ai trouvé un travail!",
+    "J'ai trouvé une job!",
+    "Je me suis trouvé une job!",
+    "Je me suis trouvé un emploi!"
+   ],
+   "why": "Emploi (standard) or une job (Quebec, informal)."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "l'emploi",
+   "en": "job, employment",
+   "g": "m",
+   "ex": "Je cherche un emploi."
+  },
+  {
+   "fr": "le travail",
+   "en": "work, job",
+   "g": "m",
+   "ex": "Je vais au travail en métro."
+  },
+  {
+   "fr": "la job",
+   "en": "job (informal)",
+   "g": "f",
+   "ex": "J'aime ma job.",
+   "qc": true
+  },
+  {
+   "fr": "le / la collègue",
+   "en": "co-worker",
+   "ex": "Ma collègue est en vacances."
+  },
+  {
+   "fr": "le patron / la patronne",
+   "en": "boss",
+   "ex": "Le patron est en réunion."
+  },
+  {
+   "fr": "le salaire",
+   "en": "salary, wages",
+   "g": "m",
+   "ex": "Un bon salaire."
+  },
+  {
+   "fr": "à temps plein / partiel",
+   "en": "full-time / part-time",
+   "ex": "Je travaille à temps plein."
+  },
+  {
+   "fr": "l'entrevue",
+   "en": "job interview",
+   "g": "f",
+   "ex": "Une entrevue d'embauche.",
+   "qc": true
+  },
+  {
+   "fr": "le CV",
+   "en": "résumé, CV",
+   "g": "m",
+   "ex": "Envoie-moi ton CV."
+  },
+  {
+   "fr": "postuler",
+   "en": "to apply (for a job)",
+   "ex": "J'ai postulé chez Hydro-Québec."
+  },
+  {
+   "fr": "embaucher",
+   "en": "to hire",
+   "ex": "Ils embauchent des étudiants."
+  },
+  {
+   "fr": "démissionner",
+   "en": "to resign, quit",
+   "ex": "Elle a démissionné."
+  },
+  {
+   "fr": "le congé",
+   "en": "day off, leave",
+   "g": "m",
+   "ex": "Je suis en congé lundi."
+  },
+  {
+   "fr": "le télétravail",
+   "en": "remote work",
+   "g": "m",
+   "ex": "Je fais du télétravail."
+  },
+  {
+   "fr": "le temps supplémentaire",
+   "en": "overtime",
+   "g": "m",
+   "ex": "J'ai fait du temps supplémentaire.",
+   "qc": true
+  },
+  {
+   "fr": "le boss",
+   "en": "boss (informal)",
+   "g": "m",
+   "ex": "Le boss est de bonne humeur.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "infirmier / infirmière",
+    "tip": "in-fir-MYÉ / in-fir-MYÈR."
+   },
+   {
+    "fr": "ingénieur / ingénieure",
+    "tip": "Both [in-jé-nyeur]: same sound."
+   },
+   {
+    "fr": "entrevue",
+    "tip": "ahn-truh-VU; in fast speech the e drops: ahn-tr'VU."
+   },
+   {
+    "fr": "temps partiel",
+    "tip": "tahn par-SYÈL; Quebec: par-TSYÈL."
+   },
+   {
+    "fr": "une job",
+    "tip": "Quebec: [une djob], like English."
+   },
+   {
+    "fr": "temps supplémentaire",
+    "tip": "tahn su-plé-mahn-TÈR."
+   }
+  ],
+  "title": "L'entrevue d'embauche",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Bonjour, madame Tremblay. Merci d'être venue. Parlez-moi de votre expérience.",
+    "en": "Hello, Ms. Tremblay. Thank you for coming. Tell me about your experience."
+   },
+   {
+    "s": "B",
+    "fr": "J'ai travaillé cinq ans comme vendeuse dans une quincaillerie, puis deux ans comme gérante.",
+    "en": "I worked five years as a salesperson in a hardware store, then two years as a manager."
+   },
+   {
+    "s": "A",
+    "fr": "Pourquoi voulez-vous quitter votre emploi actuel?",
+    "en": "Why do you want to leave your current job?"
+   },
+   {
+    "s": "B",
+    "fr": "Je veux de nouveaux défis, et le poste est plus près de chez moi.",
+    "en": "I want new challenges, and the position is closer to home."
+   },
+   {
+    "s": "A",
+    "fr": "Le poste est à temps plein, du lundi au vendredi. Il y a parfois du temps supplémentaire.",
+    "en": "The position is full-time, Monday to Friday. There's sometimes overtime."
+   },
+   {
+    "s": "B",
+    "fr": "Ça me convient. Quel est le salaire?",
+    "en": "That suits me. What is the salary?"
+   },
+   {
+    "s": "A",
+    "fr": "Cinquante-deux mille dollars par année, avec trois semaines de vacances. Quand pouvez-vous commencer?",
+    "en": "Fifty-two thousand dollars a year, with three weeks of vacation. When can you start?"
+   },
+   {
+    "s": "B",
+    "fr": "Dans deux semaines. Je dois donner ma démission à mon patron.",
+    "en": "In two weeks. I have to give my notice to my boss."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What was B's last role at the hardware store?",
+    "options": [
+     "Cashier",
+     "Manager",
+     "Accountant"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What is the salary?",
+    "options": [
+     "$42,000",
+     "$52,000",
+     "$62,000"
+    ],
+    "a": 1
+   },
+   {
+    "q": "When can B start?",
+    "options": [
+     "Tomorrow",
+     "In two weeks",
+     "Next month"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Introduce your job in 4 sentences: what you do, where, your schedule, and what you like about it.",
+   "model": "Je suis comptable. Je travaille dans une petite entreprise à Laval. Je travaille à temps plein, du lundi au vendredi, et je fais du télétravail le vendredi. J'aime mes collègues."
+  },
+  {
+   "prompt": "Answer these interview questions: 'Parlez-moi de vous.' 'Quand pouvez-vous commencer?'",
+   "model": "Je m'appelle Alex, je suis ingénieur et j'ai sept ans d'expérience. Je peux commencer dans deux semaines."
+  },
+  {
+   "prompt": "Tell a friend Quebec style that you found a job, but you'll be doing overtime.",
+   "model": "J'me suis trouvé une job! Mais j'vas faire du temps supplémentaire."
+  }
+ ],
+ "write": {
+  "prompt": "Write a 6–7 sentence short professional profile (like LinkedIn) in French: current job, past experience (passé composé / imparfait), skills, and what you're looking for (futur or vouloir).",
+  "model": "Je suis gestionnaire de projets dans une entreprise de logiciels à Montréal. Avant, je travaillais comme analyste dans une banque. J'ai géré des équipes de dix personnes. Je parle anglais couramment et je parle français tous les jours au travail. J'aime résoudre des problèmes et travailler en équipe. Je cherche un poste à temps plein avec plus de responsabilités."
+ },
+ "quiz": [
+  {
+   "q": "'He's a lawyer' =",
+   "options": [
+    "Il est un avocat.",
+    "Il est avocat.",
+    "C'est avocat.",
+    "Il avocat."
+   ],
+   "a": 1,
+   "why": "Être + profession without article."
+  },
+  {
+   "q": "Feminine of 'vendeur':",
+   "options": [
+    "vendrice",
+    "vendeuse",
+    "vendeure",
+    "vendière"
+   ],
+   "a": 1,
+   "why": "-eur → -euse."
+  },
+  {
+   "q": "In Quebec, 'job' is…",
+   "options": [
+    "masculine",
+    "feminine",
+    "both, equally",
+    "never used"
+   ],
+   "a": 1,
+   "why": "Une job in Quebec; un job in France."
+  },
+  {
+   "q": "'Faire du temps supplémentaire' means…",
+   "options": [
+    "to take extra vacation",
+    "to work overtime",
+    "to be late",
+    "to work part-time"
+   ],
+   "a": 1,
+   "why": "Temps supplémentaire = overtime."
+  },
+  {
+   "q": "'Être embauché' means…",
+   "options": [
+    "to be fired",
+    "to be hired",
+    "to be promoted",
+    "to be retired"
+   ],
+   "a": 1,
+   "why": "Embaucher = to hire."
+  },
+  {
+   "q": "'Démissionner' means…",
+   "options": [
+    "to hire",
+    "to resign",
+    "to complain",
+    "to retire"
+   ],
+   "a": 1,
+   "why": "Démissionner = to quit, resign."
+  },
+  {
+   "q": "What does 'dîner' mean in Quebec?",
+   "options": [
+    "breakfast",
+    "lunch",
+    "supper",
+    "a snack"
+   ],
+   "a": 1,
+   "why": "Déjeuner / dîner / souper in Quebec."
+  },
+  {
+   "q": "'Y'a lâché sa job' means…",
+   "options": [
+    "He lost his job",
+    "He quit his job",
+    "He got a job",
+    "He loves his job"
+   ],
+   "a": 1,
+   "why": "Lâcher = to quit."
+  },
+  {
+   "q": "Which is NOT a feminine job title used in Quebec?",
+   "options": [
+    "ingénieure",
+    "professeure",
+    "auteure",
+    "docteuse"
+   ],
+   "a": 3,
+   "why": "The feminine is docteure (or médecin)."
+  }
+ ]
+}

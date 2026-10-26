@@ -1,0 +1,643 @@
+{
+ "w": 95,
+ "title": "Passive voice",
+ "goal": "By the end of this lesson you can form the passive with être in any tense, choose par or de for the agent, and use the everyday alternatives: on, the pronominal passive and se faire + infinitive.",
+ "learn": [
+  {
+   "h": "Forming the passive: être + past participle",
+   "body": [
+    "In the passive, the object of an active sentence becomes the subject: *Le maire inaugure le pont.* → *Le pont est inauguré par le maire.*",
+    "The passive is *être* + past participle, and the participle agrees with the subject like an adjective: *La maison a été vendue. Les billets sont vendus en ligne.*",
+    "The tense is carried by *être*. Everything else stays the same."
+   ],
+   "table": {
+    "head": [
+     "Tense",
+     "Passive",
+     "English"
+    ],
+    "rows": [
+     [
+      "présent",
+      "La route est fermée.",
+      "The road is closed."
+     ],
+     [
+      "passé composé",
+      "La route a été fermée.",
+      "The road was closed / has been closed."
+     ],
+     [
+      "imparfait",
+      "La route était fermée.",
+      "The road was (being kept) closed."
+     ],
+     [
+      "futur",
+      "La route sera fermée.",
+      "The road will be closed."
+     ],
+     [
+      "conditionnel",
+      "La route serait fermée.",
+      "The road would be closed."
+     ],
+     [
+      "subjonctif",
+      "Il faut que la route soit fermée.",
+      "The road has to be closed."
+     ]
+    ]
+   },
+   "tip": "Passé composé passive = avoir été + participle: a été construit, ont été arrêtés."
+  },
+  {
+   "h": "Par or de for the agent",
+   "body": [
+    "The agent (who does the action) is usually introduced by *par*: *Le contrat a été signé par la directrice.*",
+    "With verbs of feeling and description, and with states, use *de*: *aimé de tous, respecté de ses collègues, couvert de neige, entouré d'arbres, suivi de*.",
+    "Very often the agent is left out entirely: *Les écoles sont fermées aujourd'hui.*"
+   ]
+  },
+  {
+   "h": "What can be passive",
+   "body": [
+    "Only verbs with a direct object can become passive. Verbs with *à* cannot: *On m'a donné un livre* cannot become *J'ai été donné un livre*. English 'I was given a book' must be translated with *on*: *On m'a donné un livre.*",
+    "Likewise: 'I was told that…' → *On m'a dit que…*; 'She was asked to…' → *On lui a demandé de…*."
+   ],
+   "tip": "If English has 'I was given / told / asked / sent', think 'on'."
+  },
+  {
+   "h": "Alternatives French prefers",
+   "body": [
+    "Spoken French uses the passive less than English. Three common alternatives:",
+    "1. *On*: *On a volé mon vélo.* (My bike was stolen.)",
+    "2. Pronominal passive for general truths, habits, rules: *Le français se parle partout au Québec. Ce vin se boit frais. Ça ne se fait pas.*",
+    "3. *Se faire* + infinitive, especially when something happens to a person: *Il s'est fait arrêter.* (He got arrested.) *Je me suis fait voler mon portefeuille.* (I got my wallet stolen.) The participle *fait* does not agree here: *Elle s'est fait opérer.*"
+   ]
+  },
+  {
+   "h": "Quebec: se faire everywhere",
+   "body": [
+    "Quebec speech uses *se faire* + infinitive constantly, often where English uses 'got' or 'was': *J'me suis fait voler mon char.* *Y s'est fait pogner par la police.* (He got caught by the police; *pogner* is informal.)",
+    "Very typical of Quebec: *se faire dire que* = to be told that: *Je me suis fait dire que c'était fermé.* Standard alternative: *On m'a dit que c'était fermé.* Also *se faire avoir* (to get ripped off / fooled) and the expression *se faire passer un sapin* (to be duped, informal)."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Le pont Champlain a été construit en 2019.",
+   "en": "The Champlain Bridge was built in 2019.",
+   "note": "passé composé passive: a été + participle"
+  },
+  {
+   "fr": "Les billets sont vendus en ligne seulement.",
+   "en": "Tickets are sold online only.",
+   "note": "agreement: vendus (m pl)"
+  },
+  {
+   "fr": "La décision sera annoncée demain.",
+   "en": "The decision will be announced tomorrow.",
+   "note": "future passive; agreement annoncée (f)"
+  },
+  {
+   "fr": "Le contrat a été signé par la directrice.",
+   "en": "The contract was signed by the director.",
+   "note": "agent with par"
+  },
+  {
+   "fr": "Cette professeure est aimée de tous ses élèves.",
+   "en": "This teacher is loved by all her students.",
+   "note": "feeling → de"
+  },
+  {
+   "fr": "Le chalet est entouré d'arbres.",
+   "en": "The cottage is surrounded by trees.",
+   "note": "state → de"
+  },
+  {
+   "fr": "La voiture était couverte de neige.",
+   "en": "The car was covered with snow.",
+   "note": "description → de"
+  },
+  {
+   "fr": "On m'a donné un livre pour ma fête.",
+   "en": "I was given a book for my birthday.",
+   "note": "donner à → no passive; use on"
+  },
+  {
+   "fr": "On m'a dit que le bureau était fermé.",
+   "en": "I was told the office was closed.",
+   "note": "on for 'I was told'"
+  },
+  {
+   "fr": "On a volé mon vélo devant le métro.",
+   "en": "My bike was stolen in front of the metro.",
+   "note": "on: very natural in speech"
+  },
+  {
+   "fr": "Le français se parle dans toute la province.",
+   "en": "French is spoken throughout the province.",
+   "note": "pronominal passive: general fact"
+  },
+  {
+   "fr": "La poutine se mange chaude.",
+   "en": "Poutine is eaten hot.",
+   "note": "pronominal passive: how it's done"
+  },
+  {
+   "fr": "Il s'est fait arrêter pour excès de vitesse.",
+   "en": "He got arrested for speeding.",
+   "note": "se faire + infinitive"
+  },
+  {
+   "fr": "Elle s'est fait opérer du genou.",
+   "en": "She had knee surgery.",
+   "note": "fait does not agree"
+  },
+  {
+   "fr": "Je me suis fait voler mon portefeuille.",
+   "en": "I got my wallet stolen.",
+   "note": "se faire voler quelque chose"
+  },
+  {
+   "fr": "Il faut que le rapport soit terminé avant lundi.",
+   "en": "The report has to be finished before Monday.",
+   "note": "subjunctive passive: soit terminé"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebec speech uses 'se faire' + infinitive as its everyday passive: 'J'me suis fait voler', 'Y s'est fait pogner', and the very Quebec 'se faire dire que' (to be told that).",
+  "items": [
+   {
+    "std": "On m'a volé mon auto.",
+    "qc": "J'me suis fait voler mon char.",
+    "en": "I got my car stolen.",
+    "note": "char = car, informal Quebec"
+   },
+   {
+    "std": "Il a été arrêté par la police.",
+    "qc": "Y s'est fait pogner par la police.",
+    "en": "He got caught by the police.",
+    "note": "pogner = to catch / grab, informal"
+   },
+   {
+    "std": "On m'a dit que c'était fermé.",
+    "qc": "Je me suis fait dire que c'était fermé.",
+    "en": "I was told it was closed.",
+    "note": "se faire dire que: very common in Quebec, fine in neutral speech"
+   },
+   {
+    "std": "Je me suis fait avoir.",
+    "qc": "Je me suis fait passer un sapin.",
+    "en": "I got ripped off / I was had.",
+    "note": "se faire passer un sapin: informal Quebec expression"
+   },
+   {
+    "std": "Elle a été engagée chez Desjardins.",
+    "qc": "A s'est fait engager chez Desjardins.",
+    "en": "She got hired at Desjardins.",
+    "note": "a = elle in casual speech"
+   },
+   {
+    "std": "Ça ne se fait pas.",
+    "qc": "Ça s'fait pas.",
+    "en": "That's not done / You don't do that.",
+    "note": "pronominal passive, casual"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "La maison ___ en 1950.",
+   "options": [
+    "a construit",
+    "a été construite",
+    "est construit",
+    "a été construit"
+   ],
+   "a": 1,
+   "why": "Passé composé passive + agreement with maison (f)."
+  },
+  {
+   "t": "mcq",
+   "q": "Il est respecté ___ ses collègues.",
+   "options": [
+    "par",
+    "de",
+    "à",
+    "pour"
+   ],
+   "a": 1,
+   "why": "Feeling verbs like respecter often take de (par is also possible)."
+  },
+  {
+   "t": "mcq",
+   "q": "'I was given a gift.'",
+   "options": [
+    "J'ai été donné un cadeau.",
+    "On m'a donné un cadeau.",
+    "Je suis donné un cadeau.",
+    "Un cadeau m'a donné."
+   ],
+   "a": 1,
+   "why": "Donner à cannot be passive with the person as subject; use on."
+  },
+  {
+   "t": "mcq",
+   "q": "Elle s'est ___ voler son sac.",
+   "options": [
+    "faite",
+    "fait",
+    "faits",
+    "faire"
+   ],
+   "a": 1,
+   "why": "Se faire + infinitive: fait does not agree."
+  },
+  {
+   "t": "fill",
+   "q": "Les résultats ___ publiés demain. (être, futur)",
+   "a": [
+    "seront"
+   ],
+   "en": "The results will be published tomorrow.",
+   "why": "Future passive: seront + participle."
+  },
+  {
+   "t": "fill",
+   "q": "La lettre a été écrite ___ ma grand-mère.",
+   "a": [
+    "par"
+   ],
+   "en": "The letter was written by my grandmother.",
+   "why": "Action verb → par."
+  },
+  {
+   "t": "fill",
+   "q": "Le jardin est couvert ___ fleurs.",
+   "a": [
+    "de"
+   ],
+   "en": "The garden is covered with flowers.",
+   "why": "Description → de (no article)."
+  },
+  {
+   "t": "fill",
+   "q": "Ce vin ___ boit frais. (pronominal)",
+   "a": [
+    "se"
+   ],
+   "en": "This wine is drunk chilled.",
+   "why": "Pronominal passive: se boit."
+  },
+  {
+   "t": "fill",
+   "q": "Les routes ont été ___ à cause de la neige. (fermer)",
+   "a": [
+    "fermées"
+   ],
+   "en": "The roads were closed because of the snow.",
+   "why": "Agreement with routes (f pl)."
+  },
+  {
+   "t": "build",
+   "en": "My bike was stolen.",
+   "a": "On a volé mon vélo."
+  },
+  {
+   "t": "build",
+   "en": "He got arrested last night.",
+   "a": "Il s'est fait arrêter hier soir."
+  },
+  {
+   "t": "build",
+   "en": "French is spoken here.",
+   "a": "Le français se parle ici."
+  },
+  {
+   "t": "translate",
+   "en": "I was told it was closed.",
+   "a": [
+    "On m'a dit que c'était fermé.",
+    "Je me suis fait dire que c'était fermé.",
+    "On m'a dit que ça fermait.",
+    "On m'a dit que c'était fermé aujourd'hui."
+   ],
+   "why": "'I was told' → on m'a dit (or Quebec se faire dire)."
+  },
+  {
+   "t": "translate",
+   "en": "The bridge was built in 2019.",
+   "a": [
+    "Le pont a été construit en 2019.",
+    "On a construit le pont en 2019."
+   ],
+   "why": "Passé composé passive: a été construit."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "construire",
+   "en": "to build",
+   "ex": "Le pont a été construit en 2019."
+  },
+  {
+   "fr": "voler",
+   "en": "to steal; to fly",
+   "ex": "On m'a volé mon sac."
+  },
+  {
+   "fr": "arrêter",
+   "en": "to arrest; to stop",
+   "ex": "Le suspect a été arrêté."
+  },
+  {
+   "fr": "engager",
+   "en": "to hire",
+   "ex": "Elle s'est fait engager hier."
+  },
+  {
+   "fr": "annoncer",
+   "en": "to announce",
+   "ex": "La nouvelle sera annoncée demain."
+  },
+  {
+   "fr": "entouré / entourée de",
+   "en": "surrounded by",
+   "ex": "Un lac entouré de montagnes."
+  },
+  {
+   "fr": "couvert / couverte de",
+   "en": "covered with",
+   "ex": "La rue est couverte de glace."
+  },
+  {
+   "fr": "le portefeuille",
+   "en": "wallet",
+   "g": "m",
+   "ex": "J'ai perdu mon portefeuille."
+  },
+  {
+   "fr": "l'excès de vitesse",
+   "en": "speeding",
+   "g": "m",
+   "ex": "Il a eu une amende pour excès de vitesse."
+  },
+  {
+   "fr": "se faire avoir",
+   "en": "to be fooled, to get ripped off",
+   "ex": "Je me suis fait avoir au garage."
+  },
+  {
+   "fr": "se faire dire que",
+   "en": "to be told that",
+   "ex": "Je me suis fait dire de revenir demain.",
+   "qc": true
+  },
+  {
+   "fr": "pogner",
+   "en": "to catch, to grab (informal)",
+   "ex": "Y s'est fait pogner.",
+   "qc": true
+  },
+  {
+   "fr": "le char",
+   "en": "car (informal)",
+   "g": "m",
+   "ex": "Mon char est au garage.",
+   "qc": true
+  },
+  {
+   "fr": "se faire passer un sapin",
+   "en": "to get duped (informal)",
+   "ex": "Avec ce vendeur-là, je me suis fait passer un sapin.",
+   "qc": true
+  },
+  {
+   "fr": "la directrice / le directeur",
+   "en": "director, principal",
+   "ex": "La directrice a signé."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "a été construit",
+    "tip": "a-é-té-kons-TRWEE: three é sounds in a row, keep them clear."
+   },
+   {
+    "fr": "construite",
+    "tip": "Feminine: the t is pronounced: kons-TRWEET."
+   },
+   {
+    "fr": "Je me suis fait voler",
+    "tip": "Casual: zh'm'swee-fè-vo-LÉ, or j'me chu fait in Quebec."
+   },
+   {
+    "fr": "pogner",
+    "tip": "po-NYÉ: gn like 'ny' in canyon."
+   },
+   {
+    "fr": "se faire dire",
+    "tip": "suh-fèr-DEER."
+   },
+   {
+    "fr": "seront annoncés",
+    "tip": "Liaison: suh-ron-ta-non-SÉ."
+   }
+  ],
+  "title": "Une mauvaise journée",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "T'as l'air découragé. Qu'est-ce qui s'est passé?",
+    "en": "You look discouraged. What happened?"
+   },
+   {
+    "s": "B",
+    "fr": "Je me suis fait voler mon vélo devant la bibliothèque.",
+    "en": "I got my bike stolen in front of the library."
+   },
+   {
+    "s": "A",
+    "fr": "Ah non! Il était barré?",
+    "en": "Oh no! Was it locked?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, mais le cadenas a été coupé. La police a été appelée, mais…",
+    "en": "Yes, but the lock was cut. The police were called, but…"
+   },
+   {
+    "s": "A",
+    "fr": "Je me suis fait dire que la plupart des vélos ne sont jamais retrouvés.",
+    "en": "I was told most bikes are never found."
+   },
+   {
+    "s": "B",
+    "fr": "C'est ça. Pis en plus, mon chèque a été refusé à la banque.",
+    "en": "Right. And on top of that, my cheque was refused at the bank."
+   },
+   {
+    "s": "A",
+    "fr": "Tu t'es fait avoir par qui?",
+    "en": "Who ripped you off?"
+   },
+   {
+    "s": "B",
+    "fr": "Par un client. Il va se faire appeler par mon avocat!",
+    "en": "By a client. He's going to get a call from my lawyer!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What was stolen?",
+    "options": [
+     "A car",
+     "A bike",
+     "A wallet"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What happened to the lock?",
+    "options": [
+     "It was cut",
+     "It was forgotten",
+     "It was broken by the cold"
+    ],
+    "a": 0
+   },
+   {
+    "q": "What other problem does B have?",
+    "options": [
+     "A refused cheque",
+     "A parking ticket",
+     "A lost key"
+    ],
+    "a": 0
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Describe three facts about your city in the passive (built, founded, known for…).",
+   "model": "Montréal a été fondée en 1642. Le Stade olympique a été construit pour les Jeux de 1976. La ville est connue pour ses festivals."
+  },
+  {
+   "prompt": "Tell a story of something that happened to you, using se faire + infinitive twice.",
+   "model": "L'an passé, je me suis fait voler mon téléphone dans le métro. Après, je me suis fait dire qu'il fallait faire un rapport de police."
+  },
+  {
+   "prompt": "Translate naturally: 'I was asked to wait.' and 'I was given a form.'",
+   "model": "On m'a demandé d'attendre. On m'a donné un formulaire."
+  }
+ ],
+ "write": {
+  "prompt": "Write a short news item (5–6 sentences) about an event in your neighbourhood (a fire, a new park, a storm). Use the passive at least three times, with different tenses, plus one sentence with on.",
+  "model": "Hier soir, un incendie a été signalé dans un immeuble de la rue Ontario. Les résidents ont été évacués rapidement par les pompiers. Personne n'a été blessé. Selon les autorités, le feu aurait été causé par une chandelle. On a ouvert un centre d'hébergement temporaire au sous-sol de l'église. L'enquête sera terminée la semaine prochaine."
+ },
+ "quiz": [
+  {
+   "q": "In the passive, the past participle agrees with…",
+   "options": [
+    "the agent",
+    "the subject",
+    "nothing",
+    "the verb avoir"
+   ],
+   "a": 1,
+   "why": "Like an adjective after être."
+  },
+  {
+   "q": "Which tense is 'La lettre avait été envoyée'?",
+   "options": [
+    "passé composé",
+    "plus-que-parfait",
+    "futur",
+    "imparfait"
+   ],
+   "a": 1,
+   "why": "Être in the plus-que-parfait (avait été) + participle."
+  },
+  {
+   "q": "'She is loved by everyone' →",
+   "options": [
+    "Elle est aimée par de tous.",
+    "Elle est aimée de tous.",
+    "Elle s'aime de tous.",
+    "Elle a aimé tous."
+   ],
+   "a": 1,
+   "why": "Feeling verb → de."
+  },
+  {
+   "q": "Which cannot become passive with the person as subject?",
+   "options": [
+    "voir quelqu'un",
+    "aider quelqu'un",
+    "téléphoner à quelqu'un",
+    "inviter quelqu'un"
+   ],
+   "a": 2,
+   "why": "Téléphoner à has an indirect object."
+  },
+  {
+   "q": "'Ça ne se fait pas' means…",
+   "options": [
+    "It isn't finished",
+    "That's not done (it's not acceptable)",
+    "It doesn't make itself",
+    "It isn't made here"
+   ],
+   "a": 1,
+   "why": "Pronominal passive expressing a social rule."
+  },
+  {
+   "q": "'Je me suis fait dire que…' is…",
+   "options": [
+    "a mistake",
+    "a very common Quebec way to say 'I was told that'",
+    "a France-only form",
+    "the future"
+   ],
+   "a": 1,
+   "why": "Standard alternative: On m'a dit que…"
+  },
+  {
+   "q": "'Y s'est fait pogner' means…",
+   "options": [
+    "He got caught",
+    "He got paid",
+    "He got lost",
+    "He got sick"
+   ],
+   "a": 0,
+   "why": "Pogner = catch, informal Quebec."
+  },
+  {
+   "q": "Which is correct?",
+   "options": [
+    "Elle s'est faite opérer.",
+    "Elle s'est fait opérer.",
+    "Elle a été fait opérer.",
+    "Elle s'est fait opérée."
+   ],
+   "a": 1,
+   "why": "Fait + infinitive never agrees."
+  },
+  {
+   "q": "Best natural translation of 'My phone was stolen':",
+   "options": [
+    "Mon téléphone a volé.",
+    "On a volé mon téléphone.",
+    "Mon téléphone s'est volé.",
+    "Mon téléphone était volant."
+   ],
+   "a": 1,
+   "why": "On + active verb is the most natural (a été volé is also correct)."
+  }
+ ]
+}

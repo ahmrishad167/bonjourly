@@ -1,0 +1,739 @@
+{
+ "w": 9,
+ "title": "Être and avoir",
+ "goal": "By the end of this lesson you can conjugate être (to be) and avoir (to have) in the present, use them in everyday expressions like j'ai faim and j'ai 30 ans, and understand the spoken Quebec forms chu, t'es and t'as.",
+ "learn": [
+  {
+   "h": "Être: to be",
+   "body": [
+    "*être* is the most important verb in French. It is irregular, so learn it by heart. Use it to say who or what someone is, where they are, and what they are like.",
+    "Watch the liaison in *vous‿êtes* [z]. And remember that *c'est* (it is, this is) is simply *ce* + *est*."
+   ],
+   "table": {
+    "head": [
+     "Pronoun",
+     "être",
+     "English"
+    ],
+    "rows": [
+     [
+      "je",
+      "suis",
+      "I am"
+     ],
+     [
+      "tu",
+      "es",
+      "you are"
+     ],
+     [
+      "il / elle / on",
+      "est",
+      "he / she is, we are"
+     ],
+     [
+      "nous",
+      "sommes",
+      "we are"
+     ],
+     [
+      "vous",
+      "êtes",
+      "you are"
+     ],
+     [
+      "ils / elles",
+      "sont",
+      "they are"
+     ]
+    ]
+   },
+   "tip": "Professions take no article after être: Je suis infirmière (not 'une infirmière')."
+  },
+  {
+   "h": "Avoir: to have",
+   "body": [
+    "*avoir* means 'to have'. *je* becomes *j'* before it: *j'ai*. Two liaisons matter a lot: *nous‿avons* [z] and *ils‿ont* [z].",
+    "Be careful: *ils sont* (they are, with an s sound) and *ils ont* (they have, with a z sound) differ only by that sound."
+   ],
+   "table": {
+    "head": [
+     "Pronoun",
+     "avoir",
+     "English"
+    ],
+    "rows": [
+     [
+      "j'",
+      "ai",
+      "I have"
+     ],
+     [
+      "tu",
+      "as",
+      "you have"
+     ],
+     [
+      "il / elle / on",
+      "a",
+      "he / she has, we have"
+     ],
+     [
+      "nous",
+      "avons",
+      "we have"
+     ],
+     [
+      "vous",
+      "avez",
+      "you have"
+     ],
+     [
+      "ils / elles",
+      "ont",
+      "they have"
+     ]
+    ]
+   },
+   "tip": "ils sont = eel SÕ (are); ils ont = eel ZÕ (have)."
+  },
+  {
+   "h": "Expressions with avoir where English uses 'be'",
+   "body": [
+    "French uses *avoir* for age and for many physical feelings. Say *J'ai 30 ans* (I am 30, literally 'I have 30 years'), never *je suis 30*.",
+    "Other common ones: *avoir faim* (to be hungry), *avoir soif* (thirsty), *avoir froid* (cold), *avoir chaud* (hot), *avoir peur* (afraid), *avoir raison* (right), *avoir besoin de* (to need)."
+   ],
+   "table": {
+    "head": [
+     "French",
+     "English"
+    ],
+    "rows": [
+     [
+      "J'ai 30 ans.",
+      "I'm 30 years old."
+     ],
+     [
+      "J'ai faim.",
+      "I'm hungry."
+     ],
+     [
+      "Tu as froid?",
+      "Are you cold?"
+     ],
+     [
+      "Il a raison.",
+      "He's right."
+     ],
+     [
+      "On a besoin d'un café.",
+      "We need a coffee."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "C'est and il est",
+   "body": [
+    "*C'est* (it is, this is, he/she is) is followed by a noun with an article or a name: *C'est un ami. C'est Julie.* It is also used with an adjective to comment on a situation: *C'est bon!*",
+    "*Il est / elle est* is followed by an adjective or a profession without article: *Il est grand. Elle est médecin.*"
+   ]
+  },
+  {
+   "h": "Quebec: chu, t'es, t'as",
+   "body": [
+    "In casual Quebec speech, *je suis* is very often pronounced *chu* (sometimes written *chus* or *j'suis*): *Chu fatigué.* *Tu es* becomes *t'es* and *tu as* becomes *t'as*.",
+    "*Il est* often sounds like *y'é* or *y'est*, and *elle est* / *elle a* like *a'l'est* / *a l'a*: *A l'a faim* (she's hungry). Never write these in a formal text, but expect them in every conversation."
+   ],
+   "table": {
+    "head": [
+     "Standard",
+     "Spoken Quebec"
+    ],
+    "rows": [
+     [
+      "je suis",
+      "chu"
+     ],
+     [
+      "tu es",
+      "t'es"
+     ],
+     [
+      "tu as",
+      "t'as"
+     ],
+     [
+      "il est",
+      "y'é / y'est"
+     ],
+     [
+      "elle a",
+      "a l'a"
+     ],
+     [
+      "ils ont",
+      "y'ont"
+     ]
+    ]
+   }
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Je suis canadien.",
+   "en": "I'm Canadian.",
+   "note": "nationality: no article, no capital letter"
+  },
+  {
+   "fr": "Tu es fatiguée?",
+   "en": "Are you tired?",
+   "note": "fatiguée: speaking to a woman"
+  },
+  {
+   "fr": "Elle est infirmière.",
+   "en": "She's a nurse.",
+   "note": "profession after être: no article"
+  },
+  {
+   "fr": "Nous sommes à Montréal.",
+   "en": "We're in Montreal.",
+   "note": "formal; spoken: on est"
+  },
+  {
+   "fr": "Vous êtes très gentils.",
+   "en": "You're very kind.",
+   "note": "vous‿êtes [z]"
+  },
+  {
+   "fr": "Ils sont en retard.",
+   "en": "They're late.",
+   "note": "ils sont: s sound"
+  },
+  {
+   "fr": "J'ai deux enfants.",
+   "en": "I have two children.",
+   "note": "j'ai: je → j'"
+  },
+  {
+   "fr": "Tu as un chat?",
+   "en": "Do you have a cat?",
+   "note": "a question by intonation"
+  },
+  {
+   "fr": "Il a trente ans.",
+   "en": "He's thirty years old.",
+   "note": "age uses avoir"
+  },
+  {
+   "fr": "Nous avons une maison à Laval.",
+   "en": "We have a house in Laval.",
+   "note": "nous‿avons [z]"
+  },
+  {
+   "fr": "Ils ont froid.",
+   "en": "They're cold.",
+   "note": "ils‿ont: z sound"
+  },
+  {
+   "fr": "J'ai faim et j'ai soif.",
+   "en": "I'm hungry and thirsty.",
+   "note": "avoir faim, avoir soif"
+  },
+  {
+   "fr": "C'est mon ami Paul. Il est grand.",
+   "en": "This is my friend Paul. He's tall.",
+   "note": "c'est + noun; il est + adjective"
+  },
+  {
+   "fr": "Chu fatigué.",
+   "en": "I'm tired.",
+   "note": "casual Quebec for je suis fatigué"
+  },
+  {
+   "fr": "T'as faim?",
+   "en": "Are you hungry?",
+   "note": "casual Quebec for tu as faim"
+  }
+ ],
+ "quebec": {
+  "intro": "In casual Quebec speech, être and avoir shrink: je suis → chu, tu es → t'es, tu as → t'as. You'll hear them constantly; write the standard forms.",
+  "items": [
+   {
+    "std": "Je suis fatigué.",
+    "qc": "Chu fatigué.",
+    "en": "I'm tired.",
+    "note": "informal speech only"
+   },
+   {
+    "std": "Tu es où?",
+    "qc": "T'es où?",
+    "en": "Where are you?",
+    "note": "informal"
+   },
+   {
+    "std": "Tu as faim?",
+    "qc": "T'as faim?",
+    "en": "Are you hungry?",
+    "note": "informal"
+   },
+   {
+    "std": "Il est en retard.",
+    "qc": "Y'é en r'tard.",
+    "en": "He's late.",
+    "note": "informal; il → y"
+   },
+   {
+    "std": "Elle a froid.",
+    "qc": "A l'a frette.",
+    "en": "She's cold.",
+    "note": "informal; frette = very cold (Quebec)"
+   },
+   {
+    "std": "Ils ont un chien.",
+    "qc": "Y'ont un chien.",
+    "en": "They have a dog.",
+    "note": "informal"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Nous ___ à la maison. (être)",
+   "options": [
+    "sommes",
+    "êtes",
+    "sont",
+    "avons"
+   ],
+   "a": 0,
+   "why": "nous sommes."
+  },
+  {
+   "t": "mcq",
+   "q": "How do you say 'I'm 25 years old'?",
+   "options": [
+    "Je suis 25 ans.",
+    "J'ai 25 ans.",
+    "J'ai 25.",
+    "Je suis 25."
+   ],
+   "a": 1,
+   "why": "Age uses avoir + ans."
+  },
+  {
+   "t": "mcq",
+   "q": "'Ils ont' vs 'ils sont': which means 'they have'?",
+   "options": [
+    "ils sont",
+    "ils ont"
+   ],
+   "a": 1,
+   "why": "ils‿ont (z sound) = they have."
+  },
+  {
+   "t": "mcq",
+   "q": "In casual Quebec speech, 'chu' means…",
+   "options": [
+    "je suis",
+    "tu es",
+    "j'ai",
+    "c'est"
+   ],
+   "a": 0,
+   "why": "je suis → chu."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is correct?",
+   "options": [
+    "Elle est une infirmière.",
+    "Elle est infirmière.",
+    "Elle a infirmière.",
+    "C'est infirmière."
+   ],
+   "a": 1,
+   "why": "No article after il/elle est + profession (or say C'est une infirmière)."
+  },
+  {
+   "t": "fill",
+   "q": "Tu ___ un chat? (avoir)",
+   "a": [
+    "as"
+   ],
+   "en": "Do you have a cat?",
+   "why": "tu as."
+  },
+  {
+   "t": "fill",
+   "q": "Vous ___ très gentils. (être)",
+   "a": [
+    "êtes"
+   ],
+   "en": "You're very kind.",
+   "why": "vous êtes."
+  },
+  {
+   "t": "fill",
+   "q": "J'___ faim. (avoir)",
+   "a": [
+    "ai"
+   ],
+   "en": "I'm hungry.",
+   "why": "avoir faim = to be hungry."
+  },
+  {
+   "t": "fill",
+   "q": "Ils ___ en retard. (être)",
+   "a": [
+    "sont"
+   ],
+   "en": "They're late.",
+   "why": "ils sont."
+  },
+  {
+   "t": "fill",
+   "q": "Nous ___ une maison. (avoir)",
+   "a": [
+    "avons"
+   ],
+   "en": "We have a house.",
+   "why": "nous avons."
+  },
+  {
+   "t": "build",
+   "en": "He is thirty years old.",
+   "a": "Il a trente ans."
+  },
+  {
+   "t": "build",
+   "en": "This is my friend Paul.",
+   "a": "C'est mon ami Paul."
+  },
+  {
+   "t": "translate",
+   "en": "I'm cold.",
+   "a": [
+    "J'ai froid.",
+    "J'ai frette."
+   ],
+   "why": "avoir froid; frette is informal Quebec."
+  },
+  {
+   "t": "translate",
+   "en": "We are tired.",
+   "a": [
+    "Nous sommes fatigués.",
+    "Nous sommes fatiguées.",
+    "On est fatigués.",
+    "On est fatiguées.",
+    "On est fatigué."
+   ],
+   "why": "nous sommes or on est."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "être",
+   "en": "to be",
+   "ex": "Je suis ici."
+  },
+  {
+   "fr": "avoir",
+   "en": "to have",
+   "ex": "J'ai un chien."
+  },
+  {
+   "fr": "avoir … ans",
+   "en": "to be … years old",
+   "ex": "J'ai trente ans."
+  },
+  {
+   "fr": "avoir faim",
+   "en": "to be hungry",
+   "ex": "Tu as faim?"
+  },
+  {
+   "fr": "avoir soif",
+   "en": "to be thirsty",
+   "ex": "J'ai soif."
+  },
+  {
+   "fr": "avoir froid",
+   "en": "to be cold",
+   "ex": "Elle a froid."
+  },
+  {
+   "fr": "avoir chaud",
+   "en": "to be hot",
+   "ex": "On a chaud."
+  },
+  {
+   "fr": "avoir peur",
+   "en": "to be afraid",
+   "ex": "Il a peur du chien."
+  },
+  {
+   "fr": "avoir raison",
+   "en": "to be right",
+   "ex": "Tu as raison."
+  },
+  {
+   "fr": "avoir besoin de",
+   "en": "to need",
+   "ex": "J'ai besoin d'un café."
+  },
+  {
+   "fr": "fatigué / fatiguée",
+   "en": "tired",
+   "ex": "Je suis fatigué."
+  },
+  {
+   "fr": "en retard",
+   "en": "late",
+   "ex": "Il est en retard."
+  },
+  {
+   "fr": "l'infirmier / l'infirmière",
+   "en": "nurse",
+   "ex": "Elle est infirmière."
+  },
+  {
+   "fr": "le chien",
+   "en": "dog",
+   "g": "m",
+   "ex": "Ils ont un chien."
+  },
+  {
+   "fr": "frette",
+   "en": "freezing cold (informal)",
+   "ex": "Il fait frette!",
+   "qc": true
+  },
+  {
+   "fr": "chu",
+   "en": "I am (spoken)",
+   "ex": "Chu prêt!",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "je suis",
+    "tip": "zhuh SWEE; casual: shwee; Quebec: chu."
+   },
+   {
+    "fr": "vous êtes",
+    "tip": "voo-ZET: liaison [z]."
+   },
+   {
+    "fr": "ils sont / ils ont",
+    "tip": "eel SÕ vs eel ZÕ."
+   },
+   {
+    "fr": "nous avons",
+    "tip": "noo-za-VÕ."
+   },
+   {
+    "fr": "j'ai",
+    "tip": "zhay: one syllable."
+   },
+   {
+    "fr": "il a",
+    "tip": "ee-LA: run them together."
+   },
+   {
+    "fr": "t'as, t'es",
+    "tip": "ta, tay: casual forms of tu as, tu es."
+   }
+  ],
+  "title": "Au parc",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Salut! T'es fatigué?",
+    "en": "Hi! Are you tired?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, chu fatigué. J'ai deux enfants!",
+    "en": "Yes, I'm tired. I have two kids!"
+   },
+   {
+    "s": "A",
+    "fr": "Ils ont quel âge?",
+    "en": "How old are they?"
+   },
+   {
+    "s": "B",
+    "fr": "Ils ont trois ans et cinq ans.",
+    "en": "They're three and five."
+   },
+   {
+    "s": "A",
+    "fr": "T'as faim? J'ai des biscuits.",
+    "en": "Are you hungry? I have cookies."
+   },
+   {
+    "s": "B",
+    "fr": "Oui, merci! Mais les enfants ont froid.",
+    "en": "Yes, thanks! But the kids are cold."
+   },
+   {
+    "s": "A",
+    "fr": "C'est vrai, il fait frette!",
+    "en": "That's true, it's freezing!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "How old are B's children?",
+    "options": [
+     "Two and four",
+     "Three and five",
+     "Five and seven"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does A offer?",
+    "options": [
+     "Coffee",
+     "Cookies",
+     "A coat"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What's the problem with the children?",
+    "options": [
+     "They're hungry",
+     "They're cold",
+     "They're tired"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Say your name, age, nationality and job using être and avoir.",
+   "model": "Je m'appelle Ryan. J'ai trente-deux ans. Je suis canadien. Je suis infirmier."
+  },
+  {
+   "prompt": "Say three things you have and how you feel right now.",
+   "model": "J'ai un chat, une voiture et deux enfants. J'ai faim et je suis fatigué."
+  },
+  {
+   "prompt": "Say 'I'm tired' and 'Are you hungry?' the standard way, then the casual Quebec way.",
+   "model": "Je suis fatigué. Tu as faim? / Chu fatigué. T'as faim?"
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences about yourself and your family using être and avoir at least three times each.",
+  "model": "Je suis canadien. J'ai trente ans. Ma femme est infirmière. Elle est très gentille. Nous avons deux enfants. Ils ont trois ans et cinq ans."
+ },
+ "quiz": [
+  {
+   "q": "Which form is 'you are' (polite)?",
+   "options": [
+    "tu es",
+    "vous êtes",
+    "vous avez",
+    "vous sont"
+   ],
+   "a": 1,
+   "why": "vous êtes."
+  },
+  {
+   "q": "Which form is 'she has'?",
+   "options": [
+    "elle est",
+    "elle a",
+    "elle as",
+    "elle ont"
+   ],
+   "a": 1,
+   "why": "il / elle / on a."
+  },
+  {
+   "q": "'J'ai raison' means…",
+   "options": [
+    "I have a reason",
+    "I'm right",
+    "I'm reasonable",
+    "I agree"
+   ],
+   "a": 1,
+   "why": "avoir raison = to be right."
+  },
+  {
+   "q": "'avoir besoin de' means…",
+   "options": [
+    "to want",
+    "to need",
+    "to like",
+    "to be busy"
+   ],
+   "a": 1,
+   "why": "J'ai besoin d'un café = I need a coffee."
+  },
+  {
+   "q": "Choose: '___ un ami.'",
+   "options": [
+    "Il est",
+    "C'est",
+    "Elle est",
+    "Il a est"
+   ],
+   "a": 1,
+   "why": "Before a noun with an article, use c'est."
+  },
+  {
+   "q": "'T'as froid?' is casual for…",
+   "options": [
+    "Tu es froid?",
+    "Tu as froid?",
+    "Tu as faim?",
+    "T'es fâché?"
+   ],
+   "a": 1,
+   "why": "tu as → t'as."
+  },
+  {
+   "q": "Which is a spoken Quebec form of 'il est'?",
+   "options": [
+    "y'é",
+    "chu",
+    "t'as",
+    "a l'a"
+   ],
+   "a": 0,
+   "why": "il est → y'é / y'est."
+  },
+  {
+   "q": "Which sentence is correct?",
+   "options": [
+    "Je suis faim.",
+    "J'ai faim.",
+    "Je faim.",
+    "J'ai fame."
+   ],
+   "a": 1,
+   "why": "Hunger uses avoir."
+  },
+  {
+   "q": "What sound links 'nous avons'?",
+   "options": [
+    "[s]",
+    "[z]",
+    "[t]",
+    "none"
+   ],
+   "a": 1,
+   "why": "nous‿avons: noo-za-võ."
+  }
+ ]
+}

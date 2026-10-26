@@ -1,0 +1,628 @@
+{
+ "w": 98,
+ "title": "Indirect speech, present",
+ "goal": "By the end of this lesson you can report statements, questions and commands with a present-tense reporting verb (il dit que, elle demande si, il me dit de…), adjusting pronouns and question words correctly.",
+ "learn": [
+  {
+   "h": "Reporting statements: dire que",
+   "body": [
+    "Direct speech quotes the exact words: *Marc dit : « Je suis fatigué. »* Indirect speech reports them: *Marc dit qu'il est fatigué.*",
+    "When the reporting verb is in the present (*dit, explique, répond, annonce, pense*), the tense of the reported verb does NOT change. Only pronouns and possessives change to fit the new speaker: *je* → *il / elle*, *mon* → *son*.",
+    "*Que* is required in French (English can drop 'that'), and it is repeated before each reported clause: *Elle dit qu'elle est malade et qu'elle ne vient pas.*"
+   ],
+   "tip": "Never drop que: 'He says he's tired' = Il dit qu'il est fatigué."
+  },
+  {
+   "h": "Reporting questions",
+   "body": [
+    "Yes/no questions are reported with *si* (whether / if): *« Tu viens? »* → *Il demande si tu viens.* (*si* + *il* → *s'il*).",
+    "*Qu'est-ce que* becomes *ce que*; *qu'est-ce qui* becomes *ce qui*; *que / quoi* (object) becomes *ce que*: *« Qu'est-ce que tu veux? »* → *Il demande ce que tu veux.*",
+    "Other question words stay: *où, quand, comment, pourquoi, combien, qui, quel*. The word order becomes normal (no inversion, no *est-ce que*): *« Où habites-tu? »* → *Il demande où tu habites.*"
+   ],
+   "table": {
+    "head": [
+     "Direct question",
+     "Indirect question"
+    ],
+    "rows": [
+     [
+      "Est-ce que tu viens?",
+      "Il demande si tu viens."
+     ],
+     [
+      "Qu'est-ce que tu fais?",
+      "Il demande ce que tu fais."
+     ],
+     [
+      "Qu'est-ce qui se passe?",
+      "Il demande ce qui se passe."
+     ],
+     [
+      "Où est-ce que tu travailles?",
+      "Il demande où tu travailles."
+     ],
+     [
+      "Quand part-elle?",
+      "Il demande quand elle part."
+     ],
+     [
+      "Quel âge as-tu?",
+      "Il demande quel âge tu as."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Reporting commands: dire de + infinitive",
+   "body": [
+    "An imperative is reported with *dire de* or *demander de* + infinitive: *« Ferme la porte! »* → *Il me dit de fermer la porte.* *« Ne parlez pas! »* → *Elle nous demande de ne pas parler.*",
+    "Note the indirect object pronoun (*me, te, lui, nous, vous, leur*) for the person receiving the command."
+   ]
+  },
+  {
+   "h": "Pronoun and perspective changes",
+   "body": [
+    "Think about who is speaking now. If Julie says to you *« Je t'appelle demain »*, you report: *Julie dit qu'elle m'appelle demain.*",
+    "Possessives follow the same logic: *« C'est mon vélo »* → *Il dit que c'est son vélo.*",
+    "With a present reporting verb, time words (*demain, aujourd'hui*) usually stay unchanged, since the report is made at the same time."
+   ]
+  },
+  {
+   "h": "Quebec: Y dit que…, and c'est quoi in reported questions",
+   "body": [
+    "In casual speech, *il dit que* becomes *y dit que* and *elle dit que* becomes *a dit que* or *a dit qu'*: *Y dit qu'y vient pas.* = Il dit qu'il ne vient pas. Note *a dit* here can be the present (elle dit), not the passé composé; context tells you.",
+    "Very common in Quebec: keeping the spoken question form inside the report: *Y veut savoir c'est quoi ton numéro* (standard: *Il veut savoir quel est ton numéro*), *A demande quand est-ce que tu arrives* (standard: *quand tu arrives*). Recognize these; use the standard forms in writing."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Marc dit qu'il est fatigué.",
+   "en": "Marc says he's tired.",
+   "note": "« Je suis fatigué » → qu'il est fatigué"
+  },
+  {
+   "fr": "Elle explique qu'elle ne peut pas venir parce qu'elle travaille.",
+   "en": "She explains that she can't come because she's working."
+  },
+  {
+   "fr": "Ils disent qu'ils arrivent dans dix minutes et qu'ils apportent le vin.",
+   "en": "They say they're arriving in ten minutes and bringing the wine.",
+   "note": "que repeated"
+  },
+  {
+   "fr": "Ma mère demande si tu viens souper dimanche.",
+   "en": "My mother is asking whether you're coming for supper on Sunday.",
+   "note": "yes/no question → si"
+  },
+  {
+   "fr": "Le client demande s'il peut payer par carte.",
+   "en": "The customer is asking if he can pay by card.",
+   "note": "si + il → s'il"
+  },
+  {
+   "fr": "Je me demande ce qu'elle pense.",
+   "en": "I wonder what she thinks.",
+   "note": "qu'est-ce que → ce que"
+  },
+  {
+   "fr": "Il veut savoir ce qui se passe.",
+   "en": "He wants to know what's going on.",
+   "note": "qu'est-ce qui → ce qui"
+  },
+  {
+   "fr": "Le chauffeur demande où on descend.",
+   "en": "The driver is asking where we're getting off.",
+   "note": "où stays; no inversion"
+  },
+  {
+   "fr": "Elle me demande pourquoi je suis en retard.",
+   "en": "She's asking me why I'm late."
+  },
+  {
+   "fr": "Peux-tu me dire combien ça coûte?",
+   "en": "Can you tell me how much it costs?",
+   "note": "polite indirect question"
+  },
+  {
+   "fr": "Le prof nous dit de lire le chapitre trois.",
+   "en": "The teacher tells us to read chapter three.",
+   "note": "command → dire de + infinitive"
+  },
+  {
+   "fr": "Mon médecin me dit de ne pas courir pendant un mois.",
+   "en": "My doctor tells me not to run for a month.",
+   "note": "negative command: de ne pas + infinitive"
+  },
+  {
+   "fr": "Julie dit que c'est son anniversaire demain.",
+   "en": "Julie says it's her birthday tomorrow.",
+   "note": "mon → son"
+  },
+  {
+   "fr": "Ils annoncent qu'il va neiger toute la journée.",
+   "en": "They're forecasting snow all day.",
+   "note": "annoncer que"
+  },
+  {
+   "fr": "Je ne sais pas quel autobus il faut prendre.",
+   "en": "I don't know which bus we need to take.",
+   "note": "quel stays"
+  },
+  {
+   "fr": "Y dit qu'y a pas de place dans l'auto.",
+   "en": "He says there's no room in the car.",
+   "note": "casual Quebec: y = il; standard: il dit qu'il n'y a pas de place"
+  }
+ ],
+ "quebec": {
+  "intro": "Casual Quebec reporting sounds like 'Y dit que…' and 'A dit que…'. Speakers also keep 'c'est quoi' or 'est-ce que' inside reported questions, which standard French removes.",
+  "items": [
+   {
+    "std": "Il dit qu'il ne vient pas.",
+    "qc": "Y dit qu'y vient pas.",
+    "en": "He says he's not coming.",
+    "note": "y = il; ne dropped"
+   },
+   {
+    "std": "Elle dit qu'elle est fatiguée.",
+    "qc": "A dit qu'a l'est fatiguée.",
+    "en": "She says she's tired.",
+    "note": "a = elle; a l'est = elle est, informal"
+   },
+   {
+    "std": "Il veut savoir quel est ton numéro.",
+    "qc": "Y veut savoir c'est quoi ton numéro.",
+    "en": "He wants to know what your number is.",
+    "note": "c'est quoi in a reported question: very common, informal"
+   },
+   {
+    "std": "Elle demande quand tu arrives.",
+    "qc": "A demande quand est-ce que t'arrives.",
+    "en": "She's asking when you're arriving.",
+    "note": "est-ce que kept in the report: non-standard"
+   },
+   {
+    "std": "Je ne sais pas ce que c'est.",
+    "qc": "J'sais pas c'est quoi.",
+    "en": "I don't know what it is.",
+    "note": "extremely common in Quebec speech"
+   },
+   {
+    "std": "Il te dit de venir tout de suite.",
+    "qc": "Y dit de t'en venir drette là.",
+    "en": "He's telling you to come right now.",
+    "note": "s'en venir = to come over; drette là = right now"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "« Est-ce que tu as faim? » → Elle demande ___ tu as faim.",
+   "options": [
+    "que",
+    "si",
+    "ce que",
+    "est-ce que"
+   ],
+   "a": 1,
+   "why": "Yes/no question → si."
+  },
+  {
+   "t": "mcq",
+   "q": "« Qu'est-ce que tu veux? » → Il demande ___ tu veux.",
+   "options": [
+    "qu'est-ce que",
+    "ce que",
+    "ce qui",
+    "quoi"
+   ],
+   "a": 1,
+   "why": "Qu'est-ce que → ce que."
+  },
+  {
+   "t": "mcq",
+   "q": "« Ferme la fenêtre! » → Il me dit ___ la fenêtre.",
+   "options": [
+    "que je ferme",
+    "fermer",
+    "de fermer",
+    "à fermer"
+   ],
+   "a": 2,
+   "why": "Commands → dire de + infinitive."
+  },
+  {
+   "t": "mcq",
+   "q": "Standard form of 'Je sais pas c'est quoi':",
+   "options": [
+    "Je ne sais pas qu'est-ce que c'est.",
+    "Je ne sais pas ce que c'est.",
+    "Je ne sais pas c'est que quoi.",
+    "Je ne sais pas quoi c'est."
+   ],
+   "a": 1,
+   "why": "Reported 'what is it' → ce que c'est."
+  },
+  {
+   "t": "fill",
+   "q": "Paul dit ___ est malade. (that he)",
+   "a": [
+    "qu'il"
+   ],
+   "en": "Paul says he's sick.",
+   "why": "Que before il → qu'il; que is never dropped."
+  },
+  {
+   "t": "fill",
+   "q": "Elle demande ___ on part. (when)",
+   "a": [
+    "quand"
+   ],
+   "en": "She's asking when we're leaving.",
+   "why": "Quand stays the same."
+  },
+  {
+   "t": "fill",
+   "q": "Il veut savoir ___ se passe. (what)",
+   "a": [
+    "ce qui"
+   ],
+   "en": "He wants to know what's happening.",
+   "why": "Qu'est-ce qui → ce qui."
+  },
+  {
+   "t": "fill",
+   "q": "Le médecin me dit de ___ pas fumer.",
+   "a": [
+    "ne"
+   ],
+   "en": "The doctor tells me not to smoke.",
+   "why": "Negative infinitive: de ne pas fumer."
+  },
+  {
+   "t": "fill",
+   "q": "« C'est mon chien. » → Elle dit que c'est ___ chien.",
+   "a": [
+    "son"
+   ],
+   "en": "She says it's her dog.",
+   "why": "Mon → son from the reporter's point of view."
+  },
+  {
+   "t": "build",
+   "en": "He says he's tired.",
+   "a": "Il dit qu'il est fatigué."
+  },
+  {
+   "t": "build",
+   "en": "She's asking where you live.",
+   "a": "Elle demande où tu habites."
+  },
+  {
+   "t": "build",
+   "en": "The teacher tells us to read.",
+   "a": "Le prof nous dit de lire."
+  },
+  {
+   "t": "translate",
+   "en": "She's asking if you're coming.",
+   "a": [
+    "Elle demande si tu viens.",
+    "Elle demande si vous venez.",
+    "Elle te demande si tu viens.",
+    "Elle vous demande si vous venez."
+   ],
+   "why": "Yes/no question → si."
+  },
+  {
+   "t": "translate",
+   "en": "I don't know what he wants.",
+   "a": [
+    "Je ne sais pas ce qu'il veut.",
+    "Je sais pas ce qu'il veut."
+   ],
+   "why": "Qu'est-ce qu'il veut? → ce qu'il veut."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "dire que",
+   "en": "to say that",
+   "ex": "Il dit que c'est fermé."
+  },
+  {
+   "fr": "demander si",
+   "en": "to ask whether",
+   "ex": "Elle demande si c'est ouvert."
+  },
+  {
+   "fr": "dire à quelqu'un de",
+   "en": "to tell someone to",
+   "ex": "Dis-lui de venir."
+  },
+  {
+   "fr": "expliquer que",
+   "en": "to explain that",
+   "ex": "Il explique qu'il est en retard."
+  },
+  {
+   "fr": "répondre que",
+   "en": "to answer that",
+   "ex": "Elle répond qu'elle ne sait pas."
+  },
+  {
+   "fr": "annoncer que",
+   "en": "to announce, to forecast that",
+   "ex": "On annonce de la pluie."
+  },
+  {
+   "fr": "se demander",
+   "en": "to wonder",
+   "ex": "Je me demande s'il viendra."
+  },
+  {
+   "fr": "vouloir savoir",
+   "en": "to want to know",
+   "ex": "Il veut savoir où tu es."
+  },
+  {
+   "fr": "prévenir",
+   "en": "to warn, to let know",
+   "ex": "Préviens-moi si tu es en retard."
+  },
+  {
+   "fr": "le message vocal",
+   "en": "voicemail",
+   "g": "m",
+   "ex": "Elle a laissé un message vocal."
+  },
+  {
+   "fr": "le chauffeur / la chauffeuse",
+   "en": "driver",
+   "ex": "Le chauffeur demande où on va."
+  },
+  {
+   "fr": "descendre",
+   "en": "to get off, to go down",
+   "ex": "Je descends au prochain arrêt."
+  },
+  {
+   "fr": "s'en venir",
+   "en": "to come (over), to be on the way",
+   "ex": "Je m'en viens!",
+   "qc": true
+  },
+  {
+   "fr": "c'est quoi",
+   "en": "what is (informal)",
+   "ex": "C'est quoi ton nom?",
+   "qc": true
+  },
+  {
+   "fr": "par carte",
+   "en": "by card",
+   "ex": "Je peux payer par carte?"
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "Il dit qu'il",
+    "tip": "eel-dee-KEEL; Quebec casual: y dit qu'y [i dzi ki]."
+   },
+   {
+    "fr": "A dit que",
+    "tip": "a-DZEE-kuh: the Quebec dz before i."
+   },
+   {
+    "fr": "s'il peut",
+    "tip": "seel-PEU."
+   },
+   {
+    "fr": "ce qu'elle pense",
+    "tip": "suh-kèl-PANSS."
+   },
+   {
+    "fr": "J'sais pas c'est quoi",
+    "tip": "shè-pa-sè-KWA."
+   },
+   {
+    "fr": "Je m'en viens",
+    "tip": "zh'man-VYIN."
+   }
+  ],
+  "title": "Le téléphone arabe",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "C'était qui au téléphone?",
+    "en": "Who was on the phone?"
+   },
+   {
+    "s": "B",
+    "fr": "C'était Sophie. Elle dit qu'elle est coincée dans le trafic sur la 40.",
+    "en": "It was Sophie. She says she's stuck in traffic on the 40."
+   },
+   {
+    "s": "A",
+    "fr": "Est-ce qu'elle sait à quelle heure elle arrive?",
+    "en": "Does she know what time she'll arrive?"
+   },
+   {
+    "s": "B",
+    "fr": "Elle dit qu'elle ne sait pas, mais elle demande si on peut commencer sans elle.",
+    "en": "She says she doesn't know, but she's asking if we can start without her."
+   },
+   {
+    "s": "A",
+    "fr": "Bien sûr. Elle veut savoir ce qu'on mange?",
+    "en": "Of course. Does she want to know what we're eating?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, elle demande ce qu'il y a pour souper et si elle doit apporter du pain.",
+    "en": "Yes, she's asking what's for supper and whether she should bring bread."
+   },
+   {
+    "s": "A",
+    "fr": "Dis-lui de ne rien apporter. On a tout ce qu'il faut.",
+    "en": "Tell her not to bring anything. We have everything we need."
+   },
+   {
+    "s": "B",
+    "fr": "OK. Je lui écris qu'on l'attend et de faire attention sur la route.",
+    "en": "OK. I'm texting her that we're waiting for her and to be careful on the road."
+   }
+  ],
+  "questions": [
+   {
+    "q": "Why is Sophie late?",
+    "options": [
+     "She's working",
+     "She's stuck in traffic",
+     "She forgot"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does Sophie ask?",
+    "options": [
+     "If they can start without her",
+     "If she can bring her dog",
+     "If they can wait an hour"
+    ],
+    "a": 0
+   },
+   {
+    "q": "What should Sophie bring?",
+    "options": [
+     "Bread",
+     "Wine",
+     "Nothing"
+    ],
+    "a": 2
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "A friend just texted you: 'Je suis en retard. Est-ce que le film a commencé? Garde-moi une place!' Report it to someone next to you.",
+   "model": "Il dit qu'il est en retard. Il demande si le film a commencé et il me dit de lui garder une place."
+  },
+  {
+   "prompt": "Report three questions a new colleague asks you (where you live, what you do, if you like your job).",
+   "model": "Elle me demande où j'habite, ce que je fais dans la vie et si j'aime mon travail."
+  },
+  {
+   "prompt": "Say casually: 'He says he's not coming and he wants to know what your number is.'",
+   "model": "Y dit qu'y vient pas, pis y veut savoir c'est quoi ton numéro."
+  }
+ ],
+ "write": {
+  "prompt": "Write a message (5–6 sentences) passing on a phone message from your landlord to your roommate. Report at least two statements, two questions and one command.",
+  "model": "Salut! Le propriétaire a appelé. Il dit que le plombier passe jeudi matin et qu'il va couper l'eau pendant deux heures. Il demande si quelqu'un peut être à la maison pour ouvrir. Il veut aussi savoir quand on va payer le loyer de novembre. Il nous dit de ne pas laisser de vélos dans le couloir. Peux-tu le rappeler?"
+ },
+ "quiz": [
+  {
+   "q": "With a present reporting verb, the reported verb tense…",
+   "options": [
+    "moves one step into the past",
+    "does not change",
+    "becomes the subjunctive",
+    "becomes the conditional"
+   ],
+   "a": 1,
+   "why": "Il dit qu'il est fatigué: no change."
+  },
+  {
+   "q": "« Où vas-tu? » → Elle demande…",
+   "options": [
+    "où vas-tu.",
+    "où tu vas.",
+    "où est-ce que tu vas.",
+    "si où tu vas."
+   ],
+   "a": 1,
+   "why": "Normal word order, no inversion."
+  },
+  {
+   "q": "Can 'que' be dropped in 'Il dit (que) il vient'?",
+   "options": [
+    "Yes, like in English",
+    "No, que is required",
+    "Only in Quebec",
+    "Only in writing"
+   ],
+   "a": 1,
+   "why": "French always keeps que."
+  },
+  {
+   "q": "« Ne touchez pas! » → Il nous dit…",
+   "options": [
+    "de ne pas toucher.",
+    "ne pas de toucher.",
+    "que ne touchez pas.",
+    "de toucher pas."
+   ],
+   "a": 0,
+   "why": "De ne pas + infinitive."
+  },
+  {
+   "q": "'Y dit qu'y vient pas' in standard French is…",
+   "options": [
+    "Il dit qu'il vient pas.",
+    "Il dit qu'il ne vient pas.",
+    "Il a dit qu'il ne venait pas.",
+    "Il dit s'il ne vient pas."
+   ],
+   "a": 1,
+   "why": "Y = il; restore ne."
+  },
+  {
+   "q": "« Qu'est-ce qui ne va pas? » → Il demande…",
+   "options": [
+    "qu'est-ce qui ne va pas.",
+    "ce qui ne va pas.",
+    "ce que ne va pas.",
+    "si ne va pas."
+   ],
+   "a": 1,
+   "why": "Qu'est-ce qui → ce qui."
+  },
+  {
+   "q": "Which sentence is a reported yes/no question?",
+   "options": [
+    "Il demande où tu es.",
+    "Il demande si tu es là.",
+    "Il dit que tu es là.",
+    "Il dit de venir."
+   ],
+   "a": 1,
+   "why": "Si introduces reported yes/no questions."
+  },
+  {
+   "q": "'J'sais pas c'est quoi' is…",
+   "options": [
+    "standard",
+    "common informal Quebec speech for 'je ne sais pas ce que c'est'",
+    "a France-only form",
+    "a past tense"
+   ],
+   "a": 1,
+   "why": "C'est quoi kept inside an indirect question."
+  },
+  {
+   "q": "« Je t'appelle ce soir », says Luc to you. You report:",
+   "options": [
+    "Luc dit qu'il t'appelle ce soir.",
+    "Luc dit qu'il m'appelle ce soir.",
+    "Luc dit que je t'appelle ce soir.",
+    "Luc dit qu'il l'appelle ce soir."
+   ],
+   "a": 1,
+   "why": "From your point of view: il (Luc) m'appelle (me)."
+  }
+ ]
+}

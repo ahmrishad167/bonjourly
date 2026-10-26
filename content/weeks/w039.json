@@ -1,0 +1,656 @@
+{
+ "w": 39,
+ "title": "Review and checkpoint 2",
+ "goal": "By the end of this lesson you can show that you control everything from lessons 20–38: adjectives and possessives, prepositions, the futur proche, -ir and irregular verbs, partitives, connectors, reflexives, the imperative, frequency, the passé composé, and the Quebec layer, and you can follow a Quebec street interview.",
+ "learn": [
+  {
+   "h": "Describing: adjectives, possessives, prepositions (lessons 20–22)",
+   "body": [
+    "Adjectives agree and usually follow the noun (*une tuque noire*), except short ones like *beau, bon, petit, grand*, which come first (*un beau chandail*). Possessives agree with the thing owned: *mon chum, ma blonde, mes parents*, and *mon* before a feminine vowel (*mon amie*).",
+    "Location: *à* + place (*au dépanneur, à la banque*), *chez* + person, *en / au / aux* + country, *à* + city. Position: *sur, sous, devant, derrière, à côté de, en face de, près de*."
+   ]
+  },
+  {
+   "h": "Verbs in the present and the near future (lessons 23–25, 30–31)",
+   "body": [
+    "Futur proche: *aller* + infinitive (*Je vais partir*). -ir verbs: *finir → nous finissons*. Irregulars: *prendre (ils prennent), mettre (je mets), venir (ils viennent), partir (je pars)*.",
+    "Reflexives: *je me lève, tu t'habilles, on se couche*; *je vais me coucher*. Imperative: *Mange! Allons-y! Faites attention! Lève-toi! Ne t'inquiète pas!*"
+   ],
+   "table": {
+    "head": [
+     "Point",
+     "Example"
+    ],
+    "rows": [
+     [
+      "Futur proche",
+      "On va se voir demain."
+     ],
+     [
+      "-ir verb",
+      "Les cours finissent à quatre heures."
+     ],
+     [
+      "prendre / venir",
+      "Ils prennent le métro; elles viennent de Laval."
+     ],
+     [
+      "Reflexive",
+      "Je me lève à six heures."
+     ],
+     [
+      "Imperative",
+      "Mets ta tuque!"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Food, links and habits (lessons 26, 29, 32)",
+   "body": [
+    "Partitives: *du pain, de la soupe, de l'eau, des pommes*; after a negative or quantity, just *de*: *pas de viande, beaucoup de fruits*. But *J'aime le fromage* (taste verbs).",
+    "Connectors: *et, mais, ou, parce que, donc, alors, puis*. Frequency: *toujours, souvent, parfois, rarement, ne … jamais*, *deux fois par semaine*."
+   ]
+  },
+  {
+   "h": "The passé composé (lessons 34–36)",
+   "body": [
+    "Most verbs: *avoir* + participle (*j'ai mangé, j'ai fini, j'ai vendu*). Irregulars: *eu, été, fait, pris, mis, dit, vu, bu, lu, pu, dû*.",
+    "Movement / change-of-state verbs and all reflexives: *être* + participle, agreeing with the subject: *elle est partie, ils sont arrivés, je me suis levée*."
+   ],
+   "table": {
+    "head": [
+     "Auxiliary",
+     "Example"
+    ],
+    "rows": [
+     [
+      "avoir + regular",
+      "J'ai travaillé hier."
+     ],
+     [
+      "avoir + irregular",
+      "On a pris l'autobus."
+     ],
+     [
+      "être + movement",
+      "Elle est allée au chalet."
+     ],
+     [
+      "être + reflexive",
+      "Nous nous sommes couchés tard."
+     ]
+    ]
+   },
+   "tip": "Être verb? Agree the participle with the subject."
+  },
+  {
+   "h": "The Quebec layer so far",
+   "body": [
+    "Words: *dépanneur, en ville, épicerie, liqueur, patates, mononcle, matante, frette, slush, poudrerie, tuque, mitaines, bas, chandail, rondelle*. Expressions: *c'est correct, pantoute, tiguidou, magasiner, être tanné, c'est plate, lâche pas, envoye*.",
+    "Speech patterns: *j'vas / m'as* (je vais), *chu* (je suis), *t'as*, *y* (il / ils), *a* (elle), *pis*, *faque*, *des fois*, the *-tu* question (*Tu viens-tu?*) and dropped *ne*."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Mon chum a une belle tuque rouge.",
+   "en": "My boyfriend has a nice red toque.",
+   "note": "possessive + adjective placement"
+  },
+  {
+   "fr": "Le dépanneur est en face de la pharmacie.",
+   "en": "The corner store is across from the pharmacy."
+  },
+  {
+   "fr": "On va magasiner en ville samedi.",
+   "en": "We're going shopping downtown on Saturday.",
+   "note": "futur proche"
+  },
+  {
+   "fr": "Les enfants finissent l'école à trois heures.",
+   "en": "The kids finish school at three."
+  },
+  {
+   "fr": "Je prends l'autobus parce qu'il neige.",
+   "en": "I'm taking the bus because it's snowing."
+  },
+  {
+   "fr": "Il n'y a plus de lait, faque j'vas au dep.",
+   "en": "There's no more milk, so I'm going to the corner store.",
+   "note": "informal Quebec"
+  },
+  {
+   "fr": "Ma tante vient souper dimanche.",
+   "en": "My aunt is coming for supper on Sunday."
+  },
+  {
+   "fr": "Il fait frette, mets tes mitaines!",
+   "en": "It's freezing, put on your mittens!"
+  },
+  {
+   "fr": "Je me lève toujours à six heures.",
+   "en": "I always get up at six."
+  },
+  {
+   "fr": "Je ne mange jamais de viande.",
+   "en": "I never eat meat."
+  },
+  {
+   "fr": "Hier, j'ai fait l'épicerie et j'ai cuisiné.",
+   "en": "Yesterday, I did the groceries and cooked."
+  },
+  {
+   "fr": "Elle est partie au chalet vendredi.",
+   "en": "She left for the cottage on Friday."
+  },
+  {
+   "fr": "Nous nous sommes couchés tard.",
+   "en": "We went to bed late."
+  },
+  {
+   "fr": "T'as vu la game? Le Canadien a gagné!",
+   "en": "Did you see the game? The Canadiens won!"
+  },
+  {
+   "fr": "Lâche pas, c'est presque fini!",
+   "en": "Hang in there, it's almost over!"
+  },
+  {
+   "fr": "Je suis tanné de la slush, j'ai hâte au printemps.",
+   "en": "I'm fed up with slush, I can't wait for spring."
+  }
+ ],
+ "quebec": {
+  "intro": "This lesson's listening is a Quebec street interview (vox pop): quick answers, dropped ne, and lots of the words you learned since lesson 20. Here are the reductions you'll hear most.",
+  "items": [
+   {
+    "std": "Je suis allé au chalet.",
+    "qc": "Chu allé au chalet.",
+    "en": "I went to the cottage.",
+    "note": "chu = je suis"
+   },
+   {
+    "std": "Je vais magasiner.",
+    "qc": "J'vas magasiner.",
+    "en": "I'm going shopping.",
+    "note": "j'vas = je vais"
+   },
+   {
+    "std": "Il fait très froid, donc je reste chez moi.",
+    "qc": "Y fait frette, faque j'reste chez nous.",
+    "en": "It's freezing, so I'm staying home.",
+    "note": "chez nous = at my place, very Quebec"
+   },
+   {
+    "std": "Elle est partie.",
+    "qc": "A l'est partie.",
+    "en": "She left.",
+    "note": "a l'est = elle est"
+   },
+   {
+    "std": "Parfois, je joue au hockey.",
+    "qc": "Des fois, j'joue au hockey.",
+    "en": "Sometimes I play hockey.",
+    "note": "des fois = parfois"
+   },
+   {
+    "std": "Tu viens?",
+    "qc": "Tu viens-tu?",
+    "en": "Are you coming?",
+    "note": "-tu question particle"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Choose the correct sentence.",
+   "options": [
+    "Je suis à chez Marie.",
+    "Je suis chez Marie.",
+    "Je suis au Marie.",
+    "Je suis dans Marie."
+   ],
+   "a": 1,
+   "why": "Chez + person (lesson 22)."
+  },
+  {
+   "t": "mcq",
+   "q": "Ils ___ le métro tous les jours.",
+   "options": [
+    "prendent",
+    "prennent",
+    "prenent",
+    "prends"
+   ],
+   "a": 1,
+   "why": "ils prennent (lesson 25)."
+  },
+  {
+   "t": "mcq",
+   "q": "'Je ne bois pas ___ café.'",
+   "options": [
+    "du",
+    "de",
+    "le",
+    "un"
+   ],
+   "a": 1,
+   "why": "Negative → de (lesson 26)."
+  },
+  {
+   "t": "mcq",
+   "q": "Which uses être in the passé composé?",
+   "options": [
+    "manger",
+    "voir",
+    "tomber",
+    "prendre"
+   ],
+   "a": 2,
+   "why": "Tomber is a change-of-state verb (lesson 36)."
+  },
+  {
+   "t": "mcq",
+   "q": "'Pantoute' means…",
+   "options": [
+    "everywhere",
+    "not at all",
+    "all the time",
+    "perfect"
+   ],
+   "a": 1,
+   "why": "Pantoute = pas du tout (lesson 33)."
+  },
+  {
+   "t": "fill",
+   "q": "Nous ___ à cinq heures. (finir)",
+   "a": [
+    "finissons"
+   ],
+   "en": "We finish at five.",
+   "why": "-iss- in the plural (lesson 24)."
+  },
+  {
+   "t": "fill",
+   "q": "Elle s'est ___ tôt. (se coucher)",
+   "a": [
+    "couchée"
+   ],
+   "en": "She went to bed early.",
+   "why": "Reflexive → être → agreement (lessons 30, 36)."
+  },
+  {
+   "t": "fill",
+   "q": "Hier, j'ai ___ un bon film. (voir)",
+   "a": [
+    "vu"
+   ],
+   "en": "Yesterday, I saw a good movie.",
+   "why": "voir → vu (lesson 35)."
+  },
+  {
+   "t": "fill",
+   "q": "___ printemps, il pleut souvent.",
+   "a": [
+    "Au"
+   ],
+   "en": "In spring, it often rains.",
+   "why": "au printemps (lesson 28)."
+  },
+  {
+   "t": "build",
+   "en": "We're going to see each other tomorrow.",
+   "a": "On va se voir demain."
+  },
+  {
+   "t": "build",
+   "en": "My aunt lives next to the park.",
+   "a": "Ma tante habite à côté du parc."
+  },
+  {
+   "t": "build",
+   "en": "Put on your toque, it's cold!",
+   "a": "Mets ta tuque, il fait froid!"
+  },
+  {
+   "t": "translate",
+   "en": "Yesterday, I stayed home and I read.",
+   "a": [
+    "Hier, je suis resté à la maison et j'ai lu.",
+    "Hier, je suis restée à la maison et j'ai lu.",
+    "Hier, je suis resté chez moi et j'ai lu.",
+    "Hier, je suis restée chez moi et j'ai lu.",
+    "Je suis resté à la maison hier et j'ai lu.",
+    "Je suis restée à la maison hier et j'ai lu."
+   ],
+   "why": "rester → être, lire → avoir + lu (lessons 35–36)."
+  },
+  {
+   "t": "translate",
+   "en": "I often go to the corner store.",
+   "a": [
+    "Je vais souvent au dépanneur.",
+    "Je vais souvent au dep.",
+    "J'vas souvent au dépanneur."
+   ],
+   "why": "Adverb after the verb (lesson 32)."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "à côté de",
+   "en": "next to",
+   "ex": "Le parc est à côté de l'école."
+  },
+  {
+   "fr": "chez",
+   "en": "at the home of",
+   "ex": "On soupe chez Luc."
+  },
+  {
+   "fr": "aller + infinitif",
+   "en": "going to (do)",
+   "ex": "Je vais partir."
+  },
+  {
+   "fr": "finir",
+   "en": "to finish",
+   "ex": "Je finis à cinq heures."
+  },
+  {
+   "fr": "prendre",
+   "en": "to take; to have (food)",
+   "ex": "Je prends un café."
+  },
+  {
+   "fr": "parce que",
+   "en": "because",
+   "ex": "Je reste parce qu'il pleut."
+  },
+  {
+   "fr": "se lever",
+   "en": "to get up",
+   "ex": "Je me lève tôt."
+  },
+  {
+   "fr": "souvent",
+   "en": "often",
+   "ex": "Je patine souvent."
+  },
+  {
+   "fr": "hier",
+   "en": "yesterday",
+   "ex": "Hier, j'ai travaillé."
+  },
+  {
+   "fr": "le dépanneur",
+   "en": "corner store",
+   "g": "m",
+   "ex": "Je vais au dépanneur.",
+   "qc": true
+  },
+  {
+   "fr": "frette",
+   "en": "freezing (informal)",
+   "ex": "Y fait frette!",
+   "qc": true
+  },
+  {
+   "fr": "la tuque",
+   "en": "toque",
+   "g": "f",
+   "ex": "Mets ta tuque.",
+   "qc": true
+  },
+  {
+   "fr": "c'est correct",
+   "en": "it's OK",
+   "ex": "C'est correct, pas de problème.",
+   "qc": true
+  },
+  {
+   "fr": "faque",
+   "en": "so (informal)",
+   "ex": "Faque, on y va?",
+   "qc": true
+  },
+  {
+   "fr": "le vox pop",
+   "en": "street interview",
+   "g": "m",
+   "ex": "Un vox pop à la télé."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "chu allé",
+    "tip": "shü-a-LÉ = je suis allé."
+   },
+   {
+    "fr": "faque",
+    "tip": "FAK = ça fait que (so)."
+   },
+   {
+    "fr": "y fait frette",
+    "tip": "ee-fè-FRÈTT = il fait très froid."
+   },
+   {
+    "fr": "chez nous",
+    "tip": "shé-NOO; in Quebec often means 'my place'."
+   },
+   {
+    "fr": "tu viens-tu",
+    "tip": "tsü-vyin-TSÜ: the second tu is the question marker."
+   },
+   {
+    "fr": "pis",
+    "tip": "PEE = puis (and, and then)."
+   }
+  ],
+  "title": "Vox pop: qu'est-ce que vous avez fait en fin de semaine?",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Bonjour madame! Qu'est-ce que vous avez fait en fin de semaine?",
+    "en": "Hello ma'am! What did you do this weekend?"
+   },
+   {
+    "s": "B",
+    "fr": "Ah, chu allée au chalet avec mon chum. On a fait de la raquette.",
+    "en": "Oh, I went to the cottage with my boyfriend. We went snowshoeing."
+   },
+   {
+    "s": "A",
+    "fr": "Il a fait beau?",
+    "en": "Was the weather nice?"
+   },
+   {
+    "s": "B",
+    "fr": "Samedi, oui, mais dimanche y a eu de la poudrerie, faque on est restés en dedans.",
+    "en": "Saturday, yes, but Sunday there was blowing snow, so we stayed inside."
+   },
+   {
+    "s": "A",
+    "fr": "Merci! Et vous, monsieur?",
+    "en": "Thanks! And you, sir?"
+   },
+   {
+    "s": "B",
+    "fr": "Moi? J'ai magasiné pour des bottes, pis j'ai regardé la game du Canadien.",
+    "en": "Me? I shopped for boots, and I watched the Canadiens game."
+   },
+   {
+    "s": "A",
+    "fr": "Ils ont gagné?",
+    "en": "Did they win?"
+   },
+   {
+    "s": "B",
+    "fr": "Pantoute! Ils ont perdu cinq à un. C'est plate, mais lâche pas, le CH!",
+    "en": "Not at all! They lost five to one. Too bad, but hang in there, Habs!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What did the woman do at the cottage?",
+    "options": [
+     "Skiing",
+     "Snowshoeing",
+     "Skating"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Why did they stay inside on Sunday?",
+    "options": [
+     "It rained",
+     "There was blowing snow",
+     "They were tired"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What was the hockey score?",
+    "options": [
+     "Won 5–1",
+     "Lost 5–1",
+     "Lost 3–1"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Answer the vox pop question: what did you do last weekend? (4–5 sentences, past tense.)",
+   "model": "Samedi, je suis allé au marché. J'ai acheté des légumes et du fromage. Le soir, on a soupé chez mes beaux-parents. Dimanche, je me suis levé tard et j'ai fait du vélo."
+  },
+  {
+   "prompt": "Say what you are going to do next weekend (futur proche).",
+   "model": "La fin de semaine prochaine, je vais aller patiner et je vais magasiner une tuque."
+  },
+  {
+   "prompt": "Describe your daily routine in 4 sentences with reflexive verbs and frequency words.",
+   "model": "D'habitude, je me lève à six heures. Je me douche toujours le matin. Je me couche rarement avant onze heures. Le dimanche, je me repose."
+  }
+ ],
+ "write": {
+  "prompt": "Checkpoint writing: write 8 sentences about a recent day, mixing the passé composé (avoir and être), a reflexive verb, a partitive, a connector and one Quebec expression.",
+  "model": "Samedi, je me suis levé à huit heures. J'ai pris un café et du pain. Ensuite, je suis allé au dépanneur pour acheter du lait. Il a fait frette toute la journée, alors j'ai mis ma tuque et mes mitaines. L'après-midi, ma sœur est venue chez moi. Nous avons joué aux cartes et nous avons jasé. Le soir, on a regardé la game. On a eu du fun!"
+ },
+ "quiz": [
+  {
+   "q": "'À Québec' vs 'au Québec':",
+   "options": [
+    "same meaning",
+    "city vs province",
+    "province vs city",
+    "both wrong"
+   ],
+   "a": 1,
+   "why": "à Québec = the city; au Québec = the province."
+  },
+  {
+   "q": "'Je viens de manger' means…",
+   "options": [
+    "I'm going to eat",
+    "I just ate",
+    "I come from eating",
+    "I eat"
+   ],
+   "a": 1,
+   "why": "venir de + infinitive (lesson 25)."
+  },
+  {
+   "q": "'J'aime ___ fromage.'",
+   "options": [
+    "du",
+    "le",
+    "de",
+    "des"
+   ],
+   "a": 1,
+   "why": "Taste verbs use le / la / les (lesson 26)."
+  },
+  {
+   "q": "Imperative of 'aller' (tu):",
+   "options": [
+    "Vas!",
+    "Va!",
+    "Allez!",
+    "Aller!"
+   ],
+   "a": 1,
+   "why": "-er verbs and aller drop the s (lesson 31)."
+  },
+  {
+   "q": "'Il a fait beau' is the past of…",
+   "options": [
+    "il fait beau",
+    "il est beau",
+    "il a beau",
+    "il va faire beau"
+   ],
+   "a": 0,
+   "why": "faire → fait (lessons 28, 35)."
+  },
+  {
+   "q": "'Nous sommes ___.' (partir, group of women)",
+   "options": [
+    "parti",
+    "partis",
+    "parties",
+    "partie"
+   ],
+   "a": 2,
+   "why": "Feminine plural agreement with être (lesson 36)."
+  },
+  {
+   "q": "In Quebec, 'les bas' are…",
+   "options": [
+    "stockings",
+    "socks",
+    "pants",
+    "the bottom floor"
+   ],
+   "a": 1,
+   "why": "Lesson 37."
+  },
+  {
+   "q": "'Faque' and 'pis' are…",
+   "options": [
+    "formal connectors",
+    "informal Quebec for 'so' and 'and'",
+    "verbs",
+    "insults"
+   ],
+   "a": 1,
+   "why": "Lesson 29."
+  },
+  {
+   "q": "'Mononcle' is…",
+   "options": [
+    "my only uncle",
+    "informal Quebec for mon oncle",
+    "a monocle",
+    "a grandfather"
+   ],
+   "a": 1,
+   "why": "Lesson 27."
+  },
+  {
+   "q": "'La rondelle' is used in…",
+   "options": [
+    "cooking",
+    "hockey",
+    "music",
+    "weather"
+   ],
+   "a": 1,
+   "why": "Rondelle = puck (lesson 38)."
+  }
+ ]
+}

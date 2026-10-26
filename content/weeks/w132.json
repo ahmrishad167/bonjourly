@@ -1,0 +1,640 @@
+{
+ "w": 132,
+ "title": "Complex inversions",
+ "goal": "By the end of this lesson you can form and understand complex inversion with a noun subject, inversion after adverbs like peut-être and à peine, inversion in reporting clauses, and stylistic inversion, and you know which register each belongs to.",
+ "learn": [
+  {
+   "h": "Complex inversion: noun + verb + pronoun",
+   "body": [
+    "With a pronoun subject, formal questions invert directly: *Viendra-t-il?* With a **noun** subject, you cannot invert the noun. Instead, keep the noun first and add a pronoun after the verb: *Votre fils viendra-t-il?* This is called complex inversion.",
+    "Add *-t-* between a verb ending in a vowel and *il/elle/on*: *Le ministre a-t-il répondu? La ville va-t-elle agir?* In compound tenses, only the auxiliary inverts: *Les négociations ont-elles échoué?*"
+   ],
+   "table": {
+    "head": [
+     "Neutral",
+     "Formal (complex inversion)"
+    ],
+    "rows": [
+     [
+      "Est-ce que ton père vient?",
+      "Ton père vient-il?"
+     ],
+     [
+      "Est-ce que la réunion a commencé?",
+      "La réunion a-t-elle commencé?"
+     ],
+     [
+      "Pourquoi est-ce que le gouvernement recule?",
+      "Pourquoi le gouvernement recule-t-il?"
+     ],
+     [
+      "Quand est-ce que les travaux vont finir?",
+      "Quand les travaux vont-ils finir?"
+     ]
+    ]
+   },
+   "tip": "The pronoun after the verb repeats the noun: same gender, same number."
+  },
+  {
+   "h": "Simple (stylistic) inversion of a noun",
+   "body": [
+    "After *où, quand, comment, combien, que* and in some relative clauses, a noun subject can simply follow the verb, if the verb has no direct object: *Où est né Félix Leclerc? Comment va votre mère? Que veut le peuple?*",
+    "This is impossible with *pourquoi* (always complex: *Pourquoi Marie est-elle partie?*) and when the verb has a direct object.",
+    "In relative clauses, writers often invert to put a long subject at the end: *la maison qu'a construite mon grand-père*, *le pays où vivent mes ancêtres*."
+   ]
+  },
+  {
+   "h": "Inversion after adverbs at the start of a sentence",
+   "body": [
+    "When certain adverbs open a sentence in formal French, the subject pronoun is inverted (or complex inversion is used with a noun): *Peut-être viendra-t-il. Sans doute a-t-elle raison. À peine était-il arrivé que la tempête a commencé.*",
+    "*Aussi* at the start means 'therefore' (not 'also') and triggers inversion: *Le budget est limité; aussi devrons-nous faire des choix.*"
+   ],
+   "table": {
+    "head": [
+     "Adverb",
+     "Formal",
+     "Everyday"
+    ],
+    "rows": [
+     [
+      "peut-être",
+      "Peut-être viendra-t-il.",
+      "Peut-être qu'il viendra. / Il viendra peut-être."
+     ],
+     [
+      "sans doute",
+      "Sans doute a-t-elle raison.",
+      "Elle a sans doute raison."
+     ],
+     [
+      "à peine",
+      "À peine était-il sorti que…",
+      "Il était à peine sorti que…"
+     ],
+     [
+      "aussi (= so)",
+      "Aussi avons-nous décidé…",
+      "Donc, on a décidé…"
+     ],
+     [
+      "ainsi",
+      "Ainsi le projet est-il abandonné.",
+      "Le projet est donc abandonné."
+     ],
+     [
+      "encore",
+      "Encore faut-il le prouver.",
+      "Mais il faut le prouver."
+     ]
+    ]
+   },
+   "tip": "Peut-être que + no inversion, or peut-être + inversion. Never both."
+  },
+  {
+   "h": "Inversion in reporting clauses (incises)",
+   "body": [
+    "After quoted speech, the reporting verb always inverts, in every register of written French: *« Je ne suis pas d'accord », a déclaré la ministre. « Viens ici! » cria-t-il.*",
+    "With a pronoun subject in a compound tense: *« Bien sûr », a-t-elle répondu.* With a noun: *« C'est fini », a annoncé le premier ministre.*"
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Votre fils viendra-t-il au souper?",
+   "en": "Will your son come to supper?",
+   "note": "complex inversion: noun + verb + il"
+  },
+  {
+   "fr": "La ministre a-t-elle répondu aux questions des journalistes?",
+   "en": "Did the minister answer the journalists' questions?",
+   "note": "auxiliary inverted, -t- added"
+  },
+  {
+   "fr": "Pourquoi le gouvernement a-t-il reculé?",
+   "en": "Why did the government back down?",
+   "note": "pourquoi always takes complex inversion"
+  },
+  {
+   "fr": "Les négociations vont-elles reprendre lundi?",
+   "en": "Will negotiations resume on Monday?",
+   "note": "plural feminine pronoun repeats négociations"
+  },
+  {
+   "fr": "Où est né Félix Leclerc?",
+   "en": "Where was Félix Leclerc born?",
+   "note": "simple inversion after où"
+  },
+  {
+   "fr": "Comment va votre mère?",
+   "en": "How is your mother?",
+   "note": "simple inversion, very common even in speech"
+  },
+  {
+   "fr": "Que pensent les citoyens de ce projet?",
+   "en": "What do citizens think of this project?",
+   "note": "simple inversion after que"
+  },
+  {
+   "fr": "Voici la maison qu'a construite mon grand-père.",
+   "en": "Here's the house my grandfather built.",
+   "note": "inversion in a relative clause; note agreement construite"
+  },
+  {
+   "fr": "Peut-être viendra-t-il demain.",
+   "en": "Perhaps he'll come tomorrow.",
+   "note": "formal: peut-être + inversion"
+  },
+  {
+   "fr": "Peut-être qu'il viendra demain.",
+   "en": "Maybe he'll come tomorrow.",
+   "note": "everyday: peut-être que, no inversion"
+  },
+  {
+   "fr": "Sans doute avez-vous déjà entendu cette chanson.",
+   "en": "You have probably already heard this song.",
+   "note": "sans doute = probably"
+  },
+  {
+   "fr": "À peine était-il sorti qu'il s'est mis à neiger.",
+   "en": "He had barely gone out when it started to snow.",
+   "note": "à peine… que"
+  },
+  {
+   "fr": "Les places sont limitées; aussi vous conseillons-nous de réserver.",
+   "en": "Seats are limited; we therefore advise you to book.",
+   "note": "aussi = therefore + inversion"
+  },
+  {
+   "fr": "« La séance est levée », a annoncé la présidente.",
+   "en": "'The meeting is adjourned,' announced the chair.",
+   "note": "incise: verb before subject"
+  },
+  {
+   "fr": "« Je n'en sais rien », répondit-il sèchement.",
+   "en": "'I know nothing about it,' he replied curtly.",
+   "note": "incise with passé simple, typical of novels"
+  },
+  {
+   "fr": "Encore faut-il trouver le financement.",
+   "en": "Still, the funding has to be found.",
+   "note": "encore + inversion = yet, still"
+  }
+ ],
+ "quebec": {
+  "intro": "Complex inversion is the register of speeches, Radio-Canada news anchors and editorials. In everyday Quebec speech, yes/no questions keep the statement order and add the particle -tu after the verb (from the old -t-il). It is informal but extremely common, for every person.",
+  "items": [
+   {
+    "std": "Votre père vient-il?",
+    "qc": "Ton père vient-tu?",
+    "en": "Is your father coming?",
+    "note": "-tu particle; informal"
+   },
+   {
+    "std": "Y a-t-il du lait?",
+    "qc": "Y'a-tu du lait?",
+    "en": "Is there any milk?",
+    "note": "very common informal question"
+   },
+   {
+    "std": "Le magasin est-il ouvert?",
+    "qc": "Le magasin est-tu ouvert?",
+    "en": "Is the store open?",
+    "note": "-tu works with any subject; informal"
+   },
+   {
+    "std": "Pourquoi le gouvernement a-t-il reculé?",
+    "qc": "Pourquoi le gouvernement a reculé?",
+    "en": "Why did the government back down?",
+    "note": "statement order + question word; informal"
+   },
+   {
+    "std": "Peut-être viendra-t-il.",
+    "qc": "Peut-être qu'y va venir.",
+    "en": "Maybe he'll come.",
+    "note": "peut-être que + y = il; informal"
+   },
+   {
+    "std": "« Je refuse », a-t-il dit.",
+    "qc": "Pis là y m'a dit : « Je refuse. »",
+    "en": "And then he said to me: 'I refuse.'",
+    "note": "storytelling order in speech"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Formal version of 'Est-ce que ta sœur travaille?'",
+   "options": [
+    "Travaille ta sœur?",
+    "Ta sœur travaille-t-elle?",
+    "Ta sœur travaille-elle?",
+    "Travaille-t-elle ta sœur?"
+   ],
+   "a": 1,
+   "why": "Noun first, then verb + -t- + elle."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is correct?",
+   "options": [
+    "Pourquoi est parti Marc?",
+    "Pourquoi Marc est-il parti?",
+    "Pourquoi Marc est-t-il parti?",
+    "Pourquoi est-il Marc parti?"
+   ],
+   "a": 1,
+   "why": "Pourquoi requires complex inversion; no extra -t- after est."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is correct?",
+   "options": [
+    "Peut-être qu'il viendra-t-il.",
+    "Peut-être viendra-t-il.",
+    "Peut-être il viendra-t-il.",
+    "Peut-être que viendra-t-il."
+   ],
+   "a": 1,
+   "why": "Either peut-être + inversion, or peut-être que + normal order."
+  },
+  {
+   "t": "mcq",
+   "q": "At the start of a sentence, 'Aussi avons-nous décidé…' means…",
+   "options": [
+    "We also decided…",
+    "Therefore we decided…",
+    "We decided too late…",
+    "Have we decided?"
+   ],
+   "a": 1,
+   "why": "Initial aussi + inversion = therefore."
+  },
+  {
+   "t": "mcq",
+   "q": "'Y'a-tu du monde?' is…",
+   "options": [
+    "Formal French",
+    "Informal Quebec for 'Are there people?'",
+    "A mistake for 'Il y a toi?'",
+    "Old literary French"
+   ],
+   "a": 1,
+   "why": "The particle -tu marks a yes/no question in Quebec speech."
+  },
+  {
+   "t": "fill",
+   "q": "Le train ___-t-il en retard? (être)",
+   "a": [
+    "est"
+   ],
+   "en": "Is the train late?",
+   "why": "Est ends in t, so no extra -t-: est-il."
+  },
+  {
+   "t": "fill",
+   "q": "La mairesse a-t-___ annoncé sa démission?",
+   "a": [
+    "elle"
+   ],
+   "en": "Has the mayor announced her resignation?",
+   "why": "The pronoun repeats la mairesse: elle."
+  },
+  {
+   "t": "fill",
+   "q": "« C'est terminé », ___ le juge. (a déclaré, inverted)",
+   "a": [
+    "a déclaré"
+   ],
+   "en": "'It's over,' declared the judge.",
+   "why": "In an incise, the verb comes before the noun subject."
+  },
+  {
+   "t": "fill",
+   "q": "À ___ était-elle arrivée que le téléphone a sonné.",
+   "a": [
+    "peine"
+   ],
+   "en": "She had barely arrived when the phone rang.",
+   "why": "À peine… que + inversion."
+  },
+  {
+   "t": "build",
+   "en": "Will your son come?",
+   "a": "Votre fils viendra-t-il?"
+  },
+  {
+   "t": "build",
+   "en": "Why did the minister resign?",
+   "a": "Pourquoi la ministre a-t-elle démissionné?"
+  },
+  {
+   "t": "build",
+   "en": "Perhaps she is right.",
+   "a": "Peut-être a-t-elle raison."
+  },
+  {
+   "t": "translate",
+   "en": "Is the store open?",
+   "a": [
+    "Le magasin est-il ouvert?",
+    "Est-ce que le magasin est ouvert?",
+    "Le magasin est ouvert?",
+    "Le magasin est-tu ouvert?"
+   ],
+   "why": "Formal, neutral, informal and Quebec -tu are all possible."
+  },
+  {
+   "t": "translate",
+   "en": "How is your mother?",
+   "a": [
+    "Comment va votre mère?",
+    "Comment va ta mère?",
+    "Comment ta mère va-t-elle?",
+    "Comment votre mère va-t-elle?"
+   ],
+   "why": "Simple inversion after comment is the most natural."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "l'inversion",
+   "en": "inversion",
+   "g": "f",
+   "ex": "L'inversion est typique de l'écrit."
+  },
+  {
+   "fr": "reculer",
+   "en": "to back down, move back",
+   "ex": "Le gouvernement a reculé."
+  },
+  {
+   "fr": "la négociation",
+   "en": "negotiation",
+   "g": "f",
+   "ex": "Les négociations ont repris."
+  },
+  {
+   "fr": "échouer",
+   "en": "to fail",
+   "ex": "Les pourparlers ont échoué."
+  },
+  {
+   "fr": "démissionner",
+   "en": "to resign",
+   "ex": "Le ministre a démissionné."
+  },
+  {
+   "fr": "la démission",
+   "en": "resignation",
+   "g": "f",
+   "ex": "Elle a remis sa démission."
+  },
+  {
+   "fr": "le premier ministre / la première ministre",
+   "en": "premier, prime minister",
+   "ex": "La première ministre a pris la parole."
+  },
+  {
+   "fr": "la mairesse",
+   "en": "mayor (woman)",
+   "g": "f",
+   "ex": "La mairesse a inauguré le parc."
+  },
+  {
+   "fr": "déclarer",
+   "en": "to declare, state",
+   "ex": "« Rien n'est décidé », a-t-il déclaré."
+  },
+  {
+   "fr": "à peine",
+   "en": "barely, hardly",
+   "ex": "À peine arrivé, il est reparti."
+  },
+  {
+   "fr": "sans doute",
+   "en": "probably",
+   "ex": "Il a sans doute oublié."
+  },
+  {
+   "fr": "sans aucun doute",
+   "en": "without any doubt",
+   "ex": "C'est sans aucun doute le meilleur."
+  },
+  {
+   "fr": "le financement",
+   "en": "funding",
+   "g": "m",
+   "ex": "Le financement n'est pas assuré."
+  },
+  {
+   "fr": "lever la séance",
+   "en": "to adjourn the meeting",
+   "ex": "La présidente lève la séance."
+  },
+  {
+   "fr": "-tu (particle)",
+   "en": "yes/no question marker (informal)",
+   "ex": "Tu viens-tu?",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "a-t-il",
+    "tip": "[a-TIL]: the -t- links smoothly."
+   },
+   {
+    "fr": "va-t-elle",
+    "tip": "[va-TÈL]."
+   },
+   {
+    "fr": "viendra-t-il",
+    "tip": "[vyin-dra-TIL]."
+   },
+   {
+    "fr": "est-il",
+    "tip": "The t of est is pronounced: [è-TIL]."
+   },
+   {
+    "fr": "Tu viens-tu?",
+    "tip": "Quebec: the second tu is [tsu]: [tu vyin-TSU]."
+   },
+   {
+    "fr": "Y'a-tu",
+    "tip": "[ya-TSU]: one quick unit."
+   }
+  ],
+  "title": "Bulletin de nouvelles",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Bonsoir. Le gouvernement va-t-il reporter la hausse des tarifs d'électricité?",
+    "en": "Good evening. Will the government postpone the electricity rate increase?"
+   },
+   {
+    "s": "A",
+    "fr": "« Aucune décision n'a été prise », a déclaré la ministre de l'Énergie cet après-midi.",
+    "en": "'No decision has been made,' the Energy minister stated this afternoon."
+   },
+   {
+    "s": "A",
+    "fr": "Peut-être le Conseil des ministres tranchera-t-il dès mercredi.",
+    "en": "Perhaps the cabinet will decide as early as Wednesday."
+   },
+   {
+    "s": "B",
+    "fr": "Coudonc, y vont-tu l'augmenter ou pas, l'électricité?",
+    "en": "So, are they going to raise electricity prices or not?"
+   },
+   {
+    "s": "A",
+    "fr": "Ça, personne le sait encore. Peut-être qu'y vont décider mercredi.",
+    "en": "Nobody knows yet. Maybe they'll decide on Wednesday."
+   },
+   {
+    "s": "B",
+    "fr": "Pourquoi y attendent toujours à la dernière minute?",
+    "en": "Why do they always wait until the last minute?"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What topic is the news bulletin about?",
+    "options": [
+     "Gas prices",
+     "Electricity rates",
+     "Public transit"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What did the minister say?",
+    "options": [
+     "Rates will go up",
+     "No decision has been made",
+     "Rates will go down"
+    ],
+    "a": 1
+   },
+   {
+    "q": "When might a decision be made?",
+    "options": [
+     "Tonight",
+     "Wednesday",
+     "Next month"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "You are a news anchor. Ask three formal questions about local news using complex inversion.",
+   "model": "La Ville va-t-elle prolonger la ligne bleue? Les cols bleus déclencheront-ils une grève? Pourquoi le maire a-t-il annulé sa conférence de presse?"
+  },
+  {
+   "prompt": "Now ask the same three questions the way you'd ask a friend in Quebec.",
+   "model": "La Ville va-tu prolonger la ligne bleue? Les cols bleus vont-tu faire la grève? Pourquoi le maire a annulé sa conférence de presse?"
+  },
+  {
+   "prompt": "Make three formal statements beginning with peut-être, sans doute and à peine.",
+   "model": "Peut-être le projet sera-t-il approuvé. Sans doute les citoyens seront-ils consultés. À peine la séance avait-elle commencé que les questions ont fusé."
+  }
+ ],
+ "write": {
+  "prompt": "Write a short news report (5–6 sentences) about a city council meeting. Include two complex inversions, one incise and one sentence beginning with sans doute or aussi.",
+  "model": "Le conseil municipal de Sherbrooke s'est réuni hier soir. La Ville va-t-elle enfin construire une nouvelle piscine? « Le projet est une priorité », a affirmé la mairesse. Les coûts ont cependant augmenté de 20 %; aussi le conseil a-t-il demandé une nouvelle étude. Les citoyens seront-ils consultés? Sans doute le seront-ils au printemps."
+ },
+ "quiz": [
+  {
+   "q": "In complex inversion, which element is inverted?",
+   "options": [
+    "The noun subject",
+    "A pronoun repeating the noun",
+    "The object",
+    "The adverb"
+   ],
+   "a": 1,
+   "why": "Ta sœur vient-elle? The noun stays first."
+  },
+  {
+   "q": "Why is there a -t- in 'parle-t-il'?",
+   "options": [
+    "For meaning",
+    "To avoid two vowels clashing",
+    "Because il is plural",
+    "Only in Quebec"
+   ],
+   "a": 1,
+   "why": "The -t- is euphonic, between two vowels."
+  },
+  {
+   "q": "Which question word never allows simple noun inversion?",
+   "options": [
+    "où",
+    "comment",
+    "pourquoi",
+    "quand"
+   ],
+   "a": 2,
+   "why": "Pourquoi Paul est-il parti? Not *Pourquoi est parti Paul?"
+  },
+  {
+   "q": "Which is everyday style?",
+   "options": [
+    "Sans doute a-t-il raison.",
+    "Il a sans doute raison.",
+    "Aussi a-t-il raison.",
+    "À peine a-t-il raison."
+   ],
+   "a": 1,
+   "why": "Placing the adverb after the verb avoids inversion."
+  },
+  {
+   "q": "In '« Non », répondit-elle', the inversion is…",
+   "options": [
+    "optional and rare",
+    "standard in all written French",
+    "a Quebec feature",
+    "incorrect"
+   ],
+   "a": 1,
+   "why": "Reporting clauses after quotes always invert."
+  },
+  {
+   "q": "'Encore faut-il le prouver' means…",
+   "options": [
+    "You have to prove it again",
+    "Still, it has to be proven",
+    "It must be proven more",
+    "It's already proven"
+   ],
+   "a": 1,
+   "why": "Initial encore + inversion = 'still / yet'."
+  },
+  {
+   "q": "The Quebec -tu particle comes historically from…",
+   "options": [
+    "the pronoun tu",
+    "the -t-il of inversion",
+    "English 'too'",
+    "the verb tuer"
+   ],
+   "a": 1,
+   "why": "Older -ti (from -t-il) became -tu in Quebec."
+  },
+  {
+   "q": "'la maison qu'a construite mon père' — why construite?",
+   "options": [
+    "Agreement with père",
+    "Agreement with the preceding direct object maison",
+    "It's a typo",
+    "Quebec spelling"
+   ],
+   "a": 1,
+   "why": "Avoir + preceding direct object (que = la maison) → agreement."
+  }
+ ]
+}

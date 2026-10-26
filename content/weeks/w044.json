@@ -1,0 +1,639 @@
+{
+ "w": 44,
+ "title": "Direct object pronouns: le, la, les",
+ "goal": "By the end of this lesson you can replace a direct object with le, la, l' or les, put the pronoun in the right place in the present, the futur proche, the negative and the passé composé.",
+ "learn": [
+  {
+   "h": "What is a direct object?",
+   "body": [
+    "A direct object receives the action directly, with no preposition: *Je vois* **Marie**. *Je mange* **la pomme**. *J'aime* **les chiens**.",
+    "To avoid repeating it, French replaces it with a short pronoun: *le* (him, it, masculine), *la* (her, it, feminine), *les* (them). Before a vowel or silent h, *le* and *la* become *l'*."
+   ],
+   "table": {
+    "head": [
+     "Object",
+     "Pronoun",
+     "Example"
+    ],
+    "rows": [
+     [
+      "le film (m)",
+      "le",
+      "Je le regarde."
+     ],
+     [
+      "la voiture (f)",
+      "la",
+      "Je la lave."
+     ],
+     [
+      "l'ordinateur",
+      "l'",
+      "Je l'utilise."
+     ],
+     [
+      "les clés (pl)",
+      "les",
+      "Je les cherche."
+     ],
+     [
+      "Marc",
+      "le",
+      "Je le connais."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "The pronoun goes before the verb",
+   "body": [
+    "Unlike English (I see *him*), French puts the pronoun in front of the conjugated verb: *Je* **le** *vois*. *Tu* **la** *connais?* *Nous* **les** *invitons*.",
+    "In the negative, *ne* goes before the pronoun and *pas* after the verb: *Je* **ne le** *vois* **pas**. *Elle* **ne les** *aime* **pas**."
+   ],
+   "tip": "Pronoun and verb are glued together: ne + pronoun + verb + pas."
+  },
+  {
+   "h": "With an infinitive: futur proche, vouloir, pouvoir",
+   "body": [
+    "When there are two verbs, the pronoun goes in front of the verb it belongs to, which is the infinitive: *Je vais* **le** *faire*. *Tu peux* **la** *prendre*. *On veut* **les** *voir*.",
+    "Negative: *Je ne vais pas le faire.* The *ne…pas* wraps the first verb; the pronoun stays with the infinitive."
+   ]
+  },
+  {
+   "h": "In the passé composé",
+   "body": [
+    "In the passé composé, the pronoun goes before the auxiliary *avoir*: *Je* **l'***ai vu*. *Tu* **les** *as achetés?* Negative: *Je ne l'ai pas vu.*",
+    "Notice the agreement: when the direct object comes before *avoir*, the past participle agrees with it in writing: *La lettre? Je l'ai écrit***e**. *Les clés? Je les ai trouvé***es**. We will practise this rule in detail in lesson 46."
+   ]
+  },
+  {
+   "h": "Me, te, nous, vous, and the imperative",
+   "body": [
+    "The other direct object pronouns are the same as the reflexive ones: *me* (me), *te* (you), *nous* (us), *vous* (you): *Il* **me** *regarde*. *Je* **t'***aime*. *Elle* **nous** *invite*.",
+    "In a positive command, the pronoun goes after the verb with a hyphen: *Regarde-***le**! *Prends-***la**! *Achetez-***les**! In a negative command it goes back in front: *Ne* **le** *regarde pas!*"
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Tu connais Julie? Oui, je la connais bien.",
+   "en": "Do you know Julie? Yes, I know her well.",
+   "note": "la replaces Julie"
+  },
+  {
+   "fr": "Le film? Je le regarde ce soir.",
+   "en": "The movie? I'm watching it tonight.",
+   "note": "le replaces le film"
+  },
+  {
+   "fr": "Mes clés? Je les cherche depuis une heure.",
+   "en": "My keys? I've been looking for them for an hour.",
+   "note": "les replaces mes clés"
+  },
+  {
+   "fr": "L'autobus? Je le prends tous les matins.",
+   "en": "The bus? I take it every morning.",
+   "note": "autobus is masculine, so le"
+  },
+  {
+   "fr": "Cette chanson, je l'adore!",
+   "en": "That song, I love it!",
+   "note": "la becomes l' before a vowel"
+  },
+  {
+   "fr": "Je ne le comprends pas.",
+   "en": "I don't understand him / it.",
+   "note": "ne + pronoun + verb + pas"
+  },
+  {
+   "fr": "On va les inviter samedi.",
+   "en": "We're going to invite them on Saturday.",
+   "note": "futur proche: the pronoun goes before the infinitive"
+  },
+  {
+   "fr": "Je peux la porter pour toi.",
+   "en": "I can carry it for you.",
+   "note": "la refers to a feminine noun, like la boîte"
+  },
+  {
+   "fr": "Ton courriel? Je l'ai lu hier.",
+   "en": "Your email? I read it yesterday.",
+   "note": "passé composé: pronoun before avoir"
+  },
+  {
+   "fr": "Je ne l'ai pas vu de la journée.",
+   "en": "I haven't seen him all day.",
+   "note": "negative passé composé"
+  },
+  {
+   "fr": "Les photos? Je les ai envoyées ce matin.",
+   "en": "The photos? I sent them this morning.",
+   "note": "envoyées agrees with les photos (f pl)"
+  },
+  {
+   "fr": "Ma mère m'appelle tous les dimanches.",
+   "en": "My mother calls me every Sunday.",
+   "note": "me becomes m' before a vowel"
+  },
+  {
+   "fr": "Je t'attends devant le dépanneur.",
+   "en": "I'll wait for you in front of the corner store.",
+   "note": "attendre takes a direct object: no 'for' in French"
+  },
+  {
+   "fr": "Regarde-le! Il est drôle.",
+   "en": "Look at him! He's funny.",
+   "note": "positive command: pronoun after the verb"
+  },
+  {
+   "fr": "Ne la touche pas, elle est chaude.",
+   "en": "Don't touch it, it's hot.",
+   "note": "negative command: pronoun before the verb"
+  },
+  {
+   "fr": "Vous nous écoutez?",
+   "en": "Are you listening to us?",
+   "note": "écouter takes a direct object in French"
+  }
+ ],
+ "quebec": {
+  "intro": "In everyday Quebec speech the e of je and le often disappears, so the pronoun gets squeezed against the verb: 'j'l'ai vu', 'j'les ai', 'j'la connais'. Write the full forms, but train your ear for the short ones.",
+  "items": [
+   {
+    "std": "Je l'ai vu.",
+    "qc": "J'l'ai vu.",
+    "en": "I saw him / it.",
+    "note": "sounds like [jlé vu]; informal speech"
+   },
+   {
+    "std": "Tes billets? Je les ai.",
+    "qc": "Tes billets? J'les ai.",
+    "en": "Your tickets? I have them.",
+    "note": "[jlé zé], with liaison"
+   },
+   {
+    "std": "Je la connais.",
+    "qc": "J'la connais.",
+    "en": "I know her.",
+    "note": "very common in casual speech"
+   },
+   {
+    "std": "Je ne le sais pas.",
+    "qc": "J'le sais pas.",
+    "en": "I don't know (it).",
+    "note": "ne dropped and je shortened; informal"
+   },
+   {
+    "std": "Je vais le faire.",
+    "qc": "J'vas l'faire.",
+    "en": "I'm going to do it.",
+    "note": "j'vas = je vais in Quebec speech"
+   },
+   {
+    "std": "Tu l'as acheté?",
+    "qc": "T'l'as-tu acheté?",
+    "en": "Did you buy it?",
+    "note": "t' for tu, plus the -tu question particle; informal"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Replace the object: 'Je regarde la télé.'",
+   "options": [
+    "Je le regarde.",
+    "Je la regarde.",
+    "Je les regarde.",
+    "Je regarde la."
+   ],
+   "a": 1,
+   "why": "Télé is feminine singular: la, placed before the verb."
+  },
+  {
+   "t": "mcq",
+   "q": "Where does the pronoun go? 'Je vais acheter les billets.'",
+   "options": [
+    "Je les vais acheter.",
+    "Je vais les acheter.",
+    "Je vais acheter les.",
+    "Les je vais acheter."
+   ],
+   "a": 1,
+   "why": "With two verbs, the pronoun goes before the infinitive."
+  },
+  {
+   "t": "mcq",
+   "q": "Negative of 'Je l'aime':",
+   "options": [
+    "Je ne l'aime pas.",
+    "Je l'ne aime pas.",
+    "Je ne aime pas le.",
+    "Je l'aime ne pas."
+   ],
+   "a": 0,
+   "why": "ne + pronoun + verb + pas."
+  },
+  {
+   "t": "mcq",
+   "q": "'Le gâteau? Je ___ ai mangé.'",
+   "options": [
+    "le",
+    "l'",
+    "la",
+    "les"
+   ],
+   "a": 1,
+   "why": "Le becomes l' before the vowel of ai."
+  },
+  {
+   "t": "fill",
+   "q": "Les enfants? Je ___ vois au parc. (them)",
+   "a": [
+    "les"
+   ],
+   "en": "The children? I see them at the park.",
+   "why": "Plural direct object: les."
+  },
+  {
+   "t": "fill",
+   "q": "Ta sœur? Je ___ connais bien. (her)",
+   "a": [
+    "la"
+   ],
+   "en": "Your sister? I know her well.",
+   "why": "Feminine singular: la."
+  },
+  {
+   "t": "fill",
+   "q": "Ton livre? Je ___ ai oublié chez moi. (it)",
+   "a": [
+    "l'"
+   ],
+   "en": "Your book? I forgot it at home.",
+   "why": "Le + ai = l'ai."
+  },
+  {
+   "t": "fill",
+   "q": "Mon père ___ appelle souvent. (me)",
+   "a": [
+    "m'"
+   ],
+   "en": "My father often calls me.",
+   "why": "Me becomes m' before a vowel."
+  },
+  {
+   "t": "build",
+   "en": "I'm going to call her tonight.",
+   "a": "Je vais l'appeler ce soir."
+  },
+  {
+   "t": "build",
+   "en": "We don't know them.",
+   "a": "Nous ne les connaissons pas."
+  },
+  {
+   "t": "build",
+   "en": "Look at him, he's funny!",
+   "a": "Regarde-le, il est drôle!"
+  },
+  {
+   "t": "translate",
+   "en": "I saw it yesterday.",
+   "a": [
+    "Je l'ai vu hier.",
+    "Je l'ai vue hier.",
+    "Hier, je l'ai vu.",
+    "Hier, je l'ai vue."
+   ],
+   "why": "The pronoun goes before avoir; vue if 'it' is feminine."
+  },
+  {
+   "t": "translate",
+   "en": "Do you know him?",
+   "a": [
+    "Tu le connais?",
+    "Vous le connaissez?",
+    "Est-ce que tu le connais?",
+    "Est-ce que vous le connaissez?",
+    "Le connais-tu?",
+    "Le connaissez-vous?"
+   ],
+   "why": "Le before connaître."
+  },
+  {
+   "t": "translate",
+   "en": "I'm waiting for you.",
+   "a": [
+    "Je t'attends.",
+    "Je vous attends."
+   ],
+   "why": "Attendre takes a direct object: no word for 'for'."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "le / la / l'",
+   "en": "him, her, it (object)",
+   "ex": "Je le vois. Je la vois."
+  },
+  {
+   "fr": "les",
+   "en": "them (object)",
+   "ex": "Je les invite."
+  },
+  {
+   "fr": "me / te",
+   "en": "me / you (object)",
+   "ex": "Tu me comprends?"
+  },
+  {
+   "fr": "nous / vous",
+   "en": "us / you (object)",
+   "ex": "Il nous attend."
+  },
+  {
+   "fr": "connaître",
+   "en": "to know (a person, a place)",
+   "ex": "Je la connais depuis l'école."
+  },
+  {
+   "fr": "chercher",
+   "en": "to look for",
+   "ex": "Je les cherche partout."
+  },
+  {
+   "fr": "attendre",
+   "en": "to wait for",
+   "ex": "Je t'attends dehors."
+  },
+  {
+   "fr": "écouter",
+   "en": "to listen to",
+   "ex": "Tu l'écoutes, ce podcast?"
+  },
+  {
+   "fr": "regarder",
+   "en": "to look at, to watch",
+   "ex": "Je le regarde le soir."
+  },
+  {
+   "fr": "inviter",
+   "en": "to invite",
+   "ex": "On les invite à souper."
+  },
+  {
+   "fr": "oublier",
+   "en": "to forget",
+   "ex": "Je l'ai oublié au bureau."
+  },
+  {
+   "fr": "trouver",
+   "en": "to find",
+   "ex": "Je les ai trouvées!"
+  },
+  {
+   "fr": "aider",
+   "en": "to help",
+   "ex": "Tu peux m'aider?"
+  },
+  {
+   "fr": "les clés",
+   "en": "keys",
+   "g": "f",
+   "ex": "Où sont mes clés?"
+  },
+  {
+   "fr": "le billet",
+   "en": "ticket",
+   "g": "m",
+   "ex": "Les billets? Je les ai."
+  },
+  {
+   "fr": "le courriel",
+   "en": "email",
+   "g": "m",
+   "ex": "Je l'ai lu, ton courriel.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "je le vois / je les vois",
+    "tip": "le [luh] vs les [lé]: the vowel tells you singular or plural."
+   },
+   {
+    "fr": "je les aime",
+    "tip": "Liaison in [z]: juh lé-ZÈM."
+   },
+   {
+    "fr": "je l'ai vu",
+    "tip": "Three quick syllables: juh-lé-VU."
+   },
+   {
+    "fr": "J'l'ai vu",
+    "tip": "Quebec casual: two syllables, [jlé vu]."
+   },
+   {
+    "fr": "regarde-le",
+    "tip": "Stress falls on le: ruh-gar-duh-LUH."
+   },
+   {
+    "fr": "je t'attends",
+    "tip": "t' links to the verb: juh ta-TAHN."
+   }
+  ],
+  "title": "Les clés perdues",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "As-tu vu mes clés? Je les cherche partout.",
+    "en": "Have you seen my keys? I'm looking everywhere for them."
+   },
+   {
+    "s": "B",
+    "fr": "Non, j'les ai pas vues. Tu les avais à matin?",
+    "en": "No, I haven't seen them. Did you have them this morning?"
+   },
+   {
+    "s": "A",
+    "fr": "Oui, je les ai prises pour aller au dépanneur.",
+    "en": "Yes, I took them to go to the corner store."
+   },
+   {
+    "s": "B",
+    "fr": "Pis ton manteau? Tu l'as regardé?",
+    "en": "And your coat? Did you check it?"
+   },
+   {
+    "s": "A",
+    "fr": "Oui, je l'ai regardé deux fois.",
+    "en": "Yes, I checked it twice."
+   },
+   {
+    "s": "B",
+    "fr": "Attends… ton sac d'épicerie, il est où?",
+    "en": "Wait… your grocery bag, where is it?"
+   },
+   {
+    "s": "A",
+    "fr": "Je l'ai laissé dans la cuisine. Ah! Les voilà! Elles sont dans le sac!",
+    "en": "I left it in the kitchen. Ah! There they are! They're in the bag!"
+   },
+   {
+    "s": "B",
+    "fr": "Tu vois, je t'aide toujours!",
+    "en": "See, I always help you!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Where did A go with the keys this morning?",
+    "options": [
+     "To work",
+     "To the corner store",
+     "To the bank"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What did A check twice?",
+    "options": [
+     "The car",
+     "The coat",
+     "The kitchen"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Where were the keys?",
+    "options": [
+     "In the grocery bag",
+     "In the coat",
+     "On the table"
+    ],
+    "a": 0
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Answer with a pronoun: 'Tu regardes la télé le soir? Tu connais tes voisins? Tu aimes le hockey?'",
+   "model": "Oui, je la regarde le soir. Non, je ne les connais pas bien. Oui, je l'aime beaucoup!"
+  },
+  {
+   "prompt": "Say three things you are going to do this weekend with a pronoun: 'Le ménage? Je vais le faire samedi.'",
+   "model": "Le ménage? Je vais le faire samedi. Mes amis? Je vais les voir dimanche. Ma mère? Je vais l'appeler."
+  },
+  {
+   "prompt": "Say 'I saw him yesterday' in standard French, then the casual Quebec way.",
+   "model": "Je l'ai vu hier. / J'l'ai vu hier."
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences about objects you use every day (phone, car, keys, coffee…). Mention each object once, then refer to it with le, la or les.",
+  "model": "Mon téléphone, je le regarde trop souvent. Je l'utilise même au lit! Mon café, je le bois sans sucre. Mes clés, je les perds tout le temps. Hier, je les ai cherchées pendant vingt minutes. Ma voiture, je la lave une fois par mois."
+ },
+ "quiz": [
+  {
+   "q": "Which pronoun replaces 'les devoirs'?",
+   "options": [
+    "le",
+    "la",
+    "les",
+    "leur"
+   ],
+   "a": 2,
+   "why": "Plural direct object: les."
+  },
+  {
+   "q": "Which is correct?",
+   "options": [
+    "Je vois le.",
+    "Je le vois.",
+    "Le je vois.",
+    "Je vois-le."
+   ],
+   "a": 1,
+   "why": "The pronoun goes before the conjugated verb."
+  },
+  {
+   "q": "'Je veux ___ acheter.' (la robe)",
+   "options": [
+    "le",
+    "la",
+    "les",
+    "l'"
+   ],
+   "a": 1,
+   "why": "Robe is feminine; the pronoun sits before the infinitive acheter."
+  },
+  {
+   "q": "Which is correct in the passé composé?",
+   "options": [
+    "J'ai le vu.",
+    "Je l'ai vu.",
+    "J'ai vu le.",
+    "Je ai le vu."
+   ],
+   "a": 1,
+   "why": "Pronoun before avoir: je l'ai vu."
+  },
+  {
+   "q": "Positive command with 'la porte': ferme…",
+   "options": [
+    "Ferme-la!",
+    "La ferme!",
+    "Ferme la!",
+    "Ferme-le!"
+   ],
+   "a": 0,
+   "why": "Positive command: verb + hyphen + pronoun. (La ferme! is a rude 'shut up'.)"
+  },
+  {
+   "q": "'Je t'attends' means…",
+   "options": [
+    "I'm waiting for you",
+    "I hear you",
+    "I'm helping you",
+    "I'm calling you"
+   ],
+   "a": 0,
+   "why": "Attendre = to wait for; t' = you."
+  },
+  {
+   "q": "In Quebec speech, 'j'les ai' means…",
+   "options": [
+    "I left",
+    "I have them",
+    "I read them",
+    "I'm the one"
+   ],
+   "a": 1,
+   "why": "J'les ai = je les ai."
+  },
+  {
+   "q": "Which sentence is negative and correct?",
+   "options": [
+    "Je ne vais pas le faire.",
+    "Je ne le vais pas faire.",
+    "Je vais ne le pas faire.",
+    "Je ne vais le pas faire."
+   ],
+   "a": 0,
+   "why": "Ne…pas wraps vais; le stays before faire."
+  },
+  {
+   "q": "Why is it 'je les ai trouvées' (with -es)?",
+   "options": [
+    "Because of je",
+    "Because les (feminine plural) comes before avoir",
+    "Because trouver takes être",
+    "It's a typo"
+   ],
+   "a": 1,
+   "why": "A direct object placed before avoir makes the participle agree."
+  }
+ ]
+}

@@ -1,0 +1,673 @@
+{
+ "w": 134,
+ "title": "Advanced adjectives: position changes meaning",
+ "goal": "By the end of this lesson you can use the main adjectives whose meaning changes with their position (ancien, cher, propre, grand, pauvre, seul, même, dernier, prochain, certain, simple) and interpret them correctly when reading.",
+ "learn": [
+  {
+   "h": "Before = figurative, after = literal",
+   "body": [
+    "Most French adjectives go after the noun. A small group can go before or after, and the meaning changes. A useful rule of thumb: **after** the noun, the adjective keeps its literal, objective meaning; **before** the noun, it takes a figurative, subjective or emotional meaning.",
+    "*Un bâtiment ancien* is an old building (literal age). *Un ancien collègue* is a former colleague (figurative: his status has changed, not his age)."
+   ],
+   "tip": "After = what you could measure or photograph. Before = what you feel or judge."
+  },
+  {
+   "h": "The core list",
+   "body": [
+    "Learn these as pairs. Each one appears constantly in the news, at work and in conversation."
+   ],
+   "table": {
+    "head": [
+     "Adjective",
+     "Before the noun",
+     "After the noun"
+    ],
+    "rows": [
+     [
+      "ancien",
+      "un ancien collègue (former)",
+      "un meuble ancien (old, antique)"
+     ],
+     [
+      "cher",
+      "mon cher ami (dear)",
+      "un restaurant cher (expensive)"
+     ],
+     [
+      "propre",
+      "ma propre voiture (own)",
+      "une voiture propre (clean)"
+     ],
+     [
+      "grand",
+      "un grand homme (great)",
+      "un homme grand (tall)"
+     ],
+     [
+      "pauvre",
+      "le pauvre garçon (unfortunate)",
+      "un garçon pauvre (not rich)"
+     ],
+     [
+      "seul",
+      "la seule personne (only)",
+      "une personne seule (alone, lonely)"
+     ],
+     [
+      "même",
+      "la même chose (same)",
+      "le jour même (that very day)"
+     ],
+     [
+      "certain",
+      "un certain temps (some)",
+      "un succès certain (sure, definite)"
+     ],
+     [
+      "simple",
+      "un simple employé (mere)",
+      "un repas simple (simple, plain)"
+     ],
+     [
+      "brave",
+      "un brave type (decent, good)",
+      "un soldat brave (brave)"
+     ],
+     [
+      "sale",
+      "un sale caractère (nasty)",
+      "une chemise sale (dirty)"
+     ],
+     [
+      "curieux",
+      "une curieuse idée (strange)",
+      "un enfant curieux (inquisitive)"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Dernier and prochain: series vs calendar",
+   "body": [
+    "**Before** the noun, *dernier* and *prochain* mean last / next **in a series**: *le dernier métro* (the final one of the night), *la prochaine station* (the next stop).",
+    "**After** the noun, with time words, they mean the one just before or just after **now**: *la semaine dernière* (last week), *le mois prochain* (next month), *l'an dernier* (last year)."
+   ],
+   "table": {
+    "head": [
+     "Before (series)",
+     "After (relative to now)"
+    ],
+    "rows": [
+     [
+      "la dernière semaine des vacances",
+      "la semaine dernière"
+     ],
+     [
+      "le prochain train",
+      "lundi prochain"
+     ],
+     [
+      "la dernière fois",
+      "l'été dernier"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Grand, and a few traps",
+   "body": [
+    "With people, *grand* before = great, important (*un grand écrivain*); after = tall (*un écrivain grand*, rare and awkward — say *un écrivain de grande taille*). With things, *grand* before simply means big: *une grande maison*.",
+    "*Différents / divers* before a plural noun mean various: *différentes personnes*; after: different, distinct: *des opinions différentes*. *Vrai* before means real, genuine (*un vrai ami*); after it means true (*une histoire vraie*)."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "J'ai croisé une ancienne collègue au marché.",
+   "en": "I ran into a former colleague at the market.",
+   "note": "ancienne before = former"
+  },
+  {
+   "fr": "Ils habitent dans une maison ancienne du Vieux-Québec.",
+   "en": "They live in an old house in Old Quebec.",
+   "note": "ancienne after = old"
+  },
+  {
+   "fr": "Mes chers collègues, merci d'être là.",
+   "en": "My dear colleagues, thank you for being here.",
+   "note": "chers before = dear"
+  },
+  {
+   "fr": "C'est un quartier cher, mais très agréable.",
+   "en": "It's an expensive neighbourhood, but very pleasant.",
+   "note": "cher after = expensive"
+  },
+  {
+   "fr": "Elle a enfin sa propre entreprise.",
+   "en": "She finally has her own company.",
+   "note": "propre before = own"
+  },
+  {
+   "fr": "Laisse la salle de bain propre, s'il te plaît.",
+   "en": "Leave the bathroom clean, please.",
+   "note": "propre after = clean"
+  },
+  {
+   "fr": "René Lévesque a été un grand homme politique.",
+   "en": "René Lévesque was a great politician.",
+   "note": "grand before = great"
+  },
+  {
+   "fr": "Le pauvre homme a perdu ses clés dans la neige.",
+   "en": "The poor man lost his keys in the snow.",
+   "note": "pauvre before = unfortunate"
+  },
+  {
+   "fr": "C'était une famille pauvre de la Gaspésie.",
+   "en": "It was a poor family from the Gaspé.",
+   "note": "pauvre after = without money"
+  },
+  {
+   "fr": "Tu es la seule personne qui me comprend.",
+   "en": "You're the only person who understands me.",
+   "note": "seule before = only"
+  },
+  {
+   "fr": "Beaucoup de personnes seules souffrent en hiver.",
+   "en": "Many people who live alone suffer in winter.",
+   "note": "seules after = alone"
+  },
+  {
+   "fr": "On a pris le dernier métro.",
+   "en": "We took the last metro (of the night).",
+   "note": "dernier before = last in a series"
+  },
+  {
+   "fr": "On est allés à Tadoussac l'été dernier.",
+   "en": "We went to Tadoussac last summer.",
+   "note": "dernier after = the one before now"
+  },
+  {
+   "fr": "Il est arrivé le jour même de la tempête.",
+   "en": "He arrived on the very day of the storm.",
+   "note": "même after = very"
+  },
+  {
+   "fr": "Je ne suis qu'un simple employé.",
+   "en": "I'm just a mere employee.",
+   "note": "simple before = mere"
+  },
+  {
+   "fr": "C'est un vrai ami, pas une connaissance.",
+   "en": "He's a real friend, not an acquaintance.",
+   "note": "vrai before = genuine"
+  }
+ ],
+ "quebec": {
+  "intro": "The ancien/ancienne pair is everywhere in Quebec: un ancien collègue, mon ancien chum, une ancienne église. Quebec speech also places some intensifiers before the noun: maudit, gros, beau, vrai, to judge or emphasise.",
+  "items": [
+   {
+    "std": "C'est mon ex.",
+    "qc": "C'est mon ancien chum. / C'est mon ex.",
+    "en": "He's my ex-boyfriend.",
+    "note": "ancien before = former; chum = boyfriend, informal"
+   },
+   {
+    "std": "C'est une très bonne voiture.",
+    "qc": "C't'un maudit bon char.",
+    "en": "It's a darn good car.",
+    "note": "maudit before an adjective = intensifier; informal"
+   },
+   {
+    "std": "J'ai eu une journée chargée.",
+    "qc": "J'ai eu une grosse journée.",
+    "en": "I had a busy day.",
+    "note": "grosse journée = busy/long day; very Quebec"
+   },
+   {
+    "std": "C'est un vrai Québécois.",
+    "qc": "C't'un vrai de vrai.",
+    "en": "He's the real deal.",
+    "note": "vrai de vrai = authentic; informal"
+   },
+   {
+    "std": "Ils ont une très grande maison.",
+    "qc": "Y'ont une belle grande maison.",
+    "en": "They have a nice big house.",
+    "note": "beau / belle before = nice, often as an intensifier"
+   },
+   {
+    "std": "C'est un édifice ancien.",
+    "qc": "C't'une vieille bâtisse.",
+    "en": "It's an old building.",
+    "note": "bâtisse = building, common in Quebec"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "'Mon ancienne école' means…",
+   "options": [
+    "my old (ancient) school",
+    "my former school",
+    "my antique school",
+    "my oldest school"
+   ],
+   "a": 1,
+   "why": "Ancien before the noun = former."
+  },
+  {
+   "t": "mcq",
+   "q": "'Un restaurant cher' means…",
+   "options": [
+    "a dear restaurant",
+    "an expensive restaurant",
+    "a beloved restaurant",
+    "a cheap restaurant"
+   ],
+   "a": 1,
+   "why": "Cher after the noun = expensive."
+  },
+  {
+   "t": "mcq",
+   "q": "'Le pauvre chien!' expresses…",
+   "options": [
+    "the dog has no money",
+    "sympathy for the dog",
+    "the dog is dirty",
+    "the dog is small"
+   ],
+   "a": 1,
+   "why": "Pauvre before = unfortunate, pitiful."
+  },
+  {
+   "t": "mcq",
+   "q": "Which means 'last week' (the week before this one)?",
+   "options": [
+    "la dernière semaine",
+    "la semaine dernière",
+    "la semaine passée dernière",
+    "la seule semaine"
+   ],
+   "a": 1,
+   "why": "Dernier after a time word = the one just before now."
+  },
+  {
+   "t": "mcq",
+   "q": "'Une personne seule' means…",
+   "options": [
+    "the only person",
+    "a person who is alone",
+    "a single person in a series",
+    "a selfish person"
+   ],
+   "a": 1,
+   "why": "Seul after = alone."
+  },
+  {
+   "t": "fill",
+   "q": "J'ai acheté ma ___ maison l'an dernier. (own)",
+   "a": [
+    "propre"
+   ],
+   "en": "I bought my own house last year.",
+   "why": "Propre before the noun = own."
+  },
+  {
+   "t": "fill",
+   "q": "On descend à la ___ station. (next)",
+   "a": [
+    "prochaine"
+   ],
+   "en": "We get off at the next stop.",
+   "why": "Prochain before = next in a series."
+  },
+  {
+   "t": "fill",
+   "q": "C'est la ___ chose que l'an passé. (same)",
+   "a": [
+    "même"
+   ],
+   "en": "It's the same thing as last year.",
+   "why": "Même before = same."
+  },
+  {
+   "t": "fill",
+   "q": "Félix Leclerc était un ___ chanteur. (great)",
+   "a": [
+    "grand"
+   ],
+   "en": "Félix Leclerc was a great singer.",
+   "why": "Grand before a person = great."
+  },
+  {
+   "t": "build",
+   "en": "He's a former colleague.",
+   "a": "C'est un ancien collègue."
+  },
+  {
+   "t": "build",
+   "en": "We took the last bus.",
+   "a": "On a pris le dernier autobus."
+  },
+  {
+   "t": "build",
+   "en": "My dear friends, welcome!",
+   "a": "Mes chers amis, bienvenue!"
+  },
+  {
+   "t": "translate",
+   "en": "a clean shirt",
+   "a": [
+    "une chemise propre",
+    "un chandail propre"
+   ],
+   "why": "Propre after = clean."
+  },
+  {
+   "t": "translate",
+   "en": "next Monday",
+   "a": [
+    "lundi prochain"
+   ],
+   "why": "Prochain after a day = the coming one."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "ancien / ancienne",
+   "en": "former (before); old (after)",
+   "ex": "Mon ancien patron habite une maison ancienne."
+  },
+  {
+   "fr": "cher / chère",
+   "en": "dear (before); expensive (after)",
+   "ex": "Chère Julie, ce cadeau était trop cher!"
+  },
+  {
+   "fr": "propre",
+   "en": "own (before); clean (after)",
+   "ex": "Il a sa propre chambre, toujours propre."
+  },
+  {
+   "fr": "pauvre",
+   "en": "unfortunate (before); poor (after)",
+   "ex": "La pauvre femme!"
+  },
+  {
+   "fr": "seul / seule",
+   "en": "only (before); alone (after)",
+   "ex": "C'est mon seul jour de congé."
+  },
+  {
+   "fr": "même",
+   "en": "same (before); very (after)",
+   "ex": "Elle est partie le soir même."
+  },
+  {
+   "fr": "certain / certaine",
+   "en": "some (before); sure (after)",
+   "ex": "Certaines personnes ont un talent certain."
+  },
+  {
+   "fr": "simple",
+   "en": "mere (before); simple (after)",
+   "ex": "Un simple merci suffit."
+  },
+  {
+   "fr": "brave",
+   "en": "decent (before); brave (after)",
+   "ex": "C'est un brave homme."
+  },
+  {
+   "fr": "sale",
+   "en": "nasty (before); dirty (after)",
+   "ex": "Quel sale temps!"
+  },
+  {
+   "fr": "le collègue / la collègue",
+   "en": "colleague",
+   "ex": "J'ai un nouveau collègue."
+  },
+  {
+   "fr": "la connaissance",
+   "en": "acquaintance; knowledge",
+   "g": "f",
+   "ex": "C'est juste une connaissance."
+  },
+  {
+   "fr": "la bâtisse",
+   "en": "building (common in Quebec)",
+   "g": "f",
+   "ex": "La vieille bâtisse a été démolie.",
+   "qc": true
+  },
+  {
+   "fr": "maudit (intensifier)",
+   "en": "darn, really (informal)",
+   "ex": "Il fait maudit froid!",
+   "qc": true
+  },
+  {
+   "fr": "une grosse journée",
+   "en": "a busy, long day",
+   "ex": "Demain, c'est une grosse journée.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "un ancien ami",
+    "tip": "Two liaisons: [un-nan-syin-na-MI]."
+   },
+   {
+    "fr": "un grand homme",
+    "tip": "Liaison in [t]: [un gran-TOM]."
+   },
+   {
+    "fr": "mon cher ami",
+    "tip": "[mon shè-ra-MI]; the r of cher links."
+   },
+   {
+    "fr": "le dernier autobus",
+    "tip": "Liaison in [r]: [dèr-nyé-ro-to-BUS]."
+   },
+   {
+    "fr": "propre",
+    "tip": "Quebec speech often drops the final -re: [prop]."
+   },
+   {
+    "fr": "maudit",
+    "tip": "Quebec: [mo-DZI]; d before i is pronounced [dz], and the final t is silent."
+   }
+  ],
+  "title": "Une rencontre inattendue",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Devine qui j'ai vu au café? Mon ancien patron!",
+    "en": "Guess who I saw at the café? My former boss!"
+   },
+   {
+    "s": "B",
+    "fr": "Celui qui avait un sale caractère?",
+    "en": "The one who had a nasty temper?"
+   },
+   {
+    "s": "A",
+    "fr": "Oui! Mais il a changé. Il a maintenant sa propre entreprise de meubles anciens.",
+    "en": "Yes! But he's changed. He now has his own antique furniture business."
+   },
+   {
+    "s": "B",
+    "fr": "Des meubles anciens? Ça doit être cher.",
+    "en": "Antique furniture? That must be expensive."
+   },
+   {
+    "s": "A",
+    "fr": "Très cher. Le pauvre, il m'a dit qu'il travaille seul, sept jours sur sept.",
+    "en": "Very. The poor guy told me he works alone, seven days a week."
+   },
+   {
+    "s": "B",
+    "fr": "C'est la même chose pour tous les petits commerçants.",
+    "en": "It's the same for all small business owners."
+   },
+   {
+    "s": "A",
+    "fr": "En tout cas, il m'a invité à son inauguration samedi prochain.",
+    "en": "Anyway, he invited me to his grand opening next Saturday."
+   }
+  ],
+  "questions": [
+   {
+    "q": "Who did speaker A see?",
+    "options": [
+     "An old friend",
+     "A former boss",
+     "An antique dealer they didn't know"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What kind of business does he have now?",
+    "options": [
+     "A café",
+     "Antique furniture",
+     "A cleaning company"
+    ],
+    "a": 1
+   },
+   {
+    "q": "When is the opening?",
+    "options": [
+     "Last Saturday",
+     "Next Saturday",
+     "Tomorrow"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Describe your former job and your old neighbourhood using ancien in both positions.",
+   "model": "Mon ancien emploi était à Longueuil. Je travaillais dans un bâtiment ancien, près de la rivière. Mon ancien quartier était plein de maisons anciennes."
+  },
+  {
+   "prompt": "Make three contrasting pairs aloud: propre, cher, seul.",
+   "model": "J'ai ma propre voiture, mais elle n'est jamais propre. Mon cher voisin a acheté une maison chère. C'est ma seule amie qui vit seule."
+  },
+  {
+   "prompt": "Tell what you did last week and what you'll do next weekend, using dernier and prochain correctly.",
+   "model": "La semaine dernière, j'ai travaillé tard tous les soirs. La fin de semaine prochaine, je vais au chalet. La prochaine fois, je prendrai congé!"
+  }
+ ],
+ "write": {
+  "prompt": "Write a short paragraph (5–6 sentences) about a person who changed your life. Use at least five adjectives from this lesson in the correct position.",
+  "model": "Ma chère grand-mère venait d'une famille pauvre du Bas-Saint-Laurent. C'était une grande femme, au sens propre comme au sens figuré. Elle a élevé ses enfants seule, dans une maison ancienne sans eau courante. Pourtant, elle ne se plaignait jamais. La dernière fois que je l'ai vue, elle m'a dit : « Fais ta propre vie. » C'est la seule phrase que je n'oublierai jamais."
+ },
+ "quiz": [
+  {
+   "q": "General rule: an adjective placed before the noun tends to be…",
+   "options": [
+    "literal",
+    "figurative or subjective",
+    "always plural",
+    "informal"
+   ],
+   "a": 1,
+   "why": "Before = figurative; after = literal."
+  },
+  {
+   "q": "'Un grand homme' means…",
+   "options": [
+    "a tall man",
+    "a great man",
+    "an old man",
+    "a fat man"
+   ],
+   "a": 1,
+   "why": "Grand before a person = great."
+  },
+  {
+   "q": "'Une histoire vraie' means…",
+   "options": [
+    "a real (genuine) story",
+    "a true story",
+    "an only story",
+    "a very story"
+   ],
+   "a": 1,
+   "why": "Vrai after = true, factual."
+  },
+  {
+   "q": "Which means 'various opinions'?",
+   "options": [
+    "des opinions différentes",
+    "différentes opinions",
+    "des opinions mêmes",
+    "des opinions seules"
+   ],
+   "a": 1,
+   "why": "Différents before a plural noun = various."
+  },
+  {
+   "q": "'Le jour même' means…",
+   "options": [
+    "the same day as usual",
+    "that very day",
+    "every day",
+    "the day itself is the same"
+   ],
+   "a": 1,
+   "why": "Même after = very, itself."
+  },
+  {
+   "q": "'Un simple citoyen' means…",
+   "options": [
+    "a naive citizen",
+    "an ordinary citizen",
+    "a single citizen",
+    "a simple-minded citizen"
+   ],
+   "a": 1,
+   "why": "Simple before = mere, ordinary."
+  },
+  {
+   "q": "In Quebec, 'une grosse journée' means…",
+   "options": [
+    "a fat day",
+    "a busy day",
+    "a hot day",
+    "a holiday"
+   ],
+   "a": 1,
+   "why": "Gros(se) before journée = heavy, busy."
+  },
+  {
+   "q": "'Un succès certain' means…",
+   "options": [
+    "some success",
+    "a definite success",
+    "a certain kind of success",
+    "an uncertain success"
+   ],
+   "a": 1,
+   "why": "Certain after = sure, assured."
+  },
+  {
+   "q": "'Un ancien chum' is…",
+   "options": [
+    "an elderly friend",
+    "an ex-boyfriend or former friend",
+    "a rich friend",
+    "a coworker"
+   ],
+   "a": 1,
+   "why": "Ancien before = former; chum = boyfriend or friend in Quebec."
+  }
+ ]
+}

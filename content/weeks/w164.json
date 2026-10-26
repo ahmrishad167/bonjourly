@@ -1,0 +1,653 @@
+{
+ "w": 164,
+ "title": "Targeted lesson: weakest skill",
+ "goal": "By the end of this lesson you can reliably choose between subjunctive and indicative after the common triggers, and put double object pronouns in the right order in statements, negatives and commands: the two accuracy points English speakers most often lose marks on at B2.",
+ "learn": [
+  {
+   "h": "Why these two targets",
+   "body": [
+    "The roadmap planned this lesson around your weakest skill in Mock 1. Without recorded results, it targets the two grammar points that cost English speakers the most marks in B2 writing and speaking: subjunctive triggers and pronoun order. If your mock showed a different weakness (listening, for example), use this lesson's dialogue and speaking tasks for extra practice in that skill too.",
+    "Both points are about automatic reflexes: you don't have time to think about rules mid-sentence, so drill the patterns until they sound 'right'."
+   ]
+  },
+  {
+   "h": "Subjunctive: the triggers",
+   "body": [
+    "The subjunctive follows *que* after expressions of will, emotion, doubt, necessity and possibility, and after certain conjunctions. Key point: the two clauses usually have different subjects. With the same subject, use an infinitive: *Je veux partir* (not *je veux que je parte*).",
+    "Indicative after certainty and probability: *je pense que, je crois que, il est sûr que, il est probable que, j'espère que, après que*. But negative or interrogative opinion verbs often take the subjunctive: *Je ne pense pas qu'il soit là.*"
+   ],
+   "table": {
+    "head": [
+     "Subjunctive",
+     "Indicative"
+    ],
+    "rows": [
+     [
+      "vouloir que, souhaiter que, exiger que",
+      "espérer que"
+     ],
+     [
+      "être content / triste que, avoir peur que",
+      "être sûr que, savoir que"
+     ],
+     [
+      "douter que, ne pas penser que",
+      "penser que, croire que"
+     ],
+     [
+      "il faut que, il est important que",
+      "il est évident / certain que"
+     ],
+     [
+      "il est possible que, il se peut que",
+      "il est probable que"
+     ],
+     [
+      "avant que, pour que, bien que, à moins que, sans que",
+      "après que, parce que, pendant que, même si"
+     ]
+    ]
+   },
+   "tip": "Espérer que + indicative, souhaiter que + subjunctive. Après que + indicative, avant que + subjunctive."
+  },
+  {
+   "h": "Pronoun order in statements and negatives",
+   "body": [
+    "Before the verb, the order is fixed: *me/te/se/nous/vous* → *le/la/les* → *lui/leur* → *y* → *en*. Examples: *Il me le donne. Je le lui donne. Je leur en parle. Il y en a.*",
+    "In compound tenses, pronouns go before the auxiliary: *Je le lui ai dit.* With an infinitive, before the infinitive: *Je vais le lui dire.* Negation wraps around the pronoun block: *Je ne le lui ai pas dit.*"
+   ],
+   "table": {
+    "head": [
+     "1",
+     "2",
+     "3",
+     "4",
+     "5"
+    ],
+    "rows": [
+     [
+      "me, te, se, nous, vous",
+      "le, la, les",
+      "lui, leur",
+      "y",
+      "en"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Pronoun order in affirmative commands",
+   "body": [
+    "In positive commands, pronouns follow the verb with hyphens, and the direct object comes first: *Donne-le-moi. Envoie-la-leur. Parle-lui-en.* *me* and *te* become *moi* and *toi* (except before *en*: *Donne-m'en*).",
+    "In negative commands, the normal order returns: *Ne me le donne pas. Ne leur en parle pas.*"
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Je veux que tu me dises la vérité.",
+   "en": "I want you to tell me the truth.",
+   "note": "vouloir que + subjunctive (different subjects)"
+  },
+  {
+   "fr": "Je veux te dire la vérité.",
+   "en": "I want to tell you the truth.",
+   "note": "same subject → infinitive"
+  },
+  {
+   "fr": "J'espère qu'il viendra.",
+   "en": "I hope he'll come.",
+   "note": "espérer que + indicative"
+  },
+  {
+   "fr": "Je souhaite qu'il vienne.",
+   "en": "I wish (hope) he comes.",
+   "note": "souhaiter que + subjunctive"
+  },
+  {
+   "fr": "Je ne pense pas que ce soit nécessaire.",
+   "en": "I don't think it's necessary.",
+   "note": "negative opinion → subjunctive"
+  },
+  {
+   "fr": "Je pense que c'est nécessaire.",
+   "en": "I think it's necessary.",
+   "note": "positive opinion → indicative"
+  },
+  {
+   "fr": "Après qu'il est parti, on a rangé.",
+   "en": "After he left, we tidied up.",
+   "note": "après que + indicative (the subjunctive is common but criticised)"
+  },
+  {
+   "fr": "Avant qu'il parte, donne-lui la clé.",
+   "en": "Before he leaves, give him the key.",
+   "note": "avant que + subjunctive"
+  },
+  {
+   "fr": "Il est probable qu'elle a oublié.",
+   "en": "She has probably forgotten.",
+   "note": "probable que + indicative"
+  },
+  {
+   "fr": "Je le lui ai expliqué deux fois.",
+   "en": "I explained it to him twice.",
+   "note": "le before lui, before the auxiliary"
+  },
+  {
+   "fr": "Ne le leur dis pas tout de suite.",
+   "en": "Don't tell them yet.",
+   "note": "negative command: normal order"
+  },
+  {
+   "fr": "Donne-le-moi, s'il te plaît.",
+   "en": "Give it to me, please.",
+   "note": "positive command: direct object first, moi"
+  },
+  {
+   "fr": "Des biscuits? Donne-m'en un.",
+   "en": "Cookies? Give me one.",
+   "note": "moi → m' before en"
+  },
+  {
+   "fr": "Il y en a encore dans le frigo.",
+   "en": "There's still some in the fridge.",
+   "note": "y before en"
+  },
+  {
+   "fr": "Je vais vous en parler demain.",
+   "en": "I'll talk to you about it tomorrow.",
+   "note": "pronouns before the infinitive"
+  },
+  {
+   "fr": "Il faut que nous y allions avant midi.",
+   "en": "We have to go there before noon.",
+   "note": "subjunctive + y: allions"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebec speech simplifies pronouns and has some popular subjunctive forms. Recognise them, especially 'y' used for 'lui', which is extremely common, but use the standard forms in writing and in exams.",
+  "items": [
+   {
+    "std": "Je lui ai dit.",
+    "qc": "J'y ai dit.",
+    "en": "I told him / her.",
+    "note": "y replaces lui in everyday Quebec speech; informal"
+   },
+   {
+    "std": "Donne-le-moi.",
+    "qc": "Donne-moi-le.",
+    "en": "Give it to me.",
+    "note": "moi before le is very common in speech (Quebec and France); standard order is le-moi"
+   },
+   {
+    "std": "Il faut que j'y aille.",
+    "qc": "Faut que j'y alle.",
+    "en": "I have to go.",
+    "note": "alle for aille is a popular Quebec form; nonstandard"
+   },
+   {
+    "std": "Je vais le lui donner.",
+    "qc": "M'as y donner.",
+    "en": "I'll give it to him.",
+    "note": "le often disappears and lui → y in fast speech; very informal"
+   },
+   {
+    "std": "Je veux que tu viennes.",
+    "qc": "J'veux que tu viennes.",
+    "en": "I want you to come.",
+    "note": "the subjunctive itself is alive and well in Quebec speech"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "J'espère qu'il ___ beau demain.",
+   "options": [
+    "fasse",
+    "fera",
+    "ferait",
+    "faire"
+   ],
+   "a": 1,
+   "why": "espérer que + indicative."
+  },
+  {
+   "t": "mcq",
+   "q": "Je souhaite qu'il ___ beau demain.",
+   "options": [
+    "fasse",
+    "fera",
+    "fait",
+    "ferait"
+   ],
+   "a": 0,
+   "why": "souhaiter que + subjunctive."
+  },
+  {
+   "t": "mcq",
+   "q": "Je ___ ai prêté. (it to them)",
+   "options": [
+    "leur le",
+    "le leur",
+    "les leur",
+    "leur l'"
+   ],
+   "a": 1,
+   "why": "le before leur."
+  },
+  {
+   "t": "mcq",
+   "q": "Positive command: 'Give them to her.'",
+   "options": [
+    "Donne-lui-les.",
+    "Donne-les-lui.",
+    "Les lui donne.",
+    "Donne-les-elle."
+   ],
+   "a": 1,
+   "why": "Direct object first: les-lui."
+  },
+  {
+   "t": "mcq",
+   "q": "Je ne crois pas qu'il ___ raison.",
+   "options": [
+    "a",
+    "ait",
+    "aura",
+    "avait"
+   ],
+   "a": 1,
+   "why": "Negative opinion → subjunctive."
+  },
+  {
+   "t": "fill",
+   "q": "Il faut que tu ___ ce dossier ce soir. (finir)",
+   "a": [
+    "finisses"
+   ],
+   "en": "You need to finish this file tonight.",
+   "why": "il faut que + subjunctive."
+  },
+  {
+   "t": "fill",
+   "q": "Je suis content que vous ___ venus. (être)",
+   "a": [
+    "soyez"
+   ],
+   "en": "I'm glad you came.",
+   "why": "emotion + que → subjunctive (past: soyez venus)."
+  },
+  {
+   "t": "fill",
+   "q": "Elle ne me ___ a pas rendu. (it, the book)",
+   "a": [
+    "l'"
+   ],
+   "en": "She didn't give it back to me.",
+   "why": "me + le → me l'a."
+  },
+  {
+   "t": "fill",
+   "q": "Des billets? Il ___ reste deux. (y + en)",
+   "a": [
+    "y en"
+   ],
+   "en": "Tickets? There are two left.",
+   "why": "il y en reste: y before en."
+  },
+  {
+   "t": "fill",
+   "q": "Partons avant qu'il ___. (pleuvoir)",
+   "a": [
+    "pleuve"
+   ],
+   "en": "Let's leave before it rains.",
+   "why": "avant que + subjunctive."
+  },
+  {
+   "t": "build",
+   "en": "I explained it to them.",
+   "a": "Je le leur ai expliqué."
+  },
+  {
+   "t": "build",
+   "en": "Don't tell her about it.",
+   "a": "Ne lui en parle pas."
+  },
+  {
+   "t": "translate",
+   "en": "Give it to me!",
+   "a": [
+    "Donne-le-moi!",
+    "Donnez-le-moi!",
+    "Donne-la-moi!",
+    "Donnez-la-moi!"
+   ],
+   "why": "Positive command: direct object, then moi."
+  },
+  {
+   "t": "translate",
+   "en": "I don't think he's ready.",
+   "a": [
+    "Je ne pense pas qu'il soit prêt.",
+    "Je ne crois pas qu'il soit prêt.",
+    "Je pense pas qu'il soit prêt.",
+    "Je crois pas qu'il soit prêt."
+   ],
+   "why": "Negative opinion → subjunctive."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "le déclencheur",
+   "en": "trigger",
+   "g": "m",
+   "ex": "« Il faut que » est un déclencheur du subjonctif."
+  },
+  {
+   "fr": "souhaiter que",
+   "en": "to wish that (+ subjunctive)",
+   "ex": "Je souhaite que tout se passe bien."
+  },
+  {
+   "fr": "espérer que",
+   "en": "to hope that (+ indicative)",
+   "ex": "J'espère que tu vas mieux."
+  },
+  {
+   "fr": "exiger que",
+   "en": "to demand that",
+   "ex": "Le patron exige que le rapport soit prêt."
+  },
+  {
+   "fr": "douter que",
+   "en": "to doubt that",
+   "ex": "Je doute qu'il accepte."
+  },
+  {
+   "fr": "à moins que",
+   "en": "unless (+ subjunctive)",
+   "ex": "On sortira, à moins qu'il pleuve."
+  },
+  {
+   "fr": "sans que",
+   "en": "without (+ subjunctive)",
+   "ex": "Il est parti sans que je le voie."
+  },
+  {
+   "fr": "avoir peur que",
+   "en": "to be afraid that",
+   "ex": "J'ai peur qu'il soit trop tard."
+  },
+  {
+   "fr": "prêter",
+   "en": "to lend",
+   "ex": "Je te le prête jusqu'à lundi."
+  },
+  {
+   "fr": "rendre",
+   "en": "to give back",
+   "ex": "Rends-le-moi demain."
+  },
+  {
+   "fr": "expliquer",
+   "en": "to explain",
+   "ex": "Je le lui ai déjà expliqué."
+  },
+  {
+   "fr": "envoyer",
+   "en": "to send",
+   "ex": "Envoie-la-leur par courriel."
+  },
+  {
+   "fr": "le pronom complément",
+   "en": "object pronoun",
+   "g": "m",
+   "ex": "« Lui » est un pronom complément indirect."
+  },
+  {
+   "fr": "l'impératif",
+   "en": "imperative (command form)",
+   "g": "m",
+   "ex": "À l'impératif, on dit « donne-le-moi »."
+  },
+  {
+   "fr": "j'y ai dit",
+   "en": "I told him/her (Quebec familiar for je lui ai dit)",
+   "ex": "J'y ai dit de venir.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "je le lui ai dit",
+    "tip": "In speech: j'le lui ai dit, often j'lui ai dit (le dropped)."
+   },
+   {
+    "fr": "donne-le-moi",
+    "tip": "don-luh-MWA: stress on moi."
+   },
+   {
+    "fr": "donne-m'en",
+    "tip": "don-MAN."
+   },
+   {
+    "fr": "il y en a",
+    "tip": "il-yan-NA, in speech y'en a [yana]."
+   },
+   {
+    "fr": "qu'il soit",
+    "tip": "kil-SWA."
+   },
+   {
+    "fr": "que j'aille",
+    "tip": "kuh-JAÏ, like ail."
+   }
+  ],
+  "title": "Le prêt",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "As-tu encore mon livre de grammaire?",
+    "en": "Do you still have my grammar book?"
+   },
+   {
+    "s": "B",
+    "fr": "Non, je l'ai prêté à Julien. Je pensais que tu n'en avais plus besoin.",
+    "en": "No, I lent it to Julien. I thought you didn't need it anymore."
+   },
+   {
+    "s": "A",
+    "fr": "Il faut que je l'aie avant vendredi : j'ai mon examen.",
+    "en": "I need to have it before Friday: I have my exam."
+   },
+   {
+    "s": "B",
+    "fr": "Pas de problème, je vais le lui demander ce soir.",
+    "en": "No problem, I'll ask him for it tonight."
+   },
+   {
+    "s": "A",
+    "fr": "Merci. Et dis-lui de ne pas l'annoter, s'il te plaît!",
+    "en": "Thanks. And tell him not to write in it, please!"
+   },
+   {
+    "s": "B",
+    "fr": "Je doute qu'il l'ait annoté, il est très soigneux.",
+    "en": "I doubt he's written in it, he's very careful."
+   },
+   {
+    "s": "A",
+    "fr": "J'espère que tu as raison. Et rends-le-moi jeudi au plus tard.",
+    "en": "I hope you're right. And give it back to me Thursday at the latest."
+   },
+   {
+    "s": "B",
+    "fr": "Promis. Je te l'apporte jeudi matin.",
+    "en": "Promise. I'll bring it to you Thursday morning."
+   }
+  ],
+  "questions": [
+   {
+    "q": "Who has the book now?",
+    "options": [
+     "A",
+     "B",
+     "Julien"
+    ],
+    "a": 2
+   },
+   {
+    "q": "Why does A need it before Friday?",
+    "options": [
+     "For a trip",
+     "For an exam",
+     "For a class presentation"
+    ],
+    "a": 1
+   },
+   {
+    "q": "When will B bring it back?",
+    "options": [
+     "Tonight",
+     "Thursday morning",
+     "Friday"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Say five things you want from your colleagues or family using different triggers (je veux que, il faut que, j'aimerais que, je suis content que, avant que).",
+   "model": "Je veux que tu ranges ta chambre. Il faut qu'on parte à huit heures. J'aimerais que vous m'appeliez plus souvent. Je suis content que tu sois là. Avant que tu partes, donne-moi tes clés."
+  },
+  {
+   "prompt": "Answer using two pronouns: 'Tu as donné le cadeau à ta mère?' 'Tu as parlé du projet à tes collègues?' 'Tu me prêtes ton auto?'",
+   "model": "Oui, je le lui ai donné. Non, je ne leur en ai pas encore parlé. Oui, je te la prête jusqu'à dimanche."
+  },
+  {
+   "prompt": "Give three commands to a roommate with two pronouns each, positive then negative.",
+   "model": "Passe-la-moi. / Ne me la passe pas. Envoie-les-leur. / Ne les leur envoie pas. Parle-lui-en. / Ne lui en parle pas."
+  }
+ ],
+ "write": {
+  "prompt": "Write an email (8–10 sentences) to a colleague organising a team event. Use at least five subjunctive triggers and at least four sentences with two object pronouns.",
+  "model": "Salut Mélanie, Il faut qu'on finalise l'organisation du souper d'équipe avant vendredi. Je voudrais que tout le monde puisse venir, alors j'ai proposé le jeudi 12. As-tu envoyé l'invitation aux stagiaires? Si ce n'est pas fait, envoie-la-leur aujourd'hui, s'il te plaît. Pour le restaurant, je doute qu'il reste des places au centre-ville; il est donc important qu'on réserve rapidement. Le gérant m'a donné son numéro, je te le transmets tout de suite. Pour le cadeau de départ de Marc, ne lui en parle surtout pas! Je suis contente que tu t'en occupes avec moi. Bien que ce soit beaucoup de travail, je suis sûre que ce sera une belle soirée. À plus tard, Rishad"
+ },
+ "quiz": [
+  {
+   "q": "Which takes the indicative?",
+   "options": [
+    "Je veux que",
+    "Il faut que",
+    "Je pense que",
+    "Bien que"
+   ],
+   "a": 2,
+   "why": "Positive opinion verb → indicative."
+  },
+  {
+   "q": "Which takes the subjunctive?",
+   "options": [
+    "après que",
+    "parce que",
+    "avant que",
+    "pendant que"
+   ],
+   "a": 2,
+   "why": "avant que + subjunctive."
+  },
+  {
+   "q": "Correct order: 'He gives it to us.'",
+   "options": [
+    "Il le nous donne.",
+    "Il nous le donne.",
+    "Il nous la en donne.",
+    "Il donne le nous."
+   ],
+   "a": 1,
+   "why": "nous before le."
+  },
+  {
+   "q": "Correct command: 'Talk to him about it.'",
+   "options": [
+    "Parle-en-lui.",
+    "Parle-lui-en.",
+    "Lui en parle.",
+    "Parle-y-en."
+   ],
+   "a": 1,
+   "why": "lui before en."
+  },
+  {
+   "q": "'Je veux partir' vs 'Je veux que je parte': which is correct?",
+   "options": [
+    "The first",
+    "The second",
+    "Both",
+    "Neither"
+   ],
+   "a": 0,
+   "why": "Same subject → infinitive."
+  },
+  {
+   "q": "'J'y ai dit' in Quebec speech means…",
+   "options": [
+    "I said there",
+    "I told him/her",
+    "I said it",
+    "I said yes"
+   ],
+   "a": 1,
+   "why": "Popular y = lui."
+  },
+  {
+   "q": "Negative command: 'Don't give it to them.'",
+   "options": [
+    "Ne le leur donne pas.",
+    "Ne donne-le-leur pas.",
+    "Ne leur le donne pas.",
+    "Donne-le-leur pas."
+   ],
+   "a": 0,
+   "why": "Normal pre-verb order in negative commands."
+  },
+  {
+   "q": "Il est probable qu'il ___.",
+   "options": [
+    "vienne",
+    "viendra",
+    "venir",
+    "vînt"
+   ],
+   "a": 1,
+   "why": "probable que + indicative."
+  },
+  {
+   "q": "Je doute qu'elle ___ le temps.",
+   "options": [
+    "a",
+    "ait",
+    "aura",
+    "avait"
+   ],
+   "a": 1,
+   "why": "Doubt → subjunctive."
+  },
+  {
+   "q": "'Il y en a' — the order is…",
+   "options": [
+    "en before y",
+    "y before en",
+    "either",
+    "only en"
+   ],
+   "a": 1,
+   "why": "y always precedes en."
+  }
+ ]
+}

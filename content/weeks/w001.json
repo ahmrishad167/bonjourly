@@ -1,0 +1,767 @@
+{
+ "w": 1,
+ "title": "The French alphabet",
+ "goal": "By the end of this lesson you can say the 26 letters of the French alphabet, spell your name and e-mail address aloud, and ask someone how a word is spelled.",
+ "learn": [
+  {
+   "h": "Same letters, new names",
+   "body": [
+    "French uses the same 26 letters as English, but almost every letter has a different name. You need these names every day in Quebec: spelling your name at the clinic, giving your postal code, reading out an e-mail address.",
+    "Vowels are the letters *a, e, i, o, u* and *y*. Every other letter is a consonant."
+   ],
+   "table": {
+    "head": [
+     "Letter",
+     "Name sounds like",
+     "Letter",
+     "Name sounds like"
+    ],
+    "rows": [
+     [
+      "A",
+      "ah",
+      "N",
+      "enn"
+     ],
+     [
+      "B",
+      "bay",
+      "O",
+      "oh"
+     ],
+     [
+      "C",
+      "say",
+      "P",
+      "pay"
+     ],
+     [
+      "D",
+      "day",
+      "Q",
+      "kü (lips rounded)"
+     ],
+     [
+      "E",
+      "uh",
+      "R",
+      "air"
+     ],
+     [
+      "F",
+      "eff",
+      "S",
+      "ess"
+     ],
+     [
+      "G",
+      "zhay",
+      "T",
+      "tay"
+     ],
+     [
+      "H",
+      "ash",
+      "U",
+      "ü (lips rounded)"
+     ],
+     [
+      "I",
+      "ee",
+      "V",
+      "vay"
+     ],
+     [
+      "J",
+      "zhee",
+      "W",
+      "doo-bluh-vay"
+     ],
+     [
+      "K",
+      "kah",
+      "X",
+      "eeks"
+     ],
+     [
+      "L",
+      "ell",
+      "Y",
+      "ee-grek"
+     ],
+     [
+      "M",
+      "emm",
+      "Z",
+      "zed"
+     ]
+    ]
+   },
+   "tip": "Zh is the sound in English 'measure'. G = zhay, J = zhee."
+  },
+  {
+   "h": "The traps for English speakers",
+   "body": [
+    "Three pairs cause most mistakes. French *E* sounds like 'uh', while French *I* sounds like English 'ee'. French *G* (zhay) and *J* (zhee) are almost the reverse of English. And French *A* (ah) is not English 'ay'.",
+    "*W* is literally 'double V' (*double vé*), and *Y* is 'Greek i' (*i grec*)."
+   ],
+   "table": {
+    "head": [
+     "Letter",
+     "French name",
+     "Do not say"
+    ],
+    "rows": [
+     [
+      "E",
+      "uh",
+      "ee (that is French I)"
+     ],
+     [
+      "I",
+      "ee",
+      "eye"
+     ],
+     [
+      "G",
+      "zhay",
+      "jee"
+     ],
+     [
+      "J",
+      "zhee",
+      "jay"
+     ],
+     [
+      "A",
+      "ah",
+      "ay"
+     ],
+     [
+      "R",
+      "air",
+      "ar"
+     ]
+    ]
+   },
+   "tip": "Think 'G before J' in French: zhay, zhee, just like 'a, e' goes before 'i'."
+  },
+  {
+   "h": "The French u sound",
+   "body": [
+    "The letter *U* has a sound English does not have. Say 'ee', keep your tongue where it is, then round your lips as if to whistle. That is French *u*, as in *tu* (you) and *rue* (street).",
+    "Do not confuse it with *ou*, which sounds like English 'oo': *tout* (all), *vous* (you)."
+   ]
+  },
+  {
+   "h": "Spelling out loud",
+   "body": [
+    "To ask how a word is spelled, say *Comment ça s'écrit?* (How is that written?) or, more formally, *Pouvez-vous épeler, s'il vous plaît?* (Can you spell it, please?).",
+    "Double letters are said with *deux* (two): *Nathalie* has one L, but *Isabelle* has *deux L*. Capital letters are *majuscules*, small letters are *minuscules*.",
+    "In an e-mail address, *@* is *arobas* (also *a commercial*, the term recommended in Quebec), the dot is *point*, and the dash is *tiret*."
+   ],
+   "table": {
+    "head": [
+     "Symbol",
+     "Say"
+    ],
+    "rows": [
+     [
+      "@",
+      "arobas / a commercial"
+     ],
+     [
+      ".",
+      "point"
+     ],
+     [
+      "-",
+      "tiret"
+     ],
+     [
+      "_",
+      "tiret bas"
+     ],
+     [
+      "LL",
+      "deux L"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Quebec: t and d before i and u",
+   "body": [
+    "In Quebec French, *t* and *d* change sound when they come right before an *i* or a *u* sound. *T* becomes 'ts' and *d* becomes 'dz': *tu* sounds like [tsü], *dix* like [dziss], *petit* like [p'tsi], *lundi* like [lun-dzi].",
+    "This is not slang: almost all Quebecers speak this way, including on the news. You do not have to copy it, but you must recognise it, or common words like *tu* and *dis* will sound strange to you."
+   ],
+   "tip": "Only before i and u: 'ta', 'té', 'to' and 'da', 'dé', 'do' stay unchanged."
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Je m'appelle Marc. M-A-R-C.",
+   "en": "My name is Marc. M-A-R-C.",
+   "note": "A = ah, not 'ay'"
+  },
+  {
+   "fr": "Comment ça s'écrit?",
+   "en": "How is that spelled?",
+   "note": "the most useful question this lesson"
+  },
+  {
+   "fr": "Ça s'écrit avec deux L.",
+   "en": "It's spelled with two L's.",
+   "note": "double letters use deux"
+  },
+  {
+   "fr": "Pouvez-vous épeler, s'il vous plaît?",
+   "en": "Can you spell it, please?",
+   "note": "polite form, useful on the phone"
+  },
+  {
+   "fr": "Mon nom de famille, c'est Smith: S-M-I-T-H.",
+   "en": "My last name is Smith: S-M-I-T-H.",
+   "note": "I = ee, H = ash"
+  },
+  {
+   "fr": "C'est un G ou un J?",
+   "en": "Is it a G or a J?",
+   "note": "zhay or zhee: listen carefully"
+  },
+  {
+   "fr": "Montréal, avec un E accent aigu.",
+   "en": "Montréal, with an E acute accent.",
+   "note": "accents are part of the spelling"
+  },
+  {
+   "fr": "Québec commence par un Q majuscule.",
+   "en": "Québec starts with a capital Q.",
+   "note": "majuscule = capital letter"
+  },
+  {
+   "fr": "Mon code postal, c'est H2X 1Y4.",
+   "en": "My postal code is H2X 1Y4.",
+   "note": "say: ash deux eeks un ee-grek quatre"
+  },
+  {
+   "fr": "Mon courriel, c'est julie arobas gmail point com.",
+   "en": "My e-mail is julie at gmail dot com.",
+   "note": "courriel is the usual Quebec word for e-mail"
+  },
+  {
+   "fr": "Le W s'appelle « double vé ».",
+   "en": "W is called 'double V'.",
+   "note": "W appears mostly in borrowed words"
+  },
+  {
+   "fr": "En français, Y se dit « i grec ».",
+   "en": "In French, Y is said 'Greek i'.",
+   "note": "ee-grek"
+  },
+  {
+   "fr": "Tu es à Montréal?",
+   "en": "Are you in Montreal?",
+   "note": "in Quebec, tu sounds like [tsü]"
+  },
+  {
+   "fr": "Merci beaucoup!",
+   "en": "Thank you very much!",
+   "note": "the c in merci is an s sound"
+  },
+  {
+   "fr": "Isabelle, c'est I-S-A-B-E-deux L-E.",
+   "en": "Isabelle is I-S-A-B-E-double L-E.",
+   "note": "E = uh, said twice here"
+  }
+ ],
+ "quebec": {
+  "intro": "In Quebec French, t and d before an i or u sound turn into 'ts' and 'dz'. Everyone does it, in casual and formal speech, so learn to recognise it from day one.",
+  "items": [
+   {
+    "std": "Tu es là?",
+    "qc": "Tsu es là?",
+    "en": "Are you there?",
+    "note": "pronunciation only: it is still written tu"
+   },
+   {
+    "std": "C'est petit.",
+    "qc": "C'est p'tsi.",
+    "en": "It's small.",
+    "note": "the e of petit is also dropped in casual speech"
+   },
+   {
+    "std": "Il est dix heures.",
+    "qc": "Il est dzix heures.",
+    "en": "It's ten o'clock.",
+    "note": "d before i becomes dz"
+   },
+   {
+    "std": "À lundi!",
+    "qc": "À lundzi!",
+    "en": "See you Monday!",
+    "note": "all the days ending in -di: mardzi, mercredzi…"
+   },
+   {
+    "std": "Je dis merci.",
+    "qc": "Je dzis merci.",
+    "en": "I say thank you.",
+    "note": "standard pronunciation, Quebec accent"
+   },
+   {
+    "std": "C'est utile.",
+    "qc": "C'est utsile.",
+    "en": "It's useful.",
+    "note": "t before i, even in the middle of a word"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "How is the French letter E pronounced?",
+   "options": [
+    "ee",
+    "uh",
+    "ay",
+    "eh-ee"
+   ],
+   "a": 1,
+   "why": "French E sounds like 'uh'. 'Ee' is the French letter I."
+  },
+  {
+   "t": "mcq",
+   "q": "Which letter is called 'zhee'?",
+   "options": [
+    "G",
+    "J",
+    "Z",
+    "I"
+   ],
+   "a": 1,
+   "why": "J = zhee, G = zhay."
+  },
+  {
+   "t": "mcq",
+   "q": "How do you say the letter Y in French?",
+   "options": [
+    "why",
+    "ee",
+    "ee-grek",
+    "doo-bluh-vay"
+   ],
+   "a": 2,
+   "why": "Y is i grec, 'Greek i'."
+  },
+  {
+   "t": "mcq",
+   "q": "In an e-mail address, how do you say '@'?",
+   "options": [
+    "point",
+    "tiret",
+    "arobas",
+    "à"
+   ],
+   "a": 2,
+   "why": "@ = arobas (or a commercial). The dot is point."
+  },
+  {
+   "t": "mcq",
+   "q": "In Quebec, how does 'tu' usually sound?",
+   "options": [
+    "[too]",
+    "[tsü]",
+    "[chew]",
+    "[tü] exactly as in France"
+   ],
+   "a": 1,
+   "why": "T before u becomes 'ts' in Quebec French."
+  },
+  {
+   "t": "fill",
+   "q": "Comment ça s'___? (is written)",
+   "a": [
+    "écrit"
+   ],
+   "en": "How is that spelled?",
+   "why": "Comment ça s'écrit? literally 'How does that write itself?'"
+  },
+  {
+   "t": "fill",
+   "q": "Isabelle s'écrit avec ___ L. (two)",
+   "a": [
+    "deux"
+   ],
+   "en": "Isabelle is spelled with two L's.",
+   "why": "Double letters are announced with deux."
+  },
+  {
+   "t": "fill",
+   "q": "Québec commence par un Q ___. (capital)",
+   "a": [
+    "majuscule"
+   ],
+   "en": "Québec starts with a capital Q.",
+   "why": "majuscule = capital, minuscule = small letter."
+  },
+  {
+   "t": "build",
+   "en": "How is that spelled?",
+   "a": "Comment ça s'écrit?"
+  },
+  {
+   "t": "build",
+   "en": "Can you spell it, please?",
+   "a": "Pouvez-vous épeler, s'il vous plaît?"
+  },
+  {
+   "t": "build",
+   "en": "It's spelled with two L's.",
+   "a": "Ça s'écrit avec deux L."
+  },
+  {
+   "t": "translate",
+   "en": "My name is Julie.",
+   "a": [
+    "Je m'appelle Julie.",
+    "Mon nom est Julie.",
+    "Mon nom, c'est Julie.",
+    "Mon prénom, c'est Julie.",
+    "Mon prénom est Julie."
+   ],
+   "why": "Je m'appelle is the most common way."
+  },
+  {
+   "t": "translate",
+   "en": "Thank you very much!",
+   "a": [
+    "Merci beaucoup!",
+    "Merci beaucoup."
+   ],
+   "why": "Merci beaucoup = thanks a lot."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "l'alphabet",
+   "en": "alphabet",
+   "g": "m",
+   "ex": "L'alphabet a vingt-six lettres."
+  },
+  {
+   "fr": "la lettre",
+   "en": "letter",
+   "g": "f",
+   "ex": "C'est quelle lettre?"
+  },
+  {
+   "fr": "la voyelle",
+   "en": "vowel",
+   "g": "f",
+   "ex": "A est une voyelle."
+  },
+  {
+   "fr": "la consonne",
+   "en": "consonant",
+   "g": "f",
+   "ex": "B est une consonne."
+  },
+  {
+   "fr": "épeler",
+   "en": "to spell (aloud)",
+   "ex": "Pouvez-vous épeler?"
+  },
+  {
+   "fr": "Comment ça s'écrit?",
+   "en": "How is that spelled?",
+   "ex": "Votre nom, comment ça s'écrit?"
+  },
+  {
+   "fr": "la majuscule",
+   "en": "capital letter",
+   "g": "f",
+   "ex": "Un Q majuscule."
+  },
+  {
+   "fr": "la minuscule",
+   "en": "lower-case letter",
+   "g": "f",
+   "ex": "Un a minuscule."
+  },
+  {
+   "fr": "le nom",
+   "en": "name, last name",
+   "g": "m",
+   "ex": "Quel est votre nom?"
+  },
+  {
+   "fr": "le prénom",
+   "en": "first name",
+   "g": "m",
+   "ex": "Mon prénom, c'est Marc."
+  },
+  {
+   "fr": "le nom de famille",
+   "en": "last name, surname",
+   "g": "m",
+   "ex": "Mon nom de famille est Smith."
+  },
+  {
+   "fr": "le mot",
+   "en": "word",
+   "g": "m",
+   "ex": "C'est un mot français."
+  },
+  {
+   "fr": "le courriel",
+   "en": "e-mail",
+   "g": "m",
+   "ex": "Quel est votre courriel?",
+   "qc": true
+  },
+  {
+   "fr": "le code postal",
+   "en": "postal code",
+   "g": "m",
+   "ex": "Mon code postal, c'est H2X 1Y4."
+  },
+  {
+   "fr": "s'il vous plaît",
+   "en": "please (polite)",
+   "ex": "Épelez, s'il vous plaît."
+  },
+  {
+   "fr": "merci",
+   "en": "thank you",
+   "ex": "Merci beaucoup!"
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "A, E, I, O, U",
+    "tip": "ah, uh, ee, oh, ü: the five vowels."
+   },
+   {
+    "fr": "G, J",
+    "tip": "zhay, zhee: the reverse of what English ears expect."
+   },
+   {
+    "fr": "tu, rue",
+    "tip": "Say 'ee' with rounded lips: [ü]."
+   },
+   {
+    "fr": "tout, vous",
+    "tip": "ou = English 'oo'. Different from u."
+   },
+   {
+    "fr": "W",
+    "tip": "doo-bluh-vay: three syllables."
+   },
+   {
+    "fr": "petit, dix",
+    "tip": "Quebec: [p'tsi], [dziss]. t and d before i become ts and dz."
+   },
+   {
+    "fr": "deux L",
+    "tip": "duh-zell: liaison in [z]."
+   }
+  ],
+  "title": "À la clinique",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Bonjour! Votre nom, s'il vous plaît?",
+    "en": "Hello! Your name, please?"
+   },
+   {
+    "s": "B",
+    "fr": "Bonjour. Je m'appelle Ryan Walsh.",
+    "en": "Hello. My name is Ryan Walsh."
+   },
+   {
+    "s": "A",
+    "fr": "Walsh, comment ça s'écrit?",
+    "en": "Walsh, how is that spelled?"
+   },
+   {
+    "s": "B",
+    "fr": "W-A-L-S-H.",
+    "en": "W-A-L-S-H."
+   },
+   {
+    "s": "A",
+    "fr": "Merci. Et votre code postal?",
+    "en": "Thank you. And your postal code?"
+   },
+   {
+    "s": "B",
+    "fr": "H2J 3K1.",
+    "en": "H2J 3K1."
+   },
+   {
+    "s": "A",
+    "fr": "Et votre courriel?",
+    "en": "And your e-mail?"
+   },
+   {
+    "s": "B",
+    "fr": "ryan point walsh arobas gmail point com.",
+    "en": "ryan dot walsh at gmail dot com."
+   },
+   {
+    "s": "A",
+    "fr": "Parfait, merci beaucoup!",
+    "en": "Perfect, thank you very much!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What does the receptionist ask for first?",
+    "options": [
+     "His e-mail",
+     "His name",
+     "His phone number"
+    ],
+    "a": 1
+   },
+   {
+    "q": "How does Ryan say the first letter of 'Walsh'?",
+    "options": [
+     "double vé",
+     "vé",
+     "i grec"
+    ],
+    "a": 0
+   },
+   {
+    "q": "What word does he use for '@'?",
+    "options": [
+     "point",
+     "tiret",
+     "arobas"
+    ],
+    "a": 2
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Say the whole alphabet aloud, slowly, then again faster.",
+   "model": "A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z"
+  },
+  {
+   "prompt": "Give your first name and spell it.",
+   "model": "Je m'appelle Ryan. R-Y-A-N."
+  },
+  {
+   "prompt": "Give your postal code and your e-mail address, letter by letter.",
+   "model": "Mon code postal, c'est H2J 3K1. Mon courriel, c'est ryan arobas gmail point com."
+  }
+ ],
+ "write": {
+  "prompt": "Write how you would spell out, in French letter names, your first name, last name and city (e.g. 'M-A-R-C' becomes 'emm, ah, air, say').",
+  "model": "Je m'appelle Marc Lee. Marc: emm, ah, air, say. Lee: ell, uh, uh. J'habite à Laval: ell, ah, vay, ah, ell."
+ },
+ "quiz": [
+  {
+   "q": "How many letters are in the French alphabet?",
+   "options": [
+    "24",
+    "26",
+    "28",
+    "30"
+   ],
+   "a": 1,
+   "why": "The same 26 letters as English."
+  },
+  {
+   "q": "Which letter is pronounced 'ee' in French?",
+   "options": [
+    "E",
+    "I",
+    "Y",
+    "A"
+   ],
+   "a": 1,
+   "why": "French I = ee. (Y is ee-grek.)"
+  },
+  {
+   "q": "The letter G in French sounds like…",
+   "options": [
+    "gee",
+    "jay",
+    "zhay",
+    "guh"
+   ],
+   "a": 2,
+   "why": "G = zhay, with the zh of 'measure'."
+  },
+  {
+   "q": "What is a 'majuscule'?",
+   "options": [
+    "A small letter",
+    "A capital letter",
+    "An accent",
+    "A vowel"
+   ],
+   "a": 1,
+   "why": "Majuscule = capital; minuscule = lower case."
+  },
+  {
+   "q": "How do you say the 'dot' in an e-mail address?",
+   "options": [
+    "point",
+    "tiret",
+    "arobas",
+    "virgule"
+   ],
+   "a": 0,
+   "why": "point = dot / period."
+  },
+  {
+   "q": "What is the French u sound?",
+   "options": [
+    "English 'oo'",
+    "'ee' with rounded lips",
+    "English 'you'",
+    "'uh'"
+   ],
+   "a": 1,
+   "why": "Say ee, then round your lips."
+  },
+  {
+   "q": "In Quebec, 'dix' often sounds like…",
+   "options": [
+    "[deece]",
+    "[dziss]",
+    "[tiss]",
+    "[dix]"
+   ],
+   "a": 1,
+   "why": "d before i becomes dz in Quebec French."
+  },
+  {
+   "q": "Which of these is NOT affected by the Quebec ts/dz change?",
+   "options": [
+    "tu",
+    "petit",
+    "tard",
+    "lundi"
+   ],
+   "a": 2,
+   "why": "Only t and d before i or u change. In tard, t is before a."
+  },
+  {
+   "q": "What does 'Comment ça s'écrit?' mean?",
+   "options": [
+    "How are you?",
+    "How is that spelled?",
+    "What is your name?",
+    "Where do you live?"
+   ],
+   "a": 1,
+   "why": "Literally 'How does that write itself?'"
+  }
+ ]
+}

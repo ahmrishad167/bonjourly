@@ -1,0 +1,661 @@
+{
+ "w": 48,
+ "title": "The pronoun en",
+ "goal": "By the end of this lesson you can use en to replace partitives, quantities and 'de + thing', keep the number in sentences like j'en ai deux, and handle en in the negative and the passé composé.",
+ "learn": [
+  {
+   "h": "En replaces 'some' (du, de la, des)",
+   "body": [
+    "*En* replaces a noun introduced by a partitive or indefinite plural article: *Tu veux* **du café**? *Oui, j'***en** *veux.* (Yes, I want some.)",
+    "English often says nothing ('Yes, I want'), or 'some' / 'any'. French always needs *en*: *Tu as* **des enfants**? *Oui, j'***en** *ai.* *Non, je n'***en** *ai pas.*"
+   ],
+   "table": {
+    "head": [
+     "Question",
+     "Answer with en"
+    ],
+    "rows": [
+     [
+      "Tu bois du lait?",
+      "Oui, j'en bois."
+     ],
+     [
+      "Il y a de la neige?",
+      "Oui, il y en a."
+     ],
+     [
+      "Vous avez des questions?",
+      "Non, je n'en ai pas."
+     ],
+     [
+      "Tu manges de la viande?",
+      "Non, je n'en mange plus."
+     ]
+    ]
+   },
+   "tip": "If the noun has du, de la, de l' or des in front, the pronoun is en."
+  },
+  {
+   "h": "En with numbers and quantities",
+   "body": [
+    "With a number or a quantity word, *en* replaces the noun but the quantity **stays at the end**: *J'ai* **deux** *sœurs* → *J'***en** *ai* **deux**. *Il boit* **beaucoup de** *café* → *Il* **en** *boit* **beaucoup**.",
+    "This is the part English speakers forget. 'I have two' must be *J'en ai deux*, never *J'ai deux*."
+   ],
+   "table": {
+    "head": [
+     "Full sentence",
+     "With en"
+    ],
+    "rows": [
+     [
+      "J'ai trois chats.",
+      "J'en ai trois."
+     ],
+     [
+      "Elle a un frère.",
+      "Elle en a un."
+     ],
+     [
+      "On a assez de chaises.",
+      "On en a assez."
+     ],
+     [
+      "Je veux un kilo de pommes.",
+      "J'en veux un kilo."
+     ],
+     [
+      "Il a trop de travail.",
+      "Il en a trop."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "En replaces 'de + thing'",
+   "body": [
+    "With verbs and expressions built with *de*, *en* replaces a thing or idea: *parler* **de** *son voyage* → *en parler*; *avoir besoin* **de** *mon auto* → *en avoir besoin*; *revenir* **de** *Toronto* → *en revenir*.",
+    "As with *y*, a **person** after *de* is not *en*: *Je parle de ma sœur* → *Je parle d'***elle**."
+   ]
+  },
+  {
+   "h": "Position, negative, passé composé",
+   "body": [
+    "Same position as the other pronouns: *J'***en** *veux*. *Je n'***en** *veux pas*. *Je vais* **en** *acheter*. *J'***en** *ai acheté*.",
+    "No participle agreement with *en*: *Des pommes? J'en ai mangé* (not mangées).",
+    "With other pronouns, *en* is always last: *Il* **m'en** *a donné*. *Il* **y en** *a* (there are some). In positive commands: *Prends-***en**! *Donne-***m'en**! For *-er* verbs the *-s* comes back: *Manges-***en**!"
+   ]
+  },
+  {
+   "h": "Il y en a, and fixed expressions",
+   "body": [
+    "*Il y en a* means 'there is some / there are some': *Il reste du pain? Oui, il y en a.* Negative: *Il n'y en a pas* / *Il n'y en a plus* (there's none left).",
+    "Useful expressions: *Je m'en vais* (I'm leaving), *Je n'en peux plus* (I can't take it anymore), *Ne t'en fais pas* (don't worry), *J'en ai assez* (I've had enough)."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Tu veux du café? Oui, j'en veux bien.",
+   "en": "Do you want some coffee? Yes, I'd like some.",
+   "note": "en replaces du café"
+  },
+  {
+   "fr": "Tu as des frères? J'en ai deux.",
+   "en": "Do you have brothers? I have two.",
+   "note": "the number stays at the end"
+  },
+  {
+   "fr": "Il y a encore de la tarte? Non, il n'y en a plus.",
+   "en": "Is there still some pie? No, there's none left.",
+   "note": "il n'y en a plus = there's no more"
+  },
+  {
+   "fr": "Des tomates? J'en ai acheté un kilo.",
+   "en": "Tomatoes? I bought a kilo.",
+   "note": "no agreement with en in the passé composé"
+  },
+  {
+   "fr": "Je n'en mange jamais le matin.",
+   "en": "I never eat any in the morning.",
+   "note": "ne + en + verb + jamais"
+  },
+  {
+   "fr": "On va en faire pour le souper.",
+   "en": "We're going to make some for supper.",
+   "note": "en before the infinitive"
+  },
+  {
+   "fr": "Ton voyage, tu m'en parles?",
+   "en": "Your trip, will you tell me about it?",
+   "note": "parler de + thing = en; me before en"
+  },
+  {
+   "fr": "J'ai besoin de ton auto. J'en ai besoin samedi.",
+   "en": "I need your car. I need it on Saturday.",
+   "note": "avoir besoin de = en"
+  },
+  {
+   "fr": "Il boit trop de café. Il en boit trop.",
+   "en": "He drinks too much coffee. He drinks too much of it.",
+   "note": "quantity word stays at the end"
+  },
+  {
+   "fr": "Des bleuets? Prends-en, il y en a beaucoup.",
+   "en": "Blueberries? Take some, there are lots.",
+   "note": "positive command + il y en a"
+  },
+  {
+   "fr": "Les biscuits sont bons. Manges-en un!",
+   "en": "The cookies are good. Have one!",
+   "note": "-s comes back before en"
+  },
+  {
+   "fr": "Je reviens de l'épicerie. J'en reviens à l'instant.",
+   "en": "I'm coming back from the grocery store. I've just come back from there.",
+   "note": "revenir de + place = en"
+  },
+  {
+   "fr": "Bon, je m'en vais. Bonne soirée!",
+   "en": "OK, I'm off. Have a good evening!",
+   "note": "s'en aller = to leave"
+  },
+  {
+   "fr": "Ne t'en fais pas, ça va bien aller.",
+   "en": "Don't worry, it's going to be OK.",
+   "note": "s'en faire = to worry"
+  },
+  {
+   "fr": "Combien d'heures as-tu travaillé? J'en ai travaillé dix.",
+   "en": "How many hours did you work? I worked ten.",
+   "note": "combien de → en + number"
+  },
+  {
+   "fr": "Il m'en a donné trois.",
+   "en": "He gave me three.",
+   "note": "me before en"
+  }
+ ],
+ "quebec": {
+  "intro": "En is everywhere in Quebec speech, usually with 'ne' dropped and 'il y a' squeezed into 'y'a': 'j'en veux pas', 'y'en a', 'y'en a pus'. Add 'en masse' (lots, plenty), a very Quebec way of talking about quantity.",
+  "items": [
+   {
+    "std": "Je n'en veux pas.",
+    "qc": "J'en veux pas.",
+    "en": "I don't want any.",
+    "note": "ne dropped; informal"
+   },
+   {
+    "std": "Il y en a.",
+    "qc": "Y'en a.",
+    "en": "There is some / there are some.",
+    "note": "sounds like [yan na]; informal"
+   },
+   {
+    "std": "Il n'y en a plus.",
+    "qc": "Y'en a pus.",
+    "en": "There's none left.",
+    "note": "pus = plus in casual Quebec speech"
+   },
+   {
+    "std": "Il y en a beaucoup.",
+    "qc": "Y'en a en masse.",
+    "en": "There's plenty.",
+    "note": "en masse = lots, plenty; Quebec, informal"
+   },
+   {
+    "std": "Je n'en reviens pas!",
+    "qc": "J'en reviens pas!",
+    "en": "I can't believe it! (I can't get over it)",
+    "note": "very common exclamation"
+   },
+   {
+    "std": "Je m'en vais.",
+    "qc": "J'm'en vas.",
+    "en": "I'm leaving.",
+    "note": "j'vas pattern again; informal"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Replace: 'Je mange des pommes.'",
+   "options": [
+    "Je les mange.",
+    "J'en mange.",
+    "J'y mange.",
+    "Je mange en."
+   ],
+   "a": 1,
+   "why": "Des pommes (some apples) = en."
+  },
+  {
+   "t": "mcq",
+   "q": "'Tu as des enfants?' — 'Oui, …'",
+   "options": [
+    "j'ai trois.",
+    "j'en ai trois.",
+    "j'ai en trois.",
+    "j'les ai trois."
+   ],
+   "a": 1,
+   "why": "En + verb + number at the end."
+  },
+  {
+   "t": "mcq",
+   "q": "'Je mange les pommes' (the specific apples) becomes…",
+   "options": [
+    "J'en mange.",
+    "Je les mange.",
+    "J'y mange.",
+    "Je leur mange."
+   ],
+   "a": 1,
+   "why": "With a definite article (les), use le/la/les, not en."
+  },
+  {
+   "t": "mcq",
+   "q": "'Des livres? J'en ai ___ trois.'",
+   "options": [
+    "acheté",
+    "achetés",
+    "achetées",
+    "acheter"
+   ],
+   "a": 0,
+   "why": "No agreement with en."
+  },
+  {
+   "t": "fill",
+   "q": "Du lait? Il n'y ___ a plus. (any)",
+   "a": [
+    "en"
+   ],
+   "en": "Milk? There's none left.",
+   "why": "Il n'y en a plus."
+  },
+  {
+   "t": "fill",
+   "q": "Ton auto? J'___ ai besoin demain. (of it)",
+   "a": [
+    "en"
+   ],
+   "en": "Your car? I need it tomorrow.",
+   "why": "Avoir besoin de + thing = en."
+  },
+  {
+   "t": "fill",
+   "q": "Des bonbons? Elle en veut ___. (a lot)",
+   "a": [
+    "beaucoup"
+   ],
+   "en": "Candy? She wants a lot.",
+   "why": "The quantity stays after the verb."
+  },
+  {
+   "t": "fill",
+   "q": "Prends-___, c'est gratuit! (some)",
+   "a": [
+    "en"
+   ],
+   "en": "Take some, it's free!",
+   "why": "Positive command: prends-en."
+  },
+  {
+   "t": "build",
+   "en": "I don't want any.",
+   "a": "Je n'en veux pas."
+  },
+  {
+   "t": "build",
+   "en": "There are lots.",
+   "a": "Il y en a beaucoup."
+  },
+  {
+   "t": "build",
+   "en": "We're going to buy some.",
+   "a": "On va en acheter."
+  },
+  {
+   "t": "translate",
+   "en": "I have two.",
+   "a": [
+    "J'en ai deux.",
+    "J'en ai deux!"
+   ],
+   "why": "Never forget en with a number."
+  },
+  {
+   "t": "translate",
+   "en": "Do you want some?",
+   "a": [
+    "Tu en veux?",
+    "Vous en voulez?",
+    "En veux-tu?",
+    "En voulez-vous?",
+    "Est-ce que tu en veux?",
+    "Est-ce que vous en voulez?",
+    "T'en veux?"
+   ],
+   "why": "En before vouloir."
+  },
+  {
+   "t": "translate",
+   "en": "Don't worry.",
+   "a": [
+    "Ne t'en fais pas.",
+    "Ne vous en faites pas.",
+    "T'en fais pas."
+   ],
+   "why": "S'en faire = to worry."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "en",
+   "en": "some, any; of it, of them",
+   "ex": "J'en veux."
+  },
+  {
+   "fr": "il y en a",
+   "en": "there is some / are some",
+   "ex": "Il y en a dans le frigo."
+  },
+  {
+   "fr": "il n'y en a plus",
+   "en": "there's none left",
+   "ex": "Du pain? Il n'y en a plus."
+  },
+  {
+   "fr": "avoir besoin de",
+   "en": "to need",
+   "ex": "J'en ai besoin."
+  },
+  {
+   "fr": "parler de",
+   "en": "to talk about",
+   "ex": "On en parle demain."
+  },
+  {
+   "fr": "s'en aller",
+   "en": "to leave, go away",
+   "ex": "Je m'en vais."
+  },
+  {
+   "fr": "s'en faire",
+   "en": "to worry",
+   "ex": "Ne t'en fais pas."
+  },
+  {
+   "fr": "assez (de)",
+   "en": "enough",
+   "ex": "J'en ai assez!"
+  },
+  {
+   "fr": "trop (de)",
+   "en": "too much, too many",
+   "ex": "Il en mange trop."
+  },
+  {
+   "fr": "combien (de)",
+   "en": "how much, how many",
+   "ex": "Combien en veux-tu?"
+  },
+  {
+   "fr": "le kilo",
+   "en": "kilogram",
+   "g": "m",
+   "ex": "Un kilo de pommes."
+  },
+  {
+   "fr": "le bleuet",
+   "en": "blueberry",
+   "g": "m",
+   "ex": "Des bleuets du Lac-Saint-Jean.",
+   "qc": true
+  },
+  {
+   "fr": "le biscuit",
+   "en": "cookie",
+   "g": "m",
+   "ex": "Manges-en un!"
+  },
+  {
+   "fr": "la tarte",
+   "en": "pie",
+   "g": "f",
+   "ex": "Une tarte au sucre."
+  },
+  {
+   "fr": "en masse",
+   "en": "lots, plenty",
+   "ex": "Y'en a en masse.",
+   "qc": true
+  },
+  {
+   "fr": "pus",
+   "en": "no more, not anymore (spoken plus)",
+   "ex": "J'en veux pus.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "j'en ai",
+    "tip": "[jahn-nay]: the n of en links to ai."
+   },
+   {
+    "fr": "il y en a",
+    "tip": "Standard [il-yahn-na]; Quebec casual [yahn-na]."
+   },
+   {
+    "fr": "prends-en",
+    "tip": "prahn-ZAHN: liaison in [z]."
+   },
+   {
+    "fr": "manges-en",
+    "tip": "mahnj-ZAHN: the added s is pronounced [z]."
+   },
+   {
+    "fr": "je n'en veux pas",
+    "tip": "juh-nahn-vuh-PA; casual j'en veux pas."
+   },
+   {
+    "fr": "en masse",
+    "tip": "ahn-MASS, two syllables."
+   }
+  ],
+  "title": "La liste d'épicerie",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Je vais à l'épicerie. On a besoin de lait?",
+    "en": "I'm going to the grocery store. Do we need milk?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, il n'y en a plus. Prends-en deux litres.",
+    "en": "Yes, there's none left. Get two litres."
+   },
+   {
+    "s": "A",
+    "fr": "Pis des œufs?",
+    "en": "And eggs?"
+   },
+   {
+    "s": "B",
+    "fr": "Non, y'en a en masse. J'en ai acheté une douzaine hier.",
+    "en": "No, there are plenty. I bought a dozen yesterday."
+   },
+   {
+    "s": "A",
+    "fr": "OK. Je peux acheter des bleuets aussi.",
+    "en": "OK. I can buy some blueberries too."
+   },
+   {
+    "s": "B",
+    "fr": "Bonne idée! Achètes-en beaucoup, je veux faire une tarte.",
+    "en": "Good idea! Buy lots, I want to make a pie."
+   },
+   {
+    "s": "A",
+    "fr": "Et du café?",
+    "en": "And coffee?"
+   },
+   {
+    "s": "B",
+    "fr": "Non merci, j'en bois trop ces temps-ci. Bon, vas-y, je t'en parle plus tard!",
+    "en": "No thanks, I drink too much of it these days. OK, go, we'll talk about it later!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "How much milk should A buy?",
+    "options": [
+     "One litre",
+     "Two litres",
+     "Four litres"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Why don't they need eggs?",
+    "options": [
+     "B bought a dozen yesterday",
+     "Nobody eats eggs",
+     "They are too expensive"
+    ],
+    "a": 0
+   },
+   {
+    "q": "What does B want to make with the blueberries?",
+    "options": [
+     "Muffins",
+     "A pie",
+     "Jam"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Answer with en and a number or quantity: 'Tu as des frères et sœurs? Tu bois combien de cafés par jour? Tu as des plantes?'",
+   "model": "J'en ai deux: un frère et une sœur. J'en bois trois par jour. Oui, j'en ai beaucoup!"
+  },
+  {
+   "prompt": "You are hosting. Offer food to a guest and answer their questions using prends-en, il y en a and il n'y en a plus.",
+   "model": "Des biscuits? Prends-en! Il y en a beaucoup. Du vin? Désolé, il n'y en a plus."
+  },
+  {
+   "prompt": "Say 'There's plenty' and 'There's none left' the standard way, then the Quebec way.",
+   "model": "Il y en a beaucoup. Il n'y en a plus. / Y'en a en masse. Y'en a pus."
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences about what is in your fridge and what you need to buy. Use en at least five times, including with numbers and quantities.",
+  "model": "Dans mon frigo, il y a du fromage, mais il n'y en a pas beaucoup. Des œufs? J'en ai six. Du lait? Il n'y en a plus, alors je dois en acheter. J'adore les fruits; j'en mange tous les jours. Hier, j'ai acheté des bleuets et j'en ai déjà mangé la moitié!"
+ },
+ "quiz": [
+  {
+   "q": "'En' replaces nouns introduced by…",
+   "options": [
+    "le, la, les",
+    "du, de la, des",
+    "à + person",
+    "à + place"
+   ],
+   "a": 1,
+   "why": "Partitive and indefinite plural articles, and de + thing."
+  },
+  {
+   "q": "'Tu as une voiture?' — 'Oui, …'",
+   "options": [
+    "j'en ai une.",
+    "j'ai une.",
+    "je l'ai une.",
+    "j'y ai une."
+   ],
+   "a": 0,
+   "why": "En + verb + quantity (une)."
+  },
+  {
+   "q": "Which is correct?",
+   "options": [
+    "J'ai en deux.",
+    "J'en ai deux.",
+    "J'ai deux en.",
+    "En j'ai deux."
+   ],
+   "a": 1,
+   "why": "En goes before the verb."
+  },
+  {
+   "q": "'Il parle de son travail' becomes…",
+   "options": [
+    "Il y parle.",
+    "Il en parle.",
+    "Il le parle.",
+    "Il lui parle."
+   ],
+   "a": 1,
+   "why": "Parler de + thing = en."
+  },
+  {
+   "q": "'Il parle de sa mère' becomes…",
+   "options": [
+    "Il en parle.",
+    "Il parle d'elle.",
+    "Il lui parle.",
+    "Il y parle."
+   ],
+   "a": 1,
+   "why": "A person after de: d'elle."
+  },
+  {
+   "q": "Which order is correct?",
+   "options": [
+    "Il en m'a donné.",
+    "Il m'en a donné.",
+    "Il m'a en donné.",
+    "Il a m'en donné."
+   ],
+   "a": 1,
+   "why": "En always comes last among the pronouns."
+  },
+  {
+   "q": "'Y'en a pus' means…",
+   "options": [
+    "There's plenty",
+    "There's none left",
+    "There's one more",
+    "I don't care"
+   ],
+   "a": 1,
+   "why": "Y'en a pus = il n'y en a plus."
+  },
+  {
+   "q": "What does 'en masse' mean in Quebec?",
+   "options": [
+    "all together",
+    "lots, plenty",
+    "in a crowd only",
+    "a little"
+   ],
+   "a": 1,
+   "why": "Y'en a en masse = there's plenty."
+  },
+  {
+   "q": "'Je m'en vais' means…",
+   "options": [
+    "I'm coming",
+    "I'm leaving",
+    "I'm going to buy some",
+    "I'm worried"
+   ],
+   "a": 1,
+   "why": "S'en aller = to leave."
+  }
+ ]
+}

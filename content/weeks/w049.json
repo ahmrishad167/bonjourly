@@ -1,0 +1,640 @@
+{
+ "w": 49,
+ "title": "Comparatives",
+ "goal": "By the end of this lesson you can compare people, things and actions with plus, moins, aussi and autant, and use the irregular forms meilleur, mieux and pire correctly.",
+ "learn": [
+  {
+   "h": "Comparing adjectives: plus, moins, aussi… que",
+   "body": [
+    "To compare two things, put *plus* (more), *moins* (less) or *aussi* (as) before the adjective and *que* before the second element: *Montréal est* **plus** *grande* **que** *Québec*.",
+    "The adjective still agrees with the noun it describes: *Ma sœur est plus grand***e** *que moi.* Before a vowel, *que* becomes *qu'*: *plus vieux qu'elle*."
+   ],
+   "table": {
+    "head": [
+     "Structure",
+     "Meaning",
+     "Example"
+    ],
+    "rows": [
+     [
+      "plus + adj. + que",
+      "more … than / -er than",
+      "Il est plus grand que moi."
+     ],
+     [
+      "moins + adj. + que",
+      "less … than",
+      "C'est moins cher que l'autre."
+     ],
+     [
+      "aussi + adj. + que",
+      "as … as",
+      "Elle est aussi drôle que sa mère."
+     ]
+    ]
+   },
+   "tip": "After que, use emphatic pronouns: que moi, que toi, que lui, qu'elle."
+  },
+  {
+   "h": "Comparing actions (adverbs) and quantities (nouns)",
+   "body": [
+    "With adverbs, the same words work: *Il parle* **plus vite que** *moi*. *Je cours* **moins souvent que** *toi*. *Elle conduit* **aussi prudemment que** *son père*.",
+    "With nouns, use *plus de, moins de, autant de* + noun: *J'ai* **plus de** *travail* **que** *toi*. *Il y a* **autant de** *neige* **qu'**l'an passé.",
+    "With verbs alone, use *plus, moins, autant* after the verb: *Je travaille* **plus que** *toi*. *Il mange* **autant que** *moi*."
+   ],
+   "table": {
+    "head": [
+     "With…",
+     "more",
+     "less",
+     "as / as much"
+    ],
+    "rows": [
+     [
+      "adjective / adverb",
+      "plus … que",
+      "moins … que",
+      "aussi … que"
+     ],
+     [
+      "noun",
+      "plus de … que",
+      "moins de … que",
+      "autant de … que"
+     ],
+     [
+      "verb",
+      "verb + plus que",
+      "verb + moins que",
+      "verb + autant que"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Bon → meilleur, bien → mieux",
+   "body": [
+    "*Bon* (good, adjective) does not take *plus*: it becomes **meilleur** (better), which agrees: *meilleur, meilleure, meilleurs, meilleures*. *Cette poutine est* **meilleure que** *l'autre.*",
+    "*Bien* (well, adverb) becomes **mieux**: *Tu chantes* **mieux que** *moi*. *Ça va* **mieux** *aujourd'hui.*",
+    "*Moins bon* and *aussi bon* are normal: *C'est moins bon que chez ma mère.*"
+   ],
+   "tip": "Describing a thing (noun)? meilleur. Describing an action (verb)? mieux."
+  },
+  {
+   "h": "Mauvais → pire (or plus mauvais)",
+   "body": [
+    "*Mauvais* (bad) usually becomes **pire** (worse) when talking about something serious or abstract: *La situation est* **pire qu'***avant*. *Plus mauvais* is also correct, especially for taste or quality: *Ce café est plus mauvais que celui d'hier.*",
+    "The adverb *mal* (badly) becomes *plus mal*: *Je dors plus mal en été.*"
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Québec est plus petite que Montréal.",
+   "en": "Quebec City is smaller than Montreal.",
+   "note": "ville is feminine, so petite"
+  },
+  {
+   "fr": "Mon appartement est moins cher que le tien.",
+   "en": "My apartment is less expensive than yours.",
+   "note": "moins + adjective + que"
+  },
+  {
+   "fr": "Ma fille est aussi grande que moi maintenant.",
+   "en": "My daughter is as tall as me now.",
+   "note": "aussi … que + emphatic pronoun"
+  },
+  {
+   "fr": "L'hiver est plus long ici qu'en France.",
+   "en": "Winter is longer here than in France.",
+   "note": "que + en becomes qu'en"
+  },
+  {
+   "fr": "Il parle plus vite que son frère.",
+   "en": "He talks faster than his brother.",
+   "note": "comparing an adverb"
+  },
+  {
+   "fr": "J'ai moins de temps libre que l'année passée.",
+   "en": "I have less free time than last year.",
+   "note": "moins de + noun"
+  },
+  {
+   "fr": "Il y a autant de monde qu'hier.",
+   "en": "There are as many people as yesterday.",
+   "note": "autant de + noun"
+  },
+  {
+   "fr": "Elle travaille plus que moi.",
+   "en": "She works more than I do.",
+   "note": "verb + plus que"
+  },
+  {
+   "fr": "Cette poutine est meilleure que l'autre.",
+   "en": "This poutine is better than the other one.",
+   "note": "meilleur agrees: meilleure"
+  },
+  {
+   "fr": "Tu parles français mieux que l'an passé.",
+   "en": "You speak French better than last year.",
+   "note": "mieux: better for an action"
+  },
+  {
+   "fr": "Je me sens mieux aujourd'hui.",
+   "en": "I feel better today.",
+   "note": "se sentir mieux"
+  },
+  {
+   "fr": "Le trafic est pire le vendredi.",
+   "en": "Traffic is worse on Fridays.",
+   "note": "pire = worse"
+  },
+  {
+   "fr": "Les tomates du marché sont meilleures que celles de l'épicerie.",
+   "en": "The tomatoes from the market are better than the ones from the grocery store.",
+   "note": "feminine plural: meilleures"
+  },
+  {
+   "fr": "Il conduit aussi bien que sa mère.",
+   "en": "He drives as well as his mother.",
+   "note": "aussi bien que (bien stays bien with aussi)"
+  },
+  {
+   "fr": "Ce restaurant est moins bon qu'avant.",
+   "en": "This restaurant isn't as good as before.",
+   "note": "moins bon is fine"
+  },
+  {
+   "fr": "Je dors plus mal quand il fait chaud.",
+   "en": "I sleep worse when it's hot.",
+   "note": "mal → plus mal"
+  }
+ ],
+ "quebec": {
+  "intro": "In Quebec speech you will hear 'plus pire' and 'moins pire' all the time. They are spoken only: pire already means 'more bad', so in writing say pire or moins grave. Also learn 'pas pire', which in Quebec means 'pretty good'.",
+  "items": [
+   {
+    "std": "C'est pire qu'hier.",
+    "qc": "C'est plus pire qu'hier.",
+    "en": "It's worse than yesterday.",
+    "note": "spoken only; avoid in writing"
+   },
+   {
+    "std": "C'est moins grave que je pensais.",
+    "qc": "C'est moins pire que je pensais.",
+    "en": "It's not as bad as I thought.",
+    "note": "very common spoken form; avoid in writing"
+   },
+   {
+    "std": "Ça va assez bien.",
+    "qc": "Ça va pas pire.",
+    "en": "I'm doing pretty well.",
+    "note": "pas pire = not bad, pretty good; informal"
+   },
+   {
+    "std": "Il est plus grand que moi.",
+    "qc": "Y'est plus grand que moé.",
+    "en": "He's taller than me.",
+    "note": "y'est = il est; moé = moi in some regions; informal"
+   },
+   {
+    "std": "C'est bien meilleur.",
+    "qc": "C'est ben meilleur.",
+    "en": "It's way better.",
+    "note": "ben = bien (much); informal"
+   },
+   {
+    "std": "C'est beaucoup mieux.",
+    "qc": "C'est ben mieux.",
+    "en": "That's much better.",
+    "note": "informal"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Ma voiture est ___ rapide que ta voiture. (more)",
+   "options": [
+    "plus",
+    "aussi",
+    "autant",
+    "meilleur"
+   ],
+   "a": 0,
+   "why": "Plus + adjective + que."
+  },
+  {
+   "t": "mcq",
+   "q": "Ce gâteau est ___ que l'autre. (better)",
+   "options": [
+    "plus bon",
+    "mieux",
+    "meilleur",
+    "bien"
+   ],
+   "a": 2,
+   "why": "Bon → meilleur (adjective)."
+  },
+  {
+   "t": "mcq",
+   "q": "Elle chante ___ que moi. (better)",
+   "options": [
+    "meilleur",
+    "meilleure",
+    "mieux",
+    "plus bien"
+   ],
+   "a": 2,
+   "why": "Chanter is an action: bien → mieux."
+  },
+  {
+   "t": "mcq",
+   "q": "J'ai ___ livres que toi. (as many)",
+   "options": [
+    "aussi de",
+    "autant de",
+    "aussi",
+    "autant"
+   ],
+   "a": 1,
+   "why": "With a noun: autant de."
+  },
+  {
+   "t": "fill",
+   "q": "Ma sœur est plus ___ que moi. (âgé)",
+   "a": [
+    "âgée"
+   ],
+   "en": "My sister is older than me.",
+   "why": "Agreement with sœur: âgée."
+  },
+  {
+   "t": "fill",
+   "q": "Il fait ___ froid qu'hier. (as)",
+   "a": [
+    "aussi"
+   ],
+   "en": "It's as cold as yesterday.",
+   "why": "Aussi + adjective + que."
+  },
+  {
+   "t": "fill",
+   "q": "Les pizzas ici sont ___ qu'à Montréal. (better)",
+   "a": [
+    "meilleures"
+   ],
+   "en": "The pizzas here are better than in Montreal.",
+   "why": "Pizzas: feminine plural, meilleures."
+  },
+  {
+   "t": "fill",
+   "q": "J'ai moins ___ vacances que toi. (of)",
+   "a": [
+    "de"
+   ],
+   "en": "I have less vacation than you.",
+   "why": "Moins de + noun."
+  },
+  {
+   "t": "build",
+   "en": "He works more than me.",
+   "a": "Il travaille plus que moi."
+  },
+  {
+   "t": "build",
+   "en": "I feel better today.",
+   "a": "Je me sens mieux aujourd'hui."
+  },
+  {
+   "t": "build",
+   "en": "The traffic is worse than yesterday.",
+   "a": "Le trafic est pire qu'hier."
+  },
+  {
+   "t": "translate",
+   "en": "She is taller than him.",
+   "a": [
+    "Elle est plus grande que lui."
+   ],
+   "why": "Grande agrees with elle; emphatic lui after que."
+  },
+  {
+   "t": "translate",
+   "en": "It's less expensive.",
+   "a": [
+    "C'est moins cher.",
+    "C'est moins cher!"
+   ],
+   "why": "Moins + adjective."
+  },
+  {
+   "t": "translate",
+   "en": "You speak better than me.",
+   "a": [
+    "Tu parles mieux que moi.",
+    "Vous parlez mieux que moi."
+   ],
+   "why": "Parler bien → mieux."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "plus … que",
+   "en": "more … than",
+   "ex": "Plus grand que moi."
+  },
+  {
+   "fr": "moins … que",
+   "en": "less … than",
+   "ex": "Moins cher que l'autre."
+  },
+  {
+   "fr": "aussi … que",
+   "en": "as … as",
+   "ex": "Aussi beau que toi."
+  },
+  {
+   "fr": "autant (de) … que",
+   "en": "as much / as many … as",
+   "ex": "Autant de neige que l'an passé."
+  },
+  {
+   "fr": "meilleur / meilleure",
+   "en": "better (adjective)",
+   "ex": "C'est meilleur chaud."
+  },
+  {
+   "fr": "mieux",
+   "en": "better (adverb)",
+   "ex": "Ça va mieux."
+  },
+  {
+   "fr": "pire",
+   "en": "worse",
+   "ex": "C'est pire qu'avant."
+  },
+  {
+   "fr": "âgé / âgée",
+   "en": "old (people)",
+   "ex": "Il est plus âgé que moi."
+  },
+  {
+   "fr": "jeune",
+   "en": "young",
+   "ex": "Elle est plus jeune."
+  },
+  {
+   "fr": "cher / chère",
+   "en": "expensive; dear",
+   "ex": "C'est trop cher."
+  },
+  {
+   "fr": "rapide",
+   "en": "fast",
+   "ex": "Le métro est plus rapide."
+  },
+  {
+   "fr": "lent / lente",
+   "en": "slow",
+   "ex": "L'autobus est plus lent."
+  },
+  {
+   "fr": "le trafic",
+   "en": "traffic",
+   "g": "m",
+   "ex": "Le trafic est pire le vendredi."
+  },
+  {
+   "fr": "pas pire",
+   "en": "not bad, pretty good",
+   "ex": "Ça va pas pire!",
+   "qc": true
+  },
+  {
+   "fr": "moins pire",
+   "en": "not as bad (spoken)",
+   "ex": "C'est moins pire que je pensais.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "plus grand",
+    "tip": "s silent: [plu grahn]."
+   },
+   {
+    "fr": "plus âgé",
+    "tip": "Liaison in [z]: plu-za-JÉ."
+   },
+   {
+    "fr": "plus que moi",
+    "tip": "Here the s is pronounced: [pluss kuh mwa]."
+   },
+   {
+    "fr": "meilleur",
+    "tip": "mè-YEUR, with a y glide."
+   },
+   {
+    "fr": "mieux",
+    "tip": "One syllable: [myeu]."
+   },
+   {
+    "fr": "pas pire",
+    "tip": "Quebec: [pâ pire], the â is long and back."
+   }
+  ],
+  "title": "Montréal ou Québec?",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Tu préfères Montréal ou Québec?",
+    "en": "Do you prefer Montreal or Quebec City?"
+   },
+   {
+    "s": "B",
+    "fr": "Montréal est plus grande et plus animée, mais Québec est plus belle.",
+    "en": "Montreal is bigger and livelier, but Quebec City is more beautiful."
+   },
+   {
+    "s": "A",
+    "fr": "Et les loyers?",
+    "en": "And rent?"
+   },
+   {
+    "s": "B",
+    "fr": "Ils sont un peu moins chers à Québec. Mais il y a moins de travail dans mon domaine.",
+    "en": "They're a bit cheaper in Quebec City. But there's less work in my field."
+   },
+   {
+    "s": "A",
+    "fr": "Pis l'hiver?",
+    "en": "And winter?"
+   },
+   {
+    "s": "B",
+    "fr": "À Québec, il y a plus de neige. C'est plus pire, comme on dit!",
+    "en": "In Quebec City there's more snow. It's 'worser', as people say!"
+   },
+   {
+    "s": "A",
+    "fr": "Et la bouffe?",
+    "en": "And the food?"
+   },
+   {
+    "s": "B",
+    "fr": "Les deux villes sont bonnes, mais les bagels de Montréal sont meilleurs!",
+    "en": "Both cities are good, but Montreal bagels are better!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "According to B, which city is more beautiful?",
+    "options": [
+     "Montreal",
+     "Quebec City",
+     "Neither"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What is cheaper in Quebec City?",
+    "options": [
+     "Food",
+     "Rent",
+     "Transport"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What is the downside of Quebec City for B's work?",
+    "options": [
+     "There is less work in B's field",
+     "The salaries are lower",
+     "The commute is longer"
+    ],
+    "a": 0
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Compare yourself to a family member in 3 sentences (age, height, a skill).",
+   "model": "Mon frère est plus âgé que moi. Il est aussi grand que moi. Mais je cuisine mieux que lui!"
+  },
+  {
+   "prompt": "Compare winter and summer in Quebec using plus de, moins de and meilleur.",
+   "model": "En hiver, il y a plus de neige et moins de soleil. L'été est meilleur pour faire du vélo."
+  },
+  {
+   "prompt": "Someone asks 'Ça va?'. Answer 'pretty good' Quebec-style, then say 'it's not as bad as yesterday' in standard French.",
+   "model": "Pas pire! / C'est moins grave qu'hier."
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences comparing two places you have lived or visited. Use at least one each of plus, moins, aussi, autant de and meilleur or mieux.",
+  "model": "J'ai habité à Toronto et à Montréal. Toronto est plus grande que Montréal, mais Montréal est plus jolie. Les loyers sont moins chers à Montréal. Il y a autant de festivals dans les deux villes. À mon avis, la nourriture est meilleure à Montréal. Et maintenant, je parle français mieux qu'avant!"
+ },
+ "quiz": [
+  {
+   "q": "'Il est ___ intelligent que son frère.' (as)",
+   "options": [
+    "autant",
+    "aussi",
+    "si de",
+    "plus de"
+   ],
+   "a": 1,
+   "why": "Aussi + adjective + que."
+  },
+  {
+   "q": "Which is correct?",
+   "options": [
+    "C'est plus bon.",
+    "C'est meilleur.",
+    "C'est mieux bon.",
+    "C'est plus meilleur."
+   ],
+   "a": 1,
+   "why": "Bon → meilleur."
+  },
+  {
+   "q": "'Il nage ___ que moi.' (better)",
+   "options": [
+    "meilleur",
+    "mieux",
+    "plus bien",
+    "plus bon"
+   ],
+   "a": 1,
+   "why": "Nager is an action: mieux."
+  },
+  {
+   "q": "'Elle a ___ amis que moi.' (more)",
+   "options": [
+    "plus",
+    "plus de",
+    "plus des",
+    "autant"
+   ],
+   "a": 1,
+   "why": "With a noun: plus de."
+  },
+  {
+   "q": "Which pronoun follows que in 'plus grand que ___'? (me)",
+   "options": [
+    "je",
+    "me",
+    "moi",
+    "mon"
+   ],
+   "a": 2,
+   "why": "Emphatic pronoun: moi."
+  },
+  {
+   "q": "'Plus pire' is…",
+   "options": [
+    "the standard written form",
+    "a spoken form to avoid in writing",
+    "the superlative",
+    "only used in France"
+   ],
+   "a": 1,
+   "why": "Pire already means worse."
+  },
+  {
+   "q": "In Quebec, 'Ça va pas pire' means…",
+   "options": [
+    "Things are terrible",
+    "Things are pretty good",
+    "It isn't worse",
+    "I'm sick"
+   ],
+   "a": 1,
+   "why": "Pas pire = not bad, pretty good."
+  },
+  {
+   "q": "'Les fraises sont ___ cette année.' (better)",
+   "options": [
+    "meilleur",
+    "meilleurs",
+    "meilleures",
+    "mieux"
+   ],
+   "a": 2,
+   "why": "Fraises: feminine plural."
+  },
+  {
+   "q": "'Je travaille autant que toi' means…",
+   "options": [
+    "I work as much as you",
+    "I work more than you",
+    "I work less than you",
+    "I work with you"
+   ],
+   "a": 0,
+   "why": "Verb + autant que = as much as."
+  }
+ ]
+}

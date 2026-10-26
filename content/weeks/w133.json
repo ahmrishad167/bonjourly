@@ -1,0 +1,668 @@
+{
+ "w": 133,
+ "title": "Advanced prepositions: à partir de, dès, en attendant",
+ "goal": "By the end of this lesson you can use advanced time and logic prepositions (à partir de, dès, à compter de, d'ici, en attendant, lors de, faute de, quant à, conformément à) and read Quebec administrative and legal notices with confidence.",
+ "learn": [
+  {
+   "h": "Starting points: à partir de, dès, à compter de",
+   "body": [
+    "*À partir de* = starting from, from… on. It is neutral and works for time, place and quantity: *à partir de lundi*, *à partir de la sortie 45*, *à partir de 20 $*.",
+    "*Dès* = as early as, right from, as soon as. It stresses that something happens early or immediately: *dès 7 h*, *dès votre arrivée*, *dès réception de la facture*. *Dès que* + verb: *dès que tu arrives*.",
+    "*À compter de* = effective, as of. It is the administrative and legal favourite: *Le nouveau tarif s'applique à compter du 1er janvier.*"
+   ],
+   "table": {
+    "head": [
+     "Preposition",
+     "Nuance",
+     "Example"
+    ],
+    "rows": [
+     [
+      "à partir de",
+      "neutral starting point",
+      "Le stationnement est interdit à partir de 23 h."
+     ],
+     [
+      "dès",
+      "early / immediate",
+      "Les inscriptions commencent dès 8 h."
+     ],
+     [
+      "à compter de",
+      "official effective date",
+      "Le règlement entre en vigueur à compter du 1er mars."
+     ],
+     [
+      "depuis",
+      "since (still true now)",
+      "Il habite ici depuis 2019."
+     ],
+     [
+      "d'ici",
+      "between now and (deadline)",
+      "Répondez d'ici vendredi."
+     ]
+    ]
+   },
+   "tip": "Dès = 'already at'. If you can add 'as early as' in English, use dès."
+  },
+  {
+   "h": "Waiting and meanwhile: en attendant",
+   "body": [
+    "*En attendant* alone = meanwhile, in the meantime: *Le technicien arrive à 15 h. En attendant, n'utilisez pas l'ascenseur.*",
+    "*En attendant* + noun = until, while waiting for: *en attendant les résultats*. *En attendant de* + infinitive (same subject): *en attendant de trouver un emploi*. *En attendant que* + subjonctif (different subject): *en attendant que le technicien arrive*."
+   ]
+  },
+  {
+   "h": "Time inside a period: lors de, au cours de, pendant",
+   "body": [
+    "*Pendant* = during (neutral). *Au cours de* = in the course of, during (slightly formal). *Lors de* = at the time of, on the occasion of; it points to a specific event: *lors de la dernière réunion*, *lors de votre visite*.",
+    "*Durant* is a formal synonym of *pendant*, very frequent in Quebec writing."
+   ]
+  },
+  {
+   "h": "Logic prepositions for formal texts",
+   "body": [
+    "These appear constantly in leases, contracts, government letters and policies. Recognise them and you can read almost any official document."
+   ],
+   "table": {
+    "head": [
+     "Preposition",
+     "Meaning",
+     "Example"
+    ],
+    "rows": [
+     [
+      "faute de",
+      "for lack of",
+      "Faute de place, l'activité est annulée."
+     ],
+     [
+      "à défaut de",
+      "failing, in the absence of",
+      "À défaut de paiement, des frais s'appliqueront."
+     ],
+     [
+      "quant à",
+      "as for",
+      "Quant aux locataires, ils seront avisés."
+     ],
+     [
+      "conformément à",
+      "in accordance with",
+      "conformément à l'article 1931 du Code civil"
+     ],
+     [
+      "en vertu de",
+      "under, pursuant to",
+      "en vertu de la Charte de la langue française"
+     ],
+     [
+      "auprès de",
+      "with, to (an organisation)",
+      "Faites votre demande auprès de la SAAQ."
+     ],
+     [
+      "sous réserve de",
+      "subject to",
+      "sous réserve d'approbation"
+     ]
+    ]
+   }
+  }
+ ],
+ "examples": [
+  {
+   "fr": "À partir de lundi, la bibliothèque ouvrira à 9 h.",
+   "en": "Starting Monday, the library will open at 9 a.m.",
+   "note": "neutral starting point"
+  },
+  {
+   "fr": "Les billets sont offerts à partir de 25 $.",
+   "en": "Tickets are available from $25.",
+   "note": "à partir de with a price"
+  },
+  {
+   "fr": "Les portes ouvrent dès 18 h.",
+   "en": "Doors open as early as 6 p.m.",
+   "note": "dès stresses 'already at'"
+  },
+  {
+   "fr": "Dès son arrivée au Canada, elle s'est inscrite à des cours de français.",
+   "en": "As soon as she arrived in Canada, she signed up for French classes.",
+   "note": "dès + noun = right from"
+  },
+  {
+   "fr": "Le paiement est exigible dès réception de la facture.",
+   "en": "Payment is due upon receipt of the invoice.",
+   "note": "fixed administrative phrase, no article"
+  },
+  {
+   "fr": "Le nouveau règlement s'applique à compter du 1er janvier.",
+   "en": "The new by-law applies as of January 1.",
+   "note": "à compter de = official effective date"
+  },
+  {
+   "fr": "Veuillez nous faire parvenir les documents d'ici le 15 mars.",
+   "en": "Please send us the documents by March 15.",
+   "note": "d'ici = by (deadline)"
+  },
+  {
+   "fr": "L'ascenseur est en panne. En attendant, veuillez utiliser l'escalier.",
+   "en": "The elevator is out of order. In the meantime, please use the stairs.",
+   "note": "en attendant alone = meanwhile"
+  },
+  {
+   "fr": "En attendant de trouver un logement, il habite chez sa tante.",
+   "en": "Until he finds a place to live, he's staying with his aunt.",
+   "note": "en attendant de + infinitive"
+  },
+  {
+   "fr": "En attendant que le technicien arrive, ne touchez à rien.",
+   "en": "Until the technician arrives, don't touch anything.",
+   "note": "en attendant que + subjonctif"
+  },
+  {
+   "fr": "Lors de votre dernière visite, vous avez signé ce formulaire.",
+   "en": "During your last visit, you signed this form.",
+   "note": "lors de = at the time of a specific event"
+  },
+  {
+   "fr": "Au cours des dix dernières années, les loyers ont beaucoup augmenté.",
+   "en": "Over the last ten years, rents have risen a lot.",
+   "note": "au cours de = over the course of"
+  },
+  {
+   "fr": "Faute de participants, l'atelier est annulé.",
+   "en": "For lack of participants, the workshop is cancelled.",
+   "note": "faute de + noun, no article"
+  },
+  {
+   "fr": "À défaut de paiement dans les trente jours, des intérêts seront facturés.",
+   "en": "Failing payment within thirty days, interest will be charged.",
+   "note": "typical contract wording"
+  },
+  {
+   "fr": "Conformément à votre bail, l'avis doit être donné par écrit.",
+   "en": "In accordance with your lease, notice must be given in writing.",
+   "note": "conformément à"
+  },
+  {
+   "fr": "Quant à la date du déménagement, elle reste à confirmer.",
+   "en": "As for the moving date, it has yet to be confirmed.",
+   "note": "quant à introduces a new topic"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebec leases, Revenu Québec letters, SAAQ notices and municipal by-laws are full of these prepositions. The OQLF also flags a few common anglicisms in this area: here is the recommended form next to what you'll often hear.",
+  "items": [
+   {
+    "std": "Le tarif est en vigueur à compter du 1er avril.",
+    "qc": "Le tarif est effectif le 1er avril.",
+    "en": "The rate takes effect April 1.",
+    "note": "effectif in this sense is an anglicism; prefer en vigueur"
+   },
+   {
+    "std": "Jusqu'à maintenant, tout va bien.",
+    "qc": "À date, tout va bien.",
+    "en": "So far, everything's fine.",
+    "note": "à date is a common Quebec anglicism; prefer jusqu'à maintenant, à ce jour"
+   },
+   {
+    "std": "Je mange pendant l'heure du dîner.",
+    "qc": "Je mange sur l'heure du dîner.",
+    "en": "I eat on my lunch hour.",
+    "note": "sur l'heure du dîner is a calque; prefer à / pendant l'heure du dîner"
+   },
+   {
+    "std": "Elle siège à un comité.",
+    "qc": "Elle est sur un comité.",
+    "en": "She's on a committee.",
+    "note": "être sur un comité is a calque; prefer siéger à / faire partie de"
+   },
+   {
+    "std": "Faites votre demande auprès de la SAAQ.",
+    "qc": "Faites votre demande à la SAAQ.",
+    "en": "Apply to the SAAQ.",
+    "note": "both fine; auprès de is the written administrative form"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Which fits best? 'Les portes ouvrent ___ 7 h, venez tôt!'",
+   "options": [
+    "dès",
+    "depuis",
+    "pendant",
+    "lors de"
+   ],
+   "a": 0,
+   "why": "Dès stresses 'as early as'."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is the official way to state an effective date?",
+   "options": [
+    "effectif le 1er mai",
+    "à compter du 1er mai",
+    "sur le 1er mai",
+    "à date du 1er mai"
+   ],
+   "a": 1,
+   "why": "À compter de is standard administrative French."
+  },
+  {
+   "t": "mcq",
+   "q": "'Faute de temps, je n'ai pas pu finir.' means…",
+   "options": [
+    "Because of my mistake…",
+    "For lack of time…",
+    "In time…",
+    "After some time…"
+   ],
+   "a": 1,
+   "why": "Faute de = for lack of."
+  },
+  {
+   "t": "mcq",
+   "q": "En attendant ___ le plombier arrive, coupez l'eau.",
+   "options": [
+    "de",
+    "que",
+    "à",
+    "pour"
+   ],
+   "a": 1,
+   "why": "Different subject → en attendant que + subjonctif."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is a Quebec anglicism the OQLF recommends avoiding?",
+   "options": [
+    "jusqu'à maintenant",
+    "à ce jour",
+    "à date",
+    "jusqu'ici"
+   ],
+   "a": 2,
+   "why": "À date (from 'to date') → jusqu'à maintenant."
+  },
+  {
+   "t": "fill",
+   "q": "Le paiement est exigible ___ réception de la facture.",
+   "a": [
+    "dès",
+    "à la"
+   ],
+   "en": "Payment is due upon receipt of the invoice.",
+   "why": "Dès réception is the fixed formula."
+  },
+  {
+   "t": "fill",
+   "q": "Envoyez-moi le rapport d'___ vendredi.",
+   "a": [
+    "ici"
+   ],
+   "en": "Send me the report by Friday.",
+   "why": "D'ici + deadline."
+  },
+  {
+   "t": "fill",
+   "q": "En attendant ___ trouver un emploi, il fait du bénévolat.",
+   "a": [
+    "de"
+   ],
+   "en": "Until he finds a job, he's volunteering.",
+   "why": "Same subject → en attendant de + infinitive."
+  },
+  {
+   "t": "fill",
+   "q": "___ de votre dernière visite, vous avez oublié votre parapluie. (At the time)",
+   "a": [
+    "Lors"
+   ],
+   "en": "During your last visit, you forgot your umbrella.",
+   "why": "Lors de + specific event."
+  },
+  {
+   "t": "fill",
+   "q": "___ à mon frère, il ne viendra pas. (As for)",
+   "a": [
+    "Quant"
+   ],
+   "en": "As for my brother, he won't come.",
+   "why": "Quant à introduces a new topic."
+  },
+  {
+   "t": "build",
+   "en": "Starting Monday, the store will close at nine.",
+   "a": "À partir de lundi, le magasin fermera à neuf heures."
+  },
+  {
+   "t": "build",
+   "en": "In the meantime, please use the stairs.",
+   "a": "En attendant, veuillez utiliser l'escalier."
+  },
+  {
+   "t": "translate",
+   "en": "For lack of space, the event is cancelled.",
+   "a": [
+    "Faute de place, l'événement est annulé.",
+    "Faute d'espace, l'événement est annulé.",
+    "Faute de place, l'activité est annulée.",
+    "Faute de place, l'évènement est annulé."
+   ],
+   "why": "Faute de + noun without an article."
+  },
+  {
+   "t": "translate",
+   "en": "So far, everything is fine.",
+   "a": [
+    "Jusqu'à maintenant, tout va bien.",
+    "Jusqu'ici, tout va bien.",
+    "À ce jour, tout va bien.",
+    "Pour l'instant, tout va bien."
+   ],
+   "why": "Avoid the anglicism à date in writing."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "à partir de",
+   "en": "starting from, from… on",
+   "ex": "À partir de demain, je prends le métro."
+  },
+  {
+   "fr": "dès",
+   "en": "as early as, right from, upon",
+   "ex": "Dès l'aube, il travaille."
+  },
+  {
+   "fr": "à compter de",
+   "en": "as of, effective",
+   "ex": "À compter du 1er juillet, le loyer augmente."
+  },
+  {
+   "fr": "d'ici",
+   "en": "by, between now and",
+   "ex": "D'ici la fin du mois, tout sera réglé."
+  },
+  {
+   "fr": "en attendant",
+   "en": "meanwhile; until",
+   "ex": "En attendant, buvons un café."
+  },
+  {
+   "fr": "lors de",
+   "en": "at the time of, during",
+   "ex": "Lors de l'entrevue, soyez ponctuel."
+  },
+  {
+   "fr": "au cours de",
+   "en": "during, in the course of",
+   "ex": "Au cours de la soirée, il a neigé."
+  },
+  {
+   "fr": "faute de",
+   "en": "for lack of",
+   "ex": "Faute d'argent, ils ont annulé leur voyage."
+  },
+  {
+   "fr": "à défaut de",
+   "en": "failing, in the absence of",
+   "ex": "À défaut de réponse, le contrat sera renouvelé."
+  },
+  {
+   "fr": "quant à",
+   "en": "as for",
+   "ex": "Quant à moi, je reste."
+  },
+  {
+   "fr": "conformément à",
+   "en": "in accordance with",
+   "ex": "Conformément à la loi, l'avis est envoyé."
+  },
+  {
+   "fr": "en vertu de",
+   "en": "under, pursuant to",
+   "ex": "En vertu de l'article 12, vous avez dix jours."
+  },
+  {
+   "fr": "auprès de",
+   "en": "with, to (an organisation)",
+   "ex": "Renseignez-vous auprès de votre municipalité."
+  },
+  {
+   "fr": "en vigueur",
+   "en": "in force, in effect",
+   "ex": "La loi est en vigueur depuis 2022."
+  },
+  {
+   "fr": "exigible",
+   "en": "due, payable",
+   "ex": "Le loyer est exigible le premier du mois."
+  },
+  {
+   "fr": "à date",
+   "en": "so far (anglicism, informal)",
+   "ex": "À date, j'ai lu trois chapitres.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "à partir de",
+    "tip": "[a par-TIR duh]; fast: [a-par-tir-d']."
+   },
+   {
+    "fr": "dès",
+    "tip": "[DÈ], open è; don't confuse with des [dé]."
+   },
+   {
+    "fr": "à compter du",
+    "tip": "The p is silent: [a kon-TÉ du]."
+   },
+   {
+    "fr": "en attendant",
+    "tip": "Liaison: [an-na-tan-DAN]."
+   },
+   {
+    "fr": "conformément",
+    "tip": "[kon-for-mé-MAN]."
+   },
+   {
+    "fr": "en vigueur",
+    "tip": "[an vi-GHEUR]; the u after g only keeps the g hard."
+   }
+  ],
+  "title": "Un avis du propriétaire",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "As-tu lu la lettre du propriétaire? C'est écrit en langage d'avocat.",
+    "en": "Did you read the landlord's letter? It's written in lawyer-speak."
+   },
+   {
+    "s": "B",
+    "fr": "Oui. « Conformément au bail, le loyer sera augmenté de 4 % à compter du 1er juillet. »",
+    "en": "Yes. 'In accordance with the lease, the rent will be increased by 4% as of July 1.'"
+   },
+   {
+    "s": "A",
+    "fr": "Et on a combien de temps pour répondre?",
+    "en": "And how much time do we have to answer?"
+   },
+   {
+    "s": "B",
+    "fr": "« Le locataire doit répondre dans un délai d'un mois suivant la réception de l'avis. À défaut de réponse, il est réputé avoir accepté. »",
+    "en": "'The tenant must answer within one month of receiving the notice. Failing a reply, the tenant is deemed to have accepted.'"
+   },
+   {
+    "s": "A",
+    "fr": "Donc, il faut répondre d'ici la fin du mois.",
+    "en": "So we have to answer by the end of the month."
+   },
+   {
+    "s": "B",
+    "fr": "Exactement. En attendant, je vais m'informer auprès du Tribunal administratif du logement.",
+    "en": "Exactly. In the meantime, I'll get information from the Administrative Housing Tribunal."
+   },
+   {
+    "s": "A",
+    "fr": "Bonne idée. Quant à moi, je vais comparer avec les loyers du quartier.",
+    "en": "Good idea. As for me, I'll compare with rents in the neighbourhood."
+   }
+  ],
+  "questions": [
+   {
+    "q": "By how much will the rent increase?",
+    "options": [
+     "2%",
+     "4%",
+     "10%"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What happens if the tenant does not reply?",
+    "options": [
+     "The lease ends",
+     "The tenant is deemed to have accepted",
+     "The increase is cancelled"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Where will speaker B get information?",
+    "options": [
+     "At city hall",
+     "At the Tribunal administratif du logement",
+     "At the bank"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Explain a change at your workplace using à partir de, dès and en attendant.",
+   "model": "À partir du mois prochain, on va travailler de la maison deux jours par semaine. Dès lundi, on reçoit nos nouveaux portables. En attendant, on continue comme avant."
+  },
+  {
+   "prompt": "Explain a deadline to a colleague using d'ici and faute de.",
+   "model": "Il faut remettre le rapport d'ici jeudi. Faute de temps, on va laisser tomber la dernière section."
+  },
+  {
+   "prompt": "Turn this casual sentence into formal French: 'À date, on a rien reçu, fait que le prix va être effectif en janvier.'",
+   "model": "Jusqu'à maintenant, nous n'avons rien reçu; le prix entrera donc en vigueur à compter de janvier."
+  }
+ ],
+ "write": {
+  "prompt": "Write a formal notice (5–7 sentences) from a condo association announcing new parking rules. Use at least five prepositions from this lesson.",
+  "model": "Avis aux copropriétaires. À compter du 1er décembre, le stationnement extérieur sera interdit de 23 h à 7 h, conformément au règlement municipal sur le déneigement. Les vignettes seront distribuées dès le 15 novembre. Veuillez récupérer la vôtre auprès de la gestionnaire d'ici le 30 novembre. À défaut de vignette, votre véhicule pourrait être remorqué à vos frais. En attendant, nous vous remercions de votre collaboration. Quant aux visiteurs, ils devront utiliser le stationnement de la rue."
+ },
+ "quiz": [
+  {
+   "q": "Which preposition stresses that something happens early?",
+   "options": [
+    "à partir de",
+    "dès",
+    "pendant",
+    "lors de"
+   ],
+   "a": 1,
+   "why": "Dès = as early as, right from."
+  },
+  {
+   "q": "'D'ici la fin du mois' means…",
+   "options": [
+    "from here to the end",
+    "by the end of the month",
+    "since the end of the month",
+    "after the end of the month"
+   ],
+   "a": 1,
+   "why": "D'ici + date = by that deadline."
+  },
+  {
+   "q": "Which follows 'en attendant que'?",
+   "options": [
+    "indicative",
+    "subjonctif",
+    "infinitive",
+    "conditionnel"
+   ],
+   "a": 1,
+   "why": "En attendant que + subjonctif."
+  },
+  {
+   "q": "'Lors de' refers to…",
+   "options": [
+    "a long period",
+    "a specific event or moment",
+    "a place",
+    "a reason"
+   ],
+   "a": 1,
+   "why": "Lors de la réunion, lors de votre visite."
+  },
+  {
+   "q": "'En vertu de la loi' means…",
+   "options": [
+    "despite the law",
+    "under / pursuant to the law",
+    "against the law",
+    "before the law"
+   ],
+   "a": 1,
+   "why": "En vertu de = by virtue of, under."
+  },
+  {
+   "q": "Which is the recommended form?",
+   "options": [
+    "Il est sur le conseil.",
+    "Il siège au conseil.",
+    "Il est effectif au conseil.",
+    "Il est à date au conseil."
+   ],
+   "a": 1,
+   "why": "Siéger à / faire partie de; être sur is a calque."
+  },
+  {
+   "q": "'À défaut de paiement' appears mostly in…",
+   "options": [
+    "love letters",
+    "contracts and invoices",
+    "children's books",
+    "text messages"
+   ],
+   "a": 1,
+   "why": "It's formal contract language: failing payment."
+  },
+  {
+   "q": "Which is correct?",
+   "options": [
+    "dès la réception de la facture",
+    "dès que réception",
+    "dès à réception",
+    "dès de réception"
+   ],
+   "a": 0,
+   "why": "Dès + noun; the fixed form 'dès réception' drops the article."
+  },
+  {
+   "q": "'Au cours des dernières années' is closest to…",
+   "options": [
+    "lors de",
+    "pendant",
+    "dès",
+    "faute de"
+   ],
+   "a": 1,
+   "why": "Au cours de = during, over the course of."
+  }
+ ]
+}

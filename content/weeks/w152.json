@@ -1,0 +1,675 @@
+{
+ "w": 152,
+ "title": "Quebec expressions set 6",
+ "goal": "By the end of this lesson you can understand and use a set of Quebec idioms that columnists, commentators and talk-show hosts use constantly, and you know their international French equivalents.",
+ "learn": [
+  {
+   "h": "Idioms in Quebec media",
+   "body": [
+    "Quebec columnists and commentators love colourful idioms. In a single opinion piece or panel discussion you might hear that a minister *patine*, that a party *tire la couverte de son bord*, or that a project *n'est pas sorti du bois*.",
+    "These expressions are used on television and in newspapers, so most are informal-to-neutral, not vulgar. Knowing them is key to following political commentary and talk shows."
+   ]
+  },
+  {
+   "h": "Politics and public life",
+   "body": [
+    "*Patiner* (literally 'to skate'): to dodge a question, to talk around it. *Le ministre a patiné pendant toute l'entrevue.*",
+    "*Tirer la couverte de son bord*: to pull the blanket to one's side, to look after one's own interests. (*Couverte* = *couverture*.)",
+    "*Virer capot*: to switch sides, change one's opinion completely. A *vire-capot* is a turncoat.",
+    "*Ne pas être sorti du bois*: not to be out of the woods yet.",
+    "*Brasser la cage*: to shake things up, to stir the pot."
+   ],
+   "table": {
+    "head": [
+     "Quebec idiom",
+     "Meaning",
+     "International equivalent"
+    ],
+    "rows": [
+     [
+      "patiner",
+      "dodge a question",
+      "tourner autour du pot, esquiver"
+     ],
+     [
+      "tirer la couverte de son bord",
+      "look after number one",
+      "tirer la couverture à soi"
+     ],
+     [
+      "virer capot",
+      "flip-flop, change sides",
+      "retourner sa veste"
+     ],
+     [
+      "ne pas être sorti du bois",
+      "not out of the woods",
+      "ne pas être tiré d'affaire"
+     ],
+     [
+      "brasser la cage",
+      "shake things up",
+      "secouer le cocotier"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Judging people and situations",
+   "body": [
+    "*Avoir les deux pieds dans la même bottine*: to be clumsy, ineffective, unable to act. *Ça prend pas la tête à Papineau*: it doesn't take a genius (Louis-Joseph Papineau, the 19th-century politician, symbol of intelligence).",
+    "*Être vite sur ses patins*: to be quick-witted, quick to react. *Avoir du front tout le tour de la tête*: to have a lot of nerve.",
+    "*Se faire passer un sapin*: to get conned. *Couper les coins ronds*: to cut corners. *Chercher des bibittes*: to look for problems that aren't there, to nitpick."
+   ],
+   "table": {
+    "head": [
+     "Quebec idiom",
+     "Meaning"
+    ],
+    "rows": [
+     [
+      "avoir les deux pieds dans la même bottine",
+      "be clumsy / ineffective"
+     ],
+     [
+      "ça prend pas la tête à Papineau",
+      "it doesn't take a genius"
+     ],
+     [
+      "être vite sur ses patins",
+      "be quick off the mark"
+     ],
+     [
+      "avoir du front tout le tour de la tête",
+      "have a lot of nerve"
+     ],
+     [
+      "se faire passer un sapin",
+      "get conned"
+     ],
+     [
+      "couper les coins ronds",
+      "cut corners"
+     ],
+     [
+      "chercher des bibittes",
+      "nitpick, look for trouble"
+     ]
+    ]
+   },
+   "tip": "Many Quebec idioms come from rural life, winter and hockey: bottines, patins, couverte, sapin."
+  },
+  {
+   "h": "Using them well",
+   "body": [
+    "These idioms are perfect in conversation and in reported speech, and they appear in columns. In a formal report or letter, use the international equivalent instead.",
+    "Conjugate and adapt them like normal verbs: *Il s'est fait passer un sapin*, *Elle a viré capot*, *On n'est pas encore sortis du bois*."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Interrogé sur les coûts, le ministre a patiné pendant dix minutes.",
+   "en": "Asked about the costs, the minister dodged the question for ten minutes.",
+   "note": "patiner = esquiver la question"
+  },
+  {
+   "fr": "Chaque région tire la couverte de son bord.",
+   "en": "Every region looks after its own interests.",
+   "note": "classic in debates about budgets"
+  },
+  {
+   "fr": "Le député a viré capot juste avant les élections.",
+   "en": "The MNA switched sides just before the election.",
+   "note": "virer capot = changer de camp"
+  },
+  {
+   "fr": "L'économie se redresse, mais on n'est pas sortis du bois.",
+   "en": "The economy is recovering, but we're not out of the woods.",
+   "note": "ne pas être sorti du bois"
+  },
+  {
+   "fr": "La nouvelle PDG est arrivée pour brasser la cage.",
+   "en": "The new CEO came in to shake things up.",
+   "note": "brasser la cage = secouer les choses"
+  },
+  {
+   "fr": "Dans ce dossier, le gouvernement a les deux pieds dans la même bottine.",
+   "en": "On this file, the government is completely ineffective.",
+   "note": "avoir les deux pieds dans la même bottine"
+  },
+  {
+   "fr": "Ça prend pas la tête à Papineau pour comprendre que ça va coûter cher.",
+   "en": "It doesn't take a genius to see this will cost a lot.",
+   "note": "informal: no ne"
+  },
+  {
+   "fr": "L'animatrice est vite sur ses patins : elle a tout de suite relevé la contradiction.",
+   "en": "The host is quick: she immediately picked up on the contradiction.",
+   "note": "être vite sur ses patins"
+  },
+  {
+   "fr": "Il a du front tout le tour de la tête de demander une augmentation.",
+   "en": "He's got some nerve asking for a raise.",
+   "note": "avoir du front = avoir du culot"
+  },
+  {
+   "fr": "Mon voisin s'est fait passer un sapin avec son auto usagée.",
+   "en": "My neighbour got conned with his used car.",
+   "note": "se faire passer un sapin = se faire arnaquer"
+  },
+  {
+   "fr": "L'entrepreneur a coupé les coins ronds, et le toit coule déjà.",
+   "en": "The contractor cut corners, and the roof is already leaking.",
+   "note": "couper les coins ronds"
+  },
+  {
+   "fr": "Arrête de chercher des bibittes, le plan est correct.",
+   "en": "Stop looking for problems, the plan is fine.",
+   "note": "bibitte = bug, insect; Quebec spelling also bebitte"
+  },
+  {
+   "fr": "Le chroniqueur accuse le premier ministre de patiner sur la question linguistique.",
+   "en": "The columnist accuses the premier of dodging the language question.",
+   "note": "typical newspaper use"
+  },
+  {
+   "fr": "Les syndicats craignent que la direction veuille couper les coins ronds sur la sécurité.",
+   "en": "The unions fear management wants to cut corners on safety.",
+   "note": "craindre que + subjunctive"
+  },
+  {
+   "fr": "Avec ce budget, la ville n'est vraiment pas sortie du bois.",
+   "en": "With this budget, the city is really not out of the woods.",
+   "note": "negation around être sorti"
+  }
+ ],
+ "quebec": {
+  "intro": "This lesson's Quebec layer is the idioms you hear on panels, talk radio and in opinion columns. Each one is shown next to its international equivalent, which you should use in formal writing.",
+  "items": [
+   {
+    "std": "Il a esquivé la question.",
+    "qc": "Y'a patiné.",
+    "en": "He dodged the question.",
+    "note": "patiner: neutral enough for TV commentary"
+   },
+   {
+    "std": "Elle a retourné sa veste.",
+    "qc": "A l'a viré capot.",
+    "en": "She switched sides.",
+    "note": "'a l'a' = elle a in very informal speech; 'Elle a viré capot' in neutral speech"
+   },
+   {
+    "std": "Il ne faut pas être un génie pour comprendre ça.",
+    "qc": "Ça prend pas la tête à Papineau pour comprendre ça.",
+    "en": "It doesn't take a genius to understand that.",
+    "note": "familiar"
+   },
+   {
+    "std": "Il a beaucoup de culot.",
+    "qc": "Y'a du front tout le tour de la tête.",
+    "en": "He's got a lot of nerve.",
+    "note": "familiar; 'avoir du front' alone is also common"
+   },
+   {
+    "std": "Je me suis fait arnaquer.",
+    "qc": "Je me suis fait passer un sapin.",
+    "en": "I got ripped off.",
+    "note": "familiar, widely understood"
+   },
+   {
+    "std": "Il est maladroit et inefficace.",
+    "qc": "Y'a les deux pieds dans la même bottine.",
+    "en": "He's clumsy and useless.",
+    "note": "familiar; also used about governments and organisations"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "'Le ministre a patiné' means the minister…",
+   "options": [
+    "went skating",
+    "dodged the question",
+    "resigned",
+    "slipped up badly"
+   ],
+   "a": 1,
+   "why": "patiner = to talk around a question."
+  },
+  {
+   "t": "mcq",
+   "q": "'Virer capot' means…",
+   "options": [
+    "to capsize",
+    "to change sides / opinions",
+    "to get fired",
+    "to turn off the engine"
+   ],
+   "a": 1,
+   "why": "International equivalent: retourner sa veste."
+  },
+  {
+   "t": "mcq",
+   "q": "Someone who 'a les deux pieds dans la même bottine' is…",
+   "options": [
+    "very fast",
+    "clumsy / ineffective",
+    "very rich",
+    "stubborn"
+   ],
+   "a": 1,
+   "why": "Both feet in one boot: you can't move."
+  },
+  {
+   "t": "mcq",
+   "q": "International French equivalent of 'tirer la couverte de son bord'?",
+   "options": [
+    "tirer la couverture à soi",
+    "faire son lit",
+    "se coucher tôt",
+    "jeter l'éponge"
+   ],
+   "a": 0,
+   "why": "Same image: pulling the blanket toward yourself."
+  },
+  {
+   "t": "mcq",
+   "q": "'Ça prend pas la tête à Papineau' refers to…",
+   "options": [
+    "a hockey player",
+    "a 19th-century politician known for his intelligence",
+    "a Montreal street",
+    "a TV host"
+   ],
+   "a": 1,
+   "why": "Louis-Joseph Papineau, leader of the Patriotes."
+  },
+  {
+   "t": "fill",
+   "q": "On n'est pas encore sortis du ___.",
+   "a": [
+    "bois"
+   ],
+   "en": "We're not out of the woods yet.",
+   "why": "ne pas être sorti du bois."
+  },
+  {
+   "t": "fill",
+   "q": "Il s'est fait passer un ___ avec ce condo.",
+   "a": [
+    "sapin"
+   ],
+   "en": "He got conned with that condo.",
+   "why": "se faire passer un sapin = se faire arnaquer."
+  },
+  {
+   "t": "fill",
+   "q": "L'entrepreneur a coupé les coins ___.",
+   "a": [
+    "ronds"
+   ],
+   "en": "The contractor cut corners.",
+   "why": "couper les coins ronds."
+  },
+  {
+   "t": "fill",
+   "q": "La nouvelle directrice veut brasser la ___.",
+   "a": [
+    "cage"
+   ],
+   "en": "The new director wants to shake things up.",
+   "why": "brasser la cage."
+  },
+  {
+   "t": "build",
+   "en": "She is quick off the mark.",
+   "a": "Elle est vite sur ses patins."
+  },
+  {
+   "t": "build",
+   "en": "Stop looking for problems!",
+   "a": "Arrête de chercher des bibittes!"
+  },
+  {
+   "t": "translate",
+   "en": "He's got a lot of nerve.",
+   "a": [
+    "Il a du front tout le tour de la tête.",
+    "Il a du front.",
+    "Il a beaucoup de culot.",
+    "Il a du culot.",
+    "Il ne manque pas de culot.",
+    "Y'a du front tout le tour de la tête."
+   ],
+   "why": "Quebec: avoir du front; international: avoir du culot."
+  },
+  {
+   "t": "translate",
+   "en": "The minister dodged the question.",
+   "a": [
+    "Le ministre a patiné.",
+    "Le ministre a esquivé la question.",
+    "Le ministre a évité la question.",
+    "La ministre a patiné.",
+    "La ministre a esquivé la question.",
+    "Le ministre a tourné autour du pot."
+   ],
+   "why": "patiner (Quebec) or esquiver la question."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "patiner",
+   "en": "to dodge a question (lit. to skate)",
+   "ex": "Arrête de patiner pis réponds!",
+   "qc": true
+  },
+  {
+   "fr": "la couverte",
+   "en": "blanket (Quebec for couverture)",
+   "g": "f",
+   "ex": "Chaque parti tire la couverte de son bord.",
+   "qc": true
+  },
+  {
+   "fr": "virer capot",
+   "en": "to switch sides, flip-flop",
+   "ex": "Il a viré capot sur la question du pont.",
+   "qc": true
+  },
+  {
+   "fr": "le vire-capot",
+   "en": "turncoat",
+   "g": "m",
+   "ex": "Ses anciens alliés le traitent de vire-capot.",
+   "qc": true
+  },
+  {
+   "fr": "ne pas être sorti du bois",
+   "en": "not to be out of the woods",
+   "ex": "Avec cette dette, on n'est pas sortis du bois.",
+   "qc": true
+  },
+  {
+   "fr": "brasser la cage",
+   "en": "to shake things up",
+   "ex": "Ce rapport va brasser la cage.",
+   "qc": true
+  },
+  {
+   "fr": "la bottine",
+   "en": "boot (ankle boot)",
+   "g": "f",
+   "ex": "Mets tes bottines, il neige.",
+   "qc": true
+  },
+  {
+   "fr": "être vite sur ses patins",
+   "en": "to be quick-witted",
+   "ex": "Le journaliste a été vite sur ses patins.",
+   "qc": true
+  },
+  {
+   "fr": "avoir du front",
+   "en": "to have nerve, cheek",
+   "ex": "T'as du front de me demander ça!",
+   "qc": true
+  },
+  {
+   "fr": "se faire passer un sapin",
+   "en": "to get conned",
+   "ex": "Fais attention de pas te faire passer un sapin.",
+   "qc": true
+  },
+  {
+   "fr": "couper les coins ronds",
+   "en": "to cut corners",
+   "ex": "On ne coupe pas les coins ronds sur la sécurité.",
+   "qc": true
+  },
+  {
+   "fr": "la bibitte",
+   "en": "bug, creepy-crawly; hidden problem",
+   "g": "f",
+   "ex": "Il cherche toujours des bibittes.",
+   "qc": true
+  },
+  {
+   "fr": "le chroniqueur / la chroniqueuse",
+   "en": "columnist, commentator",
+   "ex": "La chroniqueuse a critiqué le budget."
+  },
+  {
+   "fr": "le culot",
+   "en": "nerve, cheek",
+   "g": "m",
+   "ex": "Il ne manque pas de culot!"
+  },
+  {
+   "fr": "esquiver",
+   "en": "to dodge, evade",
+   "ex": "Elle a esquivé la question du journaliste."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "la couverte",
+    "tip": "koo-VÈRT: the final t is pronounced."
+   },
+   {
+    "fr": "virer capot",
+    "tip": "vi-RÉ ka-PO: final t of capot silent."
+   },
+   {
+    "fr": "bibitte",
+    "tip": "bi-BITT, often pronounced bé-BITT (spelled bebitte)."
+   },
+   {
+    "fr": "Papineau",
+    "tip": "pa-pi-NO."
+   },
+   {
+    "fr": "les deux pieds dans la même bottine",
+    "tip": "lé-deu-PYÉ dan-la-mèm-bo-TINN."
+   },
+   {
+    "fr": "tout le tour de la tête",
+    "tip": "Quebec often says toute le tour: toot-luh-TOOR."
+   }
+  ],
+  "title": "Panel du midi",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Bienvenue au panel. Alors, cette conférence de presse du ministre?",
+    "en": "Welcome to the panel. So, that press conference by the minister?"
+   },
+   {
+    "s": "B",
+    "fr": "Franchement, il a patiné. Personne ne sait combien le projet va coûter.",
+    "en": "Frankly, he dodged. Nobody knows how much the project will cost."
+   },
+   {
+    "s": "A",
+    "fr": "Il y a deux ans, il était contre ce projet, non?",
+    "en": "Two years ago he was against this project, wasn't he?"
+   },
+   {
+    "s": "B",
+    "fr": "Exactement. Il a viré capot, et il a du front de dire qu'il n'a jamais changé d'avis.",
+    "en": "Exactly. He switched sides, and he's got some nerve saying he never changed his mind."
+   },
+   {
+    "s": "A",
+    "fr": "Les maires de la région, eux, sont contents.",
+    "en": "The region's mayors, for their part, are happy."
+   },
+   {
+    "s": "B",
+    "fr": "Évidemment, chacun tire la couverte de son bord.",
+    "en": "Obviously, everyone is looking after their own interests."
+   },
+   {
+    "s": "A",
+    "fr": "Et pour la suite?",
+    "en": "And what's next?"
+   },
+   {
+    "s": "B",
+    "fr": "On n'est pas sortis du bois. Ça prend pas la tête à Papineau pour voir que les coûts vont exploser.",
+    "en": "We're not out of the woods. It doesn't take a genius to see costs will explode."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What does B criticise the minister for?",
+    "options": [
+     "Being late",
+     "Dodging the cost question",
+     "Speaking English"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What was the minister's position two years ago?",
+    "options": [
+     "For the project",
+     "Against the project",
+     "No opinion"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does B predict?",
+    "options": [
+     "Costs will explode",
+     "The project will be cancelled",
+     "The minister will resign"
+    ],
+    "a": 0
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Comment on a politician who changed his mind, using two idioms from this lesson.",
+   "model": "Il a complètement viré capot sur la question du tramway. Pis quand les journalistes l'ont questionné, il a patiné."
+  },
+  {
+   "prompt": "Warn a friend who wants to buy a used car from a stranger.",
+   "model": "Fais attention, tu pourrais te faire passer un sapin. Fais inspecter l'auto avant de payer, pis coupe pas les coins ronds."
+  },
+  {
+   "prompt": "Describe a disorganised team using 'avoir les deux pieds dans la même bottine', then give the international equivalent.",
+   "model": "Cette équipe-là a les deux pieds dans la même bottine. En français international : elle est vraiment inefficace et désorganisée."
+  }
+ ],
+ "write": {
+  "prompt": "Write a short opinion column (6–8 sentences) about a fictional city council decision. Use at least four idioms from this lesson, then add one sentence explaining one of them in international French.",
+  "model": "Le conseil municipal a enfin dévoilé son plan pour le centre-ville. Disons-le franchement : le maire a patiné quand on lui a demandé combien coûterait le projet. L'an dernier, il promettait de réduire les dépenses; aujourd'hui, il a viré capot. Chaque arrondissement tire la couverte de son bord, et personne ne parle des citoyens. Ça prend pas la tête à Papineau pour comprendre que les taxes vont augmenter. Si on coupe les coins ronds sur les études, on n'est pas sortis du bois. Autrement dit, le maire évite les questions difficiles et change d'avis selon le vent."
+ },
+ "quiz": [
+  {
+   "q": "'Brasser la cage' means…",
+   "options": [
+    "to clean the cage",
+    "to shake things up",
+    "to lock someone up",
+    "to argue loudly"
+   ],
+   "a": 1,
+   "why": "brasser = to stir, shake."
+  },
+  {
+   "q": "'Être vite sur ses patins' describes someone who is…",
+   "options": [
+    "a good skater",
+    "quick-witted",
+    "always in a hurry",
+    "impatient"
+   ],
+   "a": 1,
+   "why": "Quick to react or answer."
+  },
+  {
+   "q": "'Se faire passer un sapin' means…",
+   "options": [
+    "to receive a Christmas tree",
+    "to be conned",
+    "to be promoted",
+    "to get lost in the woods"
+   ],
+   "a": 1,
+   "why": "= se faire arnaquer."
+  },
+  {
+   "q": "In a formal report, instead of 'couper les coins ronds' you'd write…",
+   "options": [
+    "faire des économies douteuses / bâcler le travail",
+    "tourner les coins",
+    "arrondir les angles",
+    "prendre un raccourci routier"
+   ],
+   "a": 0,
+   "why": "Use a neutral paraphrase in formal writing. Careful: arrondir les angles means 'smooth things over'."
+  },
+  {
+   "q": "'Chercher des bibittes' means…",
+   "options": [
+    "to go fishing",
+    "to look for problems that aren't there",
+    "to catch bugs in software",
+    "to search in vain for food"
+   ],
+   "a": 1,
+   "why": "To nitpick, to imagine hidden problems."
+  },
+  {
+   "q": "A 'vire-capot' is…",
+   "options": [
+    "a boat",
+    "a turncoat",
+    "a hockey goalie",
+    "a clumsy person"
+   ],
+   "a": 1,
+   "why": "Someone who switches sides."
+  },
+  {
+   "q": "'Ne pas être sorti du bois' corresponds to the English…",
+   "options": [
+    "to be lost",
+    "not out of the woods yet",
+    "to be from the country",
+    "to be shy"
+   ],
+   "a": 1,
+   "why": "Same image in both languages."
+  },
+  {
+   "q": "'Couverte' in Quebec French means…",
+   "options": [
+    "covered",
+    "blanket",
+    "cover story",
+    "roof"
+   ],
+   "a": 1,
+   "why": "Quebec for couverture."
+  },
+  {
+   "q": "Which register suits these idioms best?",
+   "options": [
+    "Legal contracts",
+    "Conversation and commentary",
+    "Academic articles",
+    "Scientific reports"
+   ],
+   "a": 1,
+   "why": "They are informal-to-neutral and common in media commentary."
+  }
+ ]
+}

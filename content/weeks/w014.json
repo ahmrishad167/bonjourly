@@ -1,0 +1,684 @@
+{
+ "w": 14,
+ "title": "Question words: qui, que, où, quand, comment",
+ "goal": "By the end of this lesson you can ask who, what, where, when, how, how much and why in French, in both standard and casual word orders, and understand Quebec questions like C'est quoi? and Comment ça coûte?",
+ "learn": [
+  {
+   "h": "The question words",
+   "body": [
+    "These words open information questions (questions that can't be answered with yes or no). Learn them as a set.",
+    "*que* becomes *qu'* before a vowel. *Quel* (which, what) agrees with its noun: *quel*, *quelle*, *quels*, *quelles*, all pronounced the same."
+   ],
+   "table": {
+    "head": [
+     "Word",
+     "Meaning",
+     "Example"
+    ],
+    "rows": [
+     [
+      "qui",
+      "who",
+      "Qui est là?"
+     ],
+     [
+      "que / qu'est-ce que",
+      "what",
+      "Qu'est-ce que tu fais?"
+     ],
+     [
+      "où",
+      "where",
+      "Où est la gare?"
+     ],
+     [
+      "quand",
+      "when",
+      "Quand est-ce que tu arrives?"
+     ],
+     [
+      "comment",
+      "how",
+      "Comment ça va?"
+     ],
+     [
+      "combien",
+      "how much, how many",
+      "Combien ça coûte?"
+     ],
+     [
+      "pourquoi",
+      "why",
+      "Pourquoi tu ris?"
+     ],
+     [
+      "quel / quelle",
+      "which, what",
+      "Quelle heure est-il?"
+     ]
+    ]
+   },
+   "tip": "Pourquoi? — Parce que… (Why? — Because…)"
+  },
+  {
+   "h": "Three word orders",
+   "body": [
+    "Just like yes/no questions, information questions come in three registers. Casual: question word at the END (*Tu vas où?*) or at the start with normal order (*Où tu vas?*). Neutral: question word + *est-ce que* (*Où est-ce que tu vas?*). Formal: inversion (*Où vas-tu?*).",
+    "All three are correct French; choose by situation."
+   ],
+   "table": {
+    "head": [
+     "Casual",
+     "Neutral",
+     "Formal"
+    ],
+    "rows": [
+     [
+      "Tu vas où?",
+      "Où est-ce que tu vas?",
+      "Où vas-tu?"
+     ],
+     [
+      "Tu arrives quand?",
+      "Quand est-ce que tu arrives?",
+      "Quand arrives-tu?"
+     ],
+     [
+      "Tu fais quoi?",
+      "Qu'est-ce que tu fais?",
+      "Que fais-tu?"
+     ],
+     [
+      "Vous êtes combien?",
+      "Combien est-ce que vous êtes?",
+      "Combien êtes-vous?"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "'What': que, qu'est-ce que, quoi",
+   "body": [
+    "'What' has three forms depending on position. At the start: *Qu'est-ce que tu veux?* (neutral) or *Que veux-tu?* (formal). At the end or after a preposition: *quoi*. *Tu veux quoi?* *Avec quoi?* *C'est quoi?*",
+    "*Qu'est-ce que c'est?* (What is it?) is the standard everyday form; *C'est quoi?* is its casual twin, very frequent in Quebec."
+   ]
+  },
+  {
+   "h": "Qui and quel",
+   "body": [
+    "*Qui* (who) can be the subject directly: *Qui parle?* *Qui veut un café?* It can also follow a preposition: *Avec qui?* *C'est à qui?* (Whose is it?)",
+    "*Quel* asks 'which' or 'what' before a noun: *Quel jour?* *Quelle heure?* With *être*: *Quel est ton nom? Quelle est ton adresse?*"
+   ]
+  },
+  {
+   "h": "Quebec: c'est quoi, comment ça coûte",
+   "body": [
+    "Quebecers love *c'est quoi* (what is): *C'est quoi, ton nom?* *C'est quoi le problème?* Casual speech also shortens *qu'est-ce que* to *qu'est-ce*: *Qu'est-ce tu fais?* (sounds like 'kess tu fais').",
+    "For prices, you will often hear *Comment ça coûte?* or *Ça coûte combien?* instead of the standard *Combien ça coûte?* Also: *Où c'est que tu vas?* (where are you going?) and *Comment ça s'appelle?*. These are informal; use *combien* in writing."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Qui est là?",
+   "en": "Who's there?"
+  },
+  {
+   "fr": "Qu'est-ce que tu fais ce soir?",
+   "en": "What are you doing tonight?",
+   "note": "neutral form"
+  },
+  {
+   "fr": "Tu fais quoi ce soir?",
+   "en": "What are you doing tonight?",
+   "note": "casual: quoi at the end"
+  },
+  {
+   "fr": "Où est la station de métro?",
+   "en": "Where is the metro station?"
+  },
+  {
+   "fr": "Tu habites où?",
+   "en": "Where do you live?",
+   "note": "casual order"
+  },
+  {
+   "fr": "Quand est-ce que le magasin ouvre?",
+   "en": "When does the store open?"
+  },
+  {
+   "fr": "Comment tu t'appelles?",
+   "en": "What's your name?",
+   "note": "casual; formal: Comment vous appelez-vous?"
+  },
+  {
+   "fr": "Combien ça coûte?",
+   "en": "How much does it cost?"
+  },
+  {
+   "fr": "Tu as combien d'enfants?",
+   "en": "How many children do you have?",
+   "note": "combien de + noun"
+  },
+  {
+   "fr": "Pourquoi tu apprends le français? — Parce que j'habite à Montréal.",
+   "en": "Why are you learning French? — Because I live in Montreal."
+  },
+  {
+   "fr": "Quelle heure est-il?",
+   "en": "What time is it?",
+   "note": "fixed formal inversion"
+  },
+  {
+   "fr": "Quel est ton numéro de téléphone?",
+   "en": "What's your phone number?",
+   "note": "quel + être"
+  },
+  {
+   "fr": "C'est quoi, ton nom?",
+   "en": "What's your name?",
+   "note": "casual, very Quebec"
+  },
+  {
+   "fr": "Comment ça coûte?",
+   "en": "How much is it?",
+   "note": "Quebec informal for combien ça coûte"
+  },
+  {
+   "fr": "Qu'est-ce tu veux?",
+   "en": "What do you want?",
+   "note": "Quebec casual: qu'est-ce que → qu'est-ce"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebec speech favours quoi and c'est quoi, shortens qu'est-ce que to qu'est-ce, and often asks prices with Comment ça coûte? All informal; the standard forms are always understood.",
+  "items": [
+   {
+    "std": "Qu'est-ce que c'est?",
+    "qc": "C'est quoi?",
+    "en": "What is it?",
+    "note": "casual, also used in France"
+   },
+   {
+    "std": "Combien ça coûte?",
+    "qc": "Comment ça coûte?",
+    "en": "How much does it cost?",
+    "note": "informal Quebec"
+   },
+   {
+    "std": "Qu'est-ce que tu fais?",
+    "qc": "Qu'est-ce tu fais? (kess tu fais)",
+    "en": "What are you doing?",
+    "note": "informal"
+   },
+   {
+    "std": "Où est-ce que tu vas?",
+    "qc": "Où c'est que tu vas?",
+    "en": "Where are you going?",
+    "note": "informal; also 'Tu vas où?'"
+   },
+   {
+    "std": "Quel est ton nom?",
+    "qc": "C'est quoi, ton nom?",
+    "en": "What's your name?",
+    "note": "informal"
+   },
+   {
+    "std": "Pourquoi?",
+    "qc": "Pourquoi faire?",
+    "en": "Why? / What for?",
+    "note": "informal, common in Quebec"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Which word means 'when'?",
+   "options": [
+    "comment",
+    "quand",
+    "combien",
+    "qui"
+   ],
+   "a": 1,
+   "why": "quand = when."
+  },
+  {
+   "t": "mcq",
+   "q": "'___ est ton adresse?'",
+   "options": [
+    "Quel",
+    "Quelle",
+    "Qu'est-ce que",
+    "Quoi"
+   ],
+   "a": 1,
+   "why": "adresse is feminine: quelle."
+  },
+  {
+   "t": "mcq",
+   "q": "Which question is casual?",
+   "options": [
+    "Que fais-tu?",
+    "Qu'est-ce que tu fais?",
+    "Tu fais quoi?",
+    "Que faites-vous?"
+   ],
+   "a": 2,
+   "why": "quoi at the end is casual."
+  },
+  {
+   "t": "mcq",
+   "q": "'Comment ça coûte?' in Quebec means…",
+   "options": [
+    "How does it cost?",
+    "How much is it?",
+    "Why is it expensive?",
+    "Who pays?"
+   ],
+   "a": 1,
+   "why": "Informal Quebec for combien ça coûte."
+  },
+  {
+   "t": "mcq",
+   "q": "Which answer fits 'Pourquoi?'",
+   "options": [
+    "Parce que…",
+    "Demain.",
+    "À Laval.",
+    "Marie."
+   ],
+   "a": 0,
+   "why": "Why? — Because…"
+  },
+  {
+   "t": "fill",
+   "q": "___ ça coûte? (how much)",
+   "a": [
+    "Combien"
+   ],
+   "en": "How much does it cost?",
+   "why": "combien = how much."
+  },
+  {
+   "t": "fill",
+   "q": "Tu habites ___? (where)",
+   "a": [
+    "où"
+   ],
+   "en": "Where do you live?",
+   "why": "où = where, with an accent."
+  },
+  {
+   "t": "fill",
+   "q": "___ est là? (who)",
+   "a": [
+    "Qui"
+   ],
+   "en": "Who's there?",
+   "why": "qui = who."
+  },
+  {
+   "t": "fill",
+   "q": "Tu as ___ d'enfants? (how many)",
+   "a": [
+    "combien"
+   ],
+   "en": "How many children do you have?",
+   "why": "combien de + noun."
+  },
+  {
+   "t": "fill",
+   "q": "C'est ___, ton nom? (what)",
+   "a": [
+    "quoi"
+   ],
+   "en": "What's your name?",
+   "why": "quoi after the verb."
+  },
+  {
+   "t": "build",
+   "en": "What are you doing tonight?",
+   "a": "Qu'est-ce que tu fais ce soir?"
+  },
+  {
+   "t": "build",
+   "en": "What time is it?",
+   "a": "Quelle heure est-il?"
+  },
+  {
+   "t": "translate",
+   "en": "Where do you live?",
+   "a": [
+    "Tu habites où?",
+    "Où est-ce que tu habites?",
+    "Où habites-tu?",
+    "Où tu habites?",
+    "Vous habitez où?",
+    "Où est-ce que vous habitez?",
+    "Où habitez-vous?",
+    "Où vous habitez?",
+    "Tu restes où?"
+   ],
+   "why": "Any register works."
+  },
+  {
+   "t": "translate",
+   "en": "What is it?",
+   "a": [
+    "Qu'est-ce que c'est?",
+    "C'est quoi?",
+    "C'est quoi ça?",
+    "Qu'est-ce que c'est que ça?"
+   ],
+   "why": "Standard: qu'est-ce que c'est; casual: c'est quoi."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "qui",
+   "en": "who",
+   "ex": "Qui parle?"
+  },
+  {
+   "fr": "qu'est-ce que",
+   "en": "what",
+   "ex": "Qu'est-ce que tu veux?"
+  },
+  {
+   "fr": "quoi",
+   "en": "what (end of question)",
+   "ex": "Tu fais quoi?"
+  },
+  {
+   "fr": "où",
+   "en": "where",
+   "ex": "Où est le métro?"
+  },
+  {
+   "fr": "quand",
+   "en": "when",
+   "ex": "Tu arrives quand?"
+  },
+  {
+   "fr": "comment",
+   "en": "how",
+   "ex": "Comment tu t'appelles?"
+  },
+  {
+   "fr": "combien",
+   "en": "how much, how many",
+   "ex": "Combien ça coûte?"
+  },
+  {
+   "fr": "pourquoi",
+   "en": "why",
+   "ex": "Pourquoi pas?"
+  },
+  {
+   "fr": "parce que",
+   "en": "because",
+   "ex": "Parce que j'ai faim."
+  },
+  {
+   "fr": "quel / quelle",
+   "en": "which, what",
+   "ex": "Quel jour?"
+  },
+  {
+   "fr": "coûter",
+   "en": "to cost",
+   "ex": "Ça coûte dix dollars."
+  },
+  {
+   "fr": "le métro",
+   "en": "subway, metro",
+   "g": "m",
+   "ex": "Je prends le métro."
+  },
+  {
+   "fr": "l'adresse",
+   "en": "address",
+   "g": "f",
+   "ex": "Quelle est ton adresse?"
+  },
+  {
+   "fr": "le magasin",
+   "en": "store",
+   "g": "m",
+   "ex": "Le magasin ouvre à neuf heures."
+  },
+  {
+   "fr": "c'est quoi",
+   "en": "what is (casual)",
+   "ex": "C'est quoi, ça?",
+   "qc": true
+  },
+  {
+   "fr": "comment ça coûte",
+   "en": "how much is it (informal)",
+   "ex": "Comment ça coûte, la tuque?",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "qu'est-ce que",
+    "tip": "KESS-kuh: two syllables."
+   },
+   {
+    "fr": "quand",
+    "tip": "KAHN: d is silent (liaison [t]: quand‿est-ce)."
+   },
+   {
+    "fr": "combien",
+    "tip": "kõ-BYAN: two nasal vowels."
+   },
+   {
+    "fr": "pourquoi",
+    "tip": "poor-KWA."
+   },
+   {
+    "fr": "quelle heure",
+    "tip": "keh-LUR."
+   },
+   {
+    "fr": "Qu'est-ce tu fais?",
+    "tip": "Quebec casual: kess-tsu-FAY."
+   }
+  ],
+  "title": "Au marché",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Bonjour! C'est quoi, ça?",
+    "en": "Hello! What's that?"
+   },
+   {
+    "s": "B",
+    "fr": "C'est du sirop d'érable.",
+    "en": "It's maple syrup."
+   },
+   {
+    "s": "A",
+    "fr": "Comment ça coûte?",
+    "en": "How much is it?"
+   },
+   {
+    "s": "B",
+    "fr": "Douze dollars. Vous en voulez combien?",
+    "en": "Twelve dollars. How many do you want?"
+   },
+   {
+    "s": "A",
+    "fr": "Deux, s'il vous plaît. C'est fait où?",
+    "en": "Two, please. Where is it made?"
+   },
+   {
+    "s": "B",
+    "fr": "En Beauce. Pourquoi?",
+    "en": "In the Beauce region. Why?"
+   },
+   {
+    "s": "A",
+    "fr": "Parce que c'est pour ma mère, à Toronto.",
+    "en": "Because it's for my mother, in Toronto."
+   },
+   {
+    "s": "B",
+    "fr": "Elle va aimer ça!",
+    "en": "She's going to love it!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What is A buying?",
+    "options": [
+     "Cheese",
+     "Maple syrup",
+     "Honey"
+    ],
+    "a": 1
+   },
+   {
+    "q": "How much does one cost?",
+    "options": [
+     "Ten dollars",
+     "Twelve dollars",
+     "Twenty dollars"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Who is it for?",
+    "options": [
+     "A's mother",
+     "A's friend",
+     "A's boss"
+    ],
+    "a": 0
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Ask a new coworker five questions: name, where they live, how many children, why they like their job, when they start.",
+   "model": "Comment tu t'appelles? Tu habites où? Tu as combien d'enfants? Pourquoi tu aimes ta job? Tu commences quand?"
+  },
+  {
+   "prompt": "Ask 'Where are you going?' in casual, neutral and formal French.",
+   "model": "Tu vas où? / Où est-ce que tu vas? / Où vas-tu?"
+  },
+  {
+   "prompt": "At a market, ask what something is and how much it costs, Quebec style.",
+   "model": "C'est quoi, ça? Comment ça coûte?"
+  }
+ ],
+ "write": {
+  "prompt": "Write 6 questions for a short interview with a Quebecer you'd like to meet. Use six different question words.",
+  "model": "Comment vous appelez-vous? Où est-ce que vous habitez? Qu'est-ce que vous faites comme travail? Quand est-ce que vous êtes libre? Combien d'enfants avez-vous? Pourquoi aimez-vous Montréal?"
+ },
+ "quiz": [
+  {
+   "q": "'Combien' means…",
+   "options": [
+    "how",
+    "how much / how many",
+    "when",
+    "which"
+   ],
+   "a": 1,
+   "why": "Combien ça coûte? Combien d'enfants?"
+  },
+  {
+   "q": "'What' at the END of a question is…",
+   "options": [
+    "que",
+    "quoi",
+    "qui",
+    "quel"
+   ],
+   "a": 1,
+   "why": "Tu veux quoi?"
+  },
+  {
+   "q": "Which form agrees with 'heure' (feminine)?",
+   "options": [
+    "quel",
+    "quelle",
+    "quels",
+    "quoi"
+   ],
+   "a": 1,
+   "why": "Quelle heure est-il?"
+  },
+  {
+   "q": "'Qui' means…",
+   "options": [
+    "what",
+    "who",
+    "which",
+    "why"
+   ],
+   "a": 1,
+   "why": "Qui est là? = Who's there?"
+  },
+  {
+   "q": "The neutral version of 'Tu arrives quand?' is…",
+   "options": [
+    "Quand est-ce que tu arrives?",
+    "Quand tu arrives-tu?",
+    "Arrives quand tu?",
+    "Quand arrive?"
+   ],
+   "a": 0,
+   "why": "Question word + est-ce que + statement."
+  },
+  {
+   "q": "'Pourquoi faire?' in Quebec means…",
+   "options": [
+    "What for? / Why?",
+    "How to do it?",
+    "When?",
+    "Who did it?"
+   ],
+   "a": 0,
+   "why": "An informal 'why / what for'."
+  },
+  {
+   "q": "'Qu'est-ce tu fais?' is…",
+   "options": [
+    "a spelling mistake only",
+    "casual Quebec for Qu'est-ce que tu fais?",
+    "formal French",
+    "a yes/no question"
+   ],
+   "a": 1,
+   "why": "que drops in fast casual speech."
+  },
+  {
+   "q": "Which is the standard way to ask a price?",
+   "options": [
+    "Comment ça coûte?",
+    "Combien ça coûte?",
+    "Quoi ça coûte?",
+    "Quel ça coûte?"
+   ],
+   "a": 1,
+   "why": "Combien is standard; comment ça coûte is informal Quebec."
+  },
+  {
+   "q": "'C'est à qui?' means…",
+   "options": [
+    "Who is it?",
+    "Whose is it?",
+    "Where is it?",
+    "What is it?"
+   ],
+   "a": 1,
+   "why": "à qui = belonging to whom."
+  }
+ ]
+}

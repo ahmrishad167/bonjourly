@@ -1,0 +1,648 @@
+{
+ "w": 38,
+ "title": "Sports and hobbies",
+ "goal": "By the end of this lesson you can talk about your sports and hobbies with jouer à, jouer de and faire de, say what you like doing and how often, and follow a conversation about hockey in Quebec French.",
+ "learn": [
+  {
+   "h": "Jouer à, jouer de, faire de",
+   "body": [
+    "*Jouer à* + sport or game: *jouer au hockey*, *jouer au soccer*, *jouer aux cartes*. Remember *à + le = au*, *à + les = aux*.",
+    "*Jouer de* + musical instrument: *jouer du piano*, *jouer de la guitare*.",
+    "*Faire de* + activity (often individual sports and hobbies): *faire du ski*, *faire du vélo*, *faire de la natation*, *faire du yoga*. In the negative, it becomes *de*: *Je ne fais pas de ski.*"
+   ],
+   "table": {
+    "head": [
+     "Structure",
+     "Examples"
+    ],
+    "rows": [
+     [
+      "jouer à (au, à la, aux)",
+      "jouer au hockey, à la balle, aux échecs"
+     ],
+     [
+      "jouer de (du, de la, des)",
+      "jouer du piano, de la guitare, du violon"
+     ],
+     [
+      "faire de (du, de la, de l')",
+      "faire du ski, de la course, de l'escalade"
+     ],
+     [
+      "negative: pas de",
+      "Je ne fais pas de sport."
+     ]
+    ]
+   },
+   "tip": "Games → jouer à. Instruments → jouer de. Activities → faire de."
+  },
+  {
+   "h": "Talking about likes",
+   "body": [
+    "*Aimer, adorer, préférer, détester* + infinitive: *J'aime patiner.* *Je préfère nager.* *Je déteste courir.* Or + noun with the definite article: *J'adore le hockey.*",
+    "Add frequency (lesson 32) and time: *Je joue au hockey deux fois par semaine.* *Le dimanche, je fais du vélo.* Ask: *Qu'est-ce que tu fais dans tes temps libres?* (What do you do in your free time?)"
+   ]
+  },
+  {
+   "h": "Hobbies",
+   "body": [
+    "Many hobbies are verbs: *lire* (to read), *cuisiner* (to cook), *dessiner* (to draw), *jardiner* (to garden), *voyager*, *marcher*, *patiner*, *nager*, *courir* (to run).",
+    "Or *faire de* + noun: *faire de la photo*, *faire du bricolage* (DIY), *faire du camping*, *faire de la randonnée* (hiking)."
+   ]
+  },
+  {
+   "h": "Hockey, Quebec style",
+   "body": [
+    "Hockey is a passion in Quebec, and its vocabulary differs from France: *la rondelle* (puck; France: *le palet*), *le bâton* (stick), *la patinoire* (rink), *le gardien de but* (goalie), *compter un but* (to score a goal; France: *marquer*).",
+    "The Montreal Canadiens are *le Canadien*, *le CH* or *la Sainte-Flanelle*. In speech, a game is often *une game* (informal). And *le soccer* is soccer: *le football* in Quebec means North American football."
+   ],
+   "table": {
+    "head": [
+     "Quebec",
+     "English"
+    ],
+    "rows": [
+     [
+      "la rondelle",
+      "puck"
+     ],
+     [
+      "le bâton",
+      "hockey stick"
+     ],
+     [
+      "la patinoire",
+      "rink"
+     ],
+     [
+      "compter un but",
+      "to score a goal"
+     ],
+     [
+      "une game (informal)",
+      "a game"
+     ],
+     [
+      "le hockey bottine",
+      "street hockey (in boots)"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Quebec: jouer dehors",
+   "body": [
+    "*Jouer dehors* (to play outside) is a Quebec way of life, even at minus twenty: *Va jouer dehors!* Winter activities: *patiner* on the outdoor rink, *glisser* (to go sledding), *faire du ski de fond* (cross-country skiing), *faire de la raquette* (snowshoeing)."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Je joue au hockey le mardi soir.",
+   "en": "I play hockey on Tuesday nights."
+  },
+  {
+   "fr": "Mon fils joue au soccer.",
+   "en": "My son plays soccer."
+  },
+  {
+   "fr": "Elle joue de la guitare depuis dix ans.",
+   "en": "She's been playing guitar for ten years."
+  },
+  {
+   "fr": "On fait du vélo le dimanche.",
+   "en": "We go cycling on Sundays."
+  },
+  {
+   "fr": "Je fais de la natation deux fois par semaine.",
+   "en": "I swim twice a week."
+  },
+  {
+   "fr": "Je ne fais pas de sport.",
+   "en": "I don't do any sports.",
+   "note": "pas de"
+  },
+  {
+   "fr": "J'adore patiner au parc La Fontaine.",
+   "en": "I love skating at La Fontaine Park."
+  },
+  {
+   "fr": "Qu'est-ce que tu fais dans tes temps libres?",
+   "en": "What do you do in your free time?"
+  },
+  {
+   "fr": "Mes parents jouent aux cartes tous les vendredis.",
+   "en": "My parents play cards every Friday."
+  },
+  {
+   "fr": "L'hiver, on fait du ski de fond et de la raquette.",
+   "en": "In winter, we go cross-country skiing and snowshoeing."
+  },
+  {
+   "fr": "Les enfants, allez jouer dehors!",
+   "en": "Kids, go play outside!"
+  },
+  {
+   "fr": "Il a compté deux buts hier soir.",
+   "en": "He scored two goals last night.",
+   "note": "compter un but: Quebec"
+  },
+  {
+   "fr": "Le gardien a arrêté la rondelle.",
+   "en": "The goalie stopped the puck."
+  },
+  {
+   "fr": "T'as vu la game du Canadien?",
+   "en": "Did you see the Canadiens game?",
+   "note": "informal"
+  },
+  {
+   "fr": "Je préfère lire et cuisiner.",
+   "en": "I prefer reading and cooking."
+  },
+  {
+   "fr": "On glisse sur la côte derrière l'école.",
+   "en": "We go sledding on the hill behind the school."
+  }
+ ],
+ "quebec": {
+  "intro": "In Quebec, sport means hockey and 'jouer dehors', even in winter. The hockey vocabulary is distinct from France's: rondelle, bâton, compter un but, and the informal 'game'.",
+  "items": [
+   {
+    "std": "le palet",
+    "qc": "la rondelle",
+    "en": "the puck",
+    "note": "neutral Quebec term"
+   },
+   {
+    "std": "marquer un but",
+    "qc": "compter un but",
+    "en": "to score a goal",
+    "note": "both understood; compter is typical in Quebec"
+   },
+   {
+    "std": "le match",
+    "qc": "la game",
+    "en": "the game",
+    "note": "informal; le match is neutral everywhere"
+   },
+   {
+    "std": "le football (Europe)",
+    "qc": "le soccer",
+    "en": "soccer",
+    "note": "in Quebec, le football = North American football"
+   },
+   {
+    "std": "Va jouer à l'extérieur!",
+    "qc": "Va jouer dehors!",
+    "en": "Go play outside!",
+    "note": "neutral and very common"
+   },
+   {
+    "std": "faire de la luge",
+    "qc": "glisser",
+    "en": "to go sledding",
+    "note": "Quebec: glisser, aller glisser"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Je joue ___ hockey.",
+   "options": [
+    "du",
+    "au",
+    "de la",
+    "le"
+   ],
+   "a": 1,
+   "why": "jouer à + le hockey = au hockey."
+  },
+  {
+   "t": "mcq",
+   "q": "Elle joue ___ guitare.",
+   "options": [
+    "à la",
+    "de la",
+    "du",
+    "la"
+   ],
+   "a": 1,
+   "why": "Instruments: jouer de."
+  },
+  {
+   "t": "mcq",
+   "q": "'La rondelle' is…",
+   "options": [
+    "the rink",
+    "the puck",
+    "the stick",
+    "the net"
+   ],
+   "a": 1,
+   "why": "Quebec rondelle = puck."
+  },
+  {
+   "t": "mcq",
+   "q": "In Quebec, 'le football' usually means…",
+   "options": [
+    "soccer",
+    "North American football",
+    "hockey",
+    "rugby"
+   ],
+   "a": 1,
+   "why": "Soccer is le soccer in Quebec."
+  },
+  {
+   "t": "fill",
+   "q": "On fait ___ vélo le dimanche.",
+   "a": [
+    "du"
+   ],
+   "en": "We go cycling on Sundays.",
+   "why": "faire de + le vélo = du vélo."
+  },
+  {
+   "t": "fill",
+   "q": "Je fais ___ natation.",
+   "a": [
+    "de la"
+   ],
+   "en": "I swim.",
+   "why": "La natation is feminine: de la."
+  },
+  {
+   "t": "fill",
+   "q": "Je ne fais pas ___ sport.",
+   "a": [
+    "de"
+   ],
+   "en": "I don't do any sports.",
+   "why": "After pas: de."
+  },
+  {
+   "t": "fill",
+   "q": "Mes parents jouent ___ cartes.",
+   "a": [
+    "aux"
+   ],
+   "en": "My parents play cards.",
+   "why": "à + les = aux."
+  },
+  {
+   "t": "build",
+   "en": "Kids, go play outside!",
+   "a": "Les enfants, allez jouer dehors!"
+  },
+  {
+   "t": "build",
+   "en": "He scored two goals.",
+   "a": "Il a compté deux buts."
+  },
+  {
+   "t": "build",
+   "en": "I love skating.",
+   "a": "J'adore patiner."
+  },
+  {
+   "t": "translate",
+   "en": "What do you do in your free time?",
+   "a": [
+    "Qu'est-ce que tu fais dans tes temps libres?",
+    "Qu'est-ce que vous faites dans vos temps libres?",
+    "Qu'est-ce que tu fais dans ton temps libre?",
+    "Qu'est-ce que vous faites dans votre temps libre?",
+    "Tu fais quoi dans tes temps libres?"
+   ],
+   "why": "Quebec often says temps libres (plural)."
+  },
+  {
+   "t": "translate",
+   "en": "I play the piano.",
+   "a": [
+    "Je joue du piano."
+   ],
+   "why": "jouer de + le piano = du piano."
+  },
+  {
+   "t": "translate",
+   "en": "We go skiing in winter.",
+   "a": [
+    "On fait du ski en hiver.",
+    "Nous faisons du ski en hiver.",
+    "En hiver, on fait du ski.",
+    "En hiver, nous faisons du ski.",
+    "L'hiver, on fait du ski."
+   ],
+   "why": "faire du ski; en hiver."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "jouer à",
+   "en": "to play (a sport, game)",
+   "ex": "Je joue au tennis."
+  },
+  {
+   "fr": "jouer de",
+   "en": "to play (an instrument)",
+   "ex": "Il joue du violon."
+  },
+  {
+   "fr": "faire du sport",
+   "en": "to exercise, do sports",
+   "ex": "Je fais du sport le matin."
+  },
+  {
+   "fr": "patiner",
+   "en": "to skate",
+   "ex": "On patine sur le canal."
+  },
+  {
+   "fr": "la patinoire",
+   "en": "skating rink",
+   "g": "f",
+   "ex": "La patinoire du parc est ouverte."
+  },
+  {
+   "fr": "la rondelle",
+   "en": "puck",
+   "g": "f",
+   "ex": "Passe-moi la rondelle!",
+   "qc": true
+  },
+  {
+   "fr": "le bâton",
+   "en": "hockey stick",
+   "g": "m",
+   "ex": "J'ai brisé mon bâton.",
+   "qc": true
+  },
+  {
+   "fr": "le gardien de but",
+   "en": "goalie",
+   "g": "m",
+   "ex": "Notre gardien de but est excellent."
+  },
+  {
+   "fr": "compter un but",
+   "en": "to score a goal",
+   "ex": "Elle a compté un but!",
+   "qc": true
+  },
+  {
+   "fr": "le soccer",
+   "en": "soccer",
+   "g": "m",
+   "ex": "Ma fille joue au soccer.",
+   "qc": true
+  },
+  {
+   "fr": "le vélo",
+   "en": "bike, cycling",
+   "g": "m",
+   "ex": "Je fais du vélo."
+  },
+  {
+   "fr": "la natation",
+   "en": "swimming",
+   "g": "f",
+   "ex": "Je fais de la natation."
+  },
+  {
+   "fr": "la randonnée",
+   "en": "hike, hiking",
+   "g": "f",
+   "ex": "On fait de la randonnée au mont Orford."
+  },
+  {
+   "fr": "les temps libres",
+   "en": "free time",
+   "g": "m",
+   "ex": "Dans mes temps libres, je lis.",
+   "qc": true
+  },
+  {
+   "fr": "jouer dehors",
+   "en": "to play outside",
+   "ex": "Les enfants jouent dehors.",
+   "qc": true
+  },
+  {
+   "fr": "glisser",
+   "en": "to go sledding (Quebec); to slide",
+   "ex": "On va glisser au mont Royal.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "au hockey",
+    "tip": "o-o-KÈ: aspirated h, no liaison and no elision."
+   },
+   {
+    "fr": "la rondelle",
+    "tip": "la-ron-DÈLL."
+   },
+   {
+    "fr": "patiner",
+    "tip": "pa-tsi-NÉ in Quebec (t before i)."
+   },
+   {
+    "fr": "la patinoire",
+    "tip": "la-pa-tsi-NWAR."
+   },
+   {
+    "fr": "jouer dehors",
+    "tip": "zhoo-é-duh-OR; silent h and s."
+   },
+   {
+    "fr": "une game",
+    "tip": "Quebec informal: ün-GHÉMM."
+   }
+  ],
+  "title": "La ligue du mardi",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Tu fais du sport?",
+    "en": "Do you do any sports?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, je joue au hockey dans une ligue le mardi soir.",
+    "en": "Yes, I play hockey in a league on Tuesday nights."
+   },
+   {
+    "s": "A",
+    "fr": "Cool! T'es à quelle position?",
+    "en": "Cool! What position are you?"
+   },
+   {
+    "s": "B",
+    "fr": "Gardien de but. Hier, j'ai arrêté trente lancers!",
+    "en": "Goalie. Yesterday, I stopped thirty shots!"
+   },
+   {
+    "s": "A",
+    "fr": "Bravo! Moi, je fais du ski de fond et de la raquette.",
+    "en": "Bravo! I do cross-country skiing and snowshoeing."
+   },
+   {
+    "s": "B",
+    "fr": "Tu joues pas au hockey?",
+    "en": "You don't play hockey?"
+   },
+   {
+    "s": "A",
+    "fr": "Non, je patine mal! Mais je regarde toutes les games du Canadien.",
+    "en": "No, I skate badly! But I watch every Canadiens game."
+   },
+   {
+    "s": "B",
+    "fr": "Viens patiner avec nous samedi. On joue dehors au parc.",
+    "en": "Come skate with us Saturday. We play outside at the park."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What position does B play?",
+    "options": [
+     "Forward",
+     "Defence",
+     "Goalie"
+    ],
+    "a": 2
+   },
+   {
+    "q": "What sports does A do?",
+    "options": [
+     "Hockey and soccer",
+     "Cross-country skiing and snowshoeing",
+     "Swimming"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Why doesn't A play hockey?",
+    "options": [
+     "A skates badly",
+     "A has no time",
+     "A doesn't like it"
+    ],
+    "a": 0
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Say what sports or hobbies you do, and how often.",
+   "model": "Je fais du yoga deux fois par semaine et je joue au soccer le samedi. Dans mes temps libres, je lis."
+  },
+  {
+   "prompt": "Say one thing you love doing and one you hate doing.",
+   "model": "J'adore cuisiner, mais je déteste courir."
+  },
+  {
+   "prompt": "Describe a goal in a hockey game, Quebec style.",
+   "model": "Il a pris la rondelle, il a patiné vite et il a compté un but!"
+  }
+ ],
+ "write": {
+  "prompt": "Write 6 sentences about your free time in summer and in winter.",
+  "model": "Dans mes temps libres, j'aime jouer dehors. L'été, je fais du vélo et de la randonnée. Je joue aussi au soccer avec des collègues. L'hiver, je patine au parc et je fais de la raquette. Le samedi soir, je regarde la game du Canadien. Je ne fais pas de ski alpin: c'est trop cher!"
+ },
+ "quiz": [
+  {
+   "q": "'Jouer du piano' uses de because…",
+   "options": [
+    "piano is feminine",
+    "instruments take jouer de",
+    "it's negative",
+    "it's Quebec French"
+   ],
+   "a": 1,
+   "why": "Instruments: jouer de; sports and games: jouer à."
+  },
+  {
+   "q": "'Faire de la raquette' means…",
+   "options": [
+    "to play tennis",
+    "to go snowshoeing",
+    "to make a racket",
+    "to go skiing"
+   ],
+   "a": 1,
+   "why": "Raquette = snowshoe (in this context)."
+  },
+  {
+   "q": "'Compter un but' means…",
+   "options": [
+    "count the goals",
+    "score a goal",
+    "miss a goal",
+    "stop a goal"
+   ],
+   "a": 1,
+   "why": "Quebec: compter = score."
+  },
+  {
+   "q": "'La Sainte-Flanelle' is a nickname for…",
+   "options": [
+    "a church",
+    "the Montreal Canadiens",
+    "a winter coat",
+    "a Quebec holiday"
+   ],
+   "a": 1,
+   "why": "Named after the team's flannel jerseys."
+  },
+  {
+   "q": "'Je ne joue pas ___ hockey.'",
+   "options": [
+    "de",
+    "au",
+    "du",
+    "le"
+   ],
+   "a": 1,
+   "why": "Jouer à keeps au in the negative (it's not a partitive)."
+  },
+  {
+   "q": "'Glisser' in Quebec winter usually means…",
+   "options": [
+    "to slip and fall only",
+    "to go sledding",
+    "to skate",
+    "to ski"
+   ],
+   "a": 1,
+   "why": "Aller glisser = to go sledding."
+  },
+  {
+   "q": "'Une game' is…",
+   "options": [
+    "formal French",
+    "informal Quebec for un match",
+    "a video game only",
+    "a kind of puck"
+   ],
+   "a": 1,
+   "why": "Informal anglicism; neutral: un match."
+  },
+  {
+   "q": "Which is correct?",
+   "options": [
+    "Je fais au vélo.",
+    "Je fais du vélo.",
+    "Je joue du vélo.",
+    "Je fais de vélo."
+   ],
+   "a": 1,
+   "why": "faire du vélo."
+  }
+ ]
+}

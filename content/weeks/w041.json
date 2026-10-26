@@ -1,0 +1,675 @@
+{
+ "w": 41,
+ "title": "Imparfait",
+ "goal": "By the end of this lesson you can form the imparfait of any verb, use it to describe the past, talk about past habits ('used to') and ongoing actions ('was doing'), and understand Quebec spoken forms like j'tais, c'tait and y'avait.",
+ "learn": [
+  {
+   "h": "Forming the imparfait",
+   "body": [
+    "Take the *nous* form of the present, remove *-ons*, and add the endings *-ais, -ais, -ait, -ions, -iez, -aient*. *Nous parlons → parl- → je parlais.* *Nous finissons → finiss- → je finissais.* *Nous prenons → pren- → je prenais.*",
+    "The only irregular stem is *être*: *ét-* (*j'étais, nous étions*). Everything else follows the rule, even *avoir* (*nous avons → j'avais*) and *faire* (*nous faisons → je faisais*)."
+   ],
+   "table": {
+    "head": [
+     "Pronoun",
+     "Ending",
+     "parler",
+     "être"
+    ],
+    "rows": [
+     [
+      "je",
+      "-ais",
+      "parlais",
+      "étais"
+     ],
+     [
+      "tu",
+      "-ais",
+      "parlais",
+      "étais"
+     ],
+     [
+      "il / elle / on",
+      "-ait",
+      "parlait",
+      "était"
+     ],
+     [
+      "nous",
+      "-ions",
+      "parlions",
+      "étions"
+     ],
+     [
+      "vous",
+      "-iez",
+      "parliez",
+      "étiez"
+     ],
+     [
+      "ils / elles",
+      "-aient",
+      "parlaient",
+      "étaient"
+     ]
+    ]
+   },
+   "tip": "-ais, -ais, -ait, -aient all sound the same: [è]."
+  },
+  {
+   "h": "Use 1: describing the past",
+   "body": [
+    "The imparfait paints the background: what things were like, the weather, feelings, age, time. *Il faisait froid.* *La maison était petite.* *J'avais dix ans.* *J'étais content.* *Il était huit heures.*",
+    "Very common fixed forms: *c'était* (it was), *il y avait* (there was / there were), *il faisait* (the weather was)."
+   ],
+   "table": {
+    "head": [
+     "Present",
+     "Imparfait",
+     "English"
+    ],
+    "rows": [
+     [
+      "c'est",
+      "c'était",
+      "it was"
+     ],
+     [
+      "il y a",
+      "il y avait",
+      "there was / were"
+     ],
+     [
+      "il fait beau",
+      "il faisait beau",
+      "the weather was nice"
+     ],
+     [
+      "j'ai dix ans",
+      "j'avais dix ans",
+      "I was ten"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Use 2: habits — 'used to'",
+   "body": [
+    "For repeated actions in the past, use the imparfait: *Quand j'étais petit, je jouais dehors tous les jours.* (When I was little, I used to play outside every day.)",
+    "Signal words: *d'habitude, souvent, toujours, tous les étés, le samedi, chaque année, quand j'étais petit, avant* (before, in the past), *autrefois* (in the old days)."
+   ]
+  },
+  {
+   "h": "Use 3: what was going on",
+   "body": [
+    "For an action in progress in the past ('was doing'), use the imparfait: *Je regardais la télé.* (I was watching TV.) *Qu'est-ce que tu faisais hier à huit heures?*",
+    "You'll learn next week how it combines with the passé composé: *Je regardais la télé quand le téléphone a sonné.*"
+   ],
+   "tip": "Was / were + -ing, or 'used to' → imparfait."
+  },
+  {
+   "h": "Quebec: j'tais, c'tait, y'avait",
+   "body": [
+    "In Quebec speech, the *é* of *étais / était* often disappears: *j'étais* → *j'tais*, *c'était* → *c'tait*, *on était* → *on'tait*. *Il y avait* becomes *y'avait*. *Quand j'tais p'tit…* opens a thousand stories.",
+    "Quebec French also keeps the imparfait ending [è] clearly different from the participle [é]: *je mangeais* [è] vs *j'ai mangé* [é]. Listen for it; it tells you which tense you're hearing."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Quand j'étais petit, j'habitais à Toronto.",
+   "en": "When I was little, I lived in Toronto."
+  },
+  {
+   "fr": "Il faisait très froid ce matin-là.",
+   "en": "It was very cold that morning."
+  },
+  {
+   "fr": "C'était une belle journée.",
+   "en": "It was a beautiful day."
+  },
+  {
+   "fr": "Il y avait beaucoup de neige.",
+   "en": "There was a lot of snow."
+  },
+  {
+   "fr": "J'avais dix ans en 2000.",
+   "en": "I was ten in 2000."
+  },
+  {
+   "fr": "Avant, je fumais, mais j'ai arrêté.",
+   "en": "I used to smoke, but I quit."
+  },
+  {
+   "fr": "Tous les étés, on allait au chalet.",
+   "en": "Every summer, we used to go to the cottage."
+  },
+  {
+   "fr": "Mes grands-parents habitaient à la campagne.",
+   "en": "My grandparents lived in the countryside."
+  },
+  {
+   "fr": "Le samedi, ma mère faisait des crêpes.",
+   "en": "On Saturdays, my mother used to make crêpes."
+  },
+  {
+   "fr": "Nous étions très fatigués.",
+   "en": "We were very tired."
+  },
+  {
+   "fr": "Je regardais la télé à huit heures.",
+   "en": "I was watching TV at eight o'clock.",
+   "note": "action in progress"
+  },
+  {
+   "fr": "Qu'est-ce que tu faisais hier soir?",
+   "en": "What were you doing last night?"
+  },
+  {
+   "fr": "Vous preniez l'autobus pour aller à l'école?",
+   "en": "Did you take the bus to go to school?",
+   "note": "habit"
+  },
+  {
+   "fr": "Les enfants dormaient déjà.",
+   "en": "The kids were already asleep."
+  },
+  {
+   "fr": "Quand j'tais p'tit, y'avait pas d'internet!",
+   "en": "When I was a kid, there was no internet!",
+   "note": "informal Quebec"
+  },
+  {
+   "fr": "C'tait ben l'fun!",
+   "en": "It was really fun!",
+   "note": "very informal Quebec: c'tait, ben (bien)"
+  }
+ ],
+ "quebec": {
+  "intro": "In everyday Quebec speech, 'j'étais' shrinks to 'j'tais', 'c'était' to 'c'tait' and 'il y avait' to 'y'avait'. They are informal, but you'll hear them in every story about the past.",
+  "items": [
+   {
+    "std": "J'étais fatigué.",
+    "qc": "J'tais fatigué.",
+    "en": "I was tired.",
+    "note": "informal speech"
+   },
+   {
+    "std": "C'était le fun.",
+    "qc": "C'tait l'fun.",
+    "en": "It was fun.",
+    "note": "informal speech"
+   },
+   {
+    "std": "Il y avait du monde.",
+    "qc": "Y'avait du monde.",
+    "en": "There were lots of people.",
+    "note": "du monde = people, a crowd (Quebec)"
+   },
+   {
+    "std": "Quand j'étais petit…",
+    "qc": "Quand j'tais p'tit…",
+    "en": "When I was a kid…",
+    "note": "classic story opener"
+   },
+   {
+    "std": "On était au chalet.",
+    "qc": "On'tait au chalet.",
+    "en": "We were at the cottage.",
+    "note": "on était, fast speech"
+   },
+   {
+    "std": "Il ne savait pas.",
+    "qc": "Y savait pas.",
+    "en": "He didn't know.",
+    "note": "il → y; ne dropped"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "The imparfait stem comes from…",
+   "options": [
+    "the infinitive",
+    "the nous form of the present",
+    "the past participle",
+    "the je form"
+   ],
+   "a": 1,
+   "why": "nous parlons → parl- → je parlais."
+  },
+  {
+   "t": "mcq",
+   "q": "Imparfait of 'nous finissons' (je):",
+   "options": [
+    "je finais",
+    "je finissais",
+    "je finirais",
+    "je finissé"
+   ],
+   "a": 1,
+   "why": "finiss- + ais."
+  },
+  {
+   "t": "mcq",
+   "q": "Which verb has an irregular imparfait stem?",
+   "options": [
+    "avoir",
+    "faire",
+    "être",
+    "prendre"
+   ],
+   "a": 2,
+   "why": "être → ét-."
+  },
+  {
+   "t": "mcq",
+   "q": "'Y'avait' is Quebec speech for…",
+   "options": [
+    "il y a",
+    "il y avait",
+    "il avait",
+    "il y aura"
+   ],
+   "a": 1,
+   "why": "il y avait → y'avait."
+  },
+  {
+   "t": "fill",
+   "q": "Quand j'___ petit, j'habitais à Toronto. (être)",
+   "a": [
+    "étais"
+   ],
+   "en": "When I was little, I lived in Toronto.",
+   "why": "être → j'étais."
+  },
+  {
+   "t": "fill",
+   "q": "Il ___ très froid. (faire)",
+   "a": [
+    "faisait"
+   ],
+   "en": "It was very cold.",
+   "why": "nous faisons → fais- → il faisait."
+  },
+  {
+   "t": "fill",
+   "q": "Nous ___ au chalet tous les étés. (aller)",
+   "a": [
+    "allions"
+   ],
+   "en": "We used to go to the cottage every summer.",
+   "why": "nous allons → all- → nous allions."
+  },
+  {
+   "t": "fill",
+   "q": "Les enfants ___ déjà. (dormir)",
+   "a": [
+    "dormaient"
+   ],
+   "en": "The kids were already asleep.",
+   "why": "nous dormons → dorm- → ils dormaient."
+  },
+  {
+   "t": "fill",
+   "q": "J'___ dix ans. (avoir)",
+   "a": [
+    "avais"
+   ],
+   "en": "I was ten.",
+   "why": "nous avons → av- → j'avais."
+  },
+  {
+   "t": "build",
+   "en": "It was a beautiful day.",
+   "a": "C'était une belle journée."
+  },
+  {
+   "t": "build",
+   "en": "There was a lot of snow.",
+   "a": "Il y avait beaucoup de neige."
+  },
+  {
+   "t": "translate",
+   "en": "I used to smoke.",
+   "a": [
+    "Je fumais.",
+    "Avant, je fumais.",
+    "Je fumais avant."
+   ],
+   "why": "Past habit → imparfait."
+  },
+  {
+   "t": "translate",
+   "en": "What were you doing?",
+   "a": [
+    "Qu'est-ce que tu faisais?",
+    "Qu'est-ce que vous faisiez?",
+    "Tu faisais quoi?",
+    "Vous faisiez quoi?",
+    "Que faisais-tu?",
+    "Que faisiez-vous?"
+   ],
+   "why": "Action in progress → imparfait."
+  },
+  {
+   "t": "translate",
+   "en": "We were tired.",
+   "a": [
+    "Nous étions fatigués.",
+    "Nous étions fatiguées.",
+    "On était fatigués.",
+    "On était fatiguées.",
+    "On était fatigué."
+   ],
+   "why": "être → étions / on était."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "avant",
+   "en": "before, in the past",
+   "ex": "Avant, j'habitais à Toronto."
+  },
+  {
+   "fr": "autrefois",
+   "en": "in the old days, formerly",
+   "ex": "Autrefois, il n'y avait pas de métro."
+  },
+  {
+   "fr": "quand j'étais petit(e)",
+   "en": "when I was little",
+   "ex": "Quand j'étais petite, je patinais."
+  },
+  {
+   "fr": "l'enfance",
+   "en": "childhood",
+   "g": "f",
+   "ex": "J'ai eu une belle enfance."
+  },
+  {
+   "fr": "c'était",
+   "en": "it was",
+   "ex": "C'était super!"
+  },
+  {
+   "fr": "il y avait",
+   "en": "there was / were",
+   "ex": "Il y avait un parc."
+  },
+  {
+   "fr": "d'habitude",
+   "en": "usually",
+   "ex": "D'habitude, on mangeait à six heures."
+  },
+  {
+   "fr": "tous les étés",
+   "en": "every summer",
+   "ex": "Tous les étés, on allait au lac."
+  },
+  {
+   "fr": "la campagne",
+   "en": "countryside",
+   "g": "f",
+   "ex": "Mes grands-parents habitaient à la campagne."
+  },
+  {
+   "fr": "le chalet",
+   "en": "cottage, cabin",
+   "g": "m",
+   "ex": "On allait au chalet.",
+   "qc": true
+  },
+  {
+   "fr": "fumer",
+   "en": "to smoke",
+   "ex": "Avant, il fumait."
+  },
+  {
+   "fr": "du monde",
+   "en": "people, a crowd (Quebec)",
+   "g": "m",
+   "ex": "Y'avait du monde au parc!",
+   "qc": true
+  },
+  {
+   "fr": "j'tais",
+   "en": "I was (informal speech)",
+   "ex": "J'tais ben content.",
+   "qc": true
+  },
+  {
+   "fr": "ben",
+   "en": "really, well (informal = bien)",
+   "ex": "C'tait ben bon!",
+   "qc": true
+  },
+  {
+   "fr": "p'tit / p'tite",
+   "en": "little (informal = petit)",
+   "ex": "Quand j'tais p'tit…",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "je parlais",
+    "tip": "zhuh-par-LÈ: open è."
+   },
+   {
+    "fr": "j'ai parlé",
+    "tip": "zhé-par-LÉ: closed é. Compare with je parlais."
+   },
+   {
+    "fr": "nous parlions",
+    "tip": "noo-par-LYON."
+   },
+   {
+    "fr": "ils parlaient",
+    "tip": "eel-par-LÈ: same sound as je parlais."
+   },
+   {
+    "fr": "c'était",
+    "tip": "say-TÈ; Quebec speech: s'TÈ."
+   },
+   {
+    "fr": "il y avait",
+    "tip": "eel-ya-VÈ; Quebec speech: ya-VÈ."
+   }
+  ],
+  "title": "Les étés au chalet",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Qu'est-ce que tu faisais l'été quand t'étais petit?",
+    "en": "What did you do in the summer when you were little?"
+   },
+   {
+    "s": "B",
+    "fr": "On allait au chalet de mes grands-parents, au lac Saint-Jean.",
+    "en": "We used to go to my grandparents' cottage, at Lac Saint-Jean."
+   },
+   {
+    "s": "A",
+    "fr": "C'était comment?",
+    "en": "What was it like?"
+   },
+   {
+    "s": "B",
+    "fr": "C'tait l'fun! Y'avait pas de télé, faque on jouait dehors toute la journée.",
+    "en": "It was fun! There was no TV, so we played outside all day."
+   },
+   {
+    "s": "A",
+    "fr": "Vous vous baigniez dans le lac?",
+    "en": "Did you swim in the lake?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, même si l'eau était froide! Pis le soir, grand-papa faisait un feu.",
+    "en": "Yes, even though the water was cold! And in the evening, Grandpa made a fire."
+   },
+   {
+    "s": "A",
+    "fr": "Ça avait l'air magnifique.",
+    "en": "That sounds wonderful."
+   },
+   {
+    "s": "B",
+    "fr": "Oui. J'avais hâte à l'été toute l'année.",
+    "en": "Yes. I looked forward to summer all year."
+   }
+  ],
+  "questions": [
+   {
+    "q": "Where was the grandparents' cottage?",
+    "options": [
+     "Gaspésie",
+     "Lac Saint-Jean",
+     "Laurentides"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Why did they play outside all day?",
+    "options": [
+     "There was no TV",
+     "It was hot",
+     "Their parents insisted"
+    ],
+    "a": 0
+   },
+   {
+    "q": "What did Grandpa do in the evening?",
+    "options": [
+     "Cooked fish",
+     "Made a fire",
+     "Told stories"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Describe the house or apartment where you lived as a child.",
+   "model": "Quand j'étais petit, j'habitais dans une petite maison. Il y avait un grand jardin. Ma chambre était bleue."
+  },
+  {
+   "prompt": "Say three things you used to do as a child that you don't do now.",
+   "model": "Avant, je jouais dehors tous les jours, je regardais des dessins animés et je mangeais beaucoup de bonbons."
+  },
+  {
+   "prompt": "Start a childhood story the Quebec way.",
+   "model": "Quand j'tais p'tit, y'avait un dépanneur à côté de chez nous. C'tait ben l'fun!"
+  }
+ ],
+ "write": {
+  "prompt": "Write 6–7 sentences about your childhood: where you lived, what it was like, what you used to do.",
+  "model": "Quand j'étais petit, j'habitais à Toronto avec mes parents et ma sœur. Notre maison était près d'un grand parc. L'hiver, il faisait froid et il y avait beaucoup de neige. Le samedi, mon père allait à la patinoire avec nous. Ma mère faisait des crêpes le dimanche. J'aimais beaucoup l'école. C'était une belle enfance."
+ },
+ "quiz": [
+  {
+   "q": "Imparfait endings for je/tu:",
+   "options": [
+    "-é",
+    "-ais",
+    "-ait",
+    "-ions"
+   ],
+   "a": 1,
+   "why": "je -ais, tu -ais."
+  },
+  {
+   "q": "'Nous étions' comes from…",
+   "options": [
+    "avoir",
+    "être",
+    "aller",
+    "étudier"
+   ],
+   "a": 1,
+   "why": "être: j'étais, nous étions."
+  },
+  {
+   "q": "Which use is NOT typical for the imparfait?",
+   "options": [
+    "description",
+    "past habits",
+    "a single completed action",
+    "an action in progress"
+   ],
+   "a": 2,
+   "why": "Single completed actions use the passé composé."
+  },
+  {
+   "q": "'Je mangeais' vs 'j'ai mangé':",
+   "options": [
+    "same meaning",
+    "was eating / used to eat vs ate",
+    "ate vs was eating",
+    "future vs past"
+   ],
+   "a": 1,
+   "why": "Imparfait = ongoing or habitual."
+  },
+  {
+   "q": "'Avant, je fumais' means…",
+   "options": [
+    "I smoked before going",
+    "I used to smoke",
+    "I'm going to smoke",
+    "I just smoked"
+   ],
+   "a": 1,
+   "why": "Avant + imparfait = used to."
+  },
+  {
+   "q": "'C'tait l'fun' is…",
+   "options": [
+    "formal written French",
+    "informal Quebec for c'était le fun",
+    "a future form",
+    "an error"
+   ],
+   "a": 1,
+   "why": "Quebec spoken reduction."
+  },
+  {
+   "q": "Imparfait of 'il prend':",
+   "options": [
+    "il prendait",
+    "il prenait",
+    "il prennait",
+    "il prit"
+   ],
+   "a": 1,
+   "why": "nous prenons → pren- → il prenait."
+  },
+  {
+   "q": "'Vous ___ (faire)'",
+   "options": [
+    "faisez",
+    "faisiez",
+    "faites",
+    "fesiez"
+   ],
+   "a": 1,
+   "why": "nous faisons → fais- → vous faisiez."
+  },
+  {
+   "q": "In Quebec speech, 'du monde' means…",
+   "options": [
+    "the world",
+    "people, a crowd",
+    "of the world",
+    "a globe"
+   ],
+   "a": 1,
+   "why": "Y'avait du monde = there were lots of people."
+  }
+ ]
+}

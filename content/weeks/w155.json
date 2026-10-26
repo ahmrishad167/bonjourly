@@ -1,0 +1,633 @@
+{
+ "w": 155,
+ "title": "Professional: meetings and presentations",
+ "goal": "By the end of this lesson you can run or take part in a meeting in French, structure a short presentation with the right signposting, and navigate Quebec workplace norms, including when to use tu at work.",
+ "learn": [
+  {
+   "h": "Running a meeting",
+   "body": [
+    "Opening: *Merci à tous d'être là. L'ordre du jour comporte trois points.* Moving on: *Passons au point suivant.* Giving the floor: *Je cède la parole à Julie.* / *Julie, tu veux nous en parler?*",
+    "Managing time: *Il nous reste dix minutes.* / *On pourrait reporter ce point à la prochaine réunion.* Closing: *Pour résumer, …* / *Qui s'occupe de quoi?* / *On se revoit jeudi.*",
+    "Key documents: *l'ordre du jour* (agenda), *le procès-verbal* (formal minutes), *le compte rendu* (summary of a meeting), *les suivis* (follow-ups, very common in Quebec offices)."
+   ],
+   "table": {
+    "head": [
+     "Moment",
+     "Expression"
+    ],
+    "rows": [
+     [
+      "Open",
+      "On peut commencer? / Bienvenue à tous."
+     ],
+     [
+      "Agenda",
+      "À l'ordre du jour aujourd'hui, …"
+     ],
+     [
+      "Give the floor",
+      "Je te / vous laisse la parole."
+     ],
+     [
+      "Ask for input",
+      "Qu'est-ce que vous en pensez? / Des commentaires?"
+     ],
+     [
+      "Assign tasks",
+      "Qui pourrait s'en charger?"
+     ],
+     [
+      "Close",
+      "On fait un suivi la semaine prochaine."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Structuring a presentation",
+   "body": [
+    "Introduction: *Je vais vous présenter…*, *Ma présentation se divise en trois parties.* Signposting: *Dans un premier temps…*, *Passons maintenant à…*, *Comme vous pouvez le voir sur ce graphique…*, *J'attire votre attention sur…*",
+    "Conclusion: *Pour conclure…*, *En résumé…*, *Je vous remercie de votre attention. Avez-vous des questions?* Handling questions: *C'est une excellente question.* / *Je vais vérifier et je vous reviens là-dessus.*"
+   ],
+   "tip": "Je vous reviens là-dessus (I'll get back to you on that) is a Quebec workplace staple; France prefers je reviens vers vous."
+  },
+  {
+   "h": "Quebec workplace norms: tu at work",
+   "body": [
+    "In Quebec, *tu* is very common at work, even with managers, especially in private companies, tech, retail and among people of similar age. Many workplaces switch to *tu* within minutes. In France, *vous* stays the default much longer.",
+    "Use *vous* first with clients, senior executives you don't know, older people and in the public service when in doubt. If someone answers your *vous* with *tu*, you can usually follow. You can also ask: *On peut se tutoyer?*",
+    "Other norms: people use first names quickly; meetings are relatively informal and consensus-seeking; direct confrontation is avoided, and disagreement is usually softened (next week's topic)."
+   ]
+  },
+  {
+   "h": "Workplace vocabulary: Quebec vs France",
+   "body": [
+    "Quebec has official French terms for many office words that are English in France: *courriel* (email), *réunion* (meeting), *clavarder* (to chat online), *une rencontre* (often used for a meeting), *le/la gestionnaire* (manager), *la fin de semaine* (weekend).",
+    "Common anglicisms in Quebec offices you will hear but should avoid in formal contexts: *céduler* (planifier, fixer), *un meeting* (une réunion), *canceller* (annuler), *être en charge de* (être responsable de), *faire un call* (faire un appel)."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Merci à tous d'être là. On a trois points à l'ordre du jour.",
+   "en": "Thanks, everyone, for being here. We have three items on the agenda.",
+   "note": "opening a meeting"
+  },
+  {
+   "fr": "Passons au point suivant : le budget.",
+   "en": "Let's move on to the next item: the budget.",
+   "note": "transition"
+  },
+  {
+   "fr": "Je cède la parole à Marc, qui va nous présenter les résultats.",
+   "en": "I'll hand over to Marc, who will present the results.",
+   "note": "formal handover"
+  },
+  {
+   "fr": "Comme vous pouvez le voir sur ce graphique, les ventes ont augmenté de 8 %.",
+   "en": "As you can see on this chart, sales rose 8%.",
+   "note": "presentation signposting"
+  },
+  {
+   "fr": "Ma présentation se divise en trois parties.",
+   "en": "My presentation is in three parts.",
+   "note": "structure announcement"
+  },
+  {
+   "fr": "Je vais vérifier et je vous reviens là-dessus.",
+   "en": "I'll check and get back to you on that.",
+   "note": "Quebec workplace expression"
+  },
+  {
+   "fr": "Il nous reste dix minutes, alors allons à l'essentiel.",
+   "en": "We have ten minutes left, so let's get to the point.",
+   "note": "time management"
+  },
+  {
+   "fr": "Qui pourrait se charger du compte rendu?",
+   "en": "Who could take care of the minutes?",
+   "note": "se charger de = to take care of"
+  },
+  {
+   "fr": "On fait un suivi lundi prochain.",
+   "en": "We'll follow up next Monday.",
+   "note": "faire un suivi"
+  },
+  {
+   "fr": "On peut se tutoyer?",
+   "en": "Can we use tu with each other?",
+   "note": "asking to switch to tu"
+  },
+  {
+   "fr": "Je propose qu'on reporte cette question à la prochaine rencontre.",
+   "en": "I suggest we postpone this question to the next meeting.",
+   "note": "proposer que + subjunctive"
+  },
+  {
+   "fr": "Avez-vous des questions ou des commentaires?",
+   "en": "Do you have any questions or comments?",
+   "note": "closing a presentation"
+  },
+  {
+   "fr": "J'attire votre attention sur la dernière colonne du tableau.",
+   "en": "I draw your attention to the last column of the table.",
+   "note": "presentation"
+  },
+  {
+   "fr": "La réunion est fixée à mardi, 14 h.",
+   "en": "The meeting is scheduled for Tuesday at 2 p.m.",
+   "note": "fixer, planifier: standard instead of céduler"
+  },
+  {
+   "fr": "Pour résumer, on s'entend sur deux priorités.",
+   "en": "To sum up, we agree on two priorities.",
+   "note": "s'entendre sur = agree on"
+  },
+  {
+   "fr": "Je vous remercie de votre attention.",
+   "en": "Thank you for your attention.",
+   "note": "formal end of a presentation"
+  }
+ ],
+ "quebec": {
+  "intro": "In Quebec workplaces, tu is common even with your boss, and meetings are fairly informal. You will also hear many office anglicisms. Learn the standard terms for writing and formal meetings, and recognise the informal ones.",
+  "items": [
+   {
+    "std": "Pourriez-vous m'envoyer le document?",
+    "qc": "Peux-tu m'envoyer le document?",
+    "en": "Could you send me the document?",
+    "note": "tu with colleagues and often managers is normal in Quebec"
+   },
+   {
+    "std": "Je vais planifier une réunion.",
+    "qc": "M'as céduler un meeting.",
+    "en": "I'll schedule a meeting.",
+    "note": "céduler and meeting are anglicisms, informal; m'as = je vais (very informal)"
+   },
+   {
+    "std": "La réunion est annulée.",
+    "qc": "Le meeting est cancellé.",
+    "en": "The meeting is cancelled.",
+    "note": "informal anglicisms; use annulée in writing"
+   },
+   {
+    "std": "Je suis responsable du projet.",
+    "qc": "Chu en charge du projet.",
+    "en": "I'm in charge of the project.",
+    "note": "être en charge de is a calque of English; prefer responsable de"
+   },
+   {
+    "std": "Je reviens vers vous rapidement.",
+    "qc": "Je te reviens là-dessus.",
+    "en": "I'll get back to you on that.",
+    "note": "revenir à quelqu'un is standard Quebec office usage"
+   },
+   {
+    "std": "On échange par messagerie.",
+    "qc": "On se texte sur Teams.",
+    "en": "We chat on the messaging app.",
+    "note": "texter is informal Quebec; clavarder is the official Quebec term for online chatting"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "'L'ordre du jour' is…",
+   "options": [
+    "the order of the day's tasks for one person",
+    "the meeting agenda",
+    "the daily newspaper",
+    "the minutes"
+   ],
+   "a": 1,
+   "why": "ordre du jour = agenda."
+  },
+  {
+   "t": "mcq",
+   "q": "Standard French for 'céduler une réunion'?",
+   "options": [
+    "scheduler une réunion",
+    "fixer / planifier une réunion",
+    "céder une réunion",
+    "agender une réunion"
+   ],
+   "a": 1,
+   "why": "céduler is an anglicism (from 'schedule')."
+  },
+  {
+   "t": "mcq",
+   "q": "In a Quebec tech company, a new colleague says 'tu' to you. You…",
+   "options": [
+    "insist on vous",
+    "can usually use tu back",
+    "report it to HR",
+    "switch to English"
+   ],
+   "a": 1,
+   "why": "Tu at work is widespread in Quebec."
+  },
+  {
+   "t": "mcq",
+   "q": "'Je te reviens là-dessus' means…",
+   "options": [
+    "I'm coming back to you physically",
+    "I'll get back to you on that",
+    "I'm returning it to you",
+    "I disagree with you"
+   ],
+   "a": 1,
+   "why": "Common Quebec workplace phrase."
+  },
+  {
+   "t": "fill",
+   "q": "Passons au point ___.",
+   "a": [
+    "suivant"
+   ],
+   "en": "Let's move on to the next item.",
+   "why": "le point suivant = the next item."
+  },
+  {
+   "t": "fill",
+   "q": "Je ___ la parole à Sophie.",
+   "a": [
+    "cède",
+    "laisse",
+    "passe",
+    "donne"
+   ],
+   "en": "I'll hand over to Sophie.",
+   "why": "céder / laisser la parole à quelqu'un."
+  },
+  {
+   "t": "fill",
+   "q": "Je propose qu'on ___ ce point. (reporter)",
+   "a": [
+    "reporte"
+   ],
+   "en": "I suggest we postpone this item.",
+   "why": "proposer que + subjunctive."
+  },
+  {
+   "t": "fill",
+   "q": "Je suis ___ du dossier. (in charge, standard)",
+   "a": [
+    "responsable"
+   ],
+   "en": "I'm in charge of the file.",
+   "why": "être responsable de; avoid 'en charge de' in formal French."
+  },
+  {
+   "t": "fill",
+   "q": "Qui pourrait se ___ du compte rendu?",
+   "a": [
+    "charger",
+    "occuper"
+   ],
+   "en": "Who could take care of the minutes?",
+   "why": "se charger de / s'occuper de."
+  },
+  {
+   "t": "build",
+   "en": "My presentation is in three parts.",
+   "a": "Ma présentation se divise en trois parties."
+  },
+  {
+   "t": "build",
+   "en": "We have ten minutes left.",
+   "a": "Il nous reste dix minutes."
+  },
+  {
+   "t": "build",
+   "en": "Do you have any questions?",
+   "a": "Avez-vous des questions?"
+  },
+  {
+   "t": "translate",
+   "en": "The meeting is cancelled.",
+   "a": [
+    "La réunion est annulée.",
+    "La rencontre est annulée."
+   ],
+   "why": "annuler, not canceller, in standard French."
+  },
+  {
+   "t": "translate",
+   "en": "Can we use tu?",
+   "a": [
+    "On peut se tutoyer?",
+    "Est-ce qu'on peut se tutoyer?",
+    "Peut-on se tutoyer?",
+    "On se tutoie?"
+   ],
+   "why": "se tutoyer = to say tu to each other."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "l'ordre du jour",
+   "en": "agenda",
+   "g": "m",
+   "ex": "Le budget est le premier point à l'ordre du jour."
+  },
+  {
+   "fr": "le procès-verbal",
+   "en": "formal minutes",
+   "g": "m",
+   "ex": "Le procès-verbal sera adopté à la prochaine séance."
+  },
+  {
+   "fr": "le compte rendu",
+   "en": "meeting summary, report",
+   "g": "m",
+   "ex": "Je t'envoie le compte rendu cet après-midi."
+  },
+  {
+   "fr": "le suivi",
+   "en": "follow-up",
+   "g": "m",
+   "ex": "On fait un suivi vendredi."
+  },
+  {
+   "fr": "la rencontre",
+   "en": "meeting (Quebec usage)",
+   "g": "f",
+   "ex": "On a une rencontre avec le client à 10 h.",
+   "qc": true
+  },
+  {
+   "fr": "le / la gestionnaire",
+   "en": "manager",
+   "ex": "Ma gestionnaire approuve mes congés."
+  },
+  {
+   "fr": "se tutoyer",
+   "en": "to say tu to each other",
+   "ex": "Ici, tout le monde se tutoie."
+  },
+  {
+   "fr": "vouvoyer",
+   "en": "to say vous to someone",
+   "ex": "Je vouvoie toujours les clients."
+  },
+  {
+   "fr": "céder la parole",
+   "en": "to hand over the floor",
+   "ex": "Je cède maintenant la parole à notre invitée."
+  },
+  {
+   "fr": "reporter",
+   "en": "to postpone",
+   "ex": "La réunion est reportée à lundi."
+  },
+  {
+   "fr": "se charger de",
+   "en": "to take care of",
+   "ex": "Je me charge des réservations."
+  },
+  {
+   "fr": "le diaporama",
+   "en": "slide show",
+   "g": "m",
+   "ex": "Je partage mon diaporama à l'écran."
+  },
+  {
+   "fr": "clavarder",
+   "en": "to chat online (official Quebec term)",
+   "ex": "On peut clavarder pendant la formation.",
+   "qc": true
+  },
+  {
+   "fr": "revenir à quelqu'un",
+   "en": "to get back to someone",
+   "ex": "Je te reviens d'ici demain.",
+   "qc": true
+  },
+  {
+   "fr": "le point",
+   "en": "item (on an agenda)",
+   "g": "m",
+   "ex": "Il reste deux points à traiter."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "procès-verbal",
+    "tip": "pro-sè-vèr-BAL: four syllables."
+   },
+   {
+    "fr": "ordre du jour",
+    "tip": "or-druh-dy-JOUR: the -dre often reduces to [or-d(r)]."
+   },
+   {
+    "fr": "gestionnaire",
+    "tip": "jès-tyo-NÈR."
+   },
+   {
+    "fr": "se tutoyer",
+    "tip": "suh-ty-twa-YÉ."
+   },
+   {
+    "fr": "je te reviens là-dessus",
+    "tip": "In speech: j'te r'viens là-d'ssus."
+   },
+   {
+    "fr": "diaporama",
+    "tip": "dya-po-ra-MA."
+   }
+  ],
+  "title": "La réunion d'équipe",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Bon, on peut commencer? Merci d'être là. On a trois points à l'ordre du jour.",
+    "en": "OK, shall we start? Thanks for being here. We have three items on the agenda."
+   },
+   {
+    "s": "B",
+    "fr": "Avant de commencer, est-ce que quelqu'un prend le compte rendu?",
+    "en": "Before we start, is someone taking the minutes?"
+   },
+   {
+    "s": "A",
+    "fr": "Je m'en charge. Premier point : le lancement du produit. Karine, je te laisse la parole.",
+    "en": "I'll take care of it. First item: the product launch. Karine, over to you."
+   },
+   {
+    "s": "B",
+    "fr": "Merci. Comme vous voyez sur ce graphique, on est un peu en retard sur l'échéancier.",
+    "en": "Thanks. As you can see on this chart, we're a little behind schedule."
+   },
+   {
+    "s": "A",
+    "fr": "De combien?",
+    "en": "By how much?"
+   },
+   {
+    "s": "B",
+    "fr": "Environ deux semaines. Je vais vérifier avec les fournisseurs et je te reviens là-dessus.",
+    "en": "About two weeks. I'll check with the suppliers and get back to you on that."
+   },
+   {
+    "s": "A",
+    "fr": "Parfait. Il nous reste quinze minutes; je propose qu'on reporte le troisième point.",
+    "en": "Perfect. We have fifteen minutes left; I suggest we postpone the third item."
+   },
+   {
+    "s": "B",
+    "fr": "D'accord. On fait un suivi jeudi?",
+    "en": "OK. Shall we follow up Thursday?"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Who takes the minutes?",
+    "options": [
+     "Karine",
+     "Speaker A",
+     "Nobody"
+    ],
+    "a": 1
+   },
+   {
+    "q": "How far behind schedule is the launch?",
+    "options": [
+     "Two days",
+     "Two weeks",
+     "Two months"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What happens to the third item?",
+    "options": [
+     "It's cancelled",
+     "It's postponed",
+     "It's discussed quickly"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Open a team meeting: welcome people, announce the agenda (three items), and give the floor to a colleague.",
+   "model": "Bonjour tout le monde, merci d'être là. Aujourd'hui, on a trois points à l'ordre du jour : le budget, le recrutement et le party de Noël. Pour commencer, je laisse la parole à Mathieu."
+  },
+  {
+   "prompt": "Introduce a five-minute presentation and announce its structure.",
+   "model": "Je vais vous présenter les résultats du dernier trimestre. Ma présentation se divise en trois parties : d'abord les ventes, ensuite les dépenses, et enfin nos priorités pour l'an prochain."
+  },
+  {
+   "prompt": "Answer a question you can't answer right away, professionally.",
+   "model": "C'est une excellente question. Je n'ai pas les chiffres exacts sous la main, mais je vais vérifier et je vous reviens là-dessus d'ici demain."
+  }
+ ],
+ "write": {
+  "prompt": "Write a short meeting summary email (compte rendu, 6–8 sentences) to your team: date, points discussed, decisions, who does what, next follow-up. Use standard French, no anglicisms.",
+  "model": "Bonjour à tous, Voici le compte rendu de la réunion du 12 mars. Nous avons d'abord fait le point sur le lancement du produit, qui accuse un retard d'environ deux semaines. Karine vérifiera les délais avec les fournisseurs. Nous avons ensuite approuvé le budget de marketing. Le point sur le recrutement a été reporté à la prochaine rencontre. Un suivi aura lieu jeudi à 10 h. N'hésitez pas à me faire part de vos commentaires. Bonne journée, Rishad"
+ },
+ "quiz": [
+  {
+   "q": "In Quebec workplaces, 'tu' is…",
+   "options": [
+    "forbidden",
+    "very common, even with managers",
+    "only used by bosses",
+    "only used in writing"
+   ],
+   "a": 1,
+   "why": "Tutoiement is widespread at work in Quebec."
+  },
+  {
+   "q": "'Le procès-verbal' is…",
+   "options": [
+    "a lawsuit",
+    "the formal minutes",
+    "a verbal warning",
+    "a speeding ticket only"
+   ],
+   "a": 1,
+   "why": "In meetings, the procès-verbal is the official record."
+  },
+  {
+   "q": "Which is an anglicism to avoid in formal writing?",
+   "options": [
+    "annuler",
+    "planifier",
+    "canceller",
+    "reporter"
+   ],
+   "a": 2,
+   "why": "canceller → annuler."
+  },
+  {
+   "q": "'Faire un suivi' means…",
+   "options": [
+    "to follow someone",
+    "to follow up",
+    "to be next in line",
+    "to go after a meeting"
+   ],
+   "a": 1,
+   "why": "suivi = follow-up."
+  },
+  {
+   "q": "Who should you probably address with 'vous' first?",
+   "options": [
+    "A colleague your age",
+    "A client you've never met",
+    "Your friend from the gym",
+    "A child"
+   ],
+   "a": 1,
+   "why": "Clients and strangers in formal contexts: vous first."
+  },
+  {
+   "q": "'Clavarder' means…",
+   "options": [
+    "to type fast",
+    "to chat online",
+    "to close a file",
+    "to play the keyboard"
+   ],
+   "a": 1,
+   "why": "Official Quebec term (clavier + bavarder)."
+  },
+  {
+   "q": "Which phrase announces a presentation's structure?",
+   "options": [
+    "Je cède la parole.",
+    "Ma présentation se divise en trois parties.",
+    "On fait un suivi.",
+    "Il nous reste dix minutes."
+   ],
+   "a": 1,
+   "why": "It tells the audience the plan."
+  },
+  {
+   "q": "Standard French for 'être en charge de'?",
+   "options": [
+    "être chargé de / responsable de",
+    "être en charge pour",
+    "avoir la charge sur",
+    "être chargeant"
+   ],
+   "a": 0,
+   "why": "être responsable de (or chargé de)."
+  },
+  {
+   "q": "'Je propose qu'on ___ la réunion.' (reporter)",
+   "options": [
+    "reporte",
+    "reportera",
+    "reporterait",
+    "reportons"
+   ],
+   "a": 0,
+   "why": "proposer que + subjunctive."
+  }
+ ]
+}

@@ -1,0 +1,674 @@
+{
+ "w": 58,
+ "title": "Emphatic pronouns: moi, toi, lui",
+ "goal": "By the end of this lesson you can use the emphatic pronouns moi, toi, lui, elle, nous, vous, eux and elles for emphasis, after prepositions, after c'est, in comparisons and in short answers like moi aussi and moi non plus.",
+ "learn": [
+  {
+   "h": "The eight emphatic pronouns",
+   "body": [
+    "French has a special set of 'stressed' pronouns used when the pronoun stands out on its own, not glued to a verb. Some look like subject pronouns, others are different.",
+    "*Moi, je suis fatigué.* (Me, I'm tired.) *C'est* **lui**. *Avec* **eux**."
+   ],
+   "table": {
+    "head": [
+     "Subject",
+     "Emphatic",
+     "Example"
+    ],
+    "rows": [
+     [
+      "je",
+      "moi",
+      "Moi, j'adore l'hiver."
+     ],
+     [
+      "tu",
+      "toi",
+      "Et toi?"
+     ],
+     [
+      "il",
+      "lui",
+      "C'est lui!"
+     ],
+     [
+      "elle",
+      "elle",
+      "Je pense à elle."
+     ],
+     [
+      "on / nous",
+      "nous",
+      "Chez nous."
+     ],
+     [
+      "vous",
+      "vous",
+      "Après vous!"
+     ],
+     [
+      "ils",
+      "eux",
+      "Avec eux."
+     ],
+     [
+      "elles",
+      "elles",
+      "Sans elles."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "For emphasis and contrast",
+   "body": [
+    "Put the emphatic pronoun at the start or end of the sentence to stress or contrast who you mean: **Moi**, *je préfère le thé.* *Il aime le hockey,* **lui**. **Toi**, *tu restes ici!*",
+    "With two subjects, use emphatic pronouns, often summed up with a subject pronoun: *Paul et* **moi**, *nous partons.* / *Paul et moi, on part.*"
+   ]
+  },
+  {
+   "h": "After prepositions and c'est",
+   "body": [
+    "After any preposition: *avec moi*, *pour toi*, *chez lui*, *sans elle*, *à côté de nous*, *derrière eux*.",
+    "After *c'est / ce sont*: *C'est* **moi**! *C'est* **toi** *qui as gagné.* (In speech *c'est eux* is common; *ce sont eux* is more formal.)",
+    "After *que* in comparisons (lesson 49): *Il est plus grand que* **moi**."
+   ]
+  },
+  {
+   "h": "Short answers: moi aussi, moi non plus",
+   "body": [
+    "To agree with a positive statement: **moi aussi** (me too). To agree with a negative statement: **moi non plus** (me neither). To disagree: **pas moi** / **moi, oui** / **moi, si**.",
+    "*J'adore la poutine.* — *Moi aussi!* *Je n'aime pas le froid.* — *Moi non plus.* *Je n'aime pas le froid.* — *Moi, si!*"
+   ],
+   "table": {
+    "head": [
+     "Statement",
+     "Agree",
+     "Disagree"
+    ],
+    "rows": [
+     [
+      "J'aime le ski.",
+      "Moi aussi.",
+      "Pas moi. / Moi, non."
+     ],
+     [
+      "Je n'aime pas le ski.",
+      "Moi non plus.",
+      "Moi, si. / Moi, oui."
+     ]
+    ]
+   },
+   "tip": "Negative sentence + agreement = non plus, never aussi."
+  },
+  {
+   "h": "-même: myself, yourself",
+   "body": [
+    "Add *-même(s)* for 'myself, yourself…': *moi-même, toi-même, lui-même, elle-même, nous-mêmes, vous-même(s), eux-mêmes, elles-mêmes*.",
+    "*Je l'ai fait* **moi-même**. (I did it myself.) *Ils ont construit leur chalet* **eux-mêmes**."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Moi, je préfère l'été.",
+   "en": "Me, I prefer summer.",
+   "note": "emphasis at the start"
+  },
+  {
+   "fr": "Et toi, qu'est-ce que tu en penses?",
+   "en": "And you, what do you think?",
+   "note": "et toi? = and you?"
+  },
+  {
+   "fr": "Lui, il travaille de nuit; elle, elle travaille de jour.",
+   "en": "He works nights; she works days.",
+   "note": "contrast"
+  },
+  {
+   "fr": "Tu viens avec moi au dépanneur?",
+   "en": "Are you coming with me to the corner store?",
+   "note": "after a preposition"
+  },
+  {
+   "fr": "Ce cadeau est pour toi.",
+   "en": "This gift is for you.",
+   "note": "pour toi"
+  },
+  {
+   "fr": "On soupe chez eux samedi.",
+   "en": "We're having supper at their place on Saturday.",
+   "note": "chez eux = at their place"
+  },
+  {
+   "fr": "Qui a appelé? C'est moi.",
+   "en": "Who called? It was me.",
+   "note": "c'est + emphatic"
+  },
+  {
+   "fr": "C'est elle qui a organisé le party.",
+   "en": "She's the one who organized the party.",
+   "note": "c'est … qui"
+  },
+  {
+   "fr": "Ma sœur et moi, on se ressemble beaucoup.",
+   "en": "My sister and I look a lot alike.",
+   "note": "compound subject"
+  },
+  {
+   "fr": "Il est plus vieux que moi.",
+   "en": "He's older than me.",
+   "note": "after que"
+  },
+  {
+   "fr": "J'aime le hockey. — Moi aussi!",
+   "en": "I love hockey. — Me too!",
+   "note": "agreeing with a positive"
+  },
+  {
+   "fr": "Je ne parle pas espagnol. — Moi non plus.",
+   "en": "I don't speak Spanish. — Me neither.",
+   "note": "agreeing with a negative"
+  },
+  {
+   "fr": "Je n'aime pas le café. — Moi, si!",
+   "en": "I don't like coffee. — I do!",
+   "note": "disagreeing with a negative"
+  },
+  {
+   "fr": "J'ai fait ce gâteau moi-même.",
+   "en": "I made this cake myself.",
+   "note": "moi-même"
+  },
+  {
+   "fr": "Je pense souvent à eux.",
+   "en": "I often think about them.",
+   "note": "penser à + person: emphatic pronoun (lesson 47)"
+  },
+  {
+   "fr": "Après vous, madame.",
+   "en": "After you, ma'am.",
+   "note": "politeness formula"
+  }
+ ],
+ "quebec": {
+  "intro": "In Quebec speech, the plural emphatic pronouns usually get 'autres' added: nous autres, vous autres, eux autres (often said 'nous aut'', 'vous aut'', 'eux aut''). They are not more emphatic, just the normal spoken forms. In some regions and older speech you'll also hear 'moé' and 'toé' for moi and toi.",
+  "items": [
+   {
+    "std": "Nous, on part demain.",
+    "qc": "Nous autres, on part demain.",
+    "en": "We're leaving tomorrow.",
+    "note": "nous autres is the everyday spoken form"
+   },
+   {
+    "std": "Vous venez avec nous?",
+    "qc": "Vous autres, vous venez-tu avec nous autres?",
+    "en": "Are you guys coming with us?",
+    "note": "vous autres = you guys (plural); informal"
+   },
+   {
+    "std": "C'est chez eux.",
+    "qc": "C'est chez eux autres.",
+    "en": "It's at their place.",
+    "note": "eux autres = them; informal"
+   },
+   {
+    "std": "Moi, je ne sais pas.",
+    "qc": "Moé, j'sais pas.",
+    "en": "Me, I don't know.",
+    "note": "moé: older / rural pronunciation; very informal"
+   },
+   {
+    "std": "C'est à toi.",
+    "qc": "C'est à toé.",
+    "en": "It's yours.",
+    "note": "toé: very informal; may sound rustic"
+   },
+   {
+    "std": "Moi non plus.",
+    "qc": "Moi non plus.",
+    "en": "Me neither.",
+    "note": "same everywhere; in fast speech often [mwa nonn ply]"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Je vais au cinéma avec ___. (them, m)",
+   "options": [
+    "ils",
+    "leur",
+    "eux",
+    "les"
+   ],
+   "a": 2,
+   "why": "After a preposition: eux."
+  },
+  {
+   "t": "mcq",
+   "q": "Je n'aime pas les maringouins. — ___",
+   "options": [
+    "Moi aussi.",
+    "Moi non plus.",
+    "Moi si.",
+    "Pas moi."
+   ],
+   "a": 1,
+   "why": "Agreeing with a negative: moi non plus."
+  },
+  {
+   "t": "mcq",
+   "q": "Qui est là? — C'est ___.",
+   "options": [
+    "je",
+    "me",
+    "moi",
+    "mon"
+   ],
+   "a": 2,
+   "why": "After c'est: moi."
+  },
+  {
+   "t": "mcq",
+   "q": "'They did it themselves' (girls) =",
+   "options": [
+    "Elles l'ont fait elles-mêmes.",
+    "Elles l'ont fait eux-mêmes.",
+    "Elles l'ont fait elle-même.",
+    "Elles l'ont fait leurs-mêmes."
+   ],
+   "a": 0,
+   "why": "Feminine plural: elles-mêmes."
+  },
+  {
+   "t": "fill",
+   "q": "Ce café est pour ___. (you, tu)",
+   "a": [
+    "toi"
+   ],
+   "en": "This coffee is for you.",
+   "why": "After pour: toi."
+  },
+  {
+   "t": "fill",
+   "q": "___, il ne mange jamais de viande. (him)",
+   "a": [
+    "Lui"
+   ],
+   "en": "He never eats meat.",
+   "why": "Emphasis: Lui, il…"
+  },
+  {
+   "t": "fill",
+   "q": "Elle est plus jeune que ___. (me)",
+   "a": [
+    "moi"
+   ],
+   "en": "She's younger than me.",
+   "why": "After que: moi."
+  },
+  {
+   "t": "fill",
+   "q": "On va souper chez ___ ce soir. (her)",
+   "a": [
+    "elle"
+   ],
+   "en": "We're going to have supper at her place tonight.",
+   "why": "Chez + emphatic."
+  },
+  {
+   "t": "build",
+   "en": "My wife and I are going to Quebec City.",
+   "a": "Ma femme et moi, nous allons à Québec."
+  },
+  {
+   "t": "build",
+   "en": "It's him who called.",
+   "a": "C'est lui qui a appelé."
+  },
+  {
+   "t": "build",
+   "en": "I did it myself.",
+   "a": "Je l'ai fait moi-même."
+  },
+  {
+   "t": "translate",
+   "en": "Me too!",
+   "a": [
+    "Moi aussi!",
+    "Moi aussi."
+   ],
+   "why": "Agreeing with a positive statement."
+  },
+  {
+   "t": "translate",
+   "en": "Are you coming with us?",
+   "a": [
+    "Tu viens avec nous?",
+    "Vous venez avec nous?",
+    "Est-ce que tu viens avec nous?",
+    "Est-ce que vous venez avec nous?",
+    "Viens-tu avec nous?",
+    "Venez-vous avec nous?",
+    "Tu viens-tu avec nous autres?",
+    "Vous venez avec nous autres?"
+   ],
+   "why": "Avec + nous (or nous autres in Quebec speech)."
+  },
+  {
+   "t": "translate",
+   "en": "And you?",
+   "a": [
+    "Et toi?",
+    "Et vous?",
+    "Pis toi?",
+    "Pis vous?"
+   ],
+   "why": "Emphatic toi / vous."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "moi / toi",
+   "en": "me / you (emphatic)",
+   "ex": "C'est pour moi?"
+  },
+  {
+   "fr": "lui / elle",
+   "en": "him / her (emphatic)",
+   "ex": "Je pars avec lui."
+  },
+  {
+   "fr": "eux / elles",
+   "en": "them (emphatic)",
+   "ex": "Chez eux."
+  },
+  {
+   "fr": "moi aussi",
+   "en": "me too",
+   "ex": "J'ai faim. — Moi aussi."
+  },
+  {
+   "fr": "moi non plus",
+   "en": "me neither",
+   "ex": "Je ne sais pas. — Moi non plus."
+  },
+  {
+   "fr": "moi-même",
+   "en": "myself",
+   "ex": "Je l'ai fait moi-même."
+  },
+  {
+   "fr": "chez",
+   "en": "at / to someone's place",
+   "ex": "Viens chez moi."
+  },
+  {
+   "fr": "sans",
+   "en": "without",
+   "ex": "Je ne pars pas sans toi."
+  },
+  {
+   "fr": "à côté de",
+   "en": "next to",
+   "ex": "Assieds-toi à côté de moi."
+  },
+  {
+   "fr": "derrière / devant",
+   "en": "behind / in front of",
+   "ex": "Il est derrière toi!"
+  },
+  {
+   "fr": "le maringouin",
+   "en": "mosquito",
+   "g": "m",
+   "ex": "Les maringouins sont terribles au chalet.",
+   "qc": true
+  },
+  {
+   "fr": "le party",
+   "en": "party",
+   "g": "m",
+   "ex": "On fait un party samedi.",
+   "qc": true
+  },
+  {
+   "fr": "nous autres",
+   "en": "we, us (spoken)",
+   "ex": "Nous autres, on reste ici.",
+   "qc": true
+  },
+  {
+   "fr": "vous autres",
+   "en": "you guys (spoken)",
+   "ex": "Vous autres, vous venez?",
+   "qc": true
+  },
+  {
+   "fr": "eux autres",
+   "en": "they, them (spoken)",
+   "ex": "Eux autres, y sont partis.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "moi / toi",
+    "tip": "[mwa] / [twa]; in Quebec the a is often a long back â: [mwâ]."
+   },
+   {
+    "fr": "lui",
+    "tip": "[lwi], one syllable."
+   },
+   {
+    "fr": "eux",
+    "tip": "[eu]: just the vowel, no x sound."
+   },
+   {
+    "fr": "nous autres",
+    "tip": "Quebec: [nou-zôt], the -res is often dropped."
+   },
+   {
+    "fr": "moi non plus",
+    "tip": "mwa non PLU: the s is silent here."
+   },
+   {
+    "fr": "moé / toé",
+    "tip": "Rural or older Quebec speech: [mwé] / [twé]."
+   }
+  ],
+  "title": "Qui vient au chalet?",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Nous autres, on monte au chalet vendredi. Vous autres, vous venez-tu?",
+    "en": "We're going up to the cottage on Friday. Are you guys coming?"
+   },
+   {
+    "s": "B",
+    "fr": "Moi, oui! Mais Marc, lui, il travaille samedi.",
+    "en": "I am! But Marc has to work on Saturday."
+   },
+   {
+    "s": "A",
+    "fr": "Dommage. Et tes parents? On peut les inviter aussi.",
+    "en": "Too bad. And your parents? We can invite them too."
+   },
+   {
+    "s": "B",
+    "fr": "Eux autres, ils sont en Floride jusqu'en mars.",
+    "en": "They're in Florida until March."
+   },
+   {
+    "s": "A",
+    "fr": "Chanceux! Bon, toi et moi, on part à quelle heure?",
+    "en": "Lucky them! OK, you and me, what time do we leave?"
+   },
+   {
+    "s": "B",
+    "fr": "Après le travail. Je n'aime pas conduire la nuit.",
+    "en": "After work. I don't like driving at night."
+   },
+   {
+    "s": "A",
+    "fr": "Moi non plus. On part à quatre heures, d'abord.",
+    "en": "Me neither. We'll leave at four, then."
+   },
+   {
+    "s": "B",
+    "fr": "Parfait. J'apporte un pain aux bananes; je l'ai fait moi-même!",
+    "en": "Perfect. I'll bring banana bread; I made it myself!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Why isn't Marc coming?",
+    "options": [
+     "He's sick",
+     "He works on Saturday",
+     "He's in Florida"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Where are B's parents?",
+    "options": [
+     "At the cottage",
+     "In Florida",
+     "At work"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Why do they leave at four?",
+    "options": [
+     "To avoid driving at night",
+     "To avoid traffic",
+     "Because the cottage closes"
+    ],
+    "a": 0
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "React to each statement with moi aussi, moi non plus, moi si or pas moi: 'J'adore l'hiver.' 'Je ne mange pas de viande.' 'Je parle trois langues.'",
+   "model": "Pas moi, je préfère l'été! Moi non plus. Moi aussi!"
+  },
+  {
+   "prompt": "Contrast what you and two family members like, starting each sentence with an emphatic pronoun.",
+   "model": "Moi, j'aime le ski. Ma sœur, elle, préfère le patin. Mes parents, eux, restent au chaud à la maison!"
+  },
+  {
+   "prompt": "Invite a group of friends Quebec style: 'We're having a party; are you guys coming?'",
+   "model": "Nous autres, on fait un party samedi. Vous autres, vous venez-tu?"
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences about the people you live or work with. Use at least six emphatic pronouns (after prepositions, after c'est, for emphasis, and one -même).",
+  "model": "J'habite avec mon chum et notre chat. Lui, il travaille de jour; moi, je travaille le soir. Le samedi, on soupe chez ses parents. Je m'entends très bien avec eux. C'est moi qui cuisine le dimanche, et je fais le pain moi-même. Et toi, avec qui tu habites?"
+ },
+ "quiz": [
+  {
+   "q": "Which is the emphatic form of 'ils'?",
+   "options": [
+    "ils",
+    "leur",
+    "eux",
+    "les"
+   ],
+   "a": 2,
+   "why": "Ils → eux."
+  },
+  {
+   "q": "'C'est ___ qui a gagné!' (you, tu)",
+   "options": [
+    "tu",
+    "te",
+    "toi",
+    "ton"
+   ],
+   "a": 2,
+   "why": "After c'est: toi."
+  },
+  {
+   "q": "'Je n'ai pas faim.' Agree:",
+   "options": [
+    "Moi aussi.",
+    "Moi non plus.",
+    "Moi si.",
+    "Moi oui."
+   ],
+   "a": 1,
+   "why": "Negative statement → moi non plus."
+  },
+  {
+   "q": "'J'ai froid.' Disagree:",
+   "options": [
+    "Moi non plus.",
+    "Pas moi.",
+    "Moi aussi.",
+    "Moi si."
+   ],
+   "a": 1,
+   "why": "Disagreeing with a positive: pas moi."
+  },
+  {
+   "q": "Which is correct?",
+   "options": [
+    "Je vais chez lui.",
+    "Je vais chez il.",
+    "Je vais chez le.",
+    "Je vais chez son."
+   ],
+   "a": 0,
+   "why": "Chez + emphatic: chez lui."
+  },
+  {
+   "q": "'Herself' =",
+   "options": [
+    "lui-même",
+    "elle-même",
+    "soi-mêmes",
+    "elles-même"
+   ],
+   "a": 1,
+   "why": "Elle-même."
+  },
+  {
+   "q": "'Mon frère et moi, ___ allons au match.'",
+   "options": [
+    "je",
+    "ils",
+    "nous",
+    "vous"
+   ],
+   "a": 2,
+   "why": "Mon frère et moi = nous (or on va)."
+  },
+  {
+   "q": "In Quebec speech, 'vous autres' means…",
+   "options": [
+    "you others (other people)",
+    "you guys (plural you)",
+    "the others",
+    "you yourself"
+   ],
+   "a": 1,
+   "why": "Vous autres is the everyday plural 'you'."
+  },
+  {
+   "q": "'Moé' is…",
+   "options": [
+    "a mistake for mois",
+    "an older / rural Quebec pronunciation of moi",
+    "a type of snow",
+    "the plural of moi"
+   ],
+   "a": 1,
+   "why": "Moé = moi in some regions and older speech."
+  }
+ ]
+}

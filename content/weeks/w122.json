@@ -1,0 +1,646 @@
+{
+ "w": 122,
+ "title": "Debate practice",
+ "goal": "By the end of this lesson you can take a side on a local issue and defend it in a structured debate: present a thesis, give arguments with examples, concede a point, refute the other side, interrupt politely and conclude.",
+ "learn": [
+  {
+   "h": "Structure of a debate turn",
+   "body": [
+    "A strong debate turn has four parts: your position (*la thèse*), two or three arguments with examples, an answer to the other side (*la réfutation*), and a short conclusion.",
+    "Open clearly: *Je suis pour / contre…*, *Je défends l'idée que…*, *Ma position est claire: …*. Then number your arguments: *Premièrement… Deuxièmement… Enfin…*"
+   ],
+   "table": {
+    "head": [
+     "Step",
+     "Useful phrases"
+    ],
+    "rows": [
+     [
+      "Position",
+      "Je suis pour… / Je suis contre… / Selon moi, il faut…"
+     ],
+     [
+      "Arguments",
+      "D'abord… Ensuite… De plus… En outre…"
+     ],
+     [
+      "Examples",
+      "Par exemple… / Prenons le cas de… / Les chiffres montrent que…"
+     ],
+     [
+      "Refutation",
+      "Certes…, mais… / Contrairement à ce que dit mon adversaire…"
+     ],
+     [
+      "Conclusion",
+      "En conclusion… / Pour toutes ces raisons… / Bref…"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Connecting ideas: addition, contrast, consequence",
+   "body": [
+    "Addition: *de plus*, *en outre*, *par ailleurs*, *sans compter que* (not to mention that). Contrast: *cependant*, *pourtant*, *néanmoins*, *en revanche*, *par contre*. Consequence: *donc*, *par conséquent*, *c'est pourquoi*, *ce qui fait que*.",
+    "*Pourtant* stresses a surprising contrast: *Les loyers augmentent; pourtant, les salaires stagnent.* *En revanche* compares two sides: *Le métro est rapide; en revanche, il est bondé.*"
+   ],
+   "tip": "Use at least one connector per sentence in a debate: it makes your French sound organised and persuasive."
+  },
+  {
+   "h": "Conceding and refuting",
+   "body": [
+    "Conceding a point makes you look fair and makes your rebuttal stronger: *Certes, les pistes cyclables coûtent cher, mais elles réduisent le trafic.* *Il est vrai que…; cependant…* *Je reconnais que…, mais…*",
+    "Refuting: *Ce n'est pas tout à fait exact.* *Cet argument ne tient pas la route.* (That argument doesn't hold up.) *Au contraire, …* *Les faits montrent plutôt que…*"
+   ]
+  },
+  {
+   "h": "Managing the conversation",
+   "body": [
+    "Interrupt politely: *Si je peux me permettre…*, *Excusez-moi de vous interrompre, mais…*, *Juste un instant…*. Keep the floor: *Laissez-moi terminer, s'il vous plaît.* *Je n'ai pas fini.*",
+    "Ask for clarification: *Qu'est-ce que vous voulez dire par…?* *Pouvez-vous donner un exemple?* Return to the point: *Revenons à la question.*"
+   ]
+  },
+  {
+   "h": "Quebec: local issues and casual debate",
+   "body": [
+    "Typical Quebec debate topics: bike lanes in winter, public transit projects (like Quebec City's tramway), short-term rentals and the housing shortage, the cost of rent, French in Montreal shops, or daylight saving time.",
+    "Among friends, debate gets lively and informal: *Ça a pas rapport!* (That's irrelevant!), *Là, tu charries!* (Now you're exaggerating!), *Bon point.* (Fair point.), *Je suis pas mal d'accord* (I pretty much agree). In a formal debate, stick to the standard phrases."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Je suis pour le maintien des pistes cyclables en hiver.",
+   "en": "I'm in favour of keeping bike lanes open in winter.",
+   "note": "clear position"
+  },
+  {
+   "fr": "Premièrement, de plus en plus de gens se déplacent à vélo toute l'année.",
+   "en": "First, more and more people get around by bike all year.",
+   "note": "numbered argument"
+  },
+  {
+   "fr": "De plus, chaque cycliste, c'est une voiture de moins sur la route.",
+   "en": "Moreover, each cyclist means one less car on the road.",
+   "note": "de plus = addition"
+  },
+  {
+   "fr": "Prenons le cas d'Oulu, en Finlande, où on fait du vélo à −20.",
+   "en": "Take the case of Oulu, Finland, where people cycle at −20.",
+   "note": "example"
+  },
+  {
+   "fr": "Certes, le déneigement coûte cher, mais les bénéfices sont plus grands.",
+   "en": "Admittedly, snow clearing is expensive, but the benefits are greater.",
+   "note": "concession"
+  },
+  {
+   "fr": "Les loyers augmentent; pourtant, les salaires ne suivent pas.",
+   "en": "Rents are rising; yet wages aren't keeping up.",
+   "note": "pourtant = surprising contrast"
+  },
+  {
+   "fr": "En revanche, le tramway serait plus fiable que l'autobus.",
+   "en": "On the other hand, the tramway would be more reliable than the bus.",
+   "note": "en revanche = comparison"
+  },
+  {
+   "fr": "Par conséquent, il faut limiter les locations à court terme.",
+   "en": "Consequently, short-term rentals must be limited.",
+   "note": "consequence"
+  },
+  {
+   "fr": "Contrairement à ce que dit mon adversaire, le projet est rentable.",
+   "en": "Contrary to what my opponent says, the project is cost-effective.",
+   "note": "refutation"
+  },
+  {
+   "fr": "Cet argument ne tient pas la route.",
+   "en": "That argument doesn't hold up.",
+   "note": "idiom: lit. 'doesn't hold the road'"
+  },
+  {
+   "fr": "Excusez-moi de vous interrompre, mais vos chiffres datent de 2015.",
+   "en": "Sorry to interrupt, but your figures are from 2015.",
+   "note": "polite interruption"
+  },
+  {
+   "fr": "Laissez-moi terminer, s'il vous plaît.",
+   "en": "Please let me finish.",
+   "note": "keeping the floor"
+  },
+  {
+   "fr": "Qu'est-ce que vous voulez dire par « coûts cachés »?",
+   "en": "What do you mean by 'hidden costs'?",
+   "note": "asking for clarification"
+  },
+  {
+   "fr": "Je reconnais que la question est complexe.",
+   "en": "I recognise the question is complex.",
+   "note": "concession"
+  },
+  {
+   "fr": "Pour toutes ces raisons, je pense que la ville doit investir dans le transport collectif.",
+   "en": "For all these reasons, I think the city must invest in public transit.",
+   "note": "conclusion; transport collectif is common in Quebec"
+  },
+  {
+   "fr": "Ben là, ça a pas rapport!",
+   "en": "Come on, that's got nothing to do with it!",
+   "note": "informal Quebec debate"
+  }
+ ],
+ "quebec": {
+  "intro": "Debating a local issue with friends in Quebec gets lively. Here are the casual expressions you'll hear, next to the standard ones to use in a formal debate.",
+  "items": [
+   {
+    "std": "Ce n'est pas pertinent.",
+    "qc": "Ça a pas rapport!",
+    "en": "That's irrelevant!",
+    "note": "very common, informal"
+   },
+   {
+    "std": "Tu exagères.",
+    "qc": "Là, tu charries!",
+    "en": "Now you're exaggerating!",
+    "note": "charrier = to exaggerate, informal"
+   },
+   {
+    "std": "C'est un argument valable.",
+    "qc": "Bon point.",
+    "en": "Fair point.",
+    "note": "neutral-informal"
+   },
+   {
+    "std": "Je suis plutôt d'accord.",
+    "qc": "Chu pas mal d'accord.",
+    "en": "I pretty much agree.",
+    "note": "pas mal = quite, very Quebec"
+   },
+   {
+    "std": "Ça n'a aucun sens.",
+    "qc": "Ça a pas d'allure!",
+    "en": "That makes no sense!",
+    "note": "informal"
+   },
+   {
+    "std": "Je ne suis pas convaincu.",
+    "qc": "J'suis pas sûr de ça, moi.",
+    "en": "I'm not so sure about that.",
+    "note": "moi at the end adds emphasis"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Which connector introduces a concession?",
+   "options": [
+    "Par conséquent",
+    "Certes",
+    "De plus",
+    "Donc"
+   ],
+   "a": 1,
+   "why": "Certes…, mais… = admittedly…, but…"
+  },
+  {
+   "t": "mcq",
+   "q": "'Cet argument ne tient pas la route' means…",
+   "options": [
+    "That argument is about roads.",
+    "That argument doesn't hold up.",
+    "That argument is too long.",
+    "That argument is convincing."
+   ],
+   "a": 1,
+   "why": "Ne pas tenir la route = to be weak."
+  },
+  {
+   "t": "mcq",
+   "q": "Which phrase interrupts politely?",
+   "options": [
+    "Tais-toi!",
+    "Si je peux me permettre…",
+    "Ça a pas rapport!",
+    "Laisse faire."
+   ],
+   "a": 1,
+   "why": "Polite and formal."
+  },
+  {
+   "t": "mcq",
+   "q": "'Là, tu charries!' means…",
+   "options": [
+    "You're carrying too much!",
+    "Now you're exaggerating!",
+    "You're driving badly!",
+    "Now you're right!"
+   ],
+   "a": 1,
+   "why": "Charrier = to exaggerate (informal)."
+  },
+  {
+   "t": "fill",
+   "q": "Les loyers augmentent; ___, les salaires stagnent. (yet)",
+   "a": [
+    "pourtant",
+    "cependant",
+    "néanmoins"
+   ],
+   "en": "Rents are rising; yet wages are stagnating.",
+   "why": "A surprising contrast."
+  },
+  {
+   "t": "fill",
+   "q": "___ à ce que vous dites, le projet est rentable. (Contrary)",
+   "a": [
+    "Contrairement"
+   ],
+   "en": "Contrary to what you say, the project is profitable.",
+   "why": "Contrairement à = contrary to."
+  },
+  {
+   "t": "fill",
+   "q": "Laissez-moi ___, s'il vous plaît. (finish)",
+   "a": [
+    "terminer",
+    "finir"
+   ],
+   "en": "Please let me finish.",
+   "why": "Laisser + infinitive."
+  },
+  {
+   "t": "fill",
+   "q": "Pour toutes ces ___, je vote contre. (reasons)",
+   "a": [
+    "raisons"
+   ],
+   "en": "For all these reasons, I'm voting against.",
+   "why": "A classic conclusion."
+  },
+  {
+   "t": "build",
+   "en": "I am in favour of the tramway.",
+   "a": "Je suis pour le tramway."
+  },
+  {
+   "t": "build",
+   "en": "Admittedly, it's expensive, but it's useful.",
+   "a": "Certes, c'est cher, mais c'est utile."
+  },
+  {
+   "t": "build",
+   "en": "Let's get back to the question.",
+   "a": "Revenons à la question."
+  },
+  {
+   "t": "translate",
+   "en": "That's not quite accurate.",
+   "a": [
+    "Ce n'est pas tout à fait exact.",
+    "Ce n'est pas tout à fait juste.",
+    "C'est pas tout à fait exact."
+   ],
+   "why": "A polite refutation."
+  },
+  {
+   "t": "translate",
+   "en": "Can you give an example?",
+   "a": [
+    "Pouvez-vous donner un exemple?",
+    "Peux-tu donner un exemple?",
+    "Pourriez-vous donner un exemple?",
+    "Est-ce que vous pouvez donner un exemple?",
+    "Est-ce que tu peux donner un exemple?"
+   ],
+   "why": "Asking for clarification."
+  },
+  {
+   "t": "translate",
+   "en": "Consequently, we must act.",
+   "a": [
+    "Par conséquent, nous devons agir.",
+    "Par conséquent, il faut agir.",
+    "Par conséquent, on doit agir.",
+    "C'est pourquoi nous devons agir.",
+    "C'est pourquoi il faut agir."
+   ],
+   "why": "Par conséquent / c'est pourquoi."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "le débat",
+   "en": "debate",
+   "g": "m",
+   "ex": "Le débat était très animé."
+  },
+  {
+   "fr": "l'argument",
+   "en": "argument (point)",
+   "g": "m",
+   "ex": "C'est un argument solide."
+  },
+  {
+   "fr": "l'adversaire",
+   "en": "opponent",
+   "ex": "Mon adversaire n'a pas répondu."
+  },
+  {
+   "fr": "être pour / contre",
+   "en": "to be for / against",
+   "ex": "Je suis contre ce projet."
+  },
+  {
+   "fr": "certes",
+   "en": "admittedly, certainly",
+   "ex": "Certes, c'est difficile."
+  },
+  {
+   "fr": "pourtant",
+   "en": "yet, however",
+   "ex": "Il pleut; pourtant, il fait chaud."
+  },
+  {
+   "fr": "en revanche",
+   "en": "on the other hand",
+   "ex": "En revanche, c'est plus rapide."
+  },
+  {
+   "fr": "par conséquent",
+   "en": "consequently",
+   "ex": "Par conséquent, le prix augmente."
+  },
+  {
+   "fr": "en outre",
+   "en": "moreover, furthermore",
+   "ex": "En outre, le projet crée des emplois."
+  },
+  {
+   "fr": "réfuter",
+   "en": "to refute",
+   "ex": "Il a réfuté chaque argument."
+  },
+  {
+   "fr": "la piste cyclable",
+   "en": "bike lane",
+   "g": "f",
+   "ex": "La piste cyclable est déneigée."
+  },
+  {
+   "fr": "le transport collectif",
+   "en": "public transit",
+   "g": "m",
+   "ex": "Il faut investir dans le transport collectif.",
+   "qc": true
+  },
+  {
+   "fr": "la pénurie de logements",
+   "en": "housing shortage",
+   "g": "f",
+   "ex": "La pénurie de logements touche toute la province."
+  },
+  {
+   "fr": "avoir rapport",
+   "en": "to be relevant",
+   "ex": "Ça a pas rapport avec la question.",
+   "qc": true
+  },
+  {
+   "fr": "charrier",
+   "en": "to exaggerate",
+   "ex": "Arrête de charrier!",
+   "qc": true
+  },
+  {
+   "fr": "pas mal",
+   "en": "quite, pretty (much)",
+   "ex": "C'est pas mal cher.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "certes",
+    "tip": "SÈRT: the final s is silent."
+   },
+   {
+    "fr": "en revanche",
+    "tip": "an ruh-VANSH."
+   },
+   {
+    "fr": "par conséquent",
+    "tip": "par kon-sé-KAN."
+   },
+   {
+    "fr": "en outre",
+    "tip": "a-NOOTR: liaison in [n]."
+   },
+   {
+    "fr": "contrairement",
+    "tip": "kon-trèr-MAN."
+   },
+   {
+    "fr": "ça a pas rapport",
+    "tip": "sa-a pa ra-POR: two a's flow together."
+   }
+  ],
+  "title": "Débat: les pistes cyclables en hiver",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Je suis pour le maintien des pistes cyclables l'hiver. De plus en plus de Montréalais pédalent à l'année.",
+    "en": "I'm in favour of keeping bike lanes in winter. More and more Montrealers cycle all year."
+   },
+   {
+    "s": "B",
+    "fr": "Certes, mais ils sont très peu nombreux en janvier. Par conséquent, on gaspille de l'argent pour le déneigement.",
+    "en": "Admittedly, but there are very few of them in January. Consequently, we're wasting money on snow clearing."
+   },
+   {
+    "s": "A",
+    "fr": "Si je peux me permettre, les chiffres montrent le contraire : l'utilisation augmente chaque hiver.",
+    "en": "If I may, the numbers show the opposite: usage increases every winter."
+   },
+   {
+    "s": "B",
+    "fr": "Laissez-moi terminer. En revanche, les automobilistes, eux, perdent de l'espace.",
+    "en": "Let me finish. On the other hand, drivers lose space."
+   },
+   {
+    "s": "A",
+    "fr": "Je reconnais que c'est un vrai enjeu. Pourtant, chaque cycliste, c'est une voiture de moins.",
+    "en": "I recognise that's a real issue. Yet each cyclist means one car less."
+   },
+   {
+    "s": "B",
+    "fr": "Cet argument ne tient pas la route en pleine tempête!",
+    "en": "That argument doesn't hold up in the middle of a storm!"
+   },
+   {
+    "s": "A",
+    "fr": "Prenons le cas d'Oulu, en Finlande : on y fait du vélo à −20. C'est une question d'infrastructures.",
+    "en": "Take Oulu, Finland: people cycle there at −20. It's a matter of infrastructure."
+   },
+   {
+    "s": "B",
+    "fr": "Bon point. Mais Montréal, ce n'est pas la Finlande.",
+    "en": "Fair point. But Montreal isn't Finland."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What is A's position?",
+    "options": [
+     "Close bike lanes in winter",
+     "Keep bike lanes in winter",
+     "Build more roads"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What is B's main argument?",
+    "options": [
+     "Cycling is dangerous",
+     "Snow clearing wastes money for few cyclists",
+     "Bikes are too expensive"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Which city does A use as an example?",
+    "options": [
+     "Copenhagen",
+     "Oulu",
+     "Toronto"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Choose a local issue and state your position with two numbered arguments (one minute).",
+   "model": "Je suis contre les locations à court terme dans les quartiers résidentiels. Premièrement, elles réduisent le nombre de logements pour les familles. Deuxièmement, elles font monter les loyers. Par conséquent, la ville devrait les limiter."
+  },
+  {
+   "prompt": "Concede one point of the opposite side, then refute it.",
+   "model": "Certes, ces locations rapportent de l'argent aux propriétaires et aux commerces. Cependant, contrairement à ce qu'on dit, les touristes peuvent loger à l'hôtel sans retirer des logements du marché."
+  },
+  {
+   "prompt": "Practise interrupting politely and keeping the floor (two lines each).",
+   "model": "Excusez-moi de vous interrompre, mais vos chiffres datent de 2018. / Laissez-moi terminer, s'il vous plaît, j'y arrive."
+  },
+  {
+   "prompt": "React casually to a friend's exaggerated argument, then agree on one point.",
+   "model": "Là, tu charries! Ça a pas rapport avec le trafic. Mais bon point pour le prix des loyers, chu pas mal d'accord."
+  }
+ ],
+ "write": {
+  "prompt": "Write your opening statement for a debate (8–10 sentences) on a local issue: 'Faut-il construire un tramway dans votre ville?' Include a clear position, three arguments, one concession, and a conclusion, with at least six connectors.",
+  "model": "Je suis pour la construction d'un tramway dans notre ville. D'abord, le tramway peut transporter beaucoup plus de passagers qu'un autobus. Ensuite, il roule à l'électricité, ce qui réduit la pollution. De plus, les villes qui ont construit un tramway, comme Bordeaux, ont vu leur centre-ville revivre. Certes, le projet coûte cher et les travaux vont déranger les commerçants pendant quelques années. Cependant, il s'agit d'un investissement pour les cinquante prochaines années. En revanche, si on ne fait rien, le trafic ne fera qu'empirer. Par conséquent, attendre coûterait encore plus cher. Pour toutes ces raisons, je pense que le tramway est la meilleure solution."
+ },
+ "quiz": [
+  {
+   "q": "What is 'la thèse' in a debate?",
+   "options": [
+    "Your university paper",
+    "Your position",
+    "Your opponent",
+    "The conclusion"
+   ],
+   "a": 1,
+   "why": "The position you defend."
+  },
+  {
+   "q": "Which connector expresses consequence?",
+   "options": [
+    "en revanche",
+    "par conséquent",
+    "certes",
+    "pourtant"
+   ],
+   "a": 1,
+   "why": "Therefore / consequently."
+  },
+  {
+   "q": "'En revanche' is closest to…",
+   "options": [
+    "in revenge",
+    "on the other hand",
+    "again",
+    "in addition"
+   ],
+   "a": 1,
+   "why": "Contrast between two sides."
+  },
+  {
+   "q": "Which is a polite way to keep the floor?",
+   "options": [
+    "Tais-toi!",
+    "Laissez-moi terminer, s'il vous plaît.",
+    "Ça a pas rapport!",
+    "Bon point."
+   ],
+   "a": 1,
+   "why": "Polite and firm."
+  },
+  {
+   "q": "'Ça a pas rapport' means…",
+   "options": [
+    "There's no report.",
+    "That's irrelevant.",
+    "That's not a relationship.",
+    "There's no connection on the phone."
+   ],
+   "a": 1,
+   "why": "Informal Quebec for ce n'est pas pertinent."
+  },
+  {
+   "q": "Which sentence concedes a point?",
+   "options": [
+    "Je reconnais que c'est cher, mais…",
+    "Vous avez tort.",
+    "Laissez-moi finir.",
+    "En conclusion…"
+   ],
+   "a": 0,
+   "why": "Reconnaître que = to acknowledge."
+  },
+  {
+   "q": "'Pas mal' in 'C'est pas mal cher' means…",
+   "options": [
+    "not bad",
+    "quite / pretty",
+    "not at all",
+    "too"
+   ],
+   "a": 1,
+   "why": "Quebec intensifier."
+  },
+  {
+   "q": "What does 'en outre' mean?",
+   "options": [
+    "outside",
+    "moreover",
+    "however",
+    "otherwise"
+   ],
+   "a": 1,
+   "why": "Addition, formal."
+  },
+  {
+   "q": "Which is the best conclusion opener?",
+   "options": [
+    "Premièrement",
+    "Pour toutes ces raisons",
+    "Certes",
+    "Si je peux me permettre"
+   ],
+   "a": 1,
+   "why": "Sums up the arguments."
+  }
+ ]
+}

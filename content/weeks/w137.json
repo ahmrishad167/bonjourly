@@ -1,0 +1,631 @@
+{
+ "w": 137,
+ "title": "Relative pronoun duquel",
+ "goal": "By the end of this lesson you can use duquel, de laquelle, desquels and desquelles after compound prepositions like à côté de, au sujet de and au cours de, and you know exactly when dont is required instead.",
+ "learn": [
+  {
+   "h": "Duquel = de + lequel",
+   "body": [
+    "*Duquel* is the contraction of *de + lequel*. Its forms mirror *auquel*: *duquel, de laquelle, desquels, desquelles*.",
+    "Its main job is to follow a **compound preposition** ending in *de*: *à côté de, près de, au sujet de, à cause de, au cours de, au milieu de, autour de, en face de, loin de, au bout de, à la suite de, lors de*. *Le parc à côté duquel j'habite* = the park I live next to."
+   ],
+   "table": {
+    "head": [
+     "",
+     "Masculine",
+     "Feminine"
+    ],
+    "rows": [
+     [
+      "Singular",
+      "duquel",
+      "de laquelle"
+     ],
+     [
+      "Plural",
+      "desquels",
+      "desquelles"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Dont or duquel?",
+   "body": [
+    "Use *dont* when *de* is attached directly to a verb, adjective or noun: *parler de → le livre dont je parle*; *être fier de → le projet dont je suis fier*; *la couleur de la maison → la maison dont j'aime la couleur*.",
+    "Use *duquel* when *de* is the end of a longer preposition: *près de → l'école près de laquelle j'habite*. *Dont* is impossible here: never *l'école près dont…*",
+    "Also use *duquel* (or *de qui*) when the noun is inside a prepositional phrase: *la compagnie pour le compte de laquelle je travaille* (the company on whose behalf I work)."
+   ],
+   "table": {
+    "head": [
+     "Structure",
+     "Pronoun",
+     "Example"
+    ],
+    "rows": [
+     [
+      "verb + de (parler de)",
+      "dont",
+      "le sujet dont on parle"
+     ],
+     [
+      "adjective + de (fier de)",
+      "dont",
+      "le prix dont elle est fière"
+     ],
+     [
+      "noun + de (le nom de)",
+      "dont",
+      "l'auteur dont j'ai oublié le nom"
+     ],
+     [
+      "compound prep. (à côté de)",
+      "duquel…",
+      "le magasin à côté duquel je travaille"
+     ],
+     [
+      "prep. + noun + de (au nom de)",
+      "duquel / de qui",
+      "l'organisme au nom duquel je parle"
+     ]
+    ]
+   },
+   "tip": "If there are words between the verb and de (près, à côté, au sujet), dont is out: use duquel."
+  },
+  {
+   "h": "People: de qui is possible",
+   "body": [
+    "After a compound preposition, for people you can use *de qui* or *duquel / de laquelle*: *la collègue à côté de qui je suis assis* = *la collègue à côté de laquelle je suis assis*. Both are correct; *de qui* is a little lighter.",
+    "For things, only *duquel* works: *la fenêtre près de laquelle…*, never *près de qui*."
+   ]
+  },
+  {
+   "h": "Interrogative duquel",
+   "body": [
+    "Like *auquel*, *duquel* can ask 'which one' with a *de*-verb: *Tu parles de quel film? — Duquel parles-tu?* *Il y a deux salles. Près de laquelle se trouve la sortie?*"
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Le parc à côté duquel j'habite est très animé l'été.",
+   "en": "The park I live next to is very lively in summer.",
+   "note": "à côté de → duquel"
+  },
+  {
+   "fr": "L'école près de laquelle nous avons acheté une maison est excellente.",
+   "en": "The school near which we bought a house is excellent.",
+   "note": "près de; école f."
+  },
+  {
+   "fr": "La réunion au cours de laquelle la décision a été prise a duré tard.",
+   "en": "The meeting during which the decision was made ran late.",
+   "note": "au cours de"
+  },
+  {
+   "fr": "Voici les raisons à cause desquelles le projet a été annulé.",
+   "en": "Here are the reasons why the project was cancelled.",
+   "note": "à cause de; raisons f. pl."
+  },
+  {
+   "fr": "Le dossier au sujet duquel je vous écris est toujours ouvert.",
+   "en": "The file I am writing to you about is still open.",
+   "note": "au sujet de → duquel; typical of formal letters"
+  },
+  {
+   "fr": "Le lac au bord duquel se trouve notre chalet est gelé.",
+   "en": "The lake on whose shore our cottage stands is frozen.",
+   "note": "au bord de; note the inversion"
+  },
+  {
+   "fr": "Les montagnes au milieu desquelles se trouve le village sont magnifiques.",
+   "en": "The mountains among which the village lies are magnificent.",
+   "note": "au milieu de; montagnes f. pl."
+  },
+  {
+   "fr": "L'immeuble en face duquel je travaille sera démoli.",
+   "en": "The building across from which I work will be demolished.",
+   "note": "en face de"
+  },
+  {
+   "fr": "La table autour de laquelle nous sommes assis vient de ma grand-mère.",
+   "en": "The table we're sitting around came from my grandmother.",
+   "note": "autour de"
+  },
+  {
+   "fr": "La collègue à côté de qui je suis assis parle quatre langues.",
+   "en": "The colleague I sit next to speaks four languages.",
+   "note": "person: de qui (or de laquelle)"
+  },
+  {
+   "fr": "C'est le livre dont je t'ai parlé.",
+   "en": "It's the book I told you about.",
+   "note": "parler de → dont, not duquel"
+  },
+  {
+   "fr": "C'est une réussite dont elle est très fière.",
+   "en": "It's an achievement she's very proud of.",
+   "note": "fier de → dont"
+  },
+  {
+   "fr": "L'organisme au nom duquel je vous écris aide les nouveaux arrivants.",
+   "en": "The organisation on whose behalf I'm writing helps newcomers.",
+   "note": "au nom de → duquel"
+  },
+  {
+   "fr": "La tempête à la suite de laquelle les écoles ont fermé a laissé 40 cm.",
+   "en": "The storm after which the schools closed left 40 cm.",
+   "note": "à la suite de"
+  },
+  {
+   "fr": "Il y a deux candidats. Duquel parles-tu?",
+   "en": "There are two candidates. Which one are you talking about?",
+   "note": "interrogative duquel"
+  },
+  {
+   "fr": "Les événements lors desquels il a pris la parole ont été filmés.",
+   "en": "The events at which he spoke were filmed.",
+   "note": "lors de → desquels"
+  }
+ ],
+ "quebec": {
+  "intro": "Like auquel, duquel is a marker of formal writing. In everyday Quebec speech, the preposition is left stranded at the end of the clause after que, or the sentence is restructured. Understand these, but write the formal version.",
+  "items": [
+   {
+    "std": "le parc à côté duquel j'habite",
+    "qc": "le parc que j'habite à côté",
+    "en": "the park I live next to",
+    "note": "que… à côté is nonstandard; informal speech"
+   },
+   {
+    "std": "l'épicerie en face de laquelle je travaille",
+    "qc": "l'épicerie que je travaille en face",
+    "en": "the grocery store I work across from",
+    "note": "nonstandard; informal"
+   },
+   {
+    "std": "le gars à côté de qui j'étais assis",
+    "qc": "le gars que j'étais assis à côté",
+    "en": "the guy I was sitting next to",
+    "note": "nonstandard; informal"
+   },
+   {
+    "std": "la réunion au cours de laquelle il a parlé",
+    "qc": "la réunion où il a parlé",
+    "en": "the meeting where he spoke",
+    "note": "où is a correct and lighter alternative here"
+   },
+   {
+    "std": "le livre dont je t'ai parlé",
+    "qc": "le livre que je t'ai parlé",
+    "en": "the book I told you about",
+    "note": "que instead of dont: very common in speech, but incorrect in writing"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Le restaurant près ___ j'habite ferme tard.",
+   "options": [
+    "dont",
+    "duquel",
+    "de qui",
+    "auquel"
+   ],
+   "a": 1,
+   "why": "Près de is a compound preposition → duquel."
+  },
+  {
+   "t": "mcq",
+   "q": "Le film ___ tout le monde parle est sorti hier.",
+   "options": [
+    "duquel",
+    "dont",
+    "auquel",
+    "de laquelle"
+   ],
+   "a": 1,
+   "why": "Parler de directly → dont."
+  },
+  {
+   "t": "mcq",
+   "q": "Les rivières au bord ___ nous avons campé étaient froides.",
+   "options": [
+    "duquel",
+    "de laquelle",
+    "desquels",
+    "desquelles"
+   ],
+   "a": 3,
+   "why": "Rivières is feminine plural."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is correct?",
+   "options": [
+    "la maison à côté dont j'habite",
+    "la maison à côté de laquelle j'habite",
+    "la maison à côté duquel j'habite",
+    "la maison à côté que j'habite"
+   ],
+   "a": 1,
+   "why": "Maison f. sg. after à côté de → de laquelle."
+  },
+  {
+   "t": "mcq",
+   "q": "'Le livre que je t'ai parlé' is…",
+   "options": [
+    "correct formal French",
+    "common speech, incorrect in writing",
+    "France-only",
+    "correct after a compound preposition"
+   ],
+   "a": 1,
+   "why": "Parler de requires dont in standard French."
+  },
+  {
+   "t": "fill",
+   "q": "L'immeuble en face ___ je travaille est neuf. (m.)",
+   "a": [
+    "duquel"
+   ],
+   "en": "The building across from which I work is new.",
+   "why": "En face de + masculine singular."
+  },
+  {
+   "t": "fill",
+   "q": "La période au cours de ___ il a vécu ici était difficile.",
+   "a": [
+    "laquelle"
+   ],
+   "en": "The period during which he lived here was difficult.",
+   "why": "Au cours de + feminine singular."
+  },
+  {
+   "t": "fill",
+   "q": "Les arbres autour ___ les enfants jouent sont centenaires.",
+   "a": [
+    "desquels"
+   ],
+   "en": "The trees the children play around are a hundred years old.",
+   "why": "Autour de + masculine plural."
+  },
+  {
+   "t": "fill",
+   "q": "C'est une décision ___ je suis fier. (fier de)",
+   "a": [
+    "dont"
+   ],
+   "en": "It's a decision I'm proud of.",
+   "why": "Adjective + de → dont."
+  },
+  {
+   "t": "build",
+   "en": "the park I live next to",
+   "a": "le parc à côté duquel j'habite"
+  },
+  {
+   "t": "build",
+   "en": "the meeting during which he spoke",
+   "a": "la réunion au cours de laquelle il a parlé"
+  },
+  {
+   "t": "build",
+   "en": "Which one are you talking about?",
+   "a": "Duquel parles-tu?"
+  },
+  {
+   "t": "translate",
+   "en": "the colleague I sit next to",
+   "a": [
+    "la collègue à côté de qui je suis assise",
+    "la collègue à côté de laquelle je suis assise",
+    "le collègue à côté de qui je suis assis",
+    "le collègue à côté duquel je suis assis",
+    "la collègue à côté de qui je suis assis",
+    "le collègue à côté de qui je suis assise",
+    "la collègue à côté de laquelle je suis assis",
+    "le collègue à côté duquel je suis assise"
+   ],
+   "why": "People: de qui or duquel / de laquelle."
+  },
+  {
+   "t": "translate",
+   "en": "the book I told you about",
+   "a": [
+    "le livre dont je t'ai parlé",
+    "le livre dont je vous ai parlé"
+   ],
+   "why": "Parler de → dont."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "duquel / de laquelle",
+   "en": "of which, (near/next to…) which",
+   "ex": "le lac près duquel on campe"
+  },
+  {
+   "fr": "desquels / desquelles",
+   "en": "of which (plural)",
+   "ex": "les raisons à cause desquelles…"
+  },
+  {
+   "fr": "à côté de",
+   "en": "next to",
+   "ex": "J'habite à côté de la piscine."
+  },
+  {
+   "fr": "en face de",
+   "en": "across from, opposite",
+   "ex": "La banque est en face de l'église."
+  },
+  {
+   "fr": "au bord de",
+   "en": "on the edge/shore of",
+   "ex": "un chalet au bord du lac"
+  },
+  {
+   "fr": "au milieu de",
+   "en": "in the middle of, among",
+   "ex": "au milieu de la nuit"
+  },
+  {
+   "fr": "autour de",
+   "en": "around",
+   "ex": "Ils dansent autour du feu."
+  },
+  {
+   "fr": "au sujet de",
+   "en": "about, concerning",
+   "ex": "Je vous écris au sujet de ma facture."
+  },
+  {
+   "fr": "à la suite de",
+   "en": "following, after",
+   "ex": "À la suite de la tempête, l'école a fermé."
+  },
+  {
+   "fr": "au nom de",
+   "en": "on behalf of, in the name of",
+   "ex": "Je parle au nom de l'équipe."
+  },
+  {
+   "fr": "le chalet",
+   "en": "cottage, cabin",
+   "g": "m",
+   "ex": "On va au chalet en fin de semaine."
+  },
+  {
+   "fr": "démolir",
+   "en": "to demolish",
+   "ex": "Ils vont démolir l'ancienne usine."
+  },
+  {
+   "fr": "centenaire",
+   "en": "hundred-year-old; centenarian",
+   "ex": "un arbre centenaire"
+  },
+  {
+   "fr": "l'organisme",
+   "en": "organisation (non-profit)",
+   "g": "m",
+   "ex": "un organisme communautaire",
+   "qc": true
+  },
+  {
+   "fr": "le nouvel arrivant / la nouvelle arrivante",
+   "en": "newcomer",
+   "ex": "L'organisme aide les nouveaux arrivants."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "duquel",
+    "tip": "[du-KÈL]."
+   },
+   {
+    "fr": "de laquelle",
+    "tip": "[duh la-KÈL]; fast: [d'la-KÈL]."
+   },
+   {
+    "fr": "desquels / desquelles",
+    "tip": "Both [dé-KÈL]."
+   },
+   {
+    "fr": "à côté duquel",
+    "tip": "[a ko-té du-KÈL]."
+   },
+   {
+    "fr": "en face de laquelle",
+    "tip": "[an fass d'la-KÈL]."
+   },
+   {
+    "fr": "au cours de laquelle",
+    "tip": "[o kour d'la-KÈL]: the de nearly vanishes."
+   }
+  ],
+  "title": "Visite d'un appartement",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Voici le salon. La fenêtre près de laquelle vous voyez le radiateur donne sur le parc.",
+    "en": "Here's the living room. The window you see the radiator next to looks out on the park."
+   },
+   {
+    "s": "B",
+    "fr": "Le parc La Fontaine?",
+    "en": "La Fontaine Park?"
+   },
+   {
+    "s": "A",
+    "fr": "Oui, celui au milieu duquel il y a l'étang. L'hiver, on y patine.",
+    "en": "Yes, the one with the pond in the middle. In winter, people skate there."
+   },
+   {
+    "s": "B",
+    "fr": "Et l'immeuble en face, c'est quoi?",
+    "en": "And the building across the street, what's that?"
+   },
+   {
+    "s": "A",
+    "fr": "C'est l'école à côté de laquelle passe l'autobus 24.",
+    "en": "It's the school next to which the 24 bus runs."
+   },
+   {
+    "s": "B",
+    "fr": "Parfait. C'est exactement le quartier dont je rêvais.",
+    "en": "Perfect. It's exactly the neighbourhood I was dreaming of."
+   },
+   {
+    "s": "A",
+    "fr": "Il y a deux appartements libres, le 3 et le 5. Duquel voulez-vous voir le bail?",
+    "en": "There are two free apartments, number 3 and number 5. Which one do you want to see the lease for?"
+   },
+   {
+    "s": "B",
+    "fr": "Celui du 3, celui avec la belle fenêtre.",
+    "en": "Number 3, the one with the nice window."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What is in the middle of the park?",
+    "options": [
+     "A fountain",
+     "A pond",
+     "A school"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Which bus passes next to the school?",
+    "options": [
+     "The 24",
+     "The 55",
+     "The 3"
+    ],
+    "a": 0
+   },
+   {
+    "q": "Which apartment does B choose?",
+    "options": [
+     "Number 3",
+     "Number 5",
+     "Neither"
+    ],
+    "a": 0
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Describe where you live using three compound prepositions + duquel / de laquelle.",
+   "model": "J'habite un immeuble à côté duquel il y a un dépanneur. La rue au bout de laquelle je vis mène au fleuve. Le parc en face duquel on stationne est plein d'enfants."
+  },
+  {
+   "prompt": "Contrast dont and duquel in two sentences about your work.",
+   "model": "C'est le projet dont je suis le plus fier. C'est le bureau à côté duquel j'ai travaillé pendant cinq ans."
+  },
+  {
+   "prompt": "Make this formal: 'C'est le dépanneur que je reste en face, pis le gars que j'étais assis à côté.'",
+   "model": "C'est le dépanneur en face duquel j'habite, et l'homme à côté de qui j'étais assis."
+  }
+ ],
+ "write": {
+  "prompt": "Write a short description (5–6 sentences) of a place that matters to you, using at least four forms of duquel and one dont.",
+  "model": "Le chalet de mes parents se trouve au bord d'un petit lac des Laurentides. La forêt au milieu de laquelle il est construit appartient à la municipalité. Il y a un vieux quai au bout duquel on plongeait, enfants. Les soirées au cours desquelles on chantait autour du feu sont mes plus beaux souvenirs. C'est un endroit dont je rêve souvent. La pierre près de laquelle mon père a planté un érable est toujours là."
+ },
+ "quiz": [
+  {
+   "q": "'Duquel' is a contraction of…",
+   "options": [
+    "de + quel",
+    "de + lequel",
+    "du + que",
+    "de + le + quel"
+   ],
+   "a": 1,
+   "why": "De + lequel = duquel."
+  },
+  {
+   "q": "When must you use duquel rather than dont?",
+   "options": [
+    "After a simple verb + de",
+    "After a compound preposition like près de",
+    "With people only",
+    "Never"
+   ],
+   "a": 1,
+   "why": "Dont can't follow a compound preposition."
+  },
+  {
+   "q": "'La rue au bout de ___ j'habite'",
+   "options": [
+    "duquel",
+    "laquelle",
+    "dont",
+    "qui"
+   ],
+   "a": 1,
+   "why": "Au bout de + feminine singular: de laquelle."
+  },
+  {
+   "q": "'L'outil ___ j'ai besoin'",
+   "options": [
+    "duquel",
+    "dont",
+    "auquel",
+    "lequel"
+   ],
+   "a": 1,
+   "why": "Avoir besoin de → dont."
+  },
+  {
+   "q": "For a person after à côté de, which is also correct?",
+   "options": [
+    "à côté dont",
+    "à côté de qui",
+    "à côté que",
+    "à côté où"
+   ],
+   "a": 1,
+   "why": "De qui works for people."
+  },
+  {
+   "q": "Which is the plural feminine form?",
+   "options": [
+    "desquels",
+    "desquelles",
+    "de lesquelles",
+    "duquelles"
+   ],
+   "a": 1,
+   "why": "De + lesquelles = desquelles."
+  },
+  {
+   "q": "'Le parc que j'habite à côté' is…",
+   "options": [
+    "formal written French",
+    "informal, nonstandard speech",
+    "a mistake for auquel",
+    "correct in all registers"
+   ],
+   "a": 1,
+   "why": "Formal: le parc à côté duquel j'habite."
+  },
+  {
+   "q": "'L'organisme au nom duquel je parle' means…",
+   "options": [
+    "the organisation I talk about",
+    "the organisation on whose behalf I speak",
+    "the organisation's name",
+    "the organisation near me"
+   ],
+   "a": 1,
+   "why": "Au nom de = on behalf of."
+  }
+ ]
+}

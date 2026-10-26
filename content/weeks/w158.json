@@ -1,0 +1,611 @@
+{
+ "w": 158,
+ "title": "Summarising and synthesising texts",
+ "goal": "By the end of this lesson you can write a concise summary of a French text in your own words, and combine two articles into one structured synthesis that compares their points of view.",
+ "learn": [
+  {
+   "h": "Résumé vs synthèse",
+   "body": [
+    "A *résumé* condenses one text: same order of ideas, about a quarter or a third of the length, no personal opinion, and in your own words.",
+    "A *synthèse* combines several documents around a question. You don't summarise each text one after the other; you organise by themes and show where the sources agree or disagree."
+   ],
+   "table": {
+    "head": [
+     "",
+     "Résumé",
+     "Synthèse"
+    ],
+    "rows": [
+     [
+      "Sources",
+      "one text",
+      "two or more documents"
+     ],
+     [
+      "Structure",
+      "follows the text",
+      "organised by themes"
+     ],
+     [
+      "Opinion",
+      "none",
+      "none (unless asked)"
+     ],
+     [
+      "Key skill",
+      "condensing, rewording",
+      "comparing, connecting"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Reformulating: say it in your own words",
+   "body": [
+    "Replace examples with general ideas, lists with a category (*les pommes, les poires et les bananes* → *les fruits*), and long phrases with nouns (nominalisation): *Le gouvernement a décidé d'augmenter les tarifs* → *la hausse des tarifs décidée par le gouvernement*.",
+    "Common nominalisations: *augmenter → l'augmentation / la hausse*, *baisser → la baisse*, *réduire → la réduction*, *construire → la construction*, *refuser → le refus*, *développer → le développement*."
+   ],
+   "tip": "Nominalisation is the B2 writer's best friend: shorter, more formal, easier to connect."
+  },
+  {
+   "h": "Reporting the source",
+   "body": [
+    "Attribute ideas precisely: *L'auteur affirme / soutient / souligne / rappelle / déplore / met en garde contre / remet en question…* Each verb carries nuance: *souligner* (to stress), *déplorer* (to regret), *remettre en question* (to challenge), *nuancer* (to qualify).",
+    "Use *selon*, *d'après*, *pour* + name: *Selon La Presse…*, *Pour l'économiste…*. In a synthesis, connect sources: *Les deux articles s'accordent sur…*, *Contrairement au premier, le second…*, *Alors que A insiste sur…, B met plutôt l'accent sur…*"
+   ]
+  },
+  {
+   "h": "Writing the synthesis",
+   "body": [
+    "1. Read both texts, note their main ideas in a grid (theme by theme). 2. Find the common ground and the differences. 3. Write a short introduction presenting the documents and the question. 4. Write two or three thematic paragraphs. 5. Conclude with the overall picture, without adding new information or your opinion.",
+    "Keep a neutral tone: no *je*, no exclamation marks, no rhetorical questions."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "L'auteur soutient que le télétravail améliore la productivité.",
+   "en": "The author argues that remote work improves productivity.",
+   "note": "soutenir que = to argue"
+  },
+  {
+   "fr": "La journaliste souligne l'importance de la formation continue.",
+   "en": "The journalist stresses the importance of continuing education.",
+   "note": "souligner + noun"
+  },
+  {
+   "fr": "Le texte met en garde contre une hausse trop rapide des loyers.",
+   "en": "The text warns against rents rising too fast.",
+   "note": "mettre en garde contre + noun"
+  },
+  {
+   "fr": "Les deux articles s'accordent sur la gravité de la pénurie de main-d'œuvre.",
+   "en": "Both articles agree on the seriousness of the labour shortage.",
+   "note": "s'accorder sur = to agree on"
+  },
+  {
+   "fr": "Contrairement au premier document, le second insiste sur les coûts.",
+   "en": "Unlike the first document, the second focuses on costs.",
+   "note": "contrast between sources"
+  },
+  {
+   "fr": "Alors que La Presse insiste sur les risques, Le Devoir met l'accent sur les occasions.",
+   "en": "Whereas La Presse stresses the risks, Le Devoir emphasises the opportunities.",
+   "note": "alors que to compare sources"
+  },
+  {
+   "fr": "Le gouvernement a décidé de réduire les impôts. → La réduction des impôts décidée par le gouvernement…",
+   "en": "The government decided to cut taxes. → The tax cut decided by the government…",
+   "note": "nominalisation"
+  },
+  {
+   "fr": "L'économiste remet en question l'efficacité de cette mesure.",
+   "en": "The economist questions the effectiveness of this measure.",
+   "note": "remettre en question = to challenge"
+  },
+  {
+   "fr": "D'après l'étude, un Québécois sur cinq vit seul.",
+   "en": "According to the study, one Quebecer in five lives alone.",
+   "note": "d'après = according to"
+  },
+  {
+   "fr": "L'article déplore le manque de consultation publique.",
+   "en": "The article regrets the lack of public consultation.",
+   "note": "déplorer = to deplore, regret"
+  },
+  {
+   "fr": "En somme, les deux sources dressent un portrait nuancé de la situation.",
+   "en": "Overall, the two sources paint a nuanced picture of the situation.",
+   "note": "dresser un portrait = to paint a picture"
+  },
+  {
+   "fr": "Le premier texte aborde la question sous l'angle économique.",
+   "en": "The first text approaches the question from an economic angle.",
+   "note": "aborder sous l'angle de"
+  },
+  {
+   "fr": "Les auteurs divergent quant aux solutions à apporter.",
+   "en": "The authors differ as to the solutions to adopt.",
+   "note": "quant à = as to, regarding"
+  },
+  {
+   "fr": "Ce texte vise à sensibiliser le public aux changements climatiques.",
+   "en": "This text aims to raise public awareness of climate change.",
+   "note": "viser à + infinitive; changements climatiques is the usual Quebec term"
+  },
+  {
+   "fr": "Le second article nuance ce constat.",
+   "en": "The second article qualifies this observation.",
+   "note": "nuancer = to qualify"
+  }
+ ],
+ "quebec": {
+  "intro": "This lesson's Quebec task: take two Quebec articles on the same issue (for example, one from La Presse and one from Le Devoir) and merge them into one summary. Summaries are written in standard French, but you need to reword Quebec-specific terms and informal quotes found in the articles.",
+  "items": [
+   {
+    "std": "Les consommateurs critiquent l'augmentation des prix.",
+    "qc": "« C'est rendu ben trop cher! », lance une cliente.",
+    "en": "Consumers criticise the price increase.",
+    "note": "Reword informal quotes into neutral reported speech in a summary"
+   },
+   {
+    "std": "La pénurie de logements touche Montréal.",
+    "qc": "La crise du logement frappe la métropole.",
+    "en": "The housing shortage is hitting Montreal.",
+    "note": "'la métropole' = Montreal in Quebec media; name it in your summary"
+   },
+   {
+    "std": "Le gouvernement du Québec annonce un plan.",
+    "qc": "Québec annonce un plan.",
+    "en": "The Quebec government announces a plan.",
+    "note": "Clarify the metonymy in a summary for outside readers"
+   },
+   {
+    "std": "Les déménagements du 1er juillet causent des difficultés.",
+    "qc": "Le 1er juillet, c'est le chaos des déménagements.",
+    "en": "July 1st moves cause difficulties.",
+    "note": "July 1st is Quebec's traditional moving day; explain it if needed"
+   },
+   {
+    "std": "Selon un sondage, 60 % des locataires sont inquiets.",
+    "qc": "Six locataires sur dix sont inquiets, selon un sondage Léger.",
+    "en": "According to a poll, 60% of tenants are worried.",
+    "note": "Léger is a major Quebec polling firm; keep the source in a synthesis"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "A 'synthèse' is organised…",
+   "options": [
+    "text by text",
+    "by themes",
+    "chronologically only",
+    "by length"
+   ],
+   "a": 1,
+   "why": "A synthesis groups ideas by theme across sources."
+  },
+  {
+   "t": "mcq",
+   "q": "Which belongs in a résumé?",
+   "options": [
+    "Your opinion",
+    "Rhetorical questions",
+    "The author's main ideas in your own words",
+    "Long quotations"
+   ],
+   "a": 2,
+   "why": "A résumé is neutral and reworded."
+  },
+  {
+   "t": "mcq",
+   "q": "Nominalise 'refuser':",
+   "options": [
+    "le refusal",
+    "le refus",
+    "la refusation",
+    "le refusement"
+   ],
+   "a": 1,
+   "why": "refuser → le refus."
+  },
+  {
+   "t": "mcq",
+   "q": "'Mettre en garde contre' means…",
+   "options": [
+    "to guard",
+    "to warn against",
+    "to put away",
+    "to fight against"
+   ],
+   "a": 1,
+   "why": "mettre en garde = to warn."
+  },
+  {
+   "t": "fill",
+   "q": "Les deux articles s'___ sur l'urgence de la situation.",
+   "a": [
+    "accordent",
+    "entendent"
+   ],
+   "en": "Both articles agree on the urgency of the situation.",
+   "why": "s'accorder sur = to agree on."
+  },
+  {
+   "t": "fill",
+   "q": "___ au premier texte, le second est optimiste.",
+   "a": [
+    "Contrairement"
+   ],
+   "en": "Unlike the first text, the second is optimistic.",
+   "why": "contrairement à = unlike."
+  },
+  {
+   "t": "fill",
+   "q": "augmenter les prix → l'___ des prix",
+   "a": [
+    "augmentation"
+   ],
+   "en": "the increase in prices",
+   "why": "Nominalisation of augmenter."
+  },
+  {
+   "t": "fill",
+   "q": "L'auteur ___ en question la réforme.",
+   "a": [
+    "remet"
+   ],
+   "en": "The author challenges the reform.",
+   "why": "remettre en question."
+  },
+  {
+   "t": "fill",
+   "q": "Les auteurs divergent ___ aux solutions.",
+   "a": [
+    "quant"
+   ],
+   "en": "The authors differ as to the solutions.",
+   "why": "quant à = as to."
+  },
+  {
+   "t": "build",
+   "en": "The author stresses the importance of education.",
+   "a": "L'auteur souligne l'importance de l'éducation."
+  },
+  {
+   "t": "build",
+   "en": "According to the study, prices are rising.",
+   "a": "D'après l'étude, les prix augmentent."
+  },
+  {
+   "t": "build",
+   "en": "The text aims to inform the public.",
+   "a": "Le texte vise à informer le public."
+  },
+  {
+   "t": "translate",
+   "en": "The two sources disagree.",
+   "a": [
+    "Les deux sources divergent.",
+    "Les deux sources ne s'accordent pas.",
+    "Les deux sources sont en désaccord.",
+    "Les deux sources ne sont pas d'accord."
+   ],
+   "why": "diverger / ne pas s'accorder."
+  },
+  {
+   "t": "translate",
+   "en": "The article regrets the lack of consultation.",
+   "a": [
+    "L'article déplore le manque de consultation.",
+    "L'article regrette le manque de consultation.",
+    "L'article déplore l'absence de consultation."
+   ],
+   "why": "déplorer is the most precise reporting verb."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "le résumé",
+   "en": "summary",
+   "g": "m",
+   "ex": "Fais un résumé de cent mots."
+  },
+  {
+   "fr": "la synthèse",
+   "en": "synthesis",
+   "g": "f",
+   "ex": "La synthèse compare trois documents."
+  },
+  {
+   "fr": "reformuler",
+   "en": "to rephrase",
+   "ex": "Reformule l'idée avec tes propres mots."
+  },
+  {
+   "fr": "la nominalisation",
+   "en": "nominalisation (verb → noun)",
+   "g": "f",
+   "ex": "La nominalisation rend le texte plus concis."
+  },
+  {
+   "fr": "soutenir que",
+   "en": "to argue that",
+   "ex": "Elle soutient que la mesure est injuste."
+  },
+  {
+   "fr": "souligner",
+   "en": "to stress, underline",
+   "ex": "Le rapport souligne les progrès accomplis."
+  },
+  {
+   "fr": "déplorer",
+   "en": "to deplore, regret",
+   "ex": "Les parents déplorent la fermeture de l'école."
+  },
+  {
+   "fr": "mettre en garde contre",
+   "en": "to warn against",
+   "ex": "Les médecins mettent en garde contre la chaleur."
+  },
+  {
+   "fr": "remettre en question",
+   "en": "to question, challenge",
+   "ex": "Cette étude remet en question nos certitudes."
+  },
+  {
+   "fr": "s'accorder sur",
+   "en": "to agree on",
+   "ex": "Les experts s'accordent sur un point."
+  },
+  {
+   "fr": "diverger",
+   "en": "to differ, diverge",
+   "ex": "Leurs opinions divergent sur ce sujet."
+  },
+  {
+   "fr": "quant à",
+   "en": "as for, regarding",
+   "ex": "Quant au budget, il reste à préciser."
+  },
+  {
+   "fr": "dresser un portrait",
+   "en": "to paint a picture",
+   "ex": "L'article dresse un portrait sombre de l'économie."
+  },
+  {
+   "fr": "la métropole",
+   "en": "the metropolis (Montreal, in Quebec media)",
+   "g": "f",
+   "ex": "La métropole accueille 500 000 touristes.",
+   "qc": true
+  },
+  {
+   "fr": "le sondage",
+   "en": "poll, survey",
+   "g": "m",
+   "ex": "Le dernier sondage place le parti en tête."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "synthèse",
+    "tip": "sin-TÈZ: th sounds like t."
+   },
+   {
+    "fr": "nominalisation",
+    "tip": "no-mi-na-li-za-SYON."
+   },
+   {
+    "fr": "quant à",
+    "tip": "kan-TA: liaison in [t]."
+   },
+   {
+    "fr": "remettre en question",
+    "tip": "ruh-mè-tran-kès-TYON."
+   },
+   {
+    "fr": "divergent",
+    "tip": "As a verb (ils divergent), the -ent is silent: di-VÈRJ."
+   },
+   {
+    "fr": "souligner",
+    "tip": "soo-li-NYÉ."
+   }
+  ],
+  "title": "Deux articles, une synthèse",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Pour le cours, je dois faire une synthèse de deux articles sur le 1er juillet.",
+    "en": "For class, I have to synthesise two articles on July 1st."
+   },
+   {
+    "s": "B",
+    "fr": "Lesquels?",
+    "en": "Which ones?"
+   },
+   {
+    "s": "A",
+    "fr": "Un de La Presse sur les familles sans logement, et un du Devoir sur les propriétaires.",
+    "en": "One from La Presse on families without housing, and one from Le Devoir on landlords."
+   },
+   {
+    "s": "B",
+    "fr": "Commence par un tableau : les thèmes en lignes, les articles en colonnes.",
+    "en": "Start with a grid: themes in rows, articles in columns."
+   },
+   {
+    "s": "A",
+    "fr": "Bonne idée. Les deux s'accordent sur la gravité de la crise, mais ils divergent quant aux causes.",
+    "en": "Good idea. Both agree on how serious the crisis is, but they differ as to the causes."
+   },
+   {
+    "s": "B",
+    "fr": "Parfait, ça te fait déjà deux paragraphes. Et évite de résumer un article puis l'autre.",
+    "en": "Perfect, that already gives you two paragraphs. And avoid summarising one article and then the other."
+   },
+   {
+    "s": "A",
+    "fr": "Et je donne mon opinion à la fin?",
+    "en": "And do I give my opinion at the end?"
+   },
+   {
+    "s": "B",
+    "fr": "Non, une synthèse reste neutre. Ta conclusion fait juste le bilan.",
+    "en": "No, a synthesis stays neutral. Your conclusion just sums things up."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What topic are the articles about?",
+    "options": [
+     "Snow removal",
+     "July 1st moving day and housing",
+     "Public transit"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does B suggest as a first step?",
+    "options": [
+     "A grid of themes and articles",
+     "Reading a third article",
+     "Writing the conclusion first"
+    ],
+    "a": 0
+   },
+   {
+    "q": "Should A give an opinion?",
+    "options": [
+     "Yes, at the end",
+     "Yes, throughout",
+     "No, a synthesis stays neutral"
+    ],
+    "a": 2
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Summarise orally, in 3–4 sentences, an article you read this lesson.",
+   "model": "L'article porte sur la pénurie de main-d'œuvre en région. L'auteur souligne que les entreprises peinent à recruter. Il propose d'attirer davantage d'immigrants dans les petites villes. Il conclut que la survie de certaines industries en dépend."
+  },
+  {
+   "prompt": "Compare two sources on the same topic using alors que and contrairement à.",
+   "model": "Alors que le premier article insiste sur les coûts du tramway, le second met l'accent sur ses avantages environnementaux. Contrairement au premier, il juge le projet indispensable."
+  },
+  {
+   "prompt": "Nominalise these and use them in a sentence: augmenter, réduire, construire.",
+   "model": "L'augmentation des loyers, la réduction des services et la construction lente de logements aggravent la crise."
+  }
+ ],
+ "write": {
+  "prompt": "Write a synthesis (150–180 words) of two imaginary articles on the same issue (e.g. one praising, one criticising a new bike-path network). Introduction, two thematic paragraphs, neutral conclusion.",
+  "model": "Deux articles récents, l'un publié dans La Presse et l'autre dans Le Devoir, abordent le développement du réseau cyclable montréalais. Les deux textes s'accordent sur un constat : le nombre de cyclistes a fortement augmenté depuis cinq ans. Ils soulignent également que la sécurité demeure une préoccupation majeure, surtout aux intersections. En revanche, ils divergent quant aux conséquences pour les commerces. Alors que le premier article rapporte une baisse de l'achalandage dans certaines rues commerçantes, le second cite une étude selon laquelle les cyclistes dépensent davantage dans les commerces de proximité. Le premier texte met en garde contre une implantation trop rapide, tandis que le second déplore au contraire la lenteur des travaux. En somme, les deux sources dressent un portrait nuancé : si l'essor du vélo fait consensus, ses effets économiques restent débattus."
+ },
+ "quiz": [
+  {
+   "q": "A résumé should be…",
+   "options": [
+    "longer than the text",
+    "about a quarter to a third of the text",
+    "the same length",
+    "one sentence always"
+   ],
+   "a": 1,
+   "why": "Condense without losing the main ideas."
+  },
+  {
+   "q": "In a synthesis you should avoid…",
+   "options": [
+    "comparing sources",
+    "summarising each text one after the other",
+    "a neutral tone",
+    "an introduction"
+   ],
+   "a": 1,
+   "why": "Organise by themes, not text by text."
+  },
+  {
+   "q": "'Souligner' means…",
+   "options": [
+    "to underline / stress",
+    "to hide",
+    "to summarise",
+    "to soften"
+   ],
+   "a": 0,
+   "why": "souligner = to stress."
+  },
+  {
+   "q": "Nominalise 'construire':",
+   "options": [
+    "la construction",
+    "le constructeur",
+    "la construisure",
+    "le construit"
+   ],
+   "a": 0,
+   "why": "construire → la construction."
+  },
+  {
+   "q": "In Quebec media, 'la métropole' usually means…",
+   "options": [
+    "Quebec City",
+    "Montreal",
+    "Toronto",
+    "Paris"
+   ],
+   "a": 1,
+   "why": "Montreal is 'la métropole'; Quebec City is 'la capitale nationale'."
+  },
+  {
+   "q": "'Quant à' means…",
+   "options": [
+    "how much",
+    "as for / regarding",
+    "when",
+    "although"
+   ],
+   "a": 1,
+   "why": "quant à la question = as for the question."
+  },
+  {
+   "q": "Which verb shows the author challenges something?",
+   "options": [
+    "souligner",
+    "rappeler",
+    "remettre en question",
+    "présenter"
+   ],
+   "a": 2,
+   "why": "remettre en question = to challenge."
+  },
+  {
+   "q": "How should you handle an informal quote in a summary?",
+   "options": [
+    "Copy it word for word",
+    "Reword it in neutral reported speech",
+    "Translate it into English",
+    "Delete the source"
+   ],
+   "a": 1,
+   "why": "Summaries use your own neutral words."
+  },
+  {
+   "q": "Which sentence fits a neutral synthesis?",
+   "options": [
+    "J'adore cette idée!",
+    "Les deux sources s'accordent sur ce point.",
+    "Franchement, c'est n'importe quoi.",
+    "Qui pourrait croire ça?"
+   ],
+   "a": 1,
+   "why": "No je, no exclamations, no rhetorical questions."
+  }
+ ]
+}

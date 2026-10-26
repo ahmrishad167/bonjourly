@@ -1,0 +1,645 @@
+{
+ "w": 63,
+ "title": "Housing and renting",
+ "goal": "By the end of this lesson you can describe a home, read a Quebec apartment ad (3½, 4½, chauffé, semi-meublé), ask a landlord the right questions, and understand the basics of the lease and moving day on July 1.",
+ "learn": [
+  {
+   "h": "Rooms and parts of a home",
+   "body": [
+    "*Le logement* or *l'appartement* (apartment), *la maison* (house), *le condo*. Rooms: *la cuisine, le salon, la salle à manger, la chambre (à coucher), la salle de bain, le sous-sol* (basement), *le grenier* (attic).",
+    "Describe with *il y a* and adjectives: *Il y a deux chambres et une grande cuisine. Le salon est éclairé* (bright). *L'appartement est au deuxième étage.*"
+   ]
+  },
+  {
+   "h": "Reading a Quebec apartment ad: 3½, 4½",
+   "body": [
+    "Quebec ads count rooms, not bedrooms. The kitchen, living room and each bedroom count as one room; the **bathroom counts as a half**. So a *3½* (*trois et demie*) has one bedroom, and a *4½* (*quatre et demie*) has two.",
+    "Other ad words: *chauffé* (heating included), *éclairé* (electricity included), *semi-meublé* (with fridge and stove), *meublé* (furnished), *entrée laveuse-sécheuse* (washer-dryer hookups), *animaux acceptés / non acceptés*, *libre le 1er juillet* (available July 1)."
+   ],
+   "table": {
+    "head": [
+     "Ad",
+     "Rooms",
+     "Bedrooms"
+    ],
+    "rows": [
+     [
+      "1½",
+      "one main room + bathroom",
+      "studio"
+     ],
+     [
+      "3½",
+      "kitchen, living room, 1 bedroom + bathroom",
+      "1"
+     ],
+     [
+      "4½",
+      "kitchen, living room, 2 bedrooms + bathroom",
+      "2"
+     ],
+     [
+      "5½",
+      "kitchen, living room, 3 bedrooms + bathroom",
+      "3"
+     ]
+    ]
+   },
+   "tip": "Bedrooms = number − 2 (for 3½ and up)."
+  },
+  {
+   "h": "The lease and the landlord",
+   "body": [
+    "*Louer* (to rent), *le / la locataire* (tenant), *le / la propriétaire* (landlord, owner; informally *le proprio*), *le loyer* (rent), *le bail* (lease; plural *les baux*), *signer le bail*, *renouveler le bail*, *une augmentation de loyer*.",
+    "In Quebec, the lease is a standard form, and disputes go to the *Tribunal administratif du logement* (TAL). A landlord cannot ask for a security deposit (*un dépôt*): only the first month's rent."
+   ]
+  },
+  {
+   "h": "July 1: moving day",
+   "body": [
+    "Most leases in Quebec end on June 30, so a huge number of people move on **July 1** (*le jour du déménagement*, also Canada Day). Trucks are booked months ahead, and streets fill with furniture and abandoned couches.",
+    "Vocabulary: *déménager* (to move), *le déménagement* (the move), *les boîtes* (boxes), *le camion de déménagement*, *les déménageurs* (movers), *emménager* (to move in)."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Je cherche un 4½ dans Rosemont.",
+   "en": "I'm looking for a two-bedroom apartment in Rosemont.",
+   "note": "said: un quatre et demie"
+  },
+  {
+   "fr": "C'est un 3½ chauffé, éclairé, à mille cent dollars par mois.",
+   "en": "It's a one-bedroom, heat and electricity included, for $1,100 a month.",
+   "note": "typical ad wording"
+  },
+  {
+   "fr": "L'appartement est semi-meublé: il y a un frigo et une cuisinière.",
+   "en": "The apartment is semi-furnished: there's a fridge and a stove.",
+   "note": "semi-meublé"
+  },
+  {
+   "fr": "Est-ce que les animaux sont acceptés?",
+   "en": "Are pets allowed?",
+   "note": "key question for a landlord"
+  },
+  {
+   "fr": "Le bail commence le premier juillet.",
+   "en": "The lease starts on July 1.",
+   "note": "le premier juillet"
+  },
+  {
+   "fr": "On a signé le bail hier.",
+   "en": "We signed the lease yesterday.",
+   "note": "passé composé"
+  },
+  {
+   "fr": "Le propriétaire habite au rez-de-chaussée.",
+   "en": "The landlord lives on the ground floor.",
+   "note": "common in duplexes and triplexes"
+  },
+  {
+   "fr": "La cuisine est plus grande que celle de mon ancien appartement.",
+   "en": "The kitchen is bigger than the one in my old apartment.",
+   "note": "comparative + celle de"
+  },
+  {
+   "fr": "Il y a une galerie en arrière avec une vue sur la ruelle.",
+   "en": "There's a balcony at the back with a view of the alley.",
+   "note": "galerie = balcony / porch in Quebec"
+  },
+  {
+   "fr": "L'escalier extérieur est glissant en hiver.",
+   "en": "The outside staircase is slippery in winter.",
+   "note": "Montreal's famous outdoor staircases"
+  },
+  {
+   "fr": "Le loyer a augmenté de trois pour cent cette année.",
+   "en": "The rent went up three percent this year.",
+   "note": "augmenter de"
+  },
+  {
+   "fr": "On déménage le premier juillet, comme tout le monde!",
+   "en": "We're moving on July 1, like everyone!",
+   "note": "moving day"
+  },
+  {
+   "fr": "J'ai réservé le camion il y a trois mois.",
+   "en": "I booked the truck three months ago.",
+   "note": "il y a + time = ago"
+  },
+  {
+   "fr": "Est-ce que le stationnement est inclus?",
+   "en": "Is parking included?",
+   "note": "inclus / incluse"
+  },
+  {
+   "fr": "La laveuse et la sécheuse sont au sous-sol.",
+   "en": "The washer and dryer are in the basement.",
+   "note": "laveuse / sécheuse: Quebec words"
+  },
+  {
+   "fr": "Quand est-ce que je peux visiter le logement?",
+   "en": "When can I visit the apartment?",
+   "note": "visiter = view (an apartment)"
+  }
+ ],
+ "quebec": {
+  "intro": "Renting in Quebec has its own system and vocabulary: apartments are counted in rooms (3½, 4½), the lease ('le bail') usually runs from July 1 to June 30, and July 1 is the province's moving day. Informally, the landlord is 'le proprio' and an apartment building is 'un bloc'.",
+  "items": [
+   {
+    "std": "un appartement d'une chambre",
+    "qc": "un 3½ (un trois et demie)",
+    "en": "a one-bedroom apartment",
+    "note": "standard Quebec ad wording"
+   },
+   {
+    "std": "un appartement de deux chambres",
+    "qc": "un 4½ (un quatre et demie)",
+    "en": "a two-bedroom apartment",
+    "note": "the bathroom counts as a half room"
+   },
+   {
+    "std": "le propriétaire",
+    "qc": "le proprio",
+    "en": "the landlord",
+    "note": "informal"
+   },
+   {
+    "std": "un immeuble d'appartements",
+    "qc": "un bloc",
+    "en": "an apartment building",
+    "note": "informal"
+   },
+   {
+    "std": "un balcon",
+    "qc": "une galerie",
+    "en": "a balcony, porch",
+    "note": "galerie is the normal Quebec word"
+   },
+   {
+    "std": "Nous déménageons le 1er juillet.",
+    "qc": "On déménage le premier juillet, comme toute la gang.",
+    "en": "We're moving on July 1, like everybody.",
+    "note": "la gang = the group; informal"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "How many bedrooms does a 4½ have?",
+   "options": [
+    "One",
+    "Two",
+    "Three",
+    "Four"
+   ],
+   "a": 1,
+   "why": "Kitchen + living room + 2 bedrooms + half (bathroom)."
+  },
+  {
+   "t": "mcq",
+   "q": "'Chauffé' in an ad means…",
+   "options": [
+    "hot in summer",
+    "heating included",
+    "with a fireplace",
+    "air-conditioned"
+   ],
+   "a": 1,
+   "why": "Chauffé = heating included in the rent."
+  },
+  {
+   "t": "mcq",
+   "q": "'Le bail' is…",
+   "options": [
+    "the rent",
+    "the lease",
+    "the landlord",
+    "the deposit"
+   ],
+   "a": 1,
+   "why": "Le bail = the lease."
+  },
+  {
+   "t": "mcq",
+   "q": "Why is July 1 special in Quebec housing?",
+   "options": [
+    "Rents go down",
+    "Most leases start and people move",
+    "Landlords take vacation",
+    "It's the only day you can visit apartments"
+   ],
+   "a": 1,
+   "why": "Most leases run July 1 to June 30."
+  },
+  {
+   "t": "fill",
+   "q": "Le ___ est de mille dollars par mois. (rent)",
+   "a": [
+    "loyer"
+   ],
+   "en": "The rent is a thousand dollars a month.",
+   "why": "Le loyer = rent."
+  },
+  {
+   "t": "fill",
+   "q": "On ___ le premier juillet. (move, on)",
+   "a": [
+    "déménage"
+   ],
+   "en": "We're moving on July 1.",
+   "why": "Déménager, on form."
+  },
+  {
+   "t": "fill",
+   "q": "Est-ce que l'électricité est ___? (included)",
+   "a": [
+    "incluse",
+    "comprise"
+   ],
+   "en": "Is electricity included?",
+   "why": "Électricité is feminine: incluse."
+  },
+  {
+   "t": "fill",
+   "q": "Le ___ habite en bas. (landlord)",
+   "a": [
+    "propriétaire",
+    "proprio"
+   ],
+   "en": "The landlord lives downstairs.",
+   "why": "Le propriétaire / le proprio."
+  },
+  {
+   "t": "build",
+   "en": "I'm looking for a two-bedroom apartment.",
+   "a": "Je cherche un appartement de deux chambres."
+  },
+  {
+   "t": "build",
+   "en": "We signed the lease yesterday.",
+   "a": "On a signé le bail hier."
+  },
+  {
+   "t": "build",
+   "en": "Are pets allowed?",
+   "a": "Est-ce que les animaux sont acceptés?"
+  },
+  {
+   "t": "translate",
+   "en": "When can I visit the apartment?",
+   "a": [
+    "Quand est-ce que je peux visiter l'appartement?",
+    "Quand est-ce que je peux visiter le logement?",
+    "Quand puis-je visiter l'appartement?",
+    "Je peux visiter l'appartement quand?"
+   ],
+   "why": "Visiter = to view."
+  },
+  {
+   "t": "translate",
+   "en": "The rent went up.",
+   "a": [
+    "Le loyer a augmenté.",
+    "Le loyer a monté."
+   ],
+   "why": "Augmenter in the passé composé."
+  },
+  {
+   "t": "translate",
+   "en": "Is parking included?",
+   "a": [
+    "Est-ce que le stationnement est inclus?",
+    "Le stationnement est inclus?",
+    "Le stationnement est-il inclus?",
+    "Est-ce que le stationnement est compris?"
+   ],
+   "why": "Stationnement (m): inclus."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "le logement",
+   "en": "housing, apartment",
+   "g": "m",
+   "ex": "Je cherche un logement."
+  },
+  {
+   "fr": "louer",
+   "en": "to rent",
+   "ex": "À louer: 4½ à Verdun."
+  },
+  {
+   "fr": "le loyer",
+   "en": "rent",
+   "g": "m",
+   "ex": "Le loyer est payé le 1er du mois."
+  },
+  {
+   "fr": "le bail",
+   "en": "lease",
+   "g": "m",
+   "ex": "Le bail finit le 30 juin."
+  },
+  {
+   "fr": "le / la locataire",
+   "en": "tenant",
+   "ex": "Les locataires du deuxième."
+  },
+  {
+   "fr": "le / la propriétaire",
+   "en": "landlord, owner",
+   "ex": "J'ai appelé le propriétaire."
+  },
+  {
+   "fr": "déménager",
+   "en": "to move (house)",
+   "ex": "On déménage en juillet."
+  },
+  {
+   "fr": "chauffé, éclairé",
+   "en": "heat, electricity included",
+   "ex": "Un 3½ chauffé, éclairé.",
+   "qc": true
+  },
+  {
+   "fr": "semi-meublé",
+   "en": "with fridge and stove",
+   "ex": "L'appartement est semi-meublé.",
+   "qc": true
+  },
+  {
+   "fr": "le sous-sol",
+   "en": "basement",
+   "g": "m",
+   "ex": "La laveuse est au sous-sol."
+  },
+  {
+   "fr": "la laveuse / la sécheuse",
+   "en": "washer / dryer",
+   "g": "f",
+   "ex": "Entrée laveuse-sécheuse.",
+   "qc": true
+  },
+  {
+   "fr": "la cuisinière",
+   "en": "stove",
+   "g": "f",
+   "ex": "Le frigo et la cuisinière sont inclus."
+  },
+  {
+   "fr": "la galerie",
+   "en": "balcony, porch",
+   "g": "f",
+   "ex": "On soupe sur la galerie.",
+   "qc": true
+  },
+  {
+   "fr": "la ruelle",
+   "en": "back alley, lane",
+   "g": "f",
+   "ex": "Les enfants jouent dans la ruelle.",
+   "qc": true
+  },
+  {
+   "fr": "le proprio",
+   "en": "landlord (informal)",
+   "g": "m",
+   "ex": "Le proprio a augmenté le loyer.",
+   "qc": true
+  },
+  {
+   "fr": "le 3½ / le 4½",
+   "en": "one- / two-bedroom apartment",
+   "g": "m",
+   "ex": "Un beau 4½ sur le Plateau.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "trois et demie",
+    "tip": "trwa-zé-DMI: liaison in [z]; written 3½."
+   },
+   {
+    "fr": "quatre et demie",
+    "tip": "ka-tré-DMI."
+   },
+   {
+    "fr": "le bail / les baux",
+    "tip": "[bay] / [bo]: the plural is irregular."
+   },
+   {
+    "fr": "déménagement",
+    "tip": "dé-mé-naj-MAHN."
+   },
+   {
+    "fr": "chauffé, éclairé",
+    "tip": "sho-FÉ, é-klè-RÉ."
+   },
+   {
+    "fr": "le proprio",
+    "tip": "pro-pri-YO."
+   }
+  ],
+  "title": "La visite d'un 4½",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Bonjour, j'appelle pour le 4½ à louer sur la rue Masson. Il est encore libre?",
+    "en": "Hello, I'm calling about the two-bedroom for rent on Masson Street. Is it still available?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, il est libre le premier juillet. Il est au deuxième étage, avec une galerie en arrière.",
+    "en": "Yes, it's available July 1. It's on the second floor, with a back balcony."
+   },
+   {
+    "s": "A",
+    "fr": "Le loyer est de combien?",
+    "en": "How much is the rent?"
+   },
+   {
+    "s": "B",
+    "fr": "Mille quatre cent cinquante dollars par mois, chauffé, mais pas éclairé.",
+    "en": "Fourteen hundred and fifty dollars a month, heating included, but not electricity."
+   },
+   {
+    "s": "A",
+    "fr": "Est-ce qu'il est semi-meublé?",
+    "en": "Does it come with a fridge and stove?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, et il y a une entrée laveuse-sécheuse dans la salle de bain.",
+    "en": "Yes, and there are washer-dryer hookups in the bathroom."
+   },
+   {
+    "s": "A",
+    "fr": "Parfait. Et les animaux? J'ai un chat.",
+    "en": "Perfect. And pets? I have a cat."
+   },
+   {
+    "s": "B",
+    "fr": "Les chats, c'est correct. Vous pouvez visiter samedi à dix heures?",
+    "en": "Cats are fine. Can you come see it Saturday at ten?"
+   },
+   {
+    "s": "A",
+    "fr": "Oui, j'y serai. Merci!",
+    "en": "Yes, I'll be there. Thanks!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "How many bedrooms does the apartment have?",
+    "options": [
+     "One",
+     "Two",
+     "Three"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What is included in the rent?",
+    "options": [
+     "Heating",
+     "Electricity",
+     "Heating and electricity"
+    ],
+    "a": 0
+   },
+   {
+    "q": "When is the visit?",
+    "options": [
+     "Friday at ten",
+     "Saturday at ten",
+     "Sunday at noon"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Describe your home: type, number of rooms (Quebec style), floor, and one thing you like and dislike.",
+   "model": "J'habite dans un 4½ au troisième étage d'un triplex. J'adore ma galerie en arrière. Par contre, l'escalier est dangereux en hiver."
+  },
+  {
+   "prompt": "You call about an ad. Ask four questions to the landlord.",
+   "model": "Est-ce que l'appartement est encore libre? C'est chauffé, éclairé? Est-ce que les animaux sont acceptés? Quand est-ce que je peux le visiter?"
+  },
+  {
+   "prompt": "Explain to a newcomer what July 1 means in Quebec.",
+   "model": "Au Québec, la plupart des baux finissent le 30 juin, alors beaucoup de gens déménagent le premier juillet. Il faut réserver le camion longtemps d'avance!"
+  }
+ ],
+ "write": {
+  "prompt": "Write a 5–6 sentence apartment ad for your current (or dream) home in Quebec style, then one sentence about your best or worst moving day.",
+  "model": "À louer: beau 5½ dans Villeray, au deuxième étage. Trois chambres, grande cuisine et salon éclairé. Chauffé, semi-meublé, entrée laveuse-sécheuse. Galerie en arrière et stationnement dans la ruelle. Libre le 1er juillet, 1 650 $ par mois. Mon pire déménagement? Il pleuvait, et le camion est arrivé avec quatre heures de retard!"
+ },
+ "quiz": [
+  {
+   "q": "A 3½ has…",
+   "options": [
+    "three bedrooms",
+    "one bedroom",
+    "two bedrooms",
+    "three bathrooms"
+   ],
+   "a": 1,
+   "why": "Kitchen, living room, one bedroom + bathroom (½)."
+  },
+  {
+   "q": "'Éclairé' in a rental ad means…",
+   "options": [
+    "bright and sunny",
+    "electricity included",
+    "newly painted",
+    "with lamps"
+   ],
+   "a": 1,
+   "why": "Éclairé = electricity included."
+  },
+  {
+   "q": "'Semi-meublé' means…",
+   "options": [
+    "half the furniture",
+    "fridge and stove included",
+    "no furniture",
+    "furnished every other month"
+   ],
+   "a": 1,
+   "why": "Semi-meublé = with appliances (fridge, stove)."
+  },
+  {
+   "q": "Plural of 'le bail':",
+   "options": [
+    "les bails",
+    "les baux",
+    "les bailles",
+    "les baïls"
+   ],
+   "a": 1,
+   "why": "Irregular plural: baux."
+  },
+  {
+   "q": "'Le locataire' is…",
+   "options": [
+    "the landlord",
+    "the tenant",
+    "the mover",
+    "the janitor"
+   ],
+   "a": 1,
+   "why": "Locataire = tenant."
+  },
+  {
+   "q": "'Emménager' means…",
+   "options": [
+    "to move out",
+    "to move in",
+    "to clean",
+    "to sign"
+   ],
+   "a": 1,
+   "why": "Emménager = to move in; déménager = to move."
+  },
+  {
+   "q": "In Quebec, 'une galerie' at home is…",
+   "options": [
+    "an art gallery",
+    "a balcony / porch",
+    "a hallway",
+    "a garage"
+   ],
+   "a": 1,
+   "why": "Galerie = balcony, porch."
+  },
+  {
+   "q": "Most Quebec leases end on…",
+   "options": [
+    "December 31",
+    "June 30",
+    "August 31",
+    "April 30"
+   ],
+   "a": 1,
+   "why": "So people move on July 1."
+  },
+  {
+   "q": "'Le proprio' is…",
+   "options": [
+    "the property tax",
+    "the landlord (informal)",
+    "the building",
+    "the lease"
+   ],
+   "a": 1,
+   "why": "Short for le propriétaire."
+  }
+ ]
+}

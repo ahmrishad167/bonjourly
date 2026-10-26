@@ -1,0 +1,665 @@
+{
+ "w": 116,
+ "title": "Media lesson: Quebec podcasts and series",
+ "goal": "By the end of this lesson you can find and follow Quebec podcasts and TV series, decode the most common features of fast casual speech (chu, chais pas, y/a, pus, -tu), talk about what you watch, and use a strategy to keep listening when you don't catch everything.",
+ "learn": [
+  {
+   "h": "Where to find Quebec French media",
+   "body": [
+    "Radio-Canada's free app *OHdio* has radio shows and *balados* (the Quebec word for podcasts) on every topic. *ICI Tou.tv* (Radio-Canada) and *Télé-Québec* stream series, many free, often with French subtitles. Commercial networks are *TVA* (streaming on *Club illico*) and *Noovo*.",
+    "Good starting points: the classic sitcom *La Petite Vie* (1990s, still quoted constantly), the talk show *Tout le monde en parle* (Sunday nights, guests from politics and culture), the police drama *District 31* (short daily episodes, standard-leaning speech) and the comedy-drama *C'est comme ça que je t'aime* (1970s Sainte-Foy, very colloquial)."
+   ],
+   "tip": "Start with news and talk shows (clearer), then move to comedies and teen series (fastest, most slang)."
+  },
+  {
+   "h": "Features of fast casual speech",
+   "body": [
+    "Casual Quebec speech drops sounds and merges words. Once you know the patterns, a 'wall of sound' becomes words again.",
+    "Vowels and *e*'s disappear (*je* → *j'*, *de* → *d'*), *il* becomes *y*, *elle* becomes *a* (before a consonant), *plus* becomes *pus*, and questions get the particle *-tu*: *Tu viens-tu?* (Are you coming?)."
+   ],
+   "table": {
+    "head": [
+     "You hear",
+     "Standard",
+     "English"
+    ],
+    "rows": [
+     [
+      "chu",
+      "je suis",
+      "I am"
+     ],
+     [
+      "chais pas / ché pas",
+      "je ne sais pas",
+      "I don't know"
+     ],
+     [
+      "y'é là",
+      "il est là",
+      "he's here"
+     ],
+     [
+      "a s'en vient",
+      "elle s'en vient",
+      "she's on her way"
+     ],
+     [
+      "j'en veux pus",
+      "je n'en veux plus",
+      "I don't want any more"
+     ],
+     [
+      "t'as-tu faim?",
+      "as-tu faim?",
+      "are you hungry?"
+     ],
+     [
+      "à matin / à soir",
+      "ce matin / ce soir",
+      "this morning / tonight"
+     ],
+     [
+      "y'a pas d'trouble",
+      "il n'y a pas de problème",
+      "no problem"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Quebec pronunciation traits to tune your ear to",
+   "body": [
+    "Before *i* and *u*, Quebec French turns *t* and *d* into 'ts' and 'dz': *tu* sounds like 'tsu', *dire* like 'dzire', *petit* like 'p'tsi'. This is standard Quebec pronunciation, used even by news anchors.",
+    "Long vowels often become diphthongs in casual speech: *père* can sound like 'paère', *fête* like 'faète'. And *moi*, *toi* can sound like 'moé', 'toé' (informal)."
+   ]
+  },
+  {
+   "h": "A listening strategy",
+   "body": [
+    "1. Listen once for the gist: who, where, what's the conflict? 2. Listen again with French subtitles (*sous-titres en français*), not English. 3. Pick one short scene and replay it until you can repeat a line. 4. Write down three expressions per episode.",
+    "Don't stop at every unknown word. Your brain learns the rhythm first; the words come later. Ten minutes a day beats a two-hour binge once a week."
+   ]
+  },
+  {
+   "h": "Talking about what you watch",
+   "body": [
+    "In Quebec, people commonly say *écouter la télé* or *écouter un film*, not only *regarder*. Binge-watching is *écouter en rafale*. A podcast is *un balado*; its host is *l'animateur / l'animatrice*.",
+    "Useful phrases: *Je suis rendu à la saison 3.* (I'm up to season 3.) *Ne me divulgâche pas la fin!* (Don't spoil the ending!; *divulgâcher* is the Quebec coinage for 'to spoil')."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "J'écoute un balado sur l'histoire du Québec dans le métro.",
+   "en": "I listen to a podcast on Quebec history on the metro.",
+   "note": "balado = podcast, Quebec term"
+  },
+  {
+   "fr": "On a écouté toute la saison en rafale.",
+   "en": "We binge-watched the whole season.",
+   "note": "en rafale = binge"
+  },
+  {
+   "fr": "Je suis rendu au cinquième épisode.",
+   "en": "I'm up to the fifth episode.",
+   "note": "être rendu à = to be up to, very Quebec"
+  },
+  {
+   "fr": "Ne me divulgâche pas la fin, s'il te plaît!",
+   "en": "Please don't spoil the ending!",
+   "note": "divulgâcher = to spoil, Quebec coinage"
+  },
+  {
+   "fr": "J'active les sous-titres en français pour mieux comprendre.",
+   "en": "I turn on French subtitles to understand better.",
+   "note": "listening strategy"
+  },
+  {
+   "fr": "L'animatrice pose des questions très directes à ses invités.",
+   "en": "The host asks her guests very direct questions.",
+   "note": "animateur / animatrice = host"
+  },
+  {
+   "fr": "Cette série se passe dans un quartier de Montréal.",
+   "en": "This series takes place in a Montreal neighbourhood.",
+   "note": "se passer = to take place"
+  },
+  {
+   "fr": "Les personnages parlent tellement vite que je ne comprends rien.",
+   "en": "The characters talk so fast I don't understand a thing.",
+   "note": "tellement… que"
+  },
+  {
+   "fr": "Chu fatigué, j'pense que j'vas me coucher.",
+   "en": "I'm tired, I think I'm going to bed.",
+   "note": "fast speech: chu, j'pense, j'vas"
+  },
+  {
+   "fr": "Chais pas c'qu'y veut dire.",
+   "en": "I don't know what he means.",
+   "note": "je ne sais pas ce qu'il veut dire, compressed"
+  },
+  {
+   "fr": "A s'en vient, a l'a fini à cinq heures.",
+   "en": "She's on her way, she finished at five.",
+   "note": "a = elle in casual speech"
+  },
+  {
+   "fr": "Tu viens-tu au show à soir?",
+   "en": "Are you coming to the show tonight?",
+   "note": "-tu question particle; à soir = ce soir"
+  },
+  {
+   "fr": "J'en peux pus!",
+   "en": "I can't take it anymore!",
+   "note": "pus = plus (no more)"
+  },
+  {
+   "fr": "Cette émission est diffusée tous les dimanches soirs.",
+   "en": "This show airs every Sunday night.",
+   "note": "être diffusé = to be broadcast"
+  },
+  {
+   "fr": "Le premier épisode est un peu lent, mais après, c'est vraiment bon.",
+   "en": "The first episode is a bit slow, but after that it's really good.",
+   "note": "giving a review"
+  },
+  {
+   "fr": "Je réécoute la même scène trois fois pour attraper les expressions.",
+   "en": "I replay the same scene three times to catch the expressions.",
+   "note": "réécouter = to listen again"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebec series and podcasts are full of fast, casual speech. Recognising the common contractions is the key to following them. These forms are informal: understand them first, use them only when you're comfortable.",
+  "items": [
+   {
+    "std": "Je ne sais pas.",
+    "qc": "Chais pas. / Ché pas.",
+    "en": "I don't know.",
+    "note": "the most common compression of all"
+   },
+   {
+    "std": "Il est où?",
+    "qc": "Y'é où?",
+    "en": "Where is he?",
+    "note": "il est → y'é, informal"
+   },
+   {
+    "std": "Elle n'est plus là.",
+    "qc": "A l'est pus là.",
+    "en": "She's not here anymore.",
+    "note": "a = elle; l'est with an inserted l; pus = plus"
+   },
+   {
+    "std": "Est-ce que tu as faim?",
+    "qc": "T'as-tu faim?",
+    "en": "Are you hungry?",
+    "note": "-tu turns a statement into a yes/no question"
+   },
+   {
+    "std": "Il n'y a pas de problème.",
+    "qc": "Y'a pas d'trouble.",
+    "en": "No problem.",
+    "note": "trouble = problem, informal anglicism"
+   },
+   {
+    "std": "Je regarde la télévision ce soir.",
+    "qc": "J'écoute la télé à soir.",
+    "en": "I'm watching TV tonight.",
+    "note": "écouter la télé and à soir are typical Quebec usage"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "What does 'chais pas' mean?",
+   "options": [
+    "I'm not here",
+    "I don't know",
+    "I can't",
+    "I'm not hot"
+   ],
+   "a": 1,
+   "why": "Je ne sais pas → chais pas."
+  },
+  {
+   "t": "mcq",
+   "q": "'T'as-tu fini?' means…",
+   "options": [
+    "You finished?",
+    "Did you finish?",
+    "You have to finish.",
+    "Did he finish?"
+   ],
+   "a": 1,
+   "why": "-tu makes a yes/no question."
+  },
+  {
+   "t": "mcq",
+   "q": "What is a 'balado'?",
+   "options": [
+    "a dance",
+    "a podcast",
+    "a TV channel",
+    "a ballad"
+   ],
+   "a": 1,
+   "why": "Balado = podcast in Quebec French."
+  },
+  {
+   "t": "mcq",
+   "q": "In casual speech, 'a s'en vient' means…",
+   "options": [
+    "she's coming",
+    "it's coming back",
+    "he left",
+    "they're coming"
+   ],
+   "a": 0,
+   "why": "A = elle before a consonant."
+  },
+  {
+   "t": "fill",
+   "q": "On a écouté toute la série en ___. (binge)",
+   "a": [
+    "rafale"
+   ],
+   "en": "We binge-watched the whole series.",
+   "why": "Écouter en rafale = to binge-watch."
+  },
+  {
+   "t": "fill",
+   "q": "Je suis ___ à la saison 2. (up to)",
+   "a": [
+    "rendu",
+    "rendue"
+   ],
+   "en": "I'm up to season 2.",
+   "why": "Être rendu à = to be up to."
+  },
+  {
+   "t": "fill",
+   "q": "J'en veux ___! (no more, casual)",
+   "a": [
+    "pus",
+    "plus"
+   ],
+   "en": "I don't want any more!",
+   "why": "Pus is the casual pronunciation of plus."
+  },
+  {
+   "t": "fill",
+   "q": "Ne me ___ pas la fin! (spoil)",
+   "a": [
+    "divulgâche"
+   ],
+   "en": "Don't spoil the ending for me!",
+   "why": "Divulgâcher = to spoil (Quebec)."
+  },
+  {
+   "t": "build",
+   "en": "I listen to podcasts on the metro.",
+   "a": "J'écoute des balados dans le métro."
+  },
+  {
+   "t": "build",
+   "en": "Are you coming tonight?",
+   "a": "Tu viens-tu à soir?"
+  },
+  {
+   "t": "build",
+   "en": "The host is very funny.",
+   "a": "L'animateur est très drôle."
+  },
+  {
+   "t": "translate",
+   "en": "I don't know.",
+   "a": [
+    "Je ne sais pas.",
+    "Je sais pas.",
+    "Chais pas.",
+    "Ché pas."
+   ],
+   "why": "From formal to very casual."
+  },
+  {
+   "t": "translate",
+   "en": "Where is he?",
+   "a": [
+    "Où est-il?",
+    "Il est où?",
+    "Où il est?",
+    "Y'é où?"
+   ],
+   "why": "Y'é = il est in fast speech."
+  },
+  {
+   "t": "translate",
+   "en": "Turn on the subtitles.",
+   "a": [
+    "Active les sous-titres.",
+    "Activez les sous-titres.",
+    "Mets les sous-titres.",
+    "Mettez les sous-titres."
+   ],
+   "why": "Sous-titres = subtitles."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "le balado",
+   "en": "podcast",
+   "g": "m",
+   "ex": "J'adore ce balado.",
+   "qc": true
+  },
+  {
+   "fr": "l'émission",
+   "en": "show, program",
+   "g": "f",
+   "ex": "C'est mon émission préférée."
+  },
+  {
+   "fr": "la série",
+   "en": "series",
+   "g": "f",
+   "ex": "Cette série a trois saisons."
+  },
+  {
+   "fr": "l'épisode",
+   "en": "episode",
+   "g": "m",
+   "ex": "Le dernier épisode était incroyable."
+  },
+  {
+   "fr": "la saison",
+   "en": "season",
+   "g": "f",
+   "ex": "La nouvelle saison commence en janvier."
+  },
+  {
+   "fr": "l'animateur / l'animatrice",
+   "en": "host",
+   "ex": "L'animatrice reçoit trois invités."
+  },
+  {
+   "fr": "les sous-titres",
+   "en": "subtitles",
+   "g": "m",
+   "ex": "Je mets les sous-titres en français."
+  },
+  {
+   "fr": "écouter en rafale",
+   "en": "to binge-watch",
+   "ex": "On a écouté la série en rafale.",
+   "qc": true
+  },
+  {
+   "fr": "divulgâcher",
+   "en": "to spoil (a plot)",
+   "ex": "Il m'a divulgâché la fin!",
+   "qc": true
+  },
+  {
+   "fr": "être rendu à",
+   "en": "to be up to, to have reached",
+   "ex": "T'es rendu où dans la série?",
+   "qc": true
+  },
+  {
+   "fr": "diffuser",
+   "en": "to broadcast, to air",
+   "ex": "Le match est diffusé à 19 h."
+  },
+  {
+   "fr": "le personnage",
+   "en": "character",
+   "g": "m",
+   "ex": "Mon personnage préféré, c'est la grand-mère."
+  },
+  {
+   "fr": "la bande-annonce",
+   "en": "trailer",
+   "g": "f",
+   "ex": "As-tu vu la bande-annonce?"
+  },
+  {
+   "fr": "le téléroman",
+   "en": "TV drama series (Quebec soap)",
+   "g": "m",
+   "ex": "Ma mère écoute tous les téléromans.",
+   "qc": true
+  },
+  {
+   "fr": "réécouter",
+   "en": "to listen / watch again",
+   "ex": "J'ai réécouté la scène trois fois."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "tu dis",
+    "tip": "Quebec: 'tsu dzi': t and d before i/u become ts/dz."
+   },
+   {
+    "fr": "chais pas",
+    "tip": "shè-PA: je sais pas compressed into two syllables."
+   },
+   {
+    "fr": "t'as-tu",
+    "tip": "ta-TSU: a rising question intonation."
+   },
+   {
+    "fr": "à soir",
+    "tip": "a-SWAR, often 'a-swèr' or 'a-souère' in casual speech."
+   },
+   {
+    "fr": "pantoute, pus",
+    "tip": "pan-TOOT, PU: short and sharp."
+   },
+   {
+    "fr": "balado",
+    "tip": "ba-la-DO, stress on the last syllable like all French words."
+   }
+  ],
+  "title": "Qu'est-ce que t'écoutes?",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Coudonc, t'as l'air fatigué à matin.",
+    "en": "Hey, you look tired this morning."
+   },
+   {
+    "s": "B",
+    "fr": "Chu resté debout jusqu'à deux heures. J'ai écouté une série en rafale.",
+    "en": "I stayed up till two. I binge-watched a series."
+   },
+   {
+    "s": "A",
+    "fr": "Laquelle?",
+    "en": "Which one?"
+   },
+   {
+    "s": "B",
+    "fr": "C'est comme ça que je t'aime. Ça se passe à Sainte-Foy dans les années 70.",
+    "en": "C'est comme ça que je t'aime. It takes place in Sainte-Foy in the 70s."
+   },
+   {
+    "s": "A",
+    "fr": "Ah, je l'ai vue! T'es rendu où?",
+    "en": "Oh, I've seen it! Where are you up to?"
+   },
+   {
+    "s": "B",
+    "fr": "Au sixième épisode. Pis là, divulgâche-moi rien!",
+    "en": "Episode six. And don't spoil anything for me!"
+   },
+   {
+    "s": "A",
+    "fr": "Promis. Tu comprends tout? Y parlent vite en titi.",
+    "en": "Promise. Do you understand everything? They talk really fast."
+   },
+   {
+    "s": "B",
+    "fr": "Pas toute, mais avec les sous-titres en français, ça va ben.",
+    "en": "Not everything, but with French subtitles, it's going well."
+   }
+  ],
+  "questions": [
+   {
+    "q": "Why is B tired?",
+    "options": [
+     "Worked late",
+     "Binge-watched a series",
+     "Couldn't sleep because of noise"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Where and when does the series take place?",
+    "options": [
+     "Montreal, today",
+     "Sainte-Foy, in the 70s",
+     "Quebec City, in the 90s"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What helps B understand?",
+    "options": [
+     "English subtitles",
+     "French subtitles",
+     "Watching twice"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Describe a series or podcast you like: what it's about, where it takes place, and why you like it.",
+   "model": "J'écoute un balado sur l'histoire du Québec. Chaque épisode raconte un événement, comme la crise d'Octobre. J'aime ça parce que l'animateur explique clairement et il a beaucoup d'humour."
+  },
+  {
+   "prompt": "Ask a friend three questions about what they're watching (use être rendu, en rafale).",
+   "model": "Qu'est-ce que tu écoutes ces temps-ci? T'es rendu où? L'as-tu écoutée en rafale?"
+  },
+  {
+   "prompt": "Decode these out loud into standard French: 'Chais pas. Y'é où? T'as-tu faim? J'en veux pus.'",
+   "model": "Je ne sais pas. Où est-il? As-tu faim? Je n'en veux plus."
+  },
+  {
+   "prompt": "Explain your listening strategy in three steps.",
+   "model": "D'abord, j'écoute une scène pour comprendre l'idée générale. Ensuite, je la réécoute avec les sous-titres en français. Finalement, je note trois expressions nouvelles."
+  }
+ ],
+ "write": {
+  "prompt": "Write a short review (7–9 sentences) of a Quebec series, film or podcast for a learner's forum: what it's about, the level of the language, what you learned, and whether you recommend it.",
+  "model": "Cette semaine, j'ai écouté les premiers épisodes de District 31 sur ICI Tou.tv. La série suit des policiers d'un poste de quartier à Montréal. Les épisodes durent seulement 22 minutes, donc c'est parfait pour pratiquer tous les jours. Les personnages parlent assez clairement, sauf pendant les disputes! J'ai appris plusieurs expressions, comme « être dans le trouble » et « Ça a pas d'allure ». J'active les sous-titres en français et je réécoute les scènes difficiles. Je suis rendu au quinzième épisode et je suis accroché. Je la recommande aux apprenants de niveau intermédiaire."
+ },
+ "quiz": [
+  {
+   "q": "What is OHdio?",
+   "options": [
+    "A TV channel",
+    "Radio-Canada's audio app for radio and podcasts",
+    "A streaming movie service",
+    "A music festival"
+   ],
+   "a": 1,
+   "why": "OHdio = Radio-Canada audio, free."
+  },
+  {
+   "q": "How does a Quebecer often say 'I'm watching TV'?",
+   "options": [
+    "J'écoute la télé.",
+    "Je vois la télé.",
+    "Je visite la télé.",
+    "Je lis la télé."
+   ],
+   "a": 0,
+   "why": "Écouter la télé is very common in Quebec."
+  },
+  {
+   "q": "In Quebec pronunciation, 'tu' sounds like…",
+   "options": [
+    "tou",
+    "tsu",
+    "chu",
+    "du"
+   ],
+   "a": 1,
+   "why": "t before u becomes ts."
+  },
+  {
+   "q": "What does 'y'a pas d'trouble' mean?",
+   "options": [
+    "There's trouble.",
+    "No problem.",
+    "Don't trouble yourself.",
+    "He's not in trouble."
+   ],
+   "a": 1,
+   "why": "Il n'y a pas de problème."
+  },
+  {
+   "q": "'Pus' in casual speech is…",
+   "options": [
+    "puis",
+    "plus (no more)",
+    "pour",
+    "pas"
+   ],
+   "a": 1,
+   "why": "J'en veux pus = I don't want any more."
+  },
+  {
+   "q": "Which is the best first step when watching a new series?",
+   "options": [
+    "Look up every word",
+    "Watch with English subtitles only",
+    "Listen once for the gist",
+    "Stop after every sentence"
+   ],
+   "a": 2,
+   "why": "Get the general idea first."
+  },
+  {
+   "q": "'Divulgâcher' combines…",
+   "options": [
+    "divulguer + gâcher",
+    "divin + gâcher",
+    "divulguer + cacher",
+    "diviser + gâcher"
+   ],
+   "a": 0,
+   "why": "To reveal + to ruin = to spoil."
+  },
+  {
+   "q": "'Tout le monde en parle' is…",
+   "options": [
+    "a cooking show",
+    "a Sunday-night talk show",
+    "a podcast for kids",
+    "a newspaper"
+   ],
+   "a": 1,
+   "why": "Radio-Canada's popular talk show."
+  },
+  {
+   "q": "'A l'est pus là' in standard French is…",
+   "options": [
+    "Elle n'est plus là.",
+    "Il est là.",
+    "Elle est là-bas.",
+    "Ils ne sont pas là."
+   ],
+   "a": 0,
+   "why": "A = elle, pus = plus."
+  }
+ ]
+}

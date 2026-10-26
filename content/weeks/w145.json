@@ -1,0 +1,685 @@
+{
+ "w": 145,
+ "title": "Punctuation and typography",
+ "goal": "By the end of this lesson you can punctuate and format French text correctly: spacing before punctuation (Quebec vs France), quotation marks « », dialogue dashes, numbers, money, times, dates, addresses, capital letters and abbreviations.",
+ "learn": [
+  {
+   "h": "Spacing: Quebec vs France",
+   "body": [
+    "French puts a space before some punctuation marks, and this is where Quebec and France differ. In France, a non-breaking space goes before *: ; ! ?* and inside *« »*.",
+    "In Quebec, the OQLF and the federal Translation Bureau recommend a space before the colon and inside the guillemets, but **no space** (or at most a very thin space, which most keyboards can't type) before *; ! ?*. That's why Quebec texts write *Bonjour!* and *Tu viens?* while France writes *Bonjour !* and *Tu viens ?*.",
+    "Commas and periods never take a space before them, anywhere. A non-breaking space keeps the mark from jumping alone to the next line."
+   ],
+   "table": {
+    "head": [
+     "Mark",
+     "Quebec (OQLF)",
+     "France"
+    ],
+    "rows": [
+     [
+      "colon :",
+      "Attention : glace noire.",
+      "Attention : glace noire."
+     ],
+     [
+      "semicolon ;",
+      "Il neige; restez chez vous.",
+      "Il neige ; restez chez vous."
+     ],
+     [
+      "exclamation !",
+      "Bravo!",
+      "Bravo !"
+     ],
+     [
+      "question ?",
+      "Tu viens?",
+      "Tu viens ?"
+     ],
+     [
+      "guillemets « »",
+      "« Bonjour », dit-elle.",
+      "« Bonjour », dit-elle."
+     ],
+     [
+      "comma, period",
+      "Oui, merci.",
+      "Oui, merci."
+     ]
+    ]
+   },
+   "tip": "Quebec rule of thumb: only the 'tall' colon and the guillemets get a space. Short marks (; ! ?) stick to the word."
+  },
+  {
+   "h": "Quotation marks and dialogue",
+   "body": [
+    "French uses guillemets *« »* with a space inside: *Il a dit : « Je reviens. »* For a quote inside a quote, use English-style marks: *« Elle m'a dit “non” hier. »*",
+    "In novels, dialogue often opens with guillemets and each change of speaker is marked by a long dash (—): *« Tu viens? — Non, je reste. »* or each reply starts on a new line with a dash.",
+    "The final period goes inside the guillemets when the quote is a full sentence, outside when it's a fragment: *Il a parlé d'une « situation difficile ».*"
+   ]
+  },
+  {
+   "h": "Numbers, money, times, dates",
+   "body": [
+    "Decimals take a comma: *3,5 %*. Thousands are separated by a space, not a comma: *1 250 000*. The dollar and percent signs come **after** the number, with a space: *25 $*, *19,99 $*, *15 %*.",
+    "Times use *h* with spaces: *9 h*, *14 h 30*, *midi*. The 24-hour clock is the norm in writing. Dates: *le mardi 25 octobre 2026*, with lowercase day and month. Ordinals: *1er, 1re, 2e, 3e* (not *2ème*)."
+   ],
+   "table": {
+    "head": [
+     "Item",
+     "French (Quebec)",
+     "English"
+    ],
+    "rows": [
+     [
+      "Money",
+      "1 299,95 $",
+      "$1,299.95"
+     ],
+     [
+      "Percent",
+      "4,5 %",
+      "4.5%"
+     ],
+     [
+      "Time",
+      "18 h 45",
+      "6:45 p.m."
+     ],
+     [
+      "Date",
+      "le 1er juillet 2026",
+      "July 1st, 2026"
+     ],
+     [
+      "Ordinal",
+      "le 3e étage",
+      "the 3rd floor"
+     ],
+     [
+      "Phone",
+      "514 555-0123",
+      "(514) 555-0123"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Capitals, abbreviations, addresses",
+   "body": [
+    "Lowercase: days, months, languages and nationality adjectives (*lundi, janvier, le français, un écrivain québécois*). Capital: nationality nouns (*les Québécois*), and the specific part of an institution's name (*le ministère de l'Éducation*, *la Société de transport de Montréal*; *la Ville de Montréal* when it means the city administration).",
+    "Abbreviations: *M.* (Monsieur), *Mme* (Madame, no period), *Mlle*, *Dr*, in running text, write *Saint* in full: *Saint-Jérôme*, not *St-Jérôme*. Accents stay on capitals: *ÉCOLE*, *À bientôt*.",
+    "OQLF address format: civic number, comma, street type in lowercase: *1234, rue Sainte-Catherine Ouest, app. 5, Montréal (Québec) H3G 1P1*."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Attention : chaussée glissante.",
+   "en": "Caution: slippery road.",
+   "note": "space before the colon in both Quebec and France"
+  },
+  {
+   "fr": "Tu viens souper samedi?",
+   "en": "Are you coming for supper Saturday?",
+   "note": "Quebec: no space before ?"
+  },
+  {
+   "fr": "Il neige depuis hier; les écoles sont fermées.",
+   "en": "It's been snowing since yesterday; schools are closed.",
+   "note": "Quebec: no space before ;"
+  },
+  {
+   "fr": "Elle m'a dit : « Je t'appelle ce soir. »",
+   "en": "She told me: 'I'll call you tonight.'",
+   "note": "guillemets with inner spaces; period inside"
+  },
+  {
+   "fr": "Le ministre parle d'une « situation préoccupante ».",
+   "en": "The minister speaks of a 'worrying situation'.",
+   "note": "fragment: period outside"
+  },
+  {
+   "fr": "« Il a crié “au feu!” et tout le monde est sorti », raconte-t-elle.",
+   "en": "'He shouted “fire!” and everyone left,' she recounts.",
+   "note": "quote inside a quote"
+  },
+  {
+   "fr": "Le loyer est de 1 450 $ par mois.",
+   "en": "The rent is $1,450 a month.",
+   "note": "space for thousands; $ after with a space"
+  },
+  {
+   "fr": "Les taxes ajoutent 14,975 % au prix.",
+   "en": "Taxes add 14.975% to the price.",
+   "note": "decimal comma; space before %"
+  },
+  {
+   "fr": "Le train part à 17 h 15.",
+   "en": "The train leaves at 5:15 p.m.",
+   "note": "24-hour time with h"
+  },
+  {
+   "fr": "La réunion aura lieu le jeudi 3 décembre.",
+   "en": "The meeting will take place on Thursday, December 3.",
+   "note": "lowercase day and month"
+  },
+  {
+   "fr": "J'habite au 3e étage.",
+   "en": "I live on the 3rd floor.",
+   "note": "3e, not 3ème"
+  },
+  {
+   "fr": "Bonne fête nationale, le 24 juin!",
+   "en": "Happy Fête nationale on June 24!",
+   "note": "lowercase juin; no space before ! in Quebec"
+  },
+  {
+   "fr": "Les Québécois parlent français; plusieurs parlent aussi l'anglais.",
+   "en": "Quebecers speak French; many also speak English.",
+   "note": "Québécois capitalised as a noun; français lowercase"
+  },
+  {
+   "fr": "Mme Tremblay et M. Gagnon sont absents.",
+   "en": "Ms. Tremblay and Mr. Gagnon are absent.",
+   "note": "Mme has no period; M. does"
+  },
+  {
+   "fr": "1234, rue Sainte-Catherine Ouest, Montréal (Québec) H3G 1P1",
+   "en": "1234 Sainte-Catherine Street West, Montreal, Quebec H3G 1P1",
+   "note": "OQLF address format"
+  },
+  {
+   "fr": "À bientôt, et merci encore!",
+   "en": "See you soon, and thanks again!",
+   "note": "accent kept on the capital À"
+  }
+ ],
+ "quebec": {
+  "intro": "The roadmap mentions 'Quebec and French spacing rules': the real difference is that Quebec (following the OQLF and the federal Translation Bureau) does not put a space before ; ! ? while France does. Both use a space before the colon and inside « ». Quebec also has its own conventions for money, addresses and times.",
+  "items": [
+   {
+    "std": "Bonjour ! Tu viens ? (France)",
+    "qc": "Bonjour! Tu viens?",
+    "en": "Hello! Are you coming?",
+    "note": "Quebec: no space before ! and ?"
+   },
+   {
+    "std": "Il pleut ; restez chez vous. (France)",
+    "qc": "Il pleut; restez chez vous.",
+    "en": "It's raining; stay home.",
+    "note": "Quebec: no space before ;"
+   },
+   {
+    "std": "Note : réunion à 9 h.",
+    "qc": "Note : réunion à 9 h.",
+    "en": "Note: meeting at 9.",
+    "note": "the colon takes a space in both"
+   },
+   {
+    "std": "$25.99 (English style)",
+    "qc": "25,99 $",
+    "en": "$25.99",
+    "note": "dollar sign after, decimal comma"
+   },
+   {
+    "std": "1234 Main Street",
+    "qc": "1234, rue Principale",
+    "en": "1234 Main Street",
+    "note": "OQLF: comma after the civic number, street type in lowercase"
+   },
+   {
+    "std": "2:30 PM",
+    "qc": "14 h 30",
+    "en": "2:30 p.m.",
+    "note": "24-hour clock with h in writing"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Which follows the OQLF (Quebec) recommendation?",
+   "options": [
+    "Tu viens ?",
+    "Tu viens?",
+    "Tu viens ? !",
+    "Tu viens ,?"
+   ],
+   "a": 1,
+   "why": "Quebec: no space before ?."
+  },
+  {
+   "t": "mcq",
+   "q": "Which mark takes a space before it in Quebec?",
+   "options": [
+    "?",
+    "!",
+    ":",
+    ";"
+   ],
+   "a": 2,
+   "why": "Only the colon (and the inside of « ») get a space."
+  },
+  {
+   "t": "mcq",
+   "q": "How do you write $1,250.50 in French?",
+   "options": [
+    "$1,250.50",
+    "1.250,50 $",
+    "1 250,50 $",
+    "1,250.50 $"
+   ],
+   "a": 2,
+   "why": "Space for thousands, comma for decimals, $ after."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is correct?",
+   "options": [
+    "le 2ème étage",
+    "le 2e étage",
+    "le 2nd étage",
+    "le 2è étage"
+   ],
+   "a": 1,
+   "why": "The recommended ordinal abbreviation is 2e."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is correct?",
+   "options": [
+    "Le Lundi 5 Janvier",
+    "le lundi 5 janvier",
+    "le Lundi 5 janvier",
+    "le lundi 5 Janvier"
+   ],
+   "a": 1,
+   "why": "Days and months are lowercase."
+  },
+  {
+   "t": "fill",
+   "q": "Le rendez-vous est à 14 ___ 30.",
+   "a": [
+    "h"
+   ],
+   "en": "The appointment is at 2:30 p.m.",
+   "why": "French writes 14 h 30."
+  },
+  {
+   "t": "fill",
+   "q": "Le loyer a augmenté de 4,5 ___. (percent sign)",
+   "a": [
+    "%"
+   ],
+   "en": "The rent went up 4.5%.",
+   "why": "Space, then the % sign."
+  },
+  {
+   "t": "fill",
+   "q": "Il parle ___ et anglais. (French, lowercase or capital?)",
+   "a": [
+    "français"
+   ],
+   "en": "He speaks French and English.",
+   "why": "Language names are lowercase."
+  },
+  {
+   "t": "fill",
+   "q": "___ Lavoie est notre directrice. (Ms., abbreviated)",
+   "a": [
+    "Mme"
+   ],
+   "en": "Ms. Lavoie is our director.",
+   "why": "Mme, no period."
+  },
+  {
+   "t": "fill",
+   "q": "Les ___ fêtent le 24 juin. (Quebecers)",
+   "a": [
+    "Québécois"
+   ],
+   "en": "Quebecers celebrate on June 24.",
+   "why": "Nationality as a noun takes a capital."
+  },
+  {
+   "t": "build",
+   "en": "The rent is $950 a month.",
+   "a": "Le loyer est de 950 $ par mois."
+  },
+  {
+   "t": "build",
+   "en": "The meeting is on Monday at 9.",
+   "a": "La réunion est lundi à 9 h."
+  },
+  {
+   "t": "translate",
+   "en": "Caution: black ice.",
+   "a": [
+    "Attention : glace noire.",
+    "Attention : verglas.",
+    "Attention : glace noire!",
+    "Attention : verglas!"
+   ],
+   "why": "Space before the colon."
+  },
+  {
+   "t": "translate",
+   "en": "It costs $19.99.",
+   "a": [
+    "Ça coûte 19,99 $.",
+    "Cela coûte 19,99 $.",
+    "Le prix est de 19,99 $.",
+    "C'est 19,99 $."
+   ],
+   "why": "Decimal comma and $ after the amount."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "la ponctuation",
+   "en": "punctuation",
+   "g": "f",
+   "ex": "Vérifiez la ponctuation."
+  },
+  {
+   "fr": "le point",
+   "en": "period",
+   "g": "m",
+   "ex": "Mettez un point à la fin."
+  },
+  {
+   "fr": "la virgule",
+   "en": "comma",
+   "g": "f",
+   "ex": "Pas de virgule avant et."
+  },
+  {
+   "fr": "le point-virgule",
+   "en": "semicolon",
+   "g": "m",
+   "ex": "Le point-virgule sépare deux idées liées."
+  },
+  {
+   "fr": "les deux-points",
+   "en": "colon",
+   "g": "m",
+   "ex": "Les deux-points annoncent une explication."
+  },
+  {
+   "fr": "le point d'exclamation",
+   "en": "exclamation mark",
+   "g": "m",
+   "ex": "N'abusez pas des points d'exclamation!"
+  },
+  {
+   "fr": "le point d'interrogation",
+   "en": "question mark",
+   "g": "m",
+   "ex": "Il manque un point d'interrogation."
+  },
+  {
+   "fr": "les guillemets",
+   "en": "quotation marks « »",
+   "g": "m",
+   "ex": "Mettez la citation entre guillemets."
+  },
+  {
+   "fr": "le tiret",
+   "en": "dash",
+   "g": "m",
+   "ex": "Le tiret marque le changement d'interlocuteur."
+  },
+  {
+   "fr": "le trait d'union",
+   "en": "hyphen",
+   "g": "m",
+   "ex": "Arc-en-ciel prend des traits d'union."
+  },
+  {
+   "fr": "les points de suspension",
+   "en": "ellipsis",
+   "g": "m",
+   "ex": "Il hésite… puis il part."
+  },
+  {
+   "fr": "l'espace insécable",
+   "en": "non-breaking space",
+   "g": "f",
+   "ex": "Mettez une espace insécable avant les deux-points."
+  },
+  {
+   "fr": "la majuscule / la minuscule",
+   "en": "capital / lowercase letter",
+   "ex": "Les mois s'écrivent en minuscules."
+  },
+  {
+   "fr": "les parenthèses",
+   "en": "parentheses",
+   "g": "f",
+   "ex": "Montréal (Québec)"
+  },
+  {
+   "fr": "l'OQLF",
+   "en": "Office québécois de la langue française",
+   "g": "m",
+   "ex": "L'OQLF publie la Banque de dépannage linguistique.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "deux-points",
+    "tip": "[deu PWIN]."
+   },
+   {
+    "fr": "point-virgule",
+    "tip": "[pwin vir-GUL]."
+   },
+   {
+    "fr": "guillemets",
+    "tip": "[ghiy-MÈ]; the u is silent."
+   },
+   {
+    "fr": "14 h 30",
+    "tip": "Read: quatorze heures trente."
+   },
+   {
+    "fr": "1 299,95 $",
+    "tip": "Read: mille deux cent quatre-vingt-dix-neuf dollars et quatre-vingt-quinze (cents)."
+   },
+   {
+    "fr": "4,5 %",
+    "tip": "Read: quatre virgule cinq pour cent."
+   }
+  ],
+  "title": "Relire une infolettre",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Peux-tu relire l'infolettre? Notre nouvelle stagiaire vient de France.",
+    "en": "Can you proofread the newsletter? Our new intern is from France."
+   },
+   {
+    "s": "B",
+    "fr": "Je vois. Elle a mis des espaces avant tous les points d'exclamation.",
+    "en": "I see. She put spaces before all the exclamation marks."
+   },
+   {
+    "s": "A",
+    "fr": "C'est la norme en France, mais ici, on suit l'OQLF : pas d'espace avant ! et ?.",
+    "en": "That's the norm in France, but here we follow the OQLF: no space before ! and ?."
+   },
+   {
+    "s": "B",
+    "fr": "Et les prix? Elle a écrit « $25 ».",
+    "en": "And the prices? She wrote '$25'."
+   },
+   {
+    "s": "A",
+    "fr": "Ça, c'est l'anglais! En français, c'est « 25 $ », avec une espace.",
+    "en": "That's English! In French, it's '25 $', with a space."
+   },
+   {
+    "s": "B",
+    "fr": "Pis « Lundi 3 Novembre » avec des majuscules.",
+    "en": "And 'Lundi 3 Novembre' with capitals."
+   },
+   {
+    "s": "A",
+    "fr": "En minuscules : « lundi 3 novembre ». Je vais lui envoyer le guide de l'OQLF.",
+    "en": "Lowercase: 'lundi 3 novembre'. I'll send her the OQLF guide."
+   }
+  ],
+  "questions": [
+   {
+    "q": "Where is the intern from?",
+    "options": [
+     "Belgium",
+     "France",
+     "Ontario"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What's wrong with '$25'?",
+    "options": [
+     "Wrong amount",
+     "The $ should come after the number in French",
+     "It should be in euros"
+    ],
+    "a": 1
+   },
+   {
+    "q": "How should the date be written?",
+    "options": [
+     "Lundi 3 Novembre",
+     "lundi 3 novembre",
+     "Lundi, 3 novembre"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Read these aloud: 1 450 $, 14,975 %, 18 h 45, le 1er juillet, le 3e étage.",
+   "model": "mille quatre cent cinquante dollars; quatorze virgule neuf cent soixante-quinze pour cent; dix-huit heures quarante-cinq; le premier juillet; le troisième étage."
+  },
+  {
+   "prompt": "Dictate your full address and phone number in French, as you'd say it to a delivery company.",
+   "model": "Mon adresse, c'est le 4521, rue Saint-Denis, appartement 3, Montréal, H2J 2L1. Mon numéro, c'est le 514 555-0123."
+  },
+  {
+   "prompt": "Explain to a French colleague the main punctuation difference between Quebec and France.",
+   "model": "En France, on met une espace avant le point-virgule, le point d'exclamation et le point d'interrogation. Au Québec, l'OQLF recommande de ne pas en mettre. Par contre, on met une espace avant les deux-points partout."
+  }
+ ],
+ "write": {
+  "prompt": "Write a short event notice (5–6 lines) for a community newsletter, applying Quebec typography: a date, a time, a price, an address, a quotation and an exclamation.",
+  "model": "Fête de quartier : le samedi 13 juin 2026, de 11 h à 17 h. Lieu : parc Laurier, 5000, rue Brébeuf, Montréal. Entrée : 5 $ (gratuit pour les moins de 12 ans). Au programme : musique, jeux et dégustation de crème glacée! Comme le dit notre présidente : « Un quartier, c'est d'abord des voisins. » Au plaisir de vous y voir!"
+ },
+ "quiz": [
+  {
+   "q": "In Quebec, which recommendation does the OQLF give for '!'?",
+   "options": [
+    "Space before",
+    "No space before (or a thin space)",
+    "Two spaces before",
+    "Always omit it"
+   ],
+   "a": 1,
+   "why": "Quebec: Bravo! (France: Bravo !)."
+  },
+  {
+   "q": "Which are French quotation marks?",
+   "options": [
+    "“ ”",
+    "« »",
+    "' '",
+    "< >"
+   ],
+   "a": 1,
+   "why": "Guillemets « », with spaces inside."
+  },
+  {
+   "q": "Correct French format for 10% off:",
+   "options": [
+    "10% de rabais",
+    "10 % de rabais",
+    "%10 de rabais",
+    "10 pour-cent de rabais"
+   ],
+   "a": 1,
+   "why": "Space before %."
+  },
+  {
+   "q": "Which is lowercase in French?",
+   "options": [
+    "Montréal",
+    "les Canadiens (people)",
+    "le mois de mars",
+    "Radio-Canada"
+   ],
+   "a": 2,
+   "why": "Months are lowercase."
+  },
+  {
+   "q": "In novels, a long dash (—) usually marks…",
+   "options": [
+    "a list",
+    "a change of speaker in dialogue",
+    "a subtraction",
+    "a hyphenated word"
+   ],
+   "a": 1,
+   "why": "The tiret introduces each new reply."
+  },
+  {
+   "q": "OQLF address format:",
+   "options": [
+    "1234 rue Principale",
+    "1234, rue Principale",
+    "Rue Principale 1234",
+    "1234 Principale St."
+   ],
+   "a": 1,
+   "why": "Civic number, comma, street type in lowercase."
+  },
+  {
+   "q": "'Mme' is written…",
+   "options": [
+    "with a final period",
+    "without a period",
+    "always in full",
+    "with a capital M and E"
+   ],
+   "a": 1,
+   "why": "No period because the abbreviation ends with the last letter of the word."
+  },
+  {
+   "q": "How is a time written in formal French?",
+   "options": [
+    "2:30 PM",
+    "14h30m",
+    "14 h 30",
+    "14.30"
+   ],
+   "a": 2,
+   "why": "24-hour clock with h and spaces."
+  },
+  {
+   "q": "Do accents stay on capital letters?",
+   "options": [
+    "No, never",
+    "Yes, the OQLF recommends keeping them",
+    "Only on É",
+    "Only in France"
+   ],
+   "a": 1,
+   "why": "ÉCOLE, À bientôt: accents keep their value."
+  }
+ ]
+}

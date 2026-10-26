@@ -1,0 +1,676 @@
+{
+ "w": 138,
+ "title": "All relative pronouns review",
+ "goal": "By the end of this lesson you can choose the right relative pronoun in any sentence (qui, que, dont, où, lequel and its forms, ce qui, ce que, ce dont, ce à quoi) and rewrite casual spoken Quebec sentences in correct formal French.",
+ "learn": [
+  {
+   "h": "The decision path",
+   "body": [
+    "Ask one question: what is the role of the missing word in the relative clause? Subject → *qui*. Direct object → *que*. Complement with *de* → *dont*. Place or time → *où*. Any other preposition → preposition + *lequel* (or *qui* for people).",
+    "Test by rebuilding the full sentence: *J'ai lu le livre. Tu m'as parlé **de** ce livre.* → *de* attached to *parler* → *le livre **dont** tu m'as parlé*."
+   ],
+   "table": {
+    "head": [
+     "Role in the clause",
+     "Pronoun",
+     "Example"
+    ],
+    "rows": [
+     [
+      "subject",
+      "qui",
+      "la voisine qui déneige mon entrée"
+     ],
+     [
+      "direct object",
+      "que / qu'",
+      "le char que j'ai acheté"
+     ],
+     [
+      "de + verb/adj./noun",
+      "dont",
+      "le film dont tout le monde parle"
+     ],
+     [
+      "place / time",
+      "où",
+      "la ville où je suis né; le jour où il est arrivé"
+     ],
+     [
+      "preposition + thing",
+      "lequel, laquelle…",
+      "la table sur laquelle j'écris"
+     ],
+     [
+      "preposition + person",
+      "qui (or lequel)",
+      "l'ami avec qui je voyage"
+     ],
+     [
+      "à + thing",
+      "auquel, à laquelle…",
+      "le projet auquel je travaille"
+     ],
+     [
+      "compound prep. + de",
+      "duquel, de laquelle…",
+      "le parc à côté duquel j'habite"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Lequel after other prepositions",
+   "body": [
+    "With *avec, pour, sur, dans, sans, par, sous, chez, entre, parmi*, use *lequel* for things: *l'ordinateur avec lequel je travaille*, *la raison pour laquelle je suis venu*, *les dossiers sur lesquels nous travaillons*.",
+    "For people, *qui* is preferred: *la personne pour qui je travaille*. Exception: after *parmi* and *entre*, use *lesquels* even for people: *les candidats parmi lesquels on choisira*."
+   ],
+   "tip": "La raison pour laquelle = the reason why. Never *la raison pourquoi* in writing."
+  },
+  {
+   "h": "Ce qui, ce que, ce dont, ce à quoi",
+   "body": [
+    "When there is no noun to refer to (the antecedent is an idea, 'what' or 'which'), add *ce*: *Ce qui m'inquiète, c'est le prix.* *Ce que je veux, c'est du repos.* *Ce dont j'ai besoin, c'est d'un café.* *Ce à quoi je pense, c'est l'été.*",
+    "With other prepositions, the neutral pronoun is *quoi*: *ce sur quoi on travaille*, *ce contre quoi ils manifestent*, *Il n'y a pas de quoi.*"
+   ],
+   "table": {
+    "head": [
+     "Role",
+     "Neutral form",
+     "Example"
+    ],
+    "rows": [
+     [
+      "subject",
+      "ce qui",
+      "Ce qui compte, c'est la santé."
+     ],
+     [
+      "object",
+      "ce que",
+      "Dis-moi ce que tu penses."
+     ],
+     [
+      "de",
+      "ce dont",
+      "C'est tout ce dont je me souviens."
+     ],
+     [
+      "à",
+      "ce à quoi",
+      "Ce à quoi je tiens, c'est ma famille."
+     ],
+     [
+      "other preposition",
+      "ce + prep. + quoi",
+      "C'est ce sur quoi on s'est entendus."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Where speech and writing part ways",
+   "body": [
+    "Spoken Quebec French (and casual French everywhere) simplifies: *que* tends to replace *dont* and prepositional relatives, and the preposition moves to the end: *la fille que je sors avec*, *le gars que je t'ai parlé*. *Où* also expands: *la fois où*, *le moment où* (both correct) but also *la place où je travaille dedans* (nonstandard).",
+    "These forms are normal in conversation, but in an email, a report or a letter they read as errors. This lesson's skill: hear the casual form, write the formal one."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "La voisine qui déneige mon entrée s'appelle Ginette.",
+   "en": "The neighbour who clears my driveway is named Ginette.",
+   "note": "qui = subject"
+  },
+  {
+   "fr": "L'auto que j'ai achetée l'an dernier consomme peu.",
+   "en": "The car I bought last year uses little gas.",
+   "note": "que = object; agreement achetée"
+  },
+  {
+   "fr": "C'est le film dont tout le monde parle.",
+   "en": "It's the movie everyone is talking about.",
+   "note": "parler de → dont"
+  },
+  {
+   "fr": "La ville où je suis né a beaucoup changé.",
+   "en": "The town where I was born has changed a lot.",
+   "note": "où = place"
+  },
+  {
+   "fr": "Je me souviens du jour où on s'est rencontrés.",
+   "en": "I remember the day we met.",
+   "note": "où = time (not quand)"
+  },
+  {
+   "fr": "Voici la raison pour laquelle je vous écris.",
+   "en": "Here is the reason I'm writing to you.",
+   "note": "pour + laquelle"
+  },
+  {
+   "fr": "L'ordinateur avec lequel je travaille est trop lent.",
+   "en": "The computer I work with is too slow.",
+   "note": "avec + lequel"
+  },
+  {
+   "fr": "La personne pour qui je travaille est très exigeante.",
+   "en": "The person I work for is very demanding.",
+   "note": "person → pour qui"
+  },
+  {
+   "fr": "Les candidats parmi lesquels on choisira sont tous qualifiés.",
+   "en": "The candidates we'll choose from are all qualified.",
+   "note": "parmi → lesquels even for people"
+  },
+  {
+   "fr": "C'est le projet auquel je consacre mes soirées.",
+   "en": "It's the project I devote my evenings to.",
+   "note": "consacrer à → auquel"
+  },
+  {
+   "fr": "Le dépanneur en face duquel j'habite ouvre jusqu'à minuit.",
+   "en": "The corner store I live across from is open until midnight.",
+   "note": "en face de → duquel"
+  },
+  {
+   "fr": "Ce qui m'inquiète, c'est le prix de l'épicerie.",
+   "en": "What worries me is the cost of groceries.",
+   "note": "ce qui = subject"
+  },
+  {
+   "fr": "Dis-moi ce que tu en penses.",
+   "en": "Tell me what you think about it.",
+   "note": "ce que = object"
+  },
+  {
+   "fr": "C'est exactement ce dont j'avais besoin.",
+   "en": "It's exactly what I needed.",
+   "note": "avoir besoin de → ce dont"
+  },
+  {
+   "fr": "Ce à quoi je ne m'attendais pas, c'est la neige en mai.",
+   "en": "What I didn't expect was snow in May.",
+   "note": "s'attendre à → ce à quoi"
+  },
+  {
+   "fr": "C'est ce sur quoi nous nous sommes entendus.",
+   "en": "That's what we agreed on.",
+   "note": "s'entendre sur → ce sur quoi"
+  }
+ ],
+ "quebec": {
+  "intro": "This lesson's Quebec task is rewriting: take what you hear at the dépanneur, at work or on a podcast, and put it into correct written French. The informal versions below are very common in speech; the standard ones are what you write.",
+  "items": [
+   {
+    "std": "la fille avec qui je sors",
+    "qc": "la fille que je sors avec",
+    "en": "the girl I'm going out with",
+    "note": "stranded avec after que; nonstandard, informal"
+   },
+   {
+    "std": "le gars dont je t'ai parlé",
+    "qc": "le gars que je t'ai parlé",
+    "en": "the guy I told you about",
+    "note": "que instead of dont; nonstandard"
+   },
+   {
+    "std": "la compagnie pour laquelle je travaille",
+    "qc": "la compagnie que je travaille pour",
+    "en": "the company I work for",
+    "note": "nonstandard, informal"
+   },
+   {
+    "std": "le tiroir dans lequel j'ai mis les clés",
+    "qc": "le tiroir que j'ai mis les clés dedans",
+    "en": "the drawer I put the keys in",
+    "note": "dedans = in it; nonstandard"
+   },
+   {
+    "std": "Ce dont j'ai besoin, c'est de repos.",
+    "qc": "Ce que j'ai besoin, c'est de repos.",
+    "en": "What I need is rest.",
+    "note": "ce que for ce dont; very common in speech"
+   },
+   {
+    "std": "Ce qui m'énerve, c'est le trafic.",
+    "qc": "Ce qui m'écœure, c'est le trafic.",
+    "en": "What bugs me is the traffic.",
+    "note": "this one is correct; écœurer = to annoy, get on someone's nerves, very Quebec"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "C'est la raison ___ je suis parti.",
+   "options": [
+    "pourquoi",
+    "pour laquelle",
+    "dont",
+    "que"
+   ],
+   "a": 1,
+   "why": "Pour + feminine noun → pour laquelle."
+  },
+  {
+   "t": "mcq",
+   "q": "Je me souviens du jour ___ il est arrivé.",
+   "options": [
+    "quand",
+    "où",
+    "que",
+    "dont"
+   ],
+   "a": 1,
+   "why": "After a time noun, the relative is où."
+  },
+  {
+   "t": "mcq",
+   "q": "___ m'intéresse, c'est l'histoire.",
+   "options": [
+    "Ce que",
+    "Ce qui",
+    "Ce dont",
+    "Qui"
+   ],
+   "a": 1,
+   "why": "Subject of intéresse → ce qui."
+  },
+  {
+   "t": "mcq",
+   "q": "Les invités parmi ___ se trouvait le maire…",
+   "options": [
+    "qui",
+    "lesquels",
+    "que",
+    "dont"
+   ],
+   "a": 1,
+   "why": "After parmi, use lesquels even for people."
+  },
+  {
+   "t": "mcq",
+   "q": "Formal version of 'le gars que je t'ai parlé':",
+   "options": [
+    "le gars qui je t'ai parlé",
+    "le gars dont je t'ai parlé",
+    "le gars duquel je t'ai parlé",
+    "le gars où je t'ai parlé"
+   ],
+   "a": 1,
+   "why": "Parler de → dont."
+  },
+  {
+   "t": "fill",
+   "q": "C'est tout ce ___ je me souviens. (se souvenir de)",
+   "a": [
+    "dont"
+   ],
+   "en": "That's all I remember.",
+   "why": "Se souvenir de → ce dont."
+  },
+  {
+   "t": "fill",
+   "q": "La table sur ___ tu écris est ancienne.",
+   "a": [
+    "laquelle"
+   ],
+   "en": "The table you're writing on is old.",
+   "why": "Sur + table (f.) → laquelle."
+  },
+  {
+   "t": "fill",
+   "q": "Le collègue avec ___ je partage mon bureau est malade. (person)",
+   "a": [
+    "qui",
+    "lequel"
+   ],
+   "en": "The colleague I share my office with is sick.",
+   "why": "Person after avec: qui (preferred) or lequel."
+  },
+  {
+   "t": "fill",
+   "q": "Ce à ___ je pense, c'est les vacances.",
+   "a": [
+    "quoi"
+   ],
+   "en": "What I'm thinking about is vacation.",
+   "why": "Penser à + neutral antecedent → ce à quoi."
+  },
+  {
+   "t": "fill",
+   "q": "Le magasin ___ j'ai acheté ce manteau a fermé. (place)",
+   "a": [
+    "où"
+   ],
+   "en": "The store where I bought this coat has closed.",
+   "why": "Place → où."
+  },
+  {
+   "t": "build",
+   "en": "the company I work for",
+   "a": "la compagnie pour laquelle je travaille"
+  },
+  {
+   "t": "build",
+   "en": "It's exactly what I needed.",
+   "a": "C'est exactement ce dont j'avais besoin."
+  },
+  {
+   "t": "translate",
+   "en": "the girl I'm going out with",
+   "a": [
+    "la fille avec qui je sors",
+    "la fille avec laquelle je sors"
+   ],
+   "why": "Sortir avec + person → avec qui."
+  },
+  {
+   "t": "translate",
+   "en": "Tell me what you think.",
+   "a": [
+    "Dis-moi ce que tu penses.",
+    "Dites-moi ce que vous pensez.",
+    "Dis-moi ce que tu en penses.",
+    "Dites-moi ce que vous en pensez."
+   ],
+   "why": "Object with no antecedent → ce que."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "l'antécédent",
+   "en": "antecedent",
+   "g": "m",
+   "ex": "Le pronom relatif remplace l'antécédent."
+  },
+  {
+   "fr": "la raison pour laquelle",
+   "en": "the reason why",
+   "ex": "Voici la raison pour laquelle je pars."
+  },
+  {
+   "fr": "parmi",
+   "en": "among",
+   "ex": "parmi les finalistes"
+  },
+  {
+   "fr": "s'entendre sur",
+   "en": "to agree on",
+   "ex": "On s'est entendus sur le prix."
+  },
+  {
+   "fr": "se souvenir de",
+   "en": "to remember",
+   "ex": "Je me souviens de ce jour-là."
+  },
+  {
+   "fr": "avoir besoin de",
+   "en": "to need",
+   "ex": "J'ai besoin d'un coup de main."
+  },
+  {
+   "fr": "consacrer",
+   "en": "to devote",
+   "ex": "Elle consacre ses fins de semaine au bénévolat."
+  },
+  {
+   "fr": "exigeant / exigeante",
+   "en": "demanding",
+   "ex": "Mon patron est exigeant."
+  },
+  {
+   "fr": "le tiroir",
+   "en": "drawer",
+   "g": "m",
+   "ex": "Les clés sont dans le tiroir."
+  },
+  {
+   "fr": "déneiger",
+   "en": "to clear snow from",
+   "ex": "Il faut déneiger l'entrée."
+  },
+  {
+   "fr": "l'entrée",
+   "en": "driveway; entrance",
+   "g": "f",
+   "ex": "L'entrée est bloquée par la neige.",
+   "qc": true
+  },
+  {
+   "fr": "il n'y a pas de quoi",
+   "en": "you're welcome, don't mention it",
+   "ex": "Merci! — Il n'y a pas de quoi."
+  },
+  {
+   "fr": "dedans",
+   "en": "inside, in it",
+   "ex": "La boîte? Les papiers sont dedans."
+  },
+  {
+   "fr": "écœurer",
+   "en": "to annoy, wear out someone's patience (informal Quebec); to disgust",
+   "ex": "Ça m'écœure, cette pluie-là.",
+   "qc": true
+  },
+  {
+   "fr": "sortir avec",
+   "en": "to go out with, date",
+   "ex": "Elle sort avec Max depuis un an."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "ce qui / ce que",
+    "tip": "[ski] / [skuh] in fast speech; listen for the vowel."
+   },
+   {
+    "fr": "ce dont",
+    "tip": "[suh DON]."
+   },
+   {
+    "fr": "ce à quoi",
+    "tip": "[suh a KWA]."
+   },
+   {
+    "fr": "pour laquelle",
+    "tip": "[pour la-KÈL]."
+   },
+   {
+    "fr": "que je sors avec",
+    "tip": "Quebec: [kuh-j'sor-za-VÈK]."
+   },
+   {
+    "fr": "parmi lesquels",
+    "tip": "[par-MI lé-KÈL]."
+   }
+  ],
+  "title": "Corriger un courriel",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Peux-tu relire mon courriel avant que je l'envoie? C'est pour le client.",
+    "en": "Can you reread my email before I send it? It's for the client."
+   },
+   {
+    "s": "B",
+    "fr": "Bien sûr. « Voici le document que je vous ai parlé hier. » Ça, faut corriger.",
+    "en": "Sure. 'Here is the document that I talked to you yesterday.' That needs fixing."
+   },
+   {
+    "s": "A",
+    "fr": "Ah oui : « le document dont je vous ai parlé ».",
+    "en": "Oh yes: 'the document I told you about'."
+   },
+   {
+    "s": "B",
+    "fr": "Ensuite : « C'est la raison pourquoi on a du retard. »",
+    "en": "Next: 'That's the reason why we're late.'"
+   },
+   {
+    "s": "A",
+    "fr": "« La raison pour laquelle nous accusons un retard. » Plus pro.",
+    "en": "'The reason for which we are behind schedule.' More professional."
+   },
+   {
+    "s": "B",
+    "fr": "Pis : « Ce que vous avez besoin, c'est d'une signature. »",
+    "en": "And: 'What you need is a signature.'"
+   },
+   {
+    "s": "A",
+    "fr": "« Ce dont vous avez besoin. » Merci, t'es ben fine!",
+    "en": "'What you need.' Thanks, you're so kind!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Who is the email for?",
+    "options": [
+     "A colleague",
+     "A client",
+     "A friend"
+    ],
+    "a": 1
+   },
+   {
+    "q": "How is 'la raison pourquoi' corrected?",
+    "options": [
+     "la raison dont",
+     "la raison pour laquelle",
+     "la raison que"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Why does 'ce que vous avez besoin' need correcting?",
+    "options": [
+     "Avoir besoin takes de → ce dont",
+     "It should be ce qui",
+     "It's correct"
+    ],
+    "a": 0
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Describe your workplace in four sentences using four different relative pronouns.",
+   "model": "Je travaille dans un bureau où il y a trente personnes. La collègue avec qui je dîne est très drôle. Le logiciel que nous utilisons est vieux. C'est un problème dont tout le monde se plaint."
+  },
+  {
+   "prompt": "Answer with ce qui, ce que, ce dont: What do you like, need and fear about winter?",
+   "model": "Ce que j'aime, c'est le silence après une tempête. Ce dont j'ai besoin, c'est d'un bon manteau. Ce qui me fait peur, c'est la glace sur les trottoirs."
+  },
+  {
+   "prompt": "Rewrite aloud in formal French: 'La place que je travaille dedans, le boss que je t'ai parlé pis la job que j'ai appliqué pour.'",
+   "model": "L'endroit où je travaille, le patron dont je t'ai parlé et le poste auquel j'ai postulé."
+  }
+ ],
+ "write": {
+  "prompt": "Take this casual message and rewrite it as a formal email (5–6 sentences): 'Salut, c'est le contrat que je t'ai parlé. La compagnie que je travaille pour veut une réponse. Ce qu'on a besoin c'est ta signature. C'est la raison pourquoi je t'écris.'",
+  "model": "Bonjour Madame Côté, vous trouverez ci-joint le contrat dont je vous ai parlé lors de notre appel. L'entreprise pour laquelle je travaille souhaite obtenir une réponse d'ici vendredi. Ce dont nous avons besoin, c'est de votre signature à la page 4. C'est la raison pour laquelle je me permets de vous écrire aujourd'hui. Je reste à votre disposition pour toute question. Cordialement, Alex Martin"
+ },
+ "quiz": [
+  {
+   "q": "'L'homme ___ est venu hier'",
+   "options": [
+    "que",
+    "qui",
+    "dont",
+    "où"
+   ],
+   "a": 1,
+   "why": "Subject → qui."
+  },
+  {
+   "q": "'Le livre ___ j'ai lu'",
+   "options": [
+    "qui",
+    "que",
+    "dont",
+    "lequel"
+   ],
+   "a": 1,
+   "why": "Direct object → que."
+  },
+  {
+   "q": "'La période ___ il a vécu à Paris'",
+   "options": [
+    "quand",
+    "où",
+    "dont",
+    "que"
+   ],
+   "a": 1,
+   "why": "Time noun → où."
+  },
+  {
+   "q": "Which is correct for a thing after sur?",
+   "options": [
+    "sur qui",
+    "sur lequel",
+    "sur dont",
+    "sur que"
+   ],
+   "a": 1,
+   "why": "Things after a preposition → lequel."
+  },
+  {
+   "q": "'C'est ___ je rêve' (rêver de)",
+   "options": [
+    "ce que",
+    "ce dont",
+    "ce qui",
+    "ce à quoi"
+   ],
+   "a": 1,
+   "why": "Rêver de → ce dont."
+  },
+  {
+   "q": "'Il n'y a pas de quoi' means…",
+   "options": [
+    "There's nothing to eat",
+    "You're welcome",
+    "There's no reason",
+    "I don't know"
+   ],
+   "a": 1,
+   "why": "Standard reply to merci."
+  },
+  {
+   "q": "'La fille que je sors avec' should be written…",
+   "options": [
+    "la fille dont je sors",
+    "la fille avec qui je sors",
+    "la fille où je sors",
+    "la fille que je sors"
+   ],
+   "a": 1,
+   "why": "Sortir avec + person → avec qui."
+  },
+  {
+   "q": "'Ce sur quoi nous travaillons' — why quoi?",
+   "options": [
+    "Because there is no specific noun antecedent",
+    "Because it's a question",
+    "Because it's informal",
+    "Because sur requires quoi always"
+   ],
+   "a": 0,
+   "why": "With ce (neutral antecedent), the pronoun after a preposition is quoi."
+  },
+  {
+   "q": "Which is informal, nonstandard speech?",
+   "options": [
+    "le tiroir dans lequel je l'ai mis",
+    "le tiroir que je l'ai mis dedans",
+    "le tiroir où je l'ai mis",
+    "le tiroir que j'ai ouvert"
+   ],
+   "a": 1,
+   "why": "Stranded dedans after que is nonstandard."
+  }
+ ]
+}

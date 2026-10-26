@@ -1,0 +1,639 @@
+{
+ "w": 166,
+ "title": "Targeted lesson: weakest skill",
+ "goal": "By the end of this lesson you can use French prepositions accurately (verbs + à / de, places, time and transport) and avoid the preposition calques from English that are common in Quebec speech: the accuracy point that most often lowers English speakers' B2 writing scores.",
+ "learn": [
+  {
+   "h": "Why prepositions",
+   "body": [
+    "The roadmap planned this lesson around the weakest skill in Mock 2. With no recorded results, it targets prepositions, the area where English speakers keep making errors even after the subjunctive and pronouns are under control, because English prepositions 'leak' into French: *dépendre sur*, *chercher pour*, *sur la radio*.",
+    "If your mock pointed elsewhere, still do the drills, then add extra practice in that skill using the dialogue and speaking tasks."
+   ]
+  },
+  {
+   "h": "Verbs with à, verbs with de, verbs with no preposition",
+   "body": [
+    "No preposition in French where English has one: *chercher* (look for), *attendre* (wait for), *écouter* (listen to), *regarder* (look at), *demander* (ask for), *payer* (pay for). *J'attends l'autobus*, not *j'attends pour l'autobus*.",
+    "Preposition in French where English has none: *obéir à, répondre à, téléphoner à, ressembler à, assister à, entrer dans, se souvenir de, changer de, profiter de, douter de, jouer à (a game) / jouer de (an instrument)*.",
+    "Different preposition: *dépendre de* (depend on), *consister en / à* (consist of), *être fâché contre* (angry with), *se fâcher contre*, *être fier de* (proud of), *être bon en* (good at a subject), *penser à* (think about) vs *penser de* (opinion: *Qu'est-ce que tu penses de…?*)."
+   ],
+   "table": {
+    "head": [
+     "English",
+     "Wrong",
+     "Right"
+    ],
+    "rows": [
+     [
+      "look for",
+      "chercher pour",
+      "chercher"
+     ],
+     [
+      "wait for",
+      "attendre pour",
+      "attendre"
+     ],
+     [
+      "depend on",
+      "dépendre sur",
+      "dépendre de"
+     ],
+     [
+      "answer the email",
+      "répondre le courriel",
+      "répondre au courriel"
+     ],
+     [
+      "remember the trip",
+      "se souvenir le voyage",
+      "se souvenir du voyage"
+     ],
+     [
+      "change jobs",
+      "changer les emplois",
+      "changer d'emploi"
+     ]
+    ]
+   },
+   "tip": "Learn verbs with their preposition as one chunk: répondre à, se souvenir de, dépendre de."
+  },
+  {
+   "h": "Places, transport and time",
+   "body": [
+    "Cities: *à Montréal*. Feminine countries and provinces: *en France, en Ontario, en Colombie-Britannique*; masculine: *au Canada, au Québec, au Manitoba*; plural: *aux États-Unis*. Coming from: *de Montréal, du Québec, des États-Unis*.",
+    "Transport: *en voiture, en autobus, en avion, en train, en métro* (enclosed); *à pied, à vélo, à cheval* (on top of). Informal speech often says *en vélo*.",
+    "Time: *en 2025, en mars, en hiver* but *au printemps*; *dans deux jours* (two days from now) vs *en deux jours* (taking two days); *il y a deux ans* (ago); *pendant trois heures* (for); *depuis trois ans* (for, still ongoing)."
+   ]
+  },
+  {
+   "h": "Media and everyday calques",
+   "body": [
+    "*à la radio, à la télé* (not *sur la radio*); *sur Internet, sur le site web*; *dans le journal*; *sur la rue* is common in Quebec, while standard French prefers *dans la rue*; for addresses, Quebec usage *sur la rue Saint-Denis* is widely accepted.",
+    "*être sur un comité* → *faire partie d'un comité / siéger à un comité*; *être sur l'heure du dîner* → *pendant l'heure du dîner*; *à date* → *jusqu'à présent*; *en charge de* → *responsable de*; *sur semaine* (Quebec) = *en semaine*."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Je cherche mes clés depuis dix minutes.",
+   "en": "I've been looking for my keys for ten minutes.",
+   "note": "chercher + direct object; depuis for ongoing time"
+  },
+  {
+   "fr": "On attend l'autobus au coin de la rue.",
+   "en": "We're waiting for the bus at the corner.",
+   "note": "attendre without pour"
+  },
+  {
+   "fr": "Ça dépend de la météo.",
+   "en": "It depends on the weather.",
+   "note": "dépendre de"
+  },
+  {
+   "fr": "As-tu répondu au courriel de la directrice?",
+   "en": "Did you answer the director's email?",
+   "note": "répondre à"
+  },
+  {
+   "fr": "Je me souviens très bien de notre premier hiver ici.",
+   "en": "I remember our first winter here very well.",
+   "note": "se souvenir de"
+  },
+  {
+   "fr": "Elle a changé d'emploi l'an dernier.",
+   "en": "She changed jobs last year.",
+   "note": "changer de + noun without article"
+  },
+  {
+   "fr": "Mon fils joue au hockey et ma fille joue du piano.",
+   "en": "My son plays hockey and my daughter plays piano.",
+   "note": "jouer à (sport/game) / jouer de (instrument)"
+  },
+  {
+   "fr": "Qu'est-ce que tu penses de mon idée?",
+   "en": "What do you think of my idea?",
+   "note": "penser de = opinion"
+  },
+  {
+   "fr": "Je pense souvent à mes parents.",
+   "en": "I often think about my parents.",
+   "note": "penser à = have in mind"
+  },
+  {
+   "fr": "Il a déménagé de Toronto au Québec, puis en Gaspésie.",
+   "en": "He moved from Toronto to Quebec, then to the Gaspé.",
+   "note": "au Québec (province), en Gaspésie (region, f.)"
+  },
+  {
+   "fr": "Je vais au travail à vélo l'été et en métro l'hiver.",
+   "en": "I go to work by bike in summer and by metro in winter.",
+   "note": "à vélo / en métro"
+  },
+  {
+   "fr": "Le rapport sera prêt dans deux jours.",
+   "en": "The report will be ready in two days.",
+   "note": "dans = from now"
+  },
+  {
+   "fr": "Elle a écrit le rapport en deux jours.",
+   "en": "She wrote the report in two days.",
+   "note": "en = duration needed"
+  },
+  {
+   "fr": "J'ai entendu la nouvelle à la radio.",
+   "en": "I heard the news on the radio.",
+   "note": "à la radio, not sur"
+  },
+  {
+   "fr": "Jusqu'à présent, tout va bien.",
+   "en": "So far, everything's fine.",
+   "note": "instead of the Quebec calque 'à date'"
+  },
+  {
+   "fr": "Elle siège au comité de parents de l'école.",
+   "en": "She sits on the school's parents' committee.",
+   "note": "siéger à / faire partie de, not 'être sur'"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebec speech has several preposition calques from English. They are widely used and perfectly understood, but they're flagged in writing and exams. Learn to switch to the standard form when it counts.",
+  "items": [
+   {
+    "std": "Jusqu'à présent, on a vendu cent billets.",
+    "qc": "À date, on a vendu cent billets.",
+    "en": "So far, we've sold a hundred tickets.",
+    "note": "à date: very common Quebec calque of 'to date'"
+   },
+   {
+    "std": "Je fais partie du comité.",
+    "qc": "Chu sur le comité.",
+    "en": "I'm on the committee.",
+    "note": "être sur un comité: calque; informal chu"
+   },
+   {
+    "std": "Je travaille en semaine.",
+    "qc": "Je travaille sur semaine.",
+    "en": "I work on weekdays.",
+    "note": "sur semaine: Quebec usage"
+   },
+   {
+    "std": "Je t'appelle pendant l'heure du dîner.",
+    "qc": "J't'appelle sur l'heure du dîner.",
+    "en": "I'll call you on my lunch break.",
+    "note": "dîner = lunch in Quebec"
+   },
+   {
+    "std": "Il l'a dit à la télévision.",
+    "qc": "Y l'a dit à la tévé.",
+    "en": "He said it on TV.",
+    "note": "à la télé is standard; Quebec pronounces 'télé' or 'tévé' (informal)"
+   },
+   {
+    "std": "Elle est responsable des ventes.",
+    "qc": "Est en charge des ventes.",
+    "en": "She's in charge of sales.",
+    "note": "est = elle est (informal); en charge de: calque"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "'I'm waiting for the bus.'",
+   "options": [
+    "J'attends pour l'autobus.",
+    "J'attends l'autobus.",
+    "J'attends à l'autobus.",
+    "J'attends de l'autobus."
+   ],
+   "a": 1,
+   "why": "attendre + direct object."
+  },
+  {
+   "t": "mcq",
+   "q": "Il habite ___ Ontario.",
+   "options": [
+    "au",
+    "à",
+    "en",
+    "dans"
+   ],
+   "a": 2,
+   "why": "Ontario is masculine but starts with a vowel → en."
+  },
+  {
+   "t": "mcq",
+   "q": "Ma fille joue ___ violon.",
+   "options": [
+    "au",
+    "du",
+    "le",
+    "en"
+   ],
+   "a": 1,
+   "why": "jouer de + instrument."
+  },
+  {
+   "t": "mcq",
+   "q": "Standard French for 'à date'?",
+   "options": [
+    "à jour",
+    "jusqu'à présent",
+    "en date",
+    "dès maintenant"
+   ],
+   "a": 1,
+   "why": "à date is a Quebec calque of 'to date'."
+  },
+  {
+   "t": "mcq",
+   "q": "Le train part ___ dix minutes.",
+   "options": [
+    "en",
+    "dans",
+    "pendant",
+    "depuis"
+   ],
+   "a": 1,
+   "why": "dans = from now."
+  },
+  {
+   "t": "fill",
+   "q": "Ça dépend ___ ton horaire.",
+   "a": [
+    "de"
+   ],
+   "en": "It depends on your schedule.",
+   "why": "dépendre de."
+  },
+  {
+   "t": "fill",
+   "q": "Il faut répondre ___ client avant midi.",
+   "a": [
+    "au"
+   ],
+   "en": "We must answer the client before noon.",
+   "why": "répondre à + le → au."
+  },
+  {
+   "t": "fill",
+   "q": "Je me souviens ___ cette chanson.",
+   "a": [
+    "de"
+   ],
+   "en": "I remember that song.",
+   "why": "se souvenir de."
+  },
+  {
+   "t": "fill",
+   "q": "Ils viennent ___ États-Unis.",
+   "a": [
+    "des"
+   ],
+   "en": "They come from the United States.",
+   "why": "de + les → des."
+  },
+  {
+   "t": "fill",
+   "q": "J'ai entendu ça ___ la radio.",
+   "a": [
+    "à"
+   ],
+   "en": "I heard that on the radio.",
+   "why": "à la radio."
+  },
+  {
+   "t": "build",
+   "en": "She changed jobs last year.",
+   "a": "Elle a changé d'emploi l'an dernier."
+  },
+  {
+   "t": "build",
+   "en": "I go to work by bike.",
+   "a": "Je vais au travail à vélo."
+  },
+  {
+   "t": "translate",
+   "en": "What do you think of this plan?",
+   "a": [
+    "Qu'est-ce que tu penses de ce plan?",
+    "Que penses-tu de ce plan?",
+    "Qu'est-ce que vous pensez de ce plan?",
+    "Que pensez-vous de ce plan?"
+   ],
+   "why": "penser de for an opinion."
+  },
+  {
+   "t": "translate",
+   "en": "I'm looking for a new apartment.",
+   "a": [
+    "Je cherche un nouvel appartement.",
+    "Je cherche un nouveau logement.",
+    "Je me cherche un nouvel appartement.",
+    "Je cherche un nouvel appart."
+   ],
+   "why": "chercher, no preposition; nouvel before a vowel."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "dépendre de",
+   "en": "to depend on",
+   "ex": "Tout dépend de toi."
+  },
+  {
+   "fr": "répondre à",
+   "en": "to answer",
+   "ex": "Elle répond à ses courriels le matin."
+  },
+  {
+   "fr": "se souvenir de",
+   "en": "to remember",
+   "ex": "Tu te souviens de lui?"
+  },
+  {
+   "fr": "changer de",
+   "en": "to change (one thing for another)",
+   "ex": "J'ai changé d'avis."
+  },
+  {
+   "fr": "profiter de",
+   "en": "to take advantage of, enjoy",
+   "ex": "Profitez de l'été!"
+  },
+  {
+   "fr": "ressembler à",
+   "en": "to look like, resemble",
+   "ex": "Il ressemble à son père."
+  },
+  {
+   "fr": "obéir à",
+   "en": "to obey",
+   "ex": "Le chien obéit à son maître."
+  },
+  {
+   "fr": "être fâché contre",
+   "en": "to be angry with",
+   "ex": "Elle est fâchée contre moi."
+  },
+  {
+   "fr": "être bon en",
+   "en": "to be good at (a subject)",
+   "ex": "Il est bon en maths."
+  },
+  {
+   "fr": "jusqu'à présent",
+   "en": "so far, to date",
+   "ex": "Jusqu'à présent, personne n'a protesté."
+  },
+  {
+   "fr": "siéger à",
+   "en": "to sit on (a committee, board)",
+   "ex": "Elle siège au conseil d'administration."
+  },
+  {
+   "fr": "à date",
+   "en": "so far (Quebec calque)",
+   "ex": "À date, ça va bien.",
+   "qc": true
+  },
+  {
+   "fr": "sur semaine",
+   "en": "on weekdays (Quebec)",
+   "ex": "Sur semaine, je me couche tôt.",
+   "qc": true
+  },
+  {
+   "fr": "le dîner",
+   "en": "lunch (Quebec); dinner (France)",
+   "g": "m",
+   "ex": "On mange ensemble au dîner?",
+   "qc": true
+  },
+  {
+   "fr": "à vélo",
+   "en": "by bike",
+   "ex": "Il va à l'école à vélo."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "en Ontario",
+    "tip": "an-non-ta-RYO: liaison in [n]."
+   },
+   {
+    "fr": "aux États-Unis",
+    "tip": "o-zé-ta-zu-NI: two liaisons in [z]."
+   },
+   {
+    "fr": "jusqu'à présent",
+    "tip": "jus-ka-pré-ZAN."
+   },
+   {
+    "fr": "je me souviens de",
+    "tip": "In speech: j'me souviens d'…"
+   },
+   {
+    "fr": "à date",
+    "tip": "a-DATT: the t is pronounced."
+   },
+   {
+    "fr": "sur semaine",
+    "tip": "syr-suh-MÈNN, often su'semaine in fast speech."
+   }
+  ],
+  "title": "La recherche d'appartement",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Pis, tu cherches encore un appartement?",
+    "en": "So, are you still looking for an apartment?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui. À date, j'en ai visité six, mais rien de convaincant.",
+    "en": "Yes. So far I've visited six, but nothing convincing."
+   },
+   {
+    "s": "A",
+    "fr": "Ça dépend de quoi, ton choix?",
+    "en": "What does your choice depend on?"
+   },
+   {
+    "s": "B",
+    "fr": "Du prix, surtout, et de la distance. Je vais au bureau à vélo l'été, alors je veux rester proche.",
+    "en": "Mostly price, and distance. I bike to the office in summer, so I want to stay close."
+   },
+   {
+    "s": "A",
+    "fr": "As-tu répondu à l'annonce que je t'ai envoyée?",
+    "en": "Did you reply to the ad I sent you?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, j'attends la réponse du propriétaire. Il doit me rappeler dans deux jours.",
+    "en": "Yes, I'm waiting for the owner's answer. He's supposed to call me back in two days."
+   },
+   {
+    "s": "A",
+    "fr": "Et si ça ne marche pas?",
+    "en": "And if it doesn't work out?"
+   },
+   {
+    "s": "B",
+    "fr": "Je vais changer de quartier. Je pense de plus en plus à Verdun.",
+    "en": "I'll change neighbourhoods. I'm thinking more and more about Verdun."
+   }
+  ],
+  "questions": [
+   {
+    "q": "How many apartments has B visited?",
+    "options": [
+     "Two",
+     "Six",
+     "Ten"
+    ],
+    "a": 1
+   },
+   {
+    "q": "How does B get to work in summer?",
+    "options": [
+     "By metro",
+     "By car",
+     "By bike"
+    ],
+    "a": 2
+   },
+   {
+    "q": "When should the owner call back?",
+    "options": [
+     "Today",
+     "In two days",
+     "Next week"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Describe your weekly routine using at least six verb + preposition chunks (attendre, chercher, répondre à, penser à, profiter de, changer de…).",
+   "model": "Le matin, j'attends l'autobus à 7 h 30. Au bureau, je réponds d'abord aux courriels urgents. Le midi, je profite du beau temps pour marcher. Le soir, je pense souvent à mes amis à l'étranger. La fin de semaine, je change de rythme : je joue au soccer et je cherche des recettes pour la semaine."
+  },
+  {
+   "prompt": "Talk about places you've lived or visited, using the right preposition each time (city, province, country).",
+   "model": "J'ai étudié aux États-Unis, puis j'ai vécu à Vancouver, en Colombie-Britannique, et à Toronto, en Ontario. Depuis cinq ans, j'habite à Montréal, au Québec. L'été dernier, je suis allé en Gaspésie et au Nouveau-Brunswick."
+  },
+  {
+   "prompt": "Say these the standard way: 'à date', 'être sur un comité', 'sur l'heure du dîner'.",
+   "model": "Jusqu'à présent. Faire partie d'un comité / siéger à un comité. Pendant l'heure du dîner."
+  }
+ ],
+ "write": {
+  "prompt": "Correct the prepositions in this text, then rewrite it: 'À date, j'ai cherché pour un emploi sur Internet et j'ai appliqué pour trois postes. Ça dépend sur les réponses, mais je pense de déménager en Québec. J'ai entendu sur la radio qu'il manque des ingénieurs.'",
+  "model": "Jusqu'à présent, j'ai cherché un emploi sur Internet et j'ai postulé à trois postes. Ça dépend des réponses, mais je pense à déménager à Québec (or: au Québec). J'ai entendu à la radio que le Québec manque d'ingénieurs."
+ },
+ "quiz": [
+  {
+   "q": "'Écouter la radio' — which preposition is needed?",
+   "options": [
+    "à",
+    "de",
+    "none",
+    "pour"
+   ],
+   "a": 2,
+   "why": "écouter + direct object."
+  },
+  {
+   "q": "Il vit ___ Manitoba.",
+   "options": [
+    "en",
+    "au",
+    "à",
+    "dans le"
+   ],
+   "a": 1,
+   "why": "Masculine, consonant → au."
+  },
+  {
+   "q": "'Il y a deux ans' means…",
+   "options": [
+    "for two years",
+    "two years ago",
+    "in two years",
+    "since two years"
+   ],
+   "a": 1,
+   "why": "il y a + time = ago."
+  },
+  {
+   "q": "Penser ___ quelqu'un (to think about someone)",
+   "options": [
+    "de",
+    "à",
+    "sur",
+    "pour"
+   ],
+   "a": 1,
+   "why": "penser à = to have in mind."
+  },
+  {
+   "q": "In Quebec, 'le dîner' is…",
+   "options": [
+    "breakfast",
+    "lunch",
+    "dinner",
+    "a snack"
+   ],
+   "a": 1,
+   "why": "déjeuner / dîner / souper in Quebec."
+  },
+  {
+   "q": "'Sur semaine' means…",
+   "options": [
+    "on the weekend",
+    "on weekdays",
+    "over a week",
+    "every week"
+   ],
+   "a": 1,
+   "why": "Quebec: en semaine."
+  },
+  {
+   "q": "Which is correct?",
+   "options": [
+    "Le Québec manque d'ingénieurs.",
+    "Le Québec manque des ingénieurs.",
+    "Le Québec manque pour des ingénieurs.",
+    "Le Québec manque les ingénieurs."
+   ],
+   "a": 0,
+   "why": "manquer de + noun without article = to lack."
+  },
+  {
+   "q": "'Elle a fini en une heure' means…",
+   "options": [
+    "She'll finish in an hour",
+    "It took her an hour to finish",
+    "She finished an hour ago",
+    "She finished at one"
+   ],
+   "a": 1,
+   "why": "en + duration = time taken."
+  },
+  {
+   "q": "I'm proud of you →",
+   "options": [
+    "Je suis fier sur toi.",
+    "Je suis fier de toi.",
+    "Je suis fier à toi.",
+    "Je suis fier pour toi."
+   ],
+   "a": 1,
+   "why": "fier de."
+  }
+ ]
+}

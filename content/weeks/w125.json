@@ -1,0 +1,650 @@
+{
+ "w": 125,
+ "title": "Quebec expressions set 5",
+ "goal": "By the end of this lesson you can understand and use (in the right setting) a fifth set of colourful Quebec expressions about laziness, fatigue, mistakes, encouragement and nerve, including se pogner le beigne and avoir les yeux dans la graisse de bine.",
+ "learn": [
+  {
+   "h": "Doing nothing and being exhausted",
+   "body": [
+    "*Se pogner le beigne* means to slack off, to sit around doing nothing while others work. *Beigne* (doughnut) is slang for the backside here, so the expression is crude: fine among friends, never at work or with strangers. A milder version is *se tourner les pouces* (to twiddle your thumbs).",
+    "*Avoir les yeux dans la graisse de bine* (lit. to have your eyes in bean fat) describes a dazed, glassy, half-asleep look: after a long night, a big meal or too many hours of screen time. *Bine* comes from English 'beans', as in the traditional *fèves au lard*.",
+    "Related: *cogner des clous* (lit. to hammer nails) = to nod off, head bobbing; *avoir la langue à terre* = to be exhausted, out of breath; *être brûlé* = to be burnt out, exhausted."
+   ],
+   "table": {
+    "head": [
+     "Expression",
+     "Meaning",
+     "Register"
+    ],
+    "rows": [
+     [
+      "se pogner le beigne",
+      "to slack off, do nothing",
+      "crude, informal"
+     ],
+     [
+      "se tourner les pouces",
+      "to twiddle one's thumbs",
+      "neutral (also France)"
+     ],
+     [
+      "avoir les yeux dans la graisse de bine",
+      "to look dazed, glassy-eyed",
+      "informal"
+     ],
+     [
+      "cogner des clous",
+      "to nod off",
+      "informal"
+     ],
+     [
+      "avoir la langue à terre",
+      "to be exhausted",
+      "informal"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Mistakes and clumsiness",
+   "body": [
+    "*Être dans les patates* = to be completely wrong: *T'es dans les patates, le match est demain!* *Avoir les deux pieds dans la même bottine* = to be clumsy, slow to react, unable to manage. *Niaiser avec la puck* (lit. to fool around with the puck) = to dither, to waste time instead of acting.",
+    "*Avoir de l'eau dans la cave* (lit. to have water in the basement) is a gentle tease: your pants are too short."
+   ]
+  },
+  {
+   "h": "Encouragement and warnings",
+   "body": [
+    "*Lâche pas la patate!* = Don't give up! Hang in there! (very common and friendly). *Attache ta tuque (avec de la broche)!* = Hold on tight! Brace yourself!, said before something intense: a fast ride, big news, a crazy week.",
+    "*Être vite sur ses patins* = to be quick-witted, quick to react. Hockey and winter are everywhere in Quebec expressions."
+   ]
+  },
+  {
+   "h": "Nerve, mood and minding your business",
+   "body": [
+    "*Avoir du front tout le tour de la tête* (lit. to have forehead all around your head) = to have a lot of nerve, to be shameless. *En avoir plein son casque* = to be fed up. *Être aux oiseaux* = to be thrilled, over the moon.",
+    "*C'est pas de tes oignons!* = It's none of your business! (also used in France). *Se tirer une bûche* = to pull up a chair and join in: *Tire-toi une bûche!*"
+   ],
+   "tip": "Register check: these expressions show you're at ease in Quebec, but use them with friends and colleagues you know, not in a job interview."
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Pendant qu'on déménageait, mon frère se pognait le beigne sur le divan.",
+   "en": "While we were moving, my brother was slacking off on the couch.",
+   "note": "crude; among friends only"
+  },
+  {
+   "fr": "Arrête de te tourner les pouces et viens m'aider.",
+   "en": "Stop twiddling your thumbs and come help me.",
+   "note": "neutral alternative"
+  },
+  {
+   "fr": "Après dix heures devant l'écran, j'avais les yeux dans la graisse de bine.",
+   "en": "After ten hours in front of the screen, my eyes were glazed over.",
+   "note": "dazed, glassy look"
+  },
+  {
+   "fr": "Il cognait des clous pendant la réunion.",
+   "en": "He was nodding off during the meeting.",
+   "note": "cogner des clous"
+  },
+  {
+   "fr": "Après la course, j'avais la langue à terre.",
+   "en": "After the race, I was exhausted.",
+   "note": "avoir la langue à terre"
+  },
+  {
+   "fr": "T'es dans les patates : le spectacle, c'est samedi, pas vendredi.",
+   "en": "You're way off: the show is Saturday, not Friday.",
+   "note": "être dans les patates = to be wrong"
+  },
+  {
+   "fr": "Le matin, j'ai les deux pieds dans la même bottine.",
+   "en": "In the morning, I'm all thumbs.",
+   "note": "clumsy, slow"
+  },
+  {
+   "fr": "Arrête de niaiser avec la puck pis décide-toi!",
+   "en": "Stop dithering and make up your mind!",
+   "note": "niaiser avec la puck"
+  },
+  {
+   "fr": "Ton pantalon est trop court, t'as de l'eau dans la cave!",
+   "en": "Your pants are too short, you're wearing high-waters!",
+   "note": "a gentle tease"
+  },
+  {
+   "fr": "Lâche pas la patate, t'es presque rendu!",
+   "en": "Don't give up, you're almost there!",
+   "note": "very common encouragement"
+  },
+  {
+   "fr": "Attache ta tuque, la semaine va être intense!",
+   "en": "Hold on tight, the week's going to be intense!",
+   "note": "brace yourself"
+  },
+  {
+   "fr": "Elle a répondu tout de suite; elle est vite sur ses patins.",
+   "en": "She answered right away; she's quick on her feet.",
+   "note": "quick-witted"
+  },
+  {
+   "fr": "Il a pris ma place de stationnement; il a du front tout le tour de la tête!",
+   "en": "He took my parking spot; he's got some nerve!",
+   "note": "shameless"
+  },
+  {
+   "fr": "J'en ai plein mon casque de la construction sur ma rue.",
+   "en": "I'm fed up with the construction on my street.",
+   "note": "en avoir plein son casque"
+  },
+  {
+   "fr": "Elle a eu le poste; elle est aux oiseaux!",
+   "en": "She got the job; she's over the moon!",
+   "note": "être aux oiseaux"
+  },
+  {
+   "fr": "Tire-toi une bûche, on jase!",
+   "en": "Pull up a chair, we're chatting!",
+   "note": "se tirer une bûche = join in"
+  }
+ ],
+ "quebec": {
+  "intro": "This lesson's set adds expressions for laziness and fatigue, like 'se pogner le beigne' (to slack off, crude) and 'avoir les yeux dans la graisse de bine' (to look dazed). All are informal; one is crude.",
+  "items": [
+   {
+    "std": "Il ne fait rien pendant que les autres travaillent.",
+    "qc": "Y se pogne le beigne.",
+    "en": "He's slacking off.",
+    "note": "crude: beigne = backside; with friends only"
+   },
+   {
+    "std": "Tu as l'air hagard / à moitié endormi.",
+    "qc": "T'as les yeux dans la graisse de bine.",
+    "en": "You look dazed / glassy-eyed.",
+    "note": "informal; bine from English beans"
+   },
+   {
+    "std": "Tu te trompes complètement.",
+    "qc": "T'es dans les patates.",
+    "en": "You're way off.",
+    "note": "informal"
+   },
+   {
+    "std": "N'abandonne pas!",
+    "qc": "Lâche pas la patate!",
+    "en": "Don't give up!",
+    "note": "friendly, informal; very common"
+   },
+   {
+    "std": "Il est vraiment effronté.",
+    "qc": "Y'a du front tout le tour de la tête.",
+    "en": "He's got a lot of nerve.",
+    "note": "informal"
+   },
+   {
+    "std": "J'en ai assez.",
+    "qc": "J'en ai plein mon casque.",
+    "en": "I'm fed up.",
+    "note": "informal"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "'Se pogner le beigne' means…",
+   "options": [
+    "to eat a doughnut",
+    "to slack off",
+    "to get angry",
+    "to get hurt"
+   ],
+   "a": 1,
+   "why": "To do nothing while others work (crude)."
+  },
+  {
+   "t": "mcq",
+   "q": "Someone has 'les yeux dans la graisse de bine'. They look…",
+   "options": [
+    "angry",
+    "dazed and sleepy",
+    "hungry",
+    "excited"
+   ],
+   "a": 1,
+   "why": "A glassy, half-asleep look."
+  },
+  {
+   "t": "mcq",
+   "q": "What do you say to encourage a friend before an exam?",
+   "options": [
+    "T'es dans les patates!",
+    "Lâche pas la patate!",
+    "Tu te pognes le beigne!",
+    "C'est pas de tes oignons!"
+   ],
+   "a": 1,
+   "why": "Don't give up!"
+  },
+  {
+   "t": "mcq",
+   "q": "Which expression is too crude for a work meeting?",
+   "options": [
+    "se tourner les pouces",
+    "se pogner le beigne",
+    "être vite sur ses patins",
+    "lâche pas la patate"
+   ],
+   "a": 1,
+   "why": "Beigne refers to the backside."
+  },
+  {
+   "t": "fill",
+   "q": "Il cognait des ___ pendant le film. (nails)",
+   "a": [
+    "clous"
+   ],
+   "en": "He was nodding off during the movie.",
+   "why": "Cogner des clous = to nod off."
+  },
+  {
+   "t": "fill",
+   "q": "T'es dans les ___: c'est demain, pas aujourd'hui! (potatoes)",
+   "a": [
+    "patates"
+   ],
+   "en": "You're way off: it's tomorrow, not today!",
+   "why": "Être dans les patates = to be wrong."
+  },
+  {
+   "t": "fill",
+   "q": "Attache ta ___, ça va brasser! (toque)",
+   "a": [
+    "tuque"
+   ],
+   "en": "Hold on tight, it's going to get bumpy!",
+   "why": "Attache ta tuque = brace yourself."
+  },
+  {
+   "t": "fill",
+   "q": "J'en ai plein mon ___! (helmet)",
+   "a": [
+    "casque"
+   ],
+   "en": "I'm fed up!",
+   "why": "En avoir plein son casque."
+  },
+  {
+   "t": "build",
+   "en": "Don't give up, you're almost there!",
+   "a": "Lâche pas la patate, t'es presque rendu!"
+  },
+  {
+   "t": "build",
+   "en": "Pull up a chair!",
+   "a": "Tire-toi une bûche!"
+  },
+  {
+   "t": "build",
+   "en": "She's over the moon.",
+   "a": "Elle est aux oiseaux."
+  },
+  {
+   "t": "translate",
+   "en": "You're completely wrong.",
+   "a": [
+    "Tu te trompes complètement.",
+    "Vous vous trompez complètement.",
+    "T'es dans les patates.",
+    "Tu es dans les patates."
+   ],
+   "why": "Être dans les patates (informal)."
+  },
+  {
+   "t": "translate",
+   "en": "He's got a lot of nerve.",
+   "a": [
+    "Il a du front tout le tour de la tête.",
+    "Il a du culot.",
+    "Il est effronté.",
+    "Il a du front."
+   ],
+   "why": "Avoir du front (tout le tour de la tête)."
+  },
+  {
+   "t": "translate",
+   "en": "It's none of your business!",
+   "a": [
+    "C'est pas de tes oignons!",
+    "Ce n'est pas de tes oignons!",
+    "Ce ne sont pas tes affaires!",
+    "C'est pas tes affaires!",
+    "Ça ne te regarde pas!",
+    "Ça te regarde pas!"
+   ],
+   "why": "Several register options."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "se pogner le beigne",
+   "en": "to slack off (crude)",
+   "ex": "Y se pogne le beigne toute la journée.",
+   "qc": true
+  },
+  {
+   "fr": "se tourner les pouces",
+   "en": "to twiddle one's thumbs",
+   "ex": "Je me tourne les pouces au bureau."
+  },
+  {
+   "fr": "avoir les yeux dans la graisse de bine",
+   "en": "to look dazed, glassy-eyed",
+   "ex": "Le lundi matin, j'ai les yeux dans la graisse de bine.",
+   "qc": true
+  },
+  {
+   "fr": "cogner des clous",
+   "en": "to nod off",
+   "ex": "Je cognais des clous dans l'autobus.",
+   "qc": true
+  },
+  {
+   "fr": "avoir la langue à terre",
+   "en": "to be exhausted",
+   "ex": "Après le déménagement, j'avais la langue à terre.",
+   "qc": true
+  },
+  {
+   "fr": "être dans les patates",
+   "en": "to be completely wrong",
+   "ex": "La météo était dans les patates.",
+   "qc": true
+  },
+  {
+   "fr": "avoir les deux pieds dans la même bottine",
+   "en": "to be clumsy, slow to react",
+   "ex": "Il a les deux pieds dans la même bottine.",
+   "qc": true
+  },
+  {
+   "fr": "niaiser avec la puck",
+   "en": "to dither, waste time",
+   "ex": "Arrête de niaiser avec la puck!",
+   "qc": true
+  },
+  {
+   "fr": "avoir de l'eau dans la cave",
+   "en": "to wear pants that are too short",
+   "ex": "T'as de l'eau dans la cave!",
+   "qc": true
+  },
+  {
+   "fr": "lâcher la patate",
+   "en": "to give up (mostly in: Lâche pas la patate!)",
+   "ex": "Lâche pas la patate!",
+   "qc": true
+  },
+  {
+   "fr": "attacher sa tuque",
+   "en": "to brace oneself",
+   "ex": "Attachez vos tuques!",
+   "qc": true
+  },
+  {
+   "fr": "être vite sur ses patins",
+   "en": "to be quick-witted",
+   "ex": "Elle est vite sur ses patins.",
+   "qc": true
+  },
+  {
+   "fr": "avoir du front",
+   "en": "to have nerve, to be cheeky",
+   "ex": "T'as du front de me demander ça!",
+   "qc": true
+  },
+  {
+   "fr": "en avoir plein son casque",
+   "en": "to be fed up",
+   "ex": "J'en ai plein mon casque de l'hiver.",
+   "qc": true
+  },
+  {
+   "fr": "être aux oiseaux",
+   "en": "to be thrilled",
+   "ex": "Les enfants sont aux oiseaux.",
+   "qc": true
+  },
+  {
+   "fr": "se tirer une bûche",
+   "en": "to pull up a chair, join in",
+   "ex": "Tire-toi une bûche!",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "beigne",
+    "tip": "BÈGN: gn like the ny in canyon."
+   },
+   {
+    "fr": "graisse de bine",
+    "tip": "grès duh BINN: bine sounds like English 'bin', with a short, open i."
+   },
+   {
+    "fr": "cogner des clous",
+    "tip": "ko-NYÉ dé KLOO."
+   },
+   {
+    "fr": "lâche pas la patate",
+    "tip": "lâsh pa la pa-TATT: casual, often 'lâch' pas'."
+   },
+   {
+    "fr": "tout le tour de la tête",
+    "tip": "toot-luh-TOUR d'la TÈT."
+   },
+   {
+    "fr": "aux oiseaux",
+    "tip": "o-zwa-ZO: two liaisons in [z]."
+   }
+  ],
+  "title": "Le lundi matin",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Coudonc, t'as les yeux dans la graisse de bine à matin!",
+    "en": "Wow, you look totally dazed this morning!"
+   },
+   {
+    "s": "B",
+    "fr": "J'ai aidé mon chum à déménager toute la fin de semaine. J'ai la langue à terre.",
+    "en": "I helped my boyfriend move all weekend. I'm exhausted."
+   },
+   {
+    "s": "A",
+    "fr": "Pis ses amis, y vous ont aidés?",
+    "en": "And his friends, did they help you?"
+   },
+   {
+    "s": "B",
+    "fr": "Un seul est venu, pis y s'est pogné le beigne sur le balcon toute la journée.",
+    "en": "Only one came, and he slacked off on the balcony all day."
+   },
+   {
+    "s": "A",
+    "fr": "Y'a du front tout le tour de la tête, celui-là!",
+    "en": "That guy's got some nerve!"
+   },
+   {
+    "s": "B",
+    "fr": "Certain. Là, j'ai une présentation à dix heures pis je cogne des clous.",
+    "en": "For sure. Now I have a presentation at ten and I'm nodding off."
+   },
+   {
+    "s": "A",
+    "fr": "Prends un café pis lâche pas la patate! T'es vite sur tes patins, ça va bien aller.",
+    "en": "Grab a coffee and hang in there! You're quick on your feet, it'll go fine."
+   },
+   {
+    "s": "B",
+    "fr": "Merci. Mais attache ta tuque : après la présentation, j'ai encore trois réunions!",
+    "en": "Thanks. But brace yourself: after the presentation, I have three more meetings!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Why is B so tired?",
+    "options": [
+     "She worked all night",
+     "She helped her boyfriend move all weekend",
+     "She went to a party"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What did the friend who came do?",
+    "options": [
+     "Carried the boxes",
+     "Slacked off on the balcony",
+     "Drove the truck"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does A say to encourage B?",
+    "options": [
+     "T'es dans les patates",
+     "Lâche pas la patate",
+     "Tire-toi une bûche"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Describe how you feel on a Monday morning using two fatigue expressions.",
+   "model": "Le lundi matin, j'ai les yeux dans la graisse de bine, pis dans le métro, je cogne des clous."
+  },
+  {
+   "prompt": "Encourage a friend who's discouraged with their French studies.",
+   "model": "Lâche pas la patate! T'as fait tellement de progrès. Attache ta tuque, dans six mois, tu vas parler comme une vraie Québécoise."
+  },
+  {
+   "prompt": "Tell a friend they're wrong about a date, casually, then politely.",
+   "model": "Casual : T'es dans les patates, c'est jeudi! / Polite : Je crois que vous vous trompez, c'est plutôt jeudi."
+  },
+  {
+   "prompt": "Explain to a newcomer why 'se pogner le beigne' should not be used at work, and give an alternative.",
+   "model": "C'est une expression vulgaire, parce que « beigne » veut dire le derrière. Au travail, dis plutôt « se tourner les pouces »."
+  }
+ ],
+ "write": {
+  "prompt": "Write a short, funny text message (7–9 lines) to a friend about a group project or a chaotic day, using at least six expressions from this lesson (avoid the crude one if you prefer).",
+  "model": "Salut! Ma journée, attache ta tuque! Ce matin, j'avais les yeux dans la graisse de bine, pis j'ai pris le mauvais autobus. Au travail, mon collègue Kevin s'est tourné les pouces pendant que je faisais toute la présentation. Il a du front tout le tour de la tête! Pis le client était dans les patates : il pensait que la réunion était demain. J'en ai plein mon casque. Mais bonne nouvelle : on a eu le contrat, faque chu aux oiseaux! Tire-toi une bûche ce soir, on va fêter ça."
+ },
+ "quiz": [
+  {
+   "q": "What does 'cogner des clous' mean?",
+   "options": [
+    "to build something",
+    "to nod off",
+    "to get angry",
+    "to work hard"
+   ],
+   "a": 1,
+   "why": "Head bobbing like a hammer."
+  },
+  {
+   "q": "'Bine' in 'graisse de bine' comes from…",
+   "options": [
+    "the English word 'beans'",
+    "the French 'bien'",
+    "a brand name",
+    "Latin"
+   ],
+   "a": 0,
+   "why": "Bines = beans, as in fèves au lard."
+  },
+  {
+   "q": "'Avoir de l'eau dans la cave' means…",
+   "options": [
+    "to have a flooded basement",
+    "to wear pants that are too short",
+    "to be sad",
+    "to be thirsty"
+   ],
+   "a": 1,
+   "why": "A gentle tease about high-waters."
+  },
+  {
+   "q": "'Être aux oiseaux' means…",
+   "options": [
+    "to be crazy",
+    "to be thrilled",
+    "to be outside",
+    "to be lost"
+   ],
+   "a": 1,
+   "why": "Over the moon."
+  },
+  {
+   "q": "Which is a neutral alternative to 'se pogner le beigne'?",
+   "options": [
+    "se tourner les pouces",
+    "avoir la langue à terre",
+    "attacher sa tuque",
+    "cogner des clous"
+   ],
+   "a": 0,
+   "why": "Twiddling one's thumbs, fine anywhere."
+  },
+  {
+   "q": "'Il a les deux pieds dans la même bottine' describes someone who is…",
+   "options": [
+    "fast",
+    "clumsy or slow to react",
+    "rich",
+    "cold"
+   ],
+   "a": 1,
+   "why": "Awkward, unable to manage."
+  },
+  {
+   "q": "'Niaiser avec la puck' means…",
+   "options": [
+    "to play hockey well",
+    "to dither, waste time",
+    "to steal",
+    "to score"
+   ],
+   "a": 1,
+   "why": "Fooling around instead of acting."
+  },
+  {
+   "q": "'Attache ta tuque!' is said…",
+   "options": [
+    "before something intense",
+    "when it's cold only",
+    "to say goodbye",
+    "to calm someone"
+   ],
+   "a": 0,
+   "why": "Brace yourself!"
+  },
+  {
+   "q": "'Avoir du front tout le tour de la tête' means…",
+   "options": [
+    "to have a big head",
+    "to have a lot of nerve",
+    "to be smart",
+    "to have a headache"
+   ],
+   "a": 1,
+   "why": "Shameless, cheeky."
+  }
+ ]
+}

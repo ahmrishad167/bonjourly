@@ -1,0 +1,1519 @@
+[
+ {
+  "id": "b11",
+  "title": "Le 1er juillet de tous les dangers",
+  "level": "B2",
+  "week": 129,
+  "place": "Montréal (Rosemont et Villeray)",
+  "summary": "Samir organizes Jessica and Kevin's July 1st move, but a wrong truck reservation, tenants who cannot leave and a stuck fridge turn the day into a city-wide chain reaction.",
+  "text": [
+   "Il est six heures du matin, le 1er juillet, et Samir transpire déjà. C'est son troisième 1er juillet à Montréal, mais c'est la première fois qu'il est le grand responsable d'un déménagement. Cette année, Jessica et Kevin quittent leur quatre et demie de Rosemont pour un cinq et demie à Villeray. Jessica est enceinte de sept mois, alors c'est Samir qui a tout organisé : le camion, les boîtes, les amis, les beignes. « C'est simple, avait-il promis. Il est impossible que quelque chose tourne mal. »",
+   "À sept heures, premier problème : le camion loué n'est pas au rendez-vous. Samir appelle l'agence.",
+   "— Désolé, monsieur. Votre réservation, c'est pour le 1er août.",
+   "— Le 1er août? Personne ne déménage le 1er août!",
+   "— Ben justement. C'est pour ça qu'il nous restait des camions.",
+   "Kevin sauve la situation en appelant son cousin Steve, qui arrive une heure plus tard avec un vieux pick-up et une remorque. « C'est pas un camion, c'est une boîte à lunch sur des roues, admet Steve, mais il est solide, mon bébé. » Il faut faire six voyages. Au quatrième, la remorque perd une roue sur la rue Saint-Hubert, et un matelas termine sa course devant une caisse populaire.",
+   "À midi, l'équipe arrive enfin à Villeray, épuisée mais fière. Deuxième problème : les anciens locataires sont toujours là, assis sur leurs boîtes. La femme, une infirmière qui s'appelle Nathalie, a les yeux rouges.",
+   "— Je suis vraiment désolée. Notre nouveau logement n'est pas libre. Le locataire d'avant attend que son propre appartement se libère... C'est une chaîne. Si un seul maillon bloque, tout Montréal bloque.",
+   "Jessica, qui commence à avoir très chaud, regarde son ventre, puis le trottoir couvert de meubles. Samir sent une crise arriver. C'est alors que Mme Tremblay apparaît au coin de la rue, avec un thermos de café et une boîte de muffins. Elle a presque quatre-vingts ans, et elle a survécu à soixante 1er juillet.",
+   "— Bon. Qui bloque la chaîne, exactement?",
+   "Il s'avère que c'est un étudiant, trois rues plus loin, qui n'a toujours pas trouvé de camion. Steve et sa boîte à lunch partent le déménager. En fin d'après-midi, la chaîne se débloque, maillon par maillon, comme une rivière au dégel.",
+   "À vingt-trois heures, il ne reste qu'un objet sur le trottoir : le réfrigérateur, coincé dans l'escalier en colimaçon. Kevin le regarde, puis regarde Samir.",
+   "— Ça te rappelle pas quelque chose?",
+   "— Le divan vert, soupire Samir. Il est encore dans mes cauchemars.",
+   "Finalement, ils démontent les portes du frigo, et il passe à un centimètre près. Jessica s'assoit sur une boîte marquée « FRAGILE — VAISSELLE » et ferme les yeux.",
+   "— C'est le dernier déménagement de ma vie.",
+   "— C'est ce que t'as dit l'année passée, répond Kevin.",
+   "— Cette fois, je suis sérieuse. L'année prochaine, on sera trois. On ne bouge plus d'ici.",
+   "Samir ne répond pas. Discrètement, il ouvre son téléphone et réserve un camion pour le 1er juillet prochain. Le bon jour, cette fois. Juste au cas."
+  ],
+  "dialogue_ok": true,
+  "glossary": [
+   {
+    "fr": "un quatre et demie / un cinq et demie",
+    "en": "an apartment with 4 (or 5) rooms plus a bathroom (the « half »)",
+    "qc": true
+   },
+   {
+    "fr": "être enceinte",
+    "en": "to be pregnant"
+   },
+   {
+    "fr": "les beignes",
+    "en": "doughnuts",
+    "qc": true
+   },
+   {
+    "fr": "Ben justement",
+    "en": "Well, exactly / that's the point (informal)",
+    "qc": true
+   },
+   {
+    "fr": "un pick-up",
+    "en": "a pickup truck",
+    "qc": true
+   },
+   {
+    "fr": "une remorque",
+    "en": "a trailer"
+   },
+   {
+    "fr": "une boîte à lunch",
+    "en": "a lunchbox (here, a joke about a tiny truck)",
+    "qc": true
+   },
+   {
+    "fr": "un locataire",
+    "en": "a tenant"
+   },
+   {
+    "fr": "un maillon",
+    "en": "a link (in a chain)"
+   },
+   {
+    "fr": "il s'avère que",
+    "en": "it turns out that"
+   },
+   {
+    "fr": "coincé",
+    "en": "stuck, jammed"
+   },
+   {
+    "fr": "un escalier en colimaçon",
+    "en": "a spiral staircase"
+   },
+   {
+    "fr": "à un centimètre près",
+    "en": "by a hair, with a centimetre to spare"
+   },
+   {
+    "fr": "t'as dit",
+    "en": "you said (spoken form of « tu as dit »)",
+    "qc": true
+   },
+   {
+    "fr": "l'année passée",
+    "en": "last year (very common in Quebec; also « l'an dernier »)",
+    "qc": true
+   }
+  ],
+  "questions": [
+   {
+    "q": "Why is there no rental truck at 7 a.m.?",
+    "options": [
+     "The agency has no trucks left",
+     "The reservation is for August 1st",
+     "Samir forgot to pay",
+     "The driver is stuck on a bridge"
+    ],
+    "a": 1,
+    "why": "The agency says « Votre réservation, c'est pour le 1er août. »"
+   },
+   {
+    "q": "Why are the former tenants still in the Villeray apartment?",
+    "options": [
+     "They refuse to leave",
+     "They forgot it was July 1st",
+     "Their new place is not free yet, because of a chain of delayed moves",
+     "Nathalie is working a night shift"
+    ],
+    "a": 2,
+    "why": "Nathalie explains « Notre nouveau logement n'est pas libre... C'est une chaîne. »"
+   },
+   {
+    "q": "How does Mme Tremblay help solve the problem?",
+    "options": [
+     "She asks who exactly is blocking the chain",
+     "She calls the landlord",
+     "She lends her car",
+     "She invites the tenants to sleep at her place"
+    ],
+    "a": 0,
+    "why": "She asks « Qui bloque la chaîne, exactement? », and they find the student who needs a truck."
+   },
+   {
+    "q": "Steve says « c'est une boîte à lunch » but « il est solide ». Why « c'est » in the first and « il est » in the second?",
+    "options": [
+     "« Il est » is only used for people",
+     "« C'est » is more polite",
+     "« C'est » is the only form allowed in speech",
+     "« C'est » comes before a determiner + noun; « il est » before an adjective alone"
+    ],
+    "a": 3,
+    "why": "C'est + un/une/le + noun (« c'est une boîte à lunch »), but il est + adjective (« il est solide »)."
+   },
+   {
+    "q": "What does Samir do at the very end?",
+    "options": [
+     "He promises never to help with a move again",
+     "He buys a new fridge",
+     "He books a truck for next July 1st, on the right date",
+     "He signs a new lease for Jessica"
+    ],
+    "a": 2,
+    "why": "« Il réserve un camion pour le 1er juillet prochain. Le bon jour, cette fois. »"
+   }
+  ],
+  "quebec_note": "Most Quebec leases end on June 30, so a huge number of tenants move on July 1st, also Canada Day. Apartments are counted in rooms plus a « half » for the bathroom: a 4 ½ has a living room, a kitchen, two bedrooms and a bathroom."
+ },
+ {
+  "id": "b12",
+  "title": "Le canapé de la discorde",
+  "level": "B2",
+  "week": 133,
+  "place": "Montréal (Plateau-Mont-Royal)",
+  "summary": "Samir writes a formal complaint about a late, lime-green couch, and the store's reply reveals where his grey couch really went.",
+  "text": [
+   "Le 1er juillet, Samir a déménagé à deux portes de chez Mme Tremblay. Il avait commandé un canapé gris chez Meubles Bélanger, « livraison garantie avant le 1er juillet ». Le 22 juillet, il dormait encore sur un matelas de camping. Le 23, le canapé est arrivé : vert lime. Samir a écrit la lettre suivante.",
+   "Montréal, le 24 juillet",
+   "Objet : Commande no 48-1197 — livraison tardive et produit non conforme",
+   "Madame, Monsieur,",
+   "Le 2 juin dernier, j'ai commandé en magasin un canapé trois places, modèle Oslo, couleur gris charbon, au prix de 1 249 $. Votre vendeur m'a garanti par écrit une livraison avant le 1er juillet, date à partir de laquelle je n'avais plus aucun meuble pour m'asseoir.",
+   "Or, la livraison n'a eu lieu que le 23 juillet, soit trois semaines plus tard que prévu. De plus, le canapé livré est vert lime, une couleur que je n'ai jamais choisie et qui me donne mal à la tête dès le réveil.",
+   "Par conséquent, je vous demande de remplacer ce canapé par le modèle commandé dans un délai de dix jours ouvrables et de me rembourser les frais de livraison de 89 $. En attendant votre réponse, le canapé vert reste dans mon salon. Je dois toutefois vous signaler une complication : le chat de ma voisine a décidé que ce canapé lui appartenait. Il s'y installe dès sept heures chaque matin. Plus vous attendrez, plus le retour sera délicat.",
+   "Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.",
+   "Samir Haddad",
+   "Cinq jours plus tard, la réponse est arrivée.",
+   "Montréal, le 29 juillet",
+   "Monsieur,",
+   "Nous accusons réception de votre lettre du 24 juillet et vous présentons nos excuses. Après vérification, votre canapé gris a bien été livré le 23 juillet... mais à une autre adresse de votre rue, où il semble très apprécié. Le canapé vert lime de cette cliente s'est donc retrouvé chez vous.",
+   "Le modèle Oslo gris charbon est en rupture de stock jusqu'au 15 septembre. Nous vous proposons donc deux solutions. Première option : nous reprenons le canapé vert et nous vous livrons le gris dès sa réception, avec le remboursement complet des frais de livraison. Seconde option : vous gardez le canapé vert, et nous vous remboursons 40 % du prix d'achat.",
+   "Veuillez nous faire connaître votre choix à partir du lundi 4 août, date du retour de notre directrice.",
+   "Veuillez agréer, Monsieur, l'expression de nos salutations distinguées.",
+   "Line Bélanger, service à la clientèle",
+   "P.-S. Notre livreur, M. Ouellet, se souvient très bien du chat orange. Il tient à préciser que les égratignures sur sa main ne sont pas couvertes par notre garantie.",
+   "Une autre adresse de sa rue? Samir est sorti et a frappé à deux portes de chez lui. Mme Tremblay lui a ouvert, une tasse de thé à la main. Derrière elle trônait un magnifique canapé gris charbon.",
+   "— Ah, Samir! Il est beau, hein? J'avais commandé du vert lime, mais finalement, le gris, c'est plus reposant.",
+   "Le soir même, avec l'aide de Kevin, les deux canapés ont changé d'adresse. Caramel a suivi le vert sans un regard pour Samir. Quant à Samir, il a quand même écrit une dernière lettre, très courte, pour réclamer ses 89 $."
+  ],
+  "dialogue_ok": true,
+  "glossary": [
+   {
+    "fr": "Objet :",
+    "en": "Subject line (« Re: ») of a formal letter"
+   },
+   {
+    "fr": "non conforme",
+    "en": "not as ordered, not matching the specifications"
+   },
+   {
+    "fr": "à partir de laquelle",
+    "en": "from which (date) on"
+   },
+   {
+    "fr": "Or,",
+    "en": "Now, / However, (introduces a key contrasting fact in formal writing)"
+   },
+   {
+    "fr": "soit",
+    "en": "that is to say, i.e."
+   },
+   {
+    "fr": "dès",
+    "en": "from ... on, as early as"
+   },
+   {
+    "fr": "en attendant",
+    "en": "while waiting, in the meantime"
+   },
+   {
+    "fr": "Je vous prie d'agréer... l'expression de mes salutations distinguées",
+    "en": "standard formal closing, like « Yours sincerely »"
+   },
+   {
+    "fr": "accuser réception de",
+    "en": "to acknowledge receipt of"
+   },
+   {
+    "fr": "en rupture de stock",
+    "en": "out of stock"
+   },
+   {
+    "fr": "un livreur",
+    "en": "a delivery man"
+   },
+   {
+    "fr": "des égratignures",
+    "en": "scratches"
+   },
+   {
+    "fr": "le service à la clientèle",
+    "en": "customer service (France: « le service client »)",
+    "qc": true
+   },
+   {
+    "fr": "trôner",
+    "en": "to sit proudly, like on a throne"
+   },
+   {
+    "fr": "Quant à...",
+    "en": "As for..."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What two problems does Samir complain about?",
+    "options": [
+     "Late delivery and the wrong colour",
+     "A broken couch and a rude driver",
+     "The wrong price and the wrong size",
+     "Late delivery and a damaged box"
+    ],
+    "a": 0,
+    "why": "His subject line says « livraison tardive et produit non conforme »: three weeks late and lime green instead of grey."
+   },
+   {
+    "q": "In the letter, what does « Or, la livraison n'a eu lieu que le 23 juillet » mean?",
+    "options": [
+     "Gold, the delivery happened on July 23",
+     "Or else the delivery will happen on July 23",
+     "However, the delivery only took place on July 23",
+     "Therefore, the delivery happened before July 23"
+    ],
+    "a": 2,
+    "why": "« Or » introduces a contrasting fact in formal writing, and « ne... que » means « only »."
+   },
+   {
+    "q": "What does the second option in the store's reply offer?",
+    "options": [
+     "A new grey couch on September 15",
+     "A free cat bed",
+     "An $89 gift card",
+     "Keeping the green couch with 40% of the price refunded"
+    ],
+    "a": 3,
+    "why": "« Seconde option : vous gardez le canapé vert, et nous vous remboursons 40 % du prix d'achat. »"
+   },
+   {
+    "q": "Who received Samir's grey couch?",
+    "options": [
+     "A customer in Laval",
+     "Mme Tremblay, his neighbour",
+     "Jessica and Kevin",
+     "Nobody, it was lost"
+    ],
+    "a": 1,
+    "why": "When he knocks two doors down, Mme Tremblay has « un magnifique canapé gris charbon » in her living room."
+   },
+   {
+    "q": "How is the problem finally solved?",
+    "options": [
+     "Samir chooses the first option",
+     "Samir keeps both couches",
+     "Samir and Mme Tremblay swap couches",
+     "The store sends a third couch"
+    ],
+    "a": 2,
+    "why": "« Le soir même, avec l'aide de Kevin, les deux canapés ont changé d'adresse. »"
+   }
+  ],
+  "quebec_note": "Quebec French says « le service à la clientèle » where France says « le service client ». Long formal closings like « Veuillez agréer l'expression de mes salutations distinguées » are still expected in Quebec business letters, even about a lime-green couch."
+ },
+ {
+  "id": "b13",
+  "title": "La chicane à la cabane",
+  "level": "B2",
+  "week": 137,
+  "place": "Beauce",
+  "summary": "For her 80th birthday, Mme Tremblay gathers her feuding children at the sugar shack their family once owned, and reveals a six-year-old secret.",
+  "text": [
+   "Pour ses quatre-vingts ans, Gisèle Tremblay n'a voulu ni gâteau ni cadeau. Elle a voulu une seule chose : réunir ses deux enfants à la même table. Ce n'est pas arrivé depuis six ans, depuis la vente de l'érablière familiale en Beauce. Sa fille Sylvie, qui vit maintenant à Calgary, accuse encore son frère Marc d'avoir « vendu l'âme de papa ».",
+   "Gisèle a donc réservé une table... à cette même érablière, devenue une cabane à sucre commerciale. Samir, invité comme « le petit-fils adoptif », trouve l'idée soit brillante, soit suicidaire. Il n'a pas encore décidé.",
+   "Le repas commence bien : soupe aux pois, oreilles de crisse, fèves au lard, omelette soufflée. Léa, qui a maintenant neuf ans, explique à Samir la différence entre le sirop doré et le sirop très foncé. Puis le propriétaire, M. Poulin, s'approche de la table.",
+   "— Vous êtes la famille Tremblay? Vos anciennes chaudières sont accrochées au mur, là-bas. Et on a gardé le gros érable au pied duquel il y avait la vieille cabane. C'est notre plus beau.",
+   "Sylvie pose sa fourchette.",
+   "— L'érable auquel papa avait accroché sa première chaudière en 1962. Content, Marc? Les touristes se prennent en photo devant.",
+   "— Sylvie, pas aujourd'hui...",
+   "— Non, aujourd'hui, justement. T'as signé sans m'appeler. Tu savais que je voulais la reprendre.",
+   "— Avec quel argent? Tu vivais à Calgary! La toiture coulait, la tubulure était finie, pis papa était mort depuis deux ans. Quelqu'un devait décider.",
+   "Aux tables voisines, on fait semblant de ne pas écouter. Un violoneux, sentant le danger, joue plus fort. Léa tire la manche de Samir : « Est-ce qu'ils vont se battre? » Samir n'en a aucune idée. Dans sa famille, on règle les conflits par de longs silences, pas par des cris au-dessus des fèves au lard.",
+   "C'est alors que Gisèle se lève, lentement, en s'appuyant sur sa canne.",
+   "— Ça suffit. Sylvie, ce n'est pas Marc qui a décidé de vendre. C'est moi. Je lui ai demandé de signer parce que je n'avais pas le courage de te le dire. J'avais peur que tu vendes ta maison pour une cabane qui t'aurait ruinée. Ton frère a porté ma décision pendant six ans sans jamais rien dire.",
+   "Le silence est total. Même le violoneux s'arrête.",
+   "Sylvie regarde son frère longtemps.",
+   "— Pourquoi tu me l'as jamais dit?",
+   "— Parce que toi, tu m'aurais pardonné, à moi. À maman, peut-être pas. J'aimais mieux que ça soit moi, le méchant.",
+   "Dehors, on sert la tire sur la neige. Sylvie et Marc se retrouvent côte à côte devant la même bande de neige, sans parler. Puis Sylvie enroule un peu de tire sur un bâtonnet et la tend à son frère, comme quand ils étaient petits.",
+   "— Elle est trop cuite, dit Marc.",
+   "— Elle est parfaite. Mange, pis tais-toi.",
+   "Un peu plus loin, Gisèle serre le bras de Samir.",
+   "— Quatre-vingts ans, mon grand, et il m'a fallu six ans pour trouver le courage de dire la vérité. Toi, ne prends pas autant de temps."
+  ],
+  "dialogue_ok": true,
+  "glossary": [
+   {
+    "fr": "une chicane",
+    "en": "a quarrel, a family feud",
+    "qc": true
+   },
+   {
+    "fr": "une érablière",
+    "en": "a sugar bush (maple forest used for syrup)"
+   },
+   {
+    "fr": "les oreilles de crisse",
+    "en": "fried salted pork rinds (a playful name that comes from a swear word)",
+    "qc": true
+   },
+   {
+    "fr": "les fèves au lard",
+    "en": "baked beans with pork",
+    "qc": true
+   },
+   {
+    "fr": "une chaudière",
+    "en": "a bucket, a pail (France: un seau)",
+    "qc": true
+   },
+   {
+    "fr": "au pied duquel",
+    "en": "at the foot of which"
+   },
+   {
+    "fr": "auquel",
+    "en": "to which / on which"
+   },
+   {
+    "fr": "la tubulure",
+    "en": "the network of plastic tubes that collects maple sap"
+   },
+   {
+    "fr": "un violoneux",
+    "en": "a folk fiddler"
+   },
+   {
+    "fr": "faire semblant de",
+    "en": "to pretend to"
+   },
+   {
+    "fr": "T'as signé / pis",
+    "en": "you signed / and then (spoken forms of « tu as signé » / « puis »)",
+    "qc": true
+   },
+   {
+    "fr": "que ça soit",
+    "en": "spoken form of « que ce soit »",
+    "qc": true
+   },
+   {
+    "fr": "le méchant",
+    "en": "the bad guy, the villain"
+   },
+   {
+    "fr": "la tire sur la neige",
+    "en": "maple taffy, hot syrup poured on snow and rolled on a stick",
+    "qc": true
+   }
+  ],
+  "questions": [
+   {
+    "q": "Why have Sylvie and Marc not spoken for six years?",
+    "options": [
+     "Marc forgot Sylvie's birthday",
+     "Sylvie moved to Calgary without telling anyone",
+     "Sylvie believes Marc sold the family sugar bush without asking her",
+     "They disagreed about their mother's health"
+    ],
+    "a": 2,
+    "why": "Sylvie says « T'as signé sans m'appeler. Tu savais que je voulais la reprendre. »"
+   },
+   {
+    "q": "In « le gros érable au pied duquel il y avait la vieille cabane », what does « au pied duquel » mean?",
+    "options": [
+     "at the foot of which",
+     "which was standing at the foot of",
+     "next to whom",
+     "instead of which"
+    ],
+    "a": 0,
+    "why": "« Duquel » = de + lequel, used after a preposition phrase ending in « de » (au pied de l'érable)."
+   },
+   {
+    "q": "What does Gisèle reveal?",
+    "options": [
+     "She wants to buy the sugar bush back",
+     "She was the one who decided to sell",
+     "She gave the money to Samir",
+     "Her husband had sold it before he died"
+    ],
+    "a": 1,
+    "why": "« Ce n'est pas Marc qui a décidé de vendre. C'est moi. »"
+   },
+   {
+    "q": "Why did Marc never tell Sylvie the truth?",
+    "options": [
+     "He was ashamed of the low price",
+     "He forgot",
+     "He had promised the buyer",
+     "He preferred to be the bad guy so that Sylvie wouldn't blame their mother"
+    ],
+    "a": 3,
+    "why": "« J'aimais mieux que ça soit moi, le méchant. »"
+   },
+   {
+    "q": "How does Sylvie show that she forgives Marc?",
+    "options": [
+     "She hugs him in front of everyone",
+     "She offers him maple taffy, like when they were children",
+     "She pays the whole bill",
+     "She invites him to Calgary"
+    ],
+    "a": 1,
+    "why": "« Sylvie enroule un peu de tire sur un bâtonnet et la tend à son frère, comme quand ils étaient petits. »"
+   }
+  ],
+  "quebec_note": "In Quebec, « une chaudière » is a bucket (France: un seau), and « une chicane » is a quarrel. The sugar-shack menu (pea soup, baked beans, « oreilles de crisse ») is a spring tradition; that last name comes from a sacre, so it is playful rather than polite."
+ },
+ {
+  "id": "b14",
+  "title": "Le serment de Raj",
+  "level": "B2",
+  "week": 141,
+  "place": "Montréal",
+  "summary": "Raj from the corner store finally becomes a Canadian citizen, and he must choose the language of his oath while his mother watches online from India.",
+  "text": [
+   "Raj travaille au dépanneur de la rue Saint-Denis depuis sept ans. C'est lui qui a vendu à Samir son tout premier café au Québec, et c'est lui qui a été son premier professeur de français, entre deux billets de loterie. Ce matin, pour la première fois depuis longtemps, le dépanneur est fermé. Sur la porte, une affiche écrite à la main : « Fermé pour cause de citoyenneté. De retour à 14 h. »",
+   "Dans la salle, une soixantaine de personnes venues de trente-deux pays attendent, un petit drapeau à la main. Raj porte un complet bleu acheté pour l'occasion. Sa femme, Priya, porte un sari couleur safran. Leur fille Anjali, douze ans, est née à Montréal. Elle est déjà canadienne et ne laisse personne l'oublier.",
+   "— Papa, t'es stressé?",
+   "— Moi? Pas du tout.",
+   "— Tu tiens ton drapeau à l'envers.",
+   "Samir et Mme Tremblay sont assis au troisième rang. Il y a deux ans, Raj a échoué à l'examen de citoyenneté à cause d'une seule question sur le Sénat. Cela l'avait profondément humilié. Depuis, il pose des questions d'histoire canadienne à tous ses clients avant de leur rendre la monnaie. Samir, lui, a raté la plupart.",
+   "La juge, une femme d'origine haïtienne, prend la parole en français, puis en anglais. Elle explique que le serment sera lu dans les deux langues officielles et que chacun peut le répéter dans la langue de son choix. Raj se penche vers Samir.",
+   "— En français ou en anglais?",
+   "— Tu parles les deux. C'est toi qui décides.",
+   "— Ce n'est pas si simple. Ma mère regarde en ligne, de Pune. Elle comprend un peu l'anglais, mais pas un mot de français. Et moi, je vis ici. En français.",
+   "Samir ne sait pas quoi répondre. Ceci n'est pas une question de grammaire, comprend-il, mais de loyauté. Mme Tremblay, qui a tout entendu, se penche à son tour.",
+   "— Mon père était un Irlandais de Griffintown. Il a appris le français pour épouser ma mère, mais il a toujours compté en anglais. Toute sa vie. Cela ne l'a jamais empêché d'être d'ici.",
+   "Le moment arrive. Soixante voix récitent le serment. Raj commence en anglais, la voix ferme, en regardant la caméra. Puis, au milieu, il passe au français : « ... et que je remplirai loyalement mes obligations de citoyen canadien. » La juge le remarque, sourit et ne dit rien.",
+   "Après la cérémonie, dans le corridor, Anjali le gronde.",
+   "— Papa, t'as mélangé les langues! C'est pas permis!",
+   "— Peut-être, répond Raj. Mais c'est exactement ce que je fais au dépanneur depuis sept ans. Ma mère a compris la moitié. Les gens d'ici ont compris l'autre moitié. Et moi, j'ai tout compris.",
+   "À quatorze heures pile, le dépanneur rouvre. Au-dessus de la caisse, entre les billets de loterie et une photo de Caramel endormi sur le comptoir, Raj accroche son certificat. Le premier client de l'après-midi est un jeune homme qui vient d'arriver de Lagos. Il demande, en anglais, où se trouve le lait.",
+   "— Le lait? répond Raj en souriant. Au fond, à gauche. Et bienvenue au Québec, mon ami."
+  ],
+  "dialogue_ok": true,
+  "glossary": [
+   {
+    "fr": "le dépanneur",
+    "en": "the corner store",
+    "qc": true
+   },
+   {
+    "fr": "pour cause de",
+    "en": "due to, because of (formal, on signs)"
+   },
+   {
+    "fr": "un complet",
+    "en": "a man's suit (France: un costume)",
+    "qc": true
+   },
+   {
+    "fr": "à l'envers",
+    "en": "upside down, inside out"
+   },
+   {
+    "fr": "échouer à / rater",
+    "en": "to fail (a test) / to miss, to get wrong"
+   },
+   {
+    "fr": "rendre la monnaie",
+    "en": "to give back the change"
+   },
+   {
+    "fr": "prêter serment / le serment",
+    "en": "to take an oath / the oath"
+   },
+   {
+    "fr": "se pencher vers",
+    "en": "to lean towards"
+   },
+   {
+    "fr": "ceci / cela",
+    "en": "this / that (written and formal; in speech, « ça »)"
+   },
+   {
+    "fr": "Griffintown",
+    "en": "a historic Irish working-class neighbourhood of Montréal"
+   },
+   {
+    "fr": "remplir ses obligations",
+    "en": "to fulfil one's duties"
+   },
+   {
+    "fr": "le corridor",
+    "en": "the hallway (common in Quebec; also « le couloir »)",
+    "qc": true
+   },
+   {
+    "fr": "gronder",
+    "en": "to scold"
+   },
+   {
+    "fr": "t'es / t'as",
+    "en": "spoken forms of « tu es » / « tu as »",
+    "qc": true
+   },
+   {
+    "fr": "pile",
+    "en": "exactly, on the dot (« à 14 h pile »)"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Why did Raj fail the citizenship test the first time?",
+    "options": [
+     "His French was not good enough",
+     "He arrived late",
+     "He got one question about the Senate wrong",
+     "He forgot his documents"
+    ],
+    "a": 2,
+    "why": "« Raj a échoué à l'examen de citoyenneté à cause d'une seule question sur le Sénat. »"
+   },
+   {
+    "q": "What is Raj's dilemma during the ceremony?",
+    "options": [
+     "He doesn't know the oath by heart",
+     "His mother, watching from Pune, doesn't understand French, but he lives in French",
+     "His daughter wants to say the oath for him",
+     "The judge only speaks English"
+    ],
+    "a": 1,
+    "why": "« Ma mère... comprend un peu l'anglais, mais pas un mot de français. Et moi, je vis ici. En français. »"
+   },
+   {
+    "q": "What does Mme Tremblay's story about her father suggest?",
+    "options": [
+     "You can keep part of your first language and still belong here",
+     "You must forget your first language to belong",
+     "Her father never learned French",
+     "Irish people never took the oath"
+    ],
+    "a": 0,
+    "why": "He always counted in English, but « cela ne l'a jamais empêché d'être d'ici »."
+   },
+   {
+    "q": "How does Raj recite the oath?",
+    "options": [
+     "Only in French",
+     "Only in English",
+     "He stays silent",
+     "He starts in English and finishes in French"
+    ],
+    "a": 3,
+    "why": "« Raj commence en anglais... Puis, au milieu, il passe au français. »"
+   },
+   {
+    "q": "In « Ceci n'est pas une question de grammaire », why « ceci » rather than « ça »?",
+    "options": [
+     "« Ça » cannot be used with « être »",
+     "« Ceci » and « cela » belong to a more formal, written register; in speech you would hear « ça »",
+     "« Ceci » is plural",
+     "« Ceci » is the only correct form in Quebec"
+    ],
+    "a": 1,
+    "why": "The narration is written French. In conversation, Samir would say « C'est pas une question de grammaire, ça »."
+   }
+  ],
+  "quebec_note": "A « dépanneur » (often just « le dep ») is a Quebec corner store selling milk, beer, snacks and lottery tickets. Quebecers say « un complet » for a man's suit, where France says « un costume »."
+ },
+ {
+  "id": "b15",
+  "title": "La première neige",
+  "level": "B2",
+  "week": 147,
+  "place": "Montréal (Plateau-Mont-Royal)",
+  "summary": "A literary story: on the night of the first snowfall, the elderly Mme Tremblay goes out looking for her old cat Caramel and finds him somewhere unexpected.",
+  "text": [
+   "La neige commença à tomber vers minuit, sans bruit, comme si elle s'excusait d'arriver si tôt dans la saison.",
+   "Gisèle Tremblay ne dormait pas. À quatre-vingts ans, le sommeil était devenu un visiteur capricieux, qui arrivait tard et repartait avant l'aube. Elle regardait les flocons tourner dans la lumière orangée du lampadaire, et elle pensait à Gilles, qui aimait la première neige comme d'autres aiment le printemps. Chaque année, il ouvrait la porte en pyjama, respirait l'air froid et déclarait : « Bon. L'hiver est arrivé. On est chez nous. »",
+   "D'habitude, Caramel dormait au pied du lit. Ce soir-là, la place était vide et encore tiède.",
+   "Elle le chercha dans la cuisine, sous le canapé vert lime, derrière le calorifère. Rien. Puis elle remarqua la fenêtre de la salle de bain, qu'elle avait laissée entrouverte pour chasser l'humidité.",
+   "Caramel avait dix-sept ans. Il ne sortait plus depuis deux hivers. Le vétérinaire avait parlé de ses reins, de son cœur, avec ces mots doux que l'on choisit pour ne pas dire les choses. Gisèle avait hoché la tête. Elle connaissait ce vocabulaire. Elle l'avait entendu à l'hôpital, quinze ans plus tôt, au chevet de Gilles.",
+   "Elle mit son manteau par-dessus sa robe de nuit, enfila ses bottes sans les lacer et sortit.",
+   "La rue était blanche et silencieuse. Pas une trace de pattes. Elle appela, d'abord doucement, puis plus fort, et sa voix se perdait dans les flocons. Une fenêtre s'alluma au deuxième étage d'en face, puis s'éteignit. Le froid lui mordait les chevilles. Elle pensa, sans peur, que c'était une belle nuit pour se perdre, et elle en eut honte aussitôt.",
+   "C'est alors qu'elle vit la lumière chez Samir.",
+   "Il était trois heures du matin, et le jeune homme de Toronto, qui n'était plus si jeune ni vraiment de Toronto, se tenait sur son balcon, en t-shirt, un chat orange dans les bras.",
+   "— Il grattait à ma porte, dit Samir. Comme le premier jour, vous vous souvenez? Il est entré chez moi avant moi.",
+   "Gisèle se souvenait. Une boîte, une valise, un sac... et un gros chat orange. Elle monta l'escalier, une marche après l'autre, en se tenant à la rampe glacée. Samir lui mit une couverture sur les épaules et une tasse de thé entre les mains. Caramel, lui, s'installa sur ses genoux comme un bateau rentre au port.",
+   "Ils restèrent longtemps à regarder tomber la neige sans rien dire.",
+   "— Il savait, je pense, finit par murmurer Gisèle. Il voulait s'assurer que quelqu'un serait là. Pour moi. Après.",
+   "Samir ne répondit pas tout de suite. Il pensait à sa mère, à trois rues d'ici, et à tous ces gens qui l'avaient adopté sans jamais le lui demander.",
+   "— Il y aura toujours quelqu'un, dit-il enfin. On est chez nous.",
+   "Dans la rue, la neige recouvrait doucement les traces de pas, comme pour dire que tout, cette nuit, pouvait encore recommencer."
+  ],
+  "dialogue_ok": true,
+  "glossary": [
+   {
+    "fr": "commença, chercha, remarqua, monta",
+    "en": "began, looked for, noticed, climbed (passé simple of -er verbs: il/elle + -a)"
+   },
+   {
+    "fr": "mit / sortit / répondit",
+    "en": "put / went out / answered (passé simple of mettre, sortir, répondre)"
+   },
+   {
+    "fr": "vit / eut",
+    "en": "saw / had (passé simple of voir and avoir)"
+   },
+   {
+    "fr": "restèrent",
+    "en": "stayed (passé simple, ils/elles form: -èrent)"
+   },
+   {
+    "fr": "le lampadaire",
+    "en": "the street lamp"
+   },
+   {
+    "fr": "tiède",
+    "en": "lukewarm, still warm"
+   },
+   {
+    "fr": "le calorifère",
+    "en": "the radiator (France: le radiateur)",
+    "qc": true
+   },
+   {
+    "fr": "entrouvert(e)",
+    "en": "half-open, ajar"
+   },
+   {
+    "fr": "l'on",
+    "en": "formal written form of « on »"
+   },
+   {
+    "fr": "hocher la tête",
+    "en": "to nod"
+   },
+   {
+    "fr": "au chevet de",
+    "en": "at the bedside of"
+   },
+   {
+    "fr": "enfiler",
+    "en": "to slip on (clothes, boots)"
+   },
+   {
+    "fr": "la rampe",
+    "en": "the railing, the banister"
+   },
+   {
+    "fr": "s'assurer que",
+    "en": "to make sure that"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Why is Gisèle so worried when Caramel is missing?",
+    "options": [
+     "He hates snow",
+     "The vet told her to keep him on the bed",
+     "He is seventeen, ill, and hasn't gone outside for two winters",
+     "He has never left the apartment before"
+    ],
+    "a": 2,
+    "why": "« Caramel avait dix-sept ans. Il ne sortait plus depuis deux hivers. » The vet spoke about his kidneys and heart."
+   },
+   {
+    "q": "In « Elle mit son manteau », what is « mit »?",
+    "options": [
+     "The present tense of mettre",
+     "The passé simple of mettre: she put on",
+     "The subjunctive of mettre",
+     "The passé simple of mentir"
+    ],
+    "a": 1,
+    "why": "« Mit » is the literary past (passé simple) of mettre. In speech: « elle a mis »."
+   },
+   {
+    "q": "Where was Caramel?",
+    "options": [
+     "At Samir's place; he had scratched at his door",
+     "Under the lime-green couch",
+     "At the vet",
+     "On the roof"
+    ],
+    "a": 0,
+    "why": "Samir says « Il grattait à ma porte. Comme le premier jour. »"
+   },
+   {
+    "q": "What does Gisèle think Caramel wanted?",
+    "options": [
+     "To see the first snow",
+     "To move in with Samir for good",
+     "To find Gilles",
+     "To make sure someone would be there for her after his death"
+    ],
+    "a": 3,
+    "why": "« Il voulait s'assurer que quelqu'un serait là. Pour moi. Après. »"
+   },
+   {
+    "q": "Which words of Gilles does Samir repeat at the end?",
+    "options": [
+     "« L'hiver est arrivé »",
+     "« On est chez nous »",
+     "« Bon. »",
+     "« Bienvenue »"
+    ],
+    "a": 1,
+    "why": "Gilles said « On est chez nous » every first snowfall, and Samir ends with « On est chez nous. »"
+   }
+  ],
+  "quebec_note": "« Le calorifère » is the usual Quebec word for a radiator. The passé simple (« elle mit », « ils restèrent ») is almost never spoken in Quebec, but it fills Quebec novels and history books, so B2 readers need to recognize it."
+ },
+ {
+  "id": "b16",
+  "title": "Une histoire, deux français",
+  "level": "B2",
+  "week": 150,
+  "place": "Montréal (rue Ontario et pont Jacques-Cartier)",
+  "summary": "Kevin tells Samir about the night his son was born, first in pure joual, then again in standard French, and the two versions don't sound like the same man.",
+  "text": [
+   "Un vendredi soir de novembre, Samir et Kevin prennent une bière dans une brasserie de la rue Ontario. Félix, le fils de Kevin et Jessica, a deux mois. Kevin a des cernes jusqu'au menton, mais il tient absolument à raconter, pour la dixième fois, la nuit de la naissance.",
+   "— Faque là, écoute ben. Y'est trois heures du matin, Jess me réveille : « Kev, c'est l'temps. » Moi, chu tellement mêlé que j'mets mes bottes de pluie pis mon coton ouaté à l'envers. On embarque dans l'char, pis là, drette au milieu du pont Jacques-Cartier, le char lâche. Plus rien, pantoute. Pus de gaz. J'avais oublié de faire le plein, tsé.",
+   "— Non...",
+   "— Oui, mon homme. Jess a des contractions aux deux minutes, a crie après moi, pis moi, j'capote ben raide. Là, y'a un taxi qui arrête en arrière de nous autres. Le chauffeur débarque, y r'garde Jess, pis y dit : « Montez, madame, j'en ai déjà vu naître sept, des bébés. » On arrive à l'hôpital à 3 h 41. Félix est né à 3 h 52. Le gars a même pas voulu qu'on le paye. J'te dis, j'en reviens pas encore.",
+   "Samir rit, puis sort un carnet.",
+   "— C'est une histoire extraordinaire. Mais ma mère veut l'entendre dimanche, et la dernière fois, elle en a compris la moitié. Peux-tu me la raconter en français standard?",
+   "Kevin soupire, se redresse et prend la voix grave d'un lecteur de nouvelles.",
+   "— Il était trois heures du matin lorsque Jessica m'a réveillé pour m'annoncer que le moment était venu. J'étais si troublé que j'ai enfilé mes bottes de pluie et mon chandail molletonné à l'envers. Nous sommes montés dans la voiture et, en plein milieu du pont Jacques-Cartier, celle-ci est tombée en panne. Il n'y avait plus une goutte d'essence : j'avais oublié de faire le plein.",
+   "« Jessica avait des contractions toutes les deux minutes et me reprochait vivement mon étourderie ; pourtant, je m'efforçais de garder mon calme, sans grand succès. Un taxi s'est alors arrêté derrière nous. Le chauffeur est descendu, a regardé Jessica et a déclaré : “Montez, madame, j'ai déjà vu naître sept bébés.” Nous sommes arrivés à l'hôpital à 3 h 41 ; Félix est né à 3 h 52. Le chauffeur a refusé d'être payé. Je n'en reviens toujours pas. »",
+   "Samir applaudit.",
+   "— C'est drôle. Dans la deuxième version, t'as l'air beaucoup moins paniqué.",
+   "— C'est ça, le français standard, répond Kevin en finissant sa bière. Ça te donne de la dignité. Mais entre toi pis moi, mettons que la première version est plus proche de la vérité.",
+   "Le dimanche, la mère de Samir écoute la version standard en hochant la tête, très émue. Puis elle pose une seule question :",
+   "— Et ce chauffeur de taxi, vous l'avez remercié?",
+   "Kevin et Jessica se regardent. Bien qu'ils aient raconté l'histoire à la moitié de Montréal, ils n'ont jamais pensé à le chercher. Le lundi, Jessica appelle toutes les compagnies de taxi de la ville. Le mercredi, un homme qui s'appelle Jean-Robert sonne à leur porte avec un petit pyjama bleu pour Félix. Quelques mois plus tard, il est devenu son parrain."
+  ],
+  "dialogue_ok": true,
+  "glossary": [
+   {
+    "fr": "faque",
+    "en": "so, so then (spoken « ça fait que »)",
+    "qc": true
+   },
+   {
+    "fr": "chu",
+    "en": "I am (spoken « je suis »)",
+    "qc": true
+   },
+   {
+    "fr": "mêlé",
+    "en": "confused, mixed up",
+    "qc": true
+   },
+   {
+    "fr": "un coton ouaté",
+    "en": "a hoodie, a sweatshirt (standard: un chandail molletonné)",
+    "qc": true
+   },
+   {
+    "fr": "le char",
+    "en": "the car (standard: la voiture, l'auto)",
+    "qc": true
+   },
+   {
+    "fr": "drette",
+    "en": "right, exactly (spoken « droit »)",
+    "qc": true
+   },
+   {
+    "fr": "pantoute",
+    "en": "not at all, nothing at all",
+    "qc": true
+   },
+   {
+    "fr": "le gaz",
+    "en": "gas, gasoline (standard: l'essence)",
+    "qc": true
+   },
+   {
+    "fr": "a crie après moi",
+    "en": "she's yelling at me (« a » = elle in joual)",
+    "qc": true
+   },
+   {
+    "fr": "capoter (ben raide)",
+    "en": "to freak out (completely)",
+    "qc": true
+   },
+   {
+    "fr": "débarquer",
+    "en": "to get out (of a vehicle)",
+    "qc": true
+   },
+   {
+    "fr": "J'en reviens pas",
+    "en": "I can't get over it",
+    "qc": true
+   },
+   {
+    "fr": "faire le plein / tomber en panne",
+    "en": "to fill up the tank / to break down"
+   },
+   {
+    "fr": "pourtant",
+    "en": "and yet, however"
+   },
+   {
+    "fr": "bien que + subjonctif",
+    "en": "although (« bien qu'ils aient raconté »)"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Why did the car stop on the Jacques-Cartier Bridge?",
+    "options": [
+     "It had a flat tire",
+     "The police stopped it",
+     "It ran out of gas",
+     "The engine caught fire"
+    ],
+    "a": 2,
+    "why": "« Pus de gaz. J'avais oublié de faire le plein » = « Il n'y avait plus une goutte d'essence »."
+   },
+   {
+    "q": "In the standard version, which phrase corresponds to « chu tellement mêlé »?",
+    "options": [
+     "« J'étais si troublé »",
+     "« Je m'efforçais de garder mon calme »",
+     "« Je n'en reviens toujours pas »",
+     "« Le moment était venu »"
+    ],
+    "a": 0,
+    "why": "« Chu » = je suis / j'étais, « tellement » = si, « mêlé » = confused, troubled."
+   },
+   {
+    "q": "What does Samir notice about the second version?",
+    "options": [
+     "It is shorter",
+     "Kevin sounds much less panicked",
+     "The facts are different",
+     "It is funnier"
+    ],
+    "a": 1,
+    "why": "« Dans la deuxième version, t'as l'air beaucoup moins paniqué. »"
+   },
+   {
+    "q": "Which standard sentence replaces « le char lâche »?",
+    "options": [
+     "« Nous sommes montés dans la voiture »",
+     "« Un taxi s'est alors arrêté »",
+     "« Le chauffeur est descendu »",
+     "« Celle-ci est tombée en panne »"
+    ],
+    "a": 3,
+    "why": "« Lâcher » (of a car) = to quit, to die; standard French says « tomber en panne »."
+   },
+   {
+    "q": "What happens after Samir's mother asks about the taxi driver?",
+    "options": [
+     "They decide it is too late to find him",
+     "He sues them for the fare",
+     "Jessica finds him and he later becomes Félix's godfather",
+     "They discover he was Raj"
+    ],
+    "a": 2,
+    "why": "Jean-Robert visits with a pyjama, and « quelques mois plus tard, il est devenu son parrain »."
+   }
+  ],
+  "quebec_note": "Joual is the working-class Montréal speech made famous by Michel Tremblay's plays: « chu », « a » for elle, « drette », « pantoute ». Most Quebecers switch between casual Quebec French and standard French many times a day, depending on who is listening."
+ },
+ {
+  "id": "b17",
+  "title": "Répondez-moi en français, s'il vous plaît",
+  "level": "B2",
+  "week": 153,
+  "place": "Montréal",
+  "summary": "A Montréal columnist answers a reader from Toronto who is tired of being answered in English, and admits she is part of the problem.",
+  "text": [
+   "CHRONIQUE — Par Mélanie Côté-Rivard",
+   "La semaine dernière, j'ai reçu le courriel d'un lecteur. Appelons-le S. Arrivé de Toronto il y a trois ans, il a appris le français à partir de zéro : cours du soir, balados dans le métro, conversations interminables avec une voisine octogénaire et son chat. Aujourd'hui, il négocie ses contrats de travail en français. Pourtant, il m'écrit qu'il vit une petite humiliation presque quotidienne : dès qu'on entend son accent, on lui répond en anglais.",
+   "« Je sais que c'est par gentillesse, écrit-il. Mais chaque fois, j'ai l'impression qu'on m'enlève un diplôme. »",
+   "Je l'avoue, j'ai rougi en lisant ces lignes. Moi aussi, je l'ai fait. Au café, à la quincaillerie, au comptoir de la SAQ : j'entends un « bonjour » un peu hésitant et, par réflexe, je bascule en anglais. Je me crois polie, efficace, ouverte. En réalité, je viens de dire à quelqu'un que son effort ne valait pas la peine.",
+   "On me répondra, avec raison, que la situation est plus complexe. Bien que le français soit la seule langue officielle du Québec, Montréal reste une ville profondément bilingue, où l'anglais sert souvent de terrain neutre. Le serveur débordé, la caissière en fin de quart n'ont pas toujours le temps de jouer les professeurs. Et certains nouveaux arrivants préfèrent qu'on leur parle anglais, surtout dans les moments délicats : chez le médecin, au poste de police, devant un formulaire d'immigration.",
+   "Soit. Mais posons-nous franchement la question : comment espère-t-on que les nouveaux arrivants adoptent le français si on leur ferme la porte chaque fois qu'ils frappent? On exige d'eux qu'ils apprennent la langue, puis on les empêche de la pratiquer. C'est un peu comme reprocher à quelqu'un de ne pas savoir nager tout en lui interdisant l'accès à la piscine.",
+   "Je propose donc une règle simple, que j'essaie d'appliquer depuis une semaine : quand quelqu'un commence en français, je continue en français. Lentement, s'il le faut. Avec des gestes, s'il le faut. Je ne passe à l'anglais que si la personne me le demande. Ce n'est pas du purisme; c'est du respect.",
+   "J'ai testé ma règle au marché Jean-Talon. Un jeune homme m'a demandé, avec un fort accent, si les fraises étaient « du Québec ou de la Californie ». Je lui ai répondu en français. Il a souri comme si je venais de lui offrir un cadeau, et il est reparti avec deux casseaux.",
+   "À S., et à tous ceux qui m'écriront après lui : continuez. Et si on vous répond en anglais, dites simplement, avec le sourire : « En français, s'il vous plaît. » Vous en avez gagné le droit.",
+   "Note de la rédaction : cette chronique a suscité plus de quatre cents commentaires en deux jours. Le plus court, signé Gisèle T., disait seulement : « Bravo. Le chat est d'accord. »"
+  ],
+  "dialogue_ok": false,
+  "glossary": [
+   {
+    "fr": "une chronique / une chroniqueuse",
+    "en": "an opinion column / a columnist"
+   },
+   {
+    "fr": "un courriel",
+    "en": "an email (official Quebec term)",
+    "qc": true
+   },
+   {
+    "fr": "un balado",
+    "en": "a podcast",
+    "qc": true
+   },
+   {
+    "fr": "octogénaire",
+    "en": "in her eighties"
+   },
+   {
+    "fr": "rougir",
+    "en": "to blush"
+   },
+   {
+    "fr": "la SAQ",
+    "en": "the Société des alcools du Québec, the government liquor store",
+    "qc": true
+   },
+   {
+    "fr": "basculer",
+    "en": "to switch over, to tip over"
+   },
+   {
+    "fr": "débordé",
+    "en": "swamped, overwhelmed"
+   },
+   {
+    "fr": "un quart (de travail)",
+    "en": "a work shift",
+    "qc": true
+   },
+   {
+    "fr": "bien que + subjonctif",
+    "en": "although (« bien que le français soit »)"
+   },
+   {
+    "fr": "Soit.",
+    "en": "Granted. / Fine. (concedes a point before arguing back)"
+   },
+   {
+    "fr": "tout en + participe présent",
+    "en": "while (doing something at the same time)"
+   },
+   {
+    "fr": "un casseau",
+    "en": "a small basket of berries",
+    "qc": true
+   },
+   {
+    "fr": "susciter",
+    "en": "to provoke, to generate (reactions)"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What is the reader S.'s main complaint?",
+    "options": [
+     "His French classes are too expensive",
+     "People switch to English as soon as they hear his accent",
+     "Nobody understands his Toronto accent in English",
+     "His neighbour's cat ignores him"
+    ],
+    "a": 1,
+    "why": "« Dès qu'on entend son accent, on lui répond en anglais. »"
+   },
+   {
+    "q": "Which counter-argument does the columnist accept as reasonable?",
+    "options": [
+     "French is not an official language",
+     "Newcomers never want to speak French",
+     "Montréal is bilingual, workers are busy, and some newcomers prefer English in delicate situations",
+     "Speaking English is always more polite"
+    ],
+    "a": 2,
+    "why": "« On me répondra, avec raison, que la situation est plus complexe... »"
+   },
+   {
+    "q": "What does the swimming-pool comparison mean?",
+    "options": [
+     "Demanding that newcomers learn French while stopping them from practising it is contradictory",
+     "Newcomers should take swimming lessons in French",
+     "Learning French is as dangerous as swimming",
+     "Public pools in Montréal are only in French"
+    ],
+    "a": 0,
+    "why": "« On exige d'eux qu'ils apprennent la langue, puis on les empêche de la pratiquer. »"
+   },
+   {
+    "q": "What is the columnist's proposed rule?",
+    "options": [
+     "Always answer in English to be polite",
+     "Correct every mistake a newcomer makes",
+     "Speak only French, even if asked to switch",
+     "If someone starts in French, continue in French unless they ask to switch"
+    ],
+    "a": 3,
+    "why": "« Je ne passe à l'anglais que si la personne me le demande. »"
+   },
+   {
+    "q": "In « Soit. Mais posons-nous franchement la question », what does « Soit » do?",
+    "options": [
+     "It means « either »",
+     "It concedes the previous point before arguing back",
+     "It is a command: « be! »",
+     "It means « therefore »"
+    ],
+    "a": 1,
+    "why": "As a one-word sentence, « Soit. » means « Granted. / Fine. », a classic editorial move before a « mais »."
+   }
+  ],
+  "quebec_note": "« Un casseau » is the Quebec word for a small basket of berries, and « un balado » is the official Quebec term for a podcast. Opinion columns in La Presse and Le Devoir are a beloved genre, and language questions always draw the most comments."
+ },
+ {
+  "id": "b18",
+  "title": "Le chiffre",
+  "level": "B2",
+  "week": 156,
+  "place": "Montréal (Mile End)",
+  "summary": "Armed with Jessica's three rules, Samir negotiates his raise with M. Gagnon and a formidable HR director during a budget freeze.",
+  "text": [
+   "La veille, Jessica lui avait donné trois règles : « Un, tu ne dis jamais ton chiffre en premier. Deux, tu ne t'excuses pas. Trois, tu ne manges pas de beignes pendant la réunion. Le sucre te rend gentil. »",
+   "À neuf heures, Samir entre dans la salle de conférence. M. Gagnon est déjà un peu rouge. À côté de lui est assise Chantal Lévesque, la directrice des ressources humaines, réputée pour n'avoir jamais perdu une négociation. Au milieu de la table : une boîte de beignes.",
+   "— Assieds-toi, Samir, dit M. Gagnon. Tu voulais nous parler?",
+   "— Oui. Depuis un an, je gère seul les clients de Québec et de Sherbrooke. Mon équipe a augmenté le chiffre d'affaires de dix-huit pour cent. Je pense que mon salaire devrait refléter ces nouvelles responsabilités.",
+   "— Nous sommes tout à fait d'accord, répond Chantal avec un sourire. À combien pensais-tu?",
+   "Samir sent le piège. Règle numéro un.",
+   "— J'aimerais d'abord entendre votre proposition.",
+   "Un silence. M. Gagnon prend un beigne.",
+   "— Trois pour cent, dit Chantal. C'est l'augmentation standard cette année.",
+   "— Je vous remercie. Mais, avec tout le respect que je vous dois, c'est l'augmentation de quelqu'un qui fait le même travail que l'an dernier. Pour un poste comme le mien, le marché se situe autour de quatre-vingt-cinq mille dollars. J'en gagne soixante-douze.",
+   "— Le marché, le marché..., grogne M. Gagnon. Il y a un gel des budgets jusqu'en avril, Samir. Je ne peux pas inventer de l'argent.",
+   "Samir avait prévu cet argument. Il ne recule pas, mais il ne fonce pas non plus.",
+   "— Je comprends la contrainte, et je ne vous demande pas l'impossible. Alors cherchons ensemble. Si l'argent est bloqué jusqu'en avril, est-ce qu'on pourrait parler du titre, du télétravail et d'un calendrier?",
+   "Chantal le regarde avec un intérêt nouveau. Pendant quarante minutes, ils négocient comme on joue aux échecs : une concession contre une autre, une hypothèse, un « mettons que ». À la fin, l'entente tient sur un papillon adhésif : le titre de chef d'équipe immédiatement; six pour cent maintenant; une révision garantie en avril, avec un objectif de quatre-vingt-trois mille; deux jours de télétravail par semaine.",
+   "— Une dernière chose, ajoute M. Gagnon. Le client de Québec veut une présentation la semaine prochaine. Entièrement en français, devant son conseil d'administration. Ça te va?",
+   "Trois ans plus tôt, cette phrase l'aurait terrifié.",
+   "— Ça me va.",
+   "Il se lève et serre les mains. Au moment où il ouvre la porte, Chantal l'arrête.",
+   "— Samir? Pour ton information, j'avais l'autorisation d'aller jusqu'à huit pour cent. Mais le titre et le télétravail, je ne les aurais jamais offerts d'moi-même. Bien joué.",
+   "Dans l'ascenseur, Samir texte Jessica : « Six pour cent, titre, télétravail. Elle pouvait aller jusqu'à huit. J'ai pas touché aux beignes. »",
+   "La réponse arrive aussitôt : « Règle numéro quatre : il y a toujours plus d'argent que ce qu'on te dit. Mais bravo. Félix aussi est fier de toi. »"
+  ],
+  "dialogue_ok": true,
+  "glossary": [
+   {
+    "fr": "le chiffre d'affaires",
+    "en": "revenue, sales figures"
+   },
+   {
+    "fr": "un piège",
+    "en": "a trap"
+   },
+   {
+    "fr": "avec tout le respect que je vous dois",
+    "en": "with all due respect (polite way to disagree)"
+   },
+   {
+    "fr": "un gel des budgets",
+    "en": "a budget freeze"
+   },
+   {
+    "fr": "grogner",
+    "en": "to grumble, to growl"
+   },
+   {
+    "fr": "reculer / foncer",
+    "en": "to back down / to charge ahead"
+   },
+   {
+    "fr": "une contrainte",
+    "en": "a constraint"
+   },
+   {
+    "fr": "le télétravail",
+    "en": "remote work"
+   },
+   {
+    "fr": "mettons que",
+    "en": "let's say that (spoken hypothesis)",
+    "qc": true
+   },
+   {
+    "fr": "une entente",
+    "en": "an agreement, a deal"
+   },
+   {
+    "fr": "un papillon adhésif",
+    "en": "a sticky note (OQLF term for « post-it »)",
+    "qc": true
+   },
+   {
+    "fr": "le conseil d'administration",
+    "en": "the board of directors"
+   },
+   {
+    "fr": "d'moi-même",
+    "en": "of my own accord (spoken « de moi-même »)",
+    "qc": true
+   },
+   {
+    "fr": "texter",
+    "en": "to text",
+    "qc": true
+   },
+   {
+    "fr": "J'ai pas touché",
+    "en": "I didn't touch (spoken: the « ne » is dropped)",
+    "qc": true
+   }
+  ],
+  "questions": [
+   {
+    "q": "What was Jessica's first rule?",
+    "options": [
+     "Never apologize",
+     "Don't eat doughnuts",
+     "Never say your number first",
+     "Always ask for ten percent"
+    ],
+    "a": 2,
+    "why": "« Un, tu ne dis jamais ton chiffre en premier. »"
+   },
+   {
+    "q": "Why does M. Gagnon say he cannot give more money?",
+    "options": [
+     "Samir's team lost clients",
+     "There is a budget freeze until April",
+     "Chantal refuses",
+     "The market salary is lower"
+    ],
+    "a": 1,
+    "why": "« Il y a un gel des budgets jusqu'en avril, Samir. »"
+   },
+   {
+    "q": "How does Samir react to the budget freeze?",
+    "options": [
+     "He threatens to resign",
+     "He accepts three percent",
+     "He apologizes and leaves",
+     "He suggests negotiating the title, remote work and a timeline instead"
+    ],
+    "a": 3,
+    "why": "« Si l'argent est bloqué jusqu'en avril, est-ce qu'on pourrait parler du titre, du télétravail et d'un calendrier? »"
+   },
+   {
+    "q": "What does Chantal reveal at the end?",
+    "options": [
+     "She could have gone up to 8%, but she would never have offered the title and remote work herself",
+     "She had already decided to give him 6%",
+     "M. Gagnon wanted to fire him",
+     "The Québec City client asked for him"
+    ],
+    "a": 0,
+    "why": "« J'avais l'autorisation d'aller jusqu'à huit pour cent. Mais le titre et le télétravail, je ne les aurais jamais offerts. »"
+   },
+   {
+    "q": "Which of Samir's phrases is a polite way of disagreeing?",
+    "options": [
+     "« Ça me va. »",
+     "« Je vous remercie. »",
+     "« Avec tout le respect que je vous dois »",
+     "« J'aimerais d'abord entendre votre proposition. »"
+    ],
+    "a": 2,
+    "why": "« Avec tout le respect que je vous dois » softens a disagreement, like « with all due respect »."
+   }
+  ],
+  "quebec_note": "« Tu » is very common at work in Quebec, even with the boss, as when M. Gagnon says « Assieds-toi, Samir ». The OQLF recommends « papillon adhésif » for a sticky note, but in the office you will hear « un post-it » just as often."
+ },
+ {
+  "id": "b19",
+  "title": "Le crabe et la baleine",
+  "level": "B2",
+  "week": 161,
+  "place": "Rivière-au-Renard (Gaspésie)",
+  "summary": "On regional morning radio, a Gaspésie snow-crab fisherman talks about whale closures, the lack of young fishers, and the daughter who changed his plans.",
+  "text": [
+   "ISABELLE CORMIER : Bonjour et bienvenue à Bonjour la Côte! Ce matin, je suis en direct du quai de Rivière-au-Renard, où la saison du crabe des neiges vient de se terminer. Avec moi, Réjean Cloutier, pêcheur depuis quarante-deux ans. Bonjour, monsieur Cloutier.",
+   "RÉJEAN CLOUTIER : Bonjour, Isabelle. Pis appelez-moi Réjean, sinon j'vais penser que vous travaillez pour Pêches et Océans.",
+   "IC : (rires) Réjean, comment s'est passée la saison?",
+   "RC : Ben, écoutez... Du crabe, y en avait. Les prix étaient corrects. Mais on a eu trois fermetures de zone à cause des baleines noires. Trois! Un jour, t'as tes cages à l'eau, le lendemain, on te dit de toute sortir en quarante-huit heures. Avec la météo qu'on avait, ça avait pas d'allure.",
+   "IC : Certains pêcheurs disent que ces mesures sont exagérées. Est-ce que c'est votre avis?",
+   "RC : Non. Pis ça, j'aime autant le dire au micro, même si ça me fait pas que des amis sur le quai. La baleine noire, il en reste à peu près trois cent soixante-dix dans le monde. Si on les fait disparaître, c'est la fin de la pêche aussi, parce que nos acheteurs en veulent pas, du crabe qui tue des baleines. Le problème, c'est pas la règle. C'est la manière. On nous avertit à la dernière minute pis on nous consulte jamais.",
+   "IC : Vous parlez souvent de la relève. Est-ce qu'il y a encore des jeunes qui veulent faire ce métier-là?",
+   "RC : De moins en moins. Un permis pis un bateau, ça coûte des millions. Les jeunes partent étudier à Québec ou à Montréal, pis y reviennent pas. Moi, j'pensais vendre mon permis l'an prochain. J'étais rendu là. J'avais quasiment lancé la serviette.",
+   "IC : Vous dites « j'avais ». Qu'est-ce qui a changé?",
+   "RC : (silence) Ma fille. Émilie. Elle a trente et un ans, elle était ingénieure à Montréal. Au mois de mars, elle m'appelle pis elle me dit : « Papa, vends pas. Je reviens. » J'ai cru qu'elle niaisait. Ben non. Elle a fait toute la saison avec moi. Elle a eu le mal de mer les trois premiers jours, pis après ça, c'est elle qui me donnait des ordres.",
+   "IC : Comment on se sent, comme père, quand on entend ça?",
+   "RC : Fier. Pis inquiet. Les deux en même temps. Le golfe se réchauffe, le crabe va peut-être monter plus au nord, les baleines aussi... Je sais pas ce qu'elle va pêcher dans vingt ans. Mais elle dit qu'elle va s'adapter. Les ingénieurs, ça a réponse à toute, faut croire.",
+   "IC : Un dernier mot pour les auditeurs qui nous écoutent de Montréal?",
+   "RC : Oui. La prochaine fois que vous trouvez votre crabe trop cher à l'épicerie, pensez à ceux qui se sont levés à trois heures du matin pour le sortir de l'eau. Pis venez nous voir en Gaspésie. Pas juste pour le Rocher Percé. Venez sur le quai. Icitte, on jase avec tout le monde.",
+   "IC : Merci, Réjean. Après la pause, la météo marine... et je vois qu'Émilie Cloutier me fait de grands signes. On dirait qu'elle a des choses à répondre à son père. Restez avec nous!"
+  ],
+  "dialogue_ok": true,
+  "glossary": [
+   {
+    "fr": "un quai",
+    "en": "a wharf, a dock"
+   },
+   {
+    "fr": "le crabe des neiges",
+    "en": "snow crab"
+   },
+   {
+    "fr": "une fermeture de zone",
+    "en": "an area closure (fishing is banned there)"
+   },
+   {
+    "fr": "la baleine noire",
+    "en": "the North Atlantic right whale, an endangered species"
+   },
+   {
+    "fr": "une cage",
+    "en": "a crab trap"
+   },
+   {
+    "fr": "ça a pas d'allure",
+    "en": "it makes no sense, it's ridiculous",
+    "qc": true
+   },
+   {
+    "fr": "la relève",
+    "en": "the next generation who will take over"
+   },
+   {
+    "fr": "être rendu là",
+    "en": "to have reached that point",
+    "qc": true
+   },
+   {
+    "fr": "quasiment",
+    "en": "almost, nearly (very common in Quebec speech)",
+    "qc": true
+   },
+   {
+    "fr": "lancer la serviette",
+    "en": "to throw in the towel, to give up (from boxing)"
+   },
+   {
+    "fr": "niaiser",
+    "en": "to joke around, to kid",
+    "qc": true
+   },
+   {
+    "fr": "avoir le mal de mer",
+    "en": "to be seasick"
+   },
+   {
+    "fr": "à toute",
+    "en": "to everything (spoken « à tout »)",
+    "qc": true
+   },
+   {
+    "fr": "icitte",
+    "en": "here (old rural form of « ici »)",
+    "qc": true
+   },
+   {
+    "fr": "jaser",
+    "en": "to chat",
+    "qc": true
+   }
+  ],
+  "questions": [
+   {
+    "q": "Why was the season difficult even though prices were fine?",
+    "options": [
+     "There was no crab",
+     "Three area closures because of right whales, with very little notice",
+     "A storm destroyed his boat",
+     "Émilie got seasick all season"
+    ],
+    "a": 1,
+    "why": "« On a eu trois fermetures de zone à cause des baleines noires... on te dit de toute sortir en quarante-huit heures. »"
+   },
+   {
+    "q": "What is Réjean's position on the whale protection rules?",
+    "options": [
+     "They are completely exaggerated",
+     "Only Americans care about whales",
+     "Fishermen should ignore them",
+     "He supports the rule but criticizes how it is applied"
+    ],
+    "a": 3,
+    "why": "« Le problème, c'est pas la règle. C'est la manière. »"
+   },
+   {
+    "q": "What does « J'avais quasiment lancé la serviette » mean?",
+    "options": [
+     "I had almost given up",
+     "I had almost thrown my towel into the sea",
+     "I had almost won the fight",
+     "I had almost finished the season"
+    ],
+    "a": 0,
+    "why": "« Lancer la serviette » = to throw in the towel; « quasiment » = almost."
+   },
+   {
+    "q": "What made Réjean change his plan to sell his permit?",
+    "options": [
+     "Crab prices went up",
+     "Fisheries and Oceans gave him a grant",
+     "His daughter Émilie left her engineering job to fish with him",
+     "A young buyer offered too little"
+    ],
+    "a": 2,
+    "why": "« Papa, vends pas. Je reviens. » She did the whole season with him."
+   },
+   {
+    "q": "In this interview, what does « la relève » refer to?",
+    "options": [
+     "The morning tide",
+     "The young people who will take over the trade",
+     "The radio team",
+     "The whale population"
+    ],
+    "a": 1,
+    "why": "The host asks if there are still young people who want this job: « la relève » = the next generation."
+   }
+  ],
+  "quebec_note": "Gaspésie speech keeps old forms like « icitte » (ici) and « à toute » (à tout). In Quebec, « niaiser » means to joke around or to waste someone's time: « J'ai cru qu'elle niaisait » means « I thought she was kidding »."
+ },
+ {
+  "id": "b20",
+  "title": "Une porte ouverte",
+  "level": "B2",
+  "week": 168,
+  "place": "Montréal (Plateau-Mont-Royal)",
+  "summary": "Samir receives his TEF Canada results, looks back on his whole journey in French, and finds the perfect way to celebrate.",
+  "text": [
+   "Le courriel arrive un mardi, à 6 h 12, pendant que Samir fait chauffer son café. Objet : « Résultats — TEF Canada ». Il ne l'ouvre pas tout de suite. Pour son nouveau poste, l'entreprise exige une attestation officielle de niveau B2 dans les quatre compétences. Il a passé l'examen il y a trois semaines, dans une salle surchauffée, entre un ingénieur colombien qui tapait du pied et une étudiante française qui terminait chaque phrase par « du coup ».",
+   "Il se souvient de chaque épreuve. La compréhension orale : un bulletin de circulation débité à toute vitesse. La compréhension écrite : un éditorial sur la pénurie de logements, dont il avait saisi jusqu'à l'ironie. L'expression écrite : une lettre de plainte. Il avait failli rire; il en avait déjà écrit une vraie, au sujet d'un canapé vert lime. Puis l'expression orale, la plus redoutée : convaincre une examinatrice de s'inscrire à un club de randonnée. Il avait argumenté, nuancé, concédé, insisté. À un moment, emporté, il avait laissé échapper un « ben voyons donc! ». L'examinatrice avait souri.",
+   "Il ouvre le courriel. Compréhension écrite : C1. Compréhension orale : B2. Expression écrite : B2. Expression orale : C1.",
+   "Samir s'assoit sur son canapé gris et ne bouge plus. Il pense au premier jour : une boîte, une valise, un sac, et une dame qui lui disait « Bienvenue! » pendant que son chat entrait chez lui sans permission. Il pense au métro pris dans le mauvais sens jusqu'à Laval, au divan vert coincé dans l'escalier, à sa course en pyjama devant la dépanneuse. Chaque honte est devenue une histoire, et chaque histoire, un peu de français.",
+   "Il pense aussi à ce que personne ne voit sur un relevé de notes : les soirs où il voulait tout abandonner, les conversations où il hochait la tête sans comprendre, les gens qui lui répondaient en anglais. Et ceux qui avaient refusé de le faire : Gisèle, Raj, Jessica, et même M. Gagnon, à sa façon.",
+   "Son téléphone vibre. Sa mère : « Alors?? » Jessica : « ALORS??? Félix veut savoir. » Kevin : « Si t'as pas passé, j'te prête mes cahiers de joual. »",
+   "Samir répond à tout le monde avec la même photo : l'écran de son ordinateur, et Caramel, très digne, couché sur le clavier.",
+   "Le soir, Mme Tremblay organise une fête improvisée dans sa cuisine. Il y a de la tarte au sucre, du thé et beaucoup trop de monde. Félix dort dans les bras de son parrain. On réclame un discours. Samir refuse, puis accepte.",
+   "— Quand je suis arrivé, je pensais que le français était un examen à réussir. Je me trompais. C'était une porte. Et vous l'avez tous tenue ouverte assez longtemps pour que j'apprenne à l'ouvrir moi-même.",
+   "Gisèle s'essuie les yeux.",
+   "— Bon, assez d'émotions. Il y a un nouveau voisin qui est arrivé au 4520 cet après-midi. Il vient d'Ukraine. Il avait une boîte, une valise et un sac. Il ne parle pas encore français.",
+   "Samir pose sa tasse, coupe une part de tarte au sucre et se dirige vers la porte.",
+   "— Où tu vas? demande Jessica.",
+   "— Lui dire bonjour, répond Samir. En français. Lentement. Et autant de fois qu'il le faudra."
+  ],
+  "dialogue_ok": true,
+  "glossary": [
+   {
+    "fr": "une attestation",
+    "en": "an official certificate"
+   },
+   {
+    "fr": "une épreuve",
+    "en": "a section of an exam, a test"
+   },
+   {
+    "fr": "surchauffé",
+    "en": "overheated"
+   },
+   {
+    "fr": "du coup",
+    "en": "so, as a result (very frequent filler in France, rare in Quebec)"
+   },
+   {
+    "fr": "débité à toute vitesse",
+    "en": "rattled off at top speed"
+   },
+   {
+    "fr": "la pénurie de logements",
+    "en": "the housing shortage"
+   },
+   {
+    "fr": "avoir failli + infinitif",
+    "en": "to have almost done something"
+   },
+   {
+    "fr": "laisser échapper",
+    "en": "to let slip"
+   },
+   {
+    "fr": "Ben voyons donc!",
+    "en": "Oh, come on! (disbelief or protest)",
+    "qc": true
+   },
+   {
+    "fr": "la dépanneuse",
+    "en": "the tow truck (not to be confused with « le dépanneur », the corner store)",
+    "qc": true
+   },
+   {
+    "fr": "un relevé de notes",
+    "en": "a transcript, a score report"
+   },
+   {
+    "fr": "Si t'as pas passé",
+    "en": "If you didn't pass (spoken; standard « si tu n'as pas réussi »)",
+    "qc": true
+   },
+   {
+    "fr": "la tarte au sucre",
+    "en": "sugar pie, a very sweet Quebec dessert",
+    "qc": true
+   },
+   {
+    "fr": "se diriger vers",
+    "en": "to head towards"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Why did Samir take the TEF Canada?",
+    "options": [
+     "To become a Canadian citizen",
+     "To enter university",
+     "His new job requires an official B2 certificate in all four skills",
+     "His mother asked him to"
+    ],
+    "a": 2,
+    "why": "« Pour son nouveau poste, l'entreprise exige une attestation officielle de niveau B2 dans les quatre compétences. »"
+   },
+   {
+    "q": "Why did Samir almost laugh during the written section?",
+    "options": [
+     "He had to write a complaint letter, and he had already written a real one about a couch",
+     "The topic was about cats",
+     "The examiner made a joke",
+     "The student next to him said « du coup »"
+    ],
+    "a": 0,
+    "why": "« L'expression écrite : une lettre de plainte. Il avait failli rire; il en avait déjà écrit une vraie... »"
+   },
+   {
+    "q": "What were Samir's results?",
+    "options": [
+     "B1 in all four skills",
+     "C1 in everything",
+     "B2 in reading and speaking, C1 in listening and writing",
+     "C1 in reading and speaking, B2 in listening and writing"
+    ],
+    "a": 3,
+    "why": "« Compréhension écrite : C1. Compréhension orale : B2. Expression écrite : B2. Expression orale : C1. »"
+   },
+   {
+    "q": "What does Samir mean when he says French « était une porte »?",
+    "options": [
+     "He finally got a key to his apartment",
+     "French was not just a test to pass, but a way into a community",
+     "He wants to become a doorman",
+     "French is closed to newcomers"
+    ],
+    "a": 1,
+    "why": "« Je pensais que le français était un examen à réussir. Je me trompais. C'était une porte. »"
+   },
+   {
+    "q": "What does Samir do at the end of the party?",
+    "options": [
+     "He goes home to sleep",
+     "He calls his mother",
+     "He goes to welcome the new Ukrainian neighbour, in French",
+     "He gives his speech a second time"
+    ],
+    "a": 2,
+    "why": "« Lui dire bonjour. En français. Lentement. Et autant de fois qu'il le faudra. »"
+   }
+  ],
+  "quebec_note": "« La tarte au sucre » is a classic Quebec dessert made with brown sugar or maple syrup. And watch out for a famous trap: « un dépanneur » is a corner store, but « une dépanneuse » is a tow truck."
+ }
+]

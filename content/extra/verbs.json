@@ -1,0 +1,6603 @@
+[
+ {
+  "inf": "être",
+  "en": "to be",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "été",
+  "ppr": "étant",
+  "qc": false,
+  "week": 9,
+  "t": {
+   "present": [
+    "je suis",
+    "tu es",
+    "il/elle/on est",
+    "nous sommes",
+    "vous êtes",
+    "ils/elles sont"
+   ],
+   "passe_compose": [
+    "j'ai été",
+    "tu as été",
+    "il/elle/on a été",
+    "nous avons été",
+    "vous avez été",
+    "ils/elles ont été"
+   ],
+   "imparfait": [
+    "j'étais",
+    "tu étais",
+    "il/elle/on était",
+    "nous étions",
+    "vous étiez",
+    "ils/elles étaient"
+   ],
+   "futur": [
+    "je serai",
+    "tu seras",
+    "il/elle/on sera",
+    "nous serons",
+    "vous serez",
+    "ils/elles seront"
+   ],
+   "conditionnel": [
+    "je serais",
+    "tu serais",
+    "il/elle/on serait",
+    "nous serions",
+    "vous seriez",
+    "ils/elles seraient"
+   ],
+   "subjonctif": [
+    "que je sois",
+    "que tu sois",
+    "qu'il/elle/on soit",
+    "que nous soyons",
+    "que vous soyez",
+    "qu'ils/elles soient"
+   ],
+   "plus_que_parfait": [
+    "j'avais été",
+    "tu avais été",
+    "il/elle/on avait été",
+    "nous avions été",
+    "vous aviez été",
+    "ils/elles avaient été"
+   ],
+   "imperatif": [
+    "sois",
+    "soyons",
+    "soyez"
+   ]
+  },
+  "spoken_qc": "Quebec speech (informal): \"chu\" for je suis (\"chu fatigué\"), \"t'es\" for tu es, \"y'é\" for il est, \"a l'est\" for elle est, \"j'tais\" for j'étais.",
+  "examples": [
+   {
+    "fr": "Je suis à Montréal depuis deux ans.",
+    "en": "I've been in Montreal for two years."
+   },
+   {
+    "fr": "Nous étions fatigués après la tempête de neige.",
+    "en": "We were tired after the snowstorm."
+   }
+  ]
+ },
+ {
+  "inf": "avoir",
+  "en": "to have",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "eu",
+  "ppr": "ayant",
+  "qc": false,
+  "week": 9,
+  "t": {
+   "present": [
+    "j'ai",
+    "tu as",
+    "il/elle/on a",
+    "nous avons",
+    "vous avez",
+    "ils/elles ont"
+   ],
+   "passe_compose": [
+    "j'ai eu",
+    "tu as eu",
+    "il/elle/on a eu",
+    "nous avons eu",
+    "vous avez eu",
+    "ils/elles ont eu"
+   ],
+   "imparfait": [
+    "j'avais",
+    "tu avais",
+    "il/elle/on avait",
+    "nous avions",
+    "vous aviez",
+    "ils/elles avaient"
+   ],
+   "futur": [
+    "j'aurai",
+    "tu auras",
+    "il/elle/on aura",
+    "nous aurons",
+    "vous aurez",
+    "ils/elles auront"
+   ],
+   "conditionnel": [
+    "j'aurais",
+    "tu aurais",
+    "il/elle/on aurait",
+    "nous aurions",
+    "vous auriez",
+    "ils/elles auraient"
+   ],
+   "subjonctif": [
+    "que j'aie",
+    "que tu aies",
+    "qu'il/elle/on ait",
+    "que nous ayons",
+    "que vous ayez",
+    "qu'ils/elles aient"
+   ],
+   "plus_que_parfait": [
+    "j'avais eu",
+    "tu avais eu",
+    "il/elle/on avait eu",
+    "nous avions eu",
+    "vous aviez eu",
+    "ils/elles avaient eu"
+   ],
+   "imperatif": [
+    "aie",
+    "ayons",
+    "ayez"
+   ]
+  },
+  "spoken_qc": "Quebec speech (informal): \"t'as\" for tu as, \"y'a\" for il a / il y a, \"a l'a\" for elle a (\"a l'a un chien\"), \"y'ont\" for ils ont.",
+  "examples": [
+   {
+    "fr": "J'ai deux enfants.",
+    "en": "I have two children."
+   },
+   {
+    "fr": "Est-ce que tu as ta carte d'assurance maladie?",
+    "en": "Do you have your health insurance card?"
+   }
+  ]
+ },
+ {
+  "inf": "aller",
+  "en": "to go",
+  "group": 3,
+  "aux": "être",
+  "pp": "allé",
+  "ppr": "allant",
+  "qc": false,
+  "week": 11,
+  "t": {
+   "present": [
+    "je vais",
+    "tu vas",
+    "il/elle/on va",
+    "nous allons",
+    "vous allez",
+    "ils/elles vont"
+   ],
+   "passe_compose": [
+    "je suis allé(e)",
+    "tu es allé(e)",
+    "il/elle/on est allé(e)",
+    "nous sommes allé(e)s",
+    "vous êtes allé(e)s",
+    "ils/elles sont allé(e)s"
+   ],
+   "imparfait": [
+    "j'allais",
+    "tu allais",
+    "il/elle/on allait",
+    "nous allions",
+    "vous alliez",
+    "ils/elles allaient"
+   ],
+   "futur": [
+    "j'irai",
+    "tu iras",
+    "il/elle/on ira",
+    "nous irons",
+    "vous irez",
+    "ils/elles iront"
+   ],
+   "conditionnel": [
+    "j'irais",
+    "tu irais",
+    "il/elle/on irait",
+    "nous irions",
+    "vous iriez",
+    "ils/elles iraient"
+   ],
+   "subjonctif": [
+    "que j'aille",
+    "que tu ailles",
+    "qu'il/elle/on aille",
+    "que nous allions",
+    "que vous alliez",
+    "qu'ils/elles aillent"
+   ],
+   "plus_que_parfait": [
+    "j'étais allé(e)",
+    "tu étais allé(e)",
+    "il/elle/on était allé(e)",
+    "nous étions allé(e)s",
+    "vous étiez allé(e)s",
+    "ils/elles étaient allé(e)s"
+   ],
+   "imperatif": [
+    "va",
+    "allons",
+    "allez"
+   ]
+  },
+  "spoken_qc": "Quebec speech (informal): \"j'vas\" or \"m'as\" for je vais (\"m'as y aller demain\" = I'm going to go tomorrow); \"chu allé\" for je suis allé.",
+  "examples": [
+   {
+    "fr": "On va au chalet en fin de semaine.",
+    "en": "We're going to the cottage this weekend."
+   },
+   {
+    "fr": "Je suis allée au dépanneur ce matin.",
+    "en": "I went to the corner store this morning."
+   }
+  ]
+ },
+ {
+  "inf": "faire",
+  "en": "to do, to make",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "fait",
+  "ppr": "faisant",
+  "qc": false,
+  "week": 11,
+  "t": {
+   "present": [
+    "je fais",
+    "tu fais",
+    "il/elle/on fait",
+    "nous faisons",
+    "vous faites",
+    "ils/elles font"
+   ],
+   "passe_compose": [
+    "j'ai fait",
+    "tu as fait",
+    "il/elle/on a fait",
+    "nous avons fait",
+    "vous avez fait",
+    "ils/elles ont fait"
+   ],
+   "imparfait": [
+    "je faisais",
+    "tu faisais",
+    "il/elle/on faisait",
+    "nous faisions",
+    "vous faisiez",
+    "ils/elles faisaient"
+   ],
+   "futur": [
+    "je ferai",
+    "tu feras",
+    "il/elle/on fera",
+    "nous ferons",
+    "vous ferez",
+    "ils/elles feront"
+   ],
+   "conditionnel": [
+    "je ferais",
+    "tu ferais",
+    "il/elle/on ferait",
+    "nous ferions",
+    "vous feriez",
+    "ils/elles feraient"
+   ],
+   "subjonctif": [
+    "que je fasse",
+    "que tu fasses",
+    "qu'il/elle/on fasse",
+    "que nous fassions",
+    "que vous fassiez",
+    "qu'ils/elles fassent"
+   ],
+   "plus_que_parfait": [
+    "j'avais fait",
+    "tu avais fait",
+    "il/elle/on avait fait",
+    "nous avions fait",
+    "vous aviez fait",
+    "ils/elles avaient fait"
+   ],
+   "imperatif": [
+    "fais",
+    "faisons",
+    "faites"
+   ]
+  },
+  "spoken_qc": "Quebec speech (informal): the participle is often pronounced with a t: \"j'ai faite\", \"c'est toute faite\" (standard: j'ai fait). Also \"il fait frette\" = it's freezing.",
+  "examples": [
+   {
+    "fr": "Il fait très froid aujourd'hui.",
+    "en": "It's very cold today."
+   },
+   {
+    "fr": "Qu'est-ce que tu as fait hier soir?",
+    "en": "What did you do last night?"
+   }
+  ]
+ },
+ {
+  "inf": "dire",
+  "en": "to say, to tell",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "dit",
+  "ppr": "disant",
+  "qc": false,
+  "week": 25,
+  "t": {
+   "present": [
+    "je dis",
+    "tu dis",
+    "il/elle/on dit",
+    "nous disons",
+    "vous dites",
+    "ils/elles disent"
+   ],
+   "passe_compose": [
+    "j'ai dit",
+    "tu as dit",
+    "il/elle/on a dit",
+    "nous avons dit",
+    "vous avez dit",
+    "ils/elles ont dit"
+   ],
+   "imparfait": [
+    "je disais",
+    "tu disais",
+    "il/elle/on disait",
+    "nous disions",
+    "vous disiez",
+    "ils/elles disaient"
+   ],
+   "futur": [
+    "je dirai",
+    "tu diras",
+    "il/elle/on dira",
+    "nous dirons",
+    "vous direz",
+    "ils/elles diront"
+   ],
+   "conditionnel": [
+    "je dirais",
+    "tu dirais",
+    "il/elle/on dirait",
+    "nous dirions",
+    "vous diriez",
+    "ils/elles diraient"
+   ],
+   "subjonctif": [
+    "que je dise",
+    "que tu dises",
+    "qu'il/elle/on dise",
+    "que nous disions",
+    "que vous disiez",
+    "qu'ils/elles disent"
+   ],
+   "plus_que_parfait": [
+    "j'avais dit",
+    "tu avais dit",
+    "il/elle/on avait dit",
+    "nous avions dit",
+    "vous aviez dit",
+    "ils/elles avaient dit"
+   ],
+   "imperatif": [
+    "dis",
+    "disons",
+    "dites"
+   ]
+  },
+  "spoken_qc": "Quebec speech (informal): \"j'y ai dit\" for je lui ai dit; the participle is often pronounced \"dite\" (\"j'l'ai dite\").",
+  "examples": [
+   {
+    "fr": "Qu'est-ce qu'elle a dit?",
+    "en": "What did she say?"
+   },
+   {
+    "fr": "Dis-moi la vérité.",
+    "en": "Tell me the truth."
+   }
+  ]
+ },
+ {
+  "inf": "pouvoir",
+  "en": "to be able to, can",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "pu",
+  "ppr": "pouvant",
+  "qc": false,
+  "week": 11,
+  "t": {
+   "present": [
+    "je peux",
+    "tu peux",
+    "il/elle/on peut",
+    "nous pouvons",
+    "vous pouvez",
+    "ils/elles peuvent"
+   ],
+   "passe_compose": [
+    "j'ai pu",
+    "tu as pu",
+    "il/elle/on a pu",
+    "nous avons pu",
+    "vous avez pu",
+    "ils/elles ont pu"
+   ],
+   "imparfait": [
+    "je pouvais",
+    "tu pouvais",
+    "il/elle/on pouvait",
+    "nous pouvions",
+    "vous pouviez",
+    "ils/elles pouvaient"
+   ],
+   "futur": [
+    "je pourrai",
+    "tu pourras",
+    "il/elle/on pourra",
+    "nous pourrons",
+    "vous pourrez",
+    "ils/elles pourront"
+   ],
+   "conditionnel": [
+    "je pourrais",
+    "tu pourrais",
+    "il/elle/on pourrait",
+    "nous pourrions",
+    "vous pourriez",
+    "ils/elles pourraient"
+   ],
+   "subjonctif": [
+    "que je puisse",
+    "que tu puisses",
+    "qu'il/elle/on puisse",
+    "que nous puissions",
+    "que vous puissiez",
+    "qu'ils/elles puissent"
+   ],
+   "plus_que_parfait": [
+    "j'avais pu",
+    "tu avais pu",
+    "il/elle/on avait pu",
+    "nous avions pu",
+    "vous aviez pu",
+    "ils/elles avaient pu"
+   ],
+   "imperatif": []
+  },
+  "spoken_qc": "Quebec speech (informal): \"j'peux pas\"; \"être capable\" is often used instead (\"chu pas capable\" = I can't).",
+  "examples": [
+   {
+    "fr": "Pourrais-tu m'aider à déménager le 1er juillet?",
+    "en": "Could you help me move on July 1st?"
+   },
+   {
+    "fr": "Je ne peux pas venir ce soir.",
+    "en": "I can't come tonight."
+   }
+  ]
+ },
+ {
+  "inf": "vouloir",
+  "en": "to want",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "voulu",
+  "ppr": "voulant",
+  "qc": false,
+  "week": 11,
+  "t": {
+   "present": [
+    "je veux",
+    "tu veux",
+    "il/elle/on veut",
+    "nous voulons",
+    "vous voulez",
+    "ils/elles veulent"
+   ],
+   "passe_compose": [
+    "j'ai voulu",
+    "tu as voulu",
+    "il/elle/on a voulu",
+    "nous avons voulu",
+    "vous avez voulu",
+    "ils/elles ont voulu"
+   ],
+   "imparfait": [
+    "je voulais",
+    "tu voulais",
+    "il/elle/on voulait",
+    "nous voulions",
+    "vous vouliez",
+    "ils/elles voulaient"
+   ],
+   "futur": [
+    "je voudrai",
+    "tu voudras",
+    "il/elle/on voudra",
+    "nous voudrons",
+    "vous voudrez",
+    "ils/elles voudront"
+   ],
+   "conditionnel": [
+    "je voudrais",
+    "tu voudrais",
+    "il/elle/on voudrait",
+    "nous voudrions",
+    "vous voudriez",
+    "ils/elles voudraient"
+   ],
+   "subjonctif": [
+    "que je veuille",
+    "que tu veuilles",
+    "qu'il/elle/on veuille",
+    "que nous voulions",
+    "que vous vouliez",
+    "qu'ils/elles veuillent"
+   ],
+   "plus_que_parfait": [
+    "j'avais voulu",
+    "tu avais voulu",
+    "il/elle/on avait voulu",
+    "nous avions voulu",
+    "vous aviez voulu",
+    "ils/elles avaient voulu"
+   ],
+   "imperatif": [
+    "veuille",
+    "veuillons",
+    "veuillez"
+   ]
+  },
+  "spoken_qc": "Quebec speech (informal): \"j'veux\", \"veux-tu?\"; \"j'en veux pas\". \"Veuillez\" is formal written French (signs, letters).",
+  "examples": [
+   {
+    "fr": "Je voudrais un café, s'il vous plaît.",
+    "en": "I would like a coffee, please."
+   },
+   {
+    "fr": "Veux-tu venir au cinéma avec nous?",
+    "en": "Do you want to come to the movies with us?"
+   }
+  ]
+ },
+ {
+  "inf": "savoir",
+  "en": "to know (facts), to know how",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "su",
+  "ppr": "sachant",
+  "qc": false,
+  "week": 12,
+  "t": {
+   "present": [
+    "je sais",
+    "tu sais",
+    "il/elle/on sait",
+    "nous savons",
+    "vous savez",
+    "ils/elles savent"
+   ],
+   "passe_compose": [
+    "j'ai su",
+    "tu as su",
+    "il/elle/on a su",
+    "nous avons su",
+    "vous avez su",
+    "ils/elles ont su"
+   ],
+   "imparfait": [
+    "je savais",
+    "tu savais",
+    "il/elle/on savait",
+    "nous savions",
+    "vous saviez",
+    "ils/elles savaient"
+   ],
+   "futur": [
+    "je saurai",
+    "tu sauras",
+    "il/elle/on saura",
+    "nous saurons",
+    "vous saurez",
+    "ils/elles sauront"
+   ],
+   "conditionnel": [
+    "je saurais",
+    "tu saurais",
+    "il/elle/on saurait",
+    "nous saurions",
+    "vous sauriez",
+    "ils/elles sauraient"
+   ],
+   "subjonctif": [
+    "que je sache",
+    "que tu saches",
+    "qu'il/elle/on sache",
+    "que nous sachions",
+    "que vous sachiez",
+    "qu'ils/elles sachent"
+   ],
+   "plus_que_parfait": [
+    "j'avais su",
+    "tu avais su",
+    "il/elle/on avait su",
+    "nous avions su",
+    "vous aviez su",
+    "ils/elles avaient su"
+   ],
+   "imperatif": [
+    "sache",
+    "sachons",
+    "sachez"
+   ]
+  },
+  "spoken_qc": "Quebec speech (informal): \"j'sais pas\" often sounds like \"ché pas\"; \"t'sais\" (you know) is a very common filler.",
+  "examples": [
+   {
+    "fr": "Je ne sais pas où est la station de métro.",
+    "en": "I don't know where the metro station is."
+   },
+   {
+    "fr": "Sais-tu nager?",
+    "en": "Can you swim?"
+   }
+  ]
+ },
+ {
+  "inf": "venir",
+  "en": "to come",
+  "group": 3,
+  "aux": "être",
+  "pp": "venu",
+  "ppr": "venant",
+  "qc": false,
+  "week": 25,
+  "t": {
+   "present": [
+    "je viens",
+    "tu viens",
+    "il/elle/on vient",
+    "nous venons",
+    "vous venez",
+    "ils/elles viennent"
+   ],
+   "passe_compose": [
+    "je suis venu(e)",
+    "tu es venu(e)",
+    "il/elle/on est venu(e)",
+    "nous sommes venu(e)s",
+    "vous êtes venu(e)s",
+    "ils/elles sont venu(e)s"
+   ],
+   "imparfait": [
+    "je venais",
+    "tu venais",
+    "il/elle/on venait",
+    "nous venions",
+    "vous veniez",
+    "ils/elles venaient"
+   ],
+   "futur": [
+    "je viendrai",
+    "tu viendras",
+    "il/elle/on viendra",
+    "nous viendrons",
+    "vous viendrez",
+    "ils/elles viendront"
+   ],
+   "conditionnel": [
+    "je viendrais",
+    "tu viendrais",
+    "il/elle/on viendrait",
+    "nous viendrions",
+    "vous viendriez",
+    "ils/elles viendraient"
+   ],
+   "subjonctif": [
+    "que je vienne",
+    "que tu viennes",
+    "qu'il/elle/on vienne",
+    "que nous venions",
+    "que vous veniez",
+    "qu'ils/elles viennent"
+   ],
+   "plus_que_parfait": [
+    "j'étais venu(e)",
+    "tu étais venu(e)",
+    "il/elle/on était venu(e)",
+    "nous étions venu(e)s",
+    "vous étiez venu(e)s",
+    "ils/elles étaient venu(e)s"
+   ],
+   "imperatif": [
+    "viens",
+    "venons",
+    "venez"
+   ]
+  },
+  "spoken_qc": "Quebec speech (informal): \"j'viens\"; question particle -tu: \"tu viens-tu?\" (are you coming?).",
+  "examples": [
+   {
+    "fr": "Il vient de Gatineau.",
+    "en": "He comes from Gatineau."
+   },
+   {
+    "fr": "Je suis contente que tu sois venu.",
+    "en": "I'm happy that you came."
+   }
+  ]
+ },
+ {
+  "inf": "devoir",
+  "en": "to have to, must; to owe",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "dû",
+  "ppr": "devant",
+  "qc": false,
+  "week": 25,
+  "t": {
+   "present": [
+    "je dois",
+    "tu dois",
+    "il/elle/on doit",
+    "nous devons",
+    "vous devez",
+    "ils/elles doivent"
+   ],
+   "passe_compose": [
+    "j'ai dû",
+    "tu as dû",
+    "il/elle/on a dû",
+    "nous avons dû",
+    "vous avez dû",
+    "ils/elles ont dû"
+   ],
+   "imparfait": [
+    "je devais",
+    "tu devais",
+    "il/elle/on devait",
+    "nous devions",
+    "vous deviez",
+    "ils/elles devaient"
+   ],
+   "futur": [
+    "je devrai",
+    "tu devras",
+    "il/elle/on devra",
+    "nous devrons",
+    "vous devrez",
+    "ils/elles devront"
+   ],
+   "conditionnel": [
+    "je devrais",
+    "tu devrais",
+    "il/elle/on devrait",
+    "nous devrions",
+    "vous devriez",
+    "ils/elles devraient"
+   ],
+   "subjonctif": [
+    "que je doive",
+    "que tu doives",
+    "qu'il/elle/on doive",
+    "que nous devions",
+    "que vous deviez",
+    "qu'ils/elles doivent"
+   ],
+   "plus_que_parfait": [
+    "j'avais dû",
+    "tu avais dû",
+    "il/elle/on avait dû",
+    "nous avions dû",
+    "vous aviez dû",
+    "ils/elles avaient dû"
+   ],
+   "imperatif": [
+    "dois",
+    "devons",
+    "devez"
+   ]
+  },
+  "spoken_qc": "Quebec speech (informal): \"j'dois\"; \"faut que\" is often preferred (\"faut que j'parte\" = I have to go).",
+  "examples": [
+   {
+    "fr": "Je dois travailler demain.",
+    "en": "I have to work tomorrow."
+   },
+   {
+    "fr": "Nous devons payer le loyer le premier du mois.",
+    "en": "We have to pay the rent on the first of the month."
+   }
+  ]
+ },
+ {
+  "inf": "prendre",
+  "en": "to take",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "pris",
+  "ppr": "prenant",
+  "qc": false,
+  "week": 25,
+  "t": {
+   "present": [
+    "je prends",
+    "tu prends",
+    "il/elle/on prend",
+    "nous prenons",
+    "vous prenez",
+    "ils/elles prennent"
+   ],
+   "passe_compose": [
+    "j'ai pris",
+    "tu as pris",
+    "il/elle/on a pris",
+    "nous avons pris",
+    "vous avez pris",
+    "ils/elles ont pris"
+   ],
+   "imparfait": [
+    "je prenais",
+    "tu prenais",
+    "il/elle/on prenait",
+    "nous prenions",
+    "vous preniez",
+    "ils/elles prenaient"
+   ],
+   "futur": [
+    "je prendrai",
+    "tu prendras",
+    "il/elle/on prendra",
+    "nous prendrons",
+    "vous prendrez",
+    "ils/elles prendront"
+   ],
+   "conditionnel": [
+    "je prendrais",
+    "tu prendrais",
+    "il/elle/on prendrait",
+    "nous prendrions",
+    "vous prendriez",
+    "ils/elles prendraient"
+   ],
+   "subjonctif": [
+    "que je prenne",
+    "que tu prennes",
+    "qu'il/elle/on prenne",
+    "que nous prenions",
+    "que vous preniez",
+    "qu'ils/elles prennent"
+   ],
+   "plus_que_parfait": [
+    "j'avais pris",
+    "tu avais pris",
+    "il/elle/on avait pris",
+    "nous avions pris",
+    "vous aviez pris",
+    "ils/elles avaient pris"
+   ],
+   "imperatif": [
+    "prends",
+    "prenons",
+    "prenez"
+   ]
+  },
+  "spoken_qc": "Quebec usage (informal): \"prendre une marche\" (take a walk), \"prendre une bière\".",
+  "examples": [
+   {
+    "fr": "On prend le métro pour aller au centre-ville.",
+    "en": "We take the metro to go downtown."
+   },
+   {
+    "fr": "Je prends un café avant le travail.",
+    "en": "I have a coffee before work."
+   }
+  ]
+ },
+ {
+  "inf": "mettre",
+  "en": "to put, to put on",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "mis",
+  "ppr": "mettant",
+  "qc": false,
+  "week": 25,
+  "t": {
+   "present": [
+    "je mets",
+    "tu mets",
+    "il/elle/on met",
+    "nous mettons",
+    "vous mettez",
+    "ils/elles mettent"
+   ],
+   "passe_compose": [
+    "j'ai mis",
+    "tu as mis",
+    "il/elle/on a mis",
+    "nous avons mis",
+    "vous avez mis",
+    "ils/elles ont mis"
+   ],
+   "imparfait": [
+    "je mettais",
+    "tu mettais",
+    "il/elle/on mettait",
+    "nous mettions",
+    "vous mettiez",
+    "ils/elles mettaient"
+   ],
+   "futur": [
+    "je mettrai",
+    "tu mettras",
+    "il/elle/on mettra",
+    "nous mettrons",
+    "vous mettrez",
+    "ils/elles mettront"
+   ],
+   "conditionnel": [
+    "je mettrais",
+    "tu mettrais",
+    "il/elle/on mettrait",
+    "nous mettrions",
+    "vous mettriez",
+    "ils/elles mettraient"
+   ],
+   "subjonctif": [
+    "que je mette",
+    "que tu mettes",
+    "qu'il/elle/on mette",
+    "que nous mettions",
+    "que vous mettiez",
+    "qu'ils/elles mettent"
+   ],
+   "plus_que_parfait": [
+    "j'avais mis",
+    "tu avais mis",
+    "il/elle/on avait mis",
+    "nous avions mis",
+    "vous aviez mis",
+    "ils/elles avaient mis"
+   ],
+   "imperatif": [
+    "mets",
+    "mettons",
+    "mettez"
+   ]
+  },
+  "spoken_qc": "Quebec speech (informal): \"mettons\" = let's say (\"mettons qu'on part à 8 h\").",
+  "examples": [
+   {
+    "fr": "Mets ta tuque, il fait froid!",
+    "en": "Put on your hat, it's cold!"
+   },
+   {
+    "fr": "J'ai mis les clés sur la table.",
+    "en": "I put the keys on the table."
+   }
+  ]
+ },
+ {
+  "inf": "voir",
+  "en": "to see",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "vu",
+  "ppr": "voyant",
+  "qc": false,
+  "week": 25,
+  "t": {
+   "present": [
+    "je vois",
+    "tu vois",
+    "il/elle/on voit",
+    "nous voyons",
+    "vous voyez",
+    "ils/elles voient"
+   ],
+   "passe_compose": [
+    "j'ai vu",
+    "tu as vu",
+    "il/elle/on a vu",
+    "nous avons vu",
+    "vous avez vu",
+    "ils/elles ont vu"
+   ],
+   "imparfait": [
+    "je voyais",
+    "tu voyais",
+    "il/elle/on voyait",
+    "nous voyions",
+    "vous voyiez",
+    "ils/elles voyaient"
+   ],
+   "futur": [
+    "je verrai",
+    "tu verras",
+    "il/elle/on verra",
+    "nous verrons",
+    "vous verrez",
+    "ils/elles verront"
+   ],
+   "conditionnel": [
+    "je verrais",
+    "tu verrais",
+    "il/elle/on verrait",
+    "nous verrions",
+    "vous verriez",
+    "ils/elles verraient"
+   ],
+   "subjonctif": [
+    "que je voie",
+    "que tu voies",
+    "qu'il/elle/on voie",
+    "que nous voyions",
+    "que vous voyiez",
+    "qu'ils/elles voient"
+   ],
+   "plus_que_parfait": [
+    "j'avais vu",
+    "tu avais vu",
+    "il/elle/on avait vu",
+    "nous avions vu",
+    "vous aviez vu",
+    "ils/elles avaient vu"
+   ],
+   "imperatif": [
+    "vois",
+    "voyons",
+    "voyez"
+   ]
+  },
+  "spoken_qc": "Quebec speech (informal): \"voyons donc!\" = come on! / no way!",
+  "examples": [
+   {
+    "fr": "On se voit demain?",
+    "en": "See each other tomorrow?"
+   },
+   {
+    "fr": "J'ai vu un orignal sur la route.",
+    "en": "I saw a moose on the road."
+   }
+  ]
+ },
+ {
+  "inf": "parler",
+  "en": "to speak, to talk",
+  "group": 1,
+  "aux": "avoir",
+  "pp": "parlé",
+  "ppr": "parlant",
+  "qc": false,
+  "week": 10,
+  "t": {
+   "present": [
+    "je parle",
+    "tu parles",
+    "il/elle/on parle",
+    "nous parlons",
+    "vous parlez",
+    "ils/elles parlent"
+   ],
+   "passe_compose": [
+    "j'ai parlé",
+    "tu as parlé",
+    "il/elle/on a parlé",
+    "nous avons parlé",
+    "vous avez parlé",
+    "ils/elles ont parlé"
+   ],
+   "imparfait": [
+    "je parlais",
+    "tu parlais",
+    "il/elle/on parlait",
+    "nous parlions",
+    "vous parliez",
+    "ils/elles parlaient"
+   ],
+   "futur": [
+    "je parlerai",
+    "tu parleras",
+    "il/elle/on parlera",
+    "nous parlerons",
+    "vous parlerez",
+    "ils/elles parleront"
+   ],
+   "conditionnel": [
+    "je parlerais",
+    "tu parlerais",
+    "il/elle/on parlerait",
+    "nous parlerions",
+    "vous parleriez",
+    "ils/elles parleraient"
+   ],
+   "subjonctif": [
+    "que je parle",
+    "que tu parles",
+    "qu'il/elle/on parle",
+    "que nous parlions",
+    "que vous parliez",
+    "qu'ils/elles parlent"
+   ],
+   "plus_que_parfait": [
+    "j'avais parlé",
+    "tu avais parlé",
+    "il/elle/on avait parlé",
+    "nous avions parlé",
+    "vous aviez parlé",
+    "ils/elles avaient parlé"
+   ],
+   "imperatif": [
+    "parle",
+    "parlons",
+    "parlez"
+   ]
+  },
+  "spoken_qc": "Quebec speech (informal): \"j'parle\", \"on parle\" for nous parlons.",
+  "examples": [
+   {
+    "fr": "Je parle français et anglais.",
+    "en": "I speak French and English."
+   },
+   {
+    "fr": "Nous avons parlé au propriétaire.",
+    "en": "We talked to the landlord."
+   }
+  ]
+ },
+ {
+  "inf": "manger",
+  "en": "to eat",
+  "group": 1,
+  "aux": "avoir",
+  "pp": "mangé",
+  "ppr": "mangeant",
+  "qc": false,
+  "week": 10,
+  "t": {
+   "present": [
+    "je mange",
+    "tu manges",
+    "il/elle/on mange",
+    "nous mangeons",
+    "vous mangez",
+    "ils/elles mangent"
+   ],
+   "passe_compose": [
+    "j'ai mangé",
+    "tu as mangé",
+    "il/elle/on a mangé",
+    "nous avons mangé",
+    "vous avez mangé",
+    "ils/elles ont mangé"
+   ],
+   "imparfait": [
+    "je mangeais",
+    "tu mangeais",
+    "il/elle/on mangeait",
+    "nous mangions",
+    "vous mangiez",
+    "ils/elles mangeaient"
+   ],
+   "futur": [
+    "je mangerai",
+    "tu mangeras",
+    "il/elle/on mangera",
+    "nous mangerons",
+    "vous mangerez",
+    "ils/elles mangeront"
+   ],
+   "conditionnel": [
+    "je mangerais",
+    "tu mangerais",
+    "il/elle/on mangerait",
+    "nous mangerions",
+    "vous mangeriez",
+    "ils/elles mangeraient"
+   ],
+   "subjonctif": [
+    "que je mange",
+    "que tu manges",
+    "qu'il/elle/on mange",
+    "que nous mangions",
+    "que vous mangiez",
+    "qu'ils/elles mangent"
+   ],
+   "plus_que_parfait": [
+    "j'avais mangé",
+    "tu avais mangé",
+    "il/elle/on avait mangé",
+    "nous avions mangé",
+    "vous aviez mangé",
+    "ils/elles avaient mangé"
+   ],
+   "imperatif": [
+    "mange",
+    "mangeons",
+    "mangez"
+   ]
+  },
+  "examples": [
+   {
+    "fr": "On mange de la poutine ce soir.",
+    "en": "We're eating poutine tonight."
+   },
+   {
+    "fr": "Quand j'étais petit, je mangeais des céréales tous les matins.",
+    "en": "When I was little, I ate cereal every morning."
+   }
+  ]
+ },
+ {
+  "inf": "finir",
+  "en": "to finish",
+  "group": 2,
+  "aux": "avoir",
+  "pp": "fini",
+  "ppr": "finissant",
+  "qc": false,
+  "week": 24,
+  "t": {
+   "present": [
+    "je finis",
+    "tu finis",
+    "il/elle/on finit",
+    "nous finissons",
+    "vous finissez",
+    "ils/elles finissent"
+   ],
+   "passe_compose": [
+    "j'ai fini",
+    "tu as fini",
+    "il/elle/on a fini",
+    "nous avons fini",
+    "vous avez fini",
+    "ils/elles ont fini"
+   ],
+   "imparfait": [
+    "je finissais",
+    "tu finissais",
+    "il/elle/on finissait",
+    "nous finissions",
+    "vous finissiez",
+    "ils/elles finissaient"
+   ],
+   "futur": [
+    "je finirai",
+    "tu finiras",
+    "il/elle/on finira",
+    "nous finirons",
+    "vous finirez",
+    "ils/elles finiront"
+   ],
+   "conditionnel": [
+    "je finirais",
+    "tu finirais",
+    "il/elle/on finirait",
+    "nous finirions",
+    "vous finiriez",
+    "ils/elles finiraient"
+   ],
+   "subjonctif": [
+    "que je finisse",
+    "que tu finisses",
+    "qu'il/elle/on finisse",
+    "que nous finissions",
+    "que vous finissiez",
+    "qu'ils/elles finissent"
+   ],
+   "plus_que_parfait": [
+    "j'avais fini",
+    "tu avais fini",
+    "il/elle/on avait fini",
+    "nous avions fini",
+    "vous aviez fini",
+    "ils/elles avaient fini"
+   ],
+   "imperatif": [
+    "finis",
+    "finissons",
+    "finissez"
+   ]
+  },
+  "examples": [
+   {
+    "fr": "Je finis le travail à 17 h.",
+    "en": "I finish work at 5 p.m."
+   },
+   {
+    "fr": "As-tu fini tes devoirs?",
+    "en": "Did you finish your homework?"
+   }
+  ]
+ },
+ {
+  "inf": "choisir",
+  "en": "to choose",
+  "group": 2,
+  "aux": "avoir",
+  "pp": "choisi",
+  "ppr": "choisissant",
+  "qc": false,
+  "week": 24,
+  "t": {
+   "present": [
+    "je choisis",
+    "tu choisis",
+    "il/elle/on choisit",
+    "nous choisissons",
+    "vous choisissez",
+    "ils/elles choisissent"
+   ],
+   "passe_compose": [
+    "j'ai choisi",
+    "tu as choisi",
+    "il/elle/on a choisi",
+    "nous avons choisi",
+    "vous avez choisi",
+    "ils/elles ont choisi"
+   ],
+   "imparfait": [
+    "je choisissais",
+    "tu choisissais",
+    "il/elle/on choisissait",
+    "nous choisissions",
+    "vous choisissiez",
+    "ils/elles choisissaient"
+   ],
+   "futur": [
+    "je choisirai",
+    "tu choisiras",
+    "il/elle/on choisira",
+    "nous choisirons",
+    "vous choisirez",
+    "ils/elles choisiront"
+   ],
+   "conditionnel": [
+    "je choisirais",
+    "tu choisirais",
+    "il/elle/on choisirait",
+    "nous choisirions",
+    "vous choisiriez",
+    "ils/elles choisiraient"
+   ],
+   "subjonctif": [
+    "que je choisisse",
+    "que tu choisisses",
+    "qu'il/elle/on choisisse",
+    "que nous choisissions",
+    "que vous choisissiez",
+    "qu'ils/elles choisissent"
+   ],
+   "plus_que_parfait": [
+    "j'avais choisi",
+    "tu avais choisi",
+    "il/elle/on avait choisi",
+    "nous avions choisi",
+    "vous aviez choisi",
+    "ils/elles avaient choisi"
+   ],
+   "imperatif": [
+    "choisis",
+    "choisissons",
+    "choisissez"
+   ]
+  },
+  "examples": [
+   {
+    "fr": "Choisis une couleur.",
+    "en": "Choose a colour."
+   },
+   {
+    "fr": "Elle a choisi un appartement près du métro.",
+    "en": "She chose an apartment near the metro."
+   }
+  ]
+ },
+ {
+  "inf": "partir",
+  "en": "to leave",
+  "group": 3,
+  "aux": "être",
+  "pp": "parti",
+  "ppr": "partant",
+  "qc": false,
+  "week": 25,
+  "t": {
+   "present": [
+    "je pars",
+    "tu pars",
+    "il/elle/on part",
+    "nous partons",
+    "vous partez",
+    "ils/elles partent"
+   ],
+   "passe_compose": [
+    "je suis parti(e)",
+    "tu es parti(e)",
+    "il/elle/on est parti(e)",
+    "nous sommes parti(e)s",
+    "vous êtes parti(e)s",
+    "ils/elles sont parti(e)s"
+   ],
+   "imparfait": [
+    "je partais",
+    "tu partais",
+    "il/elle/on partait",
+    "nous partions",
+    "vous partiez",
+    "ils/elles partaient"
+   ],
+   "futur": [
+    "je partirai",
+    "tu partiras",
+    "il/elle/on partira",
+    "nous partirons",
+    "vous partirez",
+    "ils/elles partiront"
+   ],
+   "conditionnel": [
+    "je partirais",
+    "tu partirais",
+    "il/elle/on partirait",
+    "nous partirions",
+    "vous partiriez",
+    "ils/elles partiraient"
+   ],
+   "subjonctif": [
+    "que je parte",
+    "que tu partes",
+    "qu'il/elle/on parte",
+    "que nous partions",
+    "que vous partiez",
+    "qu'ils/elles partent"
+   ],
+   "plus_que_parfait": [
+    "j'étais parti(e)",
+    "tu étais parti(e)",
+    "il/elle/on était parti(e)",
+    "nous étions parti(e)s",
+    "vous étiez parti(e)s",
+    "ils/elles étaient parti(e)s"
+   ],
+   "imperatif": [
+    "pars",
+    "partons",
+    "partez"
+   ]
+  },
+  "spoken_qc": "Quebec speech (informal): \"a l'est partie\" for elle est partie; \"partir\" also means to start (\"partir une business\").",
+  "examples": [
+   {
+    "fr": "Le train part à 8 h.",
+    "en": "The train leaves at 8."
+   },
+   {
+    "fr": "Ils sont partis en Gaspésie pour les vacances.",
+    "en": "They left for the Gaspé Peninsula for the holidays."
+   }
+  ]
+ },
+ {
+  "inf": "sortir",
+  "en": "to go out",
+  "group": 3,
+  "aux": "être",
+  "pp": "sorti",
+  "ppr": "sortant",
+  "qc": false,
+  "week": 25,
+  "t": {
+   "present": [
+    "je sors",
+    "tu sors",
+    "il/elle/on sort",
+    "nous sortons",
+    "vous sortez",
+    "ils/elles sortent"
+   ],
+   "passe_compose": [
+    "je suis sorti(e)",
+    "tu es sorti(e)",
+    "il/elle/on est sorti(e)",
+    "nous sommes sorti(e)s",
+    "vous êtes sorti(e)s",
+    "ils/elles sont sorti(e)s"
+   ],
+   "imparfait": [
+    "je sortais",
+    "tu sortais",
+    "il/elle/on sortait",
+    "nous sortions",
+    "vous sortiez",
+    "ils/elles sortaient"
+   ],
+   "futur": [
+    "je sortirai",
+    "tu sortiras",
+    "il/elle/on sortira",
+    "nous sortirons",
+    "vous sortirez",
+    "ils/elles sortiront"
+   ],
+   "conditionnel": [
+    "je sortirais",
+    "tu sortirais",
+    "il/elle/on sortirait",
+    "nous sortirions",
+    "vous sortiriez",
+    "ils/elles sortiraient"
+   ],
+   "subjonctif": [
+    "que je sorte",
+    "que tu sortes",
+    "qu'il/elle/on sorte",
+    "que nous sortions",
+    "que vous sortiez",
+    "qu'ils/elles sortent"
+   ],
+   "plus_que_parfait": [
+    "j'étais sorti(e)",
+    "tu étais sorti(e)",
+    "il/elle/on était sorti(e)",
+    "nous étions sorti(e)s",
+    "vous étiez sorti(e)s",
+    "ils/elles étaient sorti(e)s"
+   ],
+   "imperatif": [
+    "sors",
+    "sortons",
+    "sortez"
+   ]
+  },
+  "spoken_qc": "Quebec usage (informal): \"sortir avec\" = to date someone (\"y sort avec ma cousine\").",
+  "examples": [
+   {
+    "fr": "On sort ce soir?",
+    "en": "Are we going out tonight?"
+   },
+   {
+    "fr": "Je suis sortie avec mes amies samedi.",
+    "en": "I went out with my friends on Saturday."
+   }
+  ]
+ },
+ {
+  "inf": "dormir",
+  "en": "to sleep",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "dormi",
+  "ppr": "dormant",
+  "qc": false,
+  "week": 25,
+  "t": {
+   "present": [
+    "je dors",
+    "tu dors",
+    "il/elle/on dort",
+    "nous dormons",
+    "vous dormez",
+    "ils/elles dorment"
+   ],
+   "passe_compose": [
+    "j'ai dormi",
+    "tu as dormi",
+    "il/elle/on a dormi",
+    "nous avons dormi",
+    "vous avez dormi",
+    "ils/elles ont dormi"
+   ],
+   "imparfait": [
+    "je dormais",
+    "tu dormais",
+    "il/elle/on dormait",
+    "nous dormions",
+    "vous dormiez",
+    "ils/elles dormaient"
+   ],
+   "futur": [
+    "je dormirai",
+    "tu dormiras",
+    "il/elle/on dormira",
+    "nous dormirons",
+    "vous dormirez",
+    "ils/elles dormiront"
+   ],
+   "conditionnel": [
+    "je dormirais",
+    "tu dormirais",
+    "il/elle/on dormirait",
+    "nous dormirions",
+    "vous dormiriez",
+    "ils/elles dormiraient"
+   ],
+   "subjonctif": [
+    "que je dorme",
+    "que tu dormes",
+    "qu'il/elle/on dorme",
+    "que nous dormions",
+    "que vous dormiez",
+    "qu'ils/elles dorment"
+   ],
+   "plus_que_parfait": [
+    "j'avais dormi",
+    "tu avais dormi",
+    "il/elle/on avait dormi",
+    "nous avions dormi",
+    "vous aviez dormi",
+    "ils/elles avaient dormi"
+   ],
+   "imperatif": [
+    "dors",
+    "dormons",
+    "dormez"
+   ]
+  },
+  "examples": [
+   {
+    "fr": "J'ai mal dormi cette nuit.",
+    "en": "I slept badly last night."
+   },
+   {
+    "fr": "Le bébé dort encore.",
+    "en": "The baby is still sleeping."
+   }
+  ]
+ },
+ {
+  "inf": "connaître",
+  "en": "to know (people, places)",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "connu",
+  "ppr": "connaissant",
+  "qc": false,
+  "week": 25,
+  "t": {
+   "present": [
+    "je connais",
+    "tu connais",
+    "il/elle/on connaît",
+    "nous connaissons",
+    "vous connaissez",
+    "ils/elles connaissent"
+   ],
+   "passe_compose": [
+    "j'ai connu",
+    "tu as connu",
+    "il/elle/on a connu",
+    "nous avons connu",
+    "vous avez connu",
+    "ils/elles ont connu"
+   ],
+   "imparfait": [
+    "je connaissais",
+    "tu connaissais",
+    "il/elle/on connaissait",
+    "nous connaissions",
+    "vous connaissiez",
+    "ils/elles connaissaient"
+   ],
+   "futur": [
+    "je connaîtrai",
+    "tu connaîtras",
+    "il/elle/on connaîtra",
+    "nous connaîtrons",
+    "vous connaîtrez",
+    "ils/elles connaîtront"
+   ],
+   "conditionnel": [
+    "je connaîtrais",
+    "tu connaîtrais",
+    "il/elle/on connaîtrait",
+    "nous connaîtrions",
+    "vous connaîtriez",
+    "ils/elles connaîtraient"
+   ],
+   "subjonctif": [
+    "que je connaisse",
+    "que tu connaisses",
+    "qu'il/elle/on connaisse",
+    "que nous connaissions",
+    "que vous connaissiez",
+    "qu'ils/elles connaissent"
+   ],
+   "plus_que_parfait": [
+    "j'avais connu",
+    "tu avais connu",
+    "il/elle/on avait connu",
+    "nous avions connu",
+    "vous aviez connu",
+    "ils/elles avaient connu"
+   ],
+   "imperatif": [
+    "connais",
+    "connaissons",
+    "connaissez"
+   ]
+  },
+  "spoken_qc": "Quebec speech (informal): \"j'connais\", \"tu connais-tu…?\" (do you know…?).",
+  "examples": [
+   {
+    "fr": "Connais-tu un bon garage?",
+    "en": "Do you know a good garage?"
+   },
+   {
+    "fr": "Je connais bien le Vieux-Québec.",
+    "en": "I know Old Quebec well."
+   }
+  ]
+ },
+ {
+  "inf": "croire",
+  "en": "to believe",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "cru",
+  "ppr": "croyant",
+  "qc": false,
+  "week": 25,
+  "t": {
+   "present": [
+    "je crois",
+    "tu crois",
+    "il/elle/on croit",
+    "nous croyons",
+    "vous croyez",
+    "ils/elles croient"
+   ],
+   "passe_compose": [
+    "j'ai cru",
+    "tu as cru",
+    "il/elle/on a cru",
+    "nous avons cru",
+    "vous avez cru",
+    "ils/elles ont cru"
+   ],
+   "imparfait": [
+    "je croyais",
+    "tu croyais",
+    "il/elle/on croyait",
+    "nous croyions",
+    "vous croyiez",
+    "ils/elles croyaient"
+   ],
+   "futur": [
+    "je croirai",
+    "tu croiras",
+    "il/elle/on croira",
+    "nous croirons",
+    "vous croirez",
+    "ils/elles croiront"
+   ],
+   "conditionnel": [
+    "je croirais",
+    "tu croirais",
+    "il/elle/on croirait",
+    "nous croirions",
+    "vous croiriez",
+    "ils/elles croiraient"
+   ],
+   "subjonctif": [
+    "que je croie",
+    "que tu croies",
+    "qu'il/elle/on croie",
+    "que nous croyions",
+    "que vous croyiez",
+    "qu'ils/elles croient"
+   ],
+   "plus_que_parfait": [
+    "j'avais cru",
+    "tu avais cru",
+    "il/elle/on avait cru",
+    "nous avions cru",
+    "vous aviez cru",
+    "ils/elles avaient cru"
+   ],
+   "imperatif": [
+    "crois",
+    "croyons",
+    "croyez"
+   ]
+  },
+  "examples": [
+   {
+    "fr": "Je crois qu'il va neiger.",
+    "en": "I think it's going to snow."
+   },
+   {
+    "fr": "Je ne te crois pas!",
+    "en": "I don't believe you!"
+   }
+  ]
+ },
+ {
+  "inf": "boire",
+  "en": "to drink",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "bu",
+  "ppr": "buvant",
+  "qc": false,
+  "week": 26,
+  "t": {
+   "present": [
+    "je bois",
+    "tu bois",
+    "il/elle/on boit",
+    "nous buvons",
+    "vous buvez",
+    "ils/elles boivent"
+   ],
+   "passe_compose": [
+    "j'ai bu",
+    "tu as bu",
+    "il/elle/on a bu",
+    "nous avons bu",
+    "vous avez bu",
+    "ils/elles ont bu"
+   ],
+   "imparfait": [
+    "je buvais",
+    "tu buvais",
+    "il/elle/on buvait",
+    "nous buvions",
+    "vous buviez",
+    "ils/elles buvaient"
+   ],
+   "futur": [
+    "je boirai",
+    "tu boiras",
+    "il/elle/on boira",
+    "nous boirons",
+    "vous boirez",
+    "ils/elles boiront"
+   ],
+   "conditionnel": [
+    "je boirais",
+    "tu boirais",
+    "il/elle/on boirait",
+    "nous boirions",
+    "vous boiriez",
+    "ils/elles boiraient"
+   ],
+   "subjonctif": [
+    "que je boive",
+    "que tu boives",
+    "qu'il/elle/on boive",
+    "que nous buvions",
+    "que vous buviez",
+    "qu'ils/elles boivent"
+   ],
+   "plus_que_parfait": [
+    "j'avais bu",
+    "tu avais bu",
+    "il/elle/on avait bu",
+    "nous avions bu",
+    "vous aviez bu",
+    "ils/elles avaient bu"
+   ],
+   "imperatif": [
+    "bois",
+    "buvons",
+    "buvez"
+   ]
+  },
+  "examples": [
+   {
+    "fr": "Je bois du thé le matin.",
+    "en": "I drink tea in the morning."
+   },
+   {
+    "fr": "Qu'est-ce que tu veux boire?",
+    "en": "What do you want to drink?"
+   }
+  ]
+ },
+ {
+  "inf": "lire",
+  "en": "to read",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "lu",
+  "ppr": "lisant",
+  "qc": false,
+  "week": 25,
+  "t": {
+   "present": [
+    "je lis",
+    "tu lis",
+    "il/elle/on lit",
+    "nous lisons",
+    "vous lisez",
+    "ils/elles lisent"
+   ],
+   "passe_compose": [
+    "j'ai lu",
+    "tu as lu",
+    "il/elle/on a lu",
+    "nous avons lu",
+    "vous avez lu",
+    "ils/elles ont lu"
+   ],
+   "imparfait": [
+    "je lisais",
+    "tu lisais",
+    "il/elle/on lisait",
+    "nous lisions",
+    "vous lisiez",
+    "ils/elles lisaient"
+   ],
+   "futur": [
+    "je lirai",
+    "tu liras",
+    "il/elle/on lira",
+    "nous lirons",
+    "vous lirez",
+    "ils/elles liront"
+   ],
+   "conditionnel": [
+    "je lirais",
+    "tu lirais",
+    "il/elle/on lirait",
+    "nous lirions",
+    "vous liriez",
+    "ils/elles liraient"
+   ],
+   "subjonctif": [
+    "que je lise",
+    "que tu lises",
+    "qu'il/elle/on lise",
+    "que nous lisions",
+    "que vous lisiez",
+    "qu'ils/elles lisent"
+   ],
+   "plus_que_parfait": [
+    "j'avais lu",
+    "tu avais lu",
+    "il/elle/on avait lu",
+    "nous avions lu",
+    "vous aviez lu",
+    "ils/elles avaient lu"
+   ],
+   "imperatif": [
+    "lis",
+    "lisons",
+    "lisez"
+   ]
+  },
+  "examples": [
+   {
+    "fr": "Je lis La Presse le matin.",
+    "en": "I read La Presse in the morning."
+   },
+   {
+    "fr": "As-tu lu ce livre?",
+    "en": "Have you read this book?"
+   }
+  ]
+ },
+ {
+  "inf": "écrire",
+  "en": "to write",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "écrit",
+  "ppr": "écrivant",
+  "qc": false,
+  "week": 25,
+  "t": {
+   "present": [
+    "j'écris",
+    "tu écris",
+    "il/elle/on écrit",
+    "nous écrivons",
+    "vous écrivez",
+    "ils/elles écrivent"
+   ],
+   "passe_compose": [
+    "j'ai écrit",
+    "tu as écrit",
+    "il/elle/on a écrit",
+    "nous avons écrit",
+    "vous avez écrit",
+    "ils/elles ont écrit"
+   ],
+   "imparfait": [
+    "j'écrivais",
+    "tu écrivais",
+    "il/elle/on écrivait",
+    "nous écrivions",
+    "vous écriviez",
+    "ils/elles écrivaient"
+   ],
+   "futur": [
+    "j'écrirai",
+    "tu écriras",
+    "il/elle/on écrira",
+    "nous écrirons",
+    "vous écrirez",
+    "ils/elles écriront"
+   ],
+   "conditionnel": [
+    "j'écrirais",
+    "tu écrirais",
+    "il/elle/on écrirait",
+    "nous écririons",
+    "vous écririez",
+    "ils/elles écriraient"
+   ],
+   "subjonctif": [
+    "que j'écrive",
+    "que tu écrives",
+    "qu'il/elle/on écrive",
+    "que nous écrivions",
+    "que vous écriviez",
+    "qu'ils/elles écrivent"
+   ],
+   "plus_que_parfait": [
+    "j'avais écrit",
+    "tu avais écrit",
+    "il/elle/on avait écrit",
+    "nous avions écrit",
+    "vous aviez écrit",
+    "ils/elles avaient écrit"
+   ],
+   "imperatif": [
+    "écris",
+    "écrivons",
+    "écrivez"
+   ]
+  },
+  "examples": [
+   {
+    "fr": "J'écris un courriel à mon patron.",
+    "en": "I'm writing an email to my boss."
+   },
+   {
+    "fr": "Écrivez votre nom ici, s'il vous plaît.",
+    "en": "Write your name here, please."
+   }
+  ]
+ },
+ {
+  "inf": "vivre",
+  "en": "to live",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "vécu",
+  "ppr": "vivant",
+  "qc": false,
+  "week": 25,
+  "t": {
+   "present": [
+    "je vis",
+    "tu vis",
+    "il/elle/on vit",
+    "nous vivons",
+    "vous vivez",
+    "ils/elles vivent"
+   ],
+   "passe_compose": [
+    "j'ai vécu",
+    "tu as vécu",
+    "il/elle/on a vécu",
+    "nous avons vécu",
+    "vous avez vécu",
+    "ils/elles ont vécu"
+   ],
+   "imparfait": [
+    "je vivais",
+    "tu vivais",
+    "il/elle/on vivait",
+    "nous vivions",
+    "vous viviez",
+    "ils/elles vivaient"
+   ],
+   "futur": [
+    "je vivrai",
+    "tu vivras",
+    "il/elle/on vivra",
+    "nous vivrons",
+    "vous vivrez",
+    "ils/elles vivront"
+   ],
+   "conditionnel": [
+    "je vivrais",
+    "tu vivrais",
+    "il/elle/on vivrait",
+    "nous vivrions",
+    "vous vivriez",
+    "ils/elles vivraient"
+   ],
+   "subjonctif": [
+    "que je vive",
+    "que tu vives",
+    "qu'il/elle/on vive",
+    "que nous vivions",
+    "que vous viviez",
+    "qu'ils/elles vivent"
+   ],
+   "plus_que_parfait": [
+    "j'avais vécu",
+    "tu avais vécu",
+    "il/elle/on avait vécu",
+    "nous avions vécu",
+    "vous aviez vécu",
+    "ils/elles avaient vécu"
+   ],
+   "imperatif": [
+    "vis",
+    "vivons",
+    "vivez"
+   ]
+  },
+  "spoken_qc": "Quebec usage (informal): \"rester\" is often used for to live somewhere (\"j'reste à Laval\").",
+  "examples": [
+   {
+    "fr": "Je vis à Sherbrooke depuis 2020.",
+    "en": "I've lived in Sherbrooke since 2020."
+   },
+   {
+    "fr": "Ils ont vécu dix ans au Saguenay.",
+    "en": "They lived in Saguenay for ten years."
+   }
+  ]
+ },
+ {
+  "inf": "ouvrir",
+  "en": "to open",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "ouvert",
+  "ppr": "ouvrant",
+  "qc": false,
+  "week": 31,
+  "t": {
+   "present": [
+    "j'ouvre",
+    "tu ouvres",
+    "il/elle/on ouvre",
+    "nous ouvrons",
+    "vous ouvrez",
+    "ils/elles ouvrent"
+   ],
+   "passe_compose": [
+    "j'ai ouvert",
+    "tu as ouvert",
+    "il/elle/on a ouvert",
+    "nous avons ouvert",
+    "vous avez ouvert",
+    "ils/elles ont ouvert"
+   ],
+   "imparfait": [
+    "j'ouvrais",
+    "tu ouvrais",
+    "il/elle/on ouvrait",
+    "nous ouvrions",
+    "vous ouvriez",
+    "ils/elles ouvraient"
+   ],
+   "futur": [
+    "j'ouvrirai",
+    "tu ouvriras",
+    "il/elle/on ouvrira",
+    "nous ouvrirons",
+    "vous ouvrirez",
+    "ils/elles ouvriront"
+   ],
+   "conditionnel": [
+    "j'ouvrirais",
+    "tu ouvrirais",
+    "il/elle/on ouvrirait",
+    "nous ouvririons",
+    "vous ouvririez",
+    "ils/elles ouvriraient"
+   ],
+   "subjonctif": [
+    "que j'ouvre",
+    "que tu ouvres",
+    "qu'il/elle/on ouvre",
+    "que nous ouvrions",
+    "que vous ouvriez",
+    "qu'ils/elles ouvrent"
+   ],
+   "plus_que_parfait": [
+    "j'avais ouvert",
+    "tu avais ouvert",
+    "il/elle/on avait ouvert",
+    "nous avions ouvert",
+    "vous aviez ouvert",
+    "ils/elles avaient ouvert"
+   ],
+   "imperatif": [
+    "ouvre",
+    "ouvrons",
+    "ouvrez"
+   ]
+  },
+  "spoken_qc": "Quebec speech (informal): \"ouvrir la lumière\" = turn on the light (standard: allumer); participle often heard as \"ouverte\" (\"j'ai ouverte la porte\").",
+  "examples": [
+   {
+    "fr": "Le dépanneur ouvre à 7 h.",
+    "en": "The corner store opens at 7."
+   },
+   {
+    "fr": "Peux-tu ouvrir la fenêtre?",
+    "en": "Can you open the window?"
+   }
+  ]
+ },
+ {
+  "inf": "recevoir",
+  "en": "to receive",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "reçu",
+  "ppr": "recevant",
+  "qc": false,
+  "week": 25,
+  "t": {
+   "present": [
+    "je reçois",
+    "tu reçois",
+    "il/elle/on reçoit",
+    "nous recevons",
+    "vous recevez",
+    "ils/elles reçoivent"
+   ],
+   "passe_compose": [
+    "j'ai reçu",
+    "tu as reçu",
+    "il/elle/on a reçu",
+    "nous avons reçu",
+    "vous avez reçu",
+    "ils/elles ont reçu"
+   ],
+   "imparfait": [
+    "je recevais",
+    "tu recevais",
+    "il/elle/on recevait",
+    "nous recevions",
+    "vous receviez",
+    "ils/elles recevaient"
+   ],
+   "futur": [
+    "je recevrai",
+    "tu recevras",
+    "il/elle/on recevra",
+    "nous recevrons",
+    "vous recevrez",
+    "ils/elles recevront"
+   ],
+   "conditionnel": [
+    "je recevrais",
+    "tu recevrais",
+    "il/elle/on recevrait",
+    "nous recevrions",
+    "vous recevriez",
+    "ils/elles recevraient"
+   ],
+   "subjonctif": [
+    "que je reçoive",
+    "que tu reçoives",
+    "qu'il/elle/on reçoive",
+    "que nous recevions",
+    "que vous receviez",
+    "qu'ils/elles reçoivent"
+   ],
+   "plus_que_parfait": [
+    "j'avais reçu",
+    "tu avais reçu",
+    "il/elle/on avait reçu",
+    "nous avions reçu",
+    "vous aviez reçu",
+    "ils/elles avaient reçu"
+   ],
+   "imperatif": [
+    "reçois",
+    "recevons",
+    "recevez"
+   ]
+  },
+  "examples": [
+   {
+    "fr": "J'ai reçu ton message.",
+    "en": "I got your message."
+   },
+   {
+    "fr": "Nous recevons des amis ce soir.",
+    "en": "We're having friends over tonight."
+   }
+  ]
+ },
+ {
+  "inf": "tenir",
+  "en": "to hold",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "tenu",
+  "ppr": "tenant",
+  "qc": false,
+  "week": 25,
+  "t": {
+   "present": [
+    "je tiens",
+    "tu tiens",
+    "il/elle/on tient",
+    "nous tenons",
+    "vous tenez",
+    "ils/elles tiennent"
+   ],
+   "passe_compose": [
+    "j'ai tenu",
+    "tu as tenu",
+    "il/elle/on a tenu",
+    "nous avons tenu",
+    "vous avez tenu",
+    "ils/elles ont tenu"
+   ],
+   "imparfait": [
+    "je tenais",
+    "tu tenais",
+    "il/elle/on tenait",
+    "nous tenions",
+    "vous teniez",
+    "ils/elles tenaient"
+   ],
+   "futur": [
+    "je tiendrai",
+    "tu tiendras",
+    "il/elle/on tiendra",
+    "nous tiendrons",
+    "vous tiendrez",
+    "ils/elles tiendront"
+   ],
+   "conditionnel": [
+    "je tiendrais",
+    "tu tiendrais",
+    "il/elle/on tiendrait",
+    "nous tiendrions",
+    "vous tiendriez",
+    "ils/elles tiendraient"
+   ],
+   "subjonctif": [
+    "que je tienne",
+    "que tu tiennes",
+    "qu'il/elle/on tienne",
+    "que nous tenions",
+    "que vous teniez",
+    "qu'ils/elles tiennent"
+   ],
+   "plus_que_parfait": [
+    "j'avais tenu",
+    "tu avais tenu",
+    "il/elle/on avait tenu",
+    "nous avions tenu",
+    "vous aviez tenu",
+    "ils/elles avaient tenu"
+   ],
+   "imperatif": [
+    "tiens",
+    "tenons",
+    "tenez"
+   ]
+  },
+  "spoken_qc": "Quebec speech (informal): \"tiens\" / \"tiens-toi\" are common; \"tiens bon!\" = hang in there.",
+  "examples": [
+   {
+    "fr": "Tiens, c'est pour toi.",
+    "en": "Here, this is for you."
+   },
+   {
+    "fr": "Elle tient à venir avec nous.",
+    "en": "She insists on coming with us."
+   }
+  ]
+ },
+ {
+  "inf": "courir",
+  "en": "to run",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "couru",
+  "ppr": "courant",
+  "qc": false,
+  "week": 38,
+  "t": {
+   "present": [
+    "je cours",
+    "tu cours",
+    "il/elle/on court",
+    "nous courons",
+    "vous courez",
+    "ils/elles courent"
+   ],
+   "passe_compose": [
+    "j'ai couru",
+    "tu as couru",
+    "il/elle/on a couru",
+    "nous avons couru",
+    "vous avez couru",
+    "ils/elles ont couru"
+   ],
+   "imparfait": [
+    "je courais",
+    "tu courais",
+    "il/elle/on courait",
+    "nous courions",
+    "vous couriez",
+    "ils/elles couraient"
+   ],
+   "futur": [
+    "je courrai",
+    "tu courras",
+    "il/elle/on courra",
+    "nous courrons",
+    "vous courrez",
+    "ils/elles courront"
+   ],
+   "conditionnel": [
+    "je courrais",
+    "tu courrais",
+    "il/elle/on courrait",
+    "nous courrions",
+    "vous courriez",
+    "ils/elles courraient"
+   ],
+   "subjonctif": [
+    "que je coure",
+    "que tu coures",
+    "qu'il/elle/on coure",
+    "que nous courions",
+    "que vous couriez",
+    "qu'ils/elles courent"
+   ],
+   "plus_que_parfait": [
+    "j'avais couru",
+    "tu avais couru",
+    "il/elle/on avait couru",
+    "nous avions couru",
+    "vous aviez couru",
+    "ils/elles avaient couru"
+   ],
+   "imperatif": [
+    "cours",
+    "courons",
+    "courez"
+   ]
+  },
+  "examples": [
+   {
+    "fr": "Je cours tous les matins.",
+    "en": "I run every morning."
+   },
+   {
+    "fr": "Il a couru le marathon de Montréal.",
+    "en": "He ran the Montreal marathon."
+   }
+  ]
+ },
+ {
+  "inf": "mourir",
+  "en": "to die",
+  "group": 3,
+  "aux": "être",
+  "pp": "mort",
+  "ppr": "mourant",
+  "qc": false,
+  "week": 36,
+  "t": {
+   "present": [
+    "je meurs",
+    "tu meurs",
+    "il/elle/on meurt",
+    "nous mourons",
+    "vous mourez",
+    "ils/elles meurent"
+   ],
+   "passe_compose": [
+    "je suis mort(e)",
+    "tu es mort(e)",
+    "il/elle/on est mort(e)",
+    "nous sommes mort(e)s",
+    "vous êtes mort(e)s",
+    "ils/elles sont mort(e)s"
+   ],
+   "imparfait": [
+    "je mourais",
+    "tu mourais",
+    "il/elle/on mourait",
+    "nous mourions",
+    "vous mouriez",
+    "ils/elles mouraient"
+   ],
+   "futur": [
+    "je mourrai",
+    "tu mourras",
+    "il/elle/on mourra",
+    "nous mourrons",
+    "vous mourrez",
+    "ils/elles mourront"
+   ],
+   "conditionnel": [
+    "je mourrais",
+    "tu mourrais",
+    "il/elle/on mourrait",
+    "nous mourrions",
+    "vous mourriez",
+    "ils/elles mourraient"
+   ],
+   "subjonctif": [
+    "que je meure",
+    "que tu meures",
+    "qu'il/elle/on meure",
+    "que nous mourions",
+    "que vous mouriez",
+    "qu'ils/elles meurent"
+   ],
+   "plus_que_parfait": [
+    "j'étais mort(e)",
+    "tu étais mort(e)",
+    "il/elle/on était mort(e)",
+    "nous étions mort(e)s",
+    "vous étiez mort(e)s",
+    "ils/elles étaient mort(e)s"
+   ],
+   "imperatif": [
+    "meurs",
+    "mourons",
+    "mourez"
+   ]
+  },
+  "spoken_qc": "Quebec speech (informal): \"chu mort\" = I'm exhausted; \"mourir de rire\" = to die laughing.",
+  "examples": [
+   {
+    "fr": "Mon grand-père est mort en 2010.",
+    "en": "My grandfather died in 2010."
+   },
+   {
+    "fr": "Je meurs de faim!",
+    "en": "I'm starving!"
+   }
+  ]
+ },
+ {
+  "inf": "naître",
+  "en": "to be born",
+  "group": 3,
+  "aux": "être",
+  "pp": "né",
+  "ppr": "naissant",
+  "qc": false,
+  "week": 36,
+  "t": {
+   "present": [
+    "je nais",
+    "tu nais",
+    "il/elle/on naît",
+    "nous naissons",
+    "vous naissez",
+    "ils/elles naissent"
+   ],
+   "passe_compose": [
+    "je suis né(e)",
+    "tu es né(e)",
+    "il/elle/on est né(e)",
+    "nous sommes né(e)s",
+    "vous êtes né(e)s",
+    "ils/elles sont né(e)s"
+   ],
+   "imparfait": [
+    "je naissais",
+    "tu naissais",
+    "il/elle/on naissait",
+    "nous naissions",
+    "vous naissiez",
+    "ils/elles naissaient"
+   ],
+   "futur": [
+    "je naîtrai",
+    "tu naîtras",
+    "il/elle/on naîtra",
+    "nous naîtrons",
+    "vous naîtrez",
+    "ils/elles naîtront"
+   ],
+   "conditionnel": [
+    "je naîtrais",
+    "tu naîtrais",
+    "il/elle/on naîtrait",
+    "nous naîtrions",
+    "vous naîtriez",
+    "ils/elles naîtraient"
+   ],
+   "subjonctif": [
+    "que je naisse",
+    "que tu naisses",
+    "qu'il/elle/on naisse",
+    "que nous naissions",
+    "que vous naissiez",
+    "qu'ils/elles naissent"
+   ],
+   "plus_que_parfait": [
+    "j'étais né(e)",
+    "tu étais né(e)",
+    "il/elle/on était né(e)",
+    "nous étions né(e)s",
+    "vous étiez né(e)s",
+    "ils/elles étaient né(e)s"
+   ],
+   "imperatif": [
+    "nais",
+    "naissons",
+    "naissez"
+   ]
+  },
+  "examples": [
+   {
+    "fr": "Je suis né à Toronto.",
+    "en": "I was born in Toronto."
+   },
+   {
+    "fr": "Leur fille est née en juillet.",
+    "en": "Their daughter was born in July."
+   }
+  ]
+ },
+ {
+  "inf": "rester",
+  "en": "to stay",
+  "group": 1,
+  "aux": "être",
+  "pp": "resté",
+  "ppr": "restant",
+  "qc": false,
+  "week": 10,
+  "t": {
+   "present": [
+    "je reste",
+    "tu restes",
+    "il/elle/on reste",
+    "nous restons",
+    "vous restez",
+    "ils/elles restent"
+   ],
+   "passe_compose": [
+    "je suis resté(e)",
+    "tu es resté(e)",
+    "il/elle/on est resté(e)",
+    "nous sommes resté(e)s",
+    "vous êtes resté(e)s",
+    "ils/elles sont resté(e)s"
+   ],
+   "imparfait": [
+    "je restais",
+    "tu restais",
+    "il/elle/on restait",
+    "nous restions",
+    "vous restiez",
+    "ils/elles restaient"
+   ],
+   "futur": [
+    "je resterai",
+    "tu resteras",
+    "il/elle/on restera",
+    "nous resterons",
+    "vous resterez",
+    "ils/elles resteront"
+   ],
+   "conditionnel": [
+    "je resterais",
+    "tu resterais",
+    "il/elle/on resterait",
+    "nous resterions",
+    "vous resteriez",
+    "ils/elles resteraient"
+   ],
+   "subjonctif": [
+    "que je reste",
+    "que tu restes",
+    "qu'il/elle/on reste",
+    "que nous restions",
+    "que vous restiez",
+    "qu'ils/elles restent"
+   ],
+   "plus_que_parfait": [
+    "j'étais resté(e)",
+    "tu étais resté(e)",
+    "il/elle/on était resté(e)",
+    "nous étions resté(e)s",
+    "vous étiez resté(e)s",
+    "ils/elles étaient resté(e)s"
+   ],
+   "imperatif": [
+    "reste",
+    "restons",
+    "restez"
+   ]
+  },
+  "spoken_qc": "Quebec usage (informal): \"rester\" = to live somewhere (\"j'reste à Montréal\" = I live in Montreal).",
+  "examples": [
+   {
+    "fr": "Je reste à la maison ce soir.",
+    "en": "I'm staying home tonight."
+   },
+   {
+    "fr": "Nous sommes restés au chalet une semaine.",
+    "en": "We stayed at the cottage for a week."
+   }
+  ]
+ },
+ {
+  "inf": "arriver",
+  "en": "to arrive; to happen",
+  "group": 1,
+  "aux": "être",
+  "pp": "arrivé",
+  "ppr": "arrivant",
+  "qc": false,
+  "week": 10,
+  "t": {
+   "present": [
+    "j'arrive",
+    "tu arrives",
+    "il/elle/on arrive",
+    "nous arrivons",
+    "vous arrivez",
+    "ils/elles arrivent"
+   ],
+   "passe_compose": [
+    "je suis arrivé(e)",
+    "tu es arrivé(e)",
+    "il/elle/on est arrivé(e)",
+    "nous sommes arrivé(e)s",
+    "vous êtes arrivé(e)s",
+    "ils/elles sont arrivé(e)s"
+   ],
+   "imparfait": [
+    "j'arrivais",
+    "tu arrivais",
+    "il/elle/on arrivait",
+    "nous arrivions",
+    "vous arriviez",
+    "ils/elles arrivaient"
+   ],
+   "futur": [
+    "j'arriverai",
+    "tu arriveras",
+    "il/elle/on arrivera",
+    "nous arriverons",
+    "vous arriverez",
+    "ils/elles arriveront"
+   ],
+   "conditionnel": [
+    "j'arriverais",
+    "tu arriverais",
+    "il/elle/on arriverait",
+    "nous arriverions",
+    "vous arriveriez",
+    "ils/elles arriveraient"
+   ],
+   "subjonctif": [
+    "que j'arrive",
+    "que tu arrives",
+    "qu'il/elle/on arrive",
+    "que nous arrivions",
+    "que vous arriviez",
+    "qu'ils/elles arrivent"
+   ],
+   "plus_que_parfait": [
+    "j'étais arrivé(e)",
+    "tu étais arrivé(e)",
+    "il/elle/on était arrivé(e)",
+    "nous étions arrivé(e)s",
+    "vous étiez arrivé(e)s",
+    "ils/elles étaient arrivé(e)s"
+   ],
+   "imperatif": [
+    "arrive",
+    "arrivons",
+    "arrivez"
+   ]
+  },
+  "examples": [
+   {
+    "fr": "L'autobus arrive dans cinq minutes.",
+    "en": "The bus arrives in five minutes."
+   },
+   {
+    "fr": "Elle est arrivée au Québec en 2022.",
+    "en": "She arrived in Quebec in 2022."
+   }
+  ]
+ },
+ {
+  "inf": "entrer",
+  "en": "to enter, to come in",
+  "group": 1,
+  "aux": "être",
+  "pp": "entré",
+  "ppr": "entrant",
+  "qc": false,
+  "week": 10,
+  "t": {
+   "present": [
+    "j'entre",
+    "tu entres",
+    "il/elle/on entre",
+    "nous entrons",
+    "vous entrez",
+    "ils/elles entrent"
+   ],
+   "passe_compose": [
+    "je suis entré(e)",
+    "tu es entré(e)",
+    "il/elle/on est entré(e)",
+    "nous sommes entré(e)s",
+    "vous êtes entré(e)s",
+    "ils/elles sont entré(e)s"
+   ],
+   "imparfait": [
+    "j'entrais",
+    "tu entrais",
+    "il/elle/on entrait",
+    "nous entrions",
+    "vous entriez",
+    "ils/elles entraient"
+   ],
+   "futur": [
+    "j'entrerai",
+    "tu entreras",
+    "il/elle/on entrera",
+    "nous entrerons",
+    "vous entrerez",
+    "ils/elles entreront"
+   ],
+   "conditionnel": [
+    "j'entrerais",
+    "tu entrerais",
+    "il/elle/on entrerait",
+    "nous entrerions",
+    "vous entreriez",
+    "ils/elles entreraient"
+   ],
+   "subjonctif": [
+    "que j'entre",
+    "que tu entres",
+    "qu'il/elle/on entre",
+    "que nous entrions",
+    "que vous entriez",
+    "qu'ils/elles entrent"
+   ],
+   "plus_que_parfait": [
+    "j'étais entré(e)",
+    "tu étais entré(e)",
+    "il/elle/on était entré(e)",
+    "nous étions entré(e)s",
+    "vous étiez entré(e)s",
+    "ils/elles étaient entré(e)s"
+   ],
+   "imperatif": [
+    "entre",
+    "entrons",
+    "entrez"
+   ]
+  },
+  "spoken_qc": "Quebec speech (informal): often pronounced \"rentrer\" for entrer (\"rentre, y fait frette!\").",
+  "examples": [
+   {
+    "fr": "Entrez, je vous en prie.",
+    "en": "Come in, please."
+   },
+   {
+    "fr": "Il est entré sans frapper.",
+    "en": "He came in without knocking."
+   }
+  ]
+ },
+ {
+  "inf": "tomber",
+  "en": "to fall",
+  "group": 1,
+  "aux": "être",
+  "pp": "tombé",
+  "ppr": "tombant",
+  "qc": false,
+  "week": 10,
+  "t": {
+   "present": [
+    "je tombe",
+    "tu tombes",
+    "il/elle/on tombe",
+    "nous tombons",
+    "vous tombez",
+    "ils/elles tombent"
+   ],
+   "passe_compose": [
+    "je suis tombé(e)",
+    "tu es tombé(e)",
+    "il/elle/on est tombé(e)",
+    "nous sommes tombé(e)s",
+    "vous êtes tombé(e)s",
+    "ils/elles sont tombé(e)s"
+   ],
+   "imparfait": [
+    "je tombais",
+    "tu tombais",
+    "il/elle/on tombait",
+    "nous tombions",
+    "vous tombiez",
+    "ils/elles tombaient"
+   ],
+   "futur": [
+    "je tomberai",
+    "tu tomberas",
+    "il/elle/on tombera",
+    "nous tomberons",
+    "vous tomberez",
+    "ils/elles tomberont"
+   ],
+   "conditionnel": [
+    "je tomberais",
+    "tu tomberais",
+    "il/elle/on tomberait",
+    "nous tomberions",
+    "vous tomberiez",
+    "ils/elles tomberaient"
+   ],
+   "subjonctif": [
+    "que je tombe",
+    "que tu tombes",
+    "qu'il/elle/on tombe",
+    "que nous tombions",
+    "que vous tombiez",
+    "qu'ils/elles tombent"
+   ],
+   "plus_que_parfait": [
+    "j'étais tombé(e)",
+    "tu étais tombé(e)",
+    "il/elle/on était tombé(e)",
+    "nous étions tombé(e)s",
+    "vous étiez tombé(e)s",
+    "ils/elles étaient tombé(e)s"
+   ],
+   "imperatif": [
+    "tombe",
+    "tombons",
+    "tombez"
+   ]
+  },
+  "spoken_qc": "Quebec usage: \"tomber en amour\" = to fall in love (France: tomber amoureux).",
+  "examples": [
+   {
+    "fr": "Attention, tu vas tomber!",
+    "en": "Careful, you're going to fall!"
+   },
+   {
+    "fr": "Je suis tombé sur la glace.",
+    "en": "I fell on the ice."
+   }
+  ]
+ },
+ {
+  "inf": "devenir",
+  "en": "to become",
+  "group": 3,
+  "aux": "être",
+  "pp": "devenu",
+  "ppr": "devenant",
+  "qc": false,
+  "week": 36,
+  "t": {
+   "present": [
+    "je deviens",
+    "tu deviens",
+    "il/elle/on devient",
+    "nous devenons",
+    "vous devenez",
+    "ils/elles deviennent"
+   ],
+   "passe_compose": [
+    "je suis devenu(e)",
+    "tu es devenu(e)",
+    "il/elle/on est devenu(e)",
+    "nous sommes devenu(e)s",
+    "vous êtes devenu(e)s",
+    "ils/elles sont devenu(e)s"
+   ],
+   "imparfait": [
+    "je devenais",
+    "tu devenais",
+    "il/elle/on devenait",
+    "nous devenions",
+    "vous deveniez",
+    "ils/elles devenaient"
+   ],
+   "futur": [
+    "je deviendrai",
+    "tu deviendras",
+    "il/elle/on deviendra",
+    "nous deviendrons",
+    "vous deviendrez",
+    "ils/elles deviendront"
+   ],
+   "conditionnel": [
+    "je deviendrais",
+    "tu deviendrais",
+    "il/elle/on deviendrait",
+    "nous deviendrions",
+    "vous deviendriez",
+    "ils/elles deviendraient"
+   ],
+   "subjonctif": [
+    "que je devienne",
+    "que tu deviennes",
+    "qu'il/elle/on devienne",
+    "que nous devenions",
+    "que vous deveniez",
+    "qu'ils/elles deviennent"
+   ],
+   "plus_que_parfait": [
+    "j'étais devenu(e)",
+    "tu étais devenu(e)",
+    "il/elle/on était devenu(e)",
+    "nous étions devenu(e)s",
+    "vous étiez devenu(e)s",
+    "ils/elles étaient devenu(e)s"
+   ],
+   "imperatif": [
+    "deviens",
+    "devenons",
+    "devenez"
+   ]
+  },
+  "examples": [
+   {
+    "fr": "Elle veut devenir infirmière.",
+    "en": "She wants to become a nurse."
+   },
+   {
+    "fr": "Il est devenu citoyen canadien l'an dernier.",
+    "en": "He became a Canadian citizen last year."
+   }
+  ]
+ },
+ {
+  "inf": "revenir",
+  "en": "to come back",
+  "group": 3,
+  "aux": "être",
+  "pp": "revenu",
+  "ppr": "revenant",
+  "qc": false,
+  "week": 36,
+  "t": {
+   "present": [
+    "je reviens",
+    "tu reviens",
+    "il/elle/on revient",
+    "nous revenons",
+    "vous revenez",
+    "ils/elles reviennent"
+   ],
+   "passe_compose": [
+    "je suis revenu(e)",
+    "tu es revenu(e)",
+    "il/elle/on est revenu(e)",
+    "nous sommes revenu(e)s",
+    "vous êtes revenu(e)s",
+    "ils/elles sont revenu(e)s"
+   ],
+   "imparfait": [
+    "je revenais",
+    "tu revenais",
+    "il/elle/on revenait",
+    "nous revenions",
+    "vous reveniez",
+    "ils/elles revenaient"
+   ],
+   "futur": [
+    "je reviendrai",
+    "tu reviendras",
+    "il/elle/on reviendra",
+    "nous reviendrons",
+    "vous reviendrez",
+    "ils/elles reviendront"
+   ],
+   "conditionnel": [
+    "je reviendrais",
+    "tu reviendrais",
+    "il/elle/on reviendrait",
+    "nous reviendrions",
+    "vous reviendriez",
+    "ils/elles reviendraient"
+   ],
+   "subjonctif": [
+    "que je revienne",
+    "que tu reviennes",
+    "qu'il/elle/on revienne",
+    "que nous revenions",
+    "que vous reveniez",
+    "qu'ils/elles reviennent"
+   ],
+   "plus_que_parfait": [
+    "j'étais revenu(e)",
+    "tu étais revenu(e)",
+    "il/elle/on était revenu(e)",
+    "nous étions revenu(e)s",
+    "vous étiez revenu(e)s",
+    "ils/elles étaient revenu(e)s"
+   ],
+   "imperatif": [
+    "reviens",
+    "revenons",
+    "revenez"
+   ]
+  },
+  "spoken_qc": "Quebec speech (informal): \"j'en reviens pas!\" = I can't believe it!",
+  "examples": [
+   {
+    "fr": "Je reviens tout de suite.",
+    "en": "I'll be right back."
+   },
+   {
+    "fr": "Quand est-ce que tu es revenu de Québec?",
+    "en": "When did you come back from Quebec City?"
+   }
+  ]
+ },
+ {
+  "inf": "comprendre",
+  "en": "to understand",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "compris",
+  "ppr": "comprenant",
+  "qc": false,
+  "week": 25,
+  "t": {
+   "present": [
+    "je comprends",
+    "tu comprends",
+    "il/elle/on comprend",
+    "nous comprenons",
+    "vous comprenez",
+    "ils/elles comprennent"
+   ],
+   "passe_compose": [
+    "j'ai compris",
+    "tu as compris",
+    "il/elle/on a compris",
+    "nous avons compris",
+    "vous avez compris",
+    "ils/elles ont compris"
+   ],
+   "imparfait": [
+    "je comprenais",
+    "tu comprenais",
+    "il/elle/on comprenait",
+    "nous comprenions",
+    "vous compreniez",
+    "ils/elles comprenaient"
+   ],
+   "futur": [
+    "je comprendrai",
+    "tu comprendras",
+    "il/elle/on comprendra",
+    "nous comprendrons",
+    "vous comprendrez",
+    "ils/elles comprendront"
+   ],
+   "conditionnel": [
+    "je comprendrais",
+    "tu comprendrais",
+    "il/elle/on comprendrait",
+    "nous comprendrions",
+    "vous comprendriez",
+    "ils/elles comprendraient"
+   ],
+   "subjonctif": [
+    "que je comprenne",
+    "que tu comprennes",
+    "qu'il/elle/on comprenne",
+    "que nous comprenions",
+    "que vous compreniez",
+    "qu'ils/elles comprennent"
+   ],
+   "plus_que_parfait": [
+    "j'avais compris",
+    "tu avais compris",
+    "il/elle/on avait compris",
+    "nous avions compris",
+    "vous aviez compris",
+    "ils/elles avaient compris"
+   ],
+   "imperatif": [
+    "comprends",
+    "comprenons",
+    "comprenez"
+   ]
+  },
+  "spoken_qc": "Quebec speech (informal): \"j'comprends\" is also used as \"of course / I'll say\" (\"— C'est bon? — J'comprends!\").",
+  "examples": [
+   {
+    "fr": "Je ne comprends pas, pouvez-vous répéter?",
+    "en": "I don't understand, can you repeat?"
+   },
+   {
+    "fr": "As-tu compris la question?",
+    "en": "Did you understand the question?"
+   }
+  ]
+ },
+ {
+  "inf": "apprendre",
+  "en": "to learn",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "appris",
+  "ppr": "apprenant",
+  "qc": false,
+  "week": 25,
+  "t": {
+   "present": [
+    "j'apprends",
+    "tu apprends",
+    "il/elle/on apprend",
+    "nous apprenons",
+    "vous apprenez",
+    "ils/elles apprennent"
+   ],
+   "passe_compose": [
+    "j'ai appris",
+    "tu as appris",
+    "il/elle/on a appris",
+    "nous avons appris",
+    "vous avez appris",
+    "ils/elles ont appris"
+   ],
+   "imparfait": [
+    "j'apprenais",
+    "tu apprenais",
+    "il/elle/on apprenait",
+    "nous apprenions",
+    "vous appreniez",
+    "ils/elles apprenaient"
+   ],
+   "futur": [
+    "j'apprendrai",
+    "tu apprendras",
+    "il/elle/on apprendra",
+    "nous apprendrons",
+    "vous apprendrez",
+    "ils/elles apprendront"
+   ],
+   "conditionnel": [
+    "j'apprendrais",
+    "tu apprendrais",
+    "il/elle/on apprendrait",
+    "nous apprendrions",
+    "vous apprendriez",
+    "ils/elles apprendraient"
+   ],
+   "subjonctif": [
+    "que j'apprenne",
+    "que tu apprennes",
+    "qu'il/elle/on apprenne",
+    "que nous apprenions",
+    "que vous appreniez",
+    "qu'ils/elles apprennent"
+   ],
+   "plus_que_parfait": [
+    "j'avais appris",
+    "tu avais appris",
+    "il/elle/on avait appris",
+    "nous avions appris",
+    "vous aviez appris",
+    "ils/elles avaient appris"
+   ],
+   "imperatif": [
+    "apprends",
+    "apprenons",
+    "apprenez"
+   ]
+  },
+  "examples": [
+   {
+    "fr": "J'apprends le français.",
+    "en": "I'm learning French."
+   },
+   {
+    "fr": "Elle a appris à patiner à cinq ans.",
+    "en": "She learned to skate at age five."
+   }
+  ]
+ },
+ {
+  "inf": "attendre",
+  "en": "to wait (for)",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "attendu",
+  "ppr": "attendant",
+  "qc": false,
+  "week": 25,
+  "t": {
+   "present": [
+    "j'attends",
+    "tu attends",
+    "il/elle/on attend",
+    "nous attendons",
+    "vous attendez",
+    "ils/elles attendent"
+   ],
+   "passe_compose": [
+    "j'ai attendu",
+    "tu as attendu",
+    "il/elle/on a attendu",
+    "nous avons attendu",
+    "vous avez attendu",
+    "ils/elles ont attendu"
+   ],
+   "imparfait": [
+    "j'attendais",
+    "tu attendais",
+    "il/elle/on attendait",
+    "nous attendions",
+    "vous attendiez",
+    "ils/elles attendaient"
+   ],
+   "futur": [
+    "j'attendrai",
+    "tu attendras",
+    "il/elle/on attendra",
+    "nous attendrons",
+    "vous attendrez",
+    "ils/elles attendront"
+   ],
+   "conditionnel": [
+    "j'attendrais",
+    "tu attendrais",
+    "il/elle/on attendrait",
+    "nous attendrions",
+    "vous attendriez",
+    "ils/elles attendraient"
+   ],
+   "subjonctif": [
+    "que j'attende",
+    "que tu attendes",
+    "qu'il/elle/on attende",
+    "que nous attendions",
+    "que vous attendiez",
+    "qu'ils/elles attendent"
+   ],
+   "plus_que_parfait": [
+    "j'avais attendu",
+    "tu avais attendu",
+    "il/elle/on avait attendu",
+    "nous avions attendu",
+    "vous aviez attendu",
+    "ils/elles avaient attendu"
+   ],
+   "imperatif": [
+    "attends",
+    "attendons",
+    "attendez"
+   ]
+  },
+  "spoken_qc": "Quebec speech (informal): \"attends-moi pas\" = don't wait for me.",
+  "examples": [
+   {
+    "fr": "J'attends l'autobus.",
+    "en": "I'm waiting for the bus."
+   },
+   {
+    "fr": "Attends-moi!",
+    "en": "Wait for me!"
+   }
+  ]
+ },
+ {
+  "inf": "entendre",
+  "en": "to hear",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "entendu",
+  "ppr": "entendant",
+  "qc": false,
+  "week": 25,
+  "t": {
+   "present": [
+    "j'entends",
+    "tu entends",
+    "il/elle/on entend",
+    "nous entendons",
+    "vous entendez",
+    "ils/elles entendent"
+   ],
+   "passe_compose": [
+    "j'ai entendu",
+    "tu as entendu",
+    "il/elle/on a entendu",
+    "nous avons entendu",
+    "vous avez entendu",
+    "ils/elles ont entendu"
+   ],
+   "imparfait": [
+    "j'entendais",
+    "tu entendais",
+    "il/elle/on entendait",
+    "nous entendions",
+    "vous entendiez",
+    "ils/elles entendaient"
+   ],
+   "futur": [
+    "j'entendrai",
+    "tu entendras",
+    "il/elle/on entendra",
+    "nous entendrons",
+    "vous entendrez",
+    "ils/elles entendront"
+   ],
+   "conditionnel": [
+    "j'entendrais",
+    "tu entendrais",
+    "il/elle/on entendrait",
+    "nous entendrions",
+    "vous entendriez",
+    "ils/elles entendraient"
+   ],
+   "subjonctif": [
+    "que j'entende",
+    "que tu entendes",
+    "qu'il/elle/on entende",
+    "que nous entendions",
+    "que vous entendiez",
+    "qu'ils/elles entendent"
+   ],
+   "plus_que_parfait": [
+    "j'avais entendu",
+    "tu avais entendu",
+    "il/elle/on avait entendu",
+    "nous avions entendu",
+    "vous aviez entendu",
+    "ils/elles avaient entendu"
+   ],
+   "imperatif": [
+    "entends",
+    "entendons",
+    "entendez"
+   ]
+  },
+  "examples": [
+   {
+    "fr": "Tu m'entends?",
+    "en": "Can you hear me?"
+   },
+   {
+    "fr": "J'ai entendu la nouvelle à la radio.",
+    "en": "I heard the news on the radio."
+   }
+  ]
+ },
+ {
+  "inf": "répondre",
+  "en": "to answer",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "répondu",
+  "ppr": "répondant",
+  "qc": false,
+  "week": 25,
+  "t": {
+   "present": [
+    "je réponds",
+    "tu réponds",
+    "il/elle/on répond",
+    "nous répondons",
+    "vous répondez",
+    "ils/elles répondent"
+   ],
+   "passe_compose": [
+    "j'ai répondu",
+    "tu as répondu",
+    "il/elle/on a répondu",
+    "nous avons répondu",
+    "vous avez répondu",
+    "ils/elles ont répondu"
+   ],
+   "imparfait": [
+    "je répondais",
+    "tu répondais",
+    "il/elle/on répondait",
+    "nous répondions",
+    "vous répondiez",
+    "ils/elles répondaient"
+   ],
+   "futur": [
+    "je répondrai",
+    "tu répondras",
+    "il/elle/on répondra",
+    "nous répondrons",
+    "vous répondrez",
+    "ils/elles répondront"
+   ],
+   "conditionnel": [
+    "je répondrais",
+    "tu répondrais",
+    "il/elle/on répondrait",
+    "nous répondrions",
+    "vous répondriez",
+    "ils/elles répondraient"
+   ],
+   "subjonctif": [
+    "que je réponde",
+    "que tu répondes",
+    "qu'il/elle/on réponde",
+    "que nous répondions",
+    "que vous répondiez",
+    "qu'ils/elles répondent"
+   ],
+   "plus_que_parfait": [
+    "j'avais répondu",
+    "tu avais répondu",
+    "il/elle/on avait répondu",
+    "nous avions répondu",
+    "vous aviez répondu",
+    "ils/elles avaient répondu"
+   ],
+   "imperatif": [
+    "réponds",
+    "répondons",
+    "répondez"
+   ]
+  },
+  "examples": [
+   {
+    "fr": "Réponds au téléphone, s'il te plaît.",
+    "en": "Answer the phone, please."
+   },
+   {
+    "fr": "Elle n'a pas répondu à mon courriel.",
+    "en": "She didn't answer my email."
+   }
+  ]
+ },
+ {
+  "inf": "vendre",
+  "en": "to sell",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "vendu",
+  "ppr": "vendant",
+  "qc": false,
+  "week": 25,
+  "t": {
+   "present": [
+    "je vends",
+    "tu vends",
+    "il/elle/on vend",
+    "nous vendons",
+    "vous vendez",
+    "ils/elles vendent"
+   ],
+   "passe_compose": [
+    "j'ai vendu",
+    "tu as vendu",
+    "il/elle/on a vendu",
+    "nous avons vendu",
+    "vous avez vendu",
+    "ils/elles ont vendu"
+   ],
+   "imparfait": [
+    "je vendais",
+    "tu vendais",
+    "il/elle/on vendait",
+    "nous vendions",
+    "vous vendiez",
+    "ils/elles vendaient"
+   ],
+   "futur": [
+    "je vendrai",
+    "tu vendras",
+    "il/elle/on vendra",
+    "nous vendrons",
+    "vous vendrez",
+    "ils/elles vendront"
+   ],
+   "conditionnel": [
+    "je vendrais",
+    "tu vendrais",
+    "il/elle/on vendrait",
+    "nous vendrions",
+    "vous vendriez",
+    "ils/elles vendraient"
+   ],
+   "subjonctif": [
+    "que je vende",
+    "que tu vendes",
+    "qu'il/elle/on vende",
+    "que nous vendions",
+    "que vous vendiez",
+    "qu'ils/elles vendent"
+   ],
+   "plus_que_parfait": [
+    "j'avais vendu",
+    "tu avais vendu",
+    "il/elle/on avait vendu",
+    "nous avions vendu",
+    "vous aviez vendu",
+    "ils/elles avaient vendu"
+   ],
+   "imperatif": [
+    "vends",
+    "vendons",
+    "vendez"
+   ]
+  },
+  "examples": [
+   {
+    "fr": "Ils vendent leur maison.",
+    "en": "They're selling their house."
+   },
+   {
+    "fr": "Il a vendu son auto.",
+    "en": "He sold his car."
+   }
+  ]
+ },
+ {
+  "inf": "perdre",
+  "en": "to lose",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "perdu",
+  "ppr": "perdant",
+  "qc": false,
+  "week": 25,
+  "t": {
+   "present": [
+    "je perds",
+    "tu perds",
+    "il/elle/on perd",
+    "nous perdons",
+    "vous perdez",
+    "ils/elles perdent"
+   ],
+   "passe_compose": [
+    "j'ai perdu",
+    "tu as perdu",
+    "il/elle/on a perdu",
+    "nous avons perdu",
+    "vous avez perdu",
+    "ils/elles ont perdu"
+   ],
+   "imparfait": [
+    "je perdais",
+    "tu perdais",
+    "il/elle/on perdait",
+    "nous perdions",
+    "vous perdiez",
+    "ils/elles perdaient"
+   ],
+   "futur": [
+    "je perdrai",
+    "tu perdras",
+    "il/elle/on perdra",
+    "nous perdrons",
+    "vous perdrez",
+    "ils/elles perdront"
+   ],
+   "conditionnel": [
+    "je perdrais",
+    "tu perdrais",
+    "il/elle/on perdrait",
+    "nous perdrions",
+    "vous perdriez",
+    "ils/elles perdraient"
+   ],
+   "subjonctif": [
+    "que je perde",
+    "que tu perdes",
+    "qu'il/elle/on perde",
+    "que nous perdions",
+    "que vous perdiez",
+    "qu'ils/elles perdent"
+   ],
+   "plus_que_parfait": [
+    "j'avais perdu",
+    "tu avais perdu",
+    "il/elle/on avait perdu",
+    "nous avions perdu",
+    "vous aviez perdu",
+    "ils/elles avaient perdu"
+   ],
+   "imperatif": [
+    "perds",
+    "perdons",
+    "perdez"
+   ]
+  },
+  "examples": [
+   {
+    "fr": "J'ai perdu mes clés.",
+    "en": "I lost my keys."
+   },
+   {
+    "fr": "Le Canadien a perdu hier soir.",
+    "en": "The Canadiens lost last night."
+   }
+  ]
+ },
+ {
+  "inf": "rendre",
+  "en": "to give back; to make (someone feel)",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "rendu",
+  "ppr": "rendant",
+  "qc": false,
+  "week": 25,
+  "t": {
+   "present": [
+    "je rends",
+    "tu rends",
+    "il/elle/on rend",
+    "nous rendons",
+    "vous rendez",
+    "ils/elles rendent"
+   ],
+   "passe_compose": [
+    "j'ai rendu",
+    "tu as rendu",
+    "il/elle/on a rendu",
+    "nous avons rendu",
+    "vous avez rendu",
+    "ils/elles ont rendu"
+   ],
+   "imparfait": [
+    "je rendais",
+    "tu rendais",
+    "il/elle/on rendait",
+    "nous rendions",
+    "vous rendiez",
+    "ils/elles rendaient"
+   ],
+   "futur": [
+    "je rendrai",
+    "tu rendras",
+    "il/elle/on rendra",
+    "nous rendrons",
+    "vous rendrez",
+    "ils/elles rendront"
+   ],
+   "conditionnel": [
+    "je rendrais",
+    "tu rendrais",
+    "il/elle/on rendrait",
+    "nous rendrions",
+    "vous rendriez",
+    "ils/elles rendraient"
+   ],
+   "subjonctif": [
+    "que je rende",
+    "que tu rendes",
+    "qu'il/elle/on rende",
+    "que nous rendions",
+    "que vous rendiez",
+    "qu'ils/elles rendent"
+   ],
+   "plus_que_parfait": [
+    "j'avais rendu",
+    "tu avais rendu",
+    "il/elle/on avait rendu",
+    "nous avions rendu",
+    "vous aviez rendu",
+    "ils/elles avaient rendu"
+   ],
+   "imperatif": [
+    "rends",
+    "rendons",
+    "rendez"
+   ]
+  },
+  "spoken_qc": "Quebec speech (informal): \"rendu\" = arrived / at a point (\"on est rendus à Québec\" = we've made it to Quebec City).",
+  "examples": [
+   {
+    "fr": "Je dois rendre ce livre à la bibliothèque.",
+    "en": "I have to return this book to the library."
+   },
+   {
+    "fr": "Ça me rend heureux.",
+    "en": "That makes me happy."
+   }
+  ]
+ },
+ {
+  "inf": "acheter",
+  "en": "to buy",
+  "group": 1,
+  "aux": "avoir",
+  "pp": "acheté",
+  "ppr": "achetant",
+  "qc": false,
+  "week": 10,
+  "t": {
+   "present": [
+    "j'achète",
+    "tu achètes",
+    "il/elle/on achète",
+    "nous achetons",
+    "vous achetez",
+    "ils/elles achètent"
+   ],
+   "passe_compose": [
+    "j'ai acheté",
+    "tu as acheté",
+    "il/elle/on a acheté",
+    "nous avons acheté",
+    "vous avez acheté",
+    "ils/elles ont acheté"
+   ],
+   "imparfait": [
+    "j'achetais",
+    "tu achetais",
+    "il/elle/on achetait",
+    "nous achetions",
+    "vous achetiez",
+    "ils/elles achetaient"
+   ],
+   "futur": [
+    "j'achèterai",
+    "tu achèteras",
+    "il/elle/on achètera",
+    "nous achèterons",
+    "vous achèterez",
+    "ils/elles achèteront"
+   ],
+   "conditionnel": [
+    "j'achèterais",
+    "tu achèterais",
+    "il/elle/on achèterait",
+    "nous achèterions",
+    "vous achèteriez",
+    "ils/elles achèteraient"
+   ],
+   "subjonctif": [
+    "que j'achète",
+    "que tu achètes",
+    "qu'il/elle/on achète",
+    "que nous achetions",
+    "que vous achetiez",
+    "qu'ils/elles achètent"
+   ],
+   "plus_que_parfait": [
+    "j'avais acheté",
+    "tu avais acheté",
+    "il/elle/on avait acheté",
+    "nous avions acheté",
+    "vous aviez acheté",
+    "ils/elles avaient acheté"
+   ],
+   "imperatif": [
+    "achète",
+    "achetons",
+    "achetez"
+   ]
+  },
+  "examples": [
+   {
+    "fr": "J'achète du pain au marché.",
+    "en": "I buy bread at the market."
+   },
+   {
+    "fr": "Nous avons acheté une maison à Laval.",
+    "en": "We bought a house in Laval."
+   }
+  ]
+ },
+ {
+  "inf": "appeler",
+  "en": "to call",
+  "group": 1,
+  "aux": "avoir",
+  "pp": "appelé",
+  "ppr": "appelant",
+  "qc": false,
+  "week": 10,
+  "t": {
+   "present": [
+    "j'appelle",
+    "tu appelles",
+    "il/elle/on appelle",
+    "nous appelons",
+    "vous appelez",
+    "ils/elles appellent"
+   ],
+   "passe_compose": [
+    "j'ai appelé",
+    "tu as appelé",
+    "il/elle/on a appelé",
+    "nous avons appelé",
+    "vous avez appelé",
+    "ils/elles ont appelé"
+   ],
+   "imparfait": [
+    "j'appelais",
+    "tu appelais",
+    "il/elle/on appelait",
+    "nous appelions",
+    "vous appeliez",
+    "ils/elles appelaient"
+   ],
+   "futur": [
+    "j'appellerai",
+    "tu appelleras",
+    "il/elle/on appellera",
+    "nous appellerons",
+    "vous appellerez",
+    "ils/elles appelleront"
+   ],
+   "conditionnel": [
+    "j'appellerais",
+    "tu appellerais",
+    "il/elle/on appellerait",
+    "nous appellerions",
+    "vous appelleriez",
+    "ils/elles appelleraient"
+   ],
+   "subjonctif": [
+    "que j'appelle",
+    "que tu appelles",
+    "qu'il/elle/on appelle",
+    "que nous appelions",
+    "que vous appeliez",
+    "qu'ils/elles appellent"
+   ],
+   "plus_que_parfait": [
+    "j'avais appelé",
+    "tu avais appelé",
+    "il/elle/on avait appelé",
+    "nous avions appelé",
+    "vous aviez appelé",
+    "ils/elles avaient appelé"
+   ],
+   "imperatif": [
+    "appelle",
+    "appelons",
+    "appelez"
+   ]
+  },
+  "examples": [
+   {
+    "fr": "Je t'appelle ce soir.",
+    "en": "I'll call you tonight."
+   },
+   {
+    "fr": "Appelez le 911 en cas d'urgence.",
+    "en": "Call 911 in an emergency."
+   }
+  ]
+ },
+ {
+  "inf": "jeter",
+  "en": "to throw (away)",
+  "group": 1,
+  "aux": "avoir",
+  "pp": "jeté",
+  "ppr": "jetant",
+  "qc": false,
+  "week": 10,
+  "t": {
+   "present": [
+    "je jette",
+    "tu jettes",
+    "il/elle/on jette",
+    "nous jetons",
+    "vous jetez",
+    "ils/elles jettent"
+   ],
+   "passe_compose": [
+    "j'ai jeté",
+    "tu as jeté",
+    "il/elle/on a jeté",
+    "nous avons jeté",
+    "vous avez jeté",
+    "ils/elles ont jeté"
+   ],
+   "imparfait": [
+    "je jetais",
+    "tu jetais",
+    "il/elle/on jetait",
+    "nous jetions",
+    "vous jetiez",
+    "ils/elles jetaient"
+   ],
+   "futur": [
+    "je jetterai",
+    "tu jetteras",
+    "il/elle/on jettera",
+    "nous jetterons",
+    "vous jetterez",
+    "ils/elles jetteront"
+   ],
+   "conditionnel": [
+    "je jetterais",
+    "tu jetterais",
+    "il/elle/on jetterait",
+    "nous jetterions",
+    "vous jetteriez",
+    "ils/elles jetteraient"
+   ],
+   "subjonctif": [
+    "que je jette",
+    "que tu jettes",
+    "qu'il/elle/on jette",
+    "que nous jetions",
+    "que vous jetiez",
+    "qu'ils/elles jettent"
+   ],
+   "plus_que_parfait": [
+    "j'avais jeté",
+    "tu avais jeté",
+    "il/elle/on avait jeté",
+    "nous avions jeté",
+    "vous aviez jeté",
+    "ils/elles avaient jeté"
+   ],
+   "imperatif": [
+    "jette",
+    "jetons",
+    "jetez"
+   ]
+  },
+  "examples": [
+   {
+    "fr": "Ne jette pas ça, c'est recyclable!",
+    "en": "Don't throw that out, it's recyclable!"
+   },
+   {
+    "fr": "J'ai jeté les vieux journaux.",
+    "en": "I threw out the old newspapers."
+   }
+  ]
+ },
+ {
+  "inf": "payer",
+  "en": "to pay (for)",
+  "group": 1,
+  "aux": "avoir",
+  "pp": "payé",
+  "ppr": "payant",
+  "qc": false,
+  "week": 10,
+  "t": {
+   "present": [
+    "je paie",
+    "tu paies",
+    "il/elle/on paie",
+    "nous payons",
+    "vous payez",
+    "ils/elles paient"
+   ],
+   "passe_compose": [
+    "j'ai payé",
+    "tu as payé",
+    "il/elle/on a payé",
+    "nous avons payé",
+    "vous avez payé",
+    "ils/elles ont payé"
+   ],
+   "imparfait": [
+    "je payais",
+    "tu payais",
+    "il/elle/on payait",
+    "nous payions",
+    "vous payiez",
+    "ils/elles payaient"
+   ],
+   "futur": [
+    "je paierai",
+    "tu paieras",
+    "il/elle/on paiera",
+    "nous paierons",
+    "vous paierez",
+    "ils/elles paieront"
+   ],
+   "conditionnel": [
+    "je paierais",
+    "tu paierais",
+    "il/elle/on paierait",
+    "nous paierions",
+    "vous paieriez",
+    "ils/elles paieraient"
+   ],
+   "subjonctif": [
+    "que je paie",
+    "que tu paies",
+    "qu'il/elle/on paie",
+    "que nous payions",
+    "que vous payiez",
+    "qu'ils/elles paient"
+   ],
+   "plus_que_parfait": [
+    "j'avais payé",
+    "tu avais payé",
+    "il/elle/on avait payé",
+    "nous avions payé",
+    "vous aviez payé",
+    "ils/elles avaient payé"
+   ],
+   "imperatif": [
+    "paie",
+    "payons",
+    "payez"
+   ]
+  },
+  "spoken_qc": "Both spellings are correct: je paie / je paye, je paierai / je payerai.",
+  "examples": [
+   {
+    "fr": "Je paie avec ma carte.",
+    "en": "I pay with my card."
+   },
+   {
+    "fr": "As-tu payé le loyer?",
+    "en": "Did you pay the rent?"
+   }
+  ]
+ },
+ {
+  "inf": "envoyer",
+  "en": "to send",
+  "group": 1,
+  "aux": "avoir",
+  "pp": "envoyé",
+  "ppr": "envoyant",
+  "qc": false,
+  "week": 10,
+  "t": {
+   "present": [
+    "j'envoie",
+    "tu envoies",
+    "il/elle/on envoie",
+    "nous envoyons",
+    "vous envoyez",
+    "ils/elles envoient"
+   ],
+   "passe_compose": [
+    "j'ai envoyé",
+    "tu as envoyé",
+    "il/elle/on a envoyé",
+    "nous avons envoyé",
+    "vous avez envoyé",
+    "ils/elles ont envoyé"
+   ],
+   "imparfait": [
+    "j'envoyais",
+    "tu envoyais",
+    "il/elle/on envoyait",
+    "nous envoyions",
+    "vous envoyiez",
+    "ils/elles envoyaient"
+   ],
+   "futur": [
+    "j'enverrai",
+    "tu enverras",
+    "il/elle/on enverra",
+    "nous enverrons",
+    "vous enverrez",
+    "ils/elles enverront"
+   ],
+   "conditionnel": [
+    "j'enverrais",
+    "tu enverrais",
+    "il/elle/on enverrait",
+    "nous enverrions",
+    "vous enverriez",
+    "ils/elles enverraient"
+   ],
+   "subjonctif": [
+    "que j'envoie",
+    "que tu envoies",
+    "qu'il/elle/on envoie",
+    "que nous envoyions",
+    "que vous envoyiez",
+    "qu'ils/elles envoient"
+   ],
+   "plus_que_parfait": [
+    "j'avais envoyé",
+    "tu avais envoyé",
+    "il/elle/on avait envoyé",
+    "nous avions envoyé",
+    "vous aviez envoyé",
+    "ils/elles avaient envoyé"
+   ],
+   "imperatif": [
+    "envoie",
+    "envoyons",
+    "envoyez"
+   ]
+  },
+  "spoken_qc": "Quebec speech (informal): \"envoye!\" = come on! / go ahead! / hurry up!",
+  "examples": [
+   {
+    "fr": "Envoie-moi un texto.",
+    "en": "Send me a text."
+   },
+   {
+    "fr": "J'ai envoyé le formulaire hier.",
+    "en": "I sent the form yesterday."
+   }
+  ]
+ },
+ {
+  "inf": "essayer",
+  "en": "to try",
+  "group": 1,
+  "aux": "avoir",
+  "pp": "essayé",
+  "ppr": "essayant",
+  "qc": false,
+  "week": 10,
+  "t": {
+   "present": [
+    "j'essaie",
+    "tu essaies",
+    "il/elle/on essaie",
+    "nous essayons",
+    "vous essayez",
+    "ils/elles essaient"
+   ],
+   "passe_compose": [
+    "j'ai essayé",
+    "tu as essayé",
+    "il/elle/on a essayé",
+    "nous avons essayé",
+    "vous avez essayé",
+    "ils/elles ont essayé"
+   ],
+   "imparfait": [
+    "j'essayais",
+    "tu essayais",
+    "il/elle/on essayait",
+    "nous essayions",
+    "vous essayiez",
+    "ils/elles essayaient"
+   ],
+   "futur": [
+    "j'essaierai",
+    "tu essaieras",
+    "il/elle/on essaiera",
+    "nous essaierons",
+    "vous essaierez",
+    "ils/elles essaieront"
+   ],
+   "conditionnel": [
+    "j'essaierais",
+    "tu essaierais",
+    "il/elle/on essaierait",
+    "nous essaierions",
+    "vous essaieriez",
+    "ils/elles essaieraient"
+   ],
+   "subjonctif": [
+    "que j'essaie",
+    "que tu essaies",
+    "qu'il/elle/on essaie",
+    "que nous essayions",
+    "que vous essayiez",
+    "qu'ils/elles essaient"
+   ],
+   "plus_que_parfait": [
+    "j'avais essayé",
+    "tu avais essayé",
+    "il/elle/on avait essayé",
+    "nous avions essayé",
+    "vous aviez essayé",
+    "ils/elles avaient essayé"
+   ],
+   "imperatif": [
+    "essaie",
+    "essayons",
+    "essayez"
+   ]
+  },
+  "spoken_qc": "Both spellings are correct: j'essaie / j'essaye, j'essaierai / j'essayerai.",
+  "examples": [
+   {
+    "fr": "Essaie encore!",
+    "en": "Try again!"
+   },
+   {
+    "fr": "J'ai essayé la tourtière pour la première fois.",
+    "en": "I tried tourtière for the first time."
+   }
+  ]
+ },
+ {
+  "inf": "commencer",
+  "en": "to begin, to start",
+  "group": 1,
+  "aux": "avoir",
+  "pp": "commencé",
+  "ppr": "commençant",
+  "qc": false,
+  "week": 10,
+  "t": {
+   "present": [
+    "je commence",
+    "tu commences",
+    "il/elle/on commence",
+    "nous commençons",
+    "vous commencez",
+    "ils/elles commencent"
+   ],
+   "passe_compose": [
+    "j'ai commencé",
+    "tu as commencé",
+    "il/elle/on a commencé",
+    "nous avons commencé",
+    "vous avez commencé",
+    "ils/elles ont commencé"
+   ],
+   "imparfait": [
+    "je commençais",
+    "tu commençais",
+    "il/elle/on commençait",
+    "nous commencions",
+    "vous commenciez",
+    "ils/elles commençaient"
+   ],
+   "futur": [
+    "je commencerai",
+    "tu commenceras",
+    "il/elle/on commencera",
+    "nous commencerons",
+    "vous commencerez",
+    "ils/elles commenceront"
+   ],
+   "conditionnel": [
+    "je commencerais",
+    "tu commencerais",
+    "il/elle/on commencerait",
+    "nous commencerions",
+    "vous commenceriez",
+    "ils/elles commenceraient"
+   ],
+   "subjonctif": [
+    "que je commence",
+    "que tu commences",
+    "qu'il/elle/on commence",
+    "que nous commencions",
+    "que vous commenciez",
+    "qu'ils/elles commencent"
+   ],
+   "plus_que_parfait": [
+    "j'avais commencé",
+    "tu avais commencé",
+    "il/elle/on avait commencé",
+    "nous avions commencé",
+    "vous aviez commencé",
+    "ils/elles avaient commencé"
+   ],
+   "imperatif": [
+    "commence",
+    "commençons",
+    "commencez"
+   ]
+  },
+  "examples": [
+   {
+    "fr": "Le cours commence à 9 h.",
+    "en": "The class starts at 9."
+   },
+   {
+    "fr": "Nous commençons à comprendre.",
+    "en": "We're starting to understand."
+   }
+  ]
+ },
+ {
+  "inf": "préférer",
+  "en": "to prefer",
+  "group": 1,
+  "aux": "avoir",
+  "pp": "préféré",
+  "ppr": "préférant",
+  "qc": false,
+  "week": 10,
+  "t": {
+   "present": [
+    "je préfère",
+    "tu préfères",
+    "il/elle/on préfère",
+    "nous préférons",
+    "vous préférez",
+    "ils/elles préfèrent"
+   ],
+   "passe_compose": [
+    "j'ai préféré",
+    "tu as préféré",
+    "il/elle/on a préféré",
+    "nous avons préféré",
+    "vous avez préféré",
+    "ils/elles ont préféré"
+   ],
+   "imparfait": [
+    "je préférais",
+    "tu préférais",
+    "il/elle/on préférait",
+    "nous préférions",
+    "vous préfériez",
+    "ils/elles préféraient"
+   ],
+   "futur": [
+    "je préférerai",
+    "tu préféreras",
+    "il/elle/on préférera",
+    "nous préférerons",
+    "vous préférerez",
+    "ils/elles préféreront"
+   ],
+   "conditionnel": [
+    "je préférerais",
+    "tu préférerais",
+    "il/elle/on préférerait",
+    "nous préférerions",
+    "vous préféreriez",
+    "ils/elles préféreraient"
+   ],
+   "subjonctif": [
+    "que je préfère",
+    "que tu préfères",
+    "qu'il/elle/on préfère",
+    "que nous préférions",
+    "que vous préfériez",
+    "qu'ils/elles préfèrent"
+   ],
+   "plus_que_parfait": [
+    "j'avais préféré",
+    "tu avais préféré",
+    "il/elle/on avait préféré",
+    "nous avions préféré",
+    "vous aviez préféré",
+    "ils/elles avaient préféré"
+   ],
+   "imperatif": [
+    "préfère",
+    "préférons",
+    "préférez"
+   ]
+  },
+  "examples": [
+   {
+    "fr": "Je préfère l'hiver à l'été.",
+    "en": "I prefer winter to summer."
+   },
+   {
+    "fr": "Qu'est-ce que tu préfères?",
+    "en": "What do you prefer?"
+   }
+  ]
+ },
+ {
+  "inf": "espérer",
+  "en": "to hope",
+  "group": 1,
+  "aux": "avoir",
+  "pp": "espéré",
+  "ppr": "espérant",
+  "qc": false,
+  "week": 10,
+  "t": {
+   "present": [
+    "j'espère",
+    "tu espères",
+    "il/elle/on espère",
+    "nous espérons",
+    "vous espérez",
+    "ils/elles espèrent"
+   ],
+   "passe_compose": [
+    "j'ai espéré",
+    "tu as espéré",
+    "il/elle/on a espéré",
+    "nous avons espéré",
+    "vous avez espéré",
+    "ils/elles ont espéré"
+   ],
+   "imparfait": [
+    "j'espérais",
+    "tu espérais",
+    "il/elle/on espérait",
+    "nous espérions",
+    "vous espériez",
+    "ils/elles espéraient"
+   ],
+   "futur": [
+    "j'espérerai",
+    "tu espéreras",
+    "il/elle/on espérera",
+    "nous espérerons",
+    "vous espérerez",
+    "ils/elles espéreront"
+   ],
+   "conditionnel": [
+    "j'espérerais",
+    "tu espérerais",
+    "il/elle/on espérerait",
+    "nous espérerions",
+    "vous espéreriez",
+    "ils/elles espéreraient"
+   ],
+   "subjonctif": [
+    "que j'espère",
+    "que tu espères",
+    "qu'il/elle/on espère",
+    "que nous espérions",
+    "que vous espériez",
+    "qu'ils/elles espèrent"
+   ],
+   "plus_que_parfait": [
+    "j'avais espéré",
+    "tu avais espéré",
+    "il/elle/on avait espéré",
+    "nous avions espéré",
+    "vous aviez espéré",
+    "ils/elles avaient espéré"
+   ],
+   "imperatif": [
+    "espère",
+    "espérons",
+    "espérez"
+   ]
+  },
+  "examples": [
+   {
+    "fr": "J'espère que tu vas bien.",
+    "en": "I hope you're well."
+   },
+   {
+    "fr": "Nous espérons visiter la Gaspésie cet été.",
+    "en": "We hope to visit the Gaspé Peninsula this summer."
+   }
+  ]
+ },
+ {
+  "inf": "se lever",
+  "en": "to get up",
+  "group": 1,
+  "aux": "être",
+  "pp": "levé",
+  "ppr": "se levant",
+  "qc": false,
+  "week": 30,
+  "t": {
+   "present": [
+    "je me lève",
+    "tu te lèves",
+    "il/elle/on se lève",
+    "nous nous levons",
+    "vous vous levez",
+    "ils/elles se lèvent"
+   ],
+   "passe_compose": [
+    "je me suis levé(e)",
+    "tu t'es levé(e)",
+    "il/elle/on s'est levé(e)",
+    "nous nous sommes levé(e)s",
+    "vous vous êtes levé(e)s",
+    "ils/elles se sont levé(e)s"
+   ],
+   "imparfait": [
+    "je me levais",
+    "tu te levais",
+    "il/elle/on se levait",
+    "nous nous levions",
+    "vous vous leviez",
+    "ils/elles se levaient"
+   ],
+   "futur": [
+    "je me lèverai",
+    "tu te lèveras",
+    "il/elle/on se lèvera",
+    "nous nous lèverons",
+    "vous vous lèverez",
+    "ils/elles se lèveront"
+   ],
+   "conditionnel": [
+    "je me lèverais",
+    "tu te lèverais",
+    "il/elle/on se lèverait",
+    "nous nous lèverions",
+    "vous vous lèveriez",
+    "ils/elles se lèveraient"
+   ],
+   "subjonctif": [
+    "que je me lève",
+    "que tu te lèves",
+    "qu'il/elle/on se lève",
+    "que nous nous levions",
+    "que vous vous leviez",
+    "qu'ils/elles se lèvent"
+   ],
+   "plus_que_parfait": [
+    "je m'étais levé(e)",
+    "tu t'étais levé(e)",
+    "il/elle/on s'était levé(e)",
+    "nous nous étions levé(e)s",
+    "vous vous étiez levé(e)s",
+    "ils/elles s'étaient levé(e)s"
+   ],
+   "imperatif": [
+    "lève-toi",
+    "levons-nous",
+    "levez-vous"
+   ]
+  },
+  "spoken_qc": "Quebec speech (informal): \"j'me lève\", \"lève-toi\" often sounds like \"lève-toé\".",
+  "examples": [
+   {
+    "fr": "Je me lève à 6 h.",
+    "en": "I get up at 6."
+   },
+   {
+    "fr": "Lève-toi, on est en retard!",
+    "en": "Get up, we're late!"
+   }
+  ]
+ },
+ {
+  "inf": "s'appeler",
+  "en": "to be called (one's name)",
+  "group": 1,
+  "aux": "être",
+  "pp": "appelé",
+  "ppr": "s'appelant",
+  "qc": false,
+  "week": 8,
+  "t": {
+   "present": [
+    "je m'appelle",
+    "tu t'appelles",
+    "il/elle/on s'appelle",
+    "nous nous appelons",
+    "vous vous appelez",
+    "ils/elles s'appellent"
+   ],
+   "passe_compose": [
+    "je me suis appelé(e)",
+    "tu t'es appelé(e)",
+    "il/elle/on s'est appelé(e)",
+    "nous nous sommes appelé(e)s",
+    "vous vous êtes appelé(e)s",
+    "ils/elles se sont appelé(e)s"
+   ],
+   "imparfait": [
+    "je m'appelais",
+    "tu t'appelais",
+    "il/elle/on s'appelait",
+    "nous nous appelions",
+    "vous vous appeliez",
+    "ils/elles s'appelaient"
+   ],
+   "futur": [
+    "je m'appellerai",
+    "tu t'appelleras",
+    "il/elle/on s'appellera",
+    "nous nous appellerons",
+    "vous vous appellerez",
+    "ils/elles s'appelleront"
+   ],
+   "conditionnel": [
+    "je m'appellerais",
+    "tu t'appellerais",
+    "il/elle/on s'appellerait",
+    "nous nous appellerions",
+    "vous vous appelleriez",
+    "ils/elles s'appelleraient"
+   ],
+   "subjonctif": [
+    "que je m'appelle",
+    "que tu t'appelles",
+    "qu'il/elle/on s'appelle",
+    "que nous nous appelions",
+    "que vous vous appeliez",
+    "qu'ils/elles s'appellent"
+   ],
+   "plus_que_parfait": [
+    "je m'étais appelé(e)",
+    "tu t'étais appelé(e)",
+    "il/elle/on s'était appelé(e)",
+    "nous nous étions appelé(e)s",
+    "vous vous étiez appelé(e)s",
+    "ils/elles s'étaient appelé(e)s"
+   ],
+   "imperatif": [
+    "appelle-toi",
+    "appelons-nous",
+    "appelez-vous"
+   ]
+  },
+  "spoken_qc": "Quebec speech (informal): \"comment tu t'appelles?\" or \"c'est quoi ton nom?\".",
+  "examples": [
+   {
+    "fr": "Je m'appelle Rishad.",
+    "en": "My name is Rishad."
+   },
+   {
+    "fr": "Comment tu t'appelles?",
+    "en": "What's your name?"
+   }
+  ]
+ },
+ {
+  "inf": "s'habiller",
+  "en": "to get dressed",
+  "group": 1,
+  "aux": "être",
+  "pp": "habillé",
+  "ppr": "s'habillant",
+  "qc": false,
+  "week": 30,
+  "t": {
+   "present": [
+    "je m'habille",
+    "tu t'habilles",
+    "il/elle/on s'habille",
+    "nous nous habillons",
+    "vous vous habillez",
+    "ils/elles s'habillent"
+   ],
+   "passe_compose": [
+    "je me suis habillé(e)",
+    "tu t'es habillé(e)",
+    "il/elle/on s'est habillé(e)",
+    "nous nous sommes habillé(e)s",
+    "vous vous êtes habillé(e)s",
+    "ils/elles se sont habillé(e)s"
+   ],
+   "imparfait": [
+    "je m'habillais",
+    "tu t'habillais",
+    "il/elle/on s'habillait",
+    "nous nous habillions",
+    "vous vous habilliez",
+    "ils/elles s'habillaient"
+   ],
+   "futur": [
+    "je m'habillerai",
+    "tu t'habilleras",
+    "il/elle/on s'habillera",
+    "nous nous habillerons",
+    "vous vous habillerez",
+    "ils/elles s'habilleront"
+   ],
+   "conditionnel": [
+    "je m'habillerais",
+    "tu t'habillerais",
+    "il/elle/on s'habillerait",
+    "nous nous habillerions",
+    "vous vous habilleriez",
+    "ils/elles s'habilleraient"
+   ],
+   "subjonctif": [
+    "que je m'habille",
+    "que tu t'habilles",
+    "qu'il/elle/on s'habille",
+    "que nous nous habillions",
+    "que vous vous habilliez",
+    "qu'ils/elles s'habillent"
+   ],
+   "plus_que_parfait": [
+    "je m'étais habillé(e)",
+    "tu t'étais habillé(e)",
+    "il/elle/on s'était habillé(e)",
+    "nous nous étions habillé(e)s",
+    "vous vous étiez habillé(e)s",
+    "ils/elles s'étaient habillé(e)s"
+   ],
+   "imperatif": [
+    "habille-toi",
+    "habillons-nous",
+    "habillez-vous"
+   ]
+  },
+  "spoken_qc": "Quebec speech (informal): \"habille-toé chaudement\"; \"se grouiller\" = to hurry up.",
+  "examples": [
+   {
+    "fr": "Habille-toi chaudement, il fait −20!",
+    "en": "Dress warmly, it's −20!"
+   },
+   {
+    "fr": "Elle s'est habillée en vitesse.",
+    "en": "She got dressed in a hurry."
+   }
+  ]
+ },
+ {
+  "inf": "se souvenir",
+  "en": "to remember",
+  "group": 3,
+  "aux": "être",
+  "pp": "souvenu",
+  "ppr": "se souvenant",
+  "qc": false,
+  "week": 30,
+  "t": {
+   "present": [
+    "je me souviens",
+    "tu te souviens",
+    "il/elle/on se souvient",
+    "nous nous souvenons",
+    "vous vous souvenez",
+    "ils/elles se souviennent"
+   ],
+   "passe_compose": [
+    "je me suis souvenu(e)",
+    "tu t'es souvenu(e)",
+    "il/elle/on s'est souvenu(e)",
+    "nous nous sommes souvenu(e)s",
+    "vous vous êtes souvenu(e)s",
+    "ils/elles se sont souvenu(e)s"
+   ],
+   "imparfait": [
+    "je me souvenais",
+    "tu te souvenais",
+    "il/elle/on se souvenait",
+    "nous nous souvenions",
+    "vous vous souveniez",
+    "ils/elles se souvenaient"
+   ],
+   "futur": [
+    "je me souviendrai",
+    "tu te souviendras",
+    "il/elle/on se souviendra",
+    "nous nous souviendrons",
+    "vous vous souviendrez",
+    "ils/elles se souviendront"
+   ],
+   "conditionnel": [
+    "je me souviendrais",
+    "tu te souviendrais",
+    "il/elle/on se souviendrait",
+    "nous nous souviendrions",
+    "vous vous souviendriez",
+    "ils/elles se souviendraient"
+   ],
+   "subjonctif": [
+    "que je me souvienne",
+    "que tu te souviennes",
+    "qu'il/elle/on se souvienne",
+    "que nous nous souvenions",
+    "que vous vous souveniez",
+    "qu'ils/elles se souviennent"
+   ],
+   "plus_que_parfait": [
+    "je m'étais souvenu(e)",
+    "tu t'étais souvenu(e)",
+    "il/elle/on s'était souvenu(e)",
+    "nous nous étions souvenu(e)s",
+    "vous vous étiez souvenu(e)s",
+    "ils/elles s'étaient souvenu(e)s"
+   ],
+   "imperatif": [
+    "souviens-toi",
+    "souvenons-nous",
+    "souvenez-vous"
+   ]
+  },
+  "spoken_qc": "\"Je me souviens\" is Quebec's official motto (on licence plates). Informal speech: \"j'm'en rappelle\" is also common.",
+  "examples": [
+   {
+    "fr": "Je me souviens.",
+    "en": "I remember. (Quebec's motto)"
+   },
+   {
+    "fr": "Te souviens-tu de son nom?",
+    "en": "Do you remember his name?"
+   }
+  ]
+ },
+ {
+  "inf": "s'asseoir",
+  "en": "to sit down",
+  "group": 3,
+  "aux": "être",
+  "pp": "assis",
+  "ppr": "s'asseyant",
+  "qc": false,
+  "week": 30,
+  "t": {
+   "present": [
+    "je m'assieds",
+    "tu t'assieds",
+    "il/elle/on s'assied",
+    "nous nous asseyons",
+    "vous vous asseyez",
+    "ils/elles s'asseyent"
+   ],
+   "passe_compose": [
+    "je me suis assis(e)",
+    "tu t'es assis(e)",
+    "il/elle/on s'est assis(e)",
+    "nous nous sommes assis(es)",
+    "vous vous êtes assis(es)",
+    "ils/elles se sont assis(es)"
+   ],
+   "imparfait": [
+    "je m'asseyais",
+    "tu t'asseyais",
+    "il/elle/on s'asseyait",
+    "nous nous asseyions",
+    "vous vous asseyiez",
+    "ils/elles s'asseyaient"
+   ],
+   "futur": [
+    "je m'assiérai",
+    "tu t'assiéras",
+    "il/elle/on s'assiéra",
+    "nous nous assiérons",
+    "vous vous assiérez",
+    "ils/elles s'assiéront"
+   ],
+   "conditionnel": [
+    "je m'assiérais",
+    "tu t'assiérais",
+    "il/elle/on s'assiérait",
+    "nous nous assiérions",
+    "vous vous assiériez",
+    "ils/elles s'assiéraient"
+   ],
+   "subjonctif": [
+    "que je m'asseye",
+    "que tu t'asseyes",
+    "qu'il/elle/on s'asseye",
+    "que nous nous asseyions",
+    "que vous vous asseyiez",
+    "qu'ils/elles s'asseyent"
+   ],
+   "plus_que_parfait": [
+    "je m'étais assis(e)",
+    "tu t'étais assis(e)",
+    "il/elle/on s'était assis(e)",
+    "nous nous étions assis(es)",
+    "vous vous étiez assis(es)",
+    "ils/elles s'étaient assis(es)"
+   ],
+   "imperatif": [
+    "assieds-toi",
+    "asseyons-nous",
+    "asseyez-vous"
+   ]
+  },
+  "spoken_qc": "Also correct: je m'assois, nous nous assoyons, je m'assoirai. Quebec speech (informal): \"assis-toi\" / \"assisez-vous\" (avoid in writing).",
+  "examples": [
+   {
+    "fr": "Asseyez-vous, s'il vous plaît.",
+    "en": "Sit down, please."
+   },
+   {
+    "fr": "Je me suis assis à côté de la fenêtre.",
+    "en": "I sat down by the window."
+   }
+  ]
+ },
+ {
+  "inf": "falloir",
+  "en": "to be necessary, must (impersonal)",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "fallu",
+  "ppr": "—",
+  "qc": false,
+  "week": 73,
+  "t": {
+   "present": [
+    "il faut"
+   ],
+   "passe_compose": [
+    "il a fallu"
+   ],
+   "imparfait": [
+    "il fallait"
+   ],
+   "futur": [
+    "il faudra"
+   ],
+   "conditionnel": [
+    "il faudrait"
+   ],
+   "subjonctif": [
+    "qu'il faille"
+   ],
+   "plus_que_parfait": [
+    "il avait fallu"
+   ],
+   "imperatif": []
+  },
+  "spoken_qc": "Quebec speech (informal): the \"il\" is dropped: \"faut que j'y aille\", \"faudrait\".",
+  "examples": [
+   {
+    "fr": "Il faut déneiger l'entrée.",
+    "en": "The driveway needs to be cleared of snow."
+   },
+   {
+    "fr": "Il faut que tu viennes.",
+    "en": "You have to come."
+   }
+  ]
+ },
+ {
+  "inf": "pleuvoir",
+  "en": "to rain (impersonal)",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "plu",
+  "ppr": "pleuvant",
+  "qc": false,
+  "week": 73,
+  "t": {
+   "present": [
+    "il pleut"
+   ],
+   "passe_compose": [
+    "il a plu"
+   ],
+   "imparfait": [
+    "il pleuvait"
+   ],
+   "futur": [
+    "il pleuvra"
+   ],
+   "conditionnel": [
+    "il pleuvrait"
+   ],
+   "subjonctif": [
+    "qu'il pleuve"
+   ],
+   "plus_que_parfait": [
+    "il avait plu"
+   ],
+   "imperatif": []
+  },
+  "spoken_qc": "Quebec speech (informal): \"y mouille\" = it's raining; \"y pleut à boire debout\" = it's pouring.",
+  "examples": [
+   {
+    "fr": "Il pleut depuis ce matin.",
+    "en": "It's been raining since this morning."
+   },
+   {
+    "fr": "Il a plu toute la fin de semaine.",
+    "en": "It rained all weekend."
+   }
+  ]
+ },
+ {
+  "inf": "plaire",
+  "en": "to please",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "plu",
+  "ppr": "plaisant",
+  "qc": false,
+  "week": 71,
+  "t": {
+   "present": [
+    "je plais",
+    "tu plais",
+    "il/elle/on plaît",
+    "nous plaisons",
+    "vous plaisez",
+    "ils/elles plaisent"
+   ],
+   "passe_compose": [
+    "j'ai plu",
+    "tu as plu",
+    "il/elle/on a plu",
+    "nous avons plu",
+    "vous avez plu",
+    "ils/elles ont plu"
+   ],
+   "imparfait": [
+    "je plaisais",
+    "tu plaisais",
+    "il/elle/on plaisait",
+    "nous plaisions",
+    "vous plaisiez",
+    "ils/elles plaisaient"
+   ],
+   "futur": [
+    "je plairai",
+    "tu plairas",
+    "il/elle/on plaira",
+    "nous plairons",
+    "vous plairez",
+    "ils/elles plairont"
+   ],
+   "conditionnel": [
+    "je plairais",
+    "tu plairais",
+    "il/elle/on plairait",
+    "nous plairions",
+    "vous plairiez",
+    "ils/elles plairaient"
+   ],
+   "subjonctif": [
+    "que je plaise",
+    "que tu plaises",
+    "qu'il/elle/on plaise",
+    "que nous plaisions",
+    "que vous plaisiez",
+    "qu'ils/elles plaisent"
+   ],
+   "plus_que_parfait": [
+    "j'avais plu",
+    "tu avais plu",
+    "il/elle/on avait plu",
+    "nous avions plu",
+    "vous aviez plu",
+    "ils/elles avaient plu"
+   ],
+   "imperatif": [
+    "plais",
+    "plaisons",
+    "plaisez"
+   ]
+  },
+  "examples": [
+   {
+    "fr": "Ça me plaît beaucoup.",
+    "en": "I really like it."
+   },
+   {
+    "fr": "Est-ce que le spectacle t'a plu?",
+    "en": "Did you like the show?"
+   }
+  ]
+ },
+ {
+  "inf": "suivre",
+  "en": "to follow; to take (a course)",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "suivi",
+  "ppr": "suivant",
+  "qc": false,
+  "week": 62,
+  "t": {
+   "present": [
+    "je suis",
+    "tu suis",
+    "il/elle/on suit",
+    "nous suivons",
+    "vous suivez",
+    "ils/elles suivent"
+   ],
+   "passe_compose": [
+    "j'ai suivi",
+    "tu as suivi",
+    "il/elle/on a suivi",
+    "nous avons suivi",
+    "vous avez suivi",
+    "ils/elles ont suivi"
+   ],
+   "imparfait": [
+    "je suivais",
+    "tu suivais",
+    "il/elle/on suivait",
+    "nous suivions",
+    "vous suiviez",
+    "ils/elles suivaient"
+   ],
+   "futur": [
+    "je suivrai",
+    "tu suivras",
+    "il/elle/on suivra",
+    "nous suivrons",
+    "vous suivrez",
+    "ils/elles suivront"
+   ],
+   "conditionnel": [
+    "je suivrais",
+    "tu suivrais",
+    "il/elle/on suivrait",
+    "nous suivrions",
+    "vous suivriez",
+    "ils/elles suivraient"
+   ],
+   "subjonctif": [
+    "que je suive",
+    "que tu suives",
+    "qu'il/elle/on suive",
+    "que nous suivions",
+    "que vous suiviez",
+    "qu'ils/elles suivent"
+   ],
+   "plus_que_parfait": [
+    "j'avais suivi",
+    "tu avais suivi",
+    "il/elle/on avait suivi",
+    "nous avions suivi",
+    "vous aviez suivi",
+    "ils/elles avaient suivi"
+   ],
+   "imperatif": [
+    "suis",
+    "suivons",
+    "suivez"
+   ]
+  },
+  "examples": [
+   {
+    "fr": "Je suis un cours de français.",
+    "en": "I'm taking a French class."
+   },
+   {
+    "fr": "Suivez-moi, s'il vous plaît.",
+    "en": "Follow me, please."
+   }
+  ]
+ },
+ {
+  "inf": "conduire",
+  "en": "to drive",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "conduit",
+  "ppr": "conduisant",
+  "qc": false,
+  "week": 62,
+  "t": {
+   "present": [
+    "je conduis",
+    "tu conduis",
+    "il/elle/on conduit",
+    "nous conduisons",
+    "vous conduisez",
+    "ils/elles conduisent"
+   ],
+   "passe_compose": [
+    "j'ai conduit",
+    "tu as conduit",
+    "il/elle/on a conduit",
+    "nous avons conduit",
+    "vous avez conduit",
+    "ils/elles ont conduit"
+   ],
+   "imparfait": [
+    "je conduisais",
+    "tu conduisais",
+    "il/elle/on conduisait",
+    "nous conduisions",
+    "vous conduisiez",
+    "ils/elles conduisaient"
+   ],
+   "futur": [
+    "je conduirai",
+    "tu conduiras",
+    "il/elle/on conduira",
+    "nous conduirons",
+    "vous conduirez",
+    "ils/elles conduiront"
+   ],
+   "conditionnel": [
+    "je conduirais",
+    "tu conduirais",
+    "il/elle/on conduirait",
+    "nous conduirions",
+    "vous conduiriez",
+    "ils/elles conduiraient"
+   ],
+   "subjonctif": [
+    "que je conduise",
+    "que tu conduises",
+    "qu'il/elle/on conduise",
+    "que nous conduisions",
+    "que vous conduisiez",
+    "qu'ils/elles conduisent"
+   ],
+   "plus_que_parfait": [
+    "j'avais conduit",
+    "tu avais conduit",
+    "il/elle/on avait conduit",
+    "nous avions conduit",
+    "vous aviez conduit",
+    "ils/elles avaient conduit"
+   ],
+   "imperatif": [
+    "conduis",
+    "conduisons",
+    "conduisez"
+   ]
+  },
+  "spoken_qc": "Quebec usage (informal): \"chauffer\" = to drive (\"y chauffe un char\").",
+  "examples": [
+   {
+    "fr": "Je conduis pour aller au travail.",
+    "en": "I drive to work."
+   },
+   {
+    "fr": "As-tu déjà conduit dans une tempête de neige?",
+    "en": "Have you ever driven in a snowstorm?"
+   }
+  ]
+ },
+ {
+  "inf": "produire",
+  "en": "to produce",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "produit",
+  "ppr": "produisant",
+  "qc": false,
+  "week": 101,
+  "t": {
+   "present": [
+    "je produis",
+    "tu produis",
+    "il/elle/on produit",
+    "nous produisons",
+    "vous produisez",
+    "ils/elles produisent"
+   ],
+   "passe_compose": [
+    "j'ai produit",
+    "tu as produit",
+    "il/elle/on a produit",
+    "nous avons produit",
+    "vous avez produit",
+    "ils/elles ont produit"
+   ],
+   "imparfait": [
+    "je produisais",
+    "tu produisais",
+    "il/elle/on produisait",
+    "nous produisions",
+    "vous produisiez",
+    "ils/elles produisaient"
+   ],
+   "futur": [
+    "je produirai",
+    "tu produiras",
+    "il/elle/on produira",
+    "nous produirons",
+    "vous produirez",
+    "ils/elles produiront"
+   ],
+   "conditionnel": [
+    "je produirais",
+    "tu produirais",
+    "il/elle/on produirait",
+    "nous produirions",
+    "vous produiriez",
+    "ils/elles produiraient"
+   ],
+   "subjonctif": [
+    "que je produise",
+    "que tu produises",
+    "qu'il/elle/on produise",
+    "que nous produisions",
+    "que vous produisiez",
+    "qu'ils/elles produisent"
+   ],
+   "plus_que_parfait": [
+    "j'avais produit",
+    "tu avais produit",
+    "il/elle/on avait produit",
+    "nous avions produit",
+    "vous aviez produit",
+    "ils/elles avaient produit"
+   ],
+   "imperatif": [
+    "produis",
+    "produisons",
+    "produisez"
+   ]
+  },
+  "examples": [
+   {
+    "fr": "Le Québec produit beaucoup de sirop d'érable.",
+    "en": "Quebec produces a lot of maple syrup."
+   },
+   {
+    "fr": "Qu'est-ce qui s'est produit?",
+    "en": "What happened?"
+   }
+  ]
+ },
+ {
+  "inf": "craindre",
+  "en": "to fear",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "craint",
+  "ppr": "craignant",
+  "qc": false,
+  "week": 86,
+  "t": {
+   "present": [
+    "je crains",
+    "tu crains",
+    "il/elle/on craint",
+    "nous craignons",
+    "vous craignez",
+    "ils/elles craignent"
+   ],
+   "passe_compose": [
+    "j'ai craint",
+    "tu as craint",
+    "il/elle/on a craint",
+    "nous avons craint",
+    "vous avez craint",
+    "ils/elles ont craint"
+   ],
+   "imparfait": [
+    "je craignais",
+    "tu craignais",
+    "il/elle/on craignait",
+    "nous craignions",
+    "vous craigniez",
+    "ils/elles craignaient"
+   ],
+   "futur": [
+    "je craindrai",
+    "tu craindras",
+    "il/elle/on craindra",
+    "nous craindrons",
+    "vous craindrez",
+    "ils/elles craindront"
+   ],
+   "conditionnel": [
+    "je craindrais",
+    "tu craindrais",
+    "il/elle/on craindrait",
+    "nous craindrions",
+    "vous craindriez",
+    "ils/elles craindraient"
+   ],
+   "subjonctif": [
+    "que je craigne",
+    "que tu craignes",
+    "qu'il/elle/on craigne",
+    "que nous craignions",
+    "que vous craigniez",
+    "qu'ils/elles craignent"
+   ],
+   "plus_que_parfait": [
+    "j'avais craint",
+    "tu avais craint",
+    "il/elle/on avait craint",
+    "nous avions craint",
+    "vous aviez craint",
+    "ils/elles avaient craint"
+   ],
+   "imperatif": [
+    "crains",
+    "craignons",
+    "craignez"
+   ]
+  },
+  "examples": [
+   {
+    "fr": "Il ne craint pas le froid.",
+    "en": "He isn't afraid of the cold."
+   },
+   {
+    "fr": "Je crains qu'il soit trop tard.",
+    "en": "I'm afraid it's too late."
+   }
+  ]
+ },
+ {
+  "inf": "peindre",
+  "en": "to paint",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "peint",
+  "ppr": "peignant",
+  "qc": false,
+  "week": 38,
+  "t": {
+   "present": [
+    "je peins",
+    "tu peins",
+    "il/elle/on peint",
+    "nous peignons",
+    "vous peignez",
+    "ils/elles peignent"
+   ],
+   "passe_compose": [
+    "j'ai peint",
+    "tu as peint",
+    "il/elle/on a peint",
+    "nous avons peint",
+    "vous avez peint",
+    "ils/elles ont peint"
+   ],
+   "imparfait": [
+    "je peignais",
+    "tu peignais",
+    "il/elle/on peignait",
+    "nous peignions",
+    "vous peigniez",
+    "ils/elles peignaient"
+   ],
+   "futur": [
+    "je peindrai",
+    "tu peindras",
+    "il/elle/on peindra",
+    "nous peindrons",
+    "vous peindrez",
+    "ils/elles peindront"
+   ],
+   "conditionnel": [
+    "je peindrais",
+    "tu peindrais",
+    "il/elle/on peindrait",
+    "nous peindrions",
+    "vous peindriez",
+    "ils/elles peindraient"
+   ],
+   "subjonctif": [
+    "que je peigne",
+    "que tu peignes",
+    "qu'il/elle/on peigne",
+    "que nous peignions",
+    "que vous peigniez",
+    "qu'ils/elles peignent"
+   ],
+   "plus_que_parfait": [
+    "j'avais peint",
+    "tu avais peint",
+    "il/elle/on avait peint",
+    "nous avions peint",
+    "vous aviez peint",
+    "ils/elles avaient peint"
+   ],
+   "imperatif": [
+    "peins",
+    "peignons",
+    "peignez"
+   ]
+  },
+  "examples": [
+   {
+    "fr": "Nous peignons la cuisine en blanc.",
+    "en": "We're painting the kitchen white."
+   },
+   {
+    "fr": "Elle a peint un paysage de Charlevoix.",
+    "en": "She painted a Charlevoix landscape."
+   }
+  ]
+ },
+ {
+  "inf": "aimer",
+  "en": "to like, to love",
+  "group": 1,
+  "aux": "avoir",
+  "pp": "aimé",
+  "ppr": "aimant",
+  "qc": false,
+  "week": 10,
+  "t": {
+   "present": [
+    "j'aime",
+    "tu aimes",
+    "il/elle/on aime",
+    "nous aimons",
+    "vous aimez",
+    "ils/elles aiment"
+   ],
+   "passe_compose": [
+    "j'ai aimé",
+    "tu as aimé",
+    "il/elle/on a aimé",
+    "nous avons aimé",
+    "vous avez aimé",
+    "ils/elles ont aimé"
+   ],
+   "imparfait": [
+    "j'aimais",
+    "tu aimais",
+    "il/elle/on aimait",
+    "nous aimions",
+    "vous aimiez",
+    "ils/elles aimaient"
+   ],
+   "futur": [
+    "j'aimerai",
+    "tu aimeras",
+    "il/elle/on aimera",
+    "nous aimerons",
+    "vous aimerez",
+    "ils/elles aimeront"
+   ],
+   "conditionnel": [
+    "j'aimerais",
+    "tu aimerais",
+    "il/elle/on aimerait",
+    "nous aimerions",
+    "vous aimeriez",
+    "ils/elles aimeraient"
+   ],
+   "subjonctif": [
+    "que j'aime",
+    "que tu aimes",
+    "qu'il/elle/on aime",
+    "que nous aimions",
+    "que vous aimiez",
+    "qu'ils/elles aiment"
+   ],
+   "plus_que_parfait": [
+    "j'avais aimé",
+    "tu avais aimé",
+    "il/elle/on avait aimé",
+    "nous avions aimé",
+    "vous aviez aimé",
+    "ils/elles avaient aimé"
+   ],
+   "imperatif": [
+    "aime",
+    "aimons",
+    "aimez"
+   ]
+  },
+  "spoken_qc": "Quebec speech (informal): \"j'aimerais ça\" = I'd like that; \"j'aime ça\" is the usual way to say you like something.",
+  "examples": [
+   {
+    "fr": "J'aime le hockey.",
+    "en": "I like hockey."
+   },
+   {
+    "fr": "Aimerais-tu venir souper chez nous?",
+    "en": "Would you like to come for supper at our place?"
+   }
+  ]
+ },
+ {
+  "inf": "permettre",
+  "en": "to allow",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "permis",
+  "ppr": "permettant",
+  "qc": false,
+  "week": 71,
+  "t": {
+   "present": [
+    "je permets",
+    "tu permets",
+    "il/elle/on permet",
+    "nous permettons",
+    "vous permettez",
+    "ils/elles permettent"
+   ],
+   "passe_compose": [
+    "j'ai permis",
+    "tu as permis",
+    "il/elle/on a permis",
+    "nous avons permis",
+    "vous avez permis",
+    "ils/elles ont permis"
+   ],
+   "imparfait": [
+    "je permettais",
+    "tu permettais",
+    "il/elle/on permettait",
+    "nous permettions",
+    "vous permettiez",
+    "ils/elles permettaient"
+   ],
+   "futur": [
+    "je permettrai",
+    "tu permettras",
+    "il/elle/on permettra",
+    "nous permettrons",
+    "vous permettrez",
+    "ils/elles permettront"
+   ],
+   "conditionnel": [
+    "je permettrais",
+    "tu permettrais",
+    "il/elle/on permettrait",
+    "nous permettrions",
+    "vous permettriez",
+    "ils/elles permettraient"
+   ],
+   "subjonctif": [
+    "que je permette",
+    "que tu permettes",
+    "qu'il/elle/on permette",
+    "que nous permettions",
+    "que vous permettiez",
+    "qu'ils/elles permettent"
+   ],
+   "plus_que_parfait": [
+    "j'avais permis",
+    "tu avais permis",
+    "il/elle/on avait permis",
+    "nous avions permis",
+    "vous aviez permis",
+    "ils/elles avaient permis"
+   ],
+   "imperatif": [
+    "permets",
+    "permettons",
+    "permettez"
+   ]
+  },
+  "examples": [
+   {
+    "fr": "Permettez-moi de me présenter.",
+    "en": "Allow me to introduce myself."
+   },
+   {
+    "fr": "Mes parents ne m'ont pas permis de sortir.",
+    "en": "My parents didn't let me go out."
+   }
+  ]
+ },
+ {
+  "inf": "promettre",
+  "en": "to promise",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "promis",
+  "ppr": "promettant",
+  "qc": false,
+  "week": 54,
+  "t": {
+   "present": [
+    "je promets",
+    "tu promets",
+    "il/elle/on promet",
+    "nous promettons",
+    "vous promettez",
+    "ils/elles promettent"
+   ],
+   "passe_compose": [
+    "j'ai promis",
+    "tu as promis",
+    "il/elle/on a promis",
+    "nous avons promis",
+    "vous avez promis",
+    "ils/elles ont promis"
+   ],
+   "imparfait": [
+    "je promettais",
+    "tu promettais",
+    "il/elle/on promettait",
+    "nous promettions",
+    "vous promettiez",
+    "ils/elles promettaient"
+   ],
+   "futur": [
+    "je promettrai",
+    "tu promettras",
+    "il/elle/on promettra",
+    "nous promettrons",
+    "vous promettrez",
+    "ils/elles promettront"
+   ],
+   "conditionnel": [
+    "je promettrais",
+    "tu promettrais",
+    "il/elle/on promettrait",
+    "nous promettrions",
+    "vous promettriez",
+    "ils/elles promettraient"
+   ],
+   "subjonctif": [
+    "que je promette",
+    "que tu promettes",
+    "qu'il/elle/on promette",
+    "que nous promettions",
+    "que vous promettiez",
+    "qu'ils/elles promettent"
+   ],
+   "plus_que_parfait": [
+    "j'avais promis",
+    "tu avais promis",
+    "il/elle/on avait promis",
+    "nous avions promis",
+    "vous aviez promis",
+    "ils/elles avaient promis"
+   ],
+   "imperatif": [
+    "promets",
+    "promettons",
+    "promettez"
+   ]
+  },
+  "examples": [
+   {
+    "fr": "Je te promets de revenir.",
+    "en": "I promise you I'll come back."
+   },
+   {
+    "fr": "Il a promis d'appeler.",
+    "en": "He promised to call."
+   }
+  ]
+ },
+ {
+  "inf": "offrir",
+  "en": "to offer; to give (a gift)",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "offert",
+  "ppr": "offrant",
+  "qc": false,
+  "week": 37,
+  "t": {
+   "present": [
+    "j'offre",
+    "tu offres",
+    "il/elle/on offre",
+    "nous offrons",
+    "vous offrez",
+    "ils/elles offrent"
+   ],
+   "passe_compose": [
+    "j'ai offert",
+    "tu as offert",
+    "il/elle/on a offert",
+    "nous avons offert",
+    "vous avez offert",
+    "ils/elles ont offert"
+   ],
+   "imparfait": [
+    "j'offrais",
+    "tu offrais",
+    "il/elle/on offrait",
+    "nous offrions",
+    "vous offriez",
+    "ils/elles offraient"
+   ],
+   "futur": [
+    "j'offrirai",
+    "tu offriras",
+    "il/elle/on offrira",
+    "nous offrirons",
+    "vous offrirez",
+    "ils/elles offriront"
+   ],
+   "conditionnel": [
+    "j'offrirais",
+    "tu offrirais",
+    "il/elle/on offrirait",
+    "nous offririons",
+    "vous offririez",
+    "ils/elles offriraient"
+   ],
+   "subjonctif": [
+    "que j'offre",
+    "que tu offres",
+    "qu'il/elle/on offre",
+    "que nous offrions",
+    "que vous offriez",
+    "qu'ils/elles offrent"
+   ],
+   "plus_que_parfait": [
+    "j'avais offert",
+    "tu avais offert",
+    "il/elle/on avait offert",
+    "nous avions offert",
+    "vous aviez offert",
+    "ils/elles avaient offert"
+   ],
+   "imperatif": [
+    "offre",
+    "offrons",
+    "offrez"
+   ]
+  },
+  "examples": [
+   {
+    "fr": "Je t'offre un café?",
+    "en": "Can I buy you a coffee?"
+   },
+   {
+    "fr": "Ils nous ont offert un cadeau.",
+    "en": "They gave us a gift."
+   }
+  ]
+ },
+ {
+  "inf": "souffrir",
+  "en": "to suffer",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "souffert",
+  "ppr": "souffrant",
+  "qc": false,
+  "week": 64,
+  "t": {
+   "present": [
+    "je souffre",
+    "tu souffres",
+    "il/elle/on souffre",
+    "nous souffrons",
+    "vous souffrez",
+    "ils/elles souffrent"
+   ],
+   "passe_compose": [
+    "j'ai souffert",
+    "tu as souffert",
+    "il/elle/on a souffert",
+    "nous avons souffert",
+    "vous avez souffert",
+    "ils/elles ont souffert"
+   ],
+   "imparfait": [
+    "je souffrais",
+    "tu souffrais",
+    "il/elle/on souffrait",
+    "nous souffrions",
+    "vous souffriez",
+    "ils/elles souffraient"
+   ],
+   "futur": [
+    "je souffrirai",
+    "tu souffriras",
+    "il/elle/on souffrira",
+    "nous souffrirons",
+    "vous souffrirez",
+    "ils/elles souffriront"
+   ],
+   "conditionnel": [
+    "je souffrirais",
+    "tu souffrirais",
+    "il/elle/on souffrirait",
+    "nous souffririons",
+    "vous souffririez",
+    "ils/elles souffriraient"
+   ],
+   "subjonctif": [
+    "que je souffre",
+    "que tu souffres",
+    "qu'il/elle/on souffre",
+    "que nous souffrions",
+    "que vous souffriez",
+    "qu'ils/elles souffrent"
+   ],
+   "plus_que_parfait": [
+    "j'avais souffert",
+    "tu avais souffert",
+    "il/elle/on avait souffert",
+    "nous avions souffert",
+    "vous aviez souffert",
+    "ils/elles avaient souffert"
+   ],
+   "imperatif": [
+    "souffre",
+    "souffrons",
+    "souffrez"
+   ]
+  },
+  "examples": [
+   {
+    "fr": "Il souffre d'allergies au printemps.",
+    "en": "He suffers from allergies in the spring."
+   },
+   {
+    "fr": "Elle a beaucoup souffert.",
+    "en": "She suffered a lot."
+   }
+  ]
+ },
+ {
+  "inf": "valoir",
+  "en": "to be worth",
+  "group": 3,
+  "aux": "avoir",
+  "pp": "valu",
+  "ppr": "valant",
+  "qc": false,
+  "week": 85,
+  "t": {
+   "present": [
+    "je vaux",
+    "tu vaux",
+    "il/elle/on vaut",
+    "nous valons",
+    "vous valez",
+    "ils/elles valent"
+   ],
+   "passe_compose": [
+    "j'ai valu",
+    "tu as valu",
+    "il/elle/on a valu",
+    "nous avons valu",
+    "vous avez valu",
+    "ils/elles ont valu"
+   ],
+   "imparfait": [
+    "je valais",
+    "tu valais",
+    "il/elle/on valait",
+    "nous valions",
+    "vous valiez",
+    "ils/elles valaient"
+   ],
+   "futur": [
+    "je vaudrai",
+    "tu vaudras",
+    "il/elle/on vaudra",
+    "nous vaudrons",
+    "vous vaudrez",
+    "ils/elles vaudront"
+   ],
+   "conditionnel": [
+    "je vaudrais",
+    "tu vaudrais",
+    "il/elle/on vaudrait",
+    "nous vaudrions",
+    "vous vaudriez",
+    "ils/elles vaudraient"
+   ],
+   "subjonctif": [
+    "que je vaille",
+    "que tu vailles",
+    "qu'il/elle/on vaille",
+    "que nous valions",
+    "que vous valiez",
+    "qu'ils/elles vaillent"
+   ],
+   "plus_que_parfait": [
+    "j'avais valu",
+    "tu avais valu",
+    "il/elle/on avait valu",
+    "nous avions valu",
+    "vous aviez valu",
+    "ils/elles avaient valu"
+   ],
+   "imperatif": []
+  },
+  "spoken_qc": "Quebec speech (informal): \"ça vaut pas la peine\", \"ça vaut la shot\" (it's worth a try).",
+  "examples": [
+   {
+    "fr": "Ça vaut la peine.",
+    "en": "It's worth it."
+   },
+   {
+    "fr": "Il vaut mieux partir tôt.",
+    "en": "It's better to leave early."
+   }
+  ]
+ },
+ {
+  "inf": "s'en aller",
+  "en": "to go away, to leave",
+  "group": 3,
+  "aux": "être",
+  "pp": "allé",
+  "ppr": "s'en allant",
+  "qc": false,
+  "week": 144,
+  "t": {
+   "present": [
+    "je m'en vais",
+    "tu t'en vas",
+    "il/elle/on s'en va",
+    "nous nous en allons",
+    "vous vous en allez",
+    "ils/elles s'en vont"
+   ],
+   "passe_compose": [
+    "je m'en suis allé(e)",
+    "tu t'en es allé(e)",
+    "il/elle/on s'en est allé(e)",
+    "nous nous en sommes allé(e)s",
+    "vous vous en êtes allé(e)s",
+    "ils/elles s'en sont allé(e)s"
+   ],
+   "imparfait": [
+    "je m'en allais",
+    "tu t'en allais",
+    "il/elle/on s'en allait",
+    "nous nous en allions",
+    "vous vous en alliez",
+    "ils/elles s'en allaient"
+   ],
+   "futur": [
+    "je m'en irai",
+    "tu t'en iras",
+    "il/elle/on s'en ira",
+    "nous nous en irons",
+    "vous vous en irez",
+    "ils/elles s'en iront"
+   ],
+   "conditionnel": [
+    "je m'en irais",
+    "tu t'en irais",
+    "il/elle/on s'en irait",
+    "nous nous en irions",
+    "vous vous en iriez",
+    "ils/elles s'en iraient"
+   ],
+   "subjonctif": [
+    "que je m'en aille",
+    "que tu t'en ailles",
+    "qu'il/elle/on s'en aille",
+    "que nous nous en allions",
+    "que vous vous en alliez",
+    "qu'ils/elles s'en aillent"
+   ],
+   "plus_que_parfait": [
+    "je m'en étais allé(e)",
+    "tu t'en étais allé(e)",
+    "il/elle/on s'en était allé(e)",
+    "nous nous en étions allé(e)s",
+    "vous vous en étiez allé(e)s",
+    "ils/elles s'en étaient allé(e)s"
+   ],
+   "imperatif": [
+    "va-t'en",
+    "allons-nous-en",
+    "allez-vous-en"
+   ]
+  },
+  "spoken_qc": "Quebec speech (informal): \"j'm'en vas\" for je m'en vais; \"m'as m'en aller\" = I'm going to leave.",
+  "examples": [
+   {
+    "fr": "Je m'en vais, bonne soirée!",
+    "en": "I'm leaving, have a good evening!"
+   },
+   {
+    "fr": "Va-t'en!",
+    "en": "Go away!"
+   }
+  ]
+ },
+ {
+  "inf": "magasiner",
+  "en": "to go shopping",
+  "group": 1,
+  "aux": "avoir",
+  "pp": "magasiné",
+  "ppr": "magasinant",
+  "qc": true,
+  "week": 33,
+  "t": {
+   "present": [
+    "je magasine",
+    "tu magasines",
+    "il/elle/on magasine",
+    "nous magasinons",
+    "vous magasinez",
+    "ils/elles magasinent"
+   ],
+   "passe_compose": [
+    "j'ai magasiné",
+    "tu as magasiné",
+    "il/elle/on a magasiné",
+    "nous avons magasiné",
+    "vous avez magasiné",
+    "ils/elles ont magasiné"
+   ],
+   "imparfait": [
+    "je magasinais",
+    "tu magasinais",
+    "il/elle/on magasinait",
+    "nous magasinions",
+    "vous magasiniez",
+    "ils/elles magasinaient"
+   ],
+   "futur": [
+    "je magasinerai",
+    "tu magasineras",
+    "il/elle/on magasinera",
+    "nous magasinerons",
+    "vous magasinerez",
+    "ils/elles magasineront"
+   ],
+   "conditionnel": [
+    "je magasinerais",
+    "tu magasinerais",
+    "il/elle/on magasinerait",
+    "nous magasinerions",
+    "vous magasineriez",
+    "ils/elles magasineraient"
+   ],
+   "subjonctif": [
+    "que je magasine",
+    "que tu magasines",
+    "qu'il/elle/on magasine",
+    "que nous magasinions",
+    "que vous magasiniez",
+    "qu'ils/elles magasinent"
+   ],
+   "plus_que_parfait": [
+    "j'avais magasiné",
+    "tu avais magasiné",
+    "il/elle/on avait magasiné",
+    "nous avions magasiné",
+    "vous aviez magasiné",
+    "ils/elles avaient magasiné"
+   ],
+   "imperatif": [
+    "magasine",
+    "magasinons",
+    "magasinez"
+   ]
+  },
+  "spoken_qc": "Quebec word for to go shopping (France: faire du shopping / faire les magasins). Common at every register in Quebec, including in writing; \"le magasinage\" = shopping.",
+  "examples": [
+   {
+    "fr": "On va magasiner samedi.",
+    "en": "We're going shopping on Saturday."
+   },
+   {
+    "fr": "J'ai magasiné toute la journée.",
+    "en": "I shopped all day."
+   }
+  ]
+ },
+ {
+  "inf": "jaser",
+  "en": "to chat",
+  "group": 1,
+  "aux": "avoir",
+  "pp": "jasé",
+  "ppr": "jasant",
+  "qc": true,
+  "week": 33,
+  "t": {
+   "present": [
+    "je jase",
+    "tu jases",
+    "il/elle/on jase",
+    "nous jasons",
+    "vous jasez",
+    "ils/elles jasent"
+   ],
+   "passe_compose": [
+    "j'ai jasé",
+    "tu as jasé",
+    "il/elle/on a jasé",
+    "nous avons jasé",
+    "vous avez jasé",
+    "ils/elles ont jasé"
+   ],
+   "imparfait": [
+    "je jasais",
+    "tu jasais",
+    "il/elle/on jasait",
+    "nous jasions",
+    "vous jasiez",
+    "ils/elles jasaient"
+   ],
+   "futur": [
+    "je jaserai",
+    "tu jaseras",
+    "il/elle/on jasera",
+    "nous jaserons",
+    "vous jaserez",
+    "ils/elles jaseront"
+   ],
+   "conditionnel": [
+    "je jaserais",
+    "tu jaserais",
+    "il/elle/on jaserait",
+    "nous jaserions",
+    "vous jaseriez",
+    "ils/elles jaseraient"
+   ],
+   "subjonctif": [
+    "que je jase",
+    "que tu jases",
+    "qu'il/elle/on jase",
+    "que nous jasions",
+    "que vous jasiez",
+    "qu'ils/elles jasent"
+   ],
+   "plus_que_parfait": [
+    "j'avais jasé",
+    "tu avais jasé",
+    "il/elle/on avait jasé",
+    "nous avions jasé",
+    "vous aviez jasé",
+    "ils/elles avaient jasé"
+   ],
+   "imperatif": [
+    "jase",
+    "jasons",
+    "jasez"
+   ]
+  },
+  "spoken_qc": "Quebec informal (friendly, everyday): to chat, to talk casually (\"on jase, là\" = we're just talking). Standard: bavarder, discuter.",
+  "examples": [
+   {
+    "fr": "On a jasé pendant des heures.",
+    "en": "We chatted for hours."
+   },
+   {
+    "fr": "Viens jaser avec nous!",
+    "en": "Come chat with us!"
+   }
+  ]
+ },
+ {
+  "inf": "niaiser",
+  "en": "to kid around; to waste time; to tease",
+  "group": 1,
+  "aux": "avoir",
+  "pp": "niaisé",
+  "ppr": "niaisant",
+  "qc": true,
+  "week": 60,
+  "t": {
+   "present": [
+    "je niaise",
+    "tu niaises",
+    "il/elle/on niaise",
+    "nous niaisons",
+    "vous niaisez",
+    "ils/elles niaisent"
+   ],
+   "passe_compose": [
+    "j'ai niaisé",
+    "tu as niaisé",
+    "il/elle/on a niaisé",
+    "nous avons niaisé",
+    "vous avez niaisé",
+    "ils/elles ont niaisé"
+   ],
+   "imparfait": [
+    "je niaisais",
+    "tu niaisais",
+    "il/elle/on niaisait",
+    "nous niaisions",
+    "vous niaisiez",
+    "ils/elles niaisaient"
+   ],
+   "futur": [
+    "je niaiserai",
+    "tu niaiseras",
+    "il/elle/on niaisera",
+    "nous niaiserons",
+    "vous niaiserez",
+    "ils/elles niaiseront"
+   ],
+   "conditionnel": [
+    "je niaiserais",
+    "tu niaiserais",
+    "il/elle/on niaiserait",
+    "nous niaiserions",
+    "vous niaiseriez",
+    "ils/elles niaiseraient"
+   ],
+   "subjonctif": [
+    "que je niaise",
+    "que tu niaises",
+    "qu'il/elle/on niaise",
+    "que nous niaisions",
+    "que vous niaisiez",
+    "qu'ils/elles niaisent"
+   ],
+   "plus_que_parfait": [
+    "j'avais niaisé",
+    "tu avais niaisé",
+    "il/elle/on avait niaisé",
+    "nous avions niaisé",
+    "vous aviez niaisé",
+    "ils/elles avaient niaisé"
+   ],
+   "imperatif": [
+    "niaise",
+    "niaisons",
+    "niaisez"
+   ]
+  },
+  "spoken_qc": "Quebec informal: \"niaiser\" = to fool around or waste time; \"niaiser quelqu'un\" = to tease or pull someone's leg (\"je te niaise\" = I'm kidding). \"Arrête de niaiser!\" = stop messing around. Avoid in formal writing.",
+  "examples": [
+   {
+    "fr": "Arrête de niaiser, on est en retard!",
+    "en": "Stop fooling around, we're late!"
+   },
+   {
+    "fr": "Je te niaise!",
+    "en": "I'm just kidding!"
+   }
+  ]
+ },
+ {
+  "inf": "checker",
+  "en": "to check, to look at",
+  "group": 1,
+  "aux": "avoir",
+  "pp": "checké",
+  "ppr": "checkant",
+  "qc": true,
+  "week": 67,
+  "t": {
+   "present": [
+    "je checke",
+    "tu checkes",
+    "il/elle/on checke",
+    "nous checkons",
+    "vous checkez",
+    "ils/elles checkent"
+   ],
+   "passe_compose": [
+    "j'ai checké",
+    "tu as checké",
+    "il/elle/on a checké",
+    "nous avons checké",
+    "vous avez checké",
+    "ils/elles ont checké"
+   ],
+   "imparfait": [
+    "je checkais",
+    "tu checkais",
+    "il/elle/on checkait",
+    "nous checkions",
+    "vous checkiez",
+    "ils/elles checkaient"
+   ],
+   "futur": [
+    "je checkerai",
+    "tu checkeras",
+    "il/elle/on checkera",
+    "nous checkerons",
+    "vous checkerez",
+    "ils/elles checkeront"
+   ],
+   "conditionnel": [
+    "je checkerais",
+    "tu checkerais",
+    "il/elle/on checkerait",
+    "nous checkerions",
+    "vous checkeriez",
+    "ils/elles checkeraient"
+   ],
+   "subjonctif": [
+    "que je checke",
+    "que tu checkes",
+    "qu'il/elle/on checke",
+    "que nous checkions",
+    "que vous checkiez",
+    "qu'ils/elles checkent"
+   ],
+   "plus_que_parfait": [
+    "j'avais checké",
+    "tu avais checké",
+    "il/elle/on avait checké",
+    "nous avions checké",
+    "vous aviez checké",
+    "ils/elles avaient checké"
+   ],
+   "imperatif": [
+    "checke",
+    "checkons",
+    "checkez"
+   ]
+  },
+  "spoken_qc": "Quebec informal anglicism: to check, to look at (\"checke ça!\" = look at that!). In formal French use vérifier or regarder.",
+  "examples": [
+   {
+    "fr": "Checke ça!",
+    "en": "Look at that!"
+   },
+   {
+    "fr": "J'ai checké mes courriels.",
+    "en": "I checked my emails."
+   }
+  ]
+ },
+ {
+  "inf": "pogner",
+  "en": "to grab, to catch; to be a hit",
+  "group": 1,
+  "aux": "avoir",
+  "pp": "pogné",
+  "ppr": "pognant",
+  "qc": true,
+  "week": 80,
+  "t": {
+   "present": [
+    "je pogne",
+    "tu pognes",
+    "il/elle/on pogne",
+    "nous pognons",
+    "vous pognez",
+    "ils/elles pognent"
+   ],
+   "passe_compose": [
+    "j'ai pogné",
+    "tu as pogné",
+    "il/elle/on a pogné",
+    "nous avons pogné",
+    "vous avez pogné",
+    "ils/elles ont pogné"
+   ],
+   "imparfait": [
+    "je pognais",
+    "tu pognais",
+    "il/elle/on pognait",
+    "nous pognions",
+    "vous pogniez",
+    "ils/elles pognaient"
+   ],
+   "futur": [
+    "je pognerai",
+    "tu pogneras",
+    "il/elle/on pognera",
+    "nous pognerons",
+    "vous pognerez",
+    "ils/elles pogneront"
+   ],
+   "conditionnel": [
+    "je pognerais",
+    "tu pognerais",
+    "il/elle/on pognerait",
+    "nous pognerions",
+    "vous pogneriez",
+    "ils/elles pogneraient"
+   ],
+   "subjonctif": [
+    "que je pogne",
+    "que tu pognes",
+    "qu'il/elle/on pogne",
+    "que nous pognions",
+    "que vous pogniez",
+    "qu'ils/elles pognent"
+   ],
+   "plus_que_parfait": [
+    "j'avais pogné",
+    "tu avais pogné",
+    "il/elle/on avait pogné",
+    "nous avions pogné",
+    "vous aviez pogné",
+    "ils/elles avaient pogné"
+   ],
+   "imperatif": [
+    "pogne",
+    "pognons",
+    "pognez"
+   ]
+  },
+  "spoken_qc": "Quebec informal (from poigne): to grab or catch (\"pogner un rhume\" = catch a cold), \"être pogné\" = to be stuck, \"ça pogne\" = it's popular, \"pogner les nerfs\" = to lose your temper. Use attraper / prendre in formal French.",
+  "examples": [
+   {
+    "fr": "J'ai pogné un rhume.",
+    "en": "I caught a cold."
+   },
+   {
+    "fr": "On est pognés dans le trafic.",
+    "en": "We're stuck in traffic."
+   }
+  ]
+ }
+]

@@ -1,0 +1,683 @@
+{
+ "w": 121,
+ "title": "All tenses review",
+ "goal": "By the end of this lesson you can place every tense you know on a timeline, choose the right one when telling your life story from past to future, and keep tenses consistent when you shift your point of view.",
+ "learn": [
+  {
+   "h": "The timeline: past, present, future",
+   "body": [
+    "Picture a line with *maintenant* (now) in the middle. Every indicative tense sits somewhere on it, and each has a 'before' version (compound tense) for actions completed before a reference point.",
+    "Past: plus-que-parfait (before another past) → passé composé / imparfait → passé récent (*je viens de*). Present: présent. Future: futur proche (*je vais*) → futur simple → futur antérieur (completed before a future point)."
+   ],
+   "table": {
+    "head": [
+     "Point on the timeline",
+     "Tense",
+     "Example"
+    ],
+    "rows": [
+     [
+      "before a past moment",
+      "plus-que-parfait",
+      "J'avais déjà appris l'anglais."
+     ],
+     [
+      "past event",
+      "passé composé",
+      "Je suis arrivé à Montréal en 2022."
+     ],
+     [
+      "past background / habit",
+      "imparfait",
+      "Je ne parlais pas français."
+     ],
+     [
+      "just now",
+      "venir de + infinitive",
+      "Je viens de finir mon cours."
+     ],
+     [
+      "now",
+      "présent",
+      "J'apprends le français depuis trois ans."
+     ],
+     [
+      "near future",
+      "aller + infinitive",
+      "Je vais passer un examen."
+     ],
+     [
+      "future",
+      "futur simple",
+      "Je travaillerai en français."
+     ],
+     [
+      "before a future moment",
+      "futur antérieur",
+      "En 2030, j'aurai obtenu ma citoyenneté."
+     ]
+    ]
+   },
+   "tip": "Each simple tense has a compound partner one step 'earlier': imparfait → plus-que-parfait, futur → futur antérieur, conditionnel → conditionnel passé."
+  },
+  {
+   "h": "Imaginary and subjective tenses",
+   "body": [
+    "Off the timeline are the 'unreal' tenses. Conditionnel présent: imagined present or future (*Je voudrais vivre à Québec*). Conditionnel passé: imagined past (*J'aurais aimé venir plus tôt*).",
+    "The subjunctive is triggered by wish, emotion, doubt or necessity: present for same time or later (*Il faut que je parte*), past for an earlier action (*Je suis content que tu sois venu*)."
+   ]
+  },
+  {
+   "h": "Changing the point of view",
+   "body": [
+    "When the main verb moves into the past, the tenses after it shift back: present → imparfait, passé composé → plus-que-parfait, futur → conditionnel, futur antérieur → conditionnel passé.",
+    "*Elle dit qu'elle viendra.* → *Elle a dit qu'elle viendrait.* *Je pense qu'il a fini.* → *Je pensais qu'il avait fini.* *Il dit qu'il aura fini à midi.* → *Il a dit qu'il aurait fini à midi.*"
+   ],
+   "table": {
+    "head": [
+     "Now (il dit que…)",
+     "Then (il a dit que…)"
+    ],
+    "rows": [
+     [
+      "il pleut",
+      "il pleuvait"
+     ],
+     [
+      "il a plu",
+      "il avait plu"
+     ],
+     [
+      "il va pleuvoir",
+      "il allait pleuvoir"
+     ],
+     [
+      "il pleuvra",
+      "il pleuvrait"
+     ],
+     [
+      "il aura plu",
+      "il aurait plu"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Depuis, il y a, pendant, dans",
+   "body": [
+    "Time expressions often decide the tense. *Depuis* + présent for something still going on: *J'habite ici depuis 2022.* *Il y a* + passé composé = ago: *Je suis arrivé il y a trois ans.*",
+    "*Pendant* + passé composé for a closed period: *J'ai vécu à Toronto pendant cinq ans.* *Dans* + future = in (from now): *Je déménage dans deux mois.*"
+   ]
+  },
+  {
+   "h": "Quebec speech and the future",
+   "body": [
+    "In everyday Quebec speech, the futur proche is by far the most common way to talk about the future, even far ahead: *L'année prochaine, j'vas retourner aux études.* The futur simple is common in negative sentences (*J'irai pas*) and in formal speech and writing.",
+    "To talk about 'back then' and 'now', Quebecers say *dans le temps* (back in the day) and *astheure* (now, from *à cette heure*), both informal."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Avant d'arriver au Québec, j'avais déjà suivi quelques cours de français.",
+   "en": "Before coming to Quebec, I had already taken a few French classes.",
+   "note": "plus-que-parfait"
+  },
+  {
+   "fr": "Je suis arrivé à Montréal en août 2022.",
+   "en": "I arrived in Montreal in August 2022.",
+   "note": "passé composé, a dated event"
+  },
+  {
+   "fr": "Au début, je ne comprenais presque rien.",
+   "en": "At first, I understood almost nothing.",
+   "note": "imparfait for a past state"
+  },
+  {
+   "fr": "Chaque matin, j'écoutais la radio en français dans l'autobus.",
+   "en": "Every morning, I listened to French radio on the bus.",
+   "note": "imparfait for a habit"
+  },
+  {
+   "fr": "J'habite à Verdun depuis deux ans.",
+   "en": "I've been living in Verdun for two years.",
+   "note": "depuis + présent"
+  },
+  {
+   "fr": "Je viens de terminer mon troisième niveau de francisation.",
+   "en": "I've just finished my third level of French classes.",
+   "note": "passé récent"
+  },
+  {
+   "fr": "Le mois prochain, je vais commencer un nouvel emploi.",
+   "en": "Next month, I'm going to start a new job.",
+   "note": "futur proche"
+  },
+  {
+   "fr": "Un jour, je parlerai français sans réfléchir.",
+   "en": "One day, I'll speak French without thinking.",
+   "note": "futur simple"
+  },
+  {
+   "fr": "D'ici cinq ans, nous aurons acheté une maison.",
+   "en": "Within five years, we will have bought a house.",
+   "note": "futur antérieur"
+  },
+  {
+   "fr": "J'aimerais vivre à la campagne un jour.",
+   "en": "I'd like to live in the country one day.",
+   "note": "conditionnel présent"
+  },
+  {
+   "fr": "J'aurais dû commencer le français plus jeune.",
+   "en": "I should have started French younger.",
+   "note": "conditionnel passé"
+  },
+  {
+   "fr": "Il faut que je fasse mes impôts avant le 30 avril.",
+   "en": "I have to do my taxes before April 30.",
+   "note": "subjonctif présent"
+  },
+  {
+   "fr": "Mes parents sont fiers que j'aie appris une nouvelle langue.",
+   "en": "My parents are proud I learned a new language.",
+   "note": "subjonctif passé"
+  },
+  {
+   "fr": "Elle m'a dit qu'elle viendrait nous voir en juillet.",
+   "en": "She told me she would come see us in July.",
+   "note": "futur → conditionnel after a past verb"
+  },
+  {
+   "fr": "Je suis arrivé il y a trois ans et j'ai travaillé dans un restaurant pendant un an.",
+   "en": "I arrived three years ago and worked in a restaurant for a year.",
+   "note": "il y a and pendant + passé composé"
+  },
+  {
+   "fr": "Dans le temps, on n'avait pas de cellulaire.",
+   "en": "Back in the day, we didn't have cell phones.",
+   "note": "dans le temps, informal Quebec"
+  }
+ ],
+ "quebec": {
+  "intro": "Telling your life on a timeline in Quebec speech: the futur proche dominates for the future, 'dans le temps' introduces the past, and 'astheure' marks the present.",
+  "items": [
+   {
+    "std": "L'année prochaine, je retournerai aux études.",
+    "qc": "L'année prochaine, j'vas retourner aux études.",
+    "en": "Next year, I'm going back to school.",
+    "note": "futur proche is the norm in Quebec speech; j'vas is informal"
+   },
+   {
+    "std": "Je n'irai pas.",
+    "qc": "J'irai pas.",
+    "en": "I won't go.",
+    "note": "the futur simple stays common in negatives; ne dropped"
+   },
+   {
+    "std": "Autrefois, on marchait jusqu'à l'école.",
+    "qc": "Dans le temps, on marchait jusqu'à l'école.",
+    "en": "Back in the day, we walked to school.",
+    "note": "dans le temps, informal"
+   },
+   {
+    "std": "Maintenant, j'habite à Laval.",
+    "qc": "Astheure, j'reste à Laval.",
+    "en": "Now I live in Laval.",
+    "note": "astheure = maintenant; rester = habiter; informal"
+   },
+   {
+    "std": "Je viens juste d'arriver.",
+    "qc": "J'viens juste d'arriver.",
+    "en": "I just got here.",
+    "note": "casual contraction"
+   },
+   {
+    "std": "Ça fait trois ans que j'habite ici.",
+    "qc": "Ça fait trois ans que j'reste icitte.",
+    "en": "I've been living here for three years.",
+    "note": "icitte = ici, very informal"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "J'habite ici ___ 2022.",
+   "options": [
+    "il y a",
+    "depuis",
+    "pendant",
+    "dans"
+   ],
+   "a": 1,
+   "why": "Depuis + présent for an ongoing situation."
+  },
+  {
+   "t": "mcq",
+   "q": "Quand je suis arrivé, mon frère ___ déjà parti.",
+   "options": [
+    "est",
+    "était",
+    "sera",
+    "serait"
+   ],
+   "a": 1,
+   "why": "Earlier past → plus-que-parfait: était parti."
+  },
+  {
+   "t": "mcq",
+   "q": "Elle a dit qu'elle ___ demain.",
+   "options": [
+    "viendra",
+    "viendrait",
+    "vient",
+    "est venue"
+   ],
+   "a": 1,
+   "why": "Future after a past verb → conditionnel."
+  },
+  {
+   "t": "mcq",
+   "q": "Which tense means 'will have done'?",
+   "options": [
+    "futur simple",
+    "futur antérieur",
+    "conditionnel passé",
+    "plus-que-parfait"
+   ],
+   "a": 1,
+   "why": "J'aurai fait."
+  },
+  {
+   "t": "fill",
+   "q": "Quand j'étais petit, je ___ au hockey tous les samedis. (jouer)",
+   "a": [
+    "jouais"
+   ],
+   "en": "When I was little, I played hockey every Saturday.",
+   "why": "Habit in the past → imparfait."
+  },
+  {
+   "t": "fill",
+   "q": "Je suis arrivé ___ trois ans. (ago)",
+   "a": [
+    "il y a"
+   ],
+   "en": "I arrived three years ago.",
+   "why": "Il y a + passé composé = ago."
+  },
+  {
+   "t": "fill",
+   "q": "D'ici 2030, j'___ obtenu ma citoyenneté. (avoir)",
+   "a": [
+    "aurai"
+   ],
+   "en": "By 2030, I'll have gotten my citizenship.",
+   "why": "Futur antérieur."
+  },
+  {
+   "t": "fill",
+   "q": "Il faut que tu ___ ce formulaire. (remplir)",
+   "a": [
+    "remplisses"
+   ],
+   "en": "You have to fill out this form.",
+   "why": "Il faut que + subjonctif présent."
+  },
+  {
+   "t": "build",
+   "en": "I've just finished my course.",
+   "a": "Je viens de terminer mon cours."
+  },
+  {
+   "t": "build",
+   "en": "I should have started earlier.",
+   "a": "J'aurais dû commencer plus tôt."
+  },
+  {
+   "t": "build",
+   "en": "One day, I will live in Quebec City.",
+   "a": "Un jour, je vivrai à Québec."
+  },
+  {
+   "t": "translate",
+   "en": "He said he would call.",
+   "a": [
+    "Il a dit qu'il appellerait.",
+    "Il a dit qu'il téléphonerait.",
+    "Il m'a dit qu'il appellerait.",
+    "Il a dit qu'il allait appeler."
+   ],
+   "why": "Futur → conditionnel (or aller in the imparfait)."
+  },
+  {
+   "t": "translate",
+   "en": "I worked there for two years.",
+   "a": [
+    "J'ai travaillé là pendant deux ans.",
+    "J'y ai travaillé pendant deux ans.",
+    "J'ai travaillé là-bas pendant deux ans.",
+    "J'y ai travaillé deux ans."
+   ],
+   "why": "Pendant + passé composé for a closed period."
+  },
+  {
+   "t": "translate",
+   "en": "I've been learning French for three years.",
+   "a": [
+    "J'apprends le français depuis trois ans.",
+    "Ça fait trois ans que j'apprends le français.",
+    "Il y a trois ans que j'apprends le français."
+   ],
+   "why": "Depuis / ça fait… que + présent."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "la ligne du temps",
+   "en": "timeline",
+   "g": "f",
+   "ex": "Dessine ta ligne du temps."
+  },
+  {
+   "fr": "autrefois",
+   "en": "in the past, formerly",
+   "ex": "Autrefois, ce quartier était industriel."
+  },
+  {
+   "fr": "à l'époque",
+   "en": "at the time, back then",
+   "ex": "À l'époque, je vivais en Inde."
+  },
+  {
+   "fr": "désormais",
+   "en": "from now on, henceforth",
+   "ex": "Désormais, je parle français au travail."
+  },
+  {
+   "fr": "il y a (+ durée)",
+   "en": "ago",
+   "ex": "Je suis arrivé il y a deux ans."
+  },
+  {
+   "fr": "depuis",
+   "en": "since, for",
+   "ex": "J'étudie depuis septembre."
+  },
+  {
+   "fr": "pendant",
+   "en": "for, during",
+   "ex": "J'ai attendu pendant une heure."
+  },
+  {
+   "fr": "dans (+ durée)",
+   "en": "in (from now)",
+   "ex": "Je pars dans dix minutes."
+  },
+  {
+   "fr": "la francisation",
+   "en": "French-language training for newcomers",
+   "g": "f",
+   "ex": "J'ai suivi des cours de francisation.",
+   "qc": true
+  },
+  {
+   "fr": "la citoyenneté",
+   "en": "citizenship",
+   "g": "f",
+   "ex": "Elle a obtenu sa citoyenneté."
+  },
+  {
+   "fr": "s'installer",
+   "en": "to settle (in)",
+   "ex": "Nous nous sommes installés à Gatineau."
+  },
+  {
+   "fr": "un jour",
+   "en": "one day, someday",
+   "ex": "Un jour, j'irai en Gaspésie."
+  },
+  {
+   "fr": "dans le temps",
+   "en": "back in the day",
+   "ex": "Dans le temps, tout était moins cher.",
+   "qc": true
+  },
+  {
+   "fr": "astheure",
+   "en": "now, nowadays",
+   "ex": "Astheure, je travaille de la maison.",
+   "qc": true
+  },
+  {
+   "fr": "rester",
+   "en": "to live (somewhere)",
+   "ex": "Je reste à Longueuil.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "je parlais / j'ai parlé",
+    "tip": "par-LÈ vs par-LÉ: open vs closed final vowel."
+   },
+   {
+    "fr": "je parlerai / je parlerais",
+    "tip": "parl-RÉ vs parl-RÈ: careful speakers distinguish them."
+   },
+   {
+    "fr": "j'avais appris",
+    "tip": "zha-vè-za-PRI: liaison in [z]."
+   },
+   {
+    "fr": "il y a trois ans",
+    "tip": "i-lya trwa-ZAN; casually 'ya trwa-zan'."
+   },
+   {
+    "fr": "astheure",
+    "tip": "as-TEUR: one word in speech."
+   },
+   {
+    "fr": "j'aurai obtenu",
+    "tip": "zho-ré op-tuh-NU: b sounds like p before t."
+   }
+  ],
+  "title": "Mon parcours",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Depuis combien de temps tu vis au Québec?",
+    "en": "How long have you been living in Quebec?"
+   },
+   {
+    "s": "B",
+    "fr": "Depuis trois ans. Je suis arrivé du Brésil en 2023.",
+    "en": "For three years. I came from Brazil in 2023."
+   },
+   {
+    "s": "A",
+    "fr": "Tu parlais français avant?",
+    "en": "Did you speak French before?"
+   },
+   {
+    "s": "B",
+    "fr": "Un peu. J'avais suivi des cours à São Paulo, mais au début, je ne comprenais rien ici!",
+    "en": "A little. I had taken classes in São Paulo, but at first, I understood nothing here!"
+   },
+   {
+    "s": "A",
+    "fr": "Pis astheure?",
+    "en": "And now?"
+   },
+   {
+    "s": "B",
+    "fr": "Ça va beaucoup mieux. Je viens de finir ma francisation, et le mois prochain, je vais commencer un emploi en français.",
+    "en": "Much better. I just finished my French training, and next month I'm starting a job in French."
+   },
+   {
+    "s": "A",
+    "fr": "Bravo! Et dans cinq ans?",
+    "en": "Bravo! And in five years?"
+   },
+   {
+    "s": "B",
+    "fr": "J'espère que j'aurai obtenu ma citoyenneté. J'aurais aimé venir plus jeune, mais je ne regrette rien.",
+    "en": "I hope I'll have gotten my citizenship. I would have liked to come younger, but I regret nothing."
+   }
+  ],
+  "questions": [
+   {
+    "q": "When did B arrive in Quebec?",
+    "options": [
+     "2020",
+     "2023",
+     "Last month"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What did B just finish?",
+    "options": [
+     "University",
+     "French training (francisation)",
+     "A job"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does B hope for in five years?",
+    "options": [
+     "To return to Brazil",
+     "To have obtained citizenship",
+     "To open a restaurant"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Timeline task: Tell your life story in six sentences, one for each point: before, past event, past habit, now, near future, far future.",
+   "model": "Avant de déménager, j'avais toujours vécu à Londres. En 2022, je suis arrivé à Montréal. Au début, je prenais des cours de français tous les soirs. Maintenant, je travaille dans une entreprise québécoise. L'été prochain, je vais visiter la Gaspésie. Dans dix ans, j'aurai sans doute acheté une maison ici."
+  },
+  {
+   "prompt": "Add one regret (conditionnel passé) and one wish (conditionnel présent) to your story.",
+   "model": "J'aurais dû apprendre le français à l'école. Un jour, j'aimerais enseigner l'anglais à des enfants québécois."
+  },
+  {
+   "prompt": "Report what a friend told you last week about their plans (shift the tenses).",
+   "model": "Mon amie m'a dit qu'elle déménageait à Québec, qu'elle avait trouvé un appartement et qu'elle commencerait son nouvel emploi en mars."
+  },
+  {
+   "prompt": "Retell 'Back in the day / now' in casual Quebec style.",
+   "model": "Dans le temps, je comprenais rien quand les gens parlaient vite. Astheure, j'écoute des balados pis je comprends presque toute."
+  }
+ ],
+ "write": {
+  "prompt": "Timeline storytelling: write 10–12 sentences about your journey with French (or your life in Quebec), moving from before you started, through the past and present, to the future. Use at least eight different tenses and label each one in brackets.",
+  "model": "Avant mon arrivée, je n'avais jamais étudié le français [plus-que-parfait]. Je suis arrivé à Sherbrooke en janvier 2023 [passé composé]. Il faisait −30 et je ne comprenais rien [imparfait]. Chaque soir, je regardais les nouvelles avec des sous-titres [imparfait]. J'aurais dû prendre des cours tout de suite [conditionnel passé]. Mes parents sont fiers que j'aie persévéré [subjonctif passé]. Maintenant, je travaille en français depuis un an [présent]. Je viens de réussir un examen de niveau B1 [passé récent]. L'été prochain, je vais suivre un cours intensif à Trois-Pistoles [futur proche]. Un jour, je lirai Michel Tremblay en version originale [futur simple]. D'ici trois ans, j'aurai atteint le niveau B2 [futur antérieur]. J'aimerais que mes enfants soient bilingues [conditionnel + subjonctif]."
+ },
+ "quiz": [
+  {
+   "q": "Which tense describes an action before another past action?",
+   "options": [
+    "passé composé",
+    "plus-que-parfait",
+    "futur antérieur",
+    "imparfait"
+   ],
+   "a": 1,
+   "why": "J'avais fini avant ton arrivée."
+  },
+  {
+   "q": "'Je viens de manger' means…",
+   "options": [
+    "I'm coming to eat.",
+    "I've just eaten.",
+    "I'll eat soon.",
+    "I used to eat."
+   ],
+   "a": 1,
+   "why": "Passé récent."
+  },
+  {
+   "q": "'Il a dit qu'il aurait fini à midi' — the original words were…",
+   "options": [
+    "J'ai fini à midi.",
+    "J'aurai fini à midi.",
+    "Je finirais à midi.",
+    "Je finissais à midi."
+   ],
+   "a": 1,
+   "why": "Futur antérieur → conditionnel passé after a past verb."
+  },
+  {
+   "q": "Which goes with a closed period? 'J'ai vécu à Paris ___ deux ans.'",
+   "options": [
+    "depuis",
+    "pendant",
+    "dans",
+    "il y a"
+   ],
+   "a": 1,
+   "why": "Pendant + passé composé."
+  },
+  {
+   "q": "'Je déménage dans deux mois' means…",
+   "options": [
+    "I moved two months ago.",
+    "I'm moving in two months.",
+    "I've been moving for two months.",
+    "I moved for two months."
+   ],
+   "a": 1,
+   "why": "Dans + duration = in (from now)."
+  },
+  {
+   "q": "In everyday Quebec speech, the most common way to talk about the future is…",
+   "options": [
+    "the futur simple",
+    "the futur proche (aller + infinitive)",
+    "the conditionnel",
+    "the futur antérieur"
+   ],
+   "a": 1,
+   "why": "J'vas partir, on va voir."
+  },
+  {
+   "q": "'Astheure' means…",
+   "options": [
+    "at the hour",
+    "now",
+    "later",
+    "on time"
+   ],
+   "a": 1,
+   "why": "From à cette heure, informal Quebec."
+  },
+  {
+   "q": "Which sentence uses the subjonctif passé?",
+   "options": [
+    "Je suis content que tu viennes.",
+    "Je suis content que tu sois venu.",
+    "Je suis content que tu es venu.",
+    "Je suis content si tu viens."
+   ],
+   "a": 1,
+   "why": "Sois venu = auxiliary in the subjunctive + participle."
+  },
+  {
+   "q": "Which tense expresses a past habit?",
+   "options": [
+    "imparfait",
+    "passé composé",
+    "plus-que-parfait",
+    "futur"
+   ],
+   "a": 0,
+   "why": "Je jouais tous les samedis."
+  }
+ ]
+}

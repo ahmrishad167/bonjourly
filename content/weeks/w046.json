@@ -1,0 +1,654 @@
+{
+ "w": 46,
+ "title": "Pronoun order and agreement in the passé composé",
+ "goal": "By the end of this lesson you can combine two object pronouns in the right order (je te le donne, je le lui dis) and make the past participle agree with a direct object placed before avoir.",
+ "learn": [
+  {
+   "h": "Two pronouns in one sentence",
+   "body": [
+    "Sometimes you replace both the thing and the person: *Je donne* **le livre** *à* **Marc** → *Je* **le lui** *donne*. Both pronouns go before the verb, in a fixed order.",
+    "The order depends on the pronouns, not on English word order: first *me, te, se, nous, vous*, then *le, la, les*, then *lui, leur*. (*y* and *en*, coming in lessons 47 and 48, always go last.)"
+   ],
+   "table": {
+    "head": [
+     "Combination",
+     "Example",
+     "Meaning"
+    ],
+    "rows": [
+     [
+      "me + le",
+      "Il me le donne.",
+      "He gives it to me."
+     ],
+     [
+      "te + la",
+      "Je te la prête.",
+      "I lend it to you."
+     ],
+     [
+      "nous + les",
+      "Elle nous les montre.",
+      "She shows them to us."
+     ],
+     [
+      "le + lui",
+      "Je le lui dis.",
+      "I tell it to him / her."
+     ],
+     [
+      "les + leur",
+      "On les leur envoie.",
+      "We send them to them."
+     ]
+    ]
+   },
+   "tip": "Me/te/nous/vous come BEFORE le/la/les; lui/leur come AFTER them."
+  },
+  {
+   "h": "The two main patterns",
+   "body": [
+    "Pattern A: person pronoun (me, te, nous, vous) + thing (le, la, les): *Tu* **me la** *prêtes?* (Will you lend it to me?) *Je* **vous les** *envoie.*",
+    "Pattern B: thing (le, la, les) + person (lui, leur): *Je* **le lui** *dis.* (I tell it to him.) *On* **les leur** *donne.*",
+    "Negative and passé composé follow the usual rules: *Je ne* **le lui** *ai pas dit.* With an infinitive: *Je vais* **te le** *montrer.*"
+   ]
+  },
+  {
+   "h": "Agreement with avoir: the object that comes first",
+   "body": [
+    "Normally a participle with *avoir* never agrees: *J'ai acheté une robe.* But when the **direct object** is placed **before** the verb, the participle agrees with it like an adjective (+e for feminine, +s for plural).",
+    "This happens with *le, la, les, me, te, nous, vous* and with *que* (lesson 53): *La robe? Je* **l'***ai acheté***e**. *Les clés? Je* **les** *ai trouvé***es**. *Elle* **nous** *a invité***s**."
+   ],
+   "table": {
+    "head": [
+     "Object after (no agreement)",
+     "Object before (agreement)"
+    ],
+    "rows": [
+     [
+      "J'ai vu Julie.",
+      "Je l'ai vue."
+     ],
+     [
+      "J'ai pris les photos.",
+      "Je les ai prises."
+     ],
+     [
+      "J'ai ouvert la fenêtre.",
+      "Je l'ai ouverte."
+     ],
+     [
+      "Il a invité ses amis.",
+      "Il les a invités."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "No agreement with lui, leur, y, en",
+   "body": [
+    "Only direct objects trigger agreement. *Lui* and *leur* are indirect, so nothing changes: *Je* **leur** *ai parlé* (not parlés). *Je* **lui** *ai écrit*.",
+    "In *Je la lui ai donnée*, the agreement is with *la* (the direct object), not with *lui*."
+   ]
+  },
+  {
+   "h": "Commands with two pronouns",
+   "body": [
+    "In a positive command, the thing comes first, then the person, all joined with hyphens: *Donne-***le-moi**! *Envoie-***la-lui**! *Montrez-***les-nous**!",
+    "In a negative command, use the normal order before the verb: *Ne* **me le** *donne pas!* *Ne* **le lui** *dis pas!*"
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Le sel? Tu me le passes, s'il te plaît?",
+   "en": "The salt? Can you pass it to me, please?",
+   "note": "me + le"
+  },
+  {
+   "fr": "Ta voiture? Tu me la prêtes samedi?",
+   "en": "Your car? Will you lend it to me on Saturday?",
+   "note": "me + la"
+  },
+  {
+   "fr": "La nouvelle? Je la lui ai dite ce matin.",
+   "en": "The news? I told it to him / her this morning.",
+   "note": "la + lui; dite agrees with la"
+  },
+  {
+   "fr": "Les photos? Je vous les envoie ce soir.",
+   "en": "The photos? I'll send them to you tonight.",
+   "note": "vous + les"
+  },
+  {
+   "fr": "Le livre? Je le leur ai rendu.",
+   "en": "The book? I gave it back to them.",
+   "note": "le + leur"
+  },
+  {
+   "fr": "Je vais te le montrer.",
+   "en": "I'm going to show it to you.",
+   "note": "two pronouns before the infinitive"
+  },
+  {
+   "fr": "Il ne nous l'a pas expliqué.",
+   "en": "He didn't explain it to us.",
+   "note": "negative passé composé with two pronouns"
+  },
+  {
+   "fr": "Ta lettre? Je l'ai lue deux fois.",
+   "en": "Your letter? I read it twice.",
+   "note": "lue: feminine agreement with l' (la lettre)"
+  },
+  {
+   "fr": "Les filles? Je les ai vues au parc.",
+   "en": "The girls? I saw them at the park.",
+   "note": "vues: feminine plural"
+  },
+  {
+   "fr": "La porte? Qui l'a ouverte?",
+   "en": "The door? Who opened it?",
+   "note": "ouverte: you can hear the agreement"
+  },
+  {
+   "fr": "Mes clés, je les ai mises sur la table.",
+   "en": "My keys, I put them on the table.",
+   "note": "mises: agreement is audible with -s/-t participles"
+  },
+  {
+   "fr": "Elle nous a invités à souper.",
+   "en": "She invited us to supper.",
+   "note": "nous = direct object, so invités agrees"
+  },
+  {
+   "fr": "Je leur ai téléphoné, mais je ne les ai pas vus.",
+   "en": "I phoned them, but I didn't see them.",
+   "note": "leur (indirect): no agreement; les (direct): vus"
+  },
+  {
+   "fr": "Donne-le-moi!",
+   "en": "Give it to me!",
+   "note": "positive command: thing, then person"
+  },
+  {
+   "fr": "Ne le lui dis pas!",
+   "en": "Don't tell him / her!",
+   "note": "negative command: normal order"
+  },
+  {
+   "fr": "Cette chanson, je l'ai apprise par cœur.",
+   "en": "That song, I learned it by heart.",
+   "note": "appris → apprise: the s is pronounced"
+  }
+ ],
+ "quebec": {
+  "intro": "Spoken French, in Quebec and elsewhere, takes shortcuts that writing does not allow: the 'le' in 'le lui' disappears, the command order flips, and many participle agreements are simply not pronounced. Know the written rule, recognise the spoken shortcut.",
+  "items": [
+   {
+    "std": "Je le lui ai dit.",
+    "qc": "J'y ai dit.",
+    "en": "I told him / her (it).",
+    "note": "le disappears and lui becomes y; informal"
+   },
+   {
+    "std": "Donne-le-moi.",
+    "qc": "Donne-moi-le.",
+    "en": "Give it to me.",
+    "note": "very common in speech everywhere; write donne-le-moi"
+   },
+   {
+    "std": "Je te le dis.",
+    "qc": "J'te l'dis.",
+    "en": "I'm telling you.",
+    "note": "said as [ch'tel di]; informal"
+   },
+   {
+    "std": "Je les leur ai donnés.",
+    "qc": "J'leur ai donné.",
+    "en": "I gave them to them.",
+    "note": "les dropped (and with it the agreement) in speech; informal"
+   },
+   {
+    "std": "La porte, je l'ai ouverte.",
+    "qc": "La porte, j'l'ai ouvert.",
+    "en": "The door, I opened it.",
+    "note": "the agreement is often skipped in speech; always write it"
+   },
+   {
+    "std": "Je vais te la prêter.",
+    "qc": "J'vas t'la prêter.",
+    "en": "I'll lend it to you.",
+    "note": "j'vas = je vais; informal"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Choose the correct order: 'Il ___ donne.' (it to me)",
+   "options": [
+    "le me",
+    "me le",
+    "moi le",
+    "le moi"
+   ],
+   "a": 1,
+   "why": "Me/te/nous/vous come before le/la/les."
+  },
+  {
+   "t": "mcq",
+   "q": "Choose the correct order: 'Je ___ envoie.' (them to her)",
+   "options": [
+    "lui les",
+    "les lui",
+    "leur les",
+    "les leur"
+   ],
+   "a": 1,
+   "why": "Le/la/les come before lui/leur."
+  },
+  {
+   "t": "mcq",
+   "q": "'Les fleurs? Je les ai ___.' (acheter)",
+   "options": [
+    "acheté",
+    "achetés",
+    "achetée",
+    "achetées"
+   ],
+   "a": 3,
+   "why": "Les = les fleurs (f pl) comes before avoir: achetées."
+  },
+  {
+   "t": "mcq",
+   "q": "Which sentence has a correct participle?",
+   "options": [
+    "Je leur ai parlés.",
+    "Je leur ai parlé.",
+    "Je les ai parlé.",
+    "Je leur ai parlées."
+   ],
+   "a": 1,
+   "why": "Leur is indirect: no agreement."
+  },
+  {
+   "t": "fill",
+   "q": "La maison? Ils l'ont ___ l'an passé. (vendre)",
+   "a": [
+    "vendue"
+   ],
+   "en": "The house? They sold it last year.",
+   "why": "L' = la maison (f): vendue."
+  },
+  {
+   "t": "fill",
+   "q": "Les gâteaux? Je ___ leur ai apportés. (them)",
+   "a": [
+    "les"
+   ],
+   "en": "The cakes? I brought them to them.",
+   "why": "Les before leur."
+  },
+  {
+   "t": "fill",
+   "q": "Ta robe? Tu me ___ prêtes? (it)",
+   "a": [
+    "la"
+   ],
+   "en": "Your dress? Will you lend it to me?",
+   "why": "Me before la."
+  },
+  {
+   "t": "fill",
+   "q": "Elle nous a ___ chez elle. (inviter, we = two men)",
+   "a": [
+    "invités"
+   ],
+   "en": "She invited us to her place.",
+   "why": "Nous is the direct object before avoir: invités."
+  },
+  {
+   "t": "build",
+   "en": "I'm going to show it to you.",
+   "a": "Je vais te le montrer."
+  },
+  {
+   "t": "build",
+   "en": "Give it to me, please!",
+   "a": "Donne-le-moi, s'il te plaît!"
+  },
+  {
+   "t": "build",
+   "en": "He didn't tell it to them.",
+   "a": "Il ne le leur a pas dit."
+  },
+  {
+   "t": "translate",
+   "en": "I sent it to him.",
+   "a": [
+    "Je le lui ai envoyé.",
+    "Je la lui ai envoyée."
+   ],
+   "why": "Le/la before lui; agreement with la."
+  },
+  {
+   "t": "translate",
+   "en": "Don't tell her!",
+   "a": [
+    "Ne le lui dis pas!",
+    "Ne le lui dites pas!",
+    "Ne lui dis pas!",
+    "Ne lui dites pas!"
+   ],
+   "why": "Negative command: pronouns before the verb."
+  },
+  {
+   "t": "translate",
+   "en": "The letters? I wrote them.",
+   "a": [
+    "Les lettres? Je les ai écrites."
+   ],
+   "why": "Écrit → écrites: agreement with les (f pl)."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "prêter",
+   "en": "to lend",
+   "ex": "Tu me la prêtes?"
+  },
+  {
+   "fr": "emprunter",
+   "en": "to borrow",
+   "ex": "J'ai emprunté sa voiture."
+  },
+  {
+   "fr": "rendre",
+   "en": "to give back",
+   "ex": "Je te le rends demain."
+  },
+  {
+   "fr": "montrer",
+   "en": "to show",
+   "ex": "Montre-le-moi!"
+  },
+  {
+   "fr": "expliquer",
+   "en": "to explain",
+   "ex": "Il nous l'a expliqué."
+  },
+  {
+   "fr": "apporter",
+   "en": "to bring (a thing)",
+   "ex": "Je te l'apporte."
+  },
+  {
+   "fr": "passer",
+   "en": "to pass, hand over",
+   "ex": "Passe-moi le sel."
+  },
+  {
+   "fr": "promettre",
+   "en": "to promise",
+   "ex": "Je te le promets."
+  },
+  {
+   "fr": "mettre",
+   "en": "to put",
+   "ex": "Je les ai mises ici."
+  },
+  {
+   "fr": "ouvrir",
+   "en": "to open",
+   "ex": "Qui l'a ouverte?"
+  },
+  {
+   "fr": "la nouvelle",
+   "en": "piece of news",
+   "g": "f",
+   "ex": "Tu connais la nouvelle?"
+  },
+  {
+   "fr": "la lettre",
+   "en": "letter",
+   "g": "f",
+   "ex": "Je l'ai lue."
+  },
+  {
+   "fr": "le sel",
+   "en": "salt",
+   "g": "m",
+   "ex": "Passe-moi le sel."
+  },
+  {
+   "fr": "par cœur",
+   "en": "by heart",
+   "ex": "Je l'ai apprise par cœur."
+  },
+  {
+   "fr": "souper",
+   "en": "to have supper; supper (le souper)",
+   "ex": "On soupe à six heures.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "je le lui dis",
+    "tip": "juh-luh-lwi-DI, keep it smooth; casual speech drops the first e: j'le lui dis."
+   },
+   {
+    "fr": "je te le donne",
+    "tip": "Often [ch'tel donn] in fast speech."
+   },
+   {
+    "fr": "ouvert / ouverte",
+    "tip": "Masculine ends in [r], feminine adds a [t]: oo-VÈR / oo-VÈRT."
+   },
+   {
+    "fr": "mis / mise",
+    "tip": "MI vs MIZ: the feminine adds a [z] sound."
+   },
+   {
+    "fr": "pris / prise",
+    "tip": "PRI vs PRIZ."
+   },
+   {
+    "fr": "donne-le-moi",
+    "tip": "don-luh-MWA; the spoken version donne-moi-le is don-mwa-LUH."
+   }
+  ],
+  "title": "Le cadeau de Julie",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "As-tu donné le cadeau à Julie?",
+    "en": "Did you give the gift to Julie?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, je le lui ai donné hier soir.",
+    "en": "Yes, I gave it to her last night."
+   },
+   {
+    "s": "A",
+    "fr": "Pis la carte? Tu l'as écrite?",
+    "en": "And the card? Did you write it?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, je l'ai écrite et je l'ai mise dans la boîte.",
+    "en": "Yes, I wrote it and I put it in the box."
+   },
+   {
+    "s": "A",
+    "fr": "Elle a aimé les boucles d'oreilles?",
+    "en": "Did she like the earrings?"
+   },
+   {
+    "s": "B",
+    "fr": "Elle les a adorées! Elle les a mises tout de suite.",
+    "en": "She loved them! She put them on right away."
+   },
+   {
+    "s": "A",
+    "fr": "Super. Tu peux me montrer la photo?",
+    "en": "Great. Can you show me the photo?"
+   },
+   {
+    "s": "B",
+    "fr": "Attends, je te l'envoie. Voilà!",
+    "en": "Hang on, I'll send it to you. There!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "When did B give the gift?",
+    "options": [
+     "This morning",
+     "Last night",
+     "Last week"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What was the gift?",
+    "options": [
+     "A card",
+     "Earrings",
+     "A box of chocolates"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does B do at the end?",
+    "options": [
+     "Sends a photo",
+     "Calls Julie",
+     "Writes a card"
+    ],
+    "a": 0
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Answer with two pronouns: 'Tu prêtes ta voiture à ton frère? Tu me donnes ton numéro? Tu as dit la nouvelle à tes parents?'",
+   "model": "Oui, je la lui prête. Oui, je te le donne. Non, je ne la leur ai pas encore dite."
+  },
+  {
+   "prompt": "Ask a friend for three things with positive commands: pass me the salt, show me the photo, give me the keys.",
+   "model": "Passe-le-moi! Montre-la-moi! Donne-les-moi!"
+  },
+  {
+   "prompt": "Say 'I told him' the written way (je le lui ai dit), then the way you'll hear it in Quebec.",
+   "model": "Je le lui ai dit. / J'y ai dit."
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences about things you lent, gave or sent to people recently. Use at least two double pronouns and make every participle agree correctly.",
+  "model": "La semaine passée, ma voisine m'a demandé mon échelle. Je la lui ai prêtée tout de suite. Mes vieux livres? Je les ai donnés à la bibliothèque. Ma sœur voulait mes photos de vacances, alors je les lui ai envoyées. Mon frère m'a emprunté vingt dollars, mais il ne me les a pas encore rendus!"
+ },
+ "quiz": [
+  {
+   "q": "Which order is correct?",
+   "options": [
+    "Je lui le donne.",
+    "Je le lui donne.",
+    "Je lui donne le.",
+    "Le je lui donne."
+   ],
+   "a": 1,
+   "why": "Le/la/les before lui/leur."
+  },
+  {
+   "q": "Which order is correct?",
+   "options": [
+    "Il nous les montre.",
+    "Il les nous montre.",
+    "Il nous montre les.",
+    "Il les montre nous."
+   ],
+   "a": 0,
+   "why": "Nous before les."
+  },
+  {
+   "q": "'La fenêtre? Je l'ai ___.'",
+   "options": [
+    "fermé",
+    "fermée",
+    "fermés",
+    "fermer"
+   ],
+   "a": 1,
+   "why": "L' = la fenêtre (f), placed before avoir."
+  },
+  {
+   "q": "When does a participle with avoir agree?",
+   "options": [
+    "Always",
+    "Never",
+    "When a direct object comes before it",
+    "When the subject is feminine"
+   ],
+   "a": 2,
+   "why": "Agreement with a preceding direct object (le, la, les, me, te, que…)."
+  },
+  {
+   "q": "'Mes amies? Je leur ai ___.' (écrire)",
+   "options": [
+    "écrit",
+    "écrites",
+    "écrite",
+    "écrits"
+   ],
+   "a": 0,
+   "why": "Leur is indirect: no agreement."
+  },
+  {
+   "q": "Standard written form of 'Give it to me!'",
+   "options": [
+    "Donne-moi-le!",
+    "Donne-le-moi!",
+    "Me le donne!",
+    "Donne-le-me!"
+   ],
+   "a": 1,
+   "why": "Positive command: le before moi in writing."
+  },
+  {
+   "q": "In Quebec speech, 'J'y ai dit' replaces…",
+   "options": [
+    "Je le lui ai dit",
+    "J'y suis allé",
+    "Je leur ai dit",
+    "Je l'ai dit"
+   ],
+   "a": 0,
+   "why": "Le is dropped and lui becomes y."
+  },
+  {
+   "q": "Which agreement can you HEAR?",
+   "options": [
+    "Je l'ai vue.",
+    "Je l'ai mangée.",
+    "Je l'ai prise.",
+    "Je l'ai aimée."
+   ],
+   "a": 2,
+   "why": "Pris / prise: the feminine adds a [z] sound."
+  },
+  {
+   "q": "'Je vais ___ expliquer.' (it to you)",
+   "options": [
+    "le te",
+    "te l'",
+    "t'le",
+    "lui le"
+   ],
+   "a": 1,
+   "why": "Te before le; le becomes l' before a vowel: te l'expliquer."
+  }
+ ]
+}

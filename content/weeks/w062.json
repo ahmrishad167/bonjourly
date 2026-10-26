@@ -1,0 +1,671 @@
+{
+ "w": 62,
+ "title": "Transport and directions",
+ "goal": "By the end of this lesson you can talk about how you get around (en métro, à pied, en voiture), buy a ticket, ask for and give directions with the imperative, and understand everyday Quebec transport vocabulary.",
+ "learn": [
+  {
+   "h": "En or à? Getting around",
+   "body": [
+    "Use **en** for vehicles you get *inside*: *en voiture, en autobus, en métro, en train, en avion, en taxi*. Use **à** when you're *on* it or using your body: *à pied* (on foot), *à vélo, à moto, à cheval*.",
+    "To say which transport you take, use *prendre*: *Je prends le métro. Elle a pris l'autobus de 8 h.* Travel time: *Ça prend vingt minutes en métro.*"
+   ],
+   "table": {
+    "head": [
+     "en (inside)",
+     "à (on / by body)"
+    ],
+    "rows": [
+     [
+      "en voiture / en auto",
+      "à pied"
+     ],
+     [
+      "en autobus",
+      "à vélo"
+     ],
+     [
+      "en métro",
+      "à moto"
+     ],
+     [
+      "en train / en avion",
+      "à trottinette"
+     ]
+    ]
+   },
+   "tip": "Can you stand up and walk inside it? Use en. Otherwise, à."
+  },
+  {
+   "h": "Asking for directions",
+   "body": [
+    "Start politely: *Excusez-moi, pour aller à la gare, s'il vous plaît?* *Où est la station de métro la plus proche?* *Est-ce que c'est loin d'ici?*",
+    "Useful answers: *C'est tout près* (very close), *C'est à cinq minutes à pied*, *C'est assez loin, prenez l'autobus.*"
+   ]
+  },
+  {
+   "h": "Giving directions with the imperative",
+   "body": [
+    "Directions use the imperative (*vous* or *tu*): *Tournez à gauche. Continue tout droit. Traversez la rue. Prenez la deuxième à droite.*",
+    "Place words: *au coin de* (at the corner of), *en face de* (across from), *à côté de* (next to), *jusqu'à* (until, as far as), *au feu (rouge)* (at the light), *après le pont*."
+   ],
+   "table": {
+    "head": [
+     "French",
+     "English"
+    ],
+    "rows": [
+     [
+      "Tournez à droite / à gauche.",
+      "Turn right / left."
+     ],
+     [
+      "Continuez tout droit.",
+      "Keep going straight."
+     ],
+     [
+      "Traversez la rue.",
+      "Cross the street."
+     ],
+     [
+      "Prenez la première rue à droite.",
+      "Take the first street on the right."
+     ],
+     [
+      "Allez jusqu'au feu.",
+      "Go as far as the light."
+     ],
+     [
+      "C'est au coin de Peel et Sainte-Catherine.",
+      "It's at the corner of Peel and Sainte-Catherine."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Public transit",
+   "body": [
+    "*Un billet* (ticket), *un titre de transport* (fare), *une carte mensuelle* (monthly pass), *une station de métro*, *un arrêt d'autobus* (bus stop), *une ligne* (line), *faire une correspondance* (to transfer), *descendre à* (to get off at), *monter dans* (to get on).",
+    "*Je descends à la station Berri-UQAM et je prends la ligne orange.*"
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Je vais au travail en métro.",
+   "en": "I go to work by metro.",
+   "note": "en + vehicle"
+  },
+  {
+   "fr": "L'été, je vais au bureau à vélo.",
+   "en": "In summer, I bike to the office.",
+   "note": "à vélo"
+  },
+  {
+   "fr": "Ça prend quarante minutes en autobus.",
+   "en": "It takes forty minutes by bus.",
+   "note": "ça prend = it takes (time)"
+  },
+  {
+   "fr": "Excusez-moi, où est la station de métro la plus proche?",
+   "en": "Excuse me, where's the nearest metro station?",
+   "note": "superlative review"
+  },
+  {
+   "fr": "C'est à dix minutes à pied.",
+   "en": "It's a ten-minute walk.",
+   "note": "à + time + à pied"
+  },
+  {
+   "fr": "Continuez tout droit jusqu'au feu rouge.",
+   "en": "Keep going straight to the red light.",
+   "note": "jusqu'à + le = jusqu'au"
+  },
+  {
+   "fr": "Tournez à gauche sur la rue Saint-Denis.",
+   "en": "Turn left on Saint-Denis Street.",
+   "note": "sur la rue (Quebec usage; France: dans la rue)"
+  },
+  {
+   "fr": "La pharmacie est en face de la banque.",
+   "en": "The pharmacy is across from the bank.",
+   "note": "en face de"
+  },
+  {
+   "fr": "Prenez la ligne verte direction Angrignon.",
+   "en": "Take the green line toward Angrignon.",
+   "note": "direction + terminus"
+  },
+  {
+   "fr": "Il faut faire une correspondance à Lionel-Groulx.",
+   "en": "You have to transfer at Lionel-Groulx.",
+   "note": "faire une correspondance"
+  },
+  {
+   "fr": "Je descends au prochain arrêt.",
+   "en": "I'm getting off at the next stop.",
+   "note": "descendre"
+  },
+  {
+   "fr": "J'ai raté mon autobus ce matin.",
+   "en": "I missed my bus this morning.",
+   "note": "rater = to miss"
+  },
+  {
+   "fr": "Il y a de la congestion sur le pont Champlain.",
+   "en": "There's congestion on the Champlain Bridge.",
+   "note": "Montreal traffic report vocabulary"
+  },
+  {
+   "fr": "Où est-ce que je peux stationner?",
+   "en": "Where can I park?",
+   "note": "stationner (Quebec); France: se garer"
+  },
+  {
+   "fr": "Traverse la rue quand le feu est vert.",
+   "en": "Cross the street when the light is green.",
+   "note": "tu imperative"
+  },
+  {
+   "fr": "On a pris le traversier pour aller à Lévis.",
+   "en": "We took the ferry to Lévis.",
+   "note": "le traversier: Quebec word for ferry"
+  }
+ ],
+ "quebec": {
+  "intro": "Getting around in Quebec has its own words. 'Char' is the everyday word for car (informal), Quebecers say 'l'autobus' more than 'le bus', and Montreal life revolves around the métro and the bridges: on and off the island, you 'traverse le pont'. Stop signs say ARRÊT, and you 'stationnes' rather than 'te gares'.",
+  "items": [
+   {
+    "std": "J'ai pris ma voiture.",
+    "qc": "J'ai pris mon char.",
+    "en": "I took my car.",
+    "note": "char = car; informal but universal"
+   },
+   {
+    "std": "Je prends le bus.",
+    "qc": "Je prends l'autobus.",
+    "en": "I'm taking the bus.",
+    "note": "autobus is the normal Quebec word (some say 'une autobus', informal)"
+   },
+   {
+    "std": "Je me gare ici.",
+    "qc": "Je stationne ici.",
+    "en": "I'm parking here.",
+    "note": "stationner is standard in Quebec"
+   },
+   {
+    "std": "On traverse le pont pour aller à Longueuil.",
+    "qc": "On traverse le pont pour aller sur la Rive-Sud.",
+    "en": "We cross the bridge to go to the South Shore.",
+    "note": "la Rive-Sud / la Rive-Nord = Montreal's suburbs"
+   },
+   {
+    "std": "Tu peux me reconduire?",
+    "qc": "Tu peux me donner un lift?",
+    "en": "Can you give me a ride?",
+    "note": "lift is informal; reconduire is the standard Quebec verb"
+   },
+   {
+    "std": "Monte dans la voiture!",
+    "qc": "Embarque dans le char!",
+    "en": "Get in the car!",
+    "note": "embarquer / débarquer = get in / out; informal"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Je vais à l'école ___ pied.",
+   "options": [
+    "en",
+    "à",
+    "par",
+    "de"
+   ],
+   "a": 1,
+   "why": "À pied."
+  },
+  {
+   "t": "mcq",
+   "q": "Elle va à Québec ___ train.",
+   "options": [
+    "à",
+    "en",
+    "dans",
+    "sur"
+   ],
+   "a": 1,
+   "why": "En + vehicle you ride inside."
+  },
+  {
+   "t": "mcq",
+   "q": "'Turn right' (vous) =",
+   "options": [
+    "Tourne à droite.",
+    "Tournez à droite.",
+    "Tournez tout droit.",
+    "Tournez à gauche."
+   ],
+   "a": 1,
+   "why": "Vous imperative: tournez; à droite = right."
+  },
+  {
+   "t": "mcq",
+   "q": "'Tout droit' means…",
+   "options": [
+    "right",
+    "straight ahead",
+    "all right",
+    "to the right side"
+   ],
+   "a": 1,
+   "why": "Tout droit = straight ahead (à droite = right)."
+  },
+  {
+   "t": "fill",
+   "q": "Ça ___ trente minutes en métro. (takes)",
+   "a": [
+    "prend"
+   ],
+   "en": "It takes thirty minutes by metro.",
+   "why": "Ça prend + time."
+  },
+  {
+   "t": "fill",
+   "q": "La banque est en ___ de l'église. (across)",
+   "a": [
+    "face"
+   ],
+   "en": "The bank is across from the church.",
+   "why": "En face de."
+  },
+  {
+   "t": "fill",
+   "q": "Allez ___ la rue Peel. (as far as)",
+   "a": [
+    "jusqu'à"
+   ],
+   "en": "Go as far as Peel Street.",
+   "why": "Jusqu'à = as far as."
+  },
+  {
+   "t": "fill",
+   "q": "Je ___ à la prochaine station. (get off)",
+   "a": [
+    "descends"
+   ],
+   "en": "I'm getting off at the next station.",
+   "why": "Descendre = to get off."
+  },
+  {
+   "t": "build",
+   "en": "Take the second street on the left.",
+   "a": "Prenez la deuxième rue à gauche."
+  },
+  {
+   "t": "build",
+   "en": "It's a five-minute walk.",
+   "a": "C'est à cinq minutes à pied."
+  },
+  {
+   "t": "build",
+   "en": "I missed my bus.",
+   "a": "J'ai raté mon autobus."
+  },
+  {
+   "t": "translate",
+   "en": "I go to work by bike.",
+   "a": [
+    "Je vais au travail à vélo.",
+    "Je vais travailler à vélo.",
+    "Je vais au travail en vélo."
+   ],
+   "why": "À vélo (en vélo is common in speech)."
+  },
+  {
+   "t": "translate",
+   "en": "Where is the bus stop?",
+   "a": [
+    "Où est l'arrêt d'autobus?",
+    "Où est l'arrêt de bus?",
+    "Où se trouve l'arrêt d'autobus?",
+    "C'est où, l'arrêt d'autobus?"
+   ],
+   "why": "Un arrêt d'autobus."
+  },
+  {
+   "t": "translate",
+   "en": "Can I park here?",
+   "a": [
+    "Est-ce que je peux stationner ici?",
+    "Je peux stationner ici?",
+    "Puis-je stationner ici?",
+    "Je peux me stationner ici?",
+    "Est-ce que je peux me garer ici?",
+    "Je peux me garer ici?"
+   ],
+   "why": "Stationner (Quebec) or se garer."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "la voiture / l'auto",
+   "en": "car",
+   "g": "f",
+   "ex": "Je vais en auto."
+  },
+  {
+   "fr": "le char",
+   "en": "car (informal)",
+   "g": "m",
+   "ex": "Mon char est au garage.",
+   "qc": true
+  },
+  {
+   "fr": "l'autobus",
+   "en": "bus",
+   "g": "m",
+   "ex": "L'autobus est en retard."
+  },
+  {
+   "fr": "le métro",
+   "en": "subway, metro",
+   "g": "m",
+   "ex": "Je prends le métro."
+  },
+  {
+   "fr": "la station",
+   "en": "(metro) station",
+   "g": "f",
+   "ex": "La station Mont-Royal."
+  },
+  {
+   "fr": "l'arrêt",
+   "en": "stop (bus stop, stop sign)",
+   "g": "m",
+   "ex": "Un arrêt d'autobus."
+  },
+  {
+   "fr": "le pont",
+   "en": "bridge",
+   "g": "m",
+   "ex": "On traverse le pont."
+  },
+  {
+   "fr": "le feu (de circulation)",
+   "en": "traffic light",
+   "g": "m",
+   "ex": "Tournez au feu."
+  },
+  {
+   "fr": "le coin",
+   "en": "corner",
+   "g": "m",
+   "ex": "Au coin de la rue."
+  },
+  {
+   "fr": "tout droit",
+   "en": "straight ahead",
+   "ex": "Continuez tout droit."
+  },
+  {
+   "fr": "traverser",
+   "en": "to cross",
+   "ex": "Traverse la rue."
+  },
+  {
+   "fr": "rater",
+   "en": "to miss (a bus, a train)",
+   "ex": "J'ai raté le train."
+  },
+  {
+   "fr": "la correspondance",
+   "en": "transfer, connection",
+   "g": "f",
+   "ex": "Faites une correspondance à Berri."
+  },
+  {
+   "fr": "stationner",
+   "en": "to park",
+   "ex": "Défense de stationner.",
+   "qc": true
+  },
+  {
+   "fr": "le traversier",
+   "en": "ferry",
+   "g": "m",
+   "ex": "Le traversier Québec-Lévis.",
+   "qc": true
+  },
+  {
+   "fr": "embarquer / débarquer",
+   "en": "to get in / get out (of a vehicle)",
+   "ex": "Embarque, on part!",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "à droite / tout droit",
+    "tip": "a DRWAT (t pronounced) / tou DRWA (t silent): that's how you hear the difference."
+   },
+   {
+    "fr": "à gauche",
+    "tip": "a GÔSH."
+   },
+   {
+    "fr": "l'autobus",
+    "tip": "lo-to-BUSS: final s pronounced."
+   },
+   {
+    "fr": "en face de",
+    "tip": "ahn-FASS-duh."
+   },
+   {
+    "fr": "le char",
+    "tip": "Quebec: [luh shâr], long back â."
+   },
+   {
+    "fr": "jusqu'au",
+    "tip": "jus-KO."
+   }
+  ],
+  "title": "Perdu au centre-ville",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Excusez-moi, pour aller au Centre Bell, s'il vous plaît?",
+    "en": "Excuse me, how do I get to the Bell Centre, please?"
+   },
+   {
+    "s": "B",
+    "fr": "C'est pas loin. Vous êtes à pied?",
+    "en": "It's not far. Are you on foot?"
+   },
+   {
+    "s": "A",
+    "fr": "Oui.",
+    "en": "Yes."
+   },
+   {
+    "s": "B",
+    "fr": "Continuez tout droit sur la rue Sainte-Catherine jusqu'à la rue Peel.",
+    "en": "Keep going straight on Sainte-Catherine Street as far as Peel Street."
+   },
+   {
+    "s": "B",
+    "fr": "Au coin, tournez à gauche et descendez la rue. Le Centre Bell est à côté de la gare Lucien-L'Allier.",
+    "en": "At the corner, turn left and go down the street. The Bell Centre is next to Lucien-L'Allier station."
+   },
+   {
+    "s": "A",
+    "fr": "Ça prend combien de temps?",
+    "en": "How long does it take?"
+   },
+   {
+    "s": "B",
+    "fr": "À peu près quinze minutes à pied. Sinon, prenez le métro, ligne orange, et descendez à Lucien-L'Allier.",
+    "en": "About fifteen minutes on foot. Otherwise, take the metro, orange line, and get off at Lucien-L'Allier."
+   },
+   {
+    "s": "A",
+    "fr": "Merci beaucoup! Bonne soirée!",
+    "en": "Thanks a lot! Have a good evening!"
+   },
+   {
+    "s": "B",
+    "fr": "Bonne game! Go Habs Go!",
+    "en": "Enjoy the game! Go Habs Go!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Where does A want to go?",
+    "options": [
+     "The train station",
+     "The Bell Centre",
+     "Sainte-Catherine Street"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Where should A turn left?",
+    "options": [
+     "At Peel Street",
+     "At the bridge",
+     "At the metro station"
+    ],
+    "a": 0
+   },
+   {
+    "q": "How long does it take on foot?",
+    "options": [
+     "Five minutes",
+     "About fifteen minutes",
+     "Half an hour"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Describe how you get to work or school: the transport, how long it takes, and any transfer.",
+   "model": "Je vais au travail en métro. Je prends la ligne verte et je fais une correspondance à Berri-UQAM. Ça prend trente-cinq minutes."
+  },
+  {
+   "prompt": "Give directions from your home to the nearest grocery store, using at least three imperatives.",
+   "model": "Sors de la maison et tourne à droite. Continue tout droit jusqu'au feu. Traverse la rue: l'épicerie est en face de la pharmacie."
+  },
+  {
+   "prompt": "Ask a friend for a ride, Quebec style, and tell them to get in the car.",
+   "model": "Peux-tu me donner un lift? … Merci! Bon, j'embarque!"
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences of directions for a friend visiting you for the first time, by public transit and on foot. Mention a landmark, a transfer and how long it takes.",
+  "model": "Prends le métro, ligne orange, direction Montmorency. Descends à la station Laurier. En sortant, tourne à gauche sur la rue Laurier. Continue tout droit jusqu'au parc. Mon appartement est en face du parc, au coin de la rue Saint-Hubert. Ça prend environ vingt-cinq minutes du centre-ville."
+ },
+ "quiz": [
+  {
+   "q": "'By car' =",
+   "options": [
+    "à voiture",
+    "en voiture",
+    "par voiture",
+    "dans voiture"
+   ],
+   "a": 1,
+   "why": "En + vehicle."
+  },
+  {
+   "q": "'On foot' =",
+   "options": [
+    "en pied",
+    "à pied",
+    "par pied",
+    "de pied"
+   ],
+   "a": 1,
+   "why": "À pied."
+  },
+  {
+   "q": "'Ça prend une heure' means…",
+   "options": [
+    "It takes an hour",
+    "Take an hour",
+    "It's one o'clock",
+    "It's an hour away by car only"
+   ],
+   "a": 0,
+   "why": "Ça prend + time = it takes."
+  },
+  {
+   "q": "'Descendre' on public transit means…",
+   "options": [
+    "to get on",
+    "to get off",
+    "to go downstairs only",
+    "to transfer"
+   ],
+   "a": 1,
+   "why": "Descendre à la station X = get off at X."
+  },
+  {
+   "q": "'Faire une correspondance' means…",
+   "options": [
+    "to write a letter",
+    "to transfer (lines)",
+    "to miss the bus",
+    "to buy a ticket"
+   ],
+   "a": 1,
+   "why": "Correspondance = transfer."
+  },
+  {
+   "q": "In Quebec, 'char' means…",
+   "options": [
+    "tank",
+    "car",
+    "bus",
+    "train"
+   ],
+   "a": 1,
+   "why": "Char = car (informal)."
+  },
+  {
+   "q": "What do Quebec stop signs say?",
+   "options": [
+    "STOP",
+    "ARRÊT",
+    "HALTE",
+    "ARRÊTEZ"
+   ],
+   "a": 1,
+   "why": "ARRÊT."
+  },
+  {
+   "q": "'Le traversier' is…",
+   "options": [
+    "a crosswalk",
+    "a ferry",
+    "a bridge",
+    "a crossing guard"
+   ],
+   "a": 1,
+   "why": "Traversier = ferry (Quebec)."
+  },
+  {
+   "q": "How do you hear the difference between 'à droite' and 'tout droit'?",
+   "options": [
+    "You can't",
+    "The t is pronounced in droite",
+    "Droit has a nasal sound",
+    "Droite is longer by two syllables"
+   ],
+   "a": 1,
+   "why": "Droite [drwat] vs droit [drwa]."
+  }
+ ]
+}

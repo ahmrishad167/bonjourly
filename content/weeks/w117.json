@@ -1,0 +1,671 @@
+{
+ "w": 117,
+ "title": "Workplace French",
+ "goal": "By the end of this lesson you can handle everyday work situations in French: emails, meetings, scheduling and small talk with colleagues, using the terms recommended in Quebec (courriel, réunion, fin de semaine, stationnement) instead of common anglicisms.",
+ "learn": [
+  {
+   "h": "French at work in Quebec",
+   "body": [
+    "Under the Charter of the French Language, French is the normal language of work in Quebec, and employees have the right to work in French. The *Office québécois de la langue française* (OQLF) publishes recommended French terms, many of which you'll see in every office.",
+    "Tu or vous? Quebec workplaces are fairly informal: colleagues almost always say *tu*, and many people also say *tu* to their manager. Use *vous* with clients, with senior people you've just met, and in formal emails until the other person switches to *tu*."
+   ]
+  },
+  {
+   "h": "OQLF terms vs anglicisms",
+   "body": [
+    "Quebec French is known for creating French words for English tech and office terms. In speech you'll still hear the anglicisms, but in writing and in professional settings, use the recommended terms.",
+    "Note that some of these are more common in writing than speech: *clavarder* (to chat online) is used in official contexts like *clavardage en direct* (live chat) on websites, but colleagues often just say *écrire* or *texter*."
+   ],
+   "table": {
+    "head": [
+     "Anglicism (heard)",
+     "Recommended",
+     "English"
+    ],
+    "rows": [
+     [
+      "un email / un mail",
+      "un courriel",
+      "email"
+     ],
+     [
+      "chatter",
+      "clavarder",
+      "to chat online"
+     ],
+     [
+      "le week-end (France)",
+      "la fin de semaine",
+      "weekend"
+     ],
+     [
+      "le parking",
+      "le stationnement",
+      "parking (lot)"
+     ],
+     [
+      "un meeting",
+      "une réunion",
+      "meeting"
+     ],
+     [
+      "céduler",
+      "planifier, fixer, prévoir",
+      "to schedule"
+     ],
+     [
+      "canceller",
+      "annuler",
+      "to cancel"
+     ],
+     [
+      "le deadline",
+      "l'échéance, la date limite",
+      "deadline"
+     ],
+     [
+      "appliquer sur un poste",
+      "postuler à un poste",
+      "to apply for a job"
+     ]
+    ]
+   },
+   "tip": "Courriel = courrier + électronique. Clavarder = clavier (keyboard) + bavarder (chat)."
+  },
+  {
+   "h": "Writing a work email",
+   "body": [
+    "Open with *Bonjour Madame Tremblay,* or *Bonjour Marc,* (Quebec emails rarely use *Cher/Chère* outside very formal letters). State your purpose: *Je vous écris au sujet de…* / *Je fais suite à notre conversation de ce matin.*",
+    "Useful lines: *Vous trouverez ci-joint le rapport.* (Please find attached the report.) *Pourriez-vous me confirmer votre disponibilité?* *N'hésitez pas à communiquer avec moi si vous avez des questions.*",
+    "Close with *Merci à l'avance* or *Merci d'avance*, then *Cordialement*, *Bonne journée* or *Au plaisir* (a typical friendly Quebec sign-off), and your name."
+   ]
+  },
+  {
+   "h": "Meetings and scheduling",
+   "body": [
+    "A meeting is *une réunion* (in Quebec you'll also hear *une rencontre*). It has an *ordre du jour* (agenda), someone takes notes for the *compte rendu* (minutes), and you might *faire un suivi* (follow up) afterwards.",
+    "To schedule: *Est-ce qu'on peut fixer une rencontre mardi?* *Je suis disponible jeudi après-midi.* *On remet la réunion à la semaine prochaine.* (We're postponing the meeting to next week.)"
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Je t'envoie le document par courriel.",
+   "en": "I'll send you the document by email.",
+   "note": "courriel, the Quebec standard"
+  },
+  {
+   "fr": "Vous trouverez ci-joint le rapport mensuel.",
+   "en": "Please find attached the monthly report.",
+   "note": "ci-joint = attached"
+  },
+  {
+   "fr": "Je fais suite à notre conversation téléphonique.",
+   "en": "I'm following up on our phone conversation.",
+   "note": "faire suite à = to follow up on"
+  },
+  {
+   "fr": "Est-ce qu'on peut fixer une réunion jeudi matin?",
+   "en": "Can we set up a meeting Thursday morning?",
+   "note": "fixer instead of céduler"
+  },
+  {
+   "fr": "La réunion est annulée; on la remet à lundi.",
+   "en": "The meeting is cancelled; we're moving it to Monday.",
+   "note": "annuler, remettre à"
+  },
+  {
+   "fr": "Quelle est la date limite pour le projet?",
+   "en": "What's the deadline for the project?",
+   "note": "date limite / échéance"
+  },
+  {
+   "fr": "Je suis en télétravail les lundis et vendredis.",
+   "en": "I work from home on Mondays and Fridays.",
+   "note": "le télétravail"
+  },
+  {
+   "fr": "Le stationnement est gratuit pour les employés.",
+   "en": "Parking is free for employees.",
+   "note": "stationnement, not parking"
+  },
+  {
+   "fr": "Qu'est-ce que tu as fait en fin de semaine?",
+   "en": "What did you do on the weekend?",
+   "note": "Monday-morning small talk"
+  },
+  {
+   "fr": "Je suis responsable du service à la clientèle.",
+   "en": "I'm in charge of customer service.",
+   "note": "être responsable de, rather than the calque être en charge de"
+  },
+  {
+   "fr": "Pour joindre un agent, utilisez le clavardage en direct.",
+   "en": "To reach an agent, use the live chat.",
+   "note": "clavardage in customer service"
+  },
+  {
+   "fr": "Pourriez-vous me confirmer votre disponibilité?",
+   "en": "Could you confirm your availability?",
+   "note": "polite conditional in emails"
+  },
+  {
+   "fr": "J'ai fait du temps supplémentaire cette semaine.",
+   "en": "I worked overtime this week.",
+   "note": "Quebec usage; heures supplémentaires is also common"
+  },
+  {
+   "fr": "Elle a postulé à un poste de gestionnaire.",
+   "en": "She applied for a manager position.",
+   "note": "postuler à, not appliquer sur"
+  },
+  {
+   "fr": "N'hésitez pas à communiquer avec moi.",
+   "en": "Don't hesitate to contact me.",
+   "note": "communiquer avec = to contact, very Quebec-professional"
+  },
+  {
+   "fr": "Au plaisir de travailler avec vous!",
+   "en": "Looking forward to working with you!",
+   "note": "au plaisir, a typical Quebec closing"
+  }
+ ],
+ "quebec": {
+  "intro": "The OQLF recommends French terms like courriel, clavarder, fin de semaine and stationnement. In writing and formal settings, use them; in the break room you'll still hear plenty of English words.",
+  "items": [
+   {
+    "std": "un e-mail (France)",
+    "qc": "un courriel",
+    "en": "an email",
+    "note": "standard in Quebec, even in speech"
+   },
+   {
+    "std": "chatter en ligne",
+    "qc": "clavarder",
+    "en": "to chat online",
+    "note": "OQLF term; common in writing and customer service, less in casual speech"
+   },
+   {
+    "std": "le week-end (France)",
+    "qc": "la fin de semaine",
+    "en": "the weekend",
+    "note": "fin de semaine is what Quebecers actually say"
+   },
+   {
+    "std": "le parking (France)",
+    "qc": "le stationnement",
+    "en": "parking, parking lot",
+    "note": "neutral Quebec usage"
+   },
+   {
+    "std": "On peut planifier une réunion?",
+    "qc": "On peut-tu céduler un meeting?",
+    "en": "Can we schedule a meeting?",
+    "note": "céduler and meeting are anglicisms heard in offices; informal"
+   },
+   {
+    "std": "J'ai rempli le formulaire.",
+    "qc": "J'ai rempli le formulaire. (pas : J'ai complété la form)",
+    "en": "I filled out the form.",
+    "note": "la form and compléter un formulaire are common anglicisms"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Which term does the OQLF recommend for 'email'?",
+   "options": [
+    "le mail",
+    "le courriel",
+    "le e-mail",
+    "la lettre"
+   ],
+   "a": 1,
+   "why": "Courriel = courrier électronique."
+  },
+  {
+   "t": "mcq",
+   "q": "How do you say 'to schedule a meeting' in good French?",
+   "options": [
+    "céduler un meeting",
+    "fixer une réunion",
+    "booker un meeting",
+    "appliquer une réunion"
+   ],
+   "a": 1,
+   "why": "Fixer / planifier une réunion."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is a typical friendly Quebec email closing?",
+   "options": [
+    "Au plaisir",
+    "Je t'embrasse",
+    "Salutations distinguées",
+    "Bisous"
+   ],
+   "a": 0,
+   "why": "Au plaisir is very common in Quebec professional emails."
+  },
+  {
+   "t": "mcq",
+   "q": "'Vous trouverez ci-joint…' introduces…",
+   "options": [
+    "a meeting",
+    "an attachment",
+    "an apology",
+    "a deadline"
+   ],
+   "a": 1,
+   "why": "Ci-joint = attached."
+  },
+  {
+   "t": "fill",
+   "q": "Le ___ est gratuit pour les employés. (parking)",
+   "a": [
+    "stationnement"
+   ],
+   "en": "Parking is free for employees.",
+   "why": "Stationnement is the Quebec term."
+  },
+  {
+   "t": "fill",
+   "q": "Elle a ___ à un poste de directrice. (applied)",
+   "a": [
+    "postulé"
+   ],
+   "en": "She applied for a director position.",
+   "why": "Postuler à un poste."
+  },
+  {
+   "t": "fill",
+   "q": "La réunion est ___. (cancelled)",
+   "a": [
+    "annulée"
+   ],
+   "en": "The meeting is cancelled.",
+   "why": "Annuler, not canceller."
+  },
+  {
+   "t": "fill",
+   "q": "N'hésitez pas à ___ avec moi. (contact)",
+   "a": [
+    "communiquer"
+   ],
+   "en": "Don't hesitate to contact me.",
+   "why": "Communiquer avec = to contact."
+  },
+  {
+   "t": "build",
+   "en": "I'll send you the report by email.",
+   "a": "Je t'envoie le rapport par courriel."
+  },
+  {
+   "t": "build",
+   "en": "What did you do this weekend?",
+   "a": "Qu'est-ce que tu as fait en fin de semaine?"
+  },
+  {
+   "t": "build",
+   "en": "I work from home on Fridays.",
+   "a": "Je suis en télétravail le vendredi."
+  },
+  {
+   "t": "translate",
+   "en": "What's the deadline?",
+   "a": [
+    "Quelle est la date limite?",
+    "Quelle est l'échéance?",
+    "C'est quoi la date limite?",
+    "C'est quoi l'échéance?"
+   ],
+   "why": "Date limite / échéance, not deadline."
+  },
+  {
+   "t": "translate",
+   "en": "Can we move the meeting to Monday?",
+   "a": [
+    "Est-ce qu'on peut remettre la réunion à lundi?",
+    "Peut-on remettre la réunion à lundi?",
+    "Est-ce qu'on peut déplacer la réunion à lundi?",
+    "Est-ce qu'on peut reporter la réunion à lundi?",
+    "Pouvons-nous remettre la réunion à lundi?",
+    "Peut-on reporter la réunion à lundi?"
+   ],
+   "why": "Remettre / reporter / déplacer."
+  },
+  {
+   "t": "translate",
+   "en": "I'm in charge of the project.",
+   "a": [
+    "Je suis responsable du projet.",
+    "Je m'occupe du projet.",
+    "C'est moi qui suis responsable du projet."
+   ],
+   "why": "Être responsable de, not the calque être en charge de."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "le courriel",
+   "en": "email",
+   "g": "m",
+   "ex": "J'ai reçu ton courriel.",
+   "qc": true
+  },
+  {
+   "fr": "la pièce jointe",
+   "en": "attachment",
+   "g": "f",
+   "ex": "Le fichier est en pièce jointe."
+  },
+  {
+   "fr": "clavarder",
+   "en": "to chat online",
+   "ex": "On peut clavarder avec un agent.",
+   "qc": true
+  },
+  {
+   "fr": "la fin de semaine",
+   "en": "weekend",
+   "g": "f",
+   "ex": "Bonne fin de semaine!",
+   "qc": true
+  },
+  {
+   "fr": "le stationnement",
+   "en": "parking, parking lot",
+   "g": "m",
+   "ex": "Le stationnement est plein.",
+   "qc": true
+  },
+  {
+   "fr": "la réunion",
+   "en": "meeting",
+   "g": "f",
+   "ex": "J'ai une réunion à 10 h."
+  },
+  {
+   "fr": "l'ordre du jour",
+   "en": "agenda",
+   "g": "m",
+   "ex": "Le premier point à l'ordre du jour…"
+  },
+  {
+   "fr": "le compte rendu",
+   "en": "minutes, report",
+   "g": "m",
+   "ex": "Qui rédige le compte rendu?"
+  },
+  {
+   "fr": "le suivi",
+   "en": "follow-up",
+   "g": "m",
+   "ex": "Je vais faire un suivi demain."
+  },
+  {
+   "fr": "l'échéance",
+   "en": "deadline, due date",
+   "g": "f",
+   "ex": "L'échéance est vendredi."
+  },
+  {
+   "fr": "le télétravail",
+   "en": "remote work",
+   "g": "m",
+   "ex": "Je fais du télétravail deux jours par semaine."
+  },
+  {
+   "fr": "le / la gestionnaire",
+   "en": "manager",
+   "ex": "Ma gestionnaire est en vacances."
+  },
+  {
+   "fr": "postuler à",
+   "en": "to apply for",
+   "ex": "J'ai postulé à trois postes."
+  },
+  {
+   "fr": "la disponibilité",
+   "en": "availability",
+   "g": "f",
+   "ex": "Quelles sont tes disponibilités?"
+  },
+  {
+   "fr": "le congé",
+   "en": "day off, leave",
+   "g": "m",
+   "ex": "Je suis en congé vendredi."
+  },
+  {
+   "fr": "la paie",
+   "en": "pay, paycheque",
+   "g": "f",
+   "ex": "La paie est déposée aux deux semaines."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "courriel",
+    "tip": "koo-RYÈL: the i glides into the è."
+   },
+   {
+    "fr": "clavarder",
+    "tip": "kla-var-DÉ."
+   },
+   {
+    "fr": "stationnement",
+    "tip": "sta-syon-MAN."
+   },
+   {
+    "fr": "l'échéance",
+    "tip": "lé-shé-ANS."
+   },
+   {
+    "fr": "ci-joint",
+    "tip": "si-ZHWIN: nasal at the end."
+   },
+   {
+    "fr": "au plaisir",
+    "tip": "o-plè-ZIR."
+   }
+  ],
+  "title": "Lundi matin au bureau",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Salut Mélanie! As-tu passé une belle fin de semaine?",
+    "en": "Hi Mélanie! Did you have a nice weekend?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, on est allés aux pommes. Toi?",
+    "en": "Yes, we went apple picking. You?"
+   },
+   {
+    "s": "A",
+    "fr": "Tranquille. Dis donc, as-tu vu mon courriel pour la réunion?",
+    "en": "Quiet. Say, did you see my email about the meeting?"
+   },
+   {
+    "s": "B",
+    "fr": "Pas encore. C'est à quelle heure?",
+    "en": "Not yet. What time is it?"
+   },
+   {
+    "s": "A",
+    "fr": "On l'a remise à mercredi, 14 h. L'ordre du jour est en pièce jointe.",
+    "en": "We moved it to Wednesday, 2 p.m. The agenda is attached."
+   },
+   {
+    "s": "B",
+    "fr": "Parfait. Et l'échéance pour le rapport, c'est toujours vendredi?",
+    "en": "Perfect. And the deadline for the report, is it still Friday?"
+   },
+   {
+    "s": "A",
+    "fr": "Oui. Je vais faire un suivi avec le client demain.",
+    "en": "Yes. I'll follow up with the client tomorrow."
+   },
+   {
+    "s": "B",
+    "fr": "Super. Ah, et le stationnement est fermé jeudi pour le déneigement.",
+    "en": "Great. Oh, and the parking lot is closed Thursday for snow removal."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What did B do on the weekend?",
+    "options": [
+     "Went apple picking",
+     "Worked",
+     "Went skiing"
+    ],
+    "a": 0
+   },
+   {
+    "q": "When is the meeting now?",
+    "options": [
+     "Monday morning",
+     "Wednesday at 2 p.m.",
+     "Friday at 2 p.m."
+    ],
+    "a": 1
+   },
+   {
+    "q": "Why is the parking lot closed Thursday?",
+    "options": [
+     "Repairs",
+     "Snow removal",
+     "A holiday"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Introduce yourself to a new team: name, role, and what you're responsible for.",
+   "model": "Bonjour à tous! Je m'appelle Daniel et je suis le nouveau gestionnaire de projet. Je suis responsable du site Web et des relations avec les fournisseurs. Au plaisir de travailler avec vous!"
+  },
+  {
+   "prompt": "Propose a meeting time to a colleague and react to a counter-proposal.",
+   "model": "Est-ce qu'on peut fixer une réunion mardi à 10 h? … Ah, tu n'es pas disponible? Pas de problème, on peut la remettre à mercredi."
+  },
+  {
+   "prompt": "Replace the anglicisms: 'J'ai cédulé un meeting, pis je vais te forwarder le mail avec le deadline.'",
+   "model": "J'ai planifié une réunion, et je vais te transférer le courriel avec la date limite."
+  },
+  {
+   "prompt": "Monday small talk: ask a colleague about their weekend and answer the same question.",
+   "model": "Pis, ta fin de semaine? Moi, je suis allé au marché Jean-Talon et j'ai écouté un film."
+  }
+ ],
+ "write": {
+  "prompt": "Write a professional email (7–9 lines) to a client you've never met: introduce yourself, propose a meeting, mention an attachment, and close politely. Use vous.",
+  "model": "Bonjour Madame Bouchard,\nJe m'appelle Sarah Kim et je suis la nouvelle chargée de projet responsable de votre dossier. Je fais suite à l'appel de mon collègue la semaine dernière. Vous trouverez ci-joint la proposition révisée. Serait-il possible de fixer une rencontre pour en discuter? Je suis disponible mardi ou jeudi après-midi. N'hésitez pas à communiquer avec moi si vous avez des questions.\nMerci à l'avance et au plaisir,\nSarah Kim"
+ },
+ "quiz": [
+  {
+   "q": "What does the OQLF recommend for 'weekend' in Quebec?",
+   "options": [
+    "le week-end",
+    "la fin de semaine",
+    "le weekend",
+    "les vacances"
+   ],
+   "a": 1,
+   "why": "Fin de semaine."
+  },
+  {
+   "q": "'Clavarder' is formed from…",
+   "options": [
+    "clavier + bavarder",
+    "clé + parler",
+    "classe + bavarder",
+    "clavier + regarder"
+   ],
+   "a": 0,
+   "why": "Keyboard + chat."
+  },
+  {
+   "q": "Which is NOT an anglicism?",
+   "options": [
+    "céduler",
+    "canceller",
+    "annuler",
+    "booker"
+   ],
+   "a": 2,
+   "why": "Annuler is the French verb."
+  },
+  {
+   "q": "In most Quebec workplaces, colleagues…",
+   "options": [
+    "always use vous",
+    "usually use tu",
+    "use only English",
+    "use first names with vous"
+   ],
+   "a": 1,
+   "why": "Tu is the norm among colleagues."
+  },
+  {
+   "q": "'Faire un suivi' means…",
+   "options": [
+    "to follow someone",
+    "to follow up",
+    "to take notes",
+    "to cancel"
+   ],
+   "a": 1,
+   "why": "Suivi = follow-up."
+  },
+  {
+   "q": "'J'ai appliqué sur un poste' should be…",
+   "options": [
+    "J'ai postulé à un poste.",
+    "J'ai appliqué pour un poste.",
+    "J'ai mis un poste.",
+    "J'ai demandé sur un poste."
+   ],
+   "a": 0,
+   "why": "Postuler à un poste (or poser sa candidature)."
+  },
+  {
+   "q": "What is 'l'ordre du jour'?",
+   "options": [
+    "the daily order",
+    "the meeting agenda",
+    "the schedule of the day",
+    "the boss's orders"
+   ],
+   "a": 1,
+   "why": "Agenda of a meeting."
+  },
+  {
+   "q": "Which is the best way to say 'I'm in charge of the budget'?",
+   "options": [
+    "Je suis en charge du budget.",
+    "Je suis responsable du budget.",
+    "Je charge le budget.",
+    "J'ai la charge sur le budget."
+   ],
+   "a": 1,
+   "why": "Être en charge de is a calque from English."
+  },
+  {
+   "q": "'Le stationnement' means…",
+   "options": [
+    "the station",
+    "the parking lot",
+    "the stop",
+    "the parking ticket"
+   ],
+   "a": 1,
+   "why": "Quebec French for parking."
+  }
+ ]
+}

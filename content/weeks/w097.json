@@ -1,0 +1,649 @@
+{
+ "w": 97,
+ "title": "Compound prepositions: à côté de, en face de",
+ "goal": "By the end of this lesson you can locate people and things precisely with compound prepositions, handle the contractions du and des, use the same words as adverbs, and understand Quebec 'drette là' and 'en arrière de'.",
+ "learn": [
+  {
+   "h": "Prepositions ending in de",
+   "body": [
+    "Many French prepositions of place are built from several words and end in *de*: *à côté de* (next to), *en face de* (across from), *près de* (near), *loin de* (far from), *au milieu de* (in the middle of), *au bout de* (at the end of), *au fond de* (at the back / bottom of), *autour de* (around), *le long de* (along).",
+    "Because they end in *de*, they contract with *le* and *les*: *à côté du dépanneur*, *en face des toilettes*. No contraction with *la* or *l'*: *près de la gare*, *en face de l'église*."
+   ],
+   "table": {
+    "head": [
+     "",
+     "+ le",
+     "+ la",
+     "+ l'",
+     "+ les"
+    ],
+    "rows": [
+     [
+      "à côté de",
+      "à côté du parc",
+      "à côté de la banque",
+      "à côté de l'école",
+      "à côté des magasins"
+     ],
+     [
+      "en face de",
+      "en face du métro",
+      "en face de la poste",
+      "en face de l'hôtel",
+      "en face des bureaux"
+     ],
+     [
+      "près de",
+      "près du lac",
+      "près de la plage",
+      "près de l'aéroport",
+      "près des montagnes"
+     ]
+    ]
+   },
+   "tip": "de + le = du, de + les = des: à côté du, en face des."
+  },
+  {
+   "h": "Vertical and directional prepositions",
+   "body": [
+    "*au-dessus de* (above) / *au-dessous de* (below), *en haut de* (at the top of) / *en bas de* (at the bottom of), *à droite de* / *à gauche de* (to the right / left of), *à l'intérieur de* / *à l'extérieur de* (inside / outside), *au coin de* (at the corner of).",
+    "*Devant* (in front of) and *derrière* (behind) are simple prepositions: no *de*. *Devant la porte*, *derrière la maison*."
+   ],
+   "table": {
+    "head": [
+     "Preposition",
+     "Example"
+    ],
+    "rows": [
+     [
+      "au-dessus de",
+      "Le cadre est au-dessus du sofa."
+     ],
+     [
+      "en haut de",
+      "Il habite en haut de la côte."
+     ],
+     [
+      "au coin de",
+      "Le café est au coin de la rue."
+     ],
+     [
+      "au fond de",
+      "Les toilettes sont au fond du couloir."
+     ],
+     [
+      "le long de",
+      "On a marché le long du canal."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "With pronouns and without an object",
+   "body": [
+    "With a person pronoun, use the stressed form: *à côté de moi*, *en face d'elle*, *près de nous*, *loin d'eux*.",
+    "Without a following noun, drop *de* and the phrase becomes an adverb: *J'habite juste à côté.* (I live right next door.) *Le dépanneur est en face.* *Monte, je suis en haut.* *Les clés sont dessus / dessous.*"
+   ]
+  },
+  {
+   "h": "Non-place compound prepositions",
+   "body": [
+    "Other common ones: *au lieu de* (instead of), *grâce à* (thanks to), *à cause de* (because of), *à partir de* (from, starting from), *au sujet de* (about), *quant à* (as for), *jusqu'à* (until, as far as), *en dépit de* / *malgré* (despite).",
+    "*Grâce à* and *jusqu'à* end in *à*, so they contract: *grâce au soutien*, *jusqu'au coin*, *grâce aux bénévoles*."
+   ]
+  },
+  {
+   "h": "Quebec: drette là, en arrière de, proche",
+   "body": [
+    "*Drette* is an old pronunciation of *droit* still alive in Quebec speech: *drette là* (right there), *drette en face* (right across), *tourne à drette* (turn right). Informal; write *juste là*, *juste en face*, *à droite*.",
+    "Quebec commonly says *en arrière de* for *derrière* and *en dessous de* for *sous / au-dessous de*: *Le chat est en arrière du sofa.* *En arrière* is acceptable in neutral speech.",
+    "*Proche de* / *proche* often replaces *près de*: *C'est proche du métro.* And *au boutte* (pronounced with a t) is casual for *au bout*; *c'est au boutte!* means 'it's awesome'."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "La pharmacie est à côté de la banque.",
+   "en": "The pharmacy is next to the bank."
+  },
+  {
+   "fr": "J'habite en face du parc La Fontaine.",
+   "en": "I live across from La Fontaine Park.",
+   "note": "de + le = du"
+  },
+  {
+   "fr": "Il y a un arrêt d'autobus en face des bureaux.",
+   "en": "There's a bus stop across from the offices.",
+   "note": "de + les = des"
+  },
+  {
+   "fr": "Le chalet est près du lac, mais loin de la route.",
+   "en": "The cottage is near the lake but far from the road."
+  },
+  {
+   "fr": "Les toilettes sont au fond du couloir, à gauche.",
+   "en": "The washrooms are at the end of the hallway, on the left."
+  },
+  {
+   "fr": "Il y a une fontaine au milieu de la place.",
+   "en": "There's a fountain in the middle of the square."
+  },
+  {
+   "fr": "On a fait du vélo le long du canal de Lachine.",
+   "en": "We biked along the Lachine Canal."
+  },
+  {
+   "fr": "Le café est au coin de Saint-Denis et Rachel.",
+   "en": "The café is at the corner of Saint-Denis and Rachel."
+  },
+  {
+   "fr": "Assieds-toi à côté de moi.",
+   "en": "Sit next to me.",
+   "note": "stressed pronoun after de"
+  },
+  {
+   "fr": "Ma sœur habite juste à côté.",
+   "en": "My sister lives right next door.",
+   "note": "no object → no de"
+  },
+  {
+   "fr": "Le cadre est au-dessus de la cheminée.",
+   "en": "The picture is above the fireplace."
+  },
+  {
+   "fr": "Il y a du stationnement derrière l'immeuble.",
+   "en": "There's parking behind the building.",
+   "note": "derrière: no de"
+  },
+  {
+   "fr": "Au lieu de prendre l'auto, prends le métro.",
+   "en": "Instead of taking the car, take the metro."
+  },
+  {
+   "fr": "Grâce aux bénévoles, la fête a été un succès.",
+   "en": "Thanks to the volunteers, the party was a success.",
+   "note": "à + les = aux"
+  },
+  {
+   "fr": "À partir de lundi, le bureau ouvre à huit heures.",
+   "en": "Starting Monday, the office opens at eight."
+  },
+  {
+   "fr": "Le dépanneur? C'est drette là, en face de l'église.",
+   "en": "The convenience store? It's right there, across from the church.",
+   "note": "drette = right, informal Quebec"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebec speech keeps the old pronunciation 'drette' for 'droit': 'drette là' = right there. It also favours 'en arrière de' for 'derrière' and 'proche de' for 'près de'.",
+  "items": [
+   {
+    "std": "C'est juste là.",
+    "qc": "C'est drette là.",
+    "en": "It's right there.",
+    "note": "drette = droit; informal"
+   },
+   {
+    "std": "Tournez à droite au coin.",
+    "qc": "Tourne à drette au coin.",
+    "en": "Turn right at the corner.",
+    "note": "informal"
+   },
+   {
+    "std": "Le chat est derrière le sofa.",
+    "qc": "Le chat est en arrière du sofa.",
+    "en": "The cat is behind the couch.",
+    "note": "en arrière de: very common in Quebec"
+   },
+   {
+    "std": "C'est près du métro.",
+    "qc": "C'est proche du métro.",
+    "en": "It's close to the metro.",
+    "note": "proche de: common and acceptable in speech"
+   },
+   {
+    "std": "Les clés sont sous la table.",
+    "qc": "Les clés sont en dessous de la table.",
+    "en": "The keys are under the table.",
+    "note": "en dessous de: everyday speech"
+   },
+   {
+    "std": "Au bout de la rue, il y a un parc.",
+    "qc": "Au boutte de la rue, y a un parc.",
+    "en": "At the end of the street there's a park.",
+    "note": "boutte with a pronounced t: informal"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "La banque est en face ___ hôpital.",
+   "options": [
+    "du",
+    "de l'",
+    "de le",
+    "des"
+   ],
+   "a": 1,
+   "why": "Before a vowel: de l'."
+  },
+  {
+   "t": "mcq",
+   "q": "J'habite à côté ___ parc.",
+   "options": [
+    "de le",
+    "du",
+    "de",
+    "au"
+   ],
+   "a": 1,
+   "why": "de + le = du."
+  },
+  {
+   "t": "mcq",
+   "q": "Which preposition takes NO de?",
+   "options": [
+    "à côté",
+    "en face",
+    "derrière",
+    "près"
+   ],
+   "a": 2,
+   "why": "Derrière and devant are simple prepositions."
+  },
+  {
+   "t": "mcq",
+   "q": "'C'est drette là' means…",
+   "options": [
+    "It's to the right",
+    "It's right there",
+    "It's straight ahead, far away",
+    "It's dirty there"
+   ],
+   "a": 1,
+   "why": "Drette là = juste là (informal Quebec)."
+  },
+  {
+   "t": "fill",
+   "q": "Les toilettes sont au fond ___ couloir.",
+   "a": [
+    "du"
+   ],
+   "en": "The washrooms are at the end of the hallway.",
+   "why": "de + le = du."
+  },
+  {
+   "t": "fill",
+   "q": "Viens t'asseoir à côté de ___. (me)",
+   "a": [
+    "moi"
+   ],
+   "en": "Come sit next to me.",
+   "why": "Stressed pronoun after de."
+  },
+  {
+   "t": "fill",
+   "q": "Il y a un arrêt en face ___ magasins.",
+   "a": [
+    "des"
+   ],
+   "en": "There's a stop across from the stores.",
+   "why": "de + les = des."
+  },
+  {
+   "t": "fill",
+   "q": "Ma mère habite juste ___. (next door)",
+   "a": [
+    "à côté"
+   ],
+   "en": "My mother lives right next door.",
+   "why": "No object → à côté without de."
+  },
+  {
+   "t": "fill",
+   "q": "On a marché le long ___ fleuve.",
+   "a": [
+    "du"
+   ],
+   "en": "We walked along the river.",
+   "why": "Le long de + le fleuve → du."
+  },
+  {
+   "t": "build",
+   "en": "The café is at the corner of the street.",
+   "a": "Le café est au coin de la rue."
+  },
+  {
+   "t": "build",
+   "en": "Thanks to the volunteers, it was a success.",
+   "a": "Grâce aux bénévoles, c'était un succès."
+  },
+  {
+   "t": "build",
+   "en": "The picture is above the sofa.",
+   "a": "Le cadre est au-dessus du sofa."
+  },
+  {
+   "t": "translate",
+   "en": "I live across from the park.",
+   "a": [
+    "J'habite en face du parc.",
+    "Je vis en face du parc.",
+    "Je reste en face du parc."
+   ],
+   "why": "En face de + le parc = en face du parc."
+  },
+  {
+   "t": "translate",
+   "en": "The cat is behind the couch.",
+   "a": [
+    "Le chat est derrière le sofa.",
+    "Le chat est derrière le canapé.",
+    "Le chat est en arrière du sofa.",
+    "Le chat est derrière le divan.",
+    "Le chat est en arrière du divan."
+   ],
+   "why": "Derrière (standard) or en arrière de (Quebec speech)."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "à côté de",
+   "en": "next to",
+   "ex": "à côté de la gare"
+  },
+  {
+   "fr": "en face de",
+   "en": "across from, opposite",
+   "ex": "en face du métro"
+  },
+  {
+   "fr": "au fond de",
+   "en": "at the back / bottom of",
+   "ex": "au fond de la salle"
+  },
+  {
+   "fr": "au bout de",
+   "en": "at the end of",
+   "ex": "au bout de la rue"
+  },
+  {
+   "fr": "au milieu de",
+   "en": "in the middle of",
+   "ex": "au milieu de la nuit"
+  },
+  {
+   "fr": "autour de",
+   "en": "around",
+   "ex": "autour du lac"
+  },
+  {
+   "fr": "le long de",
+   "en": "along",
+   "ex": "le long du canal"
+  },
+  {
+   "fr": "au-dessus de",
+   "en": "above",
+   "ex": "au-dessus du lit"
+  },
+  {
+   "fr": "au coin de",
+   "en": "at the corner of",
+   "ex": "au coin de la rue"
+  },
+  {
+   "fr": "grâce à",
+   "en": "thanks to",
+   "ex": "grâce à toi"
+  },
+  {
+   "fr": "à partir de",
+   "en": "starting from",
+   "ex": "à partir de demain"
+  },
+  {
+   "fr": "le couloir",
+   "en": "hallway",
+   "g": "m",
+   "ex": "Le bureau est au bout du couloir."
+  },
+  {
+   "fr": "drette",
+   "en": "right, straight (informal for droit)",
+   "ex": "C'est drette là!",
+   "qc": true
+  },
+  {
+   "fr": "en arrière de",
+   "en": "behind",
+   "ex": "Stationne en arrière de la maison.",
+   "qc": true
+  },
+  {
+   "fr": "proche de",
+   "en": "close to",
+   "ex": "C'est proche de chez nous."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "à côté de",
+    "tip": "a-ko-TÉ-duh."
+   },
+   {
+    "fr": "en face du",
+    "tip": "an-fass-DÜ."
+   },
+   {
+    "fr": "au-dessus / au-dessous",
+    "tip": "o-duh-SÜ vs o-duh-SOU: ü vs ou makes the difference."
+   },
+   {
+    "fr": "drette",
+    "tip": "DRÈT: Quebec form of droit [drwa]."
+   },
+   {
+    "fr": "en arrière",
+    "tip": "an-na-RYÈR: liaison with n."
+   },
+   {
+    "fr": "au boutte",
+    "tip": "o-BOUTT: final t pronounced in the Quebec form."
+   }
+  ],
+  "title": "Demander son chemin",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Excusez-moi, je cherche la clinique dentaire.",
+    "en": "Excuse me, I'm looking for the dental clinic."
+   },
+   {
+    "s": "B",
+    "fr": "C'est au bout de la rue, en face de l'église.",
+    "en": "It's at the end of the street, across from the church."
+   },
+   {
+    "s": "A",
+    "fr": "À côté de la caisse populaire?",
+    "en": "Next to the credit union?"
+   },
+   {
+    "s": "B",
+    "fr": "Non, la caisse est de l'autre côté. La clinique est au-dessus de la pharmacie, au deuxième.",
+    "en": "No, the credit union is on the other side. The clinic is above the pharmacy, on the second floor."
+   },
+   {
+    "s": "A",
+    "fr": "Et il y a du stationnement?",
+    "en": "And is there parking?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, en arrière de l'édifice. L'entrée est drette là, à côté du dépanneur.",
+    "en": "Yes, behind the building. The entrance is right there, next to the convenience store."
+   },
+   {
+    "s": "A",
+    "fr": "Merci beaucoup! C'est loin d'ici à pied?",
+    "en": "Thank you very much! Is it far from here on foot?"
+   },
+   {
+    "s": "B",
+    "fr": "Pas du tout, c'est à cinq minutes, juste le long du parc.",
+    "en": "Not at all, it's five minutes away, just along the park."
+   }
+  ],
+  "questions": [
+   {
+    "q": "Where is the clinic?",
+    "options": [
+     "Next to the church",
+     "Above the pharmacy",
+     "Behind the bank"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Where is the parking?",
+    "options": [
+     "In front of the building",
+     "Behind the building",
+     "Across the street"
+    ],
+    "a": 1
+   },
+   {
+    "q": "How far is it on foot?",
+    "options": [
+     "Five minutes",
+     "Fifteen minutes",
+     "Half an hour"
+    ],
+    "a": 0
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Describe where your home is, using four compound prepositions.",
+   "model": "J'habite près du métro Jarry, en face d'un parc. Il y a une boulangerie à côté de chez moi et une épicerie au coin de la rue."
+  },
+  {
+   "prompt": "Describe your living room: where three objects are.",
+   "model": "La télé est en face du sofa. Il y a une lampe à côté de la fenêtre et un cadre au-dessus de la table."
+  },
+  {
+   "prompt": "Give casual Quebec directions using 'drette' and 'en arrière de'.",
+   "model": "Continue tout drette, pis le dépanneur est en arrière de l'église."
+  }
+ ],
+ "write": {
+  "prompt": "Write directions (5–6 sentences) from a metro station to your favourite café or restaurant for a friend visiting Montreal. Use at least six prepositions of place.",
+  "model": "Quand tu sors du métro Mont-Royal, tourne à gauche. Marche le long de l'avenue jusqu'au coin de la rue Saint-Denis. Le café est en face d'une librairie, à côté d'une petite fleuriste. L'entrée est au milieu du bloc. Les meilleures tables sont au fond, près de la fenêtre. Si tu ne trouves pas, appelle-moi: j'habite juste à côté!"
+ },
+ "quiz": [
+  {
+   "q": "à côté de + les magasins =",
+   "options": [
+    "à côté de les magasins",
+    "à côté des magasins",
+    "à côté aux magasins",
+    "à côté du magasins"
+   ],
+   "a": 1,
+   "why": "de + les = des."
+  },
+  {
+   "q": "'Across from' is…",
+   "options": [
+    "à côté de",
+    "en face de",
+    "au fond de",
+    "autour de"
+   ],
+   "a": 1,
+   "why": "En face de = opposite / across from."
+  },
+  {
+   "q": "Grâce ___ amis, j'ai trouvé un appartement.",
+   "options": [
+    "à les",
+    "aux",
+    "des",
+    "de les"
+   ],
+   "a": 1,
+   "why": "Grâce à + les = grâce aux."
+  },
+  {
+   "q": "'J'habite juste à côté' means…",
+   "options": [
+    "I live right next door",
+    "I live on the side",
+    "I live far away",
+    "I live across"
+   ],
+   "a": 0,
+   "why": "À côté without an object = next door."
+  },
+  {
+   "q": "'En arrière de' in Quebec means…",
+   "options": [
+    "in front of",
+    "behind",
+    "above",
+    "inside"
+   ],
+   "a": 1,
+   "why": "= derrière."
+  },
+  {
+   "q": "Which is correct?",
+   "options": [
+    "derrière de la maison",
+    "derrière la maison",
+    "derrière du maison",
+    "en derrière la maison"
+   ],
+   "a": 1,
+   "why": "Derrière takes no de."
+  },
+  {
+   "q": "'Drette' is…",
+   "options": [
+    "an English word",
+    "an old pronunciation of 'droit' kept in Quebec",
+    "a kind of street",
+    "a verb"
+   ],
+   "a": 1,
+   "why": "Drette là = right there."
+  },
+  {
+   "q": "Le cadre est ___ la cheminée. (above)",
+   "options": [
+    "au-dessous de",
+    "au-dessus de",
+    "en bas de",
+    "en dessous de"
+   ],
+   "a": 1,
+   "why": "Au-dessus = above; au-dessous = below."
+  },
+  {
+   "q": "With a pronoun: 'near her' =",
+   "options": [
+    "près d'elle",
+    "près de la",
+    "près elle",
+    "près de lui-elle"
+   ],
+   "a": 0,
+   "why": "Stressed pronoun: près d'elle."
+  }
+ ]
+}

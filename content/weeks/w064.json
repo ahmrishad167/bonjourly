@@ -1,0 +1,721 @@
+{
+ "w": 64,
+ "title": "Health, the body and the pharmacy",
+ "goal": "By the end of this lesson you can name the main parts of the body, say where it hurts and what symptoms you have, and get help at a pharmacy, a CLSC or a clinic in Quebec.",
+ "learn": [
+  {
+   "h": "Parts of the body",
+   "body": [
+    "Learn body parts with their article, because the article changes in the key expression *avoir mal à*: *la tête*, *le dos*, *le ventre*, *la gorge*, *les yeux*.",
+    "Watch the irregular plurals: *un œil* → *des yeux*, *le genou* → *les genoux*. And note that French uses the definite article with body parts where English uses *my*: *Je me lave les mains* (I wash my hands), *Il s'est cassé le bras* (He broke his arm)."
+   ],
+   "table": {
+    "head": [
+     "French",
+     "English",
+     "French",
+     "English"
+    ],
+    "rows": [
+     [
+      "la tête",
+      "head",
+      "le bras",
+      "arm"
+     ],
+     [
+      "les yeux (un œil)",
+      "eyes (an eye)",
+      "la main",
+      "hand"
+     ],
+     [
+      "l'oreille (f)",
+      "ear",
+      "le doigt",
+      "finger"
+     ],
+     [
+      "le nez",
+      "nose",
+      "le ventre",
+      "belly, stomach"
+     ],
+     [
+      "la bouche / les dents",
+      "mouth / teeth",
+      "la jambe",
+      "leg"
+     ],
+     [
+      "la gorge",
+      "throat",
+      "le genou (les genoux)",
+      "knee"
+     ],
+     [
+      "le cou",
+      "neck",
+      "le pied",
+      "foot"
+     ],
+     [
+      "le dos",
+      "back",
+      "le cœur",
+      "heart"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Saying where it hurts: avoir mal à",
+   "body": [
+    "To say something hurts, use *avoir mal à* + body part. The *à* contracts with the article like always: *à + le* = *au*, *à + les* = *aux*, but *à la* and *à l'* stay.",
+    "*J'ai mal à la tête* (I have a headache), *J'ai mal au dos* (my back hurts), *J'ai mal aux dents* (I have a toothache), *J'ai mal à l'oreille* (I have an earache).",
+    "To ask: *Où avez-vous mal?* / *Tu as mal où?* (Where does it hurt?). *Ça fait mal* means 'it hurts' in general, and *Ça me fait mal ici* means 'it hurts here'."
+   ],
+   "table": {
+    "head": [
+     "Article",
+     "With avoir mal à",
+     "English"
+    ],
+    "rows": [
+     [
+      "la tête",
+      "J'ai mal à la tête.",
+      "I have a headache."
+     ],
+     [
+      "le ventre",
+      "J'ai mal au ventre.",
+      "I have a stomach ache."
+     ],
+     [
+      "les pieds",
+      "J'ai mal aux pieds.",
+      "My feet hurt."
+     ],
+     [
+      "l'épaule",
+      "J'ai mal à l'épaule.",
+      "My shoulder hurts."
+     ]
+    ]
+   },
+   "tip": "au, à la, à l', aux: the same contractions you already use with places (au dépanneur, à la pharmacie)."
+  },
+  {
+   "h": "Symptoms and illnesses",
+   "body": [
+    "Many symptoms use *avoir*: *avoir de la fièvre* (to have a fever), *avoir le rhume* (to have a cold), *avoir la grippe* (to have the flu), *avoir la toux* or *tousser* (to cough), *avoir le nez qui coule* (to have a runny nose).",
+    "Others use *être*: *être malade* (to be sick), *être enrhumé(e)* (to have a cold), *être fatigué(e)*, *être enceinte* (to be pregnant).",
+    "Use the passé composé for what happened: *Je me suis coupé le doigt* (I cut my finger), *Elle s'est fait mal au genou* (She hurt her knee), *Il est tombé* (He fell)."
+   ]
+  },
+  {
+   "h": "At the pharmacy",
+   "body": [
+    "In Quebec the pharmacist (*le pharmacien*, *la pharmacienne*) can give a lot of advice and even treat some minor problems, so the pharmacy is often the first stop.",
+    "Useful phrases: *Avez-vous quelque chose pour la toux?* (Do you have something for a cough?), *Est-ce que j'ai besoin d'une ordonnance?* (Do I need a prescription?), *Combien de fois par jour?* (How many times a day?), *Je suis allergique à la pénicilline* (I'm allergic to penicillin).",
+    "Medicine words: *le médicament* (medication), *le comprimé* (tablet), *le sirop* (syrup), *la pommade* or *la crème* (ointment), *le pansement* (bandage)."
+   ]
+  },
+  {
+   "h": "The Quebec health system in French",
+   "body": [
+    "Your health card is officially *la carte d'assurance maladie*, issued by the RAMQ, but everyone calls it *la carte soleil* because of the old sun logo.",
+    "A *CLSC* (centre local de services communautaires) is a local public health centre for vaccines, nurses, blood tests and social services. For non-urgent advice you can call *Info-Santé 811*. For an emergency, go to *l'urgence* (the ER) or call *le 911*.",
+    "In Quebec, *avoir mal au cœur* does not mean your heart hurts: it means you feel nauseous. This is also the meaning in France. To say your heart or chest hurts, say *J'ai mal à la poitrine*."
+   ],
+   "tip": "Mal au cœur = nausea. Mal à la poitrine = chest pain (go to the ER!)."
+  }
+ ],
+ "examples": [
+  {
+   "fr": "J'ai mal à la tête depuis ce matin.",
+   "en": "I've had a headache since this morning.",
+   "note": "depuis + present for something still going on"
+  },
+  {
+   "fr": "Mon fils a mal aux oreilles.",
+   "en": "My son has an earache.",
+   "note": "à + les = aux, liaison [z] in aux‿oreilles"
+  },
+  {
+   "fr": "Elle a mal au dos parce qu'elle a déménagé.",
+   "en": "Her back hurts because she moved.",
+   "note": "à + le = au"
+  },
+  {
+   "fr": "J'ai de la fièvre et je tousse beaucoup.",
+   "en": "I have a fever and I'm coughing a lot.",
+   "note": "avoir de la fièvre: partitive article"
+  },
+  {
+   "fr": "Je pense que j'ai la grippe.",
+   "en": "I think I have the flu."
+  },
+  {
+   "fr": "Il s'est cassé la jambe en faisant du ski.",
+   "en": "He broke his leg skiing.",
+   "note": "definite article, not 'sa jambe'"
+  },
+  {
+   "fr": "Avez-vous quelque chose pour le mal de gorge?",
+   "en": "Do you have something for a sore throat?",
+   "note": "le mal de gorge: the noun form"
+  },
+  {
+   "fr": "Prenez deux comprimés trois fois par jour.",
+   "en": "Take two tablets three times a day.",
+   "note": "imperative with vous, typical pharmacist instruction"
+  },
+  {
+   "fr": "Est-ce que j'ai besoin d'une ordonnance?",
+   "en": "Do I need a prescription?"
+  },
+  {
+   "fr": "Je suis allergique aux arachides.",
+   "en": "I'm allergic to peanuts.",
+   "note": "arachides is the usual word on Canadian labels; cacahuètes in France"
+  },
+  {
+   "fr": "J'ai mal au cœur, je pense que je vais vomir.",
+   "en": "I feel nauseous, I think I'm going to throw up.",
+   "note": "mal au cœur = nausea"
+  },
+  {
+   "fr": "Où avez-vous mal exactement?",
+   "en": "Where exactly does it hurt?"
+  },
+  {
+   "fr": "Je me suis fait mal au genou hier.",
+   "en": "I hurt my knee yesterday.",
+   "note": "se faire mal à = to hurt (a body part)"
+  },
+  {
+   "fr": "Je vais au CLSC pour mon vaccin.",
+   "en": "I'm going to the CLSC for my vaccine.",
+   "note": "local public health centre"
+  },
+  {
+   "fr": "N'oubliez pas votre carte d'assurance maladie.",
+   "en": "Don't forget your health insurance card.",
+   "note": "often called la carte soleil"
+  },
+  {
+   "fr": "Il a le nez qui coule et les yeux rouges.",
+   "en": "He has a runny nose and red eyes.",
+   "note": "yeux is the plural of œil"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebec health vocabulary includes a few local names: the health card is 'la carte soleil', the local public clinic is the CLSC, and 'avoir mal au cœur' means nausea, not heart pain.",
+  "items": [
+   {
+    "std": "Ma carte d'assurance maladie",
+    "qc": "Ma carte soleil",
+    "en": "My health card",
+    "note": "Everyday name, from the old sun logo of the RAMQ card"
+   },
+   {
+    "std": "J'ai la nausée.",
+    "qc": "J'ai mal au cœur.",
+    "en": "I feel nauseous.",
+    "note": "Also used in France; never means heart pain"
+   },
+   {
+    "std": "J'ai une ordonnance.",
+    "qc": "J'ai une prescription.",
+    "en": "I have a prescription.",
+    "note": "Prescription is very common in Quebec speech; ordonnance is the official word"
+   },
+   {
+    "std": "Je suis enrhumé.",
+    "qc": "J'ai le rhume.",
+    "en": "I have a cold.",
+    "note": "Both are correct; avoir le rhume is the usual Quebec phrasing"
+   },
+   {
+    "std": "Je vais aux urgences.",
+    "qc": "Je m'en vais à l'urgence.",
+    "en": "I'm going to the ER.",
+    "note": "Quebec uses the singular l'urgence; France says les urgences"
+   },
+   {
+    "std": "Je suis très malade.",
+    "qc": "Chu malade comme un chien.",
+    "en": "I'm really sick.",
+    "note": "Informal; chu = je suis in fast speech"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "How do you say 'My back hurts'?",
+   "options": [
+    "J'ai mal à le dos.",
+    "J'ai mal au dos.",
+    "J'ai mal aux dos.",
+    "Mon dos a mal."
+   ],
+   "a": 1,
+   "why": "à + le contracts to au."
+  },
+  {
+   "t": "mcq",
+   "q": "In Quebec, 'J'ai mal au cœur' means…",
+   "options": [
+    "My heart hurts.",
+    "I feel nauseous.",
+    "I'm sad.",
+    "I'm in love."
+   ],
+   "a": 1,
+   "why": "Avoir mal au cœur = to feel sick to your stomach."
+  },
+  {
+   "t": "mcq",
+   "q": "What is the plural of 'un œil'?",
+   "options": [
+    "des œils",
+    "des yeux",
+    "des œuils",
+    "des yeuxs"
+   ],
+   "a": 1,
+   "why": "Œil has an irregular plural: yeux."
+  },
+  {
+   "t": "mcq",
+   "q": "Where would you go in Quebec for a vaccine or a blood test without an emergency?",
+   "options": [
+    "l'urgence",
+    "le CLSC",
+    "le dépanneur",
+    "la SAAQ"
+   ],
+   "a": 1,
+   "why": "The CLSC is the local public health centre."
+  },
+  {
+   "t": "fill",
+   "q": "J'ai mal ___ dents. (to the)",
+   "a": [
+    "aux"
+   ],
+   "en": "I have a toothache.",
+   "why": "à + les = aux."
+  },
+  {
+   "t": "fill",
+   "q": "Elle a mal ___ oreille. (to the)",
+   "a": [
+    "à l'"
+   ],
+   "en": "Her ear hurts.",
+   "why": "Before a vowel, à + l' stays separate."
+  },
+  {
+   "t": "fill",
+   "q": "Il s'est cassé ___ bras. (his)",
+   "a": [
+    "le"
+   ],
+   "en": "He broke his arm.",
+   "why": "French uses the definite article with body parts after a pronominal verb."
+  },
+  {
+   "t": "fill",
+   "q": "J'ai de la ___. (fever)",
+   "a": [
+    "fièvre"
+   ],
+   "en": "I have a fever.",
+   "why": "avoir de la fièvre."
+  },
+  {
+   "t": "build",
+   "en": "Take two tablets per day.",
+   "a": "Prenez deux comprimés par jour."
+  },
+  {
+   "t": "build",
+   "en": "Do I need a prescription?",
+   "a": "Est-ce que j'ai besoin d'une ordonnance?"
+  },
+  {
+   "t": "build",
+   "en": "I hurt my knee yesterday.",
+   "a": "Je me suis fait mal au genou hier."
+  },
+  {
+   "t": "translate",
+   "en": "I have a headache.",
+   "a": [
+    "J'ai mal à la tête."
+   ],
+   "why": "avoir mal à la tête."
+  },
+  {
+   "t": "translate",
+   "en": "I think I have the flu.",
+   "a": [
+    "Je pense que j'ai la grippe.",
+    "Je crois que j'ai la grippe."
+   ],
+   "why": "avoir la grippe."
+  },
+  {
+   "t": "translate",
+   "en": "Do you have something for a cough?",
+   "a": [
+    "Avez-vous quelque chose pour la toux?",
+    "Vous avez quelque chose pour la toux?",
+    "As-tu quelque chose pour la toux?",
+    "Tu as quelque chose pour la toux?",
+    "Est-ce que vous avez quelque chose pour la toux?",
+    "Est-ce que tu as quelque chose pour la toux?"
+   ],
+   "why": "quelque chose pour + symptom."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "la tête",
+   "en": "head",
+   "g": "f",
+   "ex": "J'ai mal à la tête."
+  },
+  {
+   "fr": "le dos",
+   "en": "back",
+   "g": "m",
+   "ex": "Il a mal au dos."
+  },
+  {
+   "fr": "le ventre",
+   "en": "belly, stomach",
+   "g": "m",
+   "ex": "L'enfant a mal au ventre."
+  },
+  {
+   "fr": "la gorge",
+   "en": "throat",
+   "g": "f",
+   "ex": "J'ai mal à la gorge."
+  },
+  {
+   "fr": "le genou",
+   "en": "knee (pl. genoux)",
+   "g": "m",
+   "ex": "Je me suis fait mal au genou."
+  },
+  {
+   "fr": "l'œil (pl. les yeux)",
+   "en": "eye",
+   "g": "m",
+   "ex": "Elle a les yeux bleus."
+  },
+  {
+   "fr": "la poitrine",
+   "en": "chest",
+   "g": "f",
+   "ex": "Il a mal à la poitrine, appelle le 911."
+  },
+  {
+   "fr": "avoir mal à",
+   "en": "to have pain in, to hurt",
+   "ex": "J'ai mal aux pieds."
+  },
+  {
+   "fr": "la fièvre",
+   "en": "fever",
+   "g": "f",
+   "ex": "Il a de la fièvre."
+  },
+  {
+   "fr": "le rhume",
+   "en": "cold (illness)",
+   "g": "m",
+   "ex": "J'ai le rhume depuis lundi."
+  },
+  {
+   "fr": "la grippe",
+   "en": "flu",
+   "g": "f",
+   "ex": "Elle a la grippe."
+  },
+  {
+   "fr": "tousser",
+   "en": "to cough",
+   "ex": "Je tousse toute la nuit."
+  },
+  {
+   "fr": "le médicament",
+   "en": "medication, medicine",
+   "g": "m",
+   "ex": "Ce médicament est sans ordonnance."
+  },
+  {
+   "fr": "l'ordonnance",
+   "en": "prescription",
+   "g": "f",
+   "ex": "J'ai une ordonnance du médecin."
+  },
+  {
+   "fr": "la carte soleil",
+   "en": "Quebec health card (informal name)",
+   "g": "f",
+   "ex": "Avez-vous votre carte soleil?",
+   "qc": true
+  },
+  {
+   "fr": "le CLSC",
+   "en": "local public health centre (Quebec)",
+   "g": "m",
+   "ex": "Le CLSC est ouvert jusqu'à 20 h.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "les yeux",
+    "tip": "Liaison in [z]: lay-ZYEU."
+   },
+   {
+    "fr": "un œil",
+    "tip": "œil sounds like [euy]: uh-NEUY."
+   },
+   {
+    "fr": "aux oreilles",
+    "tip": "Liaison: oh-zo-RAY."
+   },
+   {
+    "fr": "le genou, les genoux",
+    "tip": "Same sound: zhuh-NOO; the x is silent."
+   },
+   {
+    "fr": "la toux, tousser",
+    "tip": "toux = TOO (silent x); tousser = too-SAY."
+   },
+   {
+    "fr": "le cœur",
+    "tip": "œu like the vowel in 'her' without the r: KEUR."
+   },
+   {
+    "fr": "l'ordonnance",
+    "tip": "lor-do-NAHNSS, nasal at the end."
+   }
+  ],
+  "title": "À la pharmacie",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Bonjour, est-ce que je peux vous aider?",
+    "en": "Hello, can I help you?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, j'ai mal à la gorge et je tousse depuis trois jours.",
+    "en": "Yes, I have a sore throat and I've been coughing for three days."
+   },
+   {
+    "s": "A",
+    "fr": "Est-ce que vous avez de la fièvre?",
+    "en": "Do you have a fever?"
+   },
+   {
+    "s": "B",
+    "fr": "Non, mais je suis très fatiguée et j'ai le nez qui coule.",
+    "en": "No, but I'm very tired and I have a runny nose."
+   },
+   {
+    "s": "A",
+    "fr": "C'est probablement un rhume. Je vous conseille ce sirop.",
+    "en": "It's probably a cold. I recommend this syrup."
+   },
+   {
+    "s": "B",
+    "fr": "Est-ce que j'ai besoin d'une prescription?",
+    "en": "Do I need a prescription?"
+   },
+   {
+    "s": "A",
+    "fr": "Non, c'est sans ordonnance. Prenez-en une cuillère trois fois par jour.",
+    "en": "No, it's over the counter. Take one spoonful three times a day."
+   },
+   {
+    "s": "B",
+    "fr": "Parfait. Et si ça ne va pas mieux?",
+    "en": "Perfect. And if it doesn't get better?"
+   },
+   {
+    "s": "A",
+    "fr": "Appelez Info-Santé au 811 ou allez au CLSC.",
+    "en": "Call Info-Santé at 811 or go to the CLSC."
+   },
+   {
+    "s": "B",
+    "fr": "Merci beaucoup, bonne journée!",
+    "en": "Thanks a lot, have a nice day!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "How long has the customer been coughing?",
+    "options": [
+     "One day",
+     "Three days",
+     "A week"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does the pharmacist think the problem is?",
+    "options": [
+     "The flu",
+     "An allergy",
+     "A cold"
+    ],
+    "a": 2
+   },
+   {
+    "q": "How often should she take the syrup?",
+    "options": [
+     "Once a day",
+     "Twice a day",
+     "Three times a day"
+    ],
+    "a": 2
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "You have a headache and a sore throat. Tell the pharmacist and ask for something.",
+   "model": "Bonjour, j'ai mal à la tête et mal à la gorge. Avez-vous quelque chose pour ça?"
+  },
+  {
+   "prompt": "Say three body parts that hurt after a long day of moving boxes.",
+   "model": "J'ai mal au dos, j'ai mal aux bras et j'ai mal aux genoux."
+  },
+  {
+   "prompt": "Explain that you feel nauseous, the Quebec way, and that you have a fever.",
+   "model": "J'ai mal au cœur et j'ai de la fièvre depuis hier soir."
+  },
+  {
+   "prompt": "Ask the pharmacist how many times a day to take the medication and whether you need a prescription.",
+   "model": "Combien de fois par jour est-ce que je dois le prendre? Et est-ce que j'ai besoin d'une ordonnance?"
+  }
+ ],
+ "write": {
+  "prompt": "Write a short message (5–6 sentences) to your boss explaining that you are sick today: your symptoms, since when, and what you are going to do.",
+  "model": "Bonjour Julie, je suis malade aujourd'hui. J'ai de la fièvre et j'ai mal à la gorge depuis hier soir. J'ai aussi mal à la tête et je tousse beaucoup. Je vais aller à la pharmacie ce matin. Si ça ne va pas mieux, je vais appeler le 811. Je pense revenir au travail jeudi. Merci et bonne journée!"
+ },
+ "quiz": [
+  {
+   "q": "Which is correct?",
+   "options": [
+    "J'ai mal à les pieds.",
+    "J'ai mal aux pieds.",
+    "J'ai mal au pieds.",
+    "J'ai mal des pieds."
+   ],
+   "a": 1,
+   "why": "à + les = aux."
+  },
+  {
+   "q": "What does 'la carte soleil' refer to?",
+   "options": [
+    "A sunscreen card",
+    "A transit pass",
+    "The Quebec health card",
+    "A loyalty card"
+   ],
+   "a": 2,
+   "why": "It's the everyday name for the RAMQ health insurance card."
+  },
+  {
+   "q": "Which number gives non-urgent health advice in Quebec?",
+   "options": [
+    "911",
+    "811",
+    "311",
+    "411"
+   ],
+   "a": 1,
+   "why": "Info-Santé 811."
+  },
+  {
+   "q": "How do you say 'He broke his arm'?",
+   "options": [
+    "Il a cassé son bras.",
+    "Il s'est cassé le bras.",
+    "Il est cassé le bras.",
+    "Il s'a cassé le bras."
+   ],
+   "a": 1,
+   "why": "Pronominal verb + definite article; pronominal verbs use être."
+  },
+  {
+   "q": "'Le comprimé' is…",
+   "options": [
+    "a syrup",
+    "a tablet",
+    "a bandage",
+    "a needle"
+   ],
+   "a": 1,
+   "why": "Un comprimé = a pill or tablet."
+  },
+  {
+   "q": "To talk about chest pain, you say…",
+   "options": [
+    "J'ai mal au cœur.",
+    "J'ai mal à la poitrine.",
+    "J'ai mal au ventre.",
+    "J'ai le cœur."
+   ],
+   "a": 1,
+   "why": "Mal au cœur means nausea; chest pain is mal à la poitrine."
+  },
+  {
+   "q": "Which phrase means 'over the counter' (no prescription needed)?",
+   "options": [
+    "avec ordonnance",
+    "sans ordonnance",
+    "en ordonnance",
+    "par ordonnance"
+   ],
+   "a": 1,
+   "why": "Sans ordonnance = without a prescription."
+  },
+  {
+   "q": "In Quebec, the hospital emergency room is usually called…",
+   "options": [
+    "les urgences",
+    "l'urgence",
+    "le CLSC",
+    "la clinique"
+   ],
+   "a": 1,
+   "why": "Quebec uses the singular l'urgence."
+  },
+  {
+   "q": "Complete: 'Il a de la ___' (fever)",
+   "options": [
+    "fièvre",
+    "grippe",
+    "toux",
+    "rhume"
+   ],
+   "a": 0,
+   "why": "avoir de la fièvre."
+  }
+ ]
+}

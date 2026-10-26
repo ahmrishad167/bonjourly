@@ -1,0 +1,653 @@
+{
+ "w": 10,
+ "title": "Present tense, -er verbs",
+ "goal": "By the end of this lesson you can conjugate any regular -er verb in the present tense, know which forms sound the same, and recognise the casual Quebec 'j'parle, j'travaille'.",
+ "learn": [
+  {
+   "h": "The biggest verb family",
+   "body": [
+    "About 90% of French verbs end in *-er* in the infinitive: *parler* (to speak), *aimer* (to like), *habiter* (to live), *travailler* (to work). Almost all of them follow the same pattern, so once you know one, you know thousands.",
+    "To conjugate: remove *-er* to get the stem (*parl-*), then add the endings *-e, -es, -e, -ons, -ez, -ent*."
+   ],
+   "table": {
+    "head": [
+     "Pronoun",
+     "parler",
+     "aimer"
+    ],
+    "rows": [
+     [
+      "je / j'",
+      "parle",
+      "aime"
+     ],
+     [
+      "tu",
+      "parles",
+      "aimes"
+     ],
+     [
+      "il / elle / on",
+      "parle",
+      "aime"
+     ],
+     [
+      "nous",
+      "parlons",
+      "aimons"
+     ],
+     [
+      "vous",
+      "parlez",
+      "aimez"
+     ],
+     [
+      "ils / elles",
+      "parlent",
+      "aiment"
+     ]
+    ]
+   },
+   "tip": "The French present covers English 'I speak', 'I'm speaking' and 'I do speak'."
+  },
+  {
+   "h": "Four forms sound exactly the same",
+   "body": [
+    "The endings *-e, -es, -e* and *-ent* are all silent. *je parle, tu parles, il parle, ils parlent* all sound like [parl]. Only *nous parlons* [par-LÕ] and *vous parlez* [par-LAY] sound different.",
+    "This is good news for speaking: you mostly say [parl]. In writing, the endings matter. Never pronounce the *-ent* of *ils parlent*."
+   ],
+   "tip": "ils parlent = eel PARL. The -ent is silent on verbs."
+  },
+  {
+   "h": "Vowels and the letter j'",
+   "body": [
+    "Before a verb starting with a vowel or silent h, *je* becomes *j'*: *j'aime, j'habite, j'écoute*. In the plural, liaison links the pronoun: *nous‿aimons, vous‿habitez, ils‿écoutent* [z].",
+    "Two small spelling changes: verbs in *-ger* keep an *e* in the nous form (*nous mangeons*), and verbs in *-cer* take a *ç* (*nous commençons*). This keeps the soft g and c sounds."
+   ],
+   "table": {
+    "head": [
+     "Verb",
+     "nous form",
+     "Why"
+    ],
+    "rows": [
+     [
+      "manger",
+      "nous mangeons",
+      "ge keeps g soft before o"
+     ],
+     [
+      "voyager",
+      "nous voyageons",
+      "same rule"
+     ],
+     [
+      "commencer",
+      "nous commençons",
+      "ç keeps c soft before o"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Common -er verbs",
+   "body": [
+    "Start with these high-frequency verbs: *parler, aimer, habiter, travailler, manger, regarder* (to watch), *écouter* (to listen to), *chercher* (to look for), *jouer* (to play), *étudier* (to study), *arriver* (to arrive), *rester* (to stay).",
+    "Note: *regarder*, *écouter* and *chercher* take a direct object, with no 'at / to / for': *Je regarde la télé. J'écoute la radio. Je cherche mes clés.*"
+   ]
+  },
+  {
+   "h": "Quebec: j'parle, j'travaille",
+   "body": [
+    "In casual speech everywhere, and very strongly in Quebec, the *e* of *je* drops before a consonant: *je parle* → *j'parle*, *je travaille* → *j'travaille*. Before p, t, k, f and s it can even sound like 'ch': *j'pense* sounds like 'ch'pense'.",
+    "Quebec also has handy -er verbs of its own: *magasiner* (to go shopping), *jaser* (to chat), *clavarder* (to chat online). They conjugate like *parler*."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Je parle anglais et français.",
+   "en": "I speak English and French.",
+   "note": "parle: silent -e"
+  },
+  {
+   "fr": "Tu habites à Montréal?",
+   "en": "Do you live in Montreal?",
+   "note": "habites: the -s is silent"
+  },
+  {
+   "fr": "Elle travaille à l'hôpital.",
+   "en": "She works at the hospital."
+  },
+  {
+   "fr": "On mange au restaurant.",
+   "en": "We're eating at the restaurant.",
+   "note": "on + il form"
+  },
+  {
+   "fr": "Nous mangeons à midi.",
+   "en": "We eat at noon.",
+   "note": "mangeons keeps the e"
+  },
+  {
+   "fr": "Vous aimez le café?",
+   "en": "Do you like coffee?",
+   "note": "vous‿aimez [z]"
+  },
+  {
+   "fr": "Ils regardent la télé.",
+   "en": "They're watching TV.",
+   "note": "-ent is silent"
+  },
+  {
+   "fr": "J'écoute la radio.",
+   "en": "I'm listening to the radio.",
+   "note": "écouter: no 'to' in French"
+  },
+  {
+   "fr": "Je cherche mes clés.",
+   "en": "I'm looking for my keys.",
+   "note": "chercher: no 'for' in French"
+  },
+  {
+   "fr": "Les enfants jouent dehors.",
+   "en": "The kids are playing outside.",
+   "note": "jouent sounds like joue"
+  },
+  {
+   "fr": "Nous commençons à neuf heures.",
+   "en": "We start at nine o'clock.",
+   "note": "commençons with ç"
+  },
+  {
+   "fr": "J'étudie le français.",
+   "en": "I'm studying French."
+  },
+  {
+   "fr": "Il arrive ce soir.",
+   "en": "He arrives tonight."
+  },
+  {
+   "fr": "J'magasine le samedi.",
+   "en": "I go shopping on Saturdays.",
+   "note": "Quebec casual: j' + magasiner"
+  },
+  {
+   "fr": "On jase au café.",
+   "en": "We're chatting at the café.",
+   "note": "Quebec: jaser = to chat"
+  }
+ ],
+ "quebec": {
+  "intro": "In casual Quebec speech, je loses its vowel before most verbs: j'parle, j'travaille, j'mange. Quebec also has its own everyday -er verbs like magasiner and jaser.",
+  "items": [
+   {
+    "std": "Je parle français.",
+    "qc": "J'parle français.",
+    "en": "I speak French.",
+    "note": "informal pronunciation"
+   },
+   {
+    "std": "Je travaille demain.",
+    "qc": "J'travaille demain.",
+    "en": "I'm working tomorrow.",
+    "note": "sounds like 'ch'travaille'"
+   },
+   {
+    "std": "Je pense que oui.",
+    "qc": "J'pense que oui.",
+    "en": "I think so.",
+    "note": "sounds like 'ch'pense'"
+   },
+   {
+    "std": "Je fais du shopping.",
+    "qc": "J'magasine.",
+    "en": "I'm shopping.",
+    "note": "magasiner is standard in Quebec, not slang"
+   },
+   {
+    "std": "On bavarde.",
+    "qc": "On jase.",
+    "en": "We're chatting.",
+    "note": "jaser = chat; very common"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Nous ___ français. (parler)",
+   "options": [
+    "parle",
+    "parlons",
+    "parlez",
+    "parlent"
+   ],
+   "a": 1,
+   "why": "nous → -ons."
+  },
+  {
+   "t": "mcq",
+   "q": "Which form does NOT sound like [parl]?",
+   "options": [
+    "je parle",
+    "tu parles",
+    "vous parlez",
+    "ils parlent"
+   ],
+   "a": 2,
+   "why": "Only -ons and -ez are pronounced."
+  },
+  {
+   "t": "mcq",
+   "q": "How do you write 'we eat'?",
+   "options": [
+    "nous mangons",
+    "nous mangeons",
+    "nous mangeions",
+    "nous mangez"
+   ],
+   "a": 1,
+   "why": "-ger verbs keep the e before -ons."
+  },
+  {
+   "t": "mcq",
+   "q": "'I'm looking for my keys' is…",
+   "options": [
+    "Je cherche pour mes clés.",
+    "Je cherche mes clés.",
+    "Je regarde mes clés.",
+    "Je cherches mes clés."
+   ],
+   "a": 1,
+   "why": "chercher already contains 'for'."
+  },
+  {
+   "t": "mcq",
+   "q": "'Magasiner' means…",
+   "options": [
+    "to store",
+    "to go shopping",
+    "to read magazines",
+    "to work"
+   ],
+   "a": 1,
+   "why": "Quebec: magasiner = to shop."
+  },
+  {
+   "t": "fill",
+   "q": "Tu ___ à Montréal? (habiter)",
+   "a": [
+    "habites"
+   ],
+   "en": "Do you live in Montreal?",
+   "why": "tu → -es."
+  },
+  {
+   "t": "fill",
+   "q": "Ils ___ la télé. (regarder)",
+   "a": [
+    "regardent"
+   ],
+   "en": "They're watching TV.",
+   "why": "ils → -ent (silent)."
+  },
+  {
+   "t": "fill",
+   "q": "Vous ___ le café? (aimer)",
+   "a": [
+    "aimez"
+   ],
+   "en": "Do you like coffee?",
+   "why": "vous → -ez."
+  },
+  {
+   "t": "fill",
+   "q": "Nous ___ à neuf heures. (commencer)",
+   "a": [
+    "commençons"
+   ],
+   "en": "We start at nine.",
+   "why": "ç before o."
+  },
+  {
+   "t": "build",
+   "en": "I'm listening to the radio.",
+   "a": "J'écoute la radio."
+  },
+  {
+   "t": "build",
+   "en": "She works at the hospital.",
+   "a": "Elle travaille à l'hôpital."
+  },
+  {
+   "t": "translate",
+   "en": "We speak French.",
+   "a": [
+    "Nous parlons français.",
+    "On parle français."
+   ],
+   "why": "nous parlons or on parle."
+  },
+  {
+   "t": "translate",
+   "en": "The kids are playing outside.",
+   "a": [
+    "Les enfants jouent dehors."
+   ],
+   "why": "One present tense for 'play' and 'are playing'."
+  },
+  {
+   "t": "translate",
+   "en": "Do you like Montreal?",
+   "a": [
+    "Tu aimes Montréal?",
+    "Vous aimez Montréal?",
+    "Aimes-tu Montréal?",
+    "Aimez-vous Montréal?",
+    "Est-ce que tu aimes Montréal?",
+    "Est-ce que vous aimez Montréal?"
+   ],
+   "why": "tu aimes / vous aimez."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "parler",
+   "en": "to speak",
+   "ex": "Je parle français."
+  },
+  {
+   "fr": "aimer",
+   "en": "to like, to love",
+   "ex": "J'aime la musique."
+  },
+  {
+   "fr": "habiter",
+   "en": "to live (in a place)",
+   "ex": "Tu habites où?"
+  },
+  {
+   "fr": "travailler",
+   "en": "to work",
+   "ex": "Je travaille à Laval."
+  },
+  {
+   "fr": "manger",
+   "en": "to eat",
+   "ex": "On mange à six heures."
+  },
+  {
+   "fr": "regarder",
+   "en": "to watch, to look at",
+   "ex": "Je regarde la télé."
+  },
+  {
+   "fr": "écouter",
+   "en": "to listen to",
+   "ex": "J'écoute de la musique."
+  },
+  {
+   "fr": "chercher",
+   "en": "to look for",
+   "ex": "Je cherche un appartement."
+  },
+  {
+   "fr": "jouer",
+   "en": "to play",
+   "ex": "Ils jouent au hockey."
+  },
+  {
+   "fr": "étudier",
+   "en": "to study",
+   "ex": "J'étudie le soir."
+  },
+  {
+   "fr": "commencer",
+   "en": "to start, to begin",
+   "ex": "Le cours commence à neuf heures."
+  },
+  {
+   "fr": "rester",
+   "en": "to stay",
+   "ex": "Je reste à la maison."
+  },
+  {
+   "fr": "magasiner",
+   "en": "to go shopping",
+   "ex": "On magasine samedi?",
+   "qc": true
+  },
+  {
+   "fr": "jaser",
+   "en": "to chat",
+   "ex": "On jase un peu?",
+   "qc": true
+  },
+  {
+   "fr": "dehors",
+   "en": "outside",
+   "ex": "Les enfants jouent dehors."
+  },
+  {
+   "fr": "la clé",
+   "en": "key",
+   "g": "f",
+   "ex": "Je cherche mes clés."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "je parle, ils parlent",
+    "tip": "Both [parl]: the endings are silent."
+   },
+   {
+    "fr": "nous parlons",
+    "tip": "par-LÕ: the only form with a nasal ending."
+   },
+   {
+    "fr": "vous parlez",
+    "tip": "par-LAY: -ez sounds like é."
+   },
+   {
+    "fr": "ils aiment",
+    "tip": "eel-ZEM: liaison [z], silent -ent."
+   },
+   {
+    "fr": "j'écoute",
+    "tip": "zhay-KOOT: one flow."
+   },
+   {
+    "fr": "j'pense",
+    "tip": "Quebec casual: sounds like 'ch'pahns'."
+   }
+  ],
+  "title": "Une nouvelle collègue",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Salut! Tu travailles ici?",
+    "en": "Hi! Do you work here?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, je commence aujourd'hui. Je m'appelle Nadia.",
+    "en": "Yes, I start today. My name is Nadia."
+   },
+   {
+    "s": "A",
+    "fr": "Bienvenue! Tu habites près d'ici?",
+    "en": "Welcome! Do you live near here?"
+   },
+   {
+    "s": "B",
+    "fr": "Non, j'habite à Longueuil. Et toi?",
+    "en": "No, I live in Longueuil. And you?"
+   },
+   {
+    "s": "A",
+    "fr": "Moi, j'reste à côté. On mange ensemble à midi?",
+    "en": "I live next door. Shall we eat together at noon?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, avec plaisir! J'aime jaser.",
+    "en": "Yes, gladly! I like chatting."
+   },
+   {
+    "s": "A",
+    "fr": "Parfait. Après, on magasine un peu?",
+    "en": "Perfect. After, shall we shop a little?"
+   }
+  ],
+  "questions": [
+   {
+    "q": "When does Nadia start the job?",
+    "options": [
+     "Today",
+     "Tomorrow",
+     "Next week"
+    ],
+    "a": 0
+   },
+   {
+    "q": "Where does Nadia live?",
+    "options": [
+     "Next door",
+     "In Longueuil",
+     "In Laval"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What do they plan for noon?",
+    "options": [
+     "To eat together",
+     "To go shopping",
+     "To work"
+    ],
+    "a": 0
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Say where you live, where you work, and what languages you speak.",
+   "model": "J'habite à Montréal. Je travaille à Laval. Je parle anglais et un peu français."
+  },
+  {
+   "prompt": "Say three things you like and what you watch in the evening.",
+   "model": "J'aime le café, la musique et le hockey. Je regarde la télé le soir."
+  },
+  {
+   "prompt": "Conjugate 'parler' aloud, then say 'je parle' and 'je pense' the casual Quebec way.",
+   "model": "je parle, tu parles, il parle, nous parlons, vous parlez, ils parlent. / J'parle, j'pense."
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences about a typical weekday using at least five different -er verbs.",
+  "model": "Je travaille à Montréal. Je commence à neuf heures. À midi, je mange avec une collègue. On jase un peu. Le soir, je regarde la télé ou j'écoute de la musique."
+ },
+ "quiz": [
+  {
+   "q": "What are the present tense endings of -er verbs?",
+   "options": [
+    "-e, -es, -e, -ons, -ez, -ent",
+    "-s, -s, -t, -ons, -ez, -ent",
+    "-ai, -as, -a, -ons, -ez, -ont",
+    "-e, -e, -e, -on, -ez, -ent"
+   ],
+   "a": 0,
+   "why": "je parle, tu parles, il parle, nous parlons, vous parlez, ils parlent."
+  },
+  {
+   "q": "How is 'ils jouent' pronounced?",
+   "options": [
+    "eel zhoo",
+    "eel zhoo-ANT",
+    "eel zhoo-AY",
+    "eel zhwahn"
+   ],
+   "a": 0,
+   "why": "-ent is silent: same as il joue."
+  },
+  {
+   "q": "'J'écoute la radio' means…",
+   "options": [
+    "I'm watching the radio",
+    "I'm listening to the radio",
+    "I'm looking for the radio",
+    "I love the radio"
+   ],
+   "a": 1,
+   "why": "écouter = to listen to."
+  },
+  {
+   "q": "Why 'nous commençons' with ç?",
+   "options": [
+    "To keep the c soft before o",
+    "Because it's plural",
+    "It's a Quebec spelling",
+    "To show it's past tense"
+   ],
+   "a": 0,
+   "why": "Without ç, co would sound like 'ko'."
+  },
+  {
+   "q": "Which is 'on' + aimer?",
+   "options": [
+    "on aimons",
+    "on aime",
+    "on aimez",
+    "on aiment"
+   ],
+   "a": 1,
+   "why": "on takes the il/elle form."
+  },
+  {
+   "q": "'Je parle' in English can mean…",
+   "options": [
+    "only 'I speak'",
+    "'I speak' or 'I'm speaking'",
+    "only 'I'm speaking'",
+    "'I spoke'"
+   ],
+   "a": 1,
+   "why": "French has one present tense for both."
+  },
+  {
+   "q": "In casual Quebec, 'je travaille' often sounds like…",
+   "options": [
+    "j'travaille (ch'travaille)",
+    "chu travaille",
+    "je travaillons",
+    "t'travailles"
+   ],
+   "a": 0,
+   "why": "The e of je drops; before t it sounds like ch."
+  },
+  {
+   "q": "'Jaser' means…",
+   "options": [
+    "to jazz",
+    "to chat",
+    "to jump",
+    "to joke"
+   ],
+   "a": 1,
+   "why": "On jase = we're chatting."
+  },
+  {
+   "q": "Which verb is NOT a regular -er verb from this lesson?",
+   "options": [
+    "regarder",
+    "habiter",
+    "avoir",
+    "étudier"
+   ],
+   "a": 2,
+   "why": "avoir is irregular."
+  }
+ ]
+}

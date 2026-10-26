@@ -1,0 +1,650 @@
+{
+ "w": 15,
+ "title": "Il y a",
+ "goal": "By the end of this lesson you can say what there is and isn't with il y a and il n'y a pas de, ask whether something exists (Est-ce qu'il y a…?), use il y a for 'ago', and understand the spoken Quebec y'a, y'a pas and y'a-tu.",
+ "learn": [
+  {
+   "h": "Il y a = there is, there are",
+   "body": [
+    "*Il y a* introduces something that exists or is present. It never changes for singular or plural: *Il y a un café* (there is a café), *Il y a trois cafés* (there are three cafés).",
+    "It's usually followed by *un, une, des* or a number: *Il y a des enfants dans le parc.*"
+   ],
+   "table": {
+    "head": [
+     "French",
+     "English"
+    ],
+    "rows": [
+     [
+      "Il y a un dépanneur au coin.",
+      "There's a convenience store on the corner."
+     ],
+     [
+      "Il y a des enfants dans le parc.",
+      "There are children in the park."
+     ],
+     [
+      "Il y a deux chambres.",
+      "There are two bedrooms."
+     ],
+     [
+      "Il y a de la neige.",
+      "There's (some) snow."
+     ]
+    ]
+   },
+   "tip": "One form for singular and plural: il y a."
+  },
+  {
+   "h": "Negative: il n'y a pas de",
+   "body": [
+    "In the negative, *ne* goes before *y* and *pas* after *a*: *Il n'y a pas*. As you learned in lesson 12, *un, une, des* become *de* (or *d'*): *Il n'y a pas de café. Il n'y a pas d'enfants.*",
+    "Other negatives work the same way: *Il n'y a plus de lait* (there's no more milk), *Il n'y a rien* (there's nothing)."
+   ],
+   "table": {
+    "head": [
+     "Positive",
+     "Negative"
+    ],
+    "rows": [
+     [
+      "Il y a un parc.",
+      "Il n'y a pas de parc."
+     ],
+     [
+      "Il y a des chaises.",
+      "Il n'y a pas de chaises."
+     ],
+     [
+      "Il y a du lait.",
+      "Il n'y a plus de lait."
+     ],
+     [
+      "Il y a quelque chose.",
+      "Il n'y a rien."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Questions with il y a",
+   "body": [
+    "Casual: *Il y a un dépanneur ici?* Neutral: *Est-ce qu'il y a un dépanneur ici?* Formal: *Y a-t-il un dépanneur ici?*",
+    "*Qu'est-ce qu'il y a?* means 'What's wrong? / What's going on?' and *Combien de… est-ce qu'il y a?* asks how many: *Il y a combien de chambres?*"
+   ]
+  },
+  {
+   "h": "Il y a + time = ago",
+   "body": [
+    "Followed by a length of time, *il y a* means 'ago': *il y a deux ans* (two years ago), *il y a une heure* (an hour ago). You'll use it with past tenses later; for now, recognise it: *J'habite ici depuis un an* (for a year) vs *il y a un an* (a year ago)."
+   ]
+  },
+  {
+   "h": "Quebec: y'a, y'a pas, y'a-tu",
+   "body": [
+    "In speech, *il y a* almost always shrinks to *y'a* [ya]: *Y'a du monde!* (There are a lot of people!). The negative drops *ne* and becomes *y'a pas*: *Y'a pas de lait.* With the Quebec question particle: *Y'a-tu un dépanneur ici?*",
+    "*(Il n')y a pas de quoi* means 'you're welcome / don't mention it'. It's standard French; Quebecers just say it *y'a pas de quoi*, alongside *bienvenue*. Also: *Y'a pas de problème* (no problem)."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Il y a un dépanneur au coin.",
+   "en": "There's a convenience store on the corner."
+  },
+  {
+   "fr": "Il y a des enfants dans le parc.",
+   "en": "There are children in the park.",
+   "note": "same form for plural"
+  },
+  {
+   "fr": "Il y a trois chambres dans l'appartement.",
+   "en": "There are three bedrooms in the apartment."
+  },
+  {
+   "fr": "Il n'y a pas de lait.",
+   "en": "There's no milk.",
+   "note": "du → de after a negative"
+  },
+  {
+   "fr": "Il n'y a pas d'autobus le dimanche.",
+   "en": "There's no bus on Sundays.",
+   "note": "de → d' before a vowel"
+  },
+  {
+   "fr": "Il n'y a plus de pain.",
+   "en": "There's no more bread."
+  },
+  {
+   "fr": "Il n'y a rien dans le frigo.",
+   "en": "There's nothing in the fridge.",
+   "note": "frigo: everyday word for fridge"
+  },
+  {
+   "fr": "Est-ce qu'il y a une pharmacie près d'ici?",
+   "en": "Is there a pharmacy near here?"
+  },
+  {
+   "fr": "Y a-t-il des questions?",
+   "en": "Are there any questions?",
+   "note": "formal inversion"
+  },
+  {
+   "fr": "Il y a combien de personnes?",
+   "en": "How many people are there?"
+  },
+  {
+   "fr": "Qu'est-ce qu'il y a?",
+   "en": "What's wrong? / What's going on?"
+  },
+  {
+   "fr": "J'habite à Montréal depuis un an.",
+   "en": "I've lived in Montreal for a year.",
+   "note": "contrast: depuis = for (still true)"
+  },
+  {
+   "fr": "Je suis arrivé à Montréal il y a deux ans.",
+   "en": "I arrived in Montreal two years ago.",
+   "note": "il y a + time = ago (the past tense comes later; just recognise it)"
+  },
+  {
+   "fr": "Y'a du monde au centre-ville!",
+   "en": "There are a lot of people downtown!",
+   "note": "Quebec casual: y'a; du monde = people"
+  },
+  {
+   "fr": "Merci! — Y'a pas de quoi.",
+   "en": "Thanks! — Don't mention it.",
+   "note": "casual form of il n'y a pas de quoi"
+  }
+ ],
+ "quebec": {
+  "intro": "In speech, il y a becomes y'a, the negative becomes y'a pas, and Quebec adds the question particle: y'a-tu? Y'a pas de quoi (you're welcome) is the standard il n'y a pas de quoi, spoken.",
+  "items": [
+   {
+    "std": "Il y a beaucoup de gens.",
+    "qc": "Y'a du monde!",
+    "en": "There are lots of people!",
+    "note": "informal; du monde = people in Quebec"
+   },
+   {
+    "std": "Il n'y a pas de lait.",
+    "qc": "Y'a pas de lait.",
+    "en": "There's no milk.",
+    "note": "informal; ne dropped"
+   },
+   {
+    "std": "Est-ce qu'il y a un dépanneur ici?",
+    "qc": "Y'a-tu un dép icitte?",
+    "en": "Is there a convenience store here?",
+    "note": "informal; icitte = ici (rural/very casual)"
+   },
+   {
+    "std": "Il n'y a pas de quoi.",
+    "qc": "Y'a pas de quoi.",
+    "en": "You're welcome. / Don't mention it.",
+    "note": "casual pronunciation of a standard phrase"
+   },
+   {
+    "std": "Il n'y a pas de problème.",
+    "qc": "Y'a pas d'problème.",
+    "en": "No problem.",
+    "note": "informal"
+   },
+   {
+    "std": "Qu'est-ce qu'il y a?",
+    "qc": "Qu'est-ce qu'y a?",
+    "en": "What's wrong?",
+    "note": "informal"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "'There are three cafés' is…",
+   "options": [
+    "Il y a trois cafés.",
+    "Il y ont trois cafés.",
+    "Ils y a trois cafés.",
+    "Il sont trois cafés."
+   ],
+   "a": 0,
+   "why": "il y a never changes."
+  },
+  {
+   "t": "mcq",
+   "q": "Negative of 'Il y a un parc':",
+   "options": [
+    "Il y a pas un parc.",
+    "Il n'y a pas de parc.",
+    "Il n'y a pas un parc.",
+    "Il ne y a pas de parc."
+   ],
+   "a": 1,
+   "why": "n'y a pas + de."
+  },
+  {
+   "t": "mcq",
+   "q": "'Qu'est-ce qu'il y a?' usually means…",
+   "options": [
+    "What is there to eat?",
+    "What's wrong? / What's going on?",
+    "Where is it?",
+    "How much is it?"
+   ],
+   "a": 1,
+   "why": "A common way to ask what's up."
+  },
+  {
+   "t": "mcq",
+   "q": "'Il y a deux ans' means…",
+   "options": [
+    "for two years",
+    "two years ago",
+    "in two years",
+    "there are two years"
+   ],
+   "a": 1,
+   "why": "il y a + time = ago."
+  },
+  {
+   "t": "mcq",
+   "q": "How does a Quebecer usually say 'il y a' in speech?",
+   "options": [
+    "ilya",
+    "y'a",
+    "y'en a",
+    "ya-t-il"
+   ],
+   "a": 1,
+   "why": "il y a → y'a."
+  },
+  {
+   "t": "fill",
+   "q": "Il ___ a pas de pain. (there isn't)",
+   "a": [
+    "n'y"
+   ],
+   "en": "There's no bread.",
+   "why": "ne + y → n'y."
+  },
+  {
+   "t": "fill",
+   "q": "Il n'y a pas ___ autobus le dimanche. (any)",
+   "a": [
+    "d'"
+   ],
+   "en": "There's no bus on Sundays.",
+   "why": "de → d' before a vowel."
+  },
+  {
+   "t": "fill",
+   "q": "Est-ce qu'il y ___ une pharmacie ici? (has)",
+   "a": [
+    "a"
+   ],
+   "en": "Is there a pharmacy here?",
+   "why": "il y a."
+  },
+  {
+   "t": "fill",
+   "q": "Il n'y a ___ dans le frigo. (nothing)",
+   "a": [
+    "rien"
+   ],
+   "en": "There's nothing in the fridge.",
+   "why": "ne … rien."
+  },
+  {
+   "t": "build",
+   "en": "There are children in the park.",
+   "a": "Il y a des enfants dans le parc."
+  },
+  {
+   "t": "build",
+   "en": "Are there any questions?",
+   "a": "Y a-t-il des questions?"
+  },
+  {
+   "t": "translate",
+   "en": "Is there a pharmacy near here?",
+   "a": [
+    "Est-ce qu'il y a une pharmacie près d'ici?",
+    "Il y a une pharmacie près d'ici?",
+    "Y a-t-il une pharmacie près d'ici?",
+    "Y'a une pharmacie près d'ici?",
+    "Y'a-tu une pharmacie près d'ici?"
+   ],
+   "why": "Any register works."
+  },
+  {
+   "t": "translate",
+   "en": "There's no milk.",
+   "a": [
+    "Il n'y a pas de lait.",
+    "Il y a pas de lait.",
+    "Y'a pas de lait.",
+    "Il n'y a plus de lait."
+   ],
+   "why": "du → de after the negative."
+  },
+  {
+   "t": "translate",
+   "en": "No problem.",
+   "a": [
+    "Pas de problème.",
+    "Il n'y a pas de problème.",
+    "Y'a pas de problème.",
+    "Aucun problème."
+   ],
+   "why": "Pas de problème is the short form."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "il y a",
+   "en": "there is, there are; ago",
+   "ex": "Il y a un parc."
+  },
+  {
+   "fr": "il n'y a pas de",
+   "en": "there isn't / aren't any",
+   "ex": "Il n'y a pas de lait."
+  },
+  {
+   "fr": "y'a",
+   "en": "there is (spoken)",
+   "ex": "Y'a du monde!",
+   "qc": true
+  },
+  {
+   "fr": "Il n'y a pas de quoi.",
+   "en": "You're welcome. / Don't mention it.",
+   "ex": "Merci! — Il n'y a pas de quoi."
+  },
+  {
+   "fr": "le monde",
+   "en": "people (Quebec: du monde); the world",
+   "g": "m",
+   "ex": "Y'a beaucoup de monde.",
+   "qc": true
+  },
+  {
+   "fr": "le coin",
+   "en": "corner",
+   "g": "m",
+   "ex": "Il y a un café au coin."
+  },
+  {
+   "fr": "le parc",
+   "en": "park",
+   "g": "m",
+   "ex": "On va au parc."
+  },
+  {
+   "fr": "la chambre",
+   "en": "bedroom",
+   "g": "f",
+   "ex": "Il y a deux chambres."
+  },
+  {
+   "fr": "le frigo",
+   "en": "fridge",
+   "g": "m",
+   "ex": "Il n'y a rien dans le frigo."
+  },
+  {
+   "fr": "le centre-ville",
+   "en": "downtown",
+   "g": "m",
+   "ex": "Je travaille au centre-ville."
+  },
+  {
+   "fr": "la personne",
+   "en": "person",
+   "g": "f",
+   "ex": "Il y a dix personnes."
+  },
+  {
+   "fr": "quelque chose",
+   "en": "something",
+   "ex": "Il y a quelque chose sur la table."
+  },
+  {
+   "fr": "rien",
+   "en": "nothing",
+   "ex": "Il n'y a rien."
+  },
+  {
+   "fr": "beaucoup de",
+   "en": "a lot of",
+   "ex": "Il y a beaucoup de neige."
+  },
+  {
+   "fr": "près d'ici",
+   "en": "near here",
+   "ex": "Il y a un métro près d'ici?"
+  },
+  {
+   "fr": "icitte",
+   "en": "here (very informal)",
+   "ex": "Viens icitte!",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "il y a",
+    "tip": "Careful: ee-lee-A. Normal speech: ee-LYA."
+   },
+   {
+    "fr": "y'a",
+    "tip": "Quebec spoken: YA, one syllable."
+   },
+   {
+    "fr": "il n'y a pas",
+    "tip": "eel nya PA."
+   },
+   {
+    "fr": "y a-t-il",
+    "tip": "ya-TEEL."
+   },
+   {
+    "fr": "Qu'est-ce qu'il y a?",
+    "tip": "kess-kee-LYA; Quebec casual: kess-KYA."
+   },
+   {
+    "fr": "y'a pas de quoi",
+    "tip": "ya pad-KWA."
+   }
+  ],
+  "title": "La visite de l'appartement",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Bonjour! Voici l'appartement. Il y a deux chambres.",
+    "en": "Hello! Here's the apartment. There are two bedrooms."
+   },
+   {
+    "s": "B",
+    "fr": "Est-ce qu'il y a un stationnement?",
+    "en": "Is there a parking spot?"
+   },
+   {
+    "s": "A",
+    "fr": "Non, il n'y a pas de stationnement, mais il y a un métro au coin.",
+    "en": "No, there's no parking, but there's a metro on the corner."
+   },
+   {
+    "s": "B",
+    "fr": "Et y'a-tu un dépanneur près d'ici?",
+    "en": "And is there a convenience store near here?"
+   },
+   {
+    "s": "A",
+    "fr": "Oui, y'a un dép juste en face.",
+    "en": "Yes, there's one right across the street."
+   },
+   {
+    "s": "B",
+    "fr": "Parfait. Merci beaucoup!",
+    "en": "Perfect. Thank you very much!"
+   },
+   {
+    "s": "A",
+    "fr": "Y'a pas de quoi!",
+    "en": "Don't mention it!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "How many bedrooms are there?",
+    "options": [
+     "One",
+     "Two",
+     "Three"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Is there parking?",
+    "options": [
+     "Yes",
+     "No",
+     "Only on Sundays"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Where is the convenience store?",
+    "options": [
+     "Across the street",
+     "Downtown",
+     "There isn't one"
+    ],
+    "a": 0
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Describe your neighbourhood: say three things there are and one thing there isn't.",
+   "model": "Dans mon quartier, il y a un parc, un dépanneur et une école. Il n'y a pas de métro."
+  },
+  {
+   "prompt": "Ask a stranger if there's a pharmacy near here, politely.",
+   "model": "Excusez-moi, est-ce qu'il y a une pharmacie près d'ici?"
+  },
+  {
+   "prompt": "Say the same question to a friend, Quebec style.",
+   "model": "Y'a-tu une pharmacie près d'ici?"
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences describing your home: what rooms and things there are and aren't.",
+  "model": "J'habite dans un appartement. Il y a deux chambres et une petite cuisine. Il y a un grand salon. Il n'y a pas de stationnement. Il y a un parc et un dépanneur au coin."
+ },
+ "quiz": [
+  {
+   "q": "'Il y a' changes in the plural to…",
+   "options": [
+    "Ils y ont",
+    "Il y a (no change)",
+    "Il y sont",
+    "Il y avons"
+   ],
+   "a": 1,
+   "why": "il y a is invariable."
+  },
+  {
+   "q": "Where does 'ne' go in the negative of il y a?",
+   "options": [
+    "before il",
+    "before y",
+    "after a",
+    "nowhere"
+   ],
+   "a": 1,
+   "why": "Il n'y a pas."
+  },
+  {
+   "q": "'Y a-t-il…?' is…",
+   "options": [
+    "casual",
+    "formal",
+    "Quebec slang",
+    "a mistake"
+   ],
+   "a": 1,
+   "why": "Inversion is the formal register."
+  },
+  {
+   "q": "'Il y a une heure' means…",
+   "options": [
+    "There's one hour",
+    "An hour ago",
+    "In an hour",
+    "For an hour"
+   ],
+   "a": 1,
+   "why": "il y a + time = ago."
+  },
+  {
+   "q": "'Y'a du monde!' means…",
+   "options": [
+    "There's a world!",
+    "There are lots of people!",
+    "It's worldwide!",
+    "There's nobody!"
+   ],
+   "a": 1,
+   "why": "In Quebec, du monde = people."
+  },
+  {
+   "q": "'Y'a pas de quoi' answers…",
+   "options": [
+    "Merci!",
+    "Bonjour!",
+    "Comment ça va?",
+    "Pardon?"
+   ],
+   "a": 0,
+   "why": "It means 'you're welcome'."
+  },
+  {
+   "q": "'Y'a-tu un dép?' is casual Quebec for…",
+   "options": [
+    "Is there a convenience store?",
+    "Do you have a deposit?",
+    "Are you depressed?",
+    "Is it a department?"
+   ],
+   "a": 0,
+   "why": "y'a + -tu question particle; dép = dépanneur."
+  },
+  {
+   "q": "Which is correct?",
+   "options": [
+    "Il n'y a pas des enfants.",
+    "Il n'y a pas d'enfants.",
+    "Il n'y a pas les enfants.",
+    "Il y a pas enfants."
+   ],
+   "a": 1,
+   "why": "des → d' after a negative, before a vowel."
+  },
+  {
+   "q": "'Il n'y a rien' means…",
+   "options": [
+    "There's nothing",
+    "There's no one",
+    "There isn't any more",
+    "There's never"
+   ],
+   "a": 0,
+   "why": "ne … rien = nothing."
+  }
+ ]
+}

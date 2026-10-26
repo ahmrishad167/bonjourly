@@ -1,0 +1,611 @@
+{
+ "w": 81,
+ "title": "Writing lesson: emails and text messages",
+ "goal": "By the end of this lesson you can write a clear, polite email in French (subject, greeting, purpose, request, sign-off) and casual text messages with common abbreviations, and you know the Quebec conventions: courriel, texto, 'Bonne journée!' and 'Au plaisir'.",
+ "learn": [
+  {
+   "h": "The structure of a French email",
+   "body": [
+    "1. *Objet* (subject line): short and clear: *Objet : Demande de rendez-vous*. 2. Greeting. 3. Purpose in the first sentence. 4. Details or request. 5. Thanks. 6. Sign-off and your name.",
+    "In Quebec, emails are generally less formal than in France. *Bonjour Madame Tremblay,* or simply *Bonjour,* is perfect for most work emails. Very formal letters use *Madame, Monsieur,*.",
+    "Note: in Quebec typography, there is a space before the colon (*Objet : …*) but usually not before ? and !."
+   ],
+   "table": {
+    "head": [
+     "Step",
+     "Formal (vous)",
+     "Friendly (tu)"
+    ],
+    "rows": [
+     [
+      "Greeting",
+      "Bonjour Madame Roy,",
+      "Salut Julie! / Allô Marc!"
+     ],
+     [
+      "Purpose",
+      "Je vous écris pour…",
+      "Je t'écris pour…"
+     ],
+     [
+      "Request",
+      "Pourriez-vous me confirmer…?",
+      "Peux-tu me dire…?"
+     ],
+     [
+      "Thanks",
+      "Je vous remercie à l'avance.",
+      "Merci d'avance!"
+     ],
+     [
+      "Sign-off",
+      "Cordialement, / Salutations,",
+      "Bonne journée! / À plus!"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Key email phrases",
+   "body": [
+    "Opening: *Je vous écris pour…* (I'm writing to…), *Suite à notre conversation téléphonique,…* (Following our phone conversation…), *Je me permets de vous relancer concernant…* (I'm following up about…).",
+    "Attachments and follow-up: *Vous trouverez ci-joint mon CV* (Please find attached my CV), *Je reste disponible pour toute question* (I'm available for any questions), *N'hésitez pas à me contacter* (Don't hesitate to contact me).",
+    "Use the conditionnel (lesson 71) to soften: *Serait-il possible de…?*, *J'aimerais savoir si…*, *Pourriez-vous…?*"
+   ]
+  },
+  {
+   "h": "Quebec sign-offs",
+   "body": [
+    "In Quebec, the most common friendly-professional sign-offs are *Bonne journée!*, *Bonne fin de journée!* (sent in the afternoon), *Merci et bonne journée!* and *Au plaisir* ('looking forward to it', a warm, slightly formal closing). *Cordialement* and *Salutations* are standard for formal emails.",
+    "In France you'll see *Bien cordialement* or *Je vous prie d'agréer, Madame, l'expression de mes salutations distinguées* (very formal letters). In Quebec, that long formula is mostly for official letters."
+   ]
+  },
+  {
+   "h": "Text messages",
+   "body": [
+    "Texts (*les textos*) use short forms. Common ones in Quebec: *slt* (salut), *bjr* (bonjour), *stp / svp* (s'il te plaît / s'il vous plaît), *pcq* (parce que), *pk* (pourquoi), *jsp* (je sais pas), *bcp* (beaucoup), *dsl* (désolé), *tlm* (tout le monde), *qqch* (quelque chose), *auj* (aujourd'hui), *tk* (en tout cas, very Quebec), *lol*.",
+    "Texts are also where written joual appears: *chu en route*, *t'es où?*, *jte texte*. That's fine with friends; never in a work email."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Objet : Demande de rendez-vous",
+   "en": "Subject: Appointment request"
+  },
+  {
+   "fr": "Bonjour Madame Gagnon,",
+   "en": "Hello Ms. Gagnon,",
+   "note": "standard Quebec work greeting"
+  },
+  {
+   "fr": "Je vous écris pour confirmer notre réunion de jeudi.",
+   "en": "I'm writing to confirm our Thursday meeting."
+  },
+  {
+   "fr": "Suite à notre conversation téléphonique, je vous envoie le document.",
+   "en": "Following our phone conversation, I'm sending you the document."
+  },
+  {
+   "fr": "Vous trouverez ci-joint mon CV et ma lettre de motivation.",
+   "en": "Please find attached my CV and cover letter."
+  },
+  {
+   "fr": "Pourriez-vous me confirmer la date d'ici vendredi?",
+   "en": "Could you confirm the date by Friday?"
+  },
+  {
+   "fr": "Serait-il possible de reporter le rendez-vous?",
+   "en": "Would it be possible to postpone the appointment?"
+  },
+  {
+   "fr": "Je reste disponible pour toute question.",
+   "en": "I remain available for any questions."
+  },
+  {
+   "fr": "Je vous remercie à l'avance de votre réponse.",
+   "en": "Thank you in advance for your reply."
+  },
+  {
+   "fr": "Merci et bonne fin de journée!",
+   "en": "Thanks, and have a good rest of the day!",
+   "note": "typical Quebec sign-off"
+  },
+  {
+   "fr": "Au plaisir de vous rencontrer.",
+   "en": "I look forward to meeting you."
+  },
+  {
+   "fr": "Salut! Chu en retard, j'arrive dans 10 min.",
+   "en": "Hi! I'm late, I'll be there in 10 min.",
+   "note": "text message, informal"
+  },
+  {
+   "fr": "Tu peux m'acheter du lait stp?",
+   "en": "Can you buy me some milk please?"
+  },
+  {
+   "fr": "Dsl, jsp si je peux venir ce soir.",
+   "en": "Sorry, I don't know if I can come tonight.",
+   "note": "dsl = désolé, jsp = je sais pas"
+  },
+  {
+   "fr": "Tk, on se parle demain!",
+   "en": "Anyway, talk tomorrow!",
+   "note": "tk = en tout cas (Quebec)"
+  },
+  {
+   "fr": "Je t'envoie l'adresse par texto.",
+   "en": "I'll send you the address by text."
+  }
+ ],
+ "quebec": {
+  "intro": "Quebec has its own email vocabulary, much of it created by the Office québécois de la langue française: courriel (email), pourriel (spam), clavarder (to chat online). Texto is common everywhere; in speech, many Quebecers just say 'un texte'.",
+  "items": [
+   {
+    "std": "un e-mail / un mail (France)",
+    "qc": "un courriel",
+    "en": "an email",
+    "note": "Standard in Quebec, used by everyone"
+   },
+   {
+    "std": "un spam",
+    "qc": "un pourriel",
+    "en": "a spam email",
+    "note": "Quebec word (poubelle + courriel)"
+   },
+   {
+    "std": "un SMS (France)",
+    "qc": "un texto / un texte",
+    "en": "a text message",
+    "note": "'Un texte' is informal Quebec speech"
+   },
+   {
+    "std": "Je t'enverrai un message.",
+    "qc": "J'vas te texter.",
+    "en": "I'll text you.",
+    "note": "Informal verb texter"
+   },
+   {
+    "std": "Bien cordialement",
+    "qc": "Bonne journée! / Au plaisir",
+    "en": "Best regards / Have a good day",
+    "note": "Common Quebec email closings"
+   },
+   {
+    "std": "En tout cas",
+    "qc": "Tk",
+    "en": "Anyway",
+    "note": "Text abbreviation, very Quebec"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Which greeting is best for a work email to someone you don't know in Quebec?",
+   "options": [
+    "Salut!",
+    "Allô toi!",
+    "Bonjour Madame Roy,",
+    "Yo!"
+   ],
+   "a": 2,
+   "why": "Bonjour + title + name is polite and standard."
+  },
+  {
+   "t": "mcq",
+   "q": "'Vous trouverez ci-joint…' means…",
+   "options": [
+    "You will find me…",
+    "Please find attached…",
+    "You found…",
+    "Join us…"
+   ],
+   "a": 1,
+   "why": "ci-joint = attached."
+  },
+  {
+   "t": "mcq",
+   "q": "What is 'un pourriel'?",
+   "options": [
+    "a newsletter",
+    "a spam email",
+    "a mailbox",
+    "a printer"
+   ],
+   "a": 1,
+   "why": "Quebec word for spam."
+  },
+  {
+   "t": "mcq",
+   "q": "'Tk' in a Quebec text means…",
+   "options": [
+    "thank you",
+    "en tout cas (anyway)",
+    "OK",
+    "take care"
+   ],
+   "a": 1,
+   "why": "tk = en tout cas."
+  },
+  {
+   "t": "fill",
+   "q": "Je vous ___ pour confirmer le rendez-vous. (écrire)",
+   "a": [
+    "écris"
+   ],
+   "en": "I'm writing to confirm the appointment.",
+   "why": "je vous écris."
+  },
+  {
+   "t": "fill",
+   "q": "___-vous me confirmer la date? (pouvoir, conditionnel)",
+   "a": [
+    "Pourriez"
+   ],
+   "en": "Could you confirm the date?",
+   "why": "Polite conditionnel."
+  },
+  {
+   "t": "fill",
+   "q": "Je vous remercie à l'___. (advance)",
+   "a": [
+    "avance"
+   ],
+   "en": "Thank you in advance.",
+   "why": "à l'avance."
+  },
+  {
+   "t": "fill",
+   "q": "Merci et bonne fin de ___! (day)",
+   "a": [
+    "journée"
+   ],
+   "en": "Thanks and have a good rest of the day!",
+   "why": "Quebec sign-off."
+  },
+  {
+   "t": "build",
+   "en": "I'm writing to cancel my appointment.",
+   "a": "Je vous écris pour annuler mon rendez-vous."
+  },
+  {
+   "t": "build",
+   "en": "Please find attached my CV.",
+   "a": "Vous trouverez ci-joint mon CV."
+  },
+  {
+   "t": "build",
+   "en": "Don't hesitate to contact me.",
+   "a": "N'hésitez pas à me contacter."
+  },
+  {
+   "t": "build",
+   "en": "I'm available for any questions.",
+   "a": "Je reste disponible pour toute question."
+  },
+  {
+   "t": "translate",
+   "en": "Would it be possible to change the date?",
+   "a": [
+    "Serait-il possible de changer la date?",
+    "Est-ce que ce serait possible de changer la date?",
+    "Est-ce qu'il serait possible de changer la date?"
+   ],
+   "why": "Polite conditionnel."
+  },
+  {
+   "t": "translate",
+   "en": "I'll send you an email.",
+   "a": [
+    "Je vais vous envoyer un courriel.",
+    "Je vais t'envoyer un courriel.",
+    "Je vous enverrai un courriel.",
+    "Je t'enverrai un courriel."
+   ],
+   "why": "courriel = email in Quebec."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "le courriel",
+   "en": "email",
+   "g": "m",
+   "ex": "Je t'envoie un courriel ce soir.",
+   "qc": true
+  },
+  {
+   "fr": "l'objet",
+   "en": "subject (of an email)",
+   "g": "m",
+   "ex": "N'oublie pas l'objet du courriel."
+  },
+  {
+   "fr": "la pièce jointe",
+   "en": "attachment",
+   "g": "f",
+   "ex": "Le document est en pièce jointe."
+  },
+  {
+   "fr": "ci-joint",
+   "en": "attached",
+   "ex": "Vous trouverez ci-joint la facture."
+  },
+  {
+   "fr": "répondre à tous",
+   "en": "to reply all",
+   "ex": "Ne réponds pas à tous!"
+  },
+  {
+   "fr": "transférer",
+   "en": "to forward",
+   "ex": "Je te transfère le courriel."
+  },
+  {
+   "fr": "le pourriel",
+   "en": "spam",
+   "g": "m",
+   "ex": "Ton message est dans mes pourriels.",
+   "qc": true
+  },
+  {
+   "fr": "le texto",
+   "en": "text message",
+   "g": "m",
+   "ex": "Envoie-moi un texto."
+  },
+  {
+   "fr": "texter",
+   "en": "to text (informal)",
+   "ex": "Je te texte quand j'arrive.",
+   "qc": true
+  },
+  {
+   "fr": "cordialement",
+   "en": "regards (formal sign-off)",
+   "ex": "Cordialement, Alex Martin"
+  },
+  {
+   "fr": "au plaisir",
+   "en": "looking forward (to it), warm sign-off",
+   "ex": "Au plaisir de vous revoir!",
+   "qc": true
+  },
+  {
+   "fr": "relancer",
+   "en": "to follow up (with someone)",
+   "ex": "Je vais relancer le client demain."
+  },
+  {
+   "fr": "disponible",
+   "en": "available",
+   "ex": "Êtes-vous disponible mardi?"
+  },
+  {
+   "fr": "reporter",
+   "en": "to postpone",
+   "ex": "La réunion est reportée à lundi."
+  },
+  {
+   "fr": "l'arobase",
+   "en": "@ sign",
+   "g": "f",
+   "ex": "Mon adresse, c'est alex arobase exemple point com."
+  },
+  {
+   "fr": "clavarder",
+   "en": "to chat online",
+   "ex": "On clavarde sur Teams.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "le courriel",
+    "tip": "koo-RYEL."
+   },
+   {
+    "fr": "ci-joint",
+    "tip": "see-ZHWAN."
+   },
+   {
+    "fr": "cordialement",
+    "tip": "kor-dya-luh-MAHN."
+   },
+   {
+    "fr": "l'arobase",
+    "tip": "la-ro-BAZ; many Quebecers just say 'at'."
+   },
+   {
+    "fr": "point com",
+    "tip": "pwan KOM, for .com."
+   },
+   {
+    "fr": "au plaisir",
+    "tip": "oh plè-ZEER; Quebec: oh plè-ZIR."
+   }
+  ],
+  "title": "Dicter un courriel",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Peux-tu m'aider à écrire un courriel à ma propriétaire?",
+    "en": "Can you help me write an email to my landlady?"
+   },
+   {
+    "s": "B",
+    "fr": "Bien sûr. Commence par l'objet : Problème de chauffage.",
+    "en": "Sure. Start with the subject: Heating problem."
+   },
+   {
+    "s": "A",
+    "fr": "Ensuite, j'écris 'Salut Madame Roy'?",
+    "en": "Then I write 'Hi Madame Roy'?"
+   },
+   {
+    "s": "B",
+    "fr": "Non, c'est trop familier. Écris 'Bonjour Madame Roy', avec une virgule.",
+    "en": "No, that's too casual. Write 'Bonjour Madame Roy', with a comma."
+   },
+   {
+    "s": "A",
+    "fr": "OK. 'Je vous écris parce que le chauffage ne fonctionne plus depuis hier.'",
+    "en": "OK. 'I'm writing because the heating hasn't worked since yesterday.'"
+   },
+   {
+    "s": "B",
+    "fr": "Parfait. Ajoute une demande polie : 'Pourriez-vous envoyer quelqu'un cette semaine?'",
+    "en": "Perfect. Add a polite request: 'Could you send someone this week?'"
+   },
+   {
+    "s": "A",
+    "fr": "Et pour finir?",
+    "en": "And to finish?"
+   },
+   {
+    "s": "B",
+    "fr": "'Je vous remercie à l'avance. Bonne journée!' Puis ton nom et ton numéro d'appartement.",
+    "en": "'Thank you in advance. Have a good day!' Then your name and apartment number."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What is the problem in the apartment?",
+    "options": [
+     "Water leak",
+     "Heating",
+     "Electricity"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Why is 'Salut Madame Roy' not good?",
+    "options": [
+     "It's too formal",
+     "It's too casual",
+     "It's spelled wrong"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What should A add at the very end?",
+    "options": [
+     "A photo",
+     "Name and apartment number",
+     "Phone number only"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Dictate aloud the subject and first sentence of an email asking your boss for a day off.",
+   "model": "Objet : Demande de congé. Bonjour Marc, je vous écris pour demander un congé le vendredi 14 juin."
+  },
+  {
+   "prompt": "Read this text message aloud in full words: 'Slt! Dsl, jsp si je peux venir auj pcq chu malade. Tk, je te texte.'",
+   "model": "Salut! Désolé, je sais pas si je peux venir aujourd'hui parce que je suis malade. En tout cas, je te texte."
+  },
+  {
+   "prompt": "Give your email address aloud in French.",
+   "model": "Mon adresse courriel, c'est alex point martin arobase exemple point com."
+  }
+ ],
+ "write": {
+  "prompt": "Write two messages. (1) A formal email (6–8 lines) to a clinic to postpone an appointment: subject, greeting, purpose, new availability, polite request, thanks, sign-off. (2) A text (2–3 lines) to a friend saying you'll be late, using two abbreviations.",
+  "model": "Objet : Report de rendez-vous\n\nBonjour,\n\nJe vous écris pour reporter mon rendez-vous du mardi 3 octobre à 10 h avec la Dre Bouchard. J'ai malheureusement un empêchement au travail. Serait-il possible d'avoir un rendez-vous la semaine suivante? Je suis disponible le mercredi et le jeudi après-midi. Je vous remercie à l'avance de votre réponse.\n\nBonne journée!\nAlex Martin\n514 555-0123\n\n---\n\nSlt! Dsl, chu dans le trafic sur le pont. J'arrive dans 15 min. Commandez sans moi stp!"
+ },
+ "quiz": [
+  {
+   "q": "What is the Quebec word for 'email'?",
+   "options": [
+    "le mail",
+    "le courriel",
+    "le message",
+    "la lettre"
+   ],
+   "a": 1,
+   "why": "Courriel is standard in Quebec."
+  },
+  {
+   "q": "Which sign-off is typical in Quebec work emails?",
+   "options": [
+    "Bisous",
+    "Bonne journée!",
+    "À plus tard, mon chum",
+    "Ciao"
+   ],
+   "a": 1,
+   "why": "Bonne journée! / Merci et bonne journée!"
+  },
+  {
+   "q": "'Je me permets de vous relancer' means…",
+   "options": [
+    "I'm allowing myself to fire you",
+    "I'm following up with you",
+    "I'm throwing it back",
+    "I'm calling you again tomorrow"
+   ],
+   "a": 1,
+   "why": "Relancer = to follow up."
+  },
+  {
+   "q": "'Pcq' stands for…",
+   "options": [
+    "pourquoi",
+    "parce que",
+    "plus que",
+    "pas que"
+   ],
+   "a": 1,
+   "why": "pcq = parce que; pk = pourquoi."
+  },
+  {
+   "q": "What goes in 'l'objet' of an email?",
+   "options": [
+    "Your signature",
+    "The subject",
+    "The attachment",
+    "The address"
+   ],
+   "a": 1,
+   "why": "Objet = subject line."
+  },
+  {
+   "q": "'Au plaisir' as a sign-off means roughly…",
+   "options": [
+    "With pleasure, goodbye forever",
+    "Looking forward to it / talk soon",
+    "Please reply",
+    "Happy birthday"
+   ],
+   "a": 1,
+   "why": "A warm Quebec closing."
+  },
+  {
+   "q": "Which is too informal for a work email?",
+   "options": [
+    "Je vous écris pour…",
+    "Chu en retard pour la réunion.",
+    "Pourriez-vous…?",
+    "Cordialement,"
+   ],
+   "a": 1,
+   "why": "Chu is spoken/text style only."
+  },
+  {
+   "q": "'Reporter un rendez-vous' means…",
+   "options": [
+    "to report an appointment",
+    "to postpone an appointment",
+    "to confirm an appointment",
+    "to cancel forever"
+   ],
+   "a": 1,
+   "why": "False friend: reporter = postpone."
+  }
+ ]
+}

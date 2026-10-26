@@ -1,0 +1,613 @@
+{
+ "w": 76,
+ "title": "Using tout",
+ "goal": "By the end of this lesson you can use tout, toute, tous and toutes as adjectives, pronouns and adverbs, pronounce them correctly, and understand how Quebecers pronounce them in casual speech.",
+ "learn": [
+  {
+   "h": "Tout as an adjective: all, every, the whole",
+   "body": [
+    "Before a noun (usually with an article or possessive), *tout* agrees in gender and number: *tout le gâteau* (the whole cake), *toute la journée* (all day), *tous les jours* (every day), *toutes mes amies* (all my friends).",
+    "Without an article, *tout* means 'any, every': *à toute heure* (at any time), *tout le monde* (everyone), *en tout cas* (in any case)."
+   ],
+   "table": {
+    "head": [
+     "",
+     "Masculine",
+     "Feminine"
+    ],
+    "rows": [
+     [
+      "Singular",
+      "tout le temps",
+      "toute la nuit"
+     ],
+     [
+      "Plural",
+      "tous les matins",
+      "toutes les semaines"
+     ]
+    ]
+   },
+   "tip": "tout le monde = everyone (singular verb!): Tout le monde est là."
+  },
+  {
+   "h": "Tout as a pronoun: everything, all of them",
+   "body": [
+    "*Tout* alone means 'everything': *Tout est prêt* (Everything is ready), *J'ai tout compris* (I understood everything). In compound tenses it goes before the participle.",
+    "*Tous* and *toutes* mean 'all of them / everyone (in a group)': *Ils sont tous là* (They're all here), *Elles sont toutes parties* (They all left), *Merci à tous!* (Thanks, everyone!).",
+    "Pronunciation trap: the pronoun *tous* is pronounced with the s: [tooss]. The adjective *tous* (before a noun) has a silent s: *tous les jours* [too lay zhoor]."
+   ],
+   "table": {
+    "head": [
+     "Written",
+     "Use",
+     "Sounds like"
+    ],
+    "rows": [
+     [
+      "tous les jours",
+      "adjective",
+      "too"
+     ],
+     [
+      "Ils sont tous là.",
+      "pronoun",
+      "tooss"
+     ],
+     [
+      "Merci à tous!",
+      "pronoun",
+      "tooss"
+     ],
+     [
+      "toutes",
+      "adjective or pronoun",
+      "toott"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Tout as an adverb: completely, very",
+   "body": [
+    "Before an adjective, *tout* means 'completely, very': *Il est tout seul* (He's all alone), *Ils sont tout contents* (They're very happy). As an adverb it normally does not change.",
+    "Exception: before a feminine adjective starting with a consonant, it becomes *toute(s)*: *Elle est toute seule*, *Elles sont toutes petites*. Before a vowel it stays *tout*: *Elle est tout heureuse*."
+   ]
+  },
+  {
+   "h": "Common expressions with tout",
+   "body": [
+    "*tout de suite* (right away), *tout à l'heure* (a little while ago / later), *tout à fait* (absolutely), *pas du tout* (not at all), *tout le monde* (everyone), *en tout* (in total), *C'est tout* (That's all), *tout droit* (straight ahead), *malgré tout* (despite everything)."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "J'ai travaillé toute la journée.",
+   "en": "I worked all day.",
+   "note": "feminine singular: toute"
+  },
+  {
+   "fr": "Je prends le métro tous les matins.",
+   "en": "I take the metro every morning.",
+   "note": "adjective tous: silent s"
+  },
+  {
+   "fr": "Toutes mes amies viennent ce soir.",
+   "en": "All my (female) friends are coming tonight."
+  },
+  {
+   "fr": "Tout le monde est arrivé.",
+   "en": "Everyone has arrived.",
+   "note": "singular verb"
+  },
+  {
+   "fr": "Tout est prêt pour la fête.",
+   "en": "Everything is ready for the party."
+  },
+  {
+   "fr": "J'ai tout mangé.",
+   "en": "I ate everything.",
+   "note": "tout before the participle"
+  },
+  {
+   "fr": "Les enfants sont tous partis au parc.",
+   "en": "The children all left for the park.",
+   "note": "pronoun tous: s pronounced"
+  },
+  {
+   "fr": "Merci à tous d'être venus!",
+   "en": "Thank you all for coming!"
+  },
+  {
+   "fr": "Il habite tout seul depuis un an.",
+   "en": "He has lived all alone for a year.",
+   "note": "adverb"
+  },
+  {
+   "fr": "Elle est toute contente de son nouveau poste.",
+   "en": "She's really happy about her new job.",
+   "note": "adverb agrees before a feminine consonant"
+  },
+  {
+   "fr": "Viens ici tout de suite!",
+   "en": "Come here right away!"
+  },
+  {
+   "fr": "Ça coûte cinquante dollars en tout.",
+   "en": "It costs fifty dollars in total."
+  },
+  {
+   "fr": "Continuez tout droit jusqu'au feu.",
+   "en": "Keep going straight until the light."
+  },
+  {
+   "fr": "On a passé tout l'été au chalet.",
+   "en": "We spent the whole summer at the cottage."
+  },
+  {
+   "fr": "Je suis tout à fait d'accord avec toi.",
+   "en": "I completely agree with you."
+  },
+  {
+   "fr": "C'est tout pour aujourd'hui.",
+   "en": "That's all for today."
+  }
+ ],
+ "quebec": {
+  "intro": "The roadmap writes 'toute est correct' to show how Quebecers say 'tout est correct'. Strictly, that example isn't special: standard French also links tout‿est with a [t]. What really marks Quebec speech is that tout is pronounced 'toute' [tut] in all positions, even before a consonant or at the end of a sentence, and that the pronoun tous is usually said 'toutes' [tut], even for men.",
+  "items": [
+   {
+    "std": "C'est tout.",
+    "qc": "C'est toute.",
+    "en": "That's all.",
+    "note": "Final t pronounced (lesson 4); written c'est tout"
+   },
+   {
+    "std": "Tout le monde est là.",
+    "qc": "Toute le monde est là.",
+    "en": "Everyone is here.",
+    "note": "[tut] even before a consonant"
+   },
+   {
+    "std": "Ils sont tous partis.",
+    "qc": "Y sont toutes partis.",
+    "en": "They all left.",
+    "note": "Pronoun tous said 'toutes' [tut], even for a masculine group"
+   },
+   {
+    "std": "Tout est correct.",
+    "qc": "Toute est correct.",
+    "en": "Everything's fine / It's all good.",
+    "note": "Same sound as standard liaison; 'c'est correct' = it's OK in Quebec"
+   },
+   {
+    "std": "On y va tous ensemble.",
+    "qc": "On y va toute la gang.",
+    "en": "We're all going together.",
+    "note": "Informal: la gang = the group"
+   },
+   {
+    "std": "Pas du tout.",
+    "qc": "Pantoute.",
+    "en": "Not at all.",
+    "note": "Informal; from 'pas en tout'"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Complete: '___ les semaines' (every week)",
+   "options": [
+    "Tout",
+    "Toute",
+    "Tous",
+    "Toutes"
+   ],
+   "a": 3,
+   "why": "Semaines is feminine plural."
+  },
+  {
+   "t": "mcq",
+   "q": "How is 'tous' pronounced in 'Ils sont tous là'?",
+   "options": [
+    "[too]",
+    "[tooss]",
+    "[toott]",
+    "[tooz]"
+   ],
+   "a": 1,
+   "why": "The pronoun tous has a pronounced s."
+  },
+  {
+   "t": "mcq",
+   "q": "'Tout le monde' takes…",
+   "options": [
+    "a plural verb",
+    "a singular verb",
+    "no verb",
+    "either"
+   ],
+   "a": 1,
+   "why": "Tout le monde est…"
+  },
+  {
+   "t": "mcq",
+   "q": "In Quebec speech, 'Y sont toutes partis' means…",
+   "options": [
+    "The women all left.",
+    "They all left (any group).",
+    "Everything left.",
+    "They left everything."
+   ],
+   "a": 1,
+   "why": "Toutes [tut] is used as the pronoun for any group in speech."
+  },
+  {
+   "t": "fill",
+   "q": "J'ai dormi ___ la nuit. (all)",
+   "a": [
+    "toute"
+   ],
+   "en": "I slept all night.",
+   "why": "La nuit is feminine singular."
+  },
+  {
+   "t": "fill",
+   "q": "Elle est ___ seule à la maison. (all)",
+   "a": [
+    "toute"
+   ],
+   "en": "She's all alone at home.",
+   "why": "Adverb before a feminine adjective starting with a consonant."
+  },
+  {
+   "t": "fill",
+   "q": "J'ai ___ compris. (everything)",
+   "a": [
+    "tout"
+   ],
+   "en": "I understood everything.",
+   "why": "Pronoun tout before the participle."
+  },
+  {
+   "t": "fill",
+   "q": "Mes cousins sont ___ venus. (all)",
+   "a": [
+    "tous"
+   ],
+   "en": "My cousins all came.",
+   "why": "Masculine plural pronoun."
+  },
+  {
+   "t": "build",
+   "en": "Everyone is here.",
+   "a": "Tout le monde est là."
+  },
+  {
+   "t": "build",
+   "en": "I take the bus every day.",
+   "a": "Je prends l'autobus tous les jours."
+  },
+  {
+   "t": "build",
+   "en": "Thank you all for coming!",
+   "a": "Merci à tous d'être venus!"
+  },
+  {
+   "t": "translate",
+   "en": "Everything is ready.",
+   "a": [
+    "Tout est prêt."
+   ],
+   "why": "Pronoun tout."
+  },
+  {
+   "t": "translate",
+   "en": "I worked all day.",
+   "a": [
+    "J'ai travaillé toute la journée."
+   ],
+   "why": "toute la journée."
+  },
+  {
+   "t": "translate",
+   "en": "Come right away!",
+   "a": [
+    "Viens tout de suite!",
+    "Venez tout de suite!"
+   ],
+   "why": "tout de suite = right away."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "tout / toute / tous / toutes",
+   "en": "all, every, whole",
+   "ex": "toute la famille, tous les enfants"
+  },
+  {
+   "fr": "tout le monde",
+   "en": "everyone",
+   "ex": "Tout le monde aime la poutine."
+  },
+  {
+   "fr": "tous les jours",
+   "en": "every day",
+   "ex": "Je marche tous les jours."
+  },
+  {
+   "fr": "tout le temps",
+   "en": "all the time",
+   "ex": "Il parle tout le temps."
+  },
+  {
+   "fr": "tout de suite",
+   "en": "right away",
+   "ex": "J'arrive tout de suite."
+  },
+  {
+   "fr": "tout à fait",
+   "en": "absolutely, completely",
+   "ex": "Tout à fait!"
+  },
+  {
+   "fr": "tout seul / toute seule",
+   "en": "all alone, by oneself",
+   "ex": "Il a fait ça tout seul."
+  },
+  {
+   "fr": "en tout",
+   "en": "in total",
+   "ex": "Ça fait trente dollars en tout."
+  },
+  {
+   "fr": "tout droit",
+   "en": "straight ahead",
+   "ex": "Allez tout droit."
+  },
+  {
+   "fr": "en tout cas",
+   "en": "in any case, anyway",
+   "ex": "En tout cas, merci!"
+  },
+  {
+   "fr": "malgré tout",
+   "en": "despite everything",
+   "ex": "Malgré tout, on s'est amusés."
+  },
+  {
+   "fr": "c'est correct",
+   "en": "it's OK, it's fine (Quebec)",
+   "ex": "C'est correct, inquiète-toi pas.",
+   "qc": true
+  },
+  {
+   "fr": "la gang",
+   "en": "the group, the gang (informal)",
+   "g": "f",
+   "ex": "Toute la gang s'en vient!",
+   "qc": true
+  },
+  {
+   "fr": "à tout prix",
+   "en": "at all costs",
+   "ex": "Je veux réussir à tout prix."
+  },
+  {
+   "fr": "le tout",
+   "en": "the whole thing",
+   "g": "m",
+   "ex": "Le tout coûte cent dollars."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "tous les jours",
+    "tip": "too lay ZHOOR: adjective tous, silent s."
+   },
+   {
+    "fr": "Ils sont tous là.",
+    "tip": "eel son TOOSS la: pronoun tous, s pronounced."
+   },
+   {
+    "fr": "toute la nuit",
+    "tip": "toott la NWEE."
+   },
+   {
+    "fr": "tout est prêt",
+    "tip": "Liaison: too-tè PRÈ."
+   },
+   {
+    "fr": "tout à fait",
+    "tip": "too-ta FÈ."
+   },
+   {
+    "fr": "c'est toute (Quebec)",
+    "tip": "sè TOOTT, written c'est tout."
+   }
+  ],
+  "title": "La fête de quartier",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Est-ce que tout est prêt pour la fête?",
+    "en": "Is everything ready for the party?"
+   },
+   {
+    "s": "B",
+    "fr": "Presque. J'ai fait toutes les salades, mais il reste les desserts.",
+    "en": "Almost. I made all the salads, but the desserts are left."
+   },
+   {
+    "s": "A",
+    "fr": "Les voisins viennent tous?",
+    "en": "Are the neighbours all coming?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, toute la rue est invitée. Tout le monde a dit oui!",
+    "en": "Yes, the whole street is invited. Everyone said yes!"
+   },
+   {
+    "s": "A",
+    "fr": "Super! Je peux faire les desserts, si tu veux.",
+    "en": "Great! I can make the desserts if you want."
+   },
+   {
+    "s": "B",
+    "fr": "Tout à fait! Mais fais vite, ils arrivent à cinq heures.",
+    "en": "Absolutely! But be quick, they arrive at five."
+   },
+   {
+    "s": "A",
+    "fr": "Je m'en occupe tout de suite. C'est tout?",
+    "en": "I'll take care of it right away. Is that all?"
+   },
+   {
+    "s": "B",
+    "fr": "C'est toute! Merci, t'es ben fine.",
+    "en": "That's all! Thanks, you're really kind."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What has B already made?",
+    "options": [
+     "The desserts",
+     "All the salads",
+     "The drinks"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Who is invited?",
+    "options": [
+     "Only family",
+     "The whole street",
+     "Coworkers"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What time do the guests arrive?",
+    "options": [
+     "Four o'clock",
+     "Five o'clock",
+     "Six o'clock"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Say three things you do every day, every week and all the time.",
+   "model": "Je bois un café tous les matins. Je fais l'épicerie toutes les semaines. J'écoute de la musique tout le temps."
+  },
+  {
+   "prompt": "Read aloud and get the s right: 'Tous les jours, ils sont tous en retard.'",
+   "model": "too lay zhoor, eel son TOOSS on ruh-tar"
+  },
+  {
+   "prompt": "Say 'That's all, everyone's here' the standard way, then the Quebec way.",
+   "model": "C'est tout, tout le monde est là. / C'est toute, toute le monde est là."
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences about your routine and your friends using tout, toute, tous and toutes at least once each.",
+  "model": "Tous les matins, je prends l'autobus à sept heures. Je travaille toute la journée au bureau. Le vendredi, je vois toutes mes amies au café. Mes collègues sont tous très gentils. Tout le monde parle français au travail. En tout cas, j'aime beaucoup ma vie à Montréal!"
+ },
+ "quiz": [
+  {
+   "q": "Complete: 'Il a mangé ___ le gâteau.'",
+   "options": [
+    "tout",
+    "toute",
+    "tous",
+    "toutes"
+   ],
+   "a": 0,
+   "why": "Le gâteau is masculine singular."
+  },
+  {
+   "q": "In 'Elle est tout heureuse', why is it 'tout' and not 'toute'?",
+   "options": [
+    "It's a mistake",
+    "Heureuse starts with a silent h (vowel sound)",
+    "Elle is masculine",
+    "Tout never changes"
+   ],
+   "a": 1,
+   "why": "Before a vowel sound, adverb tout stays invariable."
+  },
+  {
+   "q": "'Tout de suite' means…",
+   "options": [
+    "all of a sudden",
+    "right away",
+    "following everything",
+    "all in a row"
+   ],
+   "a": 1,
+   "why": "Tout de suite = immediately."
+  },
+  {
+   "q": "Which 'tous' has a pronounced s?",
+   "options": [
+    "tous les jours",
+    "tous mes amis",
+    "Ils viennent tous.",
+    "tous les deux ans"
+   ],
+   "a": 2,
+   "why": "Pronoun tous at the end: [tooss]."
+  },
+  {
+   "q": "'Ça fait vingt dollars en tout' means…",
+   "options": [
+    "Everything costs twenty dollars each.",
+    "It's twenty dollars in total.",
+    "It's only twenty dollars.",
+    "Twenty dollars at most."
+   ],
+   "a": 1,
+   "why": "En tout = in total."
+  },
+  {
+   "q": "In Quebec, 'C'est correct' usually means…",
+   "options": [
+    "That's grammatically correct.",
+    "It's OK / it's fine.",
+    "That's exact.",
+    "You're right."
+   ],
+   "a": 1,
+   "why": "Very common Quebec reassurance."
+  },
+  {
+   "q": "Complete: 'Les filles sont ___ parties.'",
+   "options": [
+    "tout",
+    "toute",
+    "tous",
+    "toutes"
+   ],
+   "a": 3,
+   "why": "Feminine plural pronoun."
+  },
+  {
+   "q": "What does Quebec 'toute le monde' represent?",
+   "options": [
+    "A grammar mistake in writing",
+    "The Quebec pronunciation of 'tout le monde'",
+    "A different expression meaning 'the whole world'",
+    "A feminine form"
+   ],
+   "a": 1,
+   "why": "Tout is pronounced [tut] in Quebec speech; write tout le monde."
+  }
+ ]
+}

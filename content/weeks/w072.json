@@ -1,0 +1,630 @@
+{
+ "w": 72,
+ "title": "Si clauses: types 1 and 2",
+ "goal": "By the end of this lesson you can build real conditions (si + present → future) and hypothetical ones (si + imparfait → conditionnel), and you know why the 'si j'aurais' you hear in Quebec is not standard.",
+ "learn": [
+  {
+   "h": "Type 1: real, possible conditions",
+   "body": [
+    "For something that may really happen, use *si* + present, and the present, the future (simple or proche) or the imperative in the result: *S'il fait beau, on va aller à la plage* (If it's nice, we'll go to the beach).",
+    "*Si* becomes *s'* only before *il* and *ils*: *s'il*, *s'ils*. Before *elle*, *on* and other words, it stays *si*: *si elle vient*, *si on part*."
+   ],
+   "table": {
+    "head": [
+     "Si clause",
+     "Result",
+     "Example"
+    ],
+    "rows": [
+     [
+      "si + présent",
+      "futur simple",
+      "Si tu viens, je serai content."
+     ],
+     [
+      "si + présent",
+      "futur proche",
+      "S'il neige, on va faire du ski."
+     ],
+     [
+      "si + présent",
+      "impératif",
+      "Si tu es fatigué, repose-toi."
+     ],
+     [
+      "si + présent",
+      "présent",
+      "Si je bois du café le soir, je ne dors pas."
+     ]
+    ]
+   },
+   "tip": "Never put the future after si: 'si je viendrai' is wrong; say 'si je viens'."
+  },
+  {
+   "h": "Type 2: hypothetical or unreal conditions",
+   "body": [
+    "For something imaginary, unlikely or contrary to the present, use *si* + imparfait, and the conditionnel présent in the result: *Si j'avais de l'argent, j'achèterais un chalet* (If I had money, I'd buy a cottage).",
+    "It is the French equivalent of English 'If I had…, I would…'. The order of the two clauses can be reversed: *J'achèterais un chalet si j'avais de l'argent.*",
+    "For 'If I were you', French says *Si j'étais toi* or *À ta place*."
+   ],
+   "table": {
+    "head": [
+     "Si + imparfait",
+     "Conditionnel",
+     "English"
+    ],
+    "rows": [
+     [
+      "Si j'avais le temps,",
+      "je voyagerais.",
+      "If I had time, I'd travel."
+     ],
+     [
+      "Si tu parlais français,",
+      "tu trouverais un emploi.",
+      "If you spoke French, you'd find a job."
+     ],
+     [
+      "S'il faisait plus chaud,",
+      "on se baignerait.",
+      "If it were warmer, we'd swim."
+     ],
+     [
+      "Si j'étais toi,",
+      "je l'appellerais.",
+      "If I were you, I'd call him."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "The golden rule: no conditional after si",
+   "body": [
+    "In standard French, the conditionnel never goes in the *si* clause. It goes only in the result clause: *Si j'avais* (not *si j'aurais*) *une voiture, j'irais à Québec.*",
+    "A trick: 'Les *si* n'aiment pas les *-rais*' (si clauses don't like -rais endings)."
+   ]
+  },
+  {
+   "h": "Useful si expressions",
+   "body": [
+    "*Et si on allait au cinéma?* (How about going to the movies?) uses si + imparfait alone to make a suggestion.",
+    "*Si seulement* (If only): *Si seulement il faisait beau!* *Même si* (even if): *Je vais sortir même s'il pleut.* *Sinon* (otherwise): *Dépêche-toi, sinon on va être en retard.*"
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "S'il fait beau samedi, on va aller au parc.",
+   "en": "If it's nice on Saturday, we'll go to the park.",
+   "note": "type 1: present → futur proche"
+  },
+  {
+   "fr": "Si tu finis tôt, appelle-moi.",
+   "en": "If you finish early, call me.",
+   "note": "type 1: present → imperative"
+  },
+  {
+   "fr": "Si elle a le temps, elle passera ce soir.",
+   "en": "If she has time, she'll drop by tonight.",
+   "note": "si elle: no elision"
+  },
+  {
+   "fr": "Si je bois du café le soir, je ne dors pas.",
+   "en": "If I drink coffee at night, I don't sleep.",
+   "note": "general truth: present → present"
+  },
+  {
+   "fr": "Si j'avais plus d'argent, j'achèterais un chalet.",
+   "en": "If I had more money, I'd buy a cottage.",
+   "note": "type 2: imparfait → conditionnel"
+  },
+  {
+   "fr": "Si on habitait à la campagne, on aurait un grand jardin.",
+   "en": "If we lived in the country, we'd have a big garden."
+  },
+  {
+   "fr": "Qu'est-ce que tu ferais si tu gagnais à la loterie?",
+   "en": "What would you do if you won the lottery?"
+  },
+  {
+   "fr": "Si j'étais toi, je prendrais le métro.",
+   "en": "If I were you, I'd take the metro."
+  },
+  {
+   "fr": "Je parlerais mieux si je pratiquais plus.",
+   "en": "I'd speak better if I practised more.",
+   "note": "result clause first"
+  },
+  {
+   "fr": "S'il ne neigeait pas autant, on sortirait.",
+   "en": "If it weren't snowing so much, we'd go out."
+  },
+  {
+   "fr": "Et si on allait souper au resto?",
+   "en": "How about going out for supper?",
+   "note": "suggestion with si + imparfait"
+  },
+  {
+   "fr": "Je vais sortir même s'il pleut.",
+   "en": "I'm going out even if it rains."
+  },
+  {
+   "fr": "Dépêche-toi, sinon on va rater l'autobus.",
+   "en": "Hurry up, otherwise we'll miss the bus."
+  },
+  {
+   "fr": "Si vous aviez besoin d'aide, vous pourriez m'appeler.",
+   "en": "If you needed help, you could call me."
+  },
+  {
+   "fr": "Si seulement j'avais une voiture!",
+   "en": "If only I had a car!"
+  },
+  {
+   "fr": "S'ils arrivent en retard, on commencera sans eux.",
+   "en": "If they arrive late, we'll start without them.",
+   "note": "s'ils: elision before ils"
+  }
+ ],
+ "quebec": {
+  "intro": "In everyday Quebec speech (and in parts of France too), you will hear 'si j'aurais' with the conditional in the si clause. It is very common but considered a mistake; the standard form, which you should use, is 'si j'avais'.",
+  "items": [
+   {
+    "std": "Si j'avais le temps, je viendrais.",
+    "qc": "Si j'aurais le temps, j'viendrais.",
+    "en": "If I had time, I'd come.",
+    "note": "Heard often; nonstandard. Write and say 'si j'avais'"
+   },
+   {
+    "std": "Si j'étais riche, j'arrêterais de travailler.",
+    "qc": "Si j'serais riche, j'arrêterais d'travailler.",
+    "en": "If I were rich, I'd stop working.",
+    "note": "Nonstandard 'si j'serais'; use si j'étais"
+   },
+   {
+    "std": "S'il faisait beau, on irait au parc.",
+    "qc": "S'il ferait beau, on irait au parc.",
+    "en": "If it were nice, we'd go to the park.",
+    "note": "Nonstandard; the imparfait is correct"
+   },
+   {
+    "std": "Si j'étais toi, je ne ferais pas ça.",
+    "qc": "Si j'étais toé, j'f'rais pas ça.",
+    "en": "If I were you, I wouldn't do that.",
+    "note": "toé = toi in older/informal Quebec speech; ne dropped"
+   },
+   {
+    "std": "Si tu veux, on y va.",
+    "qc": "Si tu veux, on y va, là.",
+    "en": "If you want, let's go.",
+    "note": "Type 1 is the same in Quebec; 'là' is a filler"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Choose the correct type 1 sentence.",
+   "options": [
+    "Si tu viendras, je serai content.",
+    "Si tu viens, je serai content.",
+    "Si tu viendrais, je serai content.",
+    "Si tu venais, je serai content."
+   ],
+   "a": 1,
+   "why": "si + present → future."
+  },
+  {
+   "t": "mcq",
+   "q": "Choose the standard type 2 sentence.",
+   "options": [
+    "Si j'aurais une voiture, j'irais à Québec.",
+    "Si j'avais une voiture, j'irais à Québec.",
+    "Si j'ai une voiture, j'irais à Québec.",
+    "Si j'avais une voiture, j'irai à Québec."
+   ],
+   "a": 1,
+   "why": "si + imparfait → conditionnel."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is correct?",
+   "options": [
+    "s'elle vient",
+    "si elle vient",
+    "s'on part",
+    "si il vient"
+   ],
+   "a": 1,
+   "why": "Si elides only before il/ils."
+  },
+  {
+   "t": "mcq",
+   "q": "'Et si on allait au cinéma?' is…",
+   "options": [
+    "a regret",
+    "a suggestion",
+    "a condition in the past",
+    "an order"
+   ],
+   "a": 1,
+   "why": "Et si + imparfait = How about…?"
+  },
+  {
+   "t": "fill",
+   "q": "Si j'___ riche, je voyagerais. (être)",
+   "a": [
+    "étais"
+   ],
+   "en": "If I were rich, I'd travel.",
+   "why": "si + imparfait."
+  },
+  {
+   "t": "fill",
+   "q": "S'il pleut, on ___ au cinéma. (aller, future)",
+   "a": [
+    "ira",
+    "va aller"
+   ],
+   "en": "If it rains, we'll go to the movies.",
+   "why": "Type 1: future in the result."
+  },
+  {
+   "t": "fill",
+   "q": "Si tu parlais français, tu ___ ce poste. (avoir)",
+   "a": [
+    "aurais"
+   ],
+   "en": "If you spoke French, you'd get this job.",
+   "why": "Type 2: conditionnel in the result."
+  },
+  {
+   "t": "fill",
+   "q": "Qu'est-ce que vous ___ si vous gagniez à la loterie? (faire)",
+   "a": [
+    "feriez"
+   ],
+   "en": "What would you do if you won the lottery?",
+   "why": "fer- + -iez."
+  },
+  {
+   "t": "build",
+   "en": "If I had time, I would travel.",
+   "a": "Si j'avais le temps, je voyagerais."
+  },
+  {
+   "t": "build",
+   "en": "If you are tired, rest.",
+   "a": "Si tu es fatigué, repose-toi."
+  },
+  {
+   "t": "build",
+   "en": "If I were you, I would take the metro.",
+   "a": "Si j'étais toi, je prendrais le métro."
+  },
+  {
+   "t": "translate",
+   "en": "If it's nice, we'll go out.",
+   "a": [
+    "S'il fait beau, on va sortir.",
+    "S'il fait beau, nous allons sortir.",
+    "S'il fait beau, on sortira.",
+    "S'il fait beau, nous sortirons."
+   ],
+   "why": "Type 1."
+  },
+  {
+   "t": "translate",
+   "en": "If I had a car, I'd go to Quebec City.",
+   "a": [
+    "Si j'avais une voiture, j'irais à Québec.",
+    "Si j'avais une auto, j'irais à Québec.",
+    "Si j'avais un char, j'irais à Québec."
+   ],
+   "why": "Type 2: si j'avais, never si j'aurais."
+  },
+  {
+   "t": "translate",
+   "en": "I'm going out even if it rains.",
+   "a": [
+    "Je vais sortir même s'il pleut.",
+    "Je sors même s'il pleut.",
+    "Je sortirai même s'il pleut."
+   ],
+   "why": "même si + present."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "si",
+   "en": "if",
+   "ex": "Si tu veux, on peut y aller."
+  },
+  {
+   "fr": "même si",
+   "en": "even if",
+   "ex": "Je viens même si je suis fatigué."
+  },
+  {
+   "fr": "sinon",
+   "en": "otherwise, or else",
+   "ex": "Mets ta tuque, sinon tu vas avoir froid."
+  },
+  {
+   "fr": "si seulement",
+   "en": "if only",
+   "ex": "Si seulement il faisait plus chaud!"
+  },
+  {
+   "fr": "et si…?",
+   "en": "what if…? how about…?",
+   "ex": "Et si on restait à la maison?"
+  },
+  {
+   "fr": "à condition de",
+   "en": "provided that",
+   "ex": "Je viens, à condition de partir tôt."
+  },
+  {
+   "fr": "gagner à la loterie",
+   "en": "to win the lottery",
+   "ex": "Si je gagnais à la loterie, je voyagerais."
+  },
+  {
+   "fr": "riche",
+   "en": "rich",
+   "ex": "Si j'étais riche, j'aiderais ma famille."
+  },
+  {
+   "fr": "le rêve",
+   "en": "dream",
+   "g": "m",
+   "ex": "Mon rêve, c'est d'avoir un chalet."
+  },
+  {
+   "fr": "imaginer",
+   "en": "to imagine",
+   "ex": "Imagine si tu habitais à Paris!"
+  },
+  {
+   "fr": "l'emploi",
+   "en": "job, employment",
+   "g": "m",
+   "ex": "Il cherche un emploi à Québec."
+  },
+  {
+   "fr": "le poste",
+   "en": "position, job",
+   "g": "m",
+   "ex": "J'ai eu le poste!"
+  },
+  {
+   "fr": "se dépêcher",
+   "en": "to hurry",
+   "ex": "Dépêche-toi, sinon on va être en retard."
+  },
+  {
+   "fr": "rater",
+   "en": "to miss",
+   "ex": "Si tu pars tard, tu vas rater le train."
+  },
+  {
+   "fr": "toé / moé",
+   "en": "toi / moi (old or very informal Quebec)",
+   "ex": "C'est pour toé!",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "s'il fait beau",
+    "tip": "seel fè BOH: elision of si before il."
+   },
+   {
+    "fr": "si elle vient",
+    "tip": "see ell VYAN: no elision."
+   },
+   {
+    "fr": "si j'avais",
+    "tip": "see zha-VÈ."
+   },
+   {
+    "fr": "j'irais",
+    "tip": "zhee-RÈ."
+   },
+   {
+    "fr": "nous aurions",
+    "tip": "noo-zo-RYON."
+   },
+   {
+    "fr": "même si",
+    "tip": "mèm SEE."
+   }
+  ],
+  "title": "Si je gagnais à la loterie",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "As-tu acheté un billet de loterie cette semaine?",
+    "en": "Did you buy a lottery ticket this week?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui! Si je gagnais, j'arrêterais de travailler tout de suite.",
+    "en": "Yes! If I won, I'd stop working right away."
+   },
+   {
+    "s": "A",
+    "fr": "Vraiment? Moi, si j'étais riche, j'achèterais un chalet en Estrie.",
+    "en": "Really? Me, if I were rich, I'd buy a cottage in the Eastern Townships."
+   },
+   {
+    "s": "B",
+    "fr": "Et tu m'inviterais?",
+    "en": "And you'd invite me?"
+   },
+   {
+    "s": "A",
+    "fr": "Bien sûr, si tu apportais le vin!",
+    "en": "Of course, if you brought the wine!"
+   },
+   {
+    "s": "B",
+    "fr": "Ha ha! Bon, si on ne gagne pas, on va faire quoi ce week-end?",
+    "en": "Ha ha! OK, if we don't win, what are we going to do this weekend?"
+   },
+   {
+    "s": "A",
+    "fr": "S'il fait beau, on pourrait aller au mont Royal.",
+    "en": "If it's nice, we could go to Mount Royal."
+   },
+   {
+    "s": "B",
+    "fr": "Et s'il pleut, on ira au cinéma. Parfait!",
+    "en": "And if it rains, we'll go to the movies. Perfect!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What would B do after winning?",
+    "options": [
+     "Buy a house",
+     "Stop working",
+     "Travel"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Where would A buy a cottage?",
+    "options": [
+     "In Gaspésie",
+     "In the Eastern Townships (Estrie)",
+     "In the Laurentians"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What will they do if it rains?",
+    "options": [
+     "Go to Mount Royal",
+     "Go to the movies",
+     "Stay home"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Answer: Qu'est-ce que tu ferais si tu gagnais un million de dollars? Give three things.",
+   "model": "Si je gagnais un million de dollars, j'achèterais une maison, je voyagerais en Europe et j'aiderais ma famille."
+  },
+  {
+   "prompt": "Make two type 1 plans for the weekend depending on the weather.",
+   "model": "S'il fait beau, on va faire du vélo. S'il pleut, on va regarder un film."
+  },
+  {
+   "prompt": "Give advice to a newcomer with 'Si j'étais toi…'.",
+   "model": "Si j'étais toi, je suivrais un cours de francisation et je parlerais avec mes voisins."
+  },
+  {
+   "prompt": "Correct this Quebec sentence into standard French: 'Si j'aurais le temps, j'irais au gym.'",
+   "model": "Si j'avais le temps, j'irais au gym."
+  }
+ ],
+ "write": {
+  "prompt": "Write 6 sentences: 3 about real plans (type 1) and 3 about dreams (type 2).",
+  "model": "Si j'ai le temps ce soir, je vais étudier mon français. S'il fait beau demain, j'irai au travail à vélo. Si mes amis viennent samedi, on fera une poutine maison. Si j'avais plus de vacances, je visiterais la Gaspésie. Si je parlais parfaitement français, je travaillerais à Québec. Si j'étais plus courageux, j'apprendrais à faire de la motoneige."
+ },
+ "quiz": [
+  {
+   "q": "In a type 2 sentence, which tense follows si?",
+   "options": [
+    "présent",
+    "futur",
+    "imparfait",
+    "conditionnel"
+   ],
+   "a": 2,
+   "why": "si + imparfait → conditionnel."
+  },
+  {
+   "q": "Which sentence is NOT standard French?",
+   "options": [
+    "Si j'avais faim, je mangerais.",
+    "Si j'aurais faim, je mangerais.",
+    "Si j'ai faim, je mange.",
+    "Si j'ai faim, je mangerai."
+   ],
+   "a": 1,
+   "why": "No conditional after si."
+  },
+  {
+   "q": "'Sinon' means…",
+   "options": [
+    "if not / otherwise",
+    "even if",
+    "if only",
+    "so"
+   ],
+   "a": 0,
+   "why": "Dépêche-toi, sinon…"
+  },
+  {
+   "q": "Complete: 'S'ils ___ à l'heure, on mangera ensemble.'",
+   "options": [
+    "arrivent",
+    "arriveraient",
+    "arriveront",
+    "arrivaient"
+   ],
+   "a": 0,
+   "why": "Type 1: si + present."
+  },
+  {
+   "q": "'Si j'étais toi' means…",
+   "options": [
+    "If I was with you",
+    "If I were you",
+    "If you were me",
+    "When I was you"
+   ],
+   "a": 1,
+   "why": "Same as à ta place."
+  },
+  {
+   "q": "Which is the correct elision?",
+   "options": [
+    "s'on",
+    "s'elle",
+    "s'il",
+    "s'nous"
+   ],
+   "a": 2,
+   "why": "Only si + il(s) → s'il(s)."
+  },
+  {
+   "q": "'Même s'il fait froid, je sors' means…",
+   "options": [
+    "Since it's cold, I'm going out.",
+    "Even if it's cold, I'm going out.",
+    "If it's cold, I'm not going out.",
+    "It's as cold as outside."
+   ],
+   "a": 1,
+   "why": "même si = even if."
+  },
+  {
+   "q": "Complete: 'Si nous avions une voiture, nous ___ au chalet.'",
+   "options": [
+    "allons",
+    "irons",
+    "irions",
+    "allions"
+   ],
+   "a": 2,
+   "why": "Type 2 result: conditionnel irions."
+  }
+ ]
+}

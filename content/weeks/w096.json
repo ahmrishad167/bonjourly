@@ -1,0 +1,648 @@
+{
+ "w": 96,
+ "title": "Indefinite pronouns: quelqu'un, quelque chose, personne",
+ "goal": "By the end of this lesson you can talk about unspecified people, things and places with quelqu'un, quelque chose, personne, rien, chacun, n'importe qui and their friends, and you can recognize the Quebec pronunciations 'quequ'un' and 'quèque chose'.",
+ "learn": [
+  {
+   "h": "Someone, something, somewhere and their negatives",
+   "body": [
+    "The positive forms and their negatives work as pairs. The negatives need *ne* before the verb.",
+    "As a subject, the negative comes first: *Personne n'est venu. Rien ne marche.* As an object, it follows the verb: *Je ne vois personne. Je ne comprends rien.*",
+    "In the passé composé, *rien* goes before the participle, but *personne* and *nulle part* go after it: *Je n'ai rien vu* but *Je n'ai vu personne*."
+   ],
+   "table": {
+    "head": [
+     "Positive",
+     "Negative",
+     "Example"
+    ],
+    "rows": [
+     [
+      "quelqu'un (someone)",
+      "ne… personne (no one)",
+      "Je n'ai vu personne."
+     ],
+     [
+      "quelque chose (something)",
+      "ne… rien (nothing)",
+      "Je n'ai rien vu."
+     ],
+     [
+      "quelque part (somewhere)",
+      "ne… nulle part (nowhere)",
+      "Je ne le trouve nulle part."
+     ],
+     [
+      "tout le monde (everyone)",
+      "personne ne (no one)",
+      "Personne ne sait."
+     ],
+     [
+      "tout (everything)",
+      "rien ne (nothing)",
+      "Rien ne change."
+     ]
+    ]
+   },
+   "tip": "Rien before the participle, personne after: je n'ai rien dit / je n'ai vu personne."
+  },
+  {
+   "h": "Adding an adjective: de + masculine adjective",
+   "body": [
+    "After *quelqu'un, quelque chose, personne, rien*, an adjective needs *de* and stays masculine singular: *quelque chose de bon*, *quelqu'un d'intéressant*, *rien de spécial*, *personne d'autre*.",
+    "Likewise *autre chose* (something else) and *quelqu'un d'autre* (someone else)."
+   ],
+   "table": {
+    "head": [
+     "Pattern",
+     "Example"
+    ],
+    "rows": [
+     [
+      "quelque chose de + adj.",
+      "J'ai mangé quelque chose de délicieux."
+     ],
+     [
+      "quelqu'un de + adj.",
+      "C'est quelqu'un de très drôle."
+     ],
+     [
+      "rien de + adj.",
+      "Il n'y a rien de nouveau."
+     ],
+     [
+      "personne de + adj.",
+      "Je ne connais personne d'aussi patient."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Chacun, plusieurs, certains, quelques-uns",
+   "body": [
+    "*Chacun / chacune* = each one: *Chacun paie sa part.* (Compare the adjective *chaque*: *chaque personne*.)",
+    "*Plusieurs* (several), *certains / certaines* (some, certain ones), *quelques-uns / quelques-unes* (a few): *Certains aiment l'hiver, d'autres le détestent. J'ai lu quelques-uns de ses livres.*",
+    "With *en*: *J'en ai vu plusieurs. Il en reste quelques-uns.*"
+   ]
+  },
+  {
+   "h": "N'importe qui, quoi, où, quand, comment",
+   "body": [
+    "*N'importe* + question word = 'any…, no matter…': *n'importe qui* (anyone), *n'importe quoi* (anything; also 'nonsense'), *n'importe où* (anywhere), *n'importe quand* (anytime), *n'importe comment* (any old way, carelessly).",
+    "*Il dit n'importe quoi!* = He's talking nonsense! *N'importe qui peut le faire.* = Anyone can do it."
+   ]
+  },
+  {
+   "h": "Quebec: quequ'un, quèque chose, pas personne",
+   "body": [
+    "In everyday Quebec pronunciation, the l of *quelqu'un* and *quelque* drops: *quelqu'un* → [kɛkœ̃] 'quequ'un', *quelque chose* → [kɛkʃoz] 'quèque chose' or 'quequ'chose', *quelque part* → 'quèque part'. This is normal casual speech; spell them normally.",
+    "Popular speech often doubles the negation with *pas*: *Y a pas personne* (= Il n'y a personne), *J'ai pas rien dit* (= Je n'ai rien dit). Understand it, but don't write it: in standard French, *pas* + *personne/rien* makes a double negative error.",
+    "You'll also hear *chaque* used as a pronoun for *chacun*: *Ça coûte cinq piasses chaque* (= cinq dollars chacun)."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Quelqu'un a appelé pendant que tu dormais.",
+   "en": "Someone called while you were sleeping."
+  },
+  {
+   "fr": "Personne n'a répondu à mon message.",
+   "en": "No one answered my message.",
+   "note": "personne as subject + ne"
+  },
+  {
+   "fr": "Je n'ai vu personne dans le stationnement.",
+   "en": "I didn't see anyone in the parking lot.",
+   "note": "personne after the participle"
+  },
+  {
+   "fr": "Je n'ai rien compris.",
+   "en": "I didn't understand anything.",
+   "note": "rien before the participle"
+  },
+  {
+   "fr": "Rien ne marche aujourd'hui!",
+   "en": "Nothing is working today!",
+   "note": "rien as subject"
+  },
+  {
+   "fr": "J'ai laissé mes clés quelque part.",
+   "en": "I left my keys somewhere."
+  },
+  {
+   "fr": "Je ne les trouve nulle part.",
+   "en": "I can't find them anywhere.",
+   "note": "ne… nulle part"
+  },
+  {
+   "fr": "On a mangé quelque chose de délicieux au marché Jean-Talon.",
+   "en": "We ate something delicious at Jean-Talon Market.",
+   "note": "quelque chose de + masc. adj."
+  },
+  {
+   "fr": "C'est quelqu'un de très généreux.",
+   "en": "He's / She's a very generous person.",
+   "note": "quelqu'un d' + adj., even for a woman"
+  },
+  {
+   "fr": "Il n'y a rien de nouveau.",
+   "en": "There's nothing new."
+  },
+  {
+   "fr": "Tu veux autre chose?",
+   "en": "Do you want something else?"
+  },
+  {
+   "fr": "Chacun apporte quelque chose à boire.",
+   "en": "Everyone brings something to drink.",
+   "note": "chacun = each one"
+  },
+  {
+   "fr": "Certains collègues travaillent de la maison, d'autres viennent au bureau.",
+   "en": "Some colleagues work from home, others come to the office."
+  },
+  {
+   "fr": "J'ai vu quelques-uns de ses films.",
+   "en": "I've seen a few of his films."
+  },
+  {
+   "fr": "N'importe qui peut s'inscrire.",
+   "en": "Anyone can sign up."
+  },
+  {
+   "fr": "Arrête de dire n'importe quoi!",
+   "en": "Stop talking nonsense!",
+   "note": "n'importe quoi = anything / nonsense"
+  }
+ ],
+ "quebec": {
+  "intro": "Casual Quebec pronunciation drops the l: 'quelqu'un' sounds like 'quequ'un' and 'quelque chose' like 'quèque chose'. Popular speech also adds 'pas' to personne and rien: 'Y a pas personne'.",
+  "items": [
+   {
+    "std": "Il y a quelqu'un?",
+    "qc": "Y a quequ'un?",
+    "en": "Is anyone there?",
+    "note": "pronunciation only; spell quelqu'un"
+   },
+   {
+    "std": "Veux-tu quelque chose?",
+    "qc": "Veux-tu quèque chose?",
+    "en": "Do you want something?",
+    "note": "also heard: quequ'chose"
+   },
+   {
+    "std": "Il n'y a personne.",
+    "qc": "Y a pas personne.",
+    "en": "There's nobody.",
+    "note": "pas + personne: popular double negative, avoid in writing"
+   },
+   {
+    "std": "Je n'ai rien dit.",
+    "qc": "J'ai pas rien dit.",
+    "en": "I didn't say anything.",
+    "note": "popular double negative; standard: je n'ai rien dit"
+   },
+   {
+    "std": "Je l'ai mis quelque part.",
+    "qc": "J'l'ai mis quèque part.",
+    "en": "I put it somewhere."
+   },
+   {
+    "std": "Ça coûte cinq dollars chacun.",
+    "qc": "Ça coûte cinq piasses chaque.",
+    "en": "They cost five dollars each.",
+    "note": "chaque as a pronoun and piasse = dollar: informal"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Je n'ai vu ___.",
+   "options": [
+    "rien personne",
+    "personne",
+    "pas personne",
+    "quelqu'un"
+   ],
+   "a": 1,
+   "why": "Ne… personne; no pas in standard French."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is correct?",
+   "options": [
+    "Je n'ai vu rien.",
+    "Je n'ai rien vu.",
+    "Je n'ai pas rien vu.",
+    "Je rien n'ai vu."
+   ],
+   "a": 1,
+   "why": "Rien goes before the past participle."
+  },
+  {
+   "t": "mcq",
+   "q": "C'est quelqu'un ___ gentil.",
+   "options": [
+    "—",
+    "de",
+    "très de",
+    "qui"
+   ],
+   "a": 1,
+   "why": "Quelqu'un de + adjective."
+  },
+  {
+   "t": "mcq",
+   "q": "'Il dit n'importe quoi' means…",
+   "options": [
+    "He says anything he likes / he's talking nonsense",
+    "He says nothing",
+    "He says it's important",
+    "He says something else"
+   ],
+   "a": 0,
+   "why": "N'importe quoi = anything / nonsense."
+  },
+  {
+   "t": "fill",
+   "q": "___ n'est venu à la réunion. (no one)",
+   "a": [
+    "Personne"
+   ],
+   "en": "No one came to the meeting.",
+   "why": "Personne as subject + ne."
+  },
+  {
+   "t": "fill",
+   "q": "Il n'y a ___ de nouveau. (nothing)",
+   "a": [
+    "rien"
+   ],
+   "en": "There's nothing new.",
+   "why": "Rien de + adjective."
+  },
+  {
+   "t": "fill",
+   "q": "J'ai oublié mon parapluie ___. (somewhere)",
+   "a": [
+    "quelque part"
+   ],
+   "en": "I forgot my umbrella somewhere.",
+   "why": "Quelque part = somewhere."
+  },
+  {
+   "t": "fill",
+   "q": "___ paie sa part. (each one)",
+   "a": [
+    "Chacun"
+   ],
+   "en": "Each person pays their share.",
+   "why": "Chacun = each one (pronoun)."
+  },
+  {
+   "t": "fill",
+   "q": "Tu veux ___ chose? (something else)",
+   "a": [
+    "autre"
+   ],
+   "en": "Do you want something else?",
+   "why": "Autre chose = something else."
+  },
+  {
+   "t": "build",
+   "en": "Someone called you.",
+   "a": "Quelqu'un t'a appelé."
+  },
+  {
+   "t": "build",
+   "en": "I can't find my keys anywhere.",
+   "a": "Je ne trouve mes clés nulle part."
+  },
+  {
+   "t": "build",
+   "en": "We ate something delicious.",
+   "a": "On a mangé quelque chose de délicieux."
+  },
+  {
+   "t": "translate",
+   "en": "There's nobody here.",
+   "a": [
+    "Il n'y a personne ici.",
+    "Il y a personne ici.",
+    "Y a personne ici."
+   ],
+   "why": "Il n'y a personne (casual speech drops ne)."
+  },
+  {
+   "t": "translate",
+   "en": "Anyone can do it.",
+   "a": [
+    "N'importe qui peut le faire.",
+    "Tout le monde peut le faire."
+   ],
+   "why": "N'importe qui = anyone at all."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "quelqu'un",
+   "en": "someone, anyone",
+   "ex": "Quelqu'un est là?"
+  },
+  {
+   "fr": "quelque chose",
+   "en": "something",
+   "ex": "J'ai quelque chose pour toi."
+  },
+  {
+   "fr": "quelque part",
+   "en": "somewhere",
+   "ex": "Il est quelque part en ville."
+  },
+  {
+   "fr": "ne… personne",
+   "en": "no one, nobody",
+   "ex": "Je ne connais personne ici."
+  },
+  {
+   "fr": "ne… rien",
+   "en": "nothing",
+   "ex": "Je n'ai rien mangé."
+  },
+  {
+   "fr": "ne… nulle part",
+   "en": "nowhere",
+   "ex": "Je ne vais nulle part."
+  },
+  {
+   "fr": "chacun / chacune",
+   "en": "each one",
+   "ex": "Chacune a son bureau."
+  },
+  {
+   "fr": "plusieurs",
+   "en": "several",
+   "ex": "J'en ai plusieurs."
+  },
+  {
+   "fr": "certains / certaines",
+   "en": "some (people), certain ones",
+   "ex": "Certains n'aiment pas l'hiver."
+  },
+  {
+   "fr": "quelques-uns / quelques-unes",
+   "en": "a few",
+   "ex": "Quelques-unes sont arrivées."
+  },
+  {
+   "fr": "n'importe qui",
+   "en": "anyone (at all)",
+   "ex": "Ne parle pas à n'importe qui."
+  },
+  {
+   "fr": "n'importe quoi",
+   "en": "anything; nonsense",
+   "ex": "C'est n'importe quoi!"
+  },
+  {
+   "fr": "autre chose",
+   "en": "something else",
+   "ex": "On parle d'autre chose?"
+  },
+  {
+   "fr": "le stationnement",
+   "en": "parking lot, parking",
+   "g": "m",
+   "ex": "Le stationnement est plein.",
+   "qc": true
+  },
+  {
+   "fr": "la piasse",
+   "en": "dollar (informal)",
+   "g": "f",
+   "ex": "Ça coûte dix piasses.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "quelqu'un",
+    "tip": "Standard kèl-KUN; Quebec casual kè-KUN (no l)."
+   },
+   {
+    "fr": "quelque chose",
+    "tip": "Standard kèl-kuh-SHOZ; Quebec casual kèk-SHÔZ."
+   },
+   {
+    "fr": "personne",
+    "tip": "pèr-SONN: the double n makes the o oral."
+   },
+   {
+    "fr": "rien",
+    "tip": "RYIN: a nasal vowel, no final n sound."
+   },
+   {
+    "fr": "n'importe quoi",
+    "tip": "nin-port-KWA."
+   },
+   {
+    "fr": "quelques-uns",
+    "tip": "Liaison: kèl-kuh-ZUN."
+   }
+  ],
+  "title": "La salle de réunion",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Allô? Y a quelqu'un dans la salle?",
+    "en": "Hello? Is anyone in the room?"
+   },
+   {
+    "s": "B",
+    "fr": "Non, il n'y a personne. Tout le monde est parti dîner.",
+    "en": "No, there's nobody. Everyone went for lunch."
+   },
+   {
+    "s": "A",
+    "fr": "J'ai oublié mon ordi quelque part. Tu l'as vu?",
+    "en": "I forgot my laptop somewhere. Have you seen it?"
+   },
+   {
+    "s": "B",
+    "fr": "Je n'ai rien vu ici. As-tu regardé à la cafétéria?",
+    "en": "I haven't seen anything here. Did you look in the cafeteria?"
+   },
+   {
+    "s": "A",
+    "fr": "Oui, je l'ai cherché partout. Je ne le trouve nulle part!",
+    "en": "Yes, I looked everywhere. I can't find it anywhere!"
+   },
+   {
+    "s": "B",
+    "fr": "Quelqu'un l'a peut-être apporté à la réception.",
+    "en": "Maybe someone took it to reception."
+   },
+   {
+    "s": "A",
+    "fr": "Bonne idée. Certains collègues font ça.",
+    "en": "Good idea. Some colleagues do that."
+   },
+   {
+    "s": "B",
+    "fr": "Et si personne ne l'a, on enverra un courriel à chacun.",
+    "en": "And if no one has it, we'll send an email to everyone."
+   }
+  ],
+  "questions": [
+   {
+    "q": "Where is everyone?",
+    "options": [
+     "In a meeting",
+     "At lunch",
+     "At home"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What did A lose?",
+    "options": [
+     "Keys",
+     "A laptop",
+     "A phone"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Where might it be?",
+    "options": [
+     "At reception",
+     "In the car",
+     "At home"
+    ],
+    "a": 0
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Describe a quiet Sunday: what you did and didn't do, using rien, personne and nulle part.",
+   "model": "Dimanche, je n'ai rien fait. Je n'ai vu personne et je ne suis allé nulle part. C'était parfait!"
+  },
+  {
+   "prompt": "Describe a friend using 'C'est quelqu'un de…' with two adjectives.",
+   "model": "Mon ami Karim, c'est quelqu'un de drôle et de très fiable."
+  },
+  {
+   "prompt": "Say 'Is anyone there? Do you want something?' casually, the Quebec way.",
+   "model": "Y a quequ'un? Veux-tu quèque chose?"
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences about a party or event where something went wrong. Use at least five indefinite pronouns (quelqu'un, personne, rien, chacun, n'importe qui, quelque chose de…).",
+  "model": "Samedi, j'ai organisé un souper. J'ai demandé à chacun d'apporter quelque chose à manger. Malheureusement, personne n'a apporté de dessert! Quelqu'un a renversé du vin sur le sofa, mais rien de grave. Certains invités sont restés jusqu'à deux heures du matin. La prochaine fois, je ne vais pas inviter n'importe qui!"
+ },
+ "quiz": [
+  {
+   "q": "Personne ___ venu.",
+   "options": [
+    "est",
+    "n'est",
+    "n'est pas",
+    "pas est"
+   ],
+   "a": 1,
+   "why": "Personne as subject + ne, no pas."
+  },
+  {
+   "q": "'Something interesting' →",
+   "options": [
+    "quelque chose intéressant",
+    "quelque chose d'intéressant",
+    "quelque chose intéressante",
+    "une chose quelque intéressante"
+   ],
+   "a": 1,
+   "why": "Quelque chose de + masculine adjective."
+  },
+  {
+   "q": "In the passé composé, where does personne go?",
+   "options": [
+    "Before the auxiliary",
+    "Between the auxiliary and participle",
+    "After the participle",
+    "At the start"
+   ],
+   "a": 2,
+   "why": "Je n'ai vu personne."
+  },
+  {
+   "q": "'Y a pas personne' is…",
+   "options": [
+    "standard",
+    "a popular double negative for 'Il n'y a personne'",
+    "a France-only form",
+    "a question"
+   ],
+   "a": 1,
+   "why": "Standard French doesn't combine pas with personne."
+  },
+  {
+   "q": "How is 'quelqu'un' often pronounced in casual Quebec speech?",
+   "options": [
+    "kèl-kè-UN",
+    "kè-KUN (quequ'un)",
+    "kwèl-KUN",
+    "kèl-KOON"
+   ],
+   "a": 1,
+   "why": "The l drops: quequ'un."
+  },
+  {
+   "q": "'N'importe où' means…",
+   "options": [
+    "nowhere",
+    "anywhere",
+    "somewhere else",
+    "everywhere"
+   ],
+   "a": 1,
+   "why": "No matter where = anywhere."
+  },
+  {
+   "q": "Which is a pronoun?",
+   "options": [
+    "chaque",
+    "chacun",
+    "quelque",
+    "certain (before a noun)"
+   ],
+   "a": 1,
+   "why": "Chacun stands alone; chaque needs a noun."
+  },
+  {
+   "q": "J'en ai lu ___.",
+   "options": [
+    "quelques",
+    "quelques-uns",
+    "quelque",
+    "quelqu'un"
+   ],
+   "a": 1,
+   "why": "Pronoun form: quelques-uns."
+  },
+  {
+   "q": "'Rien ne marche' means…",
+   "options": [
+    "Nothing works",
+    "No one walks",
+    "He doesn't walk",
+    "Everything works"
+   ],
+   "a": 0,
+   "why": "Rien as subject + ne."
+  }
+ ]
+}

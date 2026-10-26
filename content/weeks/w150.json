@@ -1,0 +1,638 @@
+{
+ "w": 150,
+ "title": "Concession and opposition: bien que, quoique, pourtant",
+ "goal": "By the end of this lesson you can express concession and contrast with the right mood and structure: bien que and quoique with the subjunctive, même si with the indicative, and pourtant, cependant, alors que, malgré and avoir beau.",
+ "learn": [
+  {
+   "h": "Concession vs opposition",
+   "body": [
+    "Concession says 'X is true, but it doesn't stop Y': *Bien qu'il pleuve, on sort.* Opposition simply contrasts two facts: *Moi, j'aime l'hiver, alors que ma sœur le déteste.*",
+    "The key grammar question for each connector is: what follows it? A subjunctive clause, an indicative clause, a noun, or an infinitive?"
+   ],
+   "table": {
+    "head": [
+     "Connector",
+     "Followed by",
+     "Example"
+    ],
+    "rows": [
+     [
+      "bien que, quoique",
+      "subjunctive",
+      "Bien qu'il soit tard, je reste."
+     ],
+     [
+      "même si",
+      "indicative",
+      "Même s'il est tard, je reste."
+     ],
+     [
+      "alors que, tandis que",
+      "indicative",
+      "Il travaille alors que je me repose."
+     ],
+     [
+      "malgré, en dépit de",
+      "noun",
+      "Malgré la pluie, on sort."
+     ],
+     [
+      "avoir beau",
+      "infinitive",
+      "J'ai beau essayer, ça ne marche pas."
+     ],
+     [
+      "pourtant, cependant, toutefois, néanmoins",
+      "a new clause (adverb)",
+      "Il est riche; pourtant, il est malheureux."
+     ]
+    ]
+   },
+   "tip": "Bien que and quoique: always subjunctive. Même si: never subjunctive."
+  },
+  {
+   "h": "Bien que and quoique + subjunctive",
+   "body": [
+    "*Bien que* and *quoique* mean 'although' and are interchangeable. Both require the subjunctive: *Bien qu'elle ait raison…*, *Quoiqu'il fasse froid…*",
+    "Don't confuse *quoique* (one word, although) with *quoi que* (two words, whatever): *Quoi que tu fasses, je t'aime* = Whatever you do, I love you.",
+    "With the same subject, you can shorten: *Bien que fatigué, il a terminé* (although tired, he finished)."
+   ]
+  },
+  {
+   "h": "Même si + indicative, and its tenses",
+   "body": [
+    "*Même si* (even if / even though) takes the indicative and follows the same tense rules as *si*: no future or conditional right after it. *Même s'il pleut demain, on ira.* *Même s'il pleuvait, on irait.*",
+    "This is the most common concession connector in everyday speech, especially in Quebec."
+   ]
+  },
+  {
+   "h": "Adverbs and other tools",
+   "body": [
+    "*Pourtant* (yet, and yet), *cependant* and *toutefois* (however), *néanmoins* (nevertheless) and *quand même* (all the same, still) link two independent sentences: *Il a étudié. Pourtant, il a échoué.* *Il a étudié; il a quand même échoué.*",
+    "*Avoir beau* + infinitive means 'no matter how much': *J'ai beau lui expliquer, il ne comprend pas.*",
+    "*Malgré* + noun (*malgré le froid*). *Malgré que* + subjunctive exists and is very common in Quebec speech, but many style guides still advise against it in careful writing; use *bien que* instead.",
+    "*Alors que* and *tandis que* contrast two simultaneous facts: *Il est à Montréal alors que sa famille est à Toronto.*"
+   ]
+  },
+  {
+   "h": "Even stronger: si… que and tout… que",
+   "body": [
+    "*Si riche qu'il soit, il n'est pas heureux* (however rich he may be). *Aussi* works the same way: *Aussi étrange que cela paraisse…*",
+    "*Tout* + adjective + *que* + indicative: *Tout ministre qu'il est, il doit respecter la loi* (minister though he is). These are written, formal structures."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Bien qu'il fasse moins vingt, les enfants jouent dehors.",
+   "en": "Although it's minus twenty, the kids are playing outside.",
+   "note": "bien que + fasse (subjunctive of faire)"
+  },
+  {
+   "fr": "Quoiqu'elle soit fatiguée, elle a accepté de nous aider.",
+   "en": "Although she is tired, she agreed to help us.",
+   "note": "quoique + soit"
+  },
+  {
+   "fr": "Même s'il neige, la réunion aura lieu.",
+   "en": "Even if it snows, the meeting will take place.",
+   "note": "même si + present indicative"
+  },
+  {
+   "fr": "Même si j'avais le temps, je n'irais pas.",
+   "en": "Even if I had the time, I wouldn't go.",
+   "note": "même si + imparfait, then conditional"
+  },
+  {
+   "fr": "Il a beaucoup étudié; pourtant, il a raté l'examen.",
+   "en": "He studied a lot; yet he failed the exam.",
+   "note": "pourtant links two independent clauses"
+  },
+  {
+   "fr": "Le projet est coûteux. Il est toutefois nécessaire.",
+   "en": "The project is expensive. It is, however, necessary.",
+   "note": "toutefois can move inside the clause"
+  },
+  {
+   "fr": "Malgré la tempête, le vol est parti à l'heure.",
+   "en": "Despite the storm, the flight left on time.",
+   "note": "malgré + noun"
+  },
+  {
+   "fr": "J'ai beau lui répéter, il oublie toujours.",
+   "en": "No matter how often I tell him, he always forgets.",
+   "note": "avoir beau + infinitive"
+  },
+  {
+   "fr": "Elle adore le ski alors que son mari préfère la raquette.",
+   "en": "She loves skiing whereas her husband prefers snowshoeing.",
+   "note": "alors que = opposition, indicative"
+  },
+  {
+   "fr": "Quoi que vous décidiez, nous vous appuierons.",
+   "en": "Whatever you decide, we will support you.",
+   "note": "quoi que (two words) = whatever, + subjunctive"
+  },
+  {
+   "fr": "Bien que malade, il est venu travailler.",
+   "en": "Although sick, he came to work.",
+   "note": "shortened form with the same subject"
+  },
+  {
+   "fr": "Si compétente qu'elle soit, elle ne peut pas tout faire seule.",
+   "en": "However competent she is, she can't do everything alone.",
+   "note": "si + adjective + que + subjunctive"
+  },
+  {
+   "fr": "C'était cher, mais on l'a acheté quand même.",
+   "en": "It was expensive, but we bought it anyway.",
+   "note": "quand même at the end = anyway"
+  },
+  {
+   "fr": "Il pleuvait; néanmoins, la foule est restée jusqu'à la fin.",
+   "en": "It was raining; nevertheless, the crowd stayed until the end.",
+   "note": "néanmoins: formal"
+  },
+  {
+   "fr": "En dépit des critiques, le gouvernement maintient sa décision.",
+   "en": "In spite of the criticism, the government is maintaining its decision.",
+   "note": "en dépit de + noun, typical of news writing"
+  },
+  {
+   "fr": "Tout expert qu'il est, il s'est trompé.",
+   "en": "Expert though he is, he made a mistake.",
+   "note": "tout… que + indicative, formal"
+  }
+ ],
+ "quebec": {
+  "intro": "In everyday Quebec speech, même si is by far the most common concession connector, since it avoids the subjunctive. Bien que appears in careful speech and writing. You will also hear malgré que + subjunctive and quand même / pareil used for 'anyway'.",
+  "items": [
+   {
+    "std": "Bien qu'il soit tard, on continue.",
+    "qc": "Même si c'est tard, on continue.",
+    "en": "Even though it's late, we're continuing.",
+    "note": "même si is natural in all registers of speech"
+   },
+   {
+    "std": "Bien qu'il pleuve, on va au match.",
+    "qc": "Malgré qu'y mouille, on va à game.",
+    "en": "Although it's raining, we're going to the game.",
+    "note": "malgré que + subjunctive: common in Quebec speech; avoid in formal writing. 'à game' is informal"
+   },
+   {
+    "std": "Il a perdu, mais il est content quand même.",
+    "qc": "Y'a perdu, mais y'est content pareil.",
+    "en": "He lost, but he's happy anyway.",
+    "note": "pareil = quand même (informal Quebec)"
+   },
+   {
+    "std": "J'ai beau essayer, ça ne fonctionne pas.",
+    "qc": "J'ai beau essayer, ça marche pas.",
+    "en": "No matter how hard I try, it doesn't work.",
+    "note": "avoir beau is used in Quebec speech too; ne dropped"
+   },
+   {
+    "std": "Il est très gentil; pourtant, personne ne l'aime.",
+    "qc": "Y'est ben fin, pis pourtant, personne l'aime.",
+    "en": "He's very nice, and yet nobody likes him.",
+    "note": "fin = nice, kind (Quebec)"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Bien qu'il ___ raison, personne ne l'écoute.",
+   "options": [
+    "a",
+    "ait",
+    "aura",
+    "aurait"
+   ],
+   "a": 1,
+   "why": "bien que + subjunctive: ait."
+  },
+  {
+   "t": "mcq",
+   "q": "Même s'il ___ demain, on ira au chalet.",
+   "options": [
+    "pleuve",
+    "pleuvra",
+    "pleut",
+    "pleuvrait"
+   ],
+   "a": 2,
+   "why": "même si + present indicative, never future or subjunctive."
+  },
+  {
+   "t": "mcq",
+   "q": "Which connector is followed by a noun?",
+   "options": [
+    "bien que",
+    "malgré",
+    "même si",
+    "alors que"
+   ],
+   "a": 1,
+   "why": "malgré la pluie, malgré le froid."
+  },
+  {
+   "t": "mcq",
+   "q": "'Quoi que tu dises' means…",
+   "options": [
+    "Although you say",
+    "Whatever you say",
+    "Because you say",
+    "What did you say"
+   ],
+   "a": 1,
+   "why": "quoi que (two words) = whatever."
+  },
+  {
+   "t": "mcq",
+   "q": "Which sentence is correct?",
+   "options": [
+    "J'ai beau que j'essaie.",
+    "J'ai beau essayer.",
+    "J'ai beau d'essayer.",
+    "J'ai beau à essayer."
+   ],
+   "a": 1,
+   "why": "avoir beau + bare infinitive."
+  },
+  {
+   "t": "fill",
+   "q": "Quoiqu'elle ___ malade, elle travaille. (être)",
+   "a": [
+    "soit"
+   ],
+   "en": "Although she's sick, she's working.",
+   "why": "quoique + subjunctive."
+  },
+  {
+   "t": "fill",
+   "q": "___ la neige, les écoles sont ouvertes.",
+   "a": [
+    "Malgré",
+    "En dépit de"
+   ],
+   "en": "Despite the snow, schools are open.",
+   "why": "A noun follows, so use malgré / en dépit de."
+  },
+  {
+   "t": "fill",
+   "q": "Il est riche; ___, il vit simplement.",
+   "a": [
+    "pourtant",
+    "cependant",
+    "toutefois",
+    "néanmoins"
+   ],
+   "en": "He's rich; yet he lives simply.",
+   "why": "An adverb links two independent clauses."
+  },
+  {
+   "t": "fill",
+   "q": "Bien qu'ils ___ fini, ils sont restés. (avoir)",
+   "a": [
+    "aient"
+   ],
+   "en": "Although they had finished, they stayed.",
+   "why": "past subjunctive: aient fini."
+  },
+  {
+   "t": "build",
+   "en": "Even if it's cold, we're going out.",
+   "a": "Même s'il fait froid, on sort."
+  },
+  {
+   "t": "build",
+   "en": "No matter how much I explain, he doesn't understand.",
+   "a": "J'ai beau expliquer, il ne comprend pas."
+  },
+  {
+   "t": "build",
+   "en": "Although she is tired, she is working.",
+   "a": "Bien qu'elle soit fatiguée, elle travaille."
+  },
+  {
+   "t": "translate",
+   "en": "Despite the rain, we went out.",
+   "a": [
+    "Malgré la pluie, nous sommes sortis.",
+    "Malgré la pluie, on est sortis.",
+    "Malgré la pluie, on est sorties.",
+    "En dépit de la pluie, nous sommes sortis."
+   ],
+   "why": "malgré + noun."
+  },
+  {
+   "t": "translate",
+   "en": "Although he's young, he's very wise.",
+   "a": [
+    "Bien qu'il soit jeune, il est très sage.",
+    "Quoiqu'il soit jeune, il est très sage.",
+    "Même s'il est jeune, il est très sage.",
+    "Bien que jeune, il est très sage."
+   ],
+   "why": "bien que/quoique + subjunctive, or même si + indicative."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "bien que",
+   "en": "although (+ subjunctive)",
+   "ex": "Bien que ce soit difficile, je continue."
+  },
+  {
+   "fr": "quoique",
+   "en": "although (+ subjunctive)",
+   "ex": "Quoiqu'il soit tard, elle travaille encore."
+  },
+  {
+   "fr": "quoi que",
+   "en": "whatever (+ subjunctive)",
+   "ex": "Quoi qu'il arrive, je serai là."
+  },
+  {
+   "fr": "même si",
+   "en": "even if, even though (+ indicative)",
+   "ex": "Même si c'est cher, ça vaut la peine."
+  },
+  {
+   "fr": "pourtant",
+   "en": "yet, and yet",
+   "ex": "C'est pourtant simple!"
+  },
+  {
+   "fr": "cependant",
+   "en": "however",
+   "ex": "Le plan est bon; cependant, il coûte cher."
+  },
+  {
+   "fr": "toutefois",
+   "en": "however (formal)",
+   "ex": "Il faut toutefois rester prudent."
+  },
+  {
+   "fr": "néanmoins",
+   "en": "nevertheless",
+   "ex": "C'était risqué; néanmoins, ils ont réussi."
+  },
+  {
+   "fr": "malgré",
+   "en": "despite (+ noun)",
+   "ex": "Malgré le froid, il fait du vélo."
+  },
+  {
+   "fr": "en dépit de",
+   "en": "in spite of",
+   "ex": "En dépit des retards, le chantier avance."
+  },
+  {
+   "fr": "avoir beau",
+   "en": "no matter how much (+ infinitive)",
+   "ex": "Il a beau crier, personne ne l'entend."
+  },
+  {
+   "fr": "alors que",
+   "en": "whereas, while",
+   "ex": "Elle parle trois langues alors que moi, j'en parle une."
+  },
+  {
+   "fr": "tandis que",
+   "en": "whereas, while",
+   "ex": "Il lit tandis que sa sœur dessine."
+  },
+  {
+   "fr": "quand même",
+   "en": "anyway, all the same; still",
+   "ex": "Il était malade, mais il est venu quand même."
+  },
+  {
+   "fr": "pareil",
+   "en": "anyway, all the same (familiar)",
+   "ex": "C'était plate, mais on a ri pareil.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "quoique / quoi que",
+    "tip": "Both sound identical [kwak]: only meaning and spelling differ."
+   },
+   {
+    "fr": "bien qu'il soit",
+    "tip": "byin-kil-SWA: bien que elides before il."
+   },
+   {
+    "fr": "néanmoins",
+    "tip": "né-an-MWIN: two nasal vowels."
+   },
+   {
+    "fr": "toutefois",
+    "tip": "toot-FWA: the middle e is silent."
+   },
+   {
+    "fr": "j'ai beau essayer",
+    "tip": "jé-bo-é-sé-YÉ: no liaison after beau here."
+   },
+   {
+    "fr": "même s'il",
+    "tip": "mèm-SIL: si elides only before il/ils."
+   }
+  ],
+  "title": "Une journée de tempête",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "T'as vu? Ils annoncent trente centimètres de neige.",
+    "en": "Did you see? They're forecasting thirty centimetres of snow."
+   },
+   {
+    "s": "B",
+    "fr": "Oui, mais même s'il neige, je dois aller au bureau.",
+    "en": "Yes, but even if it snows, I have to go to the office."
+   },
+   {
+    "s": "A",
+    "fr": "Pourtant, ton patron t'a dit que tu pouvais travailler de la maison.",
+    "en": "And yet your boss told you that you could work from home."
+   },
+   {
+    "s": "B",
+    "fr": "Bien que ce soit permis, j'ai une présentation importante.",
+    "en": "Although it's allowed, I have an important presentation."
+   },
+   {
+    "s": "A",
+    "fr": "Malgré la tempête? Tu pourrais la faire par vidéo.",
+    "en": "Despite the storm? You could do it by video."
+   },
+   {
+    "s": "B",
+    "fr": "J'ai beau essayer, la connexion à la maison est toujours instable.",
+    "en": "No matter how hard I try, the connection at home is always unstable."
+   },
+   {
+    "s": "A",
+    "fr": "Bon. Sois prudente sur la route quand même.",
+    "en": "OK. Be careful on the road all the same."
+   },
+   {
+    "s": "B",
+    "fr": "Promis. Je vais partir de bonne heure.",
+    "en": "Promise. I'll leave early."
+   }
+  ],
+  "questions": [
+   {
+    "q": "How much snow is forecast?",
+    "options": [
+     "Ten centimetres",
+     "Twenty centimetres",
+     "Thirty centimetres"
+    ],
+    "a": 2
+   },
+   {
+    "q": "Why does B want to go to the office?",
+    "options": [
+     "Her boss requires it",
+     "She has an important presentation",
+     "She dislikes working at home"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What problem does B have at home?",
+    "options": [
+     "No heating",
+     "An unstable connection",
+     "Noisy children"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Name something you do even though it's difficult. Use bien que, then say it again with même si.",
+   "model": "Bien que ce soit difficile, j'apprends le français tous les jours. Même si c'est difficile, j'apprends le français tous les jours."
+  },
+  {
+   "prompt": "Use 'avoir beau' to complain about something that never works.",
+   "model": "J'ai beau redémarrer mon ordinateur, l'imprimante ne fonctionne jamais."
+  },
+  {
+   "prompt": "Contrast yourself with someone you know using 'alors que'.",
+   "model": "Moi, j'adore l'hiver québécois, alors que ma femme compte les jours jusqu'au printemps."
+  }
+ ],
+ "write": {
+  "prompt": "Write 6–8 sentences about the pros and cons of living in Quebec in winter. Use at least five different concession or opposition tools (bien que, même si, malgré, pourtant, avoir beau, alors que…).",
+  "model": "Bien que l'hiver québécois soit long, il a beaucoup de charme. Même si les températures descendent à moins trente, la vie continue. Malgré le froid, les patinoires extérieures sont pleines. Pourtant, on ne peut pas nier que le déneigement coûte cher. J'ai beau m'habiller chaudement, j'ai toujours froid aux pieds. Alors que mes amis de Vancouver se plaignent de la pluie, moi, je profite du soleil sur la neige. Toutefois, j'avoue que j'attends le printemps avec impatience."
+ },
+ "quiz": [
+  {
+   "q": "Which connector takes the subjunctive?",
+   "options": [
+    "même si",
+    "alors que",
+    "quoique",
+    "pourtant"
+   ],
+   "a": 2,
+   "why": "quoique (like bien que) + subjunctive."
+  },
+  {
+   "q": "Même si + …",
+   "options": [
+    "subjunctive",
+    "indicative",
+    "infinitive",
+    "noun"
+   ],
+   "a": 1,
+   "why": "même si never takes the subjunctive."
+  },
+  {
+   "q": "'Il a beau parler' means…",
+   "options": [
+    "He speaks beautifully",
+    "No matter how much he talks",
+    "He talks a lot about beauty",
+    "He used to talk"
+   ],
+   "a": 1,
+   "why": "avoir beau + infinitive = in vain, no matter how much."
+  },
+  {
+   "q": "Which is preferred in formal writing?",
+   "options": [
+    "Malgré qu'il soit tard",
+    "Bien qu'il soit tard",
+    "Même s'il soit tard",
+    "Malgré qu'il est tard"
+   ],
+   "a": 1,
+   "why": "Malgré que is common in speech but criticised in careful writing."
+  },
+  {
+   "q": "'Pareil' in 'On y va pareil' means…",
+   "options": [
+    "similar",
+    "anyway",
+    "together",
+    "again"
+   ],
+   "a": 1,
+   "why": "Familiar Quebec: pareil = quand même."
+  },
+  {
+   "q": "Which sentence is correct?",
+   "options": [
+    "Même s'il viendra, je pars.",
+    "Même s'il vient, je pars.",
+    "Même s'il vienne, je pars.",
+    "Même qu'il vient, je pars."
+   ],
+   "a": 1,
+   "why": "même si + present indicative."
+  },
+  {
+   "q": "'Si fort qu'il soit' means…",
+   "options": [
+    "If he is strong",
+    "However strong he is",
+    "Since he is strong",
+    "As strong as he is"
+   ],
+   "a": 1,
+   "why": "si + adjective + que + subjunctive = however."
+  },
+  {
+   "q": "Alors que expresses…",
+   "options": [
+    "cause",
+    "opposition / contrast",
+    "purpose",
+    "condition"
+   ],
+   "a": 1,
+   "why": "alors que contrasts two facts (it can also mean 'while' in time)."
+  },
+  {
+   "q": "Malgré is followed by…",
+   "options": [
+    "an infinitive",
+    "a noun",
+    "a subjunctive clause only",
+    "an adjective"
+   ],
+   "a": 1,
+   "why": "malgré + noun; malgré que + clause is informal."
+  }
+ ]
+}

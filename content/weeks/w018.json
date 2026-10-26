@@ -1,0 +1,693 @@
+{
+ "w": 18,
+ "title": "Telling the time",
+ "goal": "By the end of this lesson you can ask and tell the time, use et quart, et demie and moins quart, say midi and minuit, read 24-hour times on Quebec schedules (15 h 30), and give the time of an event with à.",
+ "learn": [
+  {
+   "h": "Asking and telling the time",
+   "body": [
+    "Ask *Quelle heure est-il?* (standard) or *Il est quelle heure?* (casual). Answer with *Il est* + number + *heure(s)*: *Il est trois heures.* *Heure* is feminine, so 1 o'clock is *une heure*.",
+    "Minutes simply follow the hour: *Il est trois heures dix* (3:10), *Il est huit heures vingt-cinq* (8:25)."
+   ],
+   "table": {
+    "head": [
+     "Time",
+     "French"
+    ],
+    "rows": [
+     [
+      "1:00",
+      "Il est une heure."
+     ],
+     [
+      "2:00",
+      "Il est deux heures."
+     ],
+     [
+      "3:10",
+      "Il est trois heures dix."
+     ],
+     [
+      "9:00",
+      "Il est neuf heures. (neuv-UR)"
+     ],
+     [
+      "10:25",
+      "Il est dix heures vingt-cinq."
+     ]
+    ]
+   },
+   "tip": "Always say heures: 'il est trois' alone is incomplete."
+  },
+  {
+   "h": "Quarter, half and 'to'",
+   "body": [
+    "*et quart* = quarter past, *et demie* = half past, *moins le quart* = quarter to. For other minutes before the hour, use *moins*: *Il est cinq heures moins dix* (4:50, literally 'five minus ten').",
+    "In Quebec, *moins quart* (without *le*) is very common: *Il est trois heures moins quart.*"
+   ],
+   "table": {
+    "head": [
+     "Time",
+     "French"
+    ],
+    "rows": [
+     [
+      "3:15",
+      "trois heures et quart"
+     ],
+     [
+      "3:30",
+      "trois heures et demie"
+     ],
+     [
+      "3:45",
+      "quatre heures moins le quart (Quebec: moins quart)"
+     ],
+     [
+      "4:50",
+      "cinq heures moins dix"
+     ],
+     [
+      "4:40",
+      "cinq heures moins vingt"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Midi, minuit, and parts of the day",
+   "body": [
+    "Noon is *midi* and midnight is *minuit*. Both are masculine and have no *heures*: *Il est midi. Il est minuit et quart.* Half past noon: *midi et demi* (no -e, because midi is masculine).",
+    "In conversation, the 12-hour clock is normal, with *du matin* (a.m.), *de l'après-midi* (afternoon) or *du soir* (evening): *trois heures de l'après-midi*, *huit heures du soir*."
+   ]
+  },
+  {
+   "h": "The 24-hour clock and 'à'",
+   "body": [
+    "Schedules, tickets, store hours and official announcements in Quebec use the 24-hour clock, written with *h* and spaces: *15 h 30* is said *quinze heures trente*. With the 24-hour clock, use numbers only: no *et quart*, *et demie* or *moins*.",
+    "To say when something happens, use *à*: *Le film commence à vingt heures* (at 8 p.m.). *De … à …* gives a range: *Le magasin est ouvert de 9 h à 21 h.*"
+   ],
+   "table": {
+    "head": [
+     "Written",
+     "Said (24 h)",
+     "Said (conversation)"
+    ],
+    "rows": [
+     [
+      "9 h",
+      "neuf heures",
+      "neuf heures du matin"
+     ],
+     [
+      "12 h 30",
+      "douze heures trente",
+      "midi et demi"
+     ],
+     [
+      "15 h 15",
+      "quinze heures quinze",
+      "trois heures et quart"
+     ],
+     [
+      "19 h 45",
+      "dix-neuf heures quarante-cinq",
+      "huit heures moins quart"
+     ],
+     [
+      "0 h",
+      "zéro heure",
+      "minuit"
+     ]
+    ]
+   },
+   "tip": "Quebec writes 15 h 30, not 15:30 or 3:30 PM."
+  },
+  {
+   "h": "Quebec: speaking about time",
+   "body": [
+    "Quebec speech uses the 12-hour clock with *du matin / de l'après-midi / du soir*, and *moins quart* without *le*. You'll also hear *Il est quelle heure?* far more than *Quelle heure est-il?*",
+    "Casual pronunciation shortens *il est* to *y'é* or *il'é*, and *heures* gets swallowed: *Y'é trois heures* sounds like 'yé trwa-zeur'. Expect quick times in the métro and at work."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Quelle heure est-il?",
+   "en": "What time is it?",
+   "note": "standard"
+  },
+  {
+   "fr": "Il est quelle heure?",
+   "en": "What time is it?",
+   "note": "casual, very common"
+  },
+  {
+   "fr": "Il est une heure.",
+   "en": "It's one o'clock.",
+   "note": "une: heure is feminine"
+  },
+  {
+   "fr": "Il est trois heures et quart.",
+   "en": "It's a quarter past three."
+  },
+  {
+   "fr": "Il est six heures et demie.",
+   "en": "It's half past six.",
+   "note": "demie with -e after heures"
+  },
+  {
+   "fr": "Il est huit heures moins le quart.",
+   "en": "It's a quarter to eight.",
+   "note": "Quebec often: moins quart"
+  },
+  {
+   "fr": "Il est cinq heures moins dix.",
+   "en": "It's ten to five."
+  },
+  {
+   "fr": "Il est midi et demi.",
+   "en": "It's half past twelve (noon).",
+   "note": "demi without -e after midi"
+  },
+  {
+   "fr": "Il est minuit.",
+   "en": "It's midnight."
+  },
+  {
+   "fr": "Je commence à neuf heures du matin.",
+   "en": "I start at nine in the morning.",
+   "note": "à = at"
+  },
+  {
+   "fr": "On mange à six heures du soir.",
+   "en": "We eat at six in the evening."
+  },
+  {
+   "fr": "Le train part à quinze heures trente.",
+   "en": "The train leaves at 3:30 p.m.",
+   "note": "24-hour clock on schedules"
+  },
+  {
+   "fr": "La pharmacie est ouverte de 9 h à 21 h.",
+   "en": "The pharmacy is open from 9 a.m. to 9 p.m.",
+   "note": "de … à …"
+  },
+  {
+   "fr": "Le film commence à vingt heures.",
+   "en": "The movie starts at 8 p.m."
+  },
+  {
+   "fr": "Y'é trois heures moins quart.",
+   "en": "It's a quarter to three.",
+   "note": "Quebec casual: y'é = il est, moins quart"
+  }
+ ],
+ "quebec": {
+  "intro": "In Quebec, schedules and signs use the 24-hour clock (15 h 30), but people talk in the 12-hour clock with du matin / du soir. Midi and minuit replace 12 o'clock, and moins quart usually drops le.",
+  "items": [
+   {
+    "std": "Quelle heure est-il?",
+    "qc": "Il est quelle heure?",
+    "en": "What time is it?",
+    "note": "casual, used by everyone"
+   },
+   {
+    "std": "Il est trois heures moins le quart.",
+    "qc": "Y'é trois heures moins quart.",
+    "en": "It's a quarter to three.",
+    "note": "informal: y'é, and no le"
+   },
+   {
+    "std": "Il est quinze heures.",
+    "qc": "Il est trois heures de l'après-midi.",
+    "en": "It's 3 p.m.",
+    "note": "24 h on signs, 12 h in conversation"
+   },
+   {
+    "std": "à douze heures",
+    "qc": "à midi",
+    "en": "at noon",
+    "note": "midi is what people say"
+   },
+   {
+    "std": "vers huit heures",
+    "qc": "autour de huit heures",
+    "en": "around eight",
+    "note": "both common in Quebec"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "How do you say 2:30?",
+   "options": [
+    "deux heures et quart",
+    "deux heures et demie",
+    "deux heures moins le quart",
+    "deux heures trente-cinq"
+   ],
+   "a": 1,
+   "why": "et demie = half past."
+  },
+  {
+   "t": "mcq",
+   "q": "'Il est cinq heures moins dix' is…",
+   "options": [
+    "5:10",
+    "4:50",
+    "5:50",
+    "4:10"
+   ],
+   "a": 1,
+   "why": "moins = minus: 5:00 − 10 min."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is correct for 12:30 p.m.?",
+   "options": [
+    "midi et demie",
+    "midi et demi",
+    "douze heures et demi",
+    "midi trente heures"
+   ],
+   "a": 1,
+   "why": "midi is masculine: demi without -e."
+  },
+  {
+   "t": "mcq",
+   "q": "'Le train part à 18 h' means it leaves at…",
+   "options": [
+    "8 a.m.",
+    "6 p.m.",
+    "8 p.m.",
+    "6 a.m."
+   ],
+   "a": 1,
+   "why": "18 h = six o'clock in the evening."
+  },
+  {
+   "t": "mcq",
+   "q": "With the 24-hour clock, 15 h 45 is said…",
+   "options": [
+    "seize heures moins le quart",
+    "quinze heures quarante-cinq",
+    "trois heures et quart",
+    "quinze heures et trois quarts"
+   ],
+   "a": 1,
+   "why": "With 24-hour times, use numbers only."
+  },
+  {
+   "t": "fill",
+   "q": "Il est une ___. (o'clock)",
+   "a": [
+    "heure"
+   ],
+   "en": "It's one o'clock.",
+   "why": "Singular with une."
+  },
+  {
+   "t": "fill",
+   "q": "Il est trois heures et ___. (quarter)",
+   "a": [
+    "quart"
+   ],
+   "en": "It's a quarter past three.",
+   "why": "et quart = quarter past."
+  },
+  {
+   "t": "fill",
+   "q": "Le film commence ___ vingt heures. (at)",
+   "a": [
+    "à"
+   ],
+   "en": "The movie starts at 8 p.m.",
+   "why": "à + time."
+  },
+  {
+   "t": "fill",
+   "q": "On mange à six heures du ___. (evening)",
+   "a": [
+    "soir"
+   ],
+   "en": "We eat at six in the evening.",
+   "why": "du soir = p.m. (evening)."
+  },
+  {
+   "t": "build",
+   "en": "What time is it?",
+   "a": "Il est quelle heure?"
+  },
+  {
+   "t": "build",
+   "en": "I start at nine in the morning.",
+   "a": "Je commence à neuf heures du matin."
+  },
+  {
+   "t": "translate",
+   "en": "It's midnight.",
+   "a": [
+    "Il est minuit."
+   ],
+   "why": "minuit: no heures."
+  },
+  {
+   "t": "translate",
+   "en": "It's a quarter to eight.",
+   "a": [
+    "Il est huit heures moins le quart.",
+    "Il est huit heures moins quart.",
+    "Il est sept heures quarante-cinq.",
+    "Il est dix-neuf heures quarante-cinq."
+   ],
+   "why": "Quebec often drops le: moins quart."
+  },
+  {
+   "t": "translate",
+   "en": "The store is open from 9 to 5.",
+   "a": [
+    "Le magasin est ouvert de 9 h à 17 h.",
+    "Le magasin est ouvert de neuf heures à cinq heures.",
+    "Le magasin est ouvert de neuf heures à dix-sept heures.",
+    "Le magasin est ouvert de 9 h à 5 h."
+   ],
+   "why": "de … à … for a range."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "l'heure",
+   "en": "hour, time (of day)",
+   "g": "f",
+   "ex": "Il est quelle heure?"
+  },
+  {
+   "fr": "la minute",
+   "en": "minute",
+   "g": "f",
+   "ex": "Dans cinq minutes."
+  },
+  {
+   "fr": "et quart",
+   "en": "quarter past",
+   "ex": "Deux heures et quart."
+  },
+  {
+   "fr": "et demie",
+   "en": "half past",
+   "ex": "Sept heures et demie."
+  },
+  {
+   "fr": "moins le quart / moins quart",
+   "en": "quarter to",
+   "ex": "Neuf heures moins quart."
+  },
+  {
+   "fr": "midi",
+   "en": "noon",
+   "g": "m",
+   "ex": "On mange à midi."
+  },
+  {
+   "fr": "minuit",
+   "en": "midnight",
+   "g": "m",
+   "ex": "Il est minuit."
+  },
+  {
+   "fr": "le matin",
+   "en": "morning",
+   "g": "m",
+   "ex": "Huit heures du matin."
+  },
+  {
+   "fr": "l'après-midi",
+   "en": "afternoon",
+   "g": "m",
+   "ex": "Deux heures de l'après-midi."
+  },
+  {
+   "fr": "le soir",
+   "en": "evening",
+   "g": "m",
+   "ex": "Neuf heures du soir."
+  },
+  {
+   "fr": "ouvert / ouverte",
+   "en": "open",
+   "ex": "C'est ouvert jusqu'à 21 h."
+  },
+  {
+   "fr": "fermé / fermée",
+   "en": "closed",
+   "ex": "C'est fermé le dimanche."
+  },
+  {
+   "fr": "partir",
+   "en": "to leave",
+   "ex": "Le train part à 15 h."
+  },
+  {
+   "fr": "le film",
+   "en": "movie",
+   "g": "m",
+   "ex": "Le film commence à 20 h."
+  },
+  {
+   "fr": "l'horaire",
+   "en": "schedule, timetable",
+   "g": "m",
+   "ex": "C'est quoi, l'horaire du métro?"
+  },
+  {
+   "fr": "en retard / en avance / à l'heure",
+   "en": "late / early / on time",
+   "ex": "Je suis à l'heure!"
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "une heure",
+    "tip": "ü-NUR: link the n."
+   },
+   {
+    "fr": "deux heures, trois heures",
+    "tip": "duh-ZUR, trwa-ZUR: liaison [z]."
+   },
+   {
+    "fr": "neuf heures",
+    "tip": "nuh-VUR: f becomes [v]."
+   },
+   {
+    "fr": "dix heures",
+    "tip": "dee-ZUR (Quebec: dzi-ZUR)."
+   },
+   {
+    "fr": "et demie",
+    "tip": "ay duh-MEE."
+   },
+   {
+    "fr": "midi, minuit",
+    "tip": "Quebec: mi-DZI, mi-NWI."
+   },
+   {
+    "fr": "quinze heures trente",
+    "tip": "kanz-UR TRAHNT."
+   }
+  ],
+  "title": "Au cinéma",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Il est quelle heure?",
+    "en": "What time is it?"
+   },
+   {
+    "s": "B",
+    "fr": "Il est sept heures et quart.",
+    "en": "It's a quarter past seven."
+   },
+   {
+    "s": "A",
+    "fr": "Le film commence à quelle heure?",
+    "en": "What time does the movie start?"
+   },
+   {
+    "s": "B",
+    "fr": "Sur l'horaire, c'est écrit 19 h 45.",
+    "en": "The schedule says 7:45 p.m."
+   },
+   {
+    "s": "A",
+    "fr": "Huit heures moins quart? Parfait, on a le temps.",
+    "en": "A quarter to eight? Perfect, we have time."
+   },
+   {
+    "s": "B",
+    "fr": "Et ça finit à quelle heure?",
+    "en": "And what time does it end?"
+   },
+   {
+    "s": "A",
+    "fr": "Vers dix heures. On peut manger avant?",
+    "en": "Around ten. Can we eat before?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, il y a un resto ouvert jusqu'à minuit.",
+    "en": "Yes, there's a restaurant open until midnight."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What time is it now?",
+    "options": [
+     "7:15",
+     "7:45",
+     "8:15"
+    ],
+    "a": 0
+   },
+   {
+    "q": "When does the movie start?",
+    "options": [
+     "7:15 p.m.",
+     "7:45 p.m.",
+     "8:45 p.m."
+    ],
+    "a": 1
+   },
+   {
+    "q": "Until when is the restaurant open?",
+    "options": [
+     "Ten",
+     "Eleven",
+     "Midnight"
+    ],
+    "a": 2
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Say these times aloud: 1:00, 4:15, 6:30, 8:45, 12:00 noon, 12:00 midnight.",
+   "model": "une heure, quatre heures et quart, six heures et demie, neuf heures moins quart, midi, minuit"
+  },
+  {
+   "prompt": "Read this schedule aloud: Ouvert de 9 h à 21 h, train à 17 h 20.",
+   "model": "Ouvert de neuf heures à vingt et une heures. Le train part à dix-sept heures vingt."
+  },
+  {
+   "prompt": "Describe your day with times: when you get up, start work, eat and go to bed.",
+   "model": "Je commence à huit heures et demie. Je mange à midi. Je finis à cinq heures. Je vais au lit à onze heures."
+  }
+ ],
+ "write": {
+  "prompt": "Write your schedule for one weekday with at least 5 times. Use the 12-hour clock in conversation style, and add one sign written in the 24-hour style.",
+  "model": "Je commence à huit heures du matin. À midi, je mange avec mes collègues. Je finis à quatre heures et demie. On mange à six heures du soir. Je vais au lit à onze heures. Sign: Pharmacie ouverte de 9 h à 21 h."
+ },
+ "quiz": [
+  {
+   "q": "'Il est une heure' — why 'une'?",
+   "options": [
+    "heure is feminine",
+    "It's plural",
+    "It's Quebec French",
+    "No reason"
+   ],
+   "a": 0,
+   "why": "une heure, une minute."
+  },
+  {
+   "q": "3:15 is…",
+   "options": [
+    "trois heures et demie",
+    "trois heures et quart",
+    "trois heures moins le quart",
+    "quatre heures moins quart"
+   ],
+   "a": 1,
+   "why": "et quart = quarter past."
+  },
+  {
+   "q": "'Neuf heures' is pronounced…",
+   "options": [
+    "nuf-ur",
+    "nuh-vur",
+    "nuh-ur",
+    "nuf-zur"
+   ],
+   "a": 1,
+   "why": "Before heures, the f sounds like v."
+  },
+  {
+   "q": "How do Quebec signs write 3:30 p.m.?",
+   "options": [
+    "3:30 PM",
+    "15:30",
+    "15 h 30",
+    "3 h 30 PM"
+   ],
+   "a": 2,
+   "why": "24-hour clock with h and spaces."
+  },
+  {
+   "q": "'Huit heures du soir' is…",
+   "options": [
+    "8 a.m.",
+    "8 p.m.",
+    "midnight",
+    "6 p.m."
+   ],
+   "a": 1,
+   "why": "du soir = in the evening."
+  },
+  {
+   "q": "'De 9 h à 17 h' means…",
+   "options": [
+    "9 to 5",
+    "9 to 7",
+    "at 9 or 5",
+    "9:17"
+   ],
+   "a": 0,
+   "why": "de … à … = from … to …"
+  },
+  {
+   "q": "Which is common Quebec speech for 2:45?",
+   "options": [
+    "trois heures moins quart",
+    "deux heures moins quart",
+    "trois heures et quart",
+    "deux heures et demie"
+   ],
+   "a": 0,
+   "why": "moins quart without le is very common in Quebec."
+  },
+  {
+   "q": "'Midi' means…",
+   "options": [
+    "midnight",
+    "noon",
+    "middle",
+    "midday nap"
+   ],
+   "a": 1,
+   "why": "midi = noon; minuit = midnight."
+  },
+  {
+   "q": "'Le magasin est fermé' means the store is…",
+   "options": [
+    "open",
+    "closed",
+    "far",
+    "full"
+   ],
+   "a": 1,
+   "why": "fermé = closed."
+  }
+ ]
+}

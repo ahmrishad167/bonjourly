@@ -1,0 +1,626 @@
+{
+ "w": 50,
+ "title": "Superlatives",
+ "goal": "By the end of this lesson you can say 'the most', 'the least', 'the best' and 'the worst' with adjectives, adverbs, nouns and verbs, and place the superlative correctly before or after the noun.",
+ "learn": [
+  {
+   "h": "Le plus, la plus, les plus",
+   "body": [
+    "The superlative is the comparative with a definite article in front: *grand* → *plus grand* → **le plus grand** (the biggest). The article and the adjective agree with the noun: **la plus grande**, **les plus grands**, **les plus grandes**.",
+    "For 'the least', use *le / la / les moins*: *C'est* **le moins cher**. (It's the cheapest / least expensive.)"
+   ],
+   "table": {
+    "head": [
+     "Form",
+     "Example",
+     "Meaning"
+    ],
+    "rows": [
+     [
+      "le plus + adj. (m)",
+      "le plus vieux",
+      "the oldest"
+     ],
+     [
+      "la plus + adj. (f)",
+      "la plus belle",
+      "the most beautiful"
+     ],
+     [
+      "les plus + adj. (pl)",
+      "les plus drôles",
+      "the funniest"
+     ],
+     [
+      "le / la / les moins + adj.",
+      "la moins chère",
+      "the least expensive"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Position: after or before the noun",
+   "body": [
+    "Most adjectives go after the noun, and then the article is **repeated**: *la ville* **la plus** *froide* (the coldest city), *les films* **les plus** *drôles*.",
+    "The short adjectives that go before the noun (*beau, grand, petit, bon, jeune, vieux…*) can stay in front, with one article: **le plus beau** *pays*, **la plus grande** *ville*."
+   ],
+   "tip": "Adjective after the noun? Say the article twice: le restaurant le plus cher."
+  },
+  {
+   "h": "'In' the world = de",
+   "body": [
+    "After a superlative, English 'in' or 'of' is **de** in French: *le plus grand lac* **du** *Québec*, *la meilleure élève* **de la** *classe*, *le plus haut édifice* **de** *Montréal*.",
+    "Remember the contractions: *de + le = du*, *de + les = des*. In everyday speech *au monde* is also common: *le meilleur au monde* or *le meilleur du monde*."
+   ]
+  },
+  {
+   "h": "The irregulars: le meilleur, le mieux, le pire",
+   "body": [
+    "*Bon* → **le meilleur / la meilleure / les meilleur(e)s** (the best, adjective). *Bien* → **le mieux** (the best, adverb; never changes). *Mauvais* → **le pire / la pire / les pires** (the worst).",
+    "*C'est* **la meilleure** *pizza de la ville.* *C'est elle qui chante* **le mieux**. *C'est* **le pire** *hiver depuis dix ans.*"
+   ]
+  },
+  {
+   "h": "With verbs and nouns",
+   "body": [
+    "With a verb, put *le plus / le moins* after it (always *le*): *C'est Marc qui mange* **le plus**. *C'est moi qui dors* **le moins**.",
+    "With a noun, use *le plus de / le moins de*: *C'est Julie qui a* **le plus d'***amis*. *C'est en février qu'il y a* **le moins de** *soleil*."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Montréal est la plus grande ville du Québec.",
+   "en": "Montreal is the biggest city in Quebec.",
+   "note": "grande stays before the noun; du = de + le"
+  },
+  {
+   "fr": "C'est le restaurant le plus cher de la rue.",
+   "en": "It's the most expensive restaurant on the street.",
+   "note": "adjective after the noun: article repeated"
+  },
+  {
+   "fr": "Le Saint-Laurent est le plus long fleuve du Québec.",
+   "en": "The St. Lawrence is the longest river in Quebec.",
+   "note": "long goes before the noun"
+  },
+  {
+   "fr": "Janvier est le mois le plus froid de l'année.",
+   "en": "January is the coldest month of the year.",
+   "note": "froid after the noun"
+  },
+  {
+   "fr": "C'est la meilleure poutine en ville!",
+   "en": "It's the best poutine in town!",
+   "note": "meilleure agrees with poutine"
+  },
+  {
+   "fr": "Les meilleurs bagels sont à Montréal.",
+   "en": "The best bagels are in Montreal.",
+   "note": "masculine plural: les meilleurs"
+  },
+  {
+   "fr": "C'est le pire embouteillage de l'été.",
+   "en": "It's the worst traffic jam of the summer.",
+   "note": "le pire"
+  },
+  {
+   "fr": "C'est ma sœur qui cuisine le mieux.",
+   "en": "My sister is the one who cooks best.",
+   "note": "le mieux: adverb, invariable"
+  },
+  {
+   "fr": "C'est le modèle le moins cher.",
+   "en": "It's the cheapest model.",
+   "note": "le moins cher = the least expensive"
+  },
+  {
+   "fr": "Elle est la plus jeune de la famille.",
+   "en": "She's the youngest in the family.",
+   "note": "no noun needed"
+  },
+  {
+   "fr": "Ce sont les questions les plus difficiles du test.",
+   "en": "These are the hardest questions on the test.",
+   "note": "feminine plural agreement"
+  },
+  {
+   "fr": "C'est moi qui travaille le plus au bureau.",
+   "en": "I'm the one who works the most at the office.",
+   "note": "verb + le plus"
+  },
+  {
+   "fr": "C'est Paul qui a le plus de patience.",
+   "en": "Paul is the one with the most patience.",
+   "note": "le plus de + noun"
+  },
+  {
+   "fr": "C'est en décembre qu'il y a le moins de lumière.",
+   "en": "December is when there's the least light.",
+   "note": "le moins de + noun"
+  },
+  {
+   "fr": "C'est le plus beau jour de ma vie!",
+   "en": "It's the best day of my life!",
+   "note": "beau before the noun"
+  },
+  {
+   "fr": "Quel est le meilleur moment pour visiter Québec?",
+   "en": "What's the best time to visit Quebec City?",
+   "note": "question with le meilleur"
+  }
+ ],
+ "quebec": {
+  "intro": "You will hear 'le plus meilleur' and 'le plus pire', especially from kids and in very relaxed speech. They are wrong: meilleur and pire already contain 'more', so 'le plus meilleur' is like saying 'the most best'. Recognise them, but say le meilleur and le pire.",
+  "items": [
+   {
+    "std": "C'est le meilleur.",
+    "qc": "C'est le plus meilleur.",
+    "en": "It's the best.",
+    "note": "heard, but incorrect: avoid"
+   },
+   {
+    "std": "C'est la pire journée.",
+    "qc": "C'est la plus pire journée.",
+    "en": "It's the worst day.",
+    "note": "heard in casual speech; avoid"
+   },
+   {
+    "std": "C'est vraiment très bon.",
+    "qc": "C'est full bon.",
+    "en": "It's super good.",
+    "note": "full = very (anglicism); informal"
+   },
+   {
+    "std": "C'est le meilleur du monde.",
+    "qc": "C'est le meilleur au monde.",
+    "en": "It's the best in the world.",
+    "note": "au monde is common and acceptable"
+   },
+   {
+    "std": "C'est très amusant.",
+    "qc": "C'est ben le fun.",
+    "en": "It's really fun.",
+    "note": "le fun / ben le fun; informal"
+   },
+   {
+    "std": "C'est l'activité la plus amusante.",
+    "qc": "C'est l'activité la plus le fun.",
+    "en": "It's the most fun activity.",
+    "note": "le fun even takes plus; very informal"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "C'est la ville ___ belle du Québec.",
+   "options": [
+    "plus",
+    "la plus",
+    "le plus",
+    "les plus"
+   ],
+   "a": 1,
+   "why": "Ville is feminine singular: la plus."
+  },
+  {
+   "t": "mcq",
+   "q": "C'est le film ___ drôle de l'année.",
+   "options": [
+    "plus",
+    "le plus",
+    "la plus",
+    "meilleur"
+   ],
+   "a": 1,
+   "why": "Drôle is after the noun: le film le plus drôle."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is correct?",
+   "options": [
+    "le plus bon café",
+    "le meilleur café",
+    "le plus meilleur café",
+    "le mieux café"
+   ],
+   "a": 1,
+   "why": "Bon → le meilleur."
+  },
+  {
+   "t": "mcq",
+   "q": "C'est elle qui danse ___.",
+   "options": [
+    "la meilleure",
+    "le meilleur",
+    "le mieux",
+    "la mieux"
+   ],
+   "a": 2,
+   "why": "With a verb: le mieux, always invariable."
+  },
+  {
+   "t": "fill",
+   "q": "C'est le plus grand parc ___ Montréal. (in)",
+   "a": [
+    "de"
+   ],
+   "en": "It's the biggest park in Montreal.",
+   "why": "In after a superlative = de."
+  },
+  {
+   "t": "fill",
+   "q": "Ce sont les ___ chansons de l'album. (best)",
+   "a": [
+    "meilleures"
+   ],
+   "en": "These are the best songs on the album.",
+   "why": "Chansons: feminine plural."
+  },
+  {
+   "t": "fill",
+   "q": "C'est le ___ hiver de ma vie. (worst)",
+   "a": [
+    "pire"
+   ],
+   "en": "It's the worst winter of my life.",
+   "why": "Mauvais → le pire."
+  },
+  {
+   "t": "fill",
+   "q": "C'est Marie qui a le plus ___ talent. (of)",
+   "a": [
+    "de"
+   ],
+   "en": "Marie is the one with the most talent.",
+   "why": "Le plus de + noun."
+  },
+  {
+   "t": "build",
+   "en": "It's the cheapest restaurant.",
+   "a": "C'est le restaurant le moins cher."
+  },
+  {
+   "t": "build",
+   "en": "She's the youngest in the class.",
+   "a": "Elle est la plus jeune de la classe."
+  },
+  {
+   "t": "build",
+   "en": "I'm the one who sleeps the most.",
+   "a": "C'est moi qui dors le plus."
+  },
+  {
+   "t": "translate",
+   "en": "It's the best pizza in town.",
+   "a": [
+    "C'est la meilleure pizza en ville.",
+    "C'est la meilleure pizza de la ville."
+   ],
+   "why": "Pizza is feminine: la meilleure."
+  },
+  {
+   "t": "translate",
+   "en": "It's the coldest month.",
+   "a": [
+    "C'est le mois le plus froid."
+   ],
+   "why": "Froid goes after the noun: repeat le."
+  },
+  {
+   "t": "translate",
+   "en": "He's the tallest.",
+   "a": [
+    "C'est le plus grand.",
+    "Il est le plus grand.",
+    "C'est lui le plus grand."
+   ],
+   "why": "Le plus + adjective."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "le / la / les plus",
+   "en": "the most, -est",
+   "ex": "La plus belle ville."
+  },
+  {
+   "fr": "le / la / les moins",
+   "en": "the least",
+   "ex": "Le moins cher."
+  },
+  {
+   "fr": "le meilleur / la meilleure",
+   "en": "the best (adjective)",
+   "ex": "Le meilleur ami."
+  },
+  {
+   "fr": "le mieux",
+   "en": "the best (adverb)",
+   "ex": "C'est lui qui joue le mieux."
+  },
+  {
+   "fr": "le pire / la pire",
+   "en": "the worst",
+   "ex": "Le pire, c'est le trafic."
+  },
+  {
+   "fr": "au monde",
+   "en": "in the world",
+   "ex": "Le meilleur papa au monde."
+  },
+  {
+   "fr": "le fleuve",
+   "en": "(large) river",
+   "g": "m",
+   "ex": "Le fleuve Saint-Laurent."
+  },
+  {
+   "fr": "le lac",
+   "en": "lake",
+   "g": "m",
+   "ex": "Le plus grand lac du Québec."
+  },
+  {
+   "fr": "l'édifice",
+   "en": "building",
+   "g": "m",
+   "ex": "Le plus haut édifice de Montréal.",
+   "qc": true
+  },
+  {
+   "fr": "l'embouteillage",
+   "en": "traffic jam",
+   "g": "m",
+   "ex": "Le pire embouteillage de l'année."
+  },
+  {
+   "fr": "haut / haute",
+   "en": "high, tall (buildings)",
+   "ex": "La plus haute montagne."
+  },
+  {
+   "fr": "difficile",
+   "en": "difficult",
+   "ex": "La question la plus difficile."
+  },
+  {
+   "fr": "célèbre",
+   "en": "famous",
+   "ex": "Le joueur le plus célèbre."
+  },
+  {
+   "fr": "le fun",
+   "en": "fun",
+   "ex": "C'est ben le fun!",
+   "qc": true
+  },
+  {
+   "fr": "full",
+   "en": "very, super (slang)",
+   "ex": "C'est full bon.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "le plus grand",
+    "tip": "s silent: [luh plu grahn]."
+   },
+   {
+    "fr": "le plus intéressant",
+    "tip": "Liaison in [z]: plu-zin-té-ré-SAHN."
+   },
+   {
+    "fr": "C'est lui qui mange le plus.",
+    "tip": "At the end of the sentence, plus is [pluss]."
+   },
+   {
+    "fr": "la meilleure",
+    "tip": "la mè-YEUR: same sound as masculine meilleur."
+   },
+   {
+    "fr": "le mieux",
+    "tip": "luh MYEU."
+   },
+   {
+    "fr": "le pire",
+    "tip": "luh PIR, short clear i; Quebec often [pɪr]."
+   }
+  ],
+  "title": "Le palmarès des amis",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "OK, question: c'est quoi le meilleur restaurant de Montréal?",
+    "en": "OK, question: what's the best restaurant in Montreal?"
+   },
+   {
+    "s": "B",
+    "fr": "Pour moi, c'est un petit resto vietnamien dans le Plateau. C'est le moins cher et le plus bon… euh, le meilleur!",
+    "en": "For me, it's a little Vietnamese place in the Plateau. It's the cheapest and the 'most good'… uh, the best!"
+   },
+   {
+    "s": "A",
+    "fr": "Ha! Et le pire souvenir de ton hiver?",
+    "en": "Ha! And the worst memory of your winter?"
+   },
+   {
+    "s": "B",
+    "fr": "La plus grosse tempête de neige. J'ai pelleté pendant trois heures!",
+    "en": "The biggest snowstorm. I shovelled for three hours!"
+   },
+   {
+    "s": "A",
+    "fr": "Et qui patine le mieux dans notre groupe?",
+    "en": "And who skates best in our group?"
+   },
+   {
+    "s": "B",
+    "fr": "Sophie, c'est clair. C'est elle qui patine le plus souvent aussi.",
+    "en": "Sophie, obviously. She's also the one who skates most often."
+   },
+   {
+    "s": "A",
+    "fr": "Dernière question: le plus beau coin du Québec?",
+    "en": "Last question: the most beautiful spot in Quebec?"
+   },
+   {
+    "s": "B",
+    "fr": "La Gaspésie. C'est la région la plus belle au monde!",
+    "en": "The Gaspé Peninsula. It's the most beautiful region in the world!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What kind of restaurant does B pick?",
+    "options": [
+     "Italian",
+     "Vietnamese",
+     "Lebanese"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What is B's worst memory of winter?",
+    "options": [
+     "A broken car",
+     "The biggest snowstorm",
+     "Falling on ice"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Who skates best?",
+    "options": [
+     "B",
+     "A",
+     "Sophie"
+    ],
+    "a": 2
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Name your 'best of' list: the best restaurant, the most beautiful place and the worst month in your city.",
+   "model": "Le meilleur restaurant, c'est Chez Ma Tante. Le plus bel endroit, c'est le mont Royal. Le pire mois, c'est mars, à cause de la slush!"
+  },
+  {
+   "prompt": "Talk about your family: who is the oldest, who cooks best, who talks the most?",
+   "model": "Mon père est le plus âgé. C'est ma mère qui cuisine le mieux. C'est mon petit frère qui parle le plus!"
+  },
+  {
+   "prompt": "Correct this sentence a friend says: 'C'est le plus meilleur café!'",
+   "model": "On dit: C'est le meilleur café!"
+  }
+ ],
+ "write": {
+  "prompt": "Write a 5–6 sentence 'top list' about your region for a tourist: best food, most beautiful place, coldest month, worst thing. Use le meilleur, le plus/le moins and le pire.",
+  "model": "Bienvenue à Québec! La meilleure chose à manger, c'est la tourtière. Le plus bel endroit, c'est le Vieux-Québec, surtout en hiver. Le mois le plus froid est janvier. Le meilleur moment pour visiter, c'est pendant le Carnaval. Le pire, c'est de trouver du stationnement!"
+ },
+ "quiz": [
+  {
+   "q": "How do you form the superlative?",
+   "options": [
+    "plus + adjective",
+    "le/la/les + plus + adjective",
+    "très + adjective",
+    "trop + adjective"
+   ],
+   "a": 1,
+   "why": "Definite article + plus/moins + adjective."
+  },
+  {
+   "q": "'The most interesting book' =",
+   "options": [
+    "le livre plus intéressant",
+    "le livre le plus intéressant",
+    "le plus livre intéressant",
+    "le livre très intéressant"
+   ],
+   "a": 1,
+   "why": "Adjective after the noun: repeat the article."
+  },
+  {
+   "q": "After a superlative, 'in' becomes…",
+   "options": [
+    "dans",
+    "en",
+    "de",
+    "à"
+   ],
+   "a": 2,
+   "why": "La plus grande ville du pays."
+  },
+  {
+   "q": "'C'est la ___ actrice.' (best)",
+   "options": [
+    "mieux",
+    "meilleur",
+    "meilleure",
+    "plus bonne"
+   ],
+   "a": 2,
+   "why": "Actrice is feminine: la meilleure."
+  },
+  {
+   "q": "'C'est lui qui conduit ___.' (best)",
+   "options": [
+    "le meilleur",
+    "le mieux",
+    "mieux",
+    "meilleur"
+   ],
+   "a": 1,
+   "why": "Conduire is an action: le mieux."
+  },
+  {
+   "q": "Why is 'le plus meilleur' wrong?",
+   "options": [
+    "Meilleur is feminine",
+    "Meilleur already means 'more good'",
+    "It needs 'la'",
+    "It's not wrong"
+   ],
+   "a": 1,
+   "why": "Plus + meilleur is a double comparison."
+  },
+  {
+   "q": "'C'est Léa qui a ___ devoirs.' (the most)",
+   "options": [
+    "les plus",
+    "le plus de",
+    "la plus de",
+    "plus des"
+   ],
+   "a": 1,
+   "why": "Le plus de + noun."
+  },
+  {
+   "q": "In Quebec slang, 'C'est full bon' means…",
+   "options": [
+    "I'm full",
+    "It's super good",
+    "It's too much",
+    "It's not good"
+   ],
+   "a": 1,
+   "why": "Full = very (informal anglicism)."
+  },
+  {
+   "q": "Which is correct?",
+   "options": [
+    "la plus belle ville",
+    "la ville plus belle",
+    "la belle plus ville",
+    "la plus ville belle"
+   ],
+   "a": 0,
+   "why": "Belle goes before the noun, so one article is enough."
+  }
+ ]
+}

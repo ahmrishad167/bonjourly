@@ -1,0 +1,790 @@
+{
+ "w": 123,
+ "title": "False friends and anglicisms review",
+ "goal": "By the end of this lesson you can avoid the most common false friends (actuellement, librairie, éventuellement…), replace frequent anglicisms and English calques with natural French, and switch between Quebec and France vocabulary (char / voiture, magasiner / faire du shopping).",
+ "learn": [
+  {
+   "h": "False friends (faux amis)",
+   "body": [
+    "False friends look like English words but mean something else. They are the most common source of misunderstandings for English speakers, even at an advanced level.",
+    "*Actuellement* means 'currently', not 'actually' (= *en fait*). *Éventuellement* means 'possibly', not 'eventually' (= *finalement*, *tôt ou tard*). *Une librairie* is a bookstore; a library is *une bibliothèque*."
+   ],
+   "table": {
+    "head": [
+     "French",
+     "Real meaning",
+     "English look-alike →",
+     "French for that"
+    ],
+    "rows": [
+     [
+      "actuellement",
+      "currently",
+      "actually",
+      "en fait"
+     ],
+     [
+      "éventuellement",
+      "possibly",
+      "eventually",
+      "finalement, tôt ou tard"
+     ],
+     [
+      "la librairie",
+      "bookstore",
+      "library",
+      "la bibliothèque"
+     ],
+     [
+      "assister à",
+      "to attend",
+      "to assist",
+      "aider"
+     ],
+     [
+      "la location",
+      "rental",
+      "location",
+      "l'emplacement, l'endroit"
+     ],
+     [
+      "sensible",
+      "sensitive",
+      "sensible",
+      "raisonnable, sensé"
+     ],
+     [
+      "la déception",
+      "disappointment",
+      "deception",
+      "la tromperie"
+     ],
+     [
+      "blesser",
+      "to injure",
+      "to bless",
+      "bénir"
+     ],
+     [
+      "rester",
+      "to stay",
+      "to rest",
+      "se reposer"
+     ],
+     [
+      "la monnaie",
+      "change (coins)",
+      "money",
+      "l'argent"
+     ]
+    ]
+   },
+   "tip": "When a French word looks exactly like English, pause and check: it's a trap about one time in five."
+  },
+  {
+   "h": "Anglicisms and calques",
+   "body": [
+    "An anglicism is an English word or structure used in French. Some are plain loanwords (*checker*, *canceller*, *le fun*). Harder to spot are calques: French words arranged in an English pattern.",
+    "They're everywhere in casual speech, in Quebec and in France alike. You don't need to police your friends, but in writing and at work, use the French equivalents."
+   ],
+   "table": {
+    "head": [
+     "Calque / anglicism",
+     "Natural French",
+     "English"
+    ],
+    "rows": [
+     [
+      "à date",
+      "jusqu'à maintenant, à ce jour",
+      "to date"
+     ],
+     [
+      "faire du sens",
+      "avoir du sens, être logique",
+      "to make sense"
+     ],
+     [
+      "prendre une marche",
+      "faire une promenade, aller marcher",
+      "to take a walk"
+     ],
+     [
+      "prendre une chance",
+      "courir le risque, tenter sa chance",
+      "to take a chance"
+     ],
+     [
+      "chercher pour quelque chose",
+      "chercher quelque chose",
+      "to look for something"
+     ],
+     [
+      "définitivement (= definitely)",
+      "certainement, absolument",
+      "definitely"
+     ],
+     [
+      "supporter quelqu'un",
+      "soutenir, appuyer quelqu'un",
+      "to support someone"
+     ],
+     [
+      "introduire quelqu'un",
+      "présenter quelqu'un",
+      "to introduce someone"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Quebec vs France: two vocabularies",
+   "body": [
+    "Surprise: France often uses English words where Quebec uses French ones. In France people say *le week-end*, *le parking*, *faire du shopping*, *un e-mail*; in Quebec, *la fin de semaine*, *le stationnement*, *magasiner*, *un courriel*.",
+    "The reverse is true too: Quebec has its own words, many from old French (*char*, *barrer*, *garrocher*), some from English (*chum*, *bécosse* from backhouse), and many coinages (*courriel*, *clavarder*, *balado*)."
+   ],
+   "table": {
+    "head": [
+     "Quebec",
+     "France",
+     "English"
+    ],
+    "rows": [
+     [
+      "une auto, un char (informal)",
+      "une voiture",
+      "car"
+     ],
+     [
+      "magasiner",
+      "faire du shopping, faire les magasins",
+      "to shop"
+     ],
+     [
+      "déjeuner / dîner / souper",
+      "petit-déjeuner / déjeuner / dîner",
+      "breakfast / lunch / supper"
+     ],
+     [
+      "un cellulaire",
+      "un portable",
+      "cell phone"
+     ],
+     [
+      "un chandail",
+      "un pull",
+      "sweater"
+     ],
+     [
+      "des bas",
+      "des chaussettes",
+      "socks"
+     ],
+     [
+      "une tuque",
+      "un bonnet",
+      "toque, winter hat"
+     ],
+     [
+      "un dépanneur",
+      "une supérette, une épicerie de quartier",
+      "corner store"
+     ],
+     [
+      "un bleuet",
+      "une myrtille",
+      "blueberry"
+     ],
+     [
+      "la blonde / le chum",
+      "la copine / le copain",
+      "girlfriend / boyfriend"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Choosing the right register",
+   "body": [
+    "Living in Quebec, you should know three levels: Quebec informal (*mon char*, *checker*), Quebec standard (*mon auto*, *vérifier*), and international French (*ma voiture*). Quebec standard is what you hear on Radio-Canada and use at work.",
+    "Watch out for meal names: an invitation *à dîner* in Quebec is for lunch, at noon. In France, *dîner* is the evening meal."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Actuellement, je travaille à Laval.",
+   "en": "Currently, I work in Laval.",
+   "note": "actuellement = currently"
+  },
+  {
+   "fr": "En fait, je ne suis pas d'accord.",
+   "en": "Actually, I don't agree.",
+   "note": "actually = en fait"
+  },
+  {
+   "fr": "J'ai emprunté ce livre à la bibliothèque.",
+   "en": "I borrowed this book from the library.",
+   "note": "bibliothèque, not librairie"
+  },
+  {
+   "fr": "J'ai assisté à la conférence hier.",
+   "en": "I attended the conference yesterday.",
+   "note": "assister à = attend"
+  },
+  {
+   "fr": "Je cherche un appartement en location près du métro.",
+   "en": "I'm looking for a rental apartment near the metro.",
+   "note": "location = rental"
+  },
+  {
+   "fr": "Elle est très sensible à la critique.",
+   "en": "She's very sensitive to criticism.",
+   "note": "sensible = sensitive"
+  },
+  {
+   "fr": "Jusqu'à maintenant, tout va bien.",
+   "en": "So far, everything's fine.",
+   "note": "instead of the calque à date"
+  },
+  {
+   "fr": "Ça n'a pas de sens!",
+   "en": "That makes no sense!",
+   "note": "avoir du sens, not faire du sens"
+  },
+  {
+   "fr": "Après le souper, on va faire une promenade.",
+   "en": "After supper, we'll go for a walk.",
+   "note": "instead of prendre une marche"
+  },
+  {
+   "fr": "Je vais magasiner au Quartier DIX30 samedi.",
+   "en": "I'm going shopping at Quartier DIX30 on Saturday.",
+   "note": "magasiner, Quebec"
+  },
+  {
+   "fr": "Mon char est au garage, faque je prends l'autobus.",
+   "en": "My car's at the garage, so I'm taking the bus.",
+   "note": "char + faque = informal Quebec"
+  },
+  {
+   "fr": "Ma voiture est en panne.",
+   "en": "My car has broken down.",
+   "note": "voiture: neutral, understood everywhere"
+  },
+  {
+   "fr": "On se voit pour dîner à midi?",
+   "en": "Shall we meet for lunch at noon?",
+   "note": "dîner = lunch in Quebec"
+  },
+  {
+   "fr": "Je te présente ma collègue Nadia.",
+   "en": "Let me introduce my colleague Nadia.",
+   "note": "présenter, not introduire"
+  },
+  {
+   "fr": "Il faut mettre ta tuque, il fait −15!",
+   "en": "Put on your toque, it's −15!",
+   "note": "tuque = Quebec winter hat"
+  },
+  {
+   "fr": "Je soutiens totalement ta décision.",
+   "en": "I fully support your decision.",
+   "note": "soutenir, not supporter"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebec and France often use different words for the same thing: char or auto vs voiture, magasiner vs faire du shopping. Know both sets so you understand everyone, and use the Quebec standard at work.",
+  "items": [
+   {
+    "std": "Ma voiture est stationnée devant.",
+    "qc": "Mon char est parké en avant.",
+    "en": "My car is parked out front.",
+    "note": "char and parké are informal; Quebec standard: mon auto est stationnée devant"
+   },
+   {
+    "std": "Je fais du shopping (France).",
+    "qc": "Je magasine.",
+    "en": "I'm shopping.",
+    "note": "magasiner is standard Quebec French, not slang"
+   },
+   {
+    "std": "C'est amusant.",
+    "qc": "C'est le fun.",
+    "en": "It's fun.",
+    "note": "very common, informal anglicism"
+   },
+   {
+    "std": "Je vais vérifier.",
+    "qc": "Je vais checker ça.",
+    "en": "I'll check.",
+    "note": "checker is informal; use vérifier at work"
+   },
+   {
+    "std": "Mon portable n'a plus de batterie (France).",
+    "qc": "Mon cell est mort.",
+    "en": "My phone's dead.",
+    "note": "cell / cellulaire in Quebec"
+   },
+   {
+    "std": "On a pris le ferry (France).",
+    "qc": "On a pris le traversier.",
+    "en": "We took the ferry.",
+    "note": "traversier is the Quebec word"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "'Actuellement' means…",
+   "options": [
+    "actually",
+    "currently",
+    "eventually",
+    "really"
+   ],
+   "a": 1,
+   "why": "Actually = en fait."
+  },
+  {
+   "t": "mcq",
+   "q": "Where do you borrow books for free?",
+   "options": [
+    "à la librairie",
+    "à la bibliothèque",
+    "à la location",
+    "au dépanneur"
+   ],
+   "a": 1,
+   "why": "Bibliothèque = library; librairie = bookstore."
+  },
+  {
+   "t": "mcq",
+   "q": "In Quebec, 'dîner' is…",
+   "options": [
+    "breakfast",
+    "lunch",
+    "supper",
+    "a snack"
+   ],
+   "a": 1,
+   "why": "Déjeuner / dîner / souper."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is a calque to avoid in writing?",
+   "options": [
+    "jusqu'à maintenant",
+    "à date",
+    "à ce jour",
+    "jusqu'ici"
+   ],
+   "a": 1,
+   "why": "À date is a calque of 'to date'."
+  },
+  {
+   "t": "fill",
+   "q": "Ça n'a pas de ___. (sense)",
+   "a": [
+    "sens"
+   ],
+   "en": "That makes no sense.",
+   "why": "Avoir du sens, not faire du sens."
+  },
+  {
+   "t": "fill",
+   "q": "Je vais ___ au centre commercial. (to shop, Quebec)",
+   "a": [
+    "magasiner"
+   ],
+   "en": "I'm going shopping at the mall.",
+   "why": "Magasiner = faire du shopping."
+  },
+  {
+   "t": "fill",
+   "q": "J'ai ___ à la réunion de parents. (attended)",
+   "a": [
+    "assisté"
+   ],
+   "en": "I attended the parents' meeting.",
+   "why": "Assister à = to attend."
+  },
+  {
+   "t": "fill",
+   "q": "Je te ___ mon frère, Paul. (introduce)",
+   "a": [
+    "présente"
+   ],
+   "en": "Let me introduce my brother, Paul.",
+   "why": "Présenter quelqu'un."
+  },
+  {
+   "t": "build",
+   "en": "I'm looking for my keys.",
+   "a": "Je cherche mes clés."
+  },
+  {
+   "t": "build",
+   "en": "Currently, I live in Gatineau.",
+   "a": "Actuellement, j'habite à Gatineau."
+  },
+  {
+   "t": "build",
+   "en": "We went for a walk after supper.",
+   "a": "On a fait une promenade après le souper."
+  },
+  {
+   "t": "translate",
+   "en": "Actually, I'm tired.",
+   "a": [
+    "En fait, je suis fatigué.",
+    "En fait, je suis fatiguée."
+   ],
+   "why": "Actually = en fait, not actuellement."
+  },
+  {
+   "t": "translate",
+   "en": "My car is at the garage.",
+   "a": [
+    "Ma voiture est au garage.",
+    "Mon auto est au garage.",
+    "Mon char est au garage."
+   ],
+   "why": "Voiture / auto (Quebec standard) / char (informal)."
+  },
+  {
+   "t": "translate",
+   "en": "I support you.",
+   "a": [
+    "Je te soutiens.",
+    "Je vous soutiens.",
+    "Je t'appuie.",
+    "Je vous appuie."
+   ],
+   "why": "Soutenir / appuyer, not supporter (= to tolerate)."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "actuellement",
+   "en": "currently",
+   "ex": "Actuellement, il est en réunion."
+  },
+  {
+   "fr": "éventuellement",
+   "en": "possibly, if need be",
+   "ex": "On pourrait éventuellement reporter."
+  },
+  {
+   "fr": "la librairie",
+   "en": "bookstore",
+   "g": "f",
+   "ex": "J'ai acheté ce roman à la librairie."
+  },
+  {
+   "fr": "la bibliothèque",
+   "en": "library",
+   "g": "f",
+   "ex": "La bibliothèque ferme à 20 h."
+  },
+  {
+   "fr": "assister à",
+   "en": "to attend",
+   "ex": "J'ai assisté au spectacle."
+  },
+  {
+   "fr": "la location",
+   "en": "rental",
+   "g": "f",
+   "ex": "La location d'une auto coûte cher."
+  },
+  {
+   "fr": "sensible",
+   "en": "sensitive",
+   "ex": "J'ai les dents sensibles."
+  },
+  {
+   "fr": "soutenir",
+   "en": "to support",
+   "ex": "Mes parents me soutiennent."
+  },
+  {
+   "fr": "magasiner",
+   "en": "to shop",
+   "ex": "J'aime magasiner le samedi.",
+   "qc": true
+  },
+  {
+   "fr": "le char",
+   "en": "car (informal)",
+   "g": "m",
+   "ex": "On prend mon char?",
+   "qc": true
+  },
+  {
+   "fr": "le chandail",
+   "en": "sweater, top",
+   "g": "m",
+   "ex": "Mets un chandail chaud.",
+   "qc": true
+  },
+  {
+   "fr": "les bas",
+   "en": "socks",
+   "g": "m",
+   "ex": "J'ai les bas mouillés.",
+   "qc": true
+  },
+  {
+   "fr": "le bleuet",
+   "en": "blueberry",
+   "g": "m",
+   "ex": "Le Lac-Saint-Jean est célèbre pour ses bleuets.",
+   "qc": true
+  },
+  {
+   "fr": "le traversier",
+   "en": "ferry",
+   "g": "m",
+   "ex": "On a pris le traversier Québec-Lévis.",
+   "qc": true
+  },
+  {
+   "fr": "le fun",
+   "en": "fun (informal)",
+   "ex": "C'était vraiment le fun!",
+   "qc": true
+  },
+  {
+   "fr": "le cellulaire",
+   "en": "cell phone",
+   "g": "m",
+   "ex": "Mon cellulaire est déchargé.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "actuellement",
+    "tip": "ak-tu-èl-MAN: four syllables."
+   },
+   {
+    "fr": "bibliothèque",
+    "tip": "bi-bli-yo-TÈK."
+   },
+   {
+    "fr": "magasiner",
+    "tip": "ma-ga-zi-NÉ: the s between vowels = [z]."
+   },
+   {
+    "fr": "chandail",
+    "tip": "shan-DAÏ."
+   },
+   {
+    "fr": "bleuet",
+    "tip": "bleu-È."
+   },
+   {
+    "fr": "le fun",
+    "tip": "luh FONN: Quebecers pronounce it like 'fonne'."
+   }
+  ],
+  "title": "Une amie de Paris",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Salut Camille! Bienvenue à Montréal. On va dîner?",
+    "en": "Hi Camille! Welcome to Montreal. Shall we have lunch?"
+   },
+   {
+    "s": "B",
+    "fr": "Dîner? Il est midi! Ah oui, c'est vrai, ici le dîner, c'est le midi.",
+    "en": "Dinner? It's noon! Oh right, here dîner is lunch."
+   },
+   {
+    "s": "A",
+    "fr": "Exactement. Après, on pourrait magasiner sur la rue Sainte-Catherine.",
+    "en": "Exactly. After, we could go shopping on Sainte-Catherine Street."
+   },
+   {
+    "s": "B",
+    "fr": "Faire du shopping, tu veux dire? J'adore! Je cherche un bonnet.",
+    "en": "Go shopping, you mean? I love it! I'm looking for a winter hat."
+   },
+   {
+    "s": "A",
+    "fr": "Une tuque! Ici, on dit une tuque. Et prends des bas chauds aussi.",
+    "en": "A tuque! Here we say tuque. And get warm socks too."
+   },
+   {
+    "s": "B",
+    "fr": "Des chaussettes, d'accord. Et on y va en voiture?",
+    "en": "Socks, OK. And are we going by car?"
+   },
+   {
+    "s": "A",
+    "fr": "Non, mon char est au garage. On prend le métro, c'est plus le fun.",
+    "en": "No, my car's at the garage. We'll take the metro, it's more fun."
+   },
+   {
+    "s": "B",
+    "fr": "Ton « char »? Comme dans l'Antiquité? Je vais avoir besoin d'un dictionnaire!",
+    "en": "Your 'chariot'? Like in ancient times? I'm going to need a dictionary!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Why is Camille confused about 'dîner'?",
+    "options": [
+     "In France, dîner is the evening meal",
+     "She isn't hungry",
+     "She doesn't like restaurants"
+    ],
+    "a": 0
+   },
+   {
+    "q": "What is Camille looking for?",
+    "options": [
+     "Socks",
+     "A winter hat",
+     "A car"
+    ],
+    "a": 1
+   },
+   {
+    "q": "How will they get downtown?",
+    "options": [
+     "By car",
+     "By metro",
+     "On foot"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Correct these sentences out loud: 'Actuellement, je suis d'accord avec toi' (meaning 'actually'), 'Je vais à la librairie emprunter un livre', 'À date, tout va bien.'",
+   "model": "En fait, je suis d'accord avec toi. Je vais à la bibliothèque emprunter un livre. Jusqu'à maintenant, tout va bien."
+  },
+  {
+   "prompt": "Describe your day to a friend from France, then to a friend from Quebec (meals, shopping, clothes).",
+   "model": "France : Ce matin, j'ai pris mon petit-déjeuner, puis j'ai fait du shopping et j'ai acheté un pull. Quebec : À matin, j'ai déjeuné, pis j'ai magasiné, j'me suis acheté un chandail."
+  },
+  {
+   "prompt": "Rephrase in Quebec standard French: 'J'ai checké mes courriels, pis j'ai cancellé le meeting.'",
+   "model": "J'ai vérifié mes courriels, et j'ai annulé la réunion."
+  },
+  {
+   "prompt": "Explain three false friends to a fellow learner.",
+   "model": "Attention : « actuellement » veut dire currently, pas actually. « Une librairie », c'est un magasin de livres, pas une bibliothèque. Et « rester », c'est to stay, pas to rest."
+  }
+ ],
+ "write": {
+  "prompt": "Write a short guide (8–10 sentences) for a newcomer from France about Quebec vocabulary: meals, clothes, shopping, transport, and the anglicisms they'll hear but shouldn't use at work.",
+  "model": "Bienvenue au Québec! D'abord, attention aux repas : ici, on déjeune le matin, on dîne le midi et on soupe le soir. Pour faire du shopping, on dit « magasiner ». En hiver, n'oubliez pas votre tuque, vos mitaines et des bas chauds. Votre portable s'appelle ici un cellulaire. Pour traverser le fleuve à Québec, vous prendrez le traversier, pas le ferry. Vous entendrez souvent « mon char » pour une voiture, mais c'est familier; au travail, dites « mon auto ». Vous entendrez aussi « checker » et « canceller » : au bureau, préférez « vérifier » et « annuler ». Enfin, ne vous étonnez pas d'entendre « fin de semaine » au lieu de « week-end ». Bonne adaptation!"
+ },
+ "quiz": [
+  {
+   "q": "'Éventuellement' means…",
+   "options": [
+    "eventually",
+    "possibly",
+    "finally",
+    "evidently"
+   ],
+   "a": 1,
+   "why": "A false friend."
+  },
+  {
+   "q": "Which word means 'bookstore'?",
+   "options": [
+    "la bibliothèque",
+    "la librairie",
+    "la papeterie",
+    "le livret"
+   ],
+   "a": 1,
+   "why": "Librairie = bookstore."
+  },
+  {
+   "q": "'Faire du sens' should be…",
+   "options": [
+    "avoir du sens",
+    "prendre du sens",
+    "donner du sens à",
+    "mettre du sens"
+   ],
+   "a": 0,
+   "why": "Ça a du sens."
+  },
+  {
+   "q": "In Quebec, 'magasiner' is…",
+   "options": [
+    "slang to avoid",
+    "standard Quebec French",
+    "a France expression",
+    "an anglicism"
+   ],
+   "a": 1,
+   "why": "Accepted and used everywhere in Quebec."
+  },
+  {
+   "q": "Which is the France equivalent of 'une tuque'?",
+   "options": [
+    "un bonnet",
+    "une casquette",
+    "un foulard",
+    "un chapeau de paille"
+   ],
+   "a": 0,
+   "why": "Tuque (Quebec) = bonnet (France)."
+  },
+  {
+   "q": "'Je suis sensible' means…",
+   "options": [
+    "I'm sensible.",
+    "I'm sensitive.",
+    "I'm sensational.",
+    "I'm sane."
+   ],
+   "a": 1,
+   "why": "Sensible = sensitive."
+  },
+  {
+   "q": "Which is a calque of 'to take a walk'?",
+   "options": [
+    "faire une promenade",
+    "prendre une marche",
+    "aller marcher",
+    "se promener"
+   ],
+   "a": 1,
+   "why": "Prendre une marche is a common Quebec calque."
+  },
+  {
+   "q": "'Rester' means…",
+   "options": [
+    "to rest",
+    "to stay",
+    "to arrest",
+    "to restore"
+   ],
+   "a": 1,
+   "why": "Se reposer = to rest."
+  },
+  {
+   "q": "Which is informal Quebec for 'car'?",
+   "options": [
+    "le char",
+    "le chariot",
+    "la charrette",
+    "le carrosse"
+   ],
+   "a": 0,
+   "why": "Char, from old French; informal."
+  }
+ ]
+}

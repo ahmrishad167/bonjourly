@@ -1,0 +1,756 @@
+{
+ "w": 16,
+ "title": "Numbers 0–100",
+ "goal": "By the end of this lesson you can count from 0 to 100, say prices, ages and phone numbers, handle the tricky 70–99 range, and understand Quebec money words like piasse and cenne.",
+ "learn": [
+  {
+   "h": "0 to 16: learn them by heart",
+   "body": [
+    "The first numbers are irregular and must be memorised. From 17 on, the system becomes regular.",
+    "Careful with the final consonants: *six* and *dix* end in [s] when said alone, are silent before a consonant (*six livres* [si]), and become [z] before a vowel (*six‿ans*). *Huit* and *cinq* usually keep their final sound."
+   ],
+   "table": {
+    "head": [
+     "#",
+     "French",
+     "#",
+     "French"
+    ],
+    "rows": [
+     [
+      "0",
+      "zéro",
+      "9",
+      "neuf"
+     ],
+     [
+      "1",
+      "un / une",
+      "10",
+      "dix"
+     ],
+     [
+      "2",
+      "deux",
+      "11",
+      "onze"
+     ],
+     [
+      "3",
+      "trois",
+      "12",
+      "douze"
+     ],
+     [
+      "4",
+      "quatre",
+      "13",
+      "treize"
+     ],
+     [
+      "5",
+      "cinq",
+      "14",
+      "quatorze"
+     ],
+     [
+      "6",
+      "six",
+      "15",
+      "quinze"
+     ],
+     [
+      "7",
+      "sept",
+      "16",
+      "seize"
+     ],
+     [
+      "8",
+      "huit",
+      "",
+      ""
+     ]
+    ]
+   },
+   "tip": "un becomes une before a feminine noun: une pomme, vingt et une pommes."
+  },
+  {
+   "h": "17 to 69: the regular part",
+   "body": [
+    "17, 18, 19 are *dix-sept, dix-huit, dix-neuf* (ten-seven, ten-eight, ten-nine). The tens are *vingt* (20), *trente* (30), *quarante* (40), *cinquante* (50), *soixante* (60).",
+    "Add units with a hyphen: *vingt-deux, trente-cinq*. But for 21, 31, 41, 51, 61, use *et un*: *vingt et un, trente et un*. (The 1990 spelling reform also allows hyphens everywhere: *vingt-et-un*; both are correct.)"
+   ],
+   "table": {
+    "head": [
+     "#",
+     "French"
+    ],
+    "rows": [
+     [
+      "20",
+      "vingt"
+     ],
+     [
+      "21",
+      "vingt et un"
+     ],
+     [
+      "22",
+      "vingt-deux"
+     ],
+     [
+      "30",
+      "trente"
+     ],
+     [
+      "45",
+      "quarante-cinq"
+     ],
+     [
+      "58",
+      "cinquante-huit"
+     ],
+     [
+      "61",
+      "soixante et un"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "70 to 100: a little math",
+   "body": [
+    "French in France and Quebec has no single word for 70, 80 or 90. 70 is *soixante-dix* (sixty-ten), so 71 is *soixante et onze*, 75 is *soixante-quinze*.",
+    "80 is *quatre-vingts* (four twenties), with an s only when nothing follows. 81 is *quatre-vingt-un* (no *et*). 90 is *quatre-vingt-dix* (four twenties + ten), so 99 is *quatre-vingt-dix-neuf*. 100 is *cent*."
+   ],
+   "table": {
+    "head": [
+     "#",
+     "French",
+     "Math"
+    ],
+    "rows": [
+     [
+      "70",
+      "soixante-dix",
+      "60 + 10"
+     ],
+     [
+      "71",
+      "soixante et onze",
+      "60 + 11"
+     ],
+     [
+      "77",
+      "soixante-dix-sept",
+      "60 + 17"
+     ],
+     [
+      "80",
+      "quatre-vingts",
+      "4 × 20"
+     ],
+     [
+      "81",
+      "quatre-vingt-un",
+      "4 × 20 + 1"
+     ],
+     [
+      "90",
+      "quatre-vingt-dix",
+      "4 × 20 + 10"
+     ],
+     [
+      "99",
+      "quatre-vingt-dix-neuf",
+      "4 × 20 + 19"
+     ],
+     [
+      "100",
+      "cent",
+      ""
+     ]
+    ]
+   },
+   "tip": "Belgium and Switzerland say septante, nonante. Quebec does NOT: use soixante-dix and quatre-vingt-dix."
+  },
+  {
+   "h": "Using numbers",
+   "body": [
+    "Age: *J'ai trente-quatre ans.* Prices: *Ça coûte douze dollars cinquante* (12,50 $). In Quebec, the dollar sign goes after the number and the decimal mark is a comma: *12,50 $*.",
+    "Phone numbers are read in groups: area code, then three digits, then two pairs or four digits: *514 555-0199* → *cinq cent quatorze, cinq cinq cinq, zéro un, quatre-vingt-dix-neuf* (many Quebecers simply say each digit)."
+   ]
+  },
+  {
+   "h": "Quebec: same numbers, local money words",
+   "body": [
+    "Quebec uses exactly the same numbers as France (*soixante-dix, quatre-vingts, quatre-vingt-dix*), not the Belgian or Swiss *septante, nonante*. One accent detail: you will often hear the t of *vingt* pronounced on its own: [vint].",
+    "Money talk is where Quebec stands out: a dollar is informally *une piasse* (from 'piastre'), a cent is *une cenne*, and a quarter is *un trente sous*. *Ça coûte cinq piasses* = it costs five bucks."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "J'ai trente-quatre ans.",
+   "en": "I'm thirty-four.",
+   "note": "age with avoir"
+  },
+  {
+   "fr": "Mon fils a six ans.",
+   "en": "My son is six.",
+   "note": "six‿ans: liaison [z]"
+  },
+  {
+   "fr": "Il y a vingt et un étudiants.",
+   "en": "There are twenty-one students.",
+   "note": "21 = vingt et un"
+  },
+  {
+   "fr": "Il y a vingt et une étudiantes.",
+   "en": "There are twenty-one (female) students.",
+   "note": "une before a feminine noun"
+  },
+  {
+   "fr": "Ça coûte quinze dollars.",
+   "en": "It costs fifteen dollars."
+  },
+  {
+   "fr": "Le café coûte trois dollars cinquante.",
+   "en": "The coffee costs three fifty.",
+   "note": "written 3,50 $"
+  },
+  {
+   "fr": "Ma grand-mère a quatre-vingt-sept ans.",
+   "en": "My grandmother is eighty-seven.",
+   "note": "4 × 20 + 7"
+  },
+  {
+   "fr": "Il y a soixante-dix personnes.",
+   "en": "There are seventy people.",
+   "note": "60 + 10"
+  },
+  {
+   "fr": "J'habite au soixante et onze, rue Saint-Denis.",
+   "en": "I live at 71 Saint-Denis Street.",
+   "note": "71 = 60 + 11"
+  },
+  {
+   "fr": "Mon numéro, c'est le 514 555-0192.",
+   "en": "My number is 514-555-0192.",
+   "note": "groups of digits"
+  },
+  {
+   "fr": "Mon grand-père a quatre-vingts ans.",
+   "en": "My grandfather is eighty.",
+   "note": "quatre-vingts: s when nothing follows; liaison vingts‿ans [z]"
+  },
+  {
+   "fr": "Il y a quatre-vingt-dix-neuf problèmes!",
+   "en": "There are ninety-nine problems!",
+   "note": "4 × 20 + 19"
+  },
+  {
+   "fr": "Ça fait cent dollars.",
+   "en": "That comes to a hundred dollars.",
+   "note": "ça fait = that comes to (total)"
+  },
+  {
+   "fr": "Ça coûte cinq piasses.",
+   "en": "It costs five bucks.",
+   "note": "Quebec informal: piasse = dollar"
+  },
+  {
+   "fr": "T'as un trente sous?",
+   "en": "Do you have a quarter?",
+   "note": "Quebec informal: un trente sous = 25 ¢"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebec counts like France: soixante-dix, quatre-vingts, quatre-vingt-dix (never septante or nonante). The local flavour is in money words: piasse, cenne, trente sous.",
+  "items": [
+   {
+    "std": "Ça coûte dix dollars.",
+    "qc": "Ça coûte dix piasses.",
+    "en": "It costs ten bucks.",
+    "note": "informal; une piasse = a dollar"
+   },
+   {
+    "std": "Je n'ai pas un sou.",
+    "qc": "J'ai pas une cenne.",
+    "en": "I don't have a cent.",
+    "note": "informal; une cenne = a cent"
+   },
+   {
+    "std": "une pièce de vingt-cinq cents",
+    "qc": "un trente sous",
+    "en": "a quarter",
+    "note": "informal; yes, 'thirty sous' = 25 cents (old currency)"
+   },
+   {
+    "std": "soixante-dix",
+    "qc": "soixante-dix (never septante)",
+    "en": "seventy",
+    "note": "same as France; septante is Belgian/Swiss"
+   },
+   {
+    "std": "vingt [van]",
+    "qc": "vingt [vint]",
+    "en": "twenty",
+    "note": "the t of vingt is often pronounced alone in Quebec speech"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "How do you say 70 in Quebec?",
+   "options": [
+    "septante",
+    "soixante-dix",
+    "sept-dix",
+    "soixante-et-dix"
+   ],
+   "a": 1,
+   "why": "Quebec uses soixante-dix, like France."
+  },
+  {
+   "t": "mcq",
+   "q": "What is 'quatre-vingt-quinze'?",
+   "options": [
+    "85",
+    "95",
+    "75",
+    "415"
+   ],
+   "a": 1,
+   "why": "4 × 20 + 15 = 95."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is correctly written?",
+   "options": [
+    "vingt-un",
+    "vingt et un",
+    "vingt un",
+    "vingts et un"
+   ],
+   "a": 1,
+   "why": "21 = vingt et un (the 1990 spelling vingt-et-un is also accepted)."
+  },
+  {
+   "t": "mcq",
+   "q": "81 is…",
+   "options": [
+    "quatre-vingt et un",
+    "quatre-vingt-un",
+    "quatre-vingts-un",
+    "huitante-un"
+   ],
+   "a": 1,
+   "why": "No et for 81, and no s on vingt."
+  },
+  {
+   "t": "mcq",
+   "q": "In Quebec, 'une piasse' is…",
+   "options": [
+    "a cent",
+    "a dollar",
+    "a quarter",
+    "a pizza"
+   ],
+   "a": 1,
+   "why": "piasse (from piastre) = a dollar, informal."
+  },
+  {
+   "t": "fill",
+   "q": "J'ai trente-___ ans. (4)",
+   "a": [
+    "quatre"
+   ],
+   "en": "I'm thirty-four.",
+   "why": "trente-quatre."
+  },
+  {
+   "t": "fill",
+   "q": "Ma grand-mère a ___ ans. (80)",
+   "a": [
+    "quatre-vingts"
+   ],
+   "en": "My grandmother is eighty.",
+   "why": "s on vingts when nothing follows."
+  },
+  {
+   "t": "fill",
+   "q": "Ça coûte ___ dollars. (15)",
+   "a": [
+    "quinze"
+   ],
+   "en": "It costs fifteen dollars.",
+   "why": "15 = quinze."
+  },
+  {
+   "t": "fill",
+   "q": "J'habite au soixante et ___. (71)",
+   "a": [
+    "onze"
+   ],
+   "en": "I live at number 71.",
+   "why": "71 = 60 + 11."
+  },
+  {
+   "t": "build",
+   "en": "The coffee costs three fifty.",
+   "a": "Le café coûte trois dollars cinquante."
+  },
+  {
+   "t": "build",
+   "en": "There are seventy people.",
+   "a": "Il y a soixante-dix personnes."
+  },
+  {
+   "t": "translate",
+   "en": "I'm twenty-one.",
+   "a": [
+    "J'ai vingt et un ans.",
+    "J'ai 21 ans."
+   ],
+   "why": "Age uses avoir + ans."
+  },
+  {
+   "t": "translate",
+   "en": "It costs ninety dollars.",
+   "a": [
+    "Ça coûte quatre-vingt-dix dollars.",
+    "Ça coûte 90 dollars.",
+    "Ça coûte 90 $.",
+    "Ça coûte quatre-vingt-dix piasses.",
+    "C'est quatre-vingt-dix dollars."
+   ],
+   "why": "90 = quatre-vingt-dix."
+  },
+  {
+   "t": "translate",
+   "en": "My son is six.",
+   "a": [
+    "Mon fils a six ans.",
+    "Mon garçon a six ans.",
+    "Mon gars a six ans."
+   ],
+   "why": "Liaison six‿ans [z]."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "le numéro",
+   "en": "number (phone, house)",
+   "g": "m",
+   "ex": "C'est quoi, ton numéro?"
+  },
+  {
+   "fr": "le nombre",
+   "en": "number (quantity)",
+   "g": "m",
+   "ex": "Un grand nombre de personnes."
+  },
+  {
+   "fr": "compter",
+   "en": "to count",
+   "ex": "Je compte jusqu'à cent."
+  },
+  {
+   "fr": "le dollar",
+   "en": "dollar",
+   "g": "m",
+   "ex": "Ça coûte dix dollars."
+  },
+  {
+   "fr": "le cent / le sou",
+   "en": "cent",
+   "g": "m",
+   "ex": "Cinquante cents."
+  },
+  {
+   "fr": "la piasse",
+   "en": "buck, dollar (informal)",
+   "g": "f",
+   "ex": "Cinq piasses.",
+   "qc": true
+  },
+  {
+   "fr": "la cenne",
+   "en": "cent, penny (informal)",
+   "g": "f",
+   "ex": "J'ai pas une cenne.",
+   "qc": true
+  },
+  {
+   "fr": "le trente sous",
+   "en": "quarter, 25 ¢ (informal)",
+   "g": "m",
+   "ex": "T'as un trente sous?",
+   "qc": true
+  },
+  {
+   "fr": "coûter",
+   "en": "to cost",
+   "ex": "Ça coûte combien?"
+  },
+  {
+   "fr": "Ça fait…",
+   "en": "That comes to… (total)",
+   "ex": "Ça fait vingt dollars."
+  },
+  {
+   "fr": "le fils",
+   "en": "son",
+   "g": "m",
+   "ex": "Mon fils a six ans."
+  },
+  {
+   "fr": "la grand-mère",
+   "en": "grandmother",
+   "g": "f",
+   "ex": "Ma grand-mère a quatre-vingts ans."
+  },
+  {
+   "fr": "le prix",
+   "en": "price",
+   "g": "m",
+   "ex": "Quel est le prix?"
+  },
+  {
+   "fr": "cher / chère",
+   "en": "expensive",
+   "ex": "C'est trop cher."
+  },
+  {
+   "fr": "cent",
+   "en": "one hundred",
+   "ex": "Cent dollars."
+  },
+  {
+   "fr": "zéro",
+   "en": "zero",
+   "ex": "Zéro, un, deux…"
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "six, dix",
+    "tip": "Alone: SEESS, DEESS. Before a consonant: see, dee. Before a vowel: seez, deez."
+   },
+   {
+    "fr": "cinq",
+    "tip": "SANK: the q is pronounced."
+   },
+   {
+    "fr": "vingt et un",
+    "tip": "van-tay-UHN: liaison in [t], no liaison after et."
+   },
+   {
+    "fr": "soixante",
+    "tip": "swa-SAHNT: the x sounds like s."
+   },
+   {
+    "fr": "quatre-vingts",
+    "tip": "katr-VAN: the s is silent (except in liaison: quatre-vingts‿ans)."
+   },
+   {
+    "fr": "quatre-vingt-un",
+    "tip": "katr-van-UHN: no t liaison here."
+   },
+   {
+    "fr": "cent",
+    "tip": "SAHN: nasal, t silent."
+   }
+  ],
+  "title": "Au dépanneur",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Bonjour! Un lait et un pain, s'il vous plaît.",
+    "en": "Hello! A milk and a bread, please."
+   },
+   {
+    "s": "B",
+    "fr": "Ça fait sept dollars quatre-vingt-cinq.",
+    "en": "That's seven eighty-five."
+   },
+   {
+    "s": "A",
+    "fr": "Voici dix piasses.",
+    "en": "Here's ten bucks."
+   },
+   {
+    "s": "B",
+    "fr": "Merci. Deux dollars quinze pour vous.",
+    "en": "Thanks. Two fifteen for you."
+   },
+   {
+    "s": "A",
+    "fr": "Vous avez des timbres?",
+    "en": "Do you have stamps?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, c'est un dollar quarante-quatre le timbre.",
+    "en": "Yes, it's one forty-four per stamp."
+   },
+   {
+    "s": "A",
+    "fr": "Non merci, ça va. Bonne journée!",
+    "en": "No thanks, that's fine. Have a good day!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What is the total for the milk and bread?",
+    "options": [
+     "$7.85",
+     "$7.95",
+     "$8.75"
+    ],
+    "a": 0
+   },
+   {
+    "q": "How much does A pay with?",
+    "options": [
+     "$5",
+     "$10",
+     "$20"
+    ],
+    "a": 1
+   },
+   {
+    "q": "How much change does A get?",
+    "options": [
+     "$2.15",
+     "$2.50",
+     "$3.15"
+    ],
+    "a": 0
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Count from 60 to 100 by fives.",
+   "model": "soixante, soixante-cinq, soixante-dix, soixante-quinze, quatre-vingts, quatre-vingt-cinq, quatre-vingt-dix, quatre-vingt-quinze, cent"
+  },
+  {
+   "prompt": "Say your age, your street number and your phone number.",
+   "model": "J'ai trente-quatre ans. J'habite au quatre-vingt-deux, rue Laurier. Mon numéro, c'est le 514 555-0147."
+  },
+  {
+   "prompt": "Say the price of three things you bought recently, once standard and once with piasses.",
+   "model": "Le café: trois dollars. Le livre: vingt-deux dollars. Le chandail: quarante piasses."
+  }
+ ],
+ "write": {
+  "prompt": "Write out these numbers in words: 17, 21, 46, 71, 80, 84, 92, 99. Then write two sentences with prices.",
+  "model": "dix-sept, vingt et un, quarante-six, soixante et onze, quatre-vingts, quatre-vingt-quatre, quatre-vingt-douze, quatre-vingt-dix-neuf. Le café coûte trois dollars cinquante. Le livre coûte vingt-quatre dollars."
+ },
+ "quiz": [
+  {
+   "q": "What is 'seize'?",
+   "options": [
+    "6",
+    "16",
+    "60",
+    "7"
+   ],
+   "a": 1,
+   "why": "seize = 16."
+  },
+  {
+   "q": "What is 'soixante-dix-huit'?",
+   "options": [
+    "68",
+    "78",
+    "88",
+    "98"
+   ],
+   "a": 1,
+   "why": "60 + 18 = 78."
+  },
+  {
+   "q": "Which number takes 'et'?",
+   "options": [
+    "81",
+    "91",
+    "71",
+    "22"
+   ],
+   "a": 2,
+   "why": "21, 31, 41, 51, 61, 71 use et; 81 and 91 don't."
+  },
+  {
+   "q": "When does 'quatre-vingts' keep its s?",
+   "options": [
+    "Always",
+    "When no number follows",
+    "Never",
+    "Only in Quebec"
+   ],
+   "a": 1,
+   "why": "quatre-vingts, but quatre-vingt-trois."
+  },
+  {
+   "q": "How is 12,50 $ said?",
+   "options": [
+    "douze dollars cinquante",
+    "cinquante douze dollars",
+    "douze virgule dollars",
+    "dollars douze cinquante"
+   ],
+   "a": 0,
+   "why": "Dollars first, then cents."
+  },
+  {
+   "q": "Which do Quebecers NOT say?",
+   "options": [
+    "soixante-dix",
+    "quatre-vingt-dix",
+    "nonante",
+    "cent"
+   ],
+   "a": 2,
+   "why": "nonante is Belgian/Swiss."
+  },
+  {
+   "q": "'Un trente sous' is…",
+   "options": [
+    "30 cents",
+    "a quarter (25 ¢)",
+    "30 dollars",
+    "a loonie"
+   ],
+   "a": 1,
+   "why": "Old Quebec term for 25 cents."
+  },
+  {
+   "q": "'J'ai pas une cenne' means…",
+   "options": [
+    "I don't have a cent",
+    "I don't have a sense",
+    "I'm not hungry",
+    "I have one cent"
+   ],
+   "a": 0,
+   "why": "cenne = cent (informal)."
+  },
+  {
+   "q": "How is 'six' pronounced in 'six livres'?",
+   "options": [
+    "seess",
+    "see",
+    "seez",
+    "six"
+   ],
+   "a": 1,
+   "why": "Before a consonant, the x is silent."
+  }
+ ]
+}

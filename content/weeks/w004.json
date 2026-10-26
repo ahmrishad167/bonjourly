@@ -1,0 +1,681 @@
+{
+ "w": 4,
+ "title": "Silent letters and liaison",
+ "goal": "By the end of this lesson you can tell which final letters are silent, link words with liaison where French requires it, and avoid liaison where it is forbidden.",
+ "learn": [
+  {
+   "h": "Most final consonants are silent",
+   "body": [
+    "In French, a consonant at the end of a word is usually not pronounced. *petit*, *grand*, *trop*, *vous* and *Paris* all end in a silent letter.",
+    "A final *-e* without an accent is also silent: *table*, *porte*, *France*. Its job is often to make the consonant before it audible: *petit* (silent t) vs *petite* (t pronounced)."
+   ],
+   "table": {
+    "head": [
+     "Word",
+     "Sounds like",
+     "Silent letter"
+    ],
+    "rows": [
+     [
+      "petit",
+      "puh-TEE",
+      "t"
+     ],
+     [
+      "grand",
+      "GRAHN",
+      "d"
+     ],
+     [
+      "trop",
+      "TROH",
+      "p"
+     ],
+     [
+      "les amis",
+      "lay-za-MEE",
+      "s (in amis)"
+     ],
+     [
+      "chocolat",
+      "sho-ko-LAH",
+      "t"
+     ]
+    ]
+   },
+   "tip": "If the word ends in -e, the consonant before it is pronounced: grand / grande."
+  },
+  {
+   "h": "The CaReFuL exception",
+   "body": [
+    "The final letters *c, r, f* and *l* are usually pronounced: *avec*, *bonjour*, *neuf*, *journal*. Remember them with the English word CaReFuL.",
+    "Big exception: verbs ending in *-er* and many nouns ending in *-er* keep the r silent: *parler*, *manger*, *le boulanger*."
+   ],
+   "table": {
+    "head": [
+     "Letter",
+     "Pronounced",
+     "Exception"
+    ],
+    "rows": [
+     [
+      "c",
+      "avec, sac, parc",
+      "blanc, tabac"
+     ],
+     [
+      "r",
+      "bonjour, car, mer",
+      "parler, premier, boulanger"
+     ],
+     [
+      "f",
+      "neuf, chef, actif",
+      "clef (also spelled clé)"
+     ],
+     [
+      "l",
+      "journal, avril, sel",
+      "gentil, outil"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Liaison: linking words together",
+   "body": [
+    "Liaison happens when a normally silent final consonant is pronounced because the next word starts with a vowel or a silent *h*. The consonant moves to the start of the next word: *les amis* → [lay-za-mee].",
+    "Some letters change sound in liaison: *s* and *x* sound like [z], *d* sounds like [t], and *n* links as [n]."
+   ],
+   "table": {
+    "head": [
+     "Written",
+     "Said",
+     "Liaison sound"
+    ],
+    "rows": [
+     [
+      "les enfants",
+      "lay-zahn-fahn",
+      "[z]"
+     ],
+     [
+      "deux heures",
+      "duh-zuhr",
+      "[z]"
+     ],
+     [
+      "un grand homme",
+      "uhn grahn-tom",
+      "[t]"
+     ],
+     [
+      "un ami",
+      "uh-na-mee",
+      "[n]"
+     ],
+     [
+      "vous avez",
+      "voo-za-vay",
+      "[z]"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "When liaison is required, and when it is forbidden",
+   "body": [
+    "Required: after articles and determiners (*les, des, un, mon, ces*), between a pronoun and its verb (*nous avons, ils ont*), after short adjectives before a noun (*petit ami*), and in fixed expressions (*tout à fait, de temps en temps*).",
+    "Forbidden: after *et* (*et / un*), before an aspirated *h* (*les / héros*, *les / haricots*), and after a singular noun (*un étudiant / anglais*).",
+    "Everything else is optional; casual speech, especially in Quebec, makes fewer optional liaisons."
+   ],
+   "tip": "Never link after et: 'et un' is always [ay uhn], never [ay-tuhn]."
+  },
+  {
+   "h": "Quebec: final t that comes back",
+   "body": [
+    "In everyday Quebec speech, some final t's that are silent in standard French are pronounced: *tout* → [toutt], *lit* → [litt], *nuit* → [nuitt], *debout* → [deboutt].",
+    "Learn the standard silent form first for reading and writing, but expect to hear the t in Montreal and in the regions."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Les enfants sont à l'école.",
+   "en": "The children are at school.",
+   "note": "liaison: les‿enfants [z]"
+  },
+  {
+   "fr": "Nous avons un petit chat.",
+   "en": "We have a small cat.",
+   "note": "nous‿avons [z], silent t in petit and chat"
+  },
+  {
+   "fr": "Il est deux heures.",
+   "en": "It is two o'clock.",
+   "note": "deux‿heures [z]"
+  },
+  {
+   "fr": "C'est un grand hôtel.",
+   "en": "It's a big hotel.",
+   "note": "grand‿hôtel [t]"
+  },
+  {
+   "fr": "Mon ami habite à Montréal.",
+   "en": "My friend lives in Montreal.",
+   "note": "mon‿ami [n]"
+  },
+  {
+   "fr": "Vous êtes très gentils.",
+   "en": "You are very kind.",
+   "note": "vous‿êtes [z]; silent l and s in gentils"
+  },
+  {
+   "fr": "Ils ont trois enfants.",
+   "en": "They have three children.",
+   "note": "ils‿ont [z], trois‿enfants [z]"
+  },
+  {
+   "fr": "J'ai un sac et un parapluie.",
+   "en": "I have a bag and an umbrella.",
+   "note": "the c in sac is pronounced; no liaison after et"
+  },
+  {
+   "fr": "Les héros sont fatigués.",
+   "en": "The heroes are tired.",
+   "note": "aspirated h: no liaison in les héros"
+  },
+  {
+   "fr": "Je mange avec mon chef.",
+   "en": "I eat with my boss.",
+   "note": "CaReFuL: avec and chef keep the final sound"
+  },
+  {
+   "fr": "C'est tout à fait vrai.",
+   "en": "That's completely true.",
+   "note": "fixed liaison: tout‿à [t]"
+  },
+  {
+   "fr": "Elle a neuf ans.",
+   "en": "She is nine years old.",
+   "note": "neuf ans sounds like [neu-vahn]"
+  },
+  {
+   "fr": "Les petits oiseaux chantent.",
+   "en": "The little birds sing.",
+   "note": "petits‿oiseaux [z]; -ent of chantent is silent"
+  },
+  {
+   "fr": "Il fait beau en avril.",
+   "en": "The weather is nice in April.",
+   "note": "the l in avril is pronounced"
+  },
+  {
+   "fr": "Un étudiant anglais arrive.",
+   "en": "An English student is arriving.",
+   "note": "un‿étudiant [n], but no liaison after the singular noun étudiant"
+  }
+ ],
+ "quebec": {
+  "intro": "In Quebec, some final t's that are silent in standard French are pronounced in everyday speech. You will hear 'toutt', 'litt' and 'nuitt' all the time.",
+  "items": [
+   {
+    "std": "C'est tout.",
+    "qc": "C'est toutt.",
+    "en": "That's all.",
+    "note": "Very common in casual speech"
+   },
+   {
+    "std": "Je vais au lit.",
+    "qc": "J'vas au litt.",
+    "en": "I'm going to bed.",
+    "note": "j'vas is also casual Quebec"
+   },
+   {
+    "std": "Bonne nuit!",
+    "qc": "Bonne nuitt!",
+    "en": "Good night!"
+   },
+   {
+    "std": "Il est debout.",
+    "qc": "Y'é deboutt.",
+    "en": "He's standing up.",
+    "note": "y'é = il est in fast speech"
+   },
+   {
+    "std": "Tout le monde est là.",
+    "qc": "Toutt le monde est là.",
+    "en": "Everyone is here."
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Which letter is silent in 'grand'?",
+   "options": [
+    "g",
+    "r",
+    "n",
+    "d"
+   ],
+   "a": 3,
+   "why": "Final d is silent unless a liaison or an -e follows (grande)."
+  },
+  {
+   "t": "mcq",
+   "q": "How is 'les amis' pronounced?",
+   "options": [
+    "lay a-mee",
+    "lay-za-mee",
+    "less a-mees",
+    "lay-sa-mee"
+   ],
+   "a": 1,
+   "why": "Liaison: the s of les becomes [z] before a vowel."
+  },
+  {
+   "t": "mcq",
+   "q": "In which phrase is liaison forbidden?",
+   "options": [
+    "les enfants",
+    "nous avons",
+    "et un",
+    "un ami"
+   ],
+   "a": 2,
+   "why": "There is never a liaison after et."
+  },
+  {
+   "t": "mcq",
+   "q": "Which word keeps its final consonant sound?",
+   "options": [
+    "parler",
+    "avec",
+    "petit",
+    "trop"
+   ],
+   "a": 1,
+   "why": "C is one of the CaReFuL letters that are usually pronounced."
+  },
+  {
+   "t": "mcq",
+   "q": "In 'un grand homme', the d is pronounced as…",
+   "options": [
+    "[d]",
+    "[t]",
+    "[z]",
+    "silent"
+   ],
+   "a": 1,
+   "why": "In liaison, d sounds like [t]."
+  },
+  {
+   "t": "fill",
+   "q": "Les ___ sont fatigués. (heroes; no liaison!)",
+   "a": [
+    "héros"
+   ],
+   "en": "The heroes are tired.",
+   "why": "Héros starts with an aspirated h, so there is no liaison."
+  },
+  {
+   "t": "fill",
+   "q": "Il est deux ___. (o'clock)",
+   "a": [
+    "heures"
+   ],
+   "en": "It is two o'clock.",
+   "why": "deux‿heures has a [z] liaison."
+  },
+  {
+   "t": "fill",
+   "q": "Elle a ___ ans. (9)",
+   "a": [
+    "neuf"
+   ],
+   "en": "She is nine years old.",
+   "why": "Neuf before ans sounds like [neuv]."
+  },
+  {
+   "t": "build",
+   "en": "We have three children.",
+   "a": "Nous avons trois enfants."
+  },
+  {
+   "t": "build",
+   "en": "My friend lives in Montreal.",
+   "a": "Mon ami habite à Montréal."
+  },
+  {
+   "t": "build",
+   "en": "It's completely true.",
+   "a": "C'est tout à fait vrai."
+  },
+  {
+   "t": "translate",
+   "en": "You are very kind.",
+   "a": [
+    "Vous êtes très gentil.",
+    "Vous êtes très gentils.",
+    "Vous êtes très gentille.",
+    "Vous êtes très gentilles.",
+    "Tu es très gentil.",
+    "Tu es très gentille."
+   ],
+   "why": "vous‿êtes has a [z] liaison."
+  },
+  {
+   "t": "translate",
+   "en": "They have a big hotel.",
+   "a": [
+    "Ils ont un grand hôtel.",
+    "Elles ont un grand hôtel."
+   ],
+   "why": "Three liaisons: ils‿ont, ont‿un, grand‿hôtel."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "l'enfant",
+   "en": "child",
+   "g": "m",
+   "ex": "Les enfants jouent dehors."
+  },
+  {
+   "fr": "l'ami / l'amie",
+   "en": "friend",
+   "ex": "Mon ami s'appelle Marc."
+  },
+  {
+   "fr": "l'heure",
+   "en": "hour, time",
+   "g": "f",
+   "ex": "Il est trois heures."
+  },
+  {
+   "fr": "l'hôtel",
+   "en": "hotel",
+   "g": "m",
+   "ex": "C'est un grand hôtel."
+  },
+  {
+   "fr": "le héros",
+   "en": "hero",
+   "g": "m",
+   "ex": "Les héros sont fatigués."
+  },
+  {
+   "fr": "le lit",
+   "en": "bed",
+   "g": "m",
+   "ex": "Je suis au lit.",
+   "qc": false
+  },
+  {
+   "fr": "la nuit",
+   "en": "night",
+   "g": "f",
+   "ex": "Bonne nuit!"
+  },
+  {
+   "fr": "petit / petite",
+   "en": "small, little",
+   "ex": "Un petit chat."
+  },
+  {
+   "fr": "grand / grande",
+   "en": "big, tall",
+   "ex": "Une grande maison."
+  },
+  {
+   "fr": "gentil / gentille",
+   "en": "kind, nice",
+   "ex": "Elle est très gentille."
+  },
+  {
+   "fr": "avec",
+   "en": "with",
+   "ex": "Je viens avec toi."
+  },
+  {
+   "fr": "trop",
+   "en": "too, too much",
+   "ex": "C'est trop cher."
+  },
+  {
+   "fr": "tout à fait",
+   "en": "completely, exactly",
+   "ex": "Tout à fait d'accord."
+  },
+  {
+   "fr": "debout",
+   "en": "standing, up (out of bed)",
+   "ex": "Je suis debout à six heures."
+  },
+  {
+   "fr": "le chef",
+   "en": "boss, chef",
+   "g": "m",
+   "ex": "Le chef est en réunion."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "petit, petite",
+    "tip": "puh-TEE vs puh-TEET: the -e makes the t audible."
+   },
+   {
+    "fr": "les amis",
+    "tip": "Liaison in [z]: lay-za-MEE."
+   },
+   {
+    "fr": "un grand homme",
+    "tip": "d sounds like [t]: uhn grahn-TOM."
+   },
+   {
+    "fr": "et un",
+    "tip": "No liaison: ay / uhn."
+   },
+   {
+    "fr": "les haricots",
+    "tip": "Aspirated h, no liaison: lay / a-ree-KOH."
+   },
+   {
+    "fr": "neuf ans",
+    "tip": "f becomes [v]: neu-VAHN."
+   },
+   {
+    "fr": "avec, bonjour, neuf, journal",
+    "tip": "CaReFuL: the last sound is pronounced."
+   }
+  ],
+  "title": "Les nouveaux voisins",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Bonjour! Vous êtes les nouveaux voisins?",
+    "en": "Hello! Are you the new neighbours?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui! Nous avons emménagé hier.",
+    "en": "Yes! We moved in yesterday."
+   },
+   {
+    "s": "A",
+    "fr": "Vous avez des enfants?",
+    "en": "Do you have children?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, deux enfants. Ils ont six ans et huit ans.",
+    "en": "Yes, two children. They are six and eight."
+   },
+   {
+    "s": "A",
+    "fr": "Mes enfants ont neuf ans. Ils vont être amis!",
+    "en": "My children are nine. They're going to be friends!"
+   },
+   {
+    "s": "B",
+    "fr": "C'est tout à fait possible!",
+    "en": "That's quite possible!"
+   },
+   {
+    "s": "A",
+    "fr": "Bon, bonne soirée et bonne nuit!",
+    "en": "Well, have a good evening and good night!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "When did the neighbours move in?",
+    "options": [
+     "Today",
+     "Yesterday",
+     "Last week"
+    ],
+    "a": 1
+   },
+   {
+    "q": "How many children do the new neighbours have?",
+    "options": [
+     "One",
+     "Two",
+     "Three"
+    ],
+    "a": 1
+   },
+   {
+    "q": "How old are speaker A's children?",
+    "options": [
+     "Six",
+     "Eight",
+     "Nine"
+    ],
+    "a": 2
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Read aloud, making every required liaison: 'Les enfants ont deux amis.'",
+   "model": "lay-zahn-fahn ont duh-za-mee"
+  },
+  {
+   "prompt": "Say how many children or friends you have, using 'J'ai … enfants / amis'.",
+   "model": "J'ai deux enfants et trois amis à Montréal."
+  },
+  {
+   "prompt": "Say 'That's all, good night' the standard way, then the Quebec way.",
+   "model": "C'est tout, bonne nuit. / C'est toutt, bonne nuitt!"
+  }
+ ],
+ "write": {
+  "prompt": "Write 4–5 sentences about your family or friends. Underline every liaison you would make when reading it aloud.",
+  "model": "J'ai deux enfants. Mes enfants ont six ans et huit ans. Nous avons un petit chat. Mon ami habite à Laval. Il est très gentil."
+ },
+ "quiz": [
+  {
+   "q": "Which final letters are usually pronounced (CaReFuL)?",
+   "options": [
+    "c, r, f, l",
+    "d, t, s, x",
+    "p, b, m, n",
+    "e, s, t, d"
+   ],
+   "a": 0,
+   "why": "C, R, F, L — remember CaReFuL."
+  },
+  {
+   "q": "Why is the r silent in 'parler'?",
+   "options": [
+    "It's a CaReFuL letter",
+    "-er verbs have a silent r",
+    "It's followed by a vowel",
+    "It's Quebec French"
+   ],
+   "a": 1,
+   "why": "The -er infinitive ending sounds like [é]."
+  },
+  {
+   "q": "In liaison, s and x sound like…",
+   "options": [
+    "[s]",
+    "[z]",
+    "[t]",
+    "[ks]"
+   ],
+   "a": 1,
+   "why": "les‿amis, deux‿heures: both [z]."
+  },
+  {
+   "q": "Which phrase has NO liaison?",
+   "options": [
+    "vous avez",
+    "les héros",
+    "un ami",
+    "ils ont"
+   ],
+   "a": 1,
+   "why": "Héros begins with an aspirated h."
+  },
+  {
+   "q": "'Petit' vs 'petite': what changes?",
+   "options": [
+    "Nothing",
+    "The t is pronounced in petite",
+    "The p is silent in petite",
+    "The i becomes nasal"
+   ],
+   "a": 1,
+   "why": "The final -e makes the t audible."
+  },
+  {
+   "q": "How would many Quebecers say 'C'est tout'?",
+   "options": [
+    "C'est too",
+    "C'est toutt",
+    "C'est tousse",
+    "C'est tou-tay"
+   ],
+   "a": 1,
+   "why": "The final t is often pronounced in Quebec speech."
+  },
+  {
+   "q": "Which liaison is required?",
+   "options": [
+    "et / un",
+    "un étudiant / anglais",
+    "nous / avons",
+    "les / haricots"
+   ],
+   "a": 2,
+   "why": "A pronoun and its verb are always linked: nous‿avons."
+  },
+  {
+   "q": "'Neuf ans' is pronounced…",
+   "options": [
+    "neuf-ahn",
+    "neu-vahn",
+    "neu-ahn",
+    "neuf-sahn"
+   ],
+   "a": 1,
+   "why": "Before ans and heures, neuf sounds like [neuv]."
+  },
+  {
+   "q": "Which word ends in a pronounced l?",
+   "options": [
+    "gentil",
+    "outil",
+    "journal",
+    "fusil"
+   ],
+   "a": 2,
+   "why": "Gentil, outil and fusil are exceptions with a silent l."
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Bonjourly">
+  <defs>
+    <linearGradient id="bj-bubble" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3b7bff"/>
+      <stop offset="1" stop-color="#1846c4"/>
+    </linearGradient>
+  </defs>
+  <!-- speech bubble: speaking French -->
+  <path fill="url(#bj-bubble)" d="M18 4h28a14 14 0 0 1 14 14v18a14 14 0 0 1-14 14H27L15 60V49.4A14 14 0 0 1 4 36V18A14 14 0 0 1 18 4Z"/>
+  <!-- sunrise: bonjour today, fluent tomorrow -->
+  <g stroke="#ffd27a" stroke-width="2.6" stroke-linecap="round">
+    <path d="M32 23.5V19.5M22.1 28.1l-2.8-2.8M41.9 28.1l2.8-2.8M18.8 33.2l-3.7-1.4M45.2 33.2l3.7-1.4"/>
+  </g>
+  <path fill="#ffb547" d="M21 38.5a11 11 0 0 1 22 0Z"/>
+  <path d="M13.5 38.5h37" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+  <path d="M23 44h18" stroke="#fff" stroke-width="2.6" stroke-linecap="round" opacity=".55"/>
+</svg>

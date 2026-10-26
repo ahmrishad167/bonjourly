@@ -1,0 +1,683 @@
+{
+ "w": 34,
+ "title": "Passé composé with avoir, regular verbs",
+ "goal": "By the end of this lesson you can talk about what you did with the passé composé (avoir + past participle) of regular -er, -ir and -re verbs, make it negative, ask questions, and understand how it sounds in Quebec speech.",
+ "learn": [
+  {
+   "h": "Avoir + past participle",
+   "body": [
+    "The passé composé is the everyday past tense for completed actions: 'I ate', 'I have eaten', 'I did eat' are all *j'ai mangé*.",
+    "It has two parts: *avoir* in the present (*j'ai, tu as, il a, nous avons, vous avez, ils ont*) + the past participle of the verb."
+   ],
+   "table": {
+    "head": [
+     "Pronoun",
+     "avoir",
+     "+ participle",
+     "English"
+    ],
+    "rows": [
+     [
+      "j'",
+      "ai",
+      "mangé",
+      "I ate"
+     ],
+     [
+      "tu",
+      "as",
+      "fini",
+      "you finished"
+     ],
+     [
+      "il / elle / on",
+      "a",
+      "vendu",
+      "he / she / we sold"
+     ],
+     [
+      "nous",
+      "avons",
+      "parlé",
+      "we spoke"
+     ],
+     [
+      "vous",
+      "avez",
+      "choisi",
+      "you chose"
+     ],
+     [
+      "ils / elles",
+      "ont",
+      "attendu",
+      "they waited"
+     ]
+    ]
+   },
+   "tip": "Two pieces: avoir now + the participle = finished in the past."
+  },
+  {
+   "h": "Making regular past participles",
+   "body": [
+    "-er verbs: replace *-er* with *-é*: *parler → parlé*, *manger → mangé*, *regarder → regardé*. This is the biggest group by far.",
+    "-ir verbs (finir type): replace *-ir* with *-i*: *finir → fini*, *choisir → choisi*, *réussir → réussi*.",
+    "Regular -re verbs: replace *-re* with *-u*: *vendre → vendu*, *attendre → attendu*, *perdre → perdu*, *répondre → répondu*."
+   ],
+   "table": {
+    "head": [
+     "Infinitive ending",
+     "Participle",
+     "Examples"
+    ],
+    "rows": [
+     [
+      "-er",
+      "-é",
+      "parlé, travaillé, acheté"
+     ],
+     [
+      "-ir",
+      "-i",
+      "fini, choisi, dormi"
+     ],
+     [
+      "-re",
+      "-u",
+      "vendu, attendu, perdu"
+     ]
+    ]
+   },
+   "tip": "Parler and parlé sound the same: the spelling tells you which one it is."
+  },
+  {
+   "h": "Negatives, questions and adverbs",
+   "body": [
+    "*Ne … pas* goes around *avoir*, not the participle: *Je n'ai pas mangé.* *Il n'a jamais voyagé.*",
+    "Questions: *Tu as mangé?* *Est-ce que vous avez fini?* *As-tu fini?* *Qu'est-ce que tu as acheté?*",
+    "Short adverbs sit between *avoir* and the participle: *J'ai bien mangé.* *Tu as déjà fini?* *On a beaucoup travaillé.*"
+   ],
+   "table": {
+    "head": [
+     "Form",
+     "Example"
+    ],
+    "rows": [
+     [
+      "Affirmative",
+      "J'ai travaillé."
+     ],
+     [
+      "Negative",
+      "Je n'ai pas travaillé."
+     ],
+     [
+      "Question",
+      "Tu as travaillé?"
+     ],
+     [
+      "Inversion",
+      "As-tu travaillé?"
+     ],
+     [
+      "With an adverb",
+      "J'ai beaucoup travaillé."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Past time words",
+   "body": [
+    "*hier* (yesterday), *hier soir* (last night), *avant-hier* (the day before yesterday), *ce matin*, *la semaine dernière* (last week), *l'année passée* (last year), *il y a deux jours* (two days ago), *déjà* (already), *pas encore* (not yet)."
+   ]
+  },
+  {
+   "h": "Quebec: the spoken passé composé",
+   "body": [
+    "The roadmap mentions vowel length here. The useful Quebec point is simpler: Quebecers keep a crisp, closed *é* at the end of participles (*mangé, parlé*), and *j'ai* is pronounced with the same closed [é]. Pronounce both clearly.",
+    "In conversation, *tu as* becomes *t'as*, *il a* becomes *y'a*, *elle a* becomes *a'l'a*, and *ne* disappears: *T'as mangé? J'ai pas fini.* Quebec meal verbs make perfect practice: *As-tu déjeuné?* (breakfast) *On a dîné à midi.* (lunch) *Avez-vous soupé?* (supper)."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "J'ai mangé une poutine hier soir.",
+   "en": "I ate a poutine last night."
+  },
+  {
+   "fr": "Tu as parlé à ta mère?",
+   "en": "Did you talk to your mother?"
+  },
+  {
+   "fr": "Elle a fini son travail à six heures.",
+   "en": "She finished her work at six."
+  },
+  {
+   "fr": "Nous avons choisi un restaurant libanais.",
+   "en": "We chose a Lebanese restaurant."
+  },
+  {
+   "fr": "Vous avez attendu longtemps?",
+   "en": "Did you wait long?"
+  },
+  {
+   "fr": "Ils ont vendu leur maison l'année passée.",
+   "en": "They sold their house last year."
+  },
+  {
+   "fr": "J'ai perdu mes clés!",
+   "en": "I lost my keys!"
+  },
+  {
+   "fr": "On a regardé un film samedi.",
+   "en": "We watched a movie on Saturday."
+  },
+  {
+   "fr": "Je n'ai pas encore fini.",
+   "en": "I haven't finished yet."
+  },
+  {
+   "fr": "Il n'a jamais visité la Gaspésie.",
+   "en": "He has never visited the Gaspé."
+  },
+  {
+   "fr": "Qu'est-ce que tu as acheté?",
+   "en": "What did you buy?"
+  },
+  {
+   "fr": "On a beaucoup travaillé cette semaine.",
+   "en": "We worked a lot this week.",
+   "note": "adverb between avoir and the participle"
+  },
+  {
+   "fr": "J'ai déjà mangé, merci.",
+   "en": "I've already eaten, thanks."
+  },
+  {
+   "fr": "Elle a répondu il y a deux jours.",
+   "en": "She answered two days ago.",
+   "note": "il y a + time = ago"
+  },
+  {
+   "fr": "Avez-vous soupé?",
+   "en": "Have you had supper?",
+   "note": "souper = Quebec supper"
+  },
+  {
+   "fr": "T'as magasiné en fin de semaine?",
+   "en": "Did you go shopping on the weekend?",
+   "note": "informal Quebec"
+  }
+ ],
+ "quebec": {
+  "intro": "The roadmap's note about vowel length is vague; what really stands out in Quebec is a crisp closed é at the end of participles, shortened pronouns (t'as, y'a, a'l'a) and the meal verbs déjeuner, dîner and souper.",
+  "items": [
+   {
+    "std": "Tu as mangé?",
+    "qc": "T'as mangé?",
+    "en": "Did you eat?",
+    "note": "tu as → t'as, very common"
+   },
+   {
+    "std": "Il a fini.",
+    "qc": "Y'a fini.",
+    "en": "He's finished.",
+    "note": "il a → y'a in fast speech"
+   },
+   {
+    "std": "Elle a acheté une voiture.",
+    "qc": "A'l'a acheté un char.",
+    "en": "She bought a car.",
+    "note": "elle a → a'l'a; un char = a car; informal"
+   },
+   {
+    "std": "Je n'ai pas fini.",
+    "qc": "J'ai pas fini.",
+    "en": "I haven't finished.",
+    "note": "ne dropped"
+   },
+   {
+    "std": "Avez-vous dîné? (lunch)",
+    "qc": "Avez-vous dîné?",
+    "en": "Have you had lunch?",
+    "note": "in Quebec, dîner = lunch; in France it's supper"
+   },
+   {
+    "std": "Nous avons mangé.",
+    "qc": "On a mangé.",
+    "en": "We ate.",
+    "note": "on a replaces nous avons in speech"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Past participle of 'choisir':",
+   "options": [
+    "choisé",
+    "choisi",
+    "choisu",
+    "choisit"
+   ],
+   "a": 1,
+   "why": "-ir verbs → -i."
+  },
+  {
+   "t": "mcq",
+   "q": "Past participle of 'attendre':",
+   "options": [
+    "attendé",
+    "attendi",
+    "attendu",
+    "attendre"
+   ],
+   "a": 2,
+   "why": "-re verbs → -u."
+  },
+  {
+   "t": "mcq",
+   "q": "Which negative is correct?",
+   "options": [
+    "Je n'ai mangé pas.",
+    "Je n'ai pas mangé.",
+    "Je ne pas ai mangé.",
+    "J'ai ne pas mangé."
+   ],
+   "a": 1,
+   "why": "ne … pas goes around avoir."
+  },
+  {
+   "t": "mcq",
+   "q": "'T'as dîné?' in Quebec asks…",
+   "options": [
+    "Did you have supper?",
+    "Did you have lunch?",
+    "Did you have breakfast?",
+    "Are you hungry?"
+   ],
+   "a": 1,
+   "why": "Quebec dîner = lunch."
+  },
+  {
+   "t": "fill",
+   "q": "Nous ___ parlé au prof.",
+   "a": [
+    "avons"
+   ],
+   "en": "We spoke to the teacher.",
+   "why": "nous avons."
+  },
+  {
+   "t": "fill",
+   "q": "Ils ont ___ leur maison. (vendre)",
+   "a": [
+    "vendu"
+   ],
+   "en": "They sold their house.",
+   "why": "vendre → vendu."
+  },
+  {
+   "t": "fill",
+   "q": "J'ai ___ mes clés! (perdre)",
+   "a": [
+    "perdu"
+   ],
+   "en": "I lost my keys!",
+   "why": "perdre → perdu."
+  },
+  {
+   "t": "fill",
+   "q": "Elle a ___ son travail. (finir)",
+   "a": [
+    "fini"
+   ],
+   "en": "She finished her work.",
+   "why": "finir → fini."
+  },
+  {
+   "t": "fill",
+   "q": "On a beaucoup ___ . (travailler)",
+   "a": [
+    "travaillé"
+   ],
+   "en": "We worked a lot.",
+   "why": "-er → -é."
+  },
+  {
+   "t": "build",
+   "en": "I haven't finished yet.",
+   "a": "Je n'ai pas encore fini."
+  },
+  {
+   "t": "build",
+   "en": "What did you buy?",
+   "a": "Qu'est-ce que tu as acheté?"
+  },
+  {
+   "t": "translate",
+   "en": "I ate a poutine yesterday.",
+   "a": [
+    "J'ai mangé une poutine hier.",
+    "Hier, j'ai mangé une poutine."
+   ],
+   "why": "avoir + mangé."
+  },
+  {
+   "t": "translate",
+   "en": "Did you wait long?",
+   "a": [
+    "Tu as attendu longtemps?",
+    "Vous avez attendu longtemps?",
+    "As-tu attendu longtemps?",
+    "Avez-vous attendu longtemps?",
+    "Est-ce que tu as attendu longtemps?",
+    "Est-ce que vous avez attendu longtemps?",
+    "T'as attendu longtemps?"
+   ],
+   "why": "attendre → attendu."
+  },
+  {
+   "t": "translate",
+   "en": "We watched a movie.",
+   "a": [
+    "On a regardé un film.",
+    "Nous avons regardé un film.",
+    "On a écouté un film."
+   ],
+   "why": "regarder → regardé. (Quebecers also say écouter un film.)"
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "hier",
+   "en": "yesterday",
+   "ex": "Hier, j'ai travaillé."
+  },
+  {
+   "fr": "hier soir",
+   "en": "last night",
+   "ex": "Hier soir, on a soupé chez Luc."
+  },
+  {
+   "fr": "avant-hier",
+   "en": "the day before yesterday",
+   "ex": "Il a appelé avant-hier."
+  },
+  {
+   "fr": "la semaine dernière",
+   "en": "last week",
+   "g": "f",
+   "ex": "J'ai visité Québec la semaine dernière."
+  },
+  {
+   "fr": "l'année passée",
+   "en": "last year",
+   "g": "f",
+   "ex": "Ils ont vendu la maison l'année passée."
+  },
+  {
+   "fr": "il y a (+ time)",
+   "en": "ago",
+   "ex": "Il y a deux jours."
+  },
+  {
+   "fr": "déjà",
+   "en": "already; ever",
+   "ex": "Tu as déjà mangé?"
+  },
+  {
+   "fr": "pas encore",
+   "en": "not yet",
+   "ex": "Je n'ai pas encore fini."
+  },
+  {
+   "fr": "longtemps",
+   "en": "a long time",
+   "ex": "On a attendu longtemps."
+  },
+  {
+   "fr": "attendre",
+   "en": "to wait (for)",
+   "ex": "J'ai attendu l'autobus."
+  },
+  {
+   "fr": "perdre",
+   "en": "to lose",
+   "ex": "J'ai perdu mon téléphone."
+  },
+  {
+   "fr": "vendre",
+   "en": "to sell",
+   "ex": "Il a vendu son char."
+  },
+  {
+   "fr": "répondre (à)",
+   "en": "to answer",
+   "ex": "Elle a répondu au courriel."
+  },
+  {
+   "fr": "dîner",
+   "en": "to have lunch (Quebec)",
+   "ex": "On a dîné à midi.",
+   "qc": true
+  },
+  {
+   "fr": "souper",
+   "en": "to have supper (Quebec)",
+   "ex": "Avez-vous soupé?",
+   "qc": true
+  },
+  {
+   "fr": "le char",
+   "en": "car (informal)",
+   "g": "m",
+   "ex": "Mon char est au garage.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "j'ai mangé",
+    "tip": "zhé-mahn-ZHÉ: two crisp closed é sounds."
+   },
+   {
+    "fr": "nous avons parlé",
+    "tip": "noo-za-von-par-LÉ: liaison in [z]."
+   },
+   {
+    "fr": "ils ont fini",
+    "tip": "eel-ZON: liaison makes ils ont [z] different from ils sont [s]."
+   },
+   {
+    "fr": "vous avez attendu",
+    "tip": "voo-za-vé-za-tahn-DÜ: two liaisons."
+   },
+   {
+    "fr": "t'as",
+    "tip": "Quebec: TÂ, long and back."
+   },
+   {
+    "fr": "a'l'a",
+    "tip": "Quebec: a-LA = elle a."
+   }
+  ],
+  "title": "Ta fin de semaine?",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Pis, t'as passé une bonne fin de semaine?",
+    "en": "So, did you have a good weekend?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui! Samedi, j'ai magasiné avec ma sœur. J'ai acheté des bottes.",
+    "en": "Yes! On Saturday, I went shopping with my sister. I bought boots."
+   },
+   {
+    "s": "A",
+    "fr": "Le fun! Et dimanche?",
+    "en": "Fun! And Sunday?"
+   },
+   {
+    "s": "B",
+    "fr": "Dimanche, on a soupé chez mes parents. Mon père a cuisiné un pâté chinois.",
+    "en": "On Sunday, we had supper at my parents'. My father cooked a shepherd's pie."
+   },
+   {
+    "s": "A",
+    "fr": "Miam! Moi, j'ai pas fait grand-chose. J'ai regardé le hockey.",
+    "en": "Yum! Me, I didn't do much. I watched hockey."
+   },
+   {
+    "s": "B",
+    "fr": "Les Canadiens ont gagné?",
+    "en": "Did the Canadiens win?"
+   },
+   {
+    "s": "A",
+    "fr": "Non, ils ont perdu quatre à deux. C'est plate.",
+    "en": "No, they lost four to two. Too bad."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What did B buy on Saturday?",
+    "options": [
+     "A coat",
+     "Boots",
+     "A toque"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Who cooked on Sunday?",
+    "options": [
+     "B's mother",
+     "B's father",
+     "B's sister"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What was the hockey score?",
+    "options": [
+     "4–2 win",
+     "4–2 loss",
+     "2–2 tie"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Say three things you did yesterday.",
+   "model": "Hier, j'ai travaillé de neuf heures à cinq heures. J'ai soupé avec ma famille. J'ai regardé un film."
+  },
+  {
+   "prompt": "Say two things you haven't done yet this lesson.",
+   "model": "Je n'ai pas encore fait l'épicerie et je n'ai pas encore appelé ma mère."
+  },
+  {
+   "prompt": "Ask a colleague if they've had lunch, the Quebec way, and answer.",
+   "model": "T'as dîné? — Oui, j'ai mangé une soupe à midi."
+  }
+ ],
+ "write": {
+  "prompt": "Write 6 sentences about last weekend using at least five different regular verbs in the passé composé.",
+  "model": "Samedi matin, j'ai joué au tennis avec mon ami. L'après-midi, nous avons magasiné en ville. J'ai acheté une tuque. Le soir, on a soupé au restaurant et on a choisi un bon vin. Dimanche, j'ai attendu l'autobus trente minutes! Ensuite, j'ai fini mon livre."
+ },
+ "quiz": [
+  {
+   "q": "The passé composé uses ___ + past participle (for most verbs).",
+   "options": [
+    "être",
+    "avoir",
+    "aller",
+    "faire"
+   ],
+   "a": 1,
+   "why": "Most verbs use avoir."
+  },
+  {
+   "q": "Participle of 'répondre':",
+   "options": [
+    "répondé",
+    "répondi",
+    "répondu",
+    "réponse"
+   ],
+   "a": 2,
+   "why": "-re → -u."
+  },
+  {
+   "q": "'Il y a trois jours' means…",
+   "options": [
+    "There are three days",
+    "Three days ago",
+    "In three days",
+    "For three days"
+   ],
+   "a": 1,
+   "why": "il y a + time in the past = ago."
+  },
+  {
+   "q": "Where does 'déjà' go in 'Tu as fini'?",
+   "options": [
+    "Tu déjà as fini",
+    "Tu as déjà fini",
+    "Tu as fini déjà only",
+    "Déjà tu as fini only"
+   ],
+   "a": 1,
+   "why": "Short adverbs go between avoir and the participle."
+  },
+  {
+   "q": "In Quebec, 'souper' is…",
+   "options": [
+    "breakfast",
+    "lunch",
+    "supper",
+    "a soup"
+   ],
+   "a": 2,
+   "why": "déjeuner, dîner, souper = breakfast, lunch, supper."
+  },
+  {
+   "q": "'Ils ont' vs 'ils sont': the difference you hear is…",
+   "options": [
+    "none",
+    "[z] vs [s]",
+    "a nasal vowel",
+    "the final t"
+   ],
+   "a": 1,
+   "why": "ils‿ont [z] / ils sont [s]."
+  },
+  {
+   "q": "'J'ai mangé' can translate as…",
+   "options": [
+    "I ate / I have eaten",
+    "I'm eating",
+    "I will eat",
+    "I used to eat"
+   ],
+   "a": 0,
+   "why": "One French form covers several English pasts."
+  },
+  {
+   "q": "'Y'a fini' in Quebec speech means…",
+   "options": [
+    "There's an end",
+    "He finished",
+    "It's all finished forever",
+    "Are you done?"
+   ],
+   "a": 1,
+   "why": "y'a = il a in fast speech."
+  }
+ ]
+}

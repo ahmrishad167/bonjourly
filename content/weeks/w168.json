@@ -1,0 +1,658 @@
+{
+ "w": 168,
+ "title": "B2 milestone test",
+ "goal": "By the end of this lesson you have held a twenty-minute conversation entirely in French on personal, professional and social topics, and completed a final mixed test covering the whole B2 phase.",
+ "learn": [
+  {
+   "h": "The milestone: twenty minutes in French",
+   "body": [
+    "The milestone is a conversation with a French speaker (a tutor, a colleague, a friend or a conversation group) lasting twenty minutes with no English. It has four phases: *1. présentation et parcours* (3–4 min), *2. vie au Québec et travail* (5 min), *3. débat sur un enjeu de société* (6–7 min), *4. projets et conclusion* (3–4 min).",
+    "Ask your partner to note your three most frequent errors and the moments where you hesitated. These notes are your study plan after B2."
+   ],
+   "table": {
+    "head": [
+     "Phase",
+     "Topics",
+     "Target structures"
+    ],
+    "rows": [
+     [
+      "Parcours",
+      "origins, arrival, learning French",
+      "passé composé / imparfait, depuis, il y a"
+     ],
+     [
+      "Vie et travail",
+      "job, neighbourhood, Quebec habits",
+      "relative pronouns, comparisons, Quebec vocabulary"
+     ],
+     [
+      "Débat",
+      "a current issue (housing, language, climate)",
+      "subjunctive, concession, hedging, rebuttal"
+     ],
+     [
+      "Projets",
+      "goals, plans, hypotheses",
+      "future, conditional, si-clauses"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "What B2 sounds like",
+   "body": [
+    "B2 doesn't mean perfect. It means you can talk spontaneously and at length on familiar and abstract topics, defend a point of view, give advantages and disadvantages, and interact without strain for either side.",
+    "Self-check criteria: *aisance* (fluency), *étendue* (range of vocabulary and structures), *correction* (accuracy), *interaction* (turn-taking, asking for clarification) and *cohérence* (connectors, structure)."
+   ]
+  },
+  {
+   "h": "Conversation strategies",
+   "body": [
+    "Keep the conversation going: ask questions back (*Et vous, qu'en pensez-vous?*), react (*Ah, c'est intéressant, ça!*, *Je n'avais jamais vu ça sous cet angle*), and build on what was said (*Pour rebondir sur ce que vous disiez…*).",
+    "Repair breakdowns in French: *Je cherche le mot…*, *C'est comme un…*, *Pardon, je reformule*, *Vous voulez dire que…?*. Never switch to English; paraphrase instead."
+   ],
+   "tip": "Pour rebondir sur ce que vous disiez… is the B2 phrase that turns a Q&A into a real conversation."
+  },
+  {
+   "h": "After B2",
+   "body": [
+    "To keep progressing toward C1: read one long article a day (*Le Devoir, La Presse*), listen to long-form podcasts and radio, watch Quebec series without subtitles, write regularly and get corrections, and keep your *carnet d'erreurs*.",
+    "Consider an official exam (TEFAQ, TCF Québec, DELF B2) to certify your level for work or immigration."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Je suis arrivé au Québec il y a cinq ans, et j'apprends le français depuis trois ans.",
+   "en": "I arrived in Quebec five years ago, and I've been learning French for three years.",
+   "note": "il y a vs depuis"
+  },
+  {
+   "fr": "Quand je suis arrivé, je ne comprenais presque rien de ce que les gens disaient.",
+   "en": "When I arrived, I understood almost nothing of what people said.",
+   "note": "passé composé + imparfait + ce que"
+  },
+  {
+   "fr": "Le quartier où j'habite est très vivant, surtout l'été.",
+   "en": "The neighbourhood where I live is very lively, especially in summer.",
+   "note": "où as a relative of place"
+  },
+  {
+   "fr": "Ce qui me plaît le plus dans mon travail, c'est le contact avec les clients.",
+   "en": "What I like most about my job is the contact with clients.",
+   "note": "ce qui… c'est"
+  },
+  {
+   "fr": "Pour rebondir sur ce que vous disiez, je pense que le logement est l'enjeu principal.",
+   "en": "To pick up on what you were saying, I think housing is the main issue.",
+   "note": "building on the other speaker"
+  },
+  {
+   "fr": "Il faut que le gouvernement agisse, bien que les solutions soient coûteuses.",
+   "en": "The government has to act, although the solutions are costly.",
+   "note": "subjunctive ×2"
+  },
+  {
+   "fr": "Je ne suis pas certain que l'interdiction soit la meilleure approche.",
+   "en": "I'm not sure a ban is the best approach.",
+   "note": "hedged disagreement"
+  },
+  {
+   "fr": "Je vous accorde que c'est un vrai problème, mais je vois les choses autrement.",
+   "en": "I'll grant you it's a real problem, but I see things differently.",
+   "note": "concession + soft disagreement"
+  },
+  {
+   "fr": "Je cherche le mot… c'est l'endroit où on dépose les déchets recyclables.",
+   "en": "I'm looking for the word… it's the place where you drop off recyclables.",
+   "note": "paraphrasing a missing word (l'écocentre)"
+  },
+  {
+   "fr": "Vous voulez dire que la ville devrait taxer les voitures?",
+   "en": "You mean the city should tax cars?",
+   "note": "checking understanding"
+  },
+  {
+   "fr": "Si j'en avais l'occasion, j'aimerais travailler en région quelques années.",
+   "en": "If I had the chance, I'd like to work outside the big cities for a few years.",
+   "note": "si + imparfait → conditionnel; en région (Quebec)"
+  },
+  {
+   "fr": "D'ici deux ans, j'aurai passé un examen officiel.",
+   "en": "Within two years, I'll have taken an official exam.",
+   "note": "futur antérieur"
+  },
+  {
+   "fr": "Je n'avais jamais vu ça sous cet angle.",
+   "en": "I'd never looked at it from that angle.",
+   "note": "reacting to the other speaker"
+  },
+  {
+   "fr": "Et vous, qu'en pensez-vous?",
+   "en": "And you, what do you think about it?",
+   "note": "en = about it; keeps the conversation going"
+  },
+  {
+   "fr": "Merci pour cette belle conversation, ça m'a fait vraiment plaisir.",
+   "en": "Thank you for this lovely conversation, I really enjoyed it.",
+   "note": "closing politely"
+  }
+ ],
+ "quebec": {
+  "intro": "Your milestone partner may well be a Quebecer speaking naturally. These are the conversational features most likely to come up; recognise them, and use the ones marked familiar only if the conversation is relaxed.",
+  "items": [
+   {
+    "std": "Qu'est-ce que tu fais dans la vie?",
+    "qc": "Tu fais quoi dans vie?",
+    "en": "What do you do for a living?",
+    "note": "dans la → dans (fast speech, informal)"
+   },
+   {
+    "std": "Ça fait longtemps que tu habites ici?",
+    "qc": "Ça fait-tu longtemps que tu restes icitte?",
+    "en": "Have you lived here long?",
+    "note": "rester = to live (somewhere) in Quebec; icitte, -tu: familiar"
+   },
+   {
+    "std": "C'est vraiment intéressant.",
+    "qc": "C'est ben intéressant, ça.",
+    "en": "That's really interesting.",
+    "note": "final ça for emphasis is very common"
+   },
+   {
+    "std": "Je suis d'accord avec toi.",
+    "qc": "Chu ben d'accord avec toi.",
+    "en": "I totally agree with you.",
+    "note": "familiar"
+   },
+   {
+    "std": "Il n'y a pas de quoi.",
+    "qc": "Bienvenue!",
+    "en": "You're welcome!",
+    "note": "Quebec reply to merci"
+   },
+   {
+    "std": "À la prochaine!",
+    "qc": "À la revoyure!",
+    "en": "See you next time!",
+    "note": "à la revoyure: folksy, humorous"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "J'habite à Montréal ___ cinq ans. (still living there)",
+   "options": [
+    "il y a",
+    "depuis",
+    "pendant",
+    "dans"
+   ],
+   "a": 1,
+   "why": "depuis for an ongoing situation."
+  },
+  {
+   "t": "mcq",
+   "q": "Which phrase builds on what your partner said?",
+   "options": [
+    "Je ne sais pas.",
+    "Pour rebondir sur ce que vous disiez…",
+    "Au revoir.",
+    "C'est faux."
+   ],
+   "a": 1,
+   "why": "It links your turn to theirs."
+  },
+  {
+   "t": "mcq",
+   "q": "In Quebec, 'Je reste à Laval' usually means…",
+   "options": [
+    "I'm staying in Laval temporarily",
+    "I live in Laval",
+    "I'm stuck in Laval",
+    "I rest in Laval"
+   ],
+   "a": 1,
+   "why": "rester = habiter in Quebec usage."
+  },
+  {
+   "t": "mcq",
+   "q": "If you forget a word in the milestone, you should…",
+   "options": [
+    "switch to English",
+    "stop talking",
+    "paraphrase it in French",
+    "change the topic"
+   ],
+   "a": 2,
+   "why": "C'est l'endroit où… / c'est une sorte de…"
+  },
+  {
+   "t": "fill",
+   "q": "Il faut que la ville ___ plus de logements. (construire)",
+   "a": [
+    "construise"
+   ],
+   "en": "The city needs to build more housing.",
+   "why": "il faut que + subjunctive."
+  },
+  {
+   "t": "fill",
+   "q": "Si j'en avais l'occasion, j'___ en région. (aller, conditional)",
+   "a": [
+    "irais"
+   ],
+   "en": "If I had the chance, I'd go to the regions.",
+   "why": "si + imparfait → conditionnel."
+  },
+  {
+   "t": "fill",
+   "q": "___ qui me plaît, c'est le contact humain.",
+   "a": [
+    "Ce"
+   ],
+   "en": "What I like is human contact.",
+   "why": "ce qui… c'est."
+  },
+  {
+   "t": "fill",
+   "q": "D'ici deux ans, j'___ passé un examen. (avoir, futur antérieur)",
+   "a": [
+    "aurai"
+   ],
+   "en": "Within two years, I'll have taken an exam.",
+   "why": "futur antérieur: aurai + participle."
+  },
+  {
+   "t": "fill",
+   "q": "Et vous, qu'___ pensez-vous?",
+   "a": [
+    "en"
+   ],
+   "en": "And you, what do you think about it?",
+   "why": "penser de quelque chose → en penser."
+  },
+  {
+   "t": "build",
+   "en": "I'd never seen it from that angle.",
+   "a": "Je n'avais jamais vu ça sous cet angle."
+  },
+  {
+   "t": "build",
+   "en": "You mean the city should act?",
+   "a": "Vous voulez dire que la ville devrait agir?"
+  },
+  {
+   "t": "build",
+   "en": "I arrived in Quebec five years ago.",
+   "a": "Je suis arrivé au Québec il y a cinq ans."
+  },
+  {
+   "t": "translate",
+   "en": "What do you do for a living?",
+   "a": [
+    "Qu'est-ce que tu fais dans la vie?",
+    "Qu'est-ce que vous faites dans la vie?",
+    "Que faites-vous dans la vie?",
+    "Tu fais quoi dans la vie?",
+    "Vous faites quoi dans la vie?"
+   ],
+   "why": "dans la vie = for a living."
+  },
+  {
+   "t": "translate",
+   "en": "I'm not sure it's the best solution.",
+   "a": [
+    "Je ne suis pas sûr que ce soit la meilleure solution.",
+    "Je ne suis pas sûre que ce soit la meilleure solution.",
+    "Je ne suis pas certain que ce soit la meilleure solution.",
+    "Je ne suis pas certaine que ce soit la meilleure solution.",
+    "Je suis pas sûr que ce soit la meilleure solution."
+   ],
+   "why": "Negative certainty → subjunctive."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "l'aisance",
+   "en": "fluency, ease",
+   "g": "f",
+   "ex": "Il parle avec beaucoup d'aisance."
+  },
+  {
+   "fr": "rebondir sur",
+   "en": "to pick up on, build on",
+   "ex": "J'aimerais rebondir sur votre remarque."
+  },
+  {
+   "fr": "sous cet angle",
+   "en": "from that angle",
+   "ex": "Je n'avais pas vu la question sous cet angle."
+  },
+  {
+   "fr": "l'enjeu de société",
+   "en": "social issue",
+   "g": "m",
+   "ex": "Le logement est un grand enjeu de société."
+  },
+  {
+   "fr": "en région",
+   "en": "outside the major cities (Quebec)",
+   "ex": "Beaucoup de jeunes s'installent en région.",
+   "qc": true
+  },
+  {
+   "fr": "rester",
+   "en": "to live (somewhere), Quebec usage",
+   "ex": "Je reste à Longueuil depuis deux ans.",
+   "qc": true
+  },
+  {
+   "fr": "l'écocentre",
+   "en": "drop-off centre for recyclables, bulky waste",
+   "g": "m",
+   "ex": "J'ai apporté ma vieille télé à l'écocentre.",
+   "qc": true
+  },
+  {
+   "fr": "dans la vie",
+   "en": "for a living",
+   "ex": "Qu'est-ce que tu fais dans la vie?"
+  },
+  {
+   "fr": "le palier",
+   "en": "level, stage",
+   "g": "m",
+   "ex": "Tu as atteint un nouveau palier."
+  },
+  {
+   "fr": "atteindre",
+   "en": "to reach, achieve",
+   "ex": "J'ai atteint le niveau B2."
+  },
+  {
+   "fr": "le niveau",
+   "en": "level",
+   "g": "m",
+   "ex": "Quel est ton niveau de français?"
+  },
+  {
+   "fr": "maintenir",
+   "en": "to maintain, keep up",
+   "ex": "Il faut maintenir ses acquis."
+  },
+  {
+   "fr": "les acquis",
+   "en": "what has been learned, achievements",
+   "g": "m",
+   "ex": "Pour garder tes acquis, lis tous les jours."
+  },
+  {
+   "fr": "à la revoyure",
+   "en": "see you again (folksy, humorous)",
+   "ex": "Bon ben, à la revoyure!",
+   "qc": true
+  },
+  {
+   "fr": "faire plaisir",
+   "en": "to please, be a pleasure",
+   "ex": "Ça m'a fait plaisir de te parler."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "pour rebondir sur",
+    "tip": "poor-ruh-bon-DIR-syr."
+   },
+   {
+    "fr": "qu'en pensez-vous",
+    "tip": "kan-pan-sé-VOO."
+   },
+   {
+    "fr": "dans vie",
+    "tip": "dan-VI: Quebec fast speech for dans la vie."
+   },
+   {
+    "fr": "ça fait-tu longtemps",
+    "tip": "sa-fè-TU-lon-TAN: -tu question particle."
+   },
+   {
+    "fr": "aisance",
+    "tip": "è-ZANSS."
+   },
+   {
+    "fr": "j'aurai passé",
+    "tip": "jo-ré-pa-SÉ: futur antérieur."
+   }
+  ],
+  "title": "La conversation du jalon B2",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Alors, pour commencer, parle-moi un peu de ton parcours.",
+    "en": "So, to start, tell me a bit about your journey."
+   },
+   {
+    "s": "B",
+    "fr": "Je suis arrivé à Montréal il y a cinq ans. Au début, je travaillais surtout en anglais, mais je me sentais un peu à l'écart.",
+    "en": "I arrived in Montreal five years ago. At first I worked mostly in English, but I felt a bit left out."
+   },
+   {
+    "s": "A",
+    "fr": "Et qu'est-ce qui t'a poussé à apprendre le français sérieusement?",
+    "en": "And what pushed you to learn French seriously?"
+   },
+   {
+    "s": "B",
+    "fr": "Une réunion où je n'ai rien compris! C'est là que je me suis dit : il faut que ça change.",
+    "en": "A meeting where I understood nothing! That's when I told myself: this has to change."
+   },
+   {
+    "s": "A",
+    "fr": "Parlons d'un enjeu de société. Qu'est-ce que tu penses de la crise du logement?",
+    "en": "Let's talk about a social issue. What do you think of the housing crisis?"
+   },
+   {
+    "s": "B",
+    "fr": "Je pense que c'est l'enjeu principal. Bien que les gouvernements aient annoncé des mesures, les loyers continuent d'augmenter.",
+    "en": "I think it's the main issue. Although governments have announced measures, rents keep rising."
+   },
+   {
+    "s": "A",
+    "fr": "Certains disent que la solution, c'est de construire plus, tout simplement.",
+    "en": "Some say the solution is simply to build more."
+   },
+   {
+    "s": "B",
+    "fr": "Je vous accorde que c'est nécessaire… pardon, je te l'accorde! Mais il faudrait aussi protéger les locataires.",
+    "en": "I'll grant you that it's necessary… sorry, I'll grant you (tu)! But tenants should also be protected."
+   },
+   {
+    "s": "A",
+    "fr": "Ha! Et tes projets pour la suite?",
+    "en": "Ha! And your plans for the future?"
+   },
+   {
+    "s": "B",
+    "fr": "D'ici deux ans, j'aurai passé le TEFAQ. Et si j'en ai l'occasion, j'aimerais travailler en région.",
+    "en": "Within two years, I'll have taken the TEFAQ. And if I get the chance, I'd like to work in the regions."
+   },
+   {
+    "s": "A",
+    "fr": "Bravo. Vingt minutes, et pas un mot d'anglais!",
+    "en": "Well done. Twenty minutes, and not one word of English!"
+   },
+   {
+    "s": "B",
+    "fr": "Merci! Ça m'a fait vraiment plaisir.",
+    "en": "Thanks! I really enjoyed it."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What made B decide to learn French seriously?",
+    "options": [
+     "A job offer",
+     "A meeting where he understood nothing",
+     "A trip to France"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does B add to the 'build more' solution?",
+    "options": [
+     "Lower taxes",
+     "Protecting tenants",
+     "Building fewer condos"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does B plan to do within two years?",
+    "options": [
+     "Move to France",
+     "Take the TEFAQ",
+     "Buy a house"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Phase 1 (3–4 min): Present your background and how you learned French. Use il y a, depuis, the passé composé and the imparfait.",
+   "model": "Je suis arrivé au Québec il y a cinq ans. À l'époque, je ne parlais presque pas français et je travaillais en anglais. J'apprends le français depuis trois ans; au début, c'était difficile, mais je me suis accroché. Aujourd'hui, je peux suivre une réunion, lire le journal et discuter avec mes voisins."
+  },
+  {
+   "prompt": "Phase 3 (6–7 min): Debate a social issue of your choice (housing, French in Montreal, climate, remote work). Give a position, arguments, a concession and respond to an objection.",
+   "model": "À mon avis, la protection du français à Montréal est légitime, bien qu'elle soulève des débats. D'une part, le français est la langue commune du Québec; d'autre part, Montréal est une ville très multilingue. Je vous accorde que certaines règles peuvent sembler lourdes pour les entreprises. Toutefois, sans mesures concrètes, il se pourrait que le français recule. Et vous, qu'en pensez-vous?"
+  },
+  {
+   "prompt": "Phase 4 (3–4 min): Talk about your plans using the future, the futur antérieur and si-clauses.",
+   "model": "L'an prochain, je passerai le TEFAQ. D'ici deux ans, j'aurai lu au moins dix romans québécois. Si j'en avais l'occasion, j'aimerais aussi travailler quelques années à Québec ou au Saguenay."
+  },
+  {
+   "prompt": "Practise repairs: you've forgotten the word 'écocentre' and you didn't understand a question.",
+   "model": "Je cherche le mot… c'est l'endroit où on apporte les vieux meubles et les produits dangereux. / Pardon, vous voulez dire que…? Pourriez-vous reformuler?"
+  }
+ ],
+ "write": {
+  "prompt": "After your milestone conversation, write a 150–200-word self-assessment in French: what went well, your three most frequent errors (from your partner's notes), and your plan to reach C1.",
+  "model": "Aujourd'hui, j'ai tenu une conversation de vingt minutes entièrement en français, ce qui aurait été impensable il y a trois ans. Ce qui s'est bien passé : j'ai parlé avec aisance de mon parcours et de mon travail, et j'ai su défendre mon point de vue sur la crise du logement. J'ai aussi réussi à reformuler quand il me manquait un mot. Ma partenaire a toutefois relevé trois erreurs récurrentes. D'abord, je confonds encore « depuis » et « il y a ». Ensuite, j'oublie parfois le subjonctif après « il faut que ». Enfin, je mélange tu et vous quand je suis nerveux. Pour atteindre le niveau C1, je vais lire un article du Devoir chaque jour, écouter des balados de Radio-Canada sans transcription et écrire un court texte par semaine que je ferai corriger. Je continuerai aussi à tenir mon carnet d'erreurs. Bref, le niveau B2 n'est pas une fin, mais un nouveau point de départ."
+ },
+ "quiz": [
+  {
+   "q": "Which phrase keeps a conversation going?",
+   "options": [
+    "Bon, c'est tout.",
+    "Et vous, qu'en pensez-vous?",
+    "Je ne sais pas.",
+    "OK."
+   ],
+   "a": 1,
+   "why": "It hands the turn back with a question."
+  },
+  {
+   "q": "'Il y a trois ans' vs 'depuis trois ans': which describes an ongoing situation?",
+   "options": [
+    "il y a",
+    "depuis",
+    "both",
+    "neither"
+   ],
+   "a": 1,
+   "why": "depuis + present for ongoing; il y a = ago."
+  },
+  {
+   "q": "Which is an example of the futur antérieur?",
+   "options": [
+    "j'aurai fini",
+    "j'aurais fini",
+    "j'avais fini",
+    "j'eus fini"
+   ],
+   "a": 0,
+   "why": "future of avoir + participle."
+  },
+  {
+   "q": "'En région' in Quebec means…",
+   "options": [
+    "in a specific region only",
+    "outside the major urban centres",
+    "in the province of Quebec",
+    "abroad"
+   ],
+   "a": 1,
+   "why": "Les régions = everywhere outside Montreal and Quebec City."
+  },
+  {
+   "q": "What does B2 NOT require?",
+   "options": [
+    "Defending a point of view",
+    "Spontaneous interaction",
+    "Perfect accuracy",
+    "Talking about abstract topics"
+   ],
+   "a": 2,
+   "why": "Errors are allowed if they don't block communication."
+  },
+  {
+   "q": "Bien que les mesures ___ annoncées, les loyers augmentent.",
+   "options": [
+    "ont été",
+    "aient été",
+    "seront",
+    "étaient"
+   ],
+   "a": 1,
+   "why": "bien que + subjunctive (past)."
+  },
+  {
+   "q": "'Bienvenue' in reply to 'merci' is…",
+   "options": [
+    "Quebec usage for you're welcome",
+    "a greeting only",
+    "an error",
+    "used in France only"
+   ],
+   "a": 0,
+   "why": "Typical Quebec reply."
+  },
+  {
+   "q": "Best way to continue learning after B2?",
+   "options": [
+    "Stop and rest",
+    "Daily reading and listening, regular writing with corrections",
+    "Only grammar drills",
+    "Only watching films with English subtitles"
+   ],
+   "a": 1,
+   "why": "Varied, daily, authentic input plus corrected output."
+  },
+  {
+   "q": "'Je n'avais jamais vu ça sous cet angle' is used to…",
+   "options": [
+    "disagree strongly",
+    "show the other person gave you a new perspective",
+    "end the conversation",
+    "ask for repetition"
+   ],
+   "a": 1,
+   "why": "A positive reaction that keeps the conversation flowing."
+  },
+  {
+   "q": "'Tu fais quoi dans vie?' is…",
+   "options": [
+    "a grammar error to correct",
+    "fast, informal Quebec speech for 'what do you do for a living?'",
+    "a question about your health",
+    "a formal question"
+   ],
+   "a": 1,
+   "why": "dans la vie reduced to dans vie."
+  }
+ ]
+}

@@ -1,0 +1,659 @@
+{
+ "w": 100,
+ "title": "Expressing cause and effect",
+ "goal": "By the end of this lesson you can explain causes and consequences in several registers, from à cause de, grâce à, vu que and c'est pour ça que to par conséquent and entraîner, and you know the Quebec spoken equivalents.",
+ "learn": [
+  {
+   "h": "Cause + noun: à cause de, grâce à, en raison de, faute de",
+   "body": [
+    "*À cause de* introduces a cause with a negative or neutral result: *Le vol est annulé à cause de la tempête.*",
+    "*Grâce à* introduces a cause with a positive result: *Grâce à ton aide, j'ai fini à temps.*",
+    "*En raison de* is formal and neutral (announcements, news): *En raison des travaux, la station est fermée.* *Faute de* = for lack of: *Faute de temps, on a annulé.*",
+    "Remember the contractions: *à cause du*, *à cause des*, *grâce au*, *grâce aux*."
+   ],
+   "table": {
+    "head": [
+     "Expression",
+     "Nuance",
+     "Example"
+    ],
+    "rows": [
+     [
+      "à cause de",
+      "negative / neutral",
+      "à cause de la neige"
+     ],
+     [
+      "grâce à",
+      "positive",
+      "grâce aux bénévoles"
+     ],
+     [
+      "en raison de",
+      "formal, neutral",
+      "en raison d'une panne"
+     ],
+     [
+      "faute de",
+      "lack of",
+      "faute d'argent"
+     ],
+     [
+      "pour + past infinitive",
+      "reason for blame/praise",
+      "puni pour avoir menti"
+     ]
+    ]
+   },
+   "tip": "À cause de + noun; parce que + clause."
+  },
+  {
+   "h": "Cause + clause: parce que, comme, puisque, vu que, étant donné que",
+   "body": [
+    "*Parce que* answers 'why?'. *Comme* goes first in the sentence. *Puisque* gives an obvious or known cause.",
+    "*Vu que* and *étant donné que* (given that, seeing that) are very common: *Vu qu'il pleut, on reste en dedans.* *Vu que* is especially frequent in Quebec speech; *étant donné que* is more formal."
+   ]
+  },
+  {
+   "h": "Consequence: donc, alors, c'est pour ça que, par conséquent",
+   "body": [
+    "Everyday: *donc*, *alors*, *c'est pour ça que* (that's why): *J'étais malade, c'est pour ça que je n'étais pas là.*",
+    "More formal: *c'est pourquoi*, *par conséquent*, *ainsi*, *si bien que* / *de sorte que* (so that, with the result that) + indicative: *Il a beaucoup neigé, si bien que les écoles ont fermé.*",
+    "Note: *du coup* (so, as a result) is extremely common in France but sounds French-from-France in Quebec, where speakers say *faque* or *ça fait que*."
+   ],
+   "table": {
+    "head": [
+     "Register",
+     "Consequence words"
+    ],
+    "rows": [
+     [
+      "casual Quebec",
+      "faque, ça fait que"
+     ],
+     [
+      "neutral",
+      "donc, alors, c'est pour ça que"
+     ],
+     [
+      "formal",
+      "c'est pourquoi, par conséquent, ainsi, si bien que"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Verbs and nouns of cause and effect",
+   "body": [
+    "Verbs: *causer*, *provoquer*, *entraîner* (to lead to), *créer*, *rendre* + adjective (*Ça me rend fou.* = It drives me crazy), *faire* + infinitive (*Ce film m'a fait pleurer.*).",
+    "Effect verbs: *résulter de*, *venir de*, *être dû à* (to be due to): *Le retard est dû à un bris mécanique.*",
+    "Nouns: *la cause*, *la raison*, *le motif*, *la conséquence*, *l'effet* (m), *le résultat*."
+   ]
+  },
+  {
+   "h": "Quebec: ça fait que, à cause que, c'est pour ça",
+   "body": [
+    "The roadmap lists *à cause de* and *grâce à* as Quebec features; in fact they are standard French used everywhere. The truly Quebec spoken forms are *ça fait que / faque* (so, as a result) and the popular *à cause que* (because, + clause): *J'suis resté à cause qu'y mouillait.* Write *parce qu'il pleuvait*.",
+    "Also very frequent: *c'est pour ça* on its own (that's why), *vu que* (since), and *ça fait que* starting a story's conclusion: *Ça fait que, finalement, on est rentrés.*"
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Le vol a été annulé à cause de la tempête de verglas.",
+   "en": "The flight was cancelled because of the ice storm.",
+   "note": "à cause de + noun, negative result"
+  },
+  {
+   "fr": "Grâce à mon voisin, j'ai pu sortir mon auto du banc de neige.",
+   "en": "Thanks to my neighbour, I was able to get my car out of the snowbank.",
+   "note": "grâce à, positive result"
+  },
+  {
+   "fr": "En raison des travaux, la station Berri-UQAM est fermée.",
+   "en": "Due to construction, Berri-UQAM station is closed.",
+   "note": "formal, as in a public announcement"
+  },
+  {
+   "fr": "Faute de temps, on n'a pas visité le musée.",
+   "en": "For lack of time, we didn't visit the museum."
+  },
+  {
+   "fr": "Vu qu'il pleut, on va reporter le pique-nique.",
+   "en": "Since it's raining, we're going to postpone the picnic.",
+   "note": "vu que + clause"
+  },
+  {
+   "fr": "Étant donné que le budget est limité, nous devons faire des choix.",
+   "en": "Given that the budget is limited, we have to make choices.",
+   "note": "formal"
+  },
+  {
+   "fr": "J'étais malade, c'est pour ça que je ne t'ai pas appelé.",
+   "en": "I was sick, that's why I didn't call you."
+  },
+  {
+   "fr": "Les routes étaient glacées, par conséquent plusieurs accidents ont eu lieu.",
+   "en": "The roads were icy; as a result, several accidents occurred.",
+   "note": "par conséquent: formal"
+  },
+  {
+   "fr": "Il a beaucoup neigé, si bien que les écoles ont fermé.",
+   "en": "It snowed a lot, so the schools closed.",
+   "note": "si bien que + indicative"
+  },
+  {
+   "fr": "Le retard est dû à un bris mécanique.",
+   "en": "The delay is due to a mechanical breakdown.",
+   "note": "être dû à; bris = breakdown (common in Quebec)"
+  },
+  {
+   "fr": "Le manque de sommeil peut entraîner des problèmes de santé.",
+   "en": "Lack of sleep can lead to health problems.",
+   "note": "entraîner = to lead to"
+  },
+  {
+   "fr": "Ce bruit me rend fou!",
+   "en": "This noise is driving me crazy!",
+   "note": "rendre + adjective"
+  },
+  {
+   "fr": "Cette histoire m'a fait rire.",
+   "en": "That story made me laugh.",
+   "note": "faire + infinitive = cause someone to"
+  },
+  {
+   "fr": "Il a reçu une amende pour avoir stationné dans une zone interdite.",
+   "en": "He got a fine for parking in a no-parking zone.",
+   "note": "pour + past infinitive"
+  },
+  {
+   "fr": "Comme le dernier métro était parti, j'ai pris un taxi.",
+   "en": "As the last metro had gone, I took a taxi.",
+   "note": "comme at the start"
+  },
+  {
+   "fr": "Y mouillait, ça fait qu'on est restés en dedans.",
+   "en": "It was raining, so we stayed inside.",
+   "note": "casual Quebec"
+  }
+ ],
+ "quebec": {
+  "intro": "'À cause de' and 'grâce à' are standard French everywhere, not Quebec-specific. The real Quebec spoken markers of cause and effect are 'ça fait que / faque', the popular 'à cause que', and a heavy use of 'vu que' and 'c'est pour ça'.",
+  "items": [
+   {
+    "std": "Il pleuvait, donc nous sommes restés à la maison.",
+    "qc": "Y mouillait, ça fait qu'on est restés à maison.",
+    "en": "It was raining, so we stayed home.",
+    "note": "ça fait que: informal"
+   },
+   {
+    "std": "Je suis en retard parce qu'il y avait du trafic.",
+    "qc": "Chu en retard à cause qu'y avait du trafic.",
+    "en": "I'm late because there was traffic.",
+    "note": "à cause que + clause: popular, avoid in writing"
+   },
+   {
+    "std": "Puisque tu es là, aide-moi.",
+    "qc": "Vu que t'es là, aide-moi.",
+    "en": "Since you're here, help me.",
+    "note": "vu que: very common and acceptable"
+   },
+   {
+    "std": "C'est pour cette raison que je suis parti.",
+    "qc": "C'est pour ça que chu parti.",
+    "en": "That's why I left.",
+    "note": "c'est pour ça que: neutral, everyday"
+   },
+   {
+    "std": "Du coup, on est rentrés.",
+    "qc": "Faque on est rentrés.",
+    "en": "So we went home.",
+    "note": "du coup sounds European; Quebecers say faque"
+   },
+   {
+    "std": "Grâce à toi, j'ai eu le poste.",
+    "qc": "Grâce à toi, j'ai eu la job.",
+    "en": "Thanks to you, I got the job.",
+    "note": "grâce à is standard; la job is informal Quebec"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "___ ton aide, j'ai réussi mon examen.",
+   "options": [
+    "À cause de",
+    "Grâce à",
+    "Faute de",
+    "Parce que"
+   ],
+   "a": 1,
+   "why": "Positive result → grâce à."
+  },
+  {
+   "t": "mcq",
+   "q": "Je suis en retard ___ trafic.",
+   "options": [
+    "parce que le",
+    "à cause du",
+    "grâce au",
+    "vu que le"
+   ],
+   "a": 1,
+   "why": "Noun + negative result → à cause de + le = du."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is the most formal?",
+   "options": [
+    "faque",
+    "c'est pour ça que",
+    "donc",
+    "par conséquent"
+   ],
+   "a": 3,
+   "why": "Par conséquent belongs to formal written French."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is standard French, not Quebec-specific?",
+   "options": [
+    "faque",
+    "à cause que",
+    "grâce à",
+    "ça fait que"
+   ],
+   "a": 2,
+   "why": "Grâce à is used everywhere."
+  },
+  {
+   "t": "fill",
+   "q": "___ qu'il fait beau, on mange dehors. (seeing that)",
+   "a": [
+    "Vu",
+    "Étant donné"
+   ],
+   "en": "Since it's nice out, we're eating outside.",
+   "why": "Vu que / étant donné que + clause."
+  },
+  {
+   "t": "fill",
+   "q": "___ d'argent, il n'a pas pu partir. (for lack of)",
+   "a": [
+    "Faute"
+   ],
+   "en": "For lack of money, he couldn't leave.",
+   "why": "Faute de + noun."
+  },
+  {
+   "t": "fill",
+   "q": "Le retard est ___ à une panne. (due)",
+   "a": [
+    "dû"
+   ],
+   "en": "The delay is due to a breakdown.",
+   "why": "Être dû à; masculine retard → dû."
+  },
+  {
+   "t": "fill",
+   "q": "Ce film m'a ___ pleurer. (made)",
+   "a": [
+    "fait"
+   ],
+   "en": "That movie made me cry.",
+   "why": "Faire + infinitive."
+  },
+  {
+   "t": "fill",
+   "q": "Il a été puni pour ___ menti.",
+   "a": [
+    "avoir"
+   ],
+   "en": "He was punished for lying.",
+   "why": "Pour + past infinitive."
+  },
+  {
+   "t": "build",
+   "en": "That's why I didn't call you.",
+   "a": "C'est pour ça que je ne t'ai pas appelé."
+  },
+  {
+   "t": "build",
+   "en": "Thanks to the volunteers, everything went well.",
+   "a": "Grâce aux bénévoles, tout s'est bien passé."
+  },
+  {
+   "t": "build",
+   "en": "This noise is driving me crazy.",
+   "a": "Ce bruit me rend fou."
+  },
+  {
+   "t": "translate",
+   "en": "The flight was cancelled because of the storm.",
+   "a": [
+    "Le vol a été annulé à cause de la tempête.",
+    "Le vol est annulé à cause de la tempête.",
+    "On a annulé le vol à cause de la tempête.",
+    "Le vol a été annulé en raison de la tempête."
+   ],
+   "why": "À cause de + noun (en raison de is formal)."
+  },
+  {
+   "t": "translate",
+   "en": "It was raining, so we stayed home.",
+   "a": [
+    "Il pleuvait, donc on est restés à la maison.",
+    "Il pleuvait, donc nous sommes restés à la maison.",
+    "Il pleuvait, alors on est restés à la maison.",
+    "Il pleuvait, alors nous sommes restés à la maison.",
+    "Il pleuvait, ça fait qu'on est restés à la maison.",
+    "Il pleuvait, donc on est restées à la maison.",
+    "Il pleuvait, donc nous sommes restées à la maison."
+   ],
+   "why": "Donc / alors / ça fait que."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "à cause de",
+   "en": "because of",
+   "ex": "à cause de la neige"
+  },
+  {
+   "fr": "grâce à",
+   "en": "thanks to",
+   "ex": "grâce à toi"
+  },
+  {
+   "fr": "en raison de",
+   "en": "due to (formal)",
+   "ex": "en raison d'une panne"
+  },
+  {
+   "fr": "faute de",
+   "en": "for lack of",
+   "ex": "faute de place"
+  },
+  {
+   "fr": "vu que",
+   "en": "since, seeing that",
+   "ex": "Vu que t'es là, reste à souper."
+  },
+  {
+   "fr": "étant donné que",
+   "en": "given that",
+   "ex": "Étant donné que c'est férié, c'est fermé."
+  },
+  {
+   "fr": "par conséquent",
+   "en": "consequently",
+   "ex": "Par conséquent, la réunion est reportée."
+  },
+  {
+   "fr": "c'est pour ça que",
+   "en": "that's why",
+   "ex": "C'est pour ça que je suis fatigué."
+  },
+  {
+   "fr": "entraîner",
+   "en": "to lead to, to cause",
+   "ex": "Ça peut entraîner des retards."
+  },
+  {
+   "fr": "être dû à",
+   "en": "to be due to",
+   "ex": "L'accident est dû au verglas."
+  },
+  {
+   "fr": "la conséquence",
+   "en": "consequence",
+   "g": "f",
+   "ex": "Il faut assumer les conséquences."
+  },
+  {
+   "fr": "le verglas",
+   "en": "freezing rain, black ice",
+   "g": "m",
+   "ex": "Attention au verglas ce matin."
+  },
+  {
+   "fr": "le bris",
+   "en": "breakdown, breakage",
+   "g": "m",
+   "ex": "un bris d'aqueduc",
+   "qc": true
+  },
+  {
+   "fr": "reporter",
+   "en": "to postpone",
+   "ex": "On reporte la fête à samedi."
+  },
+  {
+   "fr": "ça fait que",
+   "en": "so, as a result (informal)",
+   "ex": "J'étais fatigué, ça fait que j'suis rentré.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "à cause de",
+    "tip": "Quebec: a-KÔZ-duh, long ô."
+   },
+   {
+    "fr": "grâce à",
+    "tip": "grâ-SA: Quebec back â [ɑ]."
+   },
+   {
+    "fr": "étant donné que",
+    "tip": "é-tan-do-NÉ-kuh."
+   },
+   {
+    "fr": "par conséquent",
+    "tip": "par-kon-sé-KAN."
+   },
+   {
+    "fr": "ça fait que",
+    "tip": "sa-fè-KUH, shortened to FAK."
+   },
+   {
+    "fr": "dû",
+    "tip": "DÜ: the circumflex only marks the participle of devoir."
+   }
+  ],
+  "title": "Pourquoi tu n'es pas venu?",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "On t'a attendu hier soir! Qu'est-ce qui est arrivé?",
+    "en": "We waited for you last night! What happened?"
+   },
+   {
+    "s": "B",
+    "fr": "Désolé. À cause du verglas, l'autobus est arrivé avec une heure de retard.",
+    "en": "Sorry. Because of the freezing rain, the bus came an hour late."
+   },
+   {
+    "s": "A",
+    "fr": "Ah, c'est pour ça! On pensait que tu avais oublié.",
+    "en": "Oh, that's why! We thought you'd forgotten."
+   },
+   {
+    "s": "B",
+    "fr": "Pis vu que mon cellulaire était mort, je pouvais pas vous écrire.",
+    "en": "And since my phone was dead, I couldn't text you."
+   },
+   {
+    "s": "A",
+    "fr": "Ça fait que t'es rentré chez vous?",
+    "en": "So you went back home?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui. Faute d'autobus, j'ai marché vingt minutes sur la glace.",
+    "en": "Yes. With no bus, I walked twenty minutes on the ice."
+   },
+   {
+    "s": "A",
+    "fr": "Au moins, grâce à toi, il restait du gâteau pour aujourd'hui!",
+    "en": "At least, thanks to you, there was cake left for today!"
+   },
+   {
+    "s": "B",
+    "fr": "Parfait, ça me rend de bonne humeur. J'arrive!",
+    "en": "Perfect, that puts me in a good mood. I'm coming!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Why was the bus late?",
+    "options": [
+     "A strike",
+     "Freezing rain",
+     "An accident"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Why couldn't B text them?",
+    "options": [
+     "No signal",
+     "His phone was dead",
+     "He lost his phone"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What's left from last night?",
+    "options": [
+     "Wine",
+     "Cake",
+     "Pizza"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Explain why you were late recently, using à cause de and vu que.",
+   "model": "J'étais en retard à cause d'un accident sur le pont. Vu que je n'avais pas de batterie, je n'ai pas pu prévenir."
+  },
+  {
+   "prompt": "Thank someone for two things using grâce à.",
+   "model": "Grâce à toi, j'ai trouvé un appartement. Grâce à tes conseils, j'ai aussi eu un bon prix."
+  },
+  {
+   "prompt": "Tell a short cause-effect story casually with ça fait que / faque, then formally with par conséquent.",
+   "model": "Y neigeait trop, faque on a annulé. / Il neigeait trop; par conséquent, l'événement a été annulé."
+  }
+ ],
+ "write": {
+  "prompt": "Write a short formal paragraph (5–6 sentences) explaining the causes and consequences of a winter storm in your city. Use at least six different cause/effect expressions.",
+  "model": "En raison d'une importante tempête de verglas, plusieurs quartiers ont été privés d'électricité mardi. Les arbres, alourdis par la glace, ont provoqué de nombreuses pannes. Étant donné que les routes étaient dangereuses, les écoles sont restées fermées. Par conséquent, beaucoup de parents ont dû travailler de la maison. Grâce au travail des équipes d'Hydro-Québec, le courant a été rétabli en deux jours. C'est pourquoi la ville remercie les employés."
+ },
+ "quiz": [
+  {
+   "q": "Grâce à is used for a cause with…",
+   "options": [
+    "a negative result",
+    "a positive result",
+    "no result",
+    "a future result"
+   ],
+   "a": 1,
+   "why": "Grâce à = thanks to."
+  },
+  {
+   "q": "Which is followed by a clause, not a noun?",
+   "options": [
+    "à cause de",
+    "en raison de",
+    "vu que",
+    "faute de"
+   ],
+   "a": 2,
+   "why": "Vu que + subject + verb."
+  },
+  {
+   "q": "'Du coup' in Quebec sounds…",
+   "options": [
+    "very Québécois",
+    "European French",
+    "vulgar",
+    "old-fashioned Quebec"
+   ],
+   "a": 1,
+   "why": "Quebecers usually say faque / ça fait que."
+  },
+  {
+   "q": "'Ce film m'a fait pleurer' means…",
+   "options": [
+    "I made this film cry",
+    "This film made me cry",
+    "I cried while filming",
+    "The film was sad to make"
+   ],
+   "a": 1,
+   "why": "Faire + infinitive = cause someone to do."
+  },
+  {
+   "q": "Which expression means 'for lack of'?",
+   "options": [
+    "faute de",
+    "à cause de",
+    "grâce à",
+    "en raison de"
+   ],
+   "a": 0,
+   "why": "Faute de temps = for lack of time."
+  },
+  {
+   "q": "Il a beaucoup plu, ___ la rivière a débordé.",
+   "options": [
+    "si bien que",
+    "parce que",
+    "grâce à",
+    "vu que"
+   ],
+   "a": 0,
+   "why": "Si bien que introduces the consequence."
+  },
+  {
+   "q": "'À cause que' is…",
+   "options": [
+    "a formal connector",
+    "a popular spoken form of parce que",
+    "the same as grâce à",
+    "a written newspaper form"
+   ],
+   "a": 1,
+   "why": "Popular speech; write parce que."
+  },
+  {
+   "q": "Le retard est ___ à la tempête.",
+   "options": [
+    "du",
+    "dû",
+    "dus",
+    "dûe"
+   ],
+   "a": 1,
+   "why": "Être dû à; dû agrees with retard (m sg)."
+  },
+  {
+   "q": "Which is the most neutral, everyday consequence phrase?",
+   "options": [
+    "par conséquent",
+    "c'est pour ça que",
+    "ainsi",
+    "de sorte que"
+   ],
+   "a": 1,
+   "why": "C'est pour ça que fits all everyday speech."
+  }
+ ]
+}

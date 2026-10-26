@@ -1,0 +1,637 @@
+{
+ "w": 91,
+ "title": "Relative pronouns: dont and où",
+ "goal": "By the end of this lesson you can use dont with verbs and expressions built with de, use où for place and time, and turn the casual Quebec 'que' back into standard dont or où.",
+ "learn": [
+  {
+   "h": "Quick review: qui and que",
+   "body": [
+    "*Qui* is the subject of the relative clause: *le gars qui habite en haut* (the guy who lives upstairs). *Que* is the direct object: *le gars que je connais* (the guy I know).",
+    "*Dont* and *où* complete the basic set. They replace a noun introduced by *de* (dont) or a place or moment (où)."
+   ]
+  },
+  {
+   "h": "Dont = de + noun",
+   "body": [
+    "Use *dont* when the verb or expression in the relative clause is built with *de*: *parler de*, *avoir besoin de*, *avoir peur de*, *se souvenir de*, *être fier de*, *s'occuper de*, *rêver de*.",
+    "*Je parle de ce livre.* → *C'est le livre dont je parle.* (the book I'm talking about)",
+    "English often hides the preposition at the end ('the book I'm talking about') or drops the pronoun entirely. French always needs *dont*."
+   ],
+   "table": {
+    "head": [
+     "Verb + de",
+     "Relative clause"
+    ],
+    "rows": [
+     [
+      "avoir besoin de",
+      "l'outil dont j'ai besoin"
+     ],
+     [
+      "parler de",
+      "le film dont tout le monde parle"
+     ],
+     [
+      "avoir peur de",
+      "la chose dont il a peur"
+     ],
+     [
+      "se souvenir de",
+      "le voyage dont je me souviens"
+     ],
+     [
+      "être fier de",
+      "le projet dont elle est fière"
+     ],
+     [
+      "s'occuper de",
+      "les clients dont je m'occupe"
+     ]
+    ]
+   },
+   "tip": "Look for the de: if the verb takes de, the relative is dont."
+  },
+  {
+   "h": "Dont for possession and for 'including'",
+   "body": [
+    "*Dont* also means 'whose' / 'of which': *la voisine dont le chien aboie* (the neighbour whose dog barks).",
+    "Word order after *dont* is always subject + verb + object, and you do NOT add a possessive: *l'auteur dont j'ai lu le roman* (not *dont j'ai lu son roman*).",
+    "*Dont* can also mean 'including' / 'of whom': *Ils ont trois enfants, dont deux jumeaux.*"
+   ]
+  },
+  {
+   "h": "Où for place and time",
+   "body": [
+    "*Où* replaces a place: *la ville où j'habite*, *le restaurant où on a mangé*.",
+    "It also replaces a moment in time, where English uses 'when' or nothing: *le jour où je suis arrivé* (the day I arrived), *l'année où on s'est mariés*, *au moment où il est entré*.",
+    "With prepositions: *d'où* (where … from), *par où* (which way): *le village d'où vient ma famille*."
+   ],
+   "tip": "Never use quand as a relative after a time noun: le jour où, not le jour quand."
+  },
+  {
+   "h": "Quebec: one 'que' for everything",
+   "body": [
+    "In casual Quebec speech (and in popular French elsewhere), *que* often replaces *dont* and *où*: *le gars que j'te parlais* instead of *le gars dont je te parlais*; *la place que je reste* instead of *l'endroit où j'habite*.",
+    "You will hear this constantly. Understand it, but in writing, at work, and in any careful speech, use *dont* and *où*. Rewriting these sentences is an excellent exercise."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "C'est le livre dont je t'ai parlé.",
+   "en": "That's the book I told you about.",
+   "note": "parler de → dont"
+  },
+  {
+   "fr": "Voici l'outil dont j'ai besoin.",
+   "en": "Here's the tool I need.",
+   "note": "avoir besoin de → dont"
+  },
+  {
+   "fr": "C'est un voyage dont je me souviendrai toute ma vie.",
+   "en": "It's a trip I'll remember all my life.",
+   "note": "se souvenir de → dont"
+  },
+  {
+   "fr": "Le projet dont elle est la plus fière, c'est son jardin.",
+   "en": "The project she's proudest of is her garden.",
+   "note": "être fier de → dont"
+  },
+  {
+   "fr": "J'ai une voisine dont le chien aboie toute la nuit.",
+   "en": "I have a neighbour whose dog barks all night.",
+   "note": "dont = whose"
+  },
+  {
+   "fr": "C'est l'auteur dont j'ai lu tous les romans.",
+   "en": "He's the author whose novels I've all read.",
+   "note": "no possessive after dont: tous les romans, not ses romans"
+  },
+  {
+   "fr": "Ils ont quatre enfants, dont deux filles.",
+   "en": "They have four children, including two girls.",
+   "note": "dont = including"
+  },
+  {
+   "fr": "La ville où j'habite est très calme.",
+   "en": "The town where I live is very quiet.",
+   "note": "où = place"
+  },
+  {
+   "fr": "Je me souviens du jour où je suis arrivé au Québec.",
+   "en": "I remember the day I arrived in Quebec.",
+   "note": "où = time; English drops 'when'"
+  },
+  {
+   "fr": "C'est le restaurant où on a fêté ton anniversaire.",
+   "en": "That's the restaurant where we celebrated your birthday."
+  },
+  {
+   "fr": "Au moment où je suis sorti, il s'est mis à pleuvoir.",
+   "en": "Just as I went out, it started to rain.",
+   "note": "au moment où = just as / at the moment when"
+  },
+  {
+   "fr": "Le village d'où vient ma famille est en Gaspésie.",
+   "en": "The village my family comes from is in the Gaspé.",
+   "note": "venir de + place → d'où"
+  },
+  {
+   "fr": "Les dossiers dont je m'occupe sont urgents.",
+   "en": "The files I'm handling are urgent.",
+   "note": "s'occuper de → dont"
+  },
+  {
+   "fr": "C'est exactement ce dont j'avais peur.",
+   "en": "That's exactly what I was afraid of.",
+   "note": "ce dont: more in lesson 93"
+  },
+  {
+   "fr": "L'année où on s'est rencontrés, il a neigé en mai.",
+   "en": "The year we met, it snowed in May.",
+   "note": "time noun + où"
+  },
+  {
+   "fr": "La personne dont je te parlais vient d'arriver.",
+   "en": "The person I was telling you about just arrived.",
+   "note": "standard version of the Quebec 'que j'te parlais'"
+  }
+ ],
+ "quebec": {
+  "intro": "In casual Quebec speech, 'que' often does the job of 'dont' and 'où': 'le gars que j'te parlais' for 'le gars dont je te parlais'. Recognize it everywhere; use dont and où yourself.",
+  "items": [
+   {
+    "std": "Le gars dont je te parlais est là.",
+    "qc": "Le gars que j'te parlais est là.",
+    "en": "The guy I was telling you about is here.",
+    "note": "que for dont: very common, informal"
+   },
+   {
+    "std": "L'endroit où j'habite est tranquille.",
+    "qc": "La place que j'reste est tranquille.",
+    "en": "The place where I live is quiet.",
+    "note": "place = endroit; rester = habiter; que for où (all informal)"
+   },
+   {
+    "std": "C'est ce dont j'ai besoin.",
+    "qc": "C'est ça que j'ai besoin.",
+    "en": "That's what I need.",
+    "note": "ça que for ce dont: informal"
+   },
+   {
+    "std": "Le jour où il est arrivé, il neigeait.",
+    "qc": "Le jour qu'y est arrivé, y neigeait.",
+    "en": "The day he arrived, it was snowing.",
+    "note": "que for où after a time noun"
+   },
+   {
+    "std": "La fille dont le père est médecin…",
+    "qc": "La fille que son père est médecin…",
+    "en": "The girl whose father is a doctor…",
+    "note": "que + possessive for dont: popular speech, avoid"
+   },
+   {
+    "std": "Le film dont tout le monde parle",
+    "qc": "Le film que tout le monde parle",
+    "en": "The movie everyone's talking about",
+    "note": "standard: parler de → dont"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "C'est le livre ___ j'ai besoin.",
+   "options": [
+    "que",
+    "où",
+    "dont",
+    "qui"
+   ],
+   "a": 2,
+   "why": "Avoir besoin de → dont."
+  },
+  {
+   "t": "mcq",
+   "q": "La ville ___ je suis né est petite.",
+   "options": [
+    "dont",
+    "où",
+    "que",
+    "qui"
+   ],
+   "a": 1,
+   "why": "Place → où."
+  },
+  {
+   "t": "mcq",
+   "q": "Le jour ___ on s'est rencontrés…",
+   "options": [
+    "quand",
+    "que",
+    "où",
+    "dont"
+   ],
+   "a": 2,
+   "why": "After a time noun, standard French uses où."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is correct?",
+   "options": [
+    "l'auteur dont j'ai lu son livre",
+    "l'auteur dont j'ai lu le livre",
+    "l'auteur que j'ai lu son livre",
+    "l'auteur dont son livre j'ai lu"
+   ],
+   "a": 1,
+   "why": "After dont: subject + verb + object, no possessive."
+  },
+  {
+   "t": "fill",
+   "q": "Voici le collègue ___ je t'ai parlé. (about whom)",
+   "a": [
+    "dont"
+   ],
+   "en": "Here's the colleague I told you about.",
+   "why": "Parler de → dont."
+  },
+  {
+   "t": "fill",
+   "q": "C'est le café ___ on se voit le dimanche. (where)",
+   "a": [
+    "où"
+   ],
+   "en": "It's the café where we meet on Sundays.",
+   "why": "Place → où."
+  },
+  {
+   "t": "fill",
+   "q": "J'ai une amie ___ le frère vit à Paris. (whose)",
+   "a": [
+    "dont"
+   ],
+   "en": "I have a friend whose brother lives in Paris.",
+   "why": "Possession → dont."
+  },
+  {
+   "t": "fill",
+   "q": "Le pays ___ il vient est très loin. (from where)",
+   "a": [
+    "d'où"
+   ],
+   "en": "The country he comes from is very far.",
+   "why": "Venir de + place → d'où."
+  },
+  {
+   "t": "fill",
+   "q": "Il y a vingt employés, ___ cinq à temps partiel. (including)",
+   "a": [
+    "dont"
+   ],
+   "en": "There are twenty employees, including five part-time.",
+   "why": "Dont = including."
+  },
+  {
+   "t": "build",
+   "en": "That's the movie everyone is talking about.",
+   "a": "C'est le film dont tout le monde parle."
+  },
+  {
+   "t": "build",
+   "en": "I remember the day I arrived.",
+   "a": "Je me souviens du jour où je suis arrivé."
+  },
+  {
+   "t": "build",
+   "en": "Here's the tool I need.",
+   "a": "Voici l'outil dont j'ai besoin."
+  },
+  {
+   "t": "translate",
+   "en": "The town where I live is quiet.",
+   "a": [
+    "La ville où j'habite est tranquille.",
+    "La ville où je vis est tranquille.",
+    "La ville où j'habite est calme.",
+    "La ville où je vis est calme."
+   ],
+   "why": "Place → où."
+  },
+  {
+   "t": "translate",
+   "en": "The guy I was telling you about is here.",
+   "a": [
+    "Le gars dont je te parlais est là.",
+    "Le gars dont je te parlais est ici.",
+    "Le gars dont je vous parlais est là.",
+    "Le gars dont je vous parlais est ici.",
+    "L'homme dont je te parlais est là.",
+    "L'homme dont je vous parlais est là."
+   ],
+   "why": "Parler de → dont (the Quebec 'que j'te parlais' is informal)."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "dont",
+   "en": "of which, whose, about which",
+   "ex": "Le film dont je parle."
+  },
+  {
+   "fr": "où",
+   "en": "where, when (relative)",
+   "ex": "Le jour où je suis né."
+  },
+  {
+   "fr": "d'où",
+   "en": "from where",
+   "ex": "La ville d'où je viens."
+  },
+  {
+   "fr": "avoir besoin de",
+   "en": "to need",
+   "ex": "C'est ce dont j'ai besoin."
+  },
+  {
+   "fr": "se souvenir de",
+   "en": "to remember",
+   "ex": "Je me souviens de ce jour."
+  },
+  {
+   "fr": "s'occuper de",
+   "en": "to take care of, to handle",
+   "ex": "Je m'occupe des clients."
+  },
+  {
+   "fr": "être fier de",
+   "en": "to be proud of",
+   "ex": "Elle est fière de son fils."
+  },
+  {
+   "fr": "rêver de",
+   "en": "to dream of",
+   "ex": "La maison dont je rêve."
+  },
+  {
+   "fr": "au moment où",
+   "en": "just as, at the moment when",
+   "ex": "Au moment où je partais, il a appelé."
+  },
+  {
+   "fr": "aboyer",
+   "en": "to bark",
+   "ex": "Le chien aboie la nuit."
+  },
+  {
+   "fr": "l'outil",
+   "en": "tool",
+   "g": "m",
+   "ex": "Passe-moi l'outil."
+  },
+  {
+   "fr": "l'endroit",
+   "en": "place, spot",
+   "g": "m",
+   "ex": "C'est un bel endroit."
+  },
+  {
+   "fr": "la place",
+   "en": "place, spot (informal sense of endroit)",
+   "g": "f",
+   "ex": "C'est une belle place pour pique-niquer.",
+   "qc": true
+  },
+  {
+   "fr": "rester",
+   "en": "to live (informal; std = to stay)",
+   "ex": "Je reste à Laval.",
+   "qc": true
+  },
+  {
+   "fr": "le gars",
+   "en": "guy",
+   "g": "m",
+   "ex": "Le gars d'à côté est sympathique."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "dont",
+    "tip": "DON: the t is silent, like donc without the k."
+   },
+   {
+    "fr": "dont il parle",
+    "tip": "Liaison is possible but often skipped: don-teel or don-eel."
+   },
+   {
+    "fr": "où",
+    "tip": "OO, same sound as ou (or)."
+   },
+   {
+    "fr": "d'où",
+    "tip": "DOO."
+   },
+   {
+    "fr": "le gars",
+    "tip": "luh-GA: the s and r are silent; Quebec often ga with a back a [gɑ]."
+   },
+   {
+    "fr": "que j'te parlais",
+    "tip": "Quebec casual: kuh-sh'tuh-par-LÈ."
+   }
+  ],
+  "title": "Le nouveau collègue",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "As-tu rencontré le gars dont je te parlais la semaine passée?",
+    "en": "Did you meet the guy I was telling you about last week?"
+   },
+   {
+    "s": "B",
+    "fr": "Celui dont la blonde travaille à l'hôpital?",
+    "en": "The one whose girlfriend works at the hospital?"
+   },
+   {
+    "s": "A",
+    "fr": "Oui! Il vient de Rimouski, la ville où j'ai fait mon cégep.",
+    "en": "Yes! He's from Rimouski, the town where I went to CEGEP."
+   },
+   {
+    "s": "B",
+    "fr": "Ah oui? Je me souviens du jour où il est arrivé. Il neigeait comme jamais.",
+    "en": "Really? I remember the day he arrived. It was snowing like never before."
+   },
+   {
+    "s": "A",
+    "fr": "Il s'occupe des dossiers dont personne ne voulait.",
+    "en": "He's handling the files nobody wanted."
+   },
+   {
+    "s": "B",
+    "fr": "C'est exactement ce dont l'équipe avait besoin.",
+    "en": "That's exactly what the team needed."
+   },
+   {
+    "s": "A",
+    "fr": "On dîne avec lui vendredi, au resto où on va d'habitude.",
+    "en": "We're having lunch with him on Friday, at the restaurant where we usually go."
+   },
+   {
+    "s": "B",
+    "fr": "Parfait, j'y serai!",
+    "en": "Perfect, I'll be there!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Where does the new colleague's girlfriend work?",
+    "options": [
+     "At a school",
+     "At the hospital",
+     "At a bank"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What is Rimouski for speaker A?",
+    "options": [
+     "Where A was born",
+     "Where A went to CEGEP",
+     "Where A works"
+    ],
+    "a": 1
+   },
+   {
+    "q": "When will they have lunch together?",
+    "options": [
+     "Monday",
+     "Wednesday",
+     "Friday"
+    ],
+    "a": 2
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Describe your town with three relative clauses using où and dont.",
+   "model": "La ville où j'habite s'appelle Longueuil. C'est une ville dont je connais bien les parcs. Il y a un café où je vais tous les samedis."
+  },
+  {
+   "prompt": "Name two things you need and one thing you're afraid of, using 'ce dont'.",
+   "model": "Ce dont j'ai besoin, c'est de vacances et d'un bon lit. Ce dont j'ai peur, c'est de l'hiver sans fin!"
+  },
+  {
+   "prompt": "Rewrite in standard French: 'C'est la place que j'reste, pis c'est le gars que j'te parlais.'",
+   "model": "C'est l'endroit où j'habite, et c'est le gars dont je te parlais."
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences about a place that matters to you (where you grew up, a favourite café…). Use où at least twice and dont at least twice.",
+  "model": "Le quartier où j'ai grandi est à Verdun. C'est un endroit dont je me souviens avec beaucoup de tendresse. Il y avait un petit parc où on jouait au hockey l'hiver. Ma grand-mère, dont la maison était juste en face, nous apportait du chocolat chaud. Le jour où on a déménagé, j'ai pleuré. C'est un quartier dont je suis encore fier."
+ },
+ "quiz": [
+  {
+   "q": "Dont replaces…",
+   "options": [
+    "à + noun",
+    "de + noun",
+    "a direct object",
+    "a subject"
+   ],
+   "a": 1,
+   "why": "Dont stands for de + noun."
+  },
+  {
+   "q": "Le film ___ tu m'as parlé était excellent.",
+   "options": [
+    "que",
+    "dont",
+    "où",
+    "qui"
+   ],
+   "a": 1,
+   "why": "Parler de → dont."
+  },
+  {
+   "q": "L'hiver ___ il a fait si froid…",
+   "options": [
+    "quand",
+    "dont",
+    "où",
+    "que"
+   ],
+   "a": 2,
+   "why": "Time noun → où."
+  },
+  {
+   "q": "'Ils ont trois chats, dont un noir' means…",
+   "options": [
+    "of which one is black (including a black one)",
+    "whose cat is black",
+    "where one is black",
+    "a black one that"
+   ],
+   "a": 0,
+   "why": "Dont = including / among which."
+  },
+  {
+   "q": "'La place que j'reste' in standard French is…",
+   "options": [
+    "La place que je reste.",
+    "L'endroit où j'habite.",
+    "L'endroit dont j'habite.",
+    "La place qui j'habite."
+   ],
+   "a": 1,
+   "why": "Que for où is informal; rester = habiter in Quebec speech."
+  },
+  {
+   "q": "Which verb would require dont in a relative clause?",
+   "options": [
+    "voir",
+    "aimer",
+    "se souvenir",
+    "connaître"
+   ],
+   "a": 2,
+   "why": "Se souvenir de."
+  },
+  {
+   "q": "La rivière ___ vient ce poisson…",
+   "options": [
+    "dont",
+    "où",
+    "d'où",
+    "que"
+   ],
+   "a": 2,
+   "why": "Venir de + place → d'où."
+  },
+  {
+   "q": "Which is correct?",
+   "options": [
+    "la femme dont son mari est pilote",
+    "la femme dont le mari est pilote",
+    "la femme que son mari est pilote",
+    "la femme où le mari est pilote"
+   ],
+   "a": 1,
+   "why": "Dont + definite article, no possessive."
+  },
+  {
+   "q": "'Le gars que j'te parlais' is…",
+   "options": [
+    "standard written French",
+    "informal speech for 'le gars dont je te parlais'",
+    "a France-only form",
+    "a subjunctive"
+   ],
+   "a": 1,
+   "why": "Popular speech uses que for dont."
+  }
+ ]
+}

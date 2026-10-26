@@ -1,0 +1,642 @@
+{
+ "w": 111,
+ "title": "Se faire and se laisser",
+ "goal": "By the end of this lesson you can say what happens to you (Je me suis fait voler mon vélo), what you let happen (Je me suis laissé convaincre), and use common expressions like se faire avoir, s'en faire and se laisser aller.",
+ "learn": [
+  {
+   "h": "Se faire + infinitive: something done to you",
+   "body": [
+    "Last week, *faire* + infinitive meant having something done. Add a reflexive pronoun and the action is done to the subject: *Je me suis fait couper les cheveux.* (I got my hair cut.)",
+    "Very often it describes something unpleasant that happened to you, like the English 'get + past participle': *Il s'est fait voler son portefeuille.* (He got his wallet stolen.) *Elle s'est fait arrêter.* (She got arrested.)",
+    "It can be voluntary (*se faire opérer*, *se faire vacciner*) or not (*se faire piquer par une guêpe*). In speech, it's often preferred to the passive voice."
+   ],
+   "table": {
+    "head": [
+     "French",
+     "English"
+    ],
+    "rows": [
+     [
+      "Je me suis fait voler mon vélo.",
+      "I got my bike stolen."
+     ],
+     [
+      "Il s'est fait engueuler par son boss.",
+      "He got chewed out by his boss."
+     ],
+     [
+      "Elle va se faire opérer du genou.",
+      "She's going to have knee surgery."
+     ],
+     [
+      "On s'est fait piquer par des maringouins.",
+      "We got bitten by mosquitoes."
+     ]
+    ]
+   },
+   "tip": "se faire + infinitive ≈ English 'to get + done'."
+  },
+  {
+   "h": "Agreement: fait stays invariable",
+   "body": [
+    "Even though it's a pronominal verb with *être*, *fait* followed by an infinitive never agrees: *Elle s'est fait voler.* *Ils se sont fait avoir.*",
+    "Compare with *se faire* + noun, meaning 'to make for oneself': *Elle s'est fait des amis.* (She made friends.) Here too *fait* doesn't agree, because the direct object comes after."
+   ]
+  },
+  {
+   "h": "Se laisser + infinitive: letting it happen",
+   "body": [
+    "*Se laisser* + infinitive means letting yourself be affected or letting something happen to you: *Je me suis laissé convaincre.* (I let myself be convinced.) *Ne te laisse pas faire!* (Don't let yourself be pushed around!)",
+    "Key expressions: *se laisser aller* (to let yourself go, to relax, or to stop making an effort), *se laisser tenter* (to give in to temptation), *se laisser emporter* (to get carried away), *se laisser faire* (to let yourself be pushed around).",
+    "Agreement: since the 1990 spelling reform, *laissé* before an infinitive is recommended invariable, like *fait*: *Elle s'est laissé convaincre.* You will also see *laissée* in older texts."
+   ],
+   "table": {
+    "head": [
+     "Expression",
+     "Meaning"
+    ],
+    "rows": [
+     [
+      "Je me suis laissé tenter par le dessert.",
+      "I gave in to the dessert."
+     ],
+     [
+      "Laisse-toi aller, c'est les vacances!",
+      "Let go, it's vacation!"
+     ],
+     [
+      "Il s'est laissé emporter par la colère.",
+      "He got carried away by anger."
+     ],
+     [
+      "Ne te laisse pas faire.",
+      "Don't let them push you around."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Other everyday uses of se faire",
+   "body": [
+    "*se faire avoir* = to get fooled, to get ripped off. *Je me suis fait avoir sur le prix.*",
+    "*s'en faire* = to worry: *Ne t'en fais pas!* (Don't worry!) *se faire à* = to get used to: *Je me fais à l'hiver.* *Ça ne se fait pas* = That's not done (it's rude).",
+    "*se faire mal* = to hurt oneself: *Je me suis fait mal au dos.*"
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Je me suis fait couper les cheveux hier.",
+   "en": "I got my hair cut yesterday.",
+   "note": "voluntary se faire"
+  },
+  {
+   "fr": "Il s'est fait voler son vélo devant le métro.",
+   "en": "He got his bike stolen in front of the metro.",
+   "note": "unpleasant event"
+  },
+  {
+   "fr": "Elle s'est fait arrêter pour excès de vitesse.",
+   "en": "She got pulled over for speeding.",
+   "note": "fait stays invariable"
+  },
+  {
+   "fr": "On s'est fait avoir : le billet coûtait le double.",
+   "en": "We got ripped off: the ticket cost double.",
+   "note": "se faire avoir"
+  },
+  {
+   "fr": "Je vais me faire vacciner contre la grippe.",
+   "en": "I'm going to get a flu shot.",
+   "note": "se faire vacciner"
+  },
+  {
+   "fr": "Ne t'en fais pas, tout va bien aller.",
+   "en": "Don't worry, everything will be OK.",
+   "note": "s'en faire = to worry"
+  },
+  {
+   "fr": "Je me suis fait mal au dos en pelletant.",
+   "en": "I hurt my back shovelling.",
+   "note": "se faire mal à"
+  },
+  {
+   "fr": "Elle s'est fait beaucoup d'amis au travail.",
+   "en": "She made lots of friends at work.",
+   "note": "se faire + noun = make for oneself"
+  },
+  {
+   "fr": "Je me suis laissé convaincre d'acheter un kayak.",
+   "en": "I let myself be talked into buying a kayak.",
+   "note": "se laisser convaincre"
+  },
+  {
+   "fr": "Laisse-toi aller, profite du soleil!",
+   "en": "Let yourself go, enjoy the sun!",
+   "note": "imperative of se laisser aller"
+  },
+  {
+   "fr": "Il ne faut pas se laisser faire.",
+   "en": "You mustn't let yourself be pushed around.",
+   "note": "se laisser faire"
+  },
+  {
+   "fr": "Nous nous sommes laissé tenter par la poutine.",
+   "en": "We gave in to the poutine.",
+   "note": "laissé invariable (recommended spelling)"
+  },
+  {
+   "fr": "Depuis sa séparation, il se laisse aller.",
+   "en": "Since his breakup, he's been letting himself go.",
+   "note": "negative meaning: stop taking care of yourself"
+  },
+  {
+   "fr": "Après trois hivers, je me suis fait au froid.",
+   "en": "After three winters, I got used to the cold.",
+   "note": "se faire à = get used to"
+  },
+  {
+   "fr": "Parler fort au cinéma, ça ne se fait pas.",
+   "en": "Talking loudly at the movies just isn't done.",
+   "note": "ça ne se fait pas = it's rude"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebec speech is full of 'se faire' expressions for things that happen to you: se faire avoir, se faire pogner, se faire passer un sapin. 'Se laisser aller' is common too, and 'Ne t'en fais pas' becomes the very casual 'Fais-toi-z'en pas'.",
+  "items": [
+   {
+    "std": "Je me suis fait avoir.",
+    "qc": "J'me suis fait passer un sapin.",
+    "en": "I got scammed / I got had.",
+    "note": "passer un sapin à quelqu'un = to trick someone; informal"
+   },
+   {
+    "std": "Il s'est fait prendre par la police.",
+    "qc": "Y s'est fait pogner par la police.",
+    "en": "He got caught by the police.",
+    "note": "pogner = to catch / grab, informal Quebec"
+   },
+   {
+    "std": "Ne t'en fais pas.",
+    "qc": "Fais-toi-z'en pas.",
+    "en": "Don't worry about it.",
+    "note": "very casual Quebec; the z is an inserted liaison"
+   },
+   {
+    "std": "Arrête de te moquer de moi.",
+    "qc": "Arrête de me niaiser.",
+    "en": "Stop messing with me.",
+    "note": "niaiser = to tease, to fool around; se faire niaiser = to get messed with"
+   },
+   {
+    "std": "Je me suis laissé aller pendant les fêtes.",
+    "qc": "J'me suis laissé aller pendant les Fêtes.",
+    "en": "I let myself go over the holidays.",
+    "note": "les Fêtes = the Christmas / New Year holidays in Quebec"
+   },
+   {
+    "std": "Il s'est fait réprimander par son patron.",
+    "qc": "Y s'est fait chicaner par son boss.",
+    "en": "He got told off by his boss.",
+    "note": "chicaner = to scold in Quebec; boss is informal"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Elle s'est ___ voler son sac.",
+   "options": [
+    "faite",
+    "fait",
+    "faits",
+    "faire"
+   ],
+   "a": 1,
+   "why": "Fait + infinitive never agrees."
+  },
+  {
+   "t": "mcq",
+   "q": "'Je me suis fait avoir' means…",
+   "options": [
+    "I got myself something.",
+    "I got ripped off.",
+    "I had it done.",
+    "I made it."
+   ],
+   "a": 1,
+   "why": "Se faire avoir = to be fooled / ripped off."
+  },
+  {
+   "t": "mcq",
+   "q": "Which expression means 'to give in to temptation'?",
+   "options": [
+    "se laisser tenter",
+    "se faire avoir",
+    "se laisser faire",
+    "s'en faire"
+   ],
+   "a": 0,
+   "why": "Se laisser tenter par quelque chose."
+  },
+  {
+   "t": "mcq",
+   "q": "What does 'Fais-toi-z'en pas' mean?",
+   "options": [
+    "Don't do it.",
+    "Don't worry about it.",
+    "Don't make any.",
+    "Don't be fooled."
+   ],
+   "a": 1,
+   "why": "Casual Quebec for ne t'en fais pas."
+  },
+  {
+   "t": "fill",
+   "q": "Je me suis fait ___ les cheveux. (to cut)",
+   "a": [
+    "couper"
+   ],
+   "en": "I got my hair cut.",
+   "why": "Se faire + infinitive."
+  },
+  {
+   "t": "fill",
+   "q": "Ne te laisse pas ___! (be pushed around)",
+   "a": [
+    "faire"
+   ],
+   "en": "Don't let yourself be pushed around!",
+   "why": "Se laisser faire."
+  },
+  {
+   "t": "fill",
+   "q": "Ne t'en ___ pas, ça va aller. (faire)",
+   "a": [
+    "fais"
+   ],
+   "en": "Don't worry, it'll be fine.",
+   "why": "S'en faire, tu form in the negative imperative."
+  },
+  {
+   "t": "fill",
+   "q": "Il s'est fait ___ au dos en pelletant. (mal)",
+   "a": [
+    "mal"
+   ],
+   "en": "He hurt his back shovelling.",
+   "why": "Se faire mal à = to hurt oneself."
+  },
+  {
+   "t": "build",
+   "en": "I got my bike stolen.",
+   "a": "Je me suis fait voler mon vélo."
+  },
+  {
+   "t": "build",
+   "en": "Let yourself go!",
+   "a": "Laisse-toi aller!"
+  },
+  {
+   "t": "build",
+   "en": "We gave in to the dessert.",
+   "a": "On s'est laissé tenter par le dessert."
+  },
+  {
+   "t": "translate",
+   "en": "She got arrested.",
+   "a": [
+    "Elle s'est fait arrêter.",
+    "Elle s'est fait arrêter par la police."
+   ],
+   "why": "Se faire + infinitive; fait invariable."
+  },
+  {
+   "t": "translate",
+   "en": "Don't worry!",
+   "a": [
+    "Ne t'en fais pas!",
+    "Ne vous en faites pas!",
+    "T'en fais pas!",
+    "Fais-toi-z'en pas!"
+   ],
+   "why": "S'en faire = to worry."
+  },
+  {
+   "t": "translate",
+   "en": "I got used to the cold.",
+   "a": [
+    "Je me suis fait au froid.",
+    "Je me suis habitué au froid.",
+    "Je me suis habituée au froid."
+   ],
+   "why": "Se faire à or s'habituer à."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "se faire avoir",
+   "en": "to get fooled, ripped off",
+   "ex": "Attention, tu vas te faire avoir."
+  },
+  {
+   "fr": "se faire voler",
+   "en": "to get robbed / have something stolen",
+   "ex": "Je me suis fait voler mon cellulaire."
+  },
+  {
+   "fr": "se faire mal",
+   "en": "to hurt oneself",
+   "ex": "Il s'est fait mal au genou."
+  },
+  {
+   "fr": "s'en faire",
+   "en": "to worry",
+   "ex": "Ne t'en fais pas pour moi."
+  },
+  {
+   "fr": "se faire à",
+   "en": "to get used to",
+   "ex": "On se fait à tout."
+  },
+  {
+   "fr": "se laisser aller",
+   "en": "to let oneself go, to relax",
+   "ex": "En vacances, je me laisse aller."
+  },
+  {
+   "fr": "se laisser tenter",
+   "en": "to give in to temptation",
+   "ex": "Je me suis laissé tenter par le gâteau."
+  },
+  {
+   "fr": "se laisser faire",
+   "en": "to let oneself be pushed around",
+   "ex": "Elle ne se laisse pas faire."
+  },
+  {
+   "fr": "se laisser convaincre",
+   "en": "to let oneself be persuaded",
+   "ex": "Il s'est laissé convaincre de venir."
+  },
+  {
+   "fr": "pogner",
+   "en": "to catch, to grab",
+   "ex": "Il s'est fait pogner à tricher.",
+   "qc": true
+  },
+  {
+   "fr": "passer un sapin à quelqu'un",
+   "en": "to trick, to swindle someone",
+   "ex": "Le vendeur m'a passé un sapin.",
+   "qc": true
+  },
+  {
+   "fr": "niaiser",
+   "en": "to tease, to fool around; to waste time",
+   "ex": "Arrête de niaiser!",
+   "qc": true
+  },
+  {
+   "fr": "chicaner",
+   "en": "to scold; to squabble",
+   "ex": "Ma mère m'a chicané.",
+   "qc": true
+  },
+  {
+   "fr": "le maringouin",
+   "en": "mosquito",
+   "g": "m",
+   "ex": "Il y a plein de maringouins au chalet.",
+   "qc": true
+  },
+  {
+   "fr": "pelleter",
+   "en": "to shovel",
+   "ex": "J'ai pelleté l'entrée ce matin."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "je me suis fait",
+    "tip": "Careful: zhuh muh swi FÈ; casual Quebec: 'j'me chu fait' or 'j'me su fait'."
+   },
+   {
+    "fr": "laisse-toi aller",
+    "tip": "lès-twa a-LÉ."
+   },
+   {
+    "fr": "fais-toi-z'en pas",
+    "tip": "fè-twa-ZAN pa: the z links toi and en."
+   },
+   {
+    "fr": "se faire avoir",
+    "tip": "suh fè-ra-VWAR: the r of faire links to avoir."
+   },
+   {
+    "fr": "maringouin",
+    "tip": "ma-rin-GWIN: two nasal vowels."
+   },
+   {
+    "fr": "pogner",
+    "tip": "po-NYÉ: gn like the ny in canyon."
+   }
+  ],
+  "title": "Une mauvaise journée",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "T'as l'air découragé. Qu'est-ce qui se passe?",
+    "en": "You look discouraged. What's going on?"
+   },
+   {
+    "s": "B",
+    "fr": "Je me suis fait voler mon vélo ce matin, devant le bureau.",
+    "en": "I got my bike stolen this morning, in front of the office."
+   },
+   {
+    "s": "A",
+    "fr": "Ah non! Il était barré?",
+    "en": "Oh no! Was it locked?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, mais avec un vieux cadenas. Pis en plus, je me suis fait chicaner par mon boss parce que j'étais en retard.",
+    "en": "Yes, but with an old lock. And on top of that, I got told off by my boss because I was late."
+   },
+   {
+    "s": "A",
+    "fr": "Fais-toi-z'en pas. Ce soir, on va au resto, je t'invite.",
+    "en": "Don't worry about it. Tonight we're going to a restaurant, my treat."
+   },
+   {
+    "s": "B",
+    "fr": "Je ne sais pas… j'ai pas vraiment la tête à ça.",
+    "en": "I don't know… I'm not really in the mood."
+   },
+   {
+    "s": "A",
+    "fr": "Allez, laisse-toi tenter! Ils ont la meilleure poutine en ville.",
+    "en": "Come on, let yourself be tempted! They have the best poutine in town."
+   },
+   {
+    "s": "B",
+    "fr": "Bon, OK, je me laisse convaincre.",
+    "en": "Well, OK, I'll let myself be convinced."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What happened to B in the morning?",
+    "options": [
+     "He got his bike stolen",
+     "He hurt his back",
+     "He lost his wallet"
+    ],
+    "a": 0
+   },
+   {
+    "q": "Why did his boss tell him off?",
+    "options": [
+     "He forgot a meeting",
+     "He was late",
+     "He was rude"
+    ],
+    "a": 1
+   },
+   {
+    "q": "How does A cheer him up?",
+    "options": [
+     "Lends him a bike",
+     "Invites him to a restaurant",
+     "Calls the police"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Tell about a time something bad happened to you, using se faire + infinitive (stolen, ripped off, bitten…).",
+   "model": "L'été passé, je me suis fait piquer par des dizaines de maringouins au camping. Et en revenant, je me suis fait arrêter pour excès de vitesse!"
+  },
+  {
+   "prompt": "Say two things you had done to you voluntarily this year (haircut, vaccine, etc.).",
+   "model": "Je me suis fait couper les cheveux la semaine passée, et je me suis fait vacciner contre la grippe en octobre."
+  },
+  {
+   "prompt": "Confess a temptation you gave in to, using se laisser tenter.",
+   "model": "Hier, je me suis laissé tenter par une deuxième part de tarte au sucre."
+  },
+  {
+   "prompt": "Reassure a friend: standard French, then casual Quebec.",
+   "model": "Ne t'en fais pas, ça va bien aller. / Fais-toi-z'en pas, ça va ben aller."
+  }
+ ],
+ "write": {
+  "prompt": "Write 6–8 sentences about a frustrating experience (a scam, a theft, a bad purchase). Use se faire at least three times and se laisser at least twice.",
+  "model": "Le mois passé, je me suis fait avoir par un vendeur de chars usagés. Il était tellement sympathique que je me suis laissé convaincre en dix minutes. Je n'ai même pas fait vérifier le char par un mécanicien. Une semaine plus tard, le moteur a lâché sur l'autoroute 40. Je me suis fait remorquer jusqu'au garage, et la réparation coûtait 3000 $. Mon frère m'a dit : « Tu t'es fait passer un sapin! » La prochaine fois, je ne me laisserai pas faire."
+ },
+ "quiz": [
+  {
+   "q": "'Il s'est fait opérer' means…",
+   "options": [
+    "He operated on himself.",
+    "He had surgery.",
+    "He made an operation.",
+    "He operated a machine."
+   ],
+   "a": 1,
+   "why": "Se faire + infinitive: the action is done to him."
+  },
+  {
+   "q": "Which is spelled correctly?",
+   "options": [
+    "Elles se sont faites avoir.",
+    "Elles se sont fait avoir.",
+    "Elles se sont faits avoir.",
+    "Elles se sont faire avoir."
+   ],
+   "a": 1,
+   "why": "Fait before an infinitive is invariable."
+  },
+  {
+   "q": "'Se laisser aller' can mean…",
+   "options": [
+    "to leave",
+    "to relax / to let oneself go",
+    "to get lost",
+    "to be sent away"
+   ],
+   "a": 1,
+   "why": "Both 'relax' and 'stop taking care of yourself', depending on context."
+  },
+  {
+   "q": "'Ça ne se fait pas' means…",
+   "options": [
+    "It can't be made.",
+    "That's not done / it's rude.",
+    "It doesn't work.",
+    "It's not finished."
+   ],
+   "a": 1,
+   "why": "A social judgment."
+  },
+  {
+   "q": "What does 'pogner' mean in Quebec?",
+   "options": [
+    "to catch, grab",
+    "to push",
+    "to cook",
+    "to forget"
+   ],
+   "a": 0,
+   "why": "Se faire pogner = to get caught."
+  },
+  {
+   "q": "'Elle s'est fait des amis' uses se faire with…",
+   "options": [
+    "an infinitive (passive meaning)",
+    "a noun (make for oneself)",
+    "an adjective",
+    "a preposition"
+   ],
+   "a": 1,
+   "why": "Se faire + noun = to make (friends) for oneself."
+  },
+  {
+   "q": "Someone 'te passe un sapin'. What happened?",
+   "options": [
+    "They gave you a Christmas tree",
+    "They tricked you",
+    "They passed you on the road",
+    "They paid you back"
+   ],
+   "a": 1,
+   "why": "Passer un sapin = to swindle, Quebec expression."
+  },
+  {
+   "q": "Which sentence means 'I got used to the winter'?",
+   "options": [
+    "Je me suis fait l'hiver.",
+    "Je me suis fait à l'hiver.",
+    "Je me suis laissé l'hiver.",
+    "J'ai fait l'hiver."
+   ],
+   "a": 1,
+   "why": "Se faire à = to get used to."
+  },
+  {
+   "q": "'Ne te laisse pas faire' is advice to…",
+   "options": [
+    "not do anything",
+    "stand up for yourself",
+    "let others do the work",
+    "stop making things"
+   ],
+   "a": 1,
+   "why": "Don't let yourself be pushed around."
+  }
+ ]
+}

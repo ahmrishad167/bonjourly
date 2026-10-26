@@ -1,0 +1,628 @@
+{
+ "w": 29,
+ "title": "Basic connectors: et, mais, parce que, donc",
+ "goal": "By the end of this lesson you can link your ideas with et, mais, ou, parce que, donc, alors and puis, and understand the Quebec spoken connectors pis and faque.",
+ "learn": [
+  {
+   "h": "Adding and contrasting: et, mais, ou",
+   "body": [
+    "*Et* (and) adds: *J'ai un chat et un chien.* *Mais* (but) contrasts: *Il fait froid, mais il fait soleil.* *Ou* (or) gives a choice: *Tu veux du thé ou du café?*",
+    "Don't confuse *ou* (or) with *où* (where): the accent changes the meaning. *Ou bien* is a stronger 'or else'."
+   ],
+   "table": {
+    "head": [
+     "Connector",
+     "Meaning",
+     "Example"
+    ],
+    "rows": [
+     [
+      "et",
+      "and",
+      "Je travaille et j'étudie."
+     ],
+     [
+      "mais",
+      "but",
+      "C'est cher, mais c'est bon."
+     ],
+     [
+      "ou",
+      "or",
+      "On mange ici ou chez toi?"
+     ],
+     [
+      "aussi",
+      "also, too",
+      "Je parle anglais et aussi un peu français."
+     ]
+    ]
+   },
+   "tip": "Ou = or, où = where: the accent points to a place."
+  },
+  {
+   "h": "Giving reasons: parce que",
+   "body": [
+    "*Parce que* (because) introduces a reason and is followed by a full sentence: *Je reste à la maison parce que je suis malade.* Before a vowel it becomes *parce qu'*: *parce qu'il pleut*.",
+    "It answers the question *Pourquoi?* (Why?): *Pourquoi tu apprends le français? — Parce que j'habite à Montréal.*"
+   ],
+   "tip": "Pourquoi? → Parce que… Question and answer go together."
+  },
+  {
+   "h": "Giving results: donc, alors",
+   "body": [
+    "*Donc* (so, therefore) and *alors* (so, then) introduce a result: *Il pleut, donc je prends l'autobus.* *Je suis fatigué, alors je vais au lit.*",
+    "*Alors* is more conversational and also means 'well then': *Alors, on y va?* *Donc* sounds a bit more logical or formal."
+   ],
+   "table": {
+    "head": [
+     "Cause",
+     "Connector",
+     "Result"
+    ],
+    "rows": [
+     [
+      "Il fait beau,",
+      "donc",
+      "on va au parc."
+     ],
+     [
+      "J'ai faim,",
+      "alors",
+      "je mange."
+     ],
+     [
+      "Le métro est en panne,",
+      "donc",
+      "je suis en retard."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Ordering events: puis, ensuite, enfin",
+   "body": [
+    "To tell a sequence: *d'abord* (first), *puis* or *ensuite* (then), *enfin* (finally). *D'abord je mange, puis je travaille, enfin je dors.*",
+    "These connectors make your sentences longer and more natural, even with simple grammar."
+   ]
+  },
+  {
+   "h": "Quebec: pis and faque",
+   "body": [
+    "In Quebec speech, *puis* is pronounced *pis*, and it is used constantly to mean both 'and' and 'and then': *Moi pis mon chum.* (Me and my boyfriend.) *Pis?* also means 'So? And?'",
+    "*Faque* (from *ça fait que*, 'that makes it so that') means 'so': *Il pleuvait, faque on est restés à la maison.* Both are very informal; write *et*, *puis* and *donc*."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "J'ai un frère et une sœur.",
+   "en": "I have a brother and a sister."
+  },
+  {
+   "fr": "C'est cher, mais c'est très bon.",
+   "en": "It's expensive, but it's very good."
+  },
+  {
+   "fr": "Tu veux du thé ou du café?",
+   "en": "Do you want tea or coffee?"
+  },
+  {
+   "fr": "Je reste à la maison parce que je suis malade.",
+   "en": "I'm staying home because I'm sick."
+  },
+  {
+   "fr": "Elle est en retard parce qu'il neige.",
+   "en": "She's late because it's snowing.",
+   "note": "parce qu' before a vowel"
+  },
+  {
+   "fr": "Il pleut, donc je prends l'autobus.",
+   "en": "It's raining, so I'm taking the bus."
+  },
+  {
+   "fr": "J'ai faim, alors je vais au dépanneur.",
+   "en": "I'm hungry, so I'm going to the corner store."
+  },
+  {
+   "fr": "Pourquoi tu apprends le français? Parce que j'habite au Québec.",
+   "en": "Why are you learning French? Because I live in Quebec."
+  },
+  {
+   "fr": "D'abord je prends un café, puis je pars.",
+   "en": "First I have a coffee, then I leave."
+  },
+  {
+   "fr": "Je travaille le matin, ensuite je vais au gym.",
+   "en": "I work in the morning, then I go to the gym."
+  },
+  {
+   "fr": "Il fait beau, mais il fait froid.",
+   "en": "It's nice, but it's cold."
+  },
+  {
+   "fr": "On mange ici ou chez toi?",
+   "en": "Are we eating here or at your place?"
+  },
+  {
+   "fr": "Alors, on y va?",
+   "en": "So, shall we go?",
+   "note": "alors as 'well then'"
+  },
+  {
+   "fr": "Moi pis mon chum, on va au chalet.",
+   "en": "Me and my boyfriend are going to the cottage.",
+   "note": "pis = et, informal Quebec"
+  },
+  {
+   "fr": "Y fait frette, faque je reste en dedans.",
+   "en": "It's freezing, so I'm staying inside.",
+   "note": "faque = donc, informal Quebec"
+  },
+  {
+   "fr": "Je parle anglais et je parle aussi un peu français.",
+   "en": "I speak English and I also speak a little French."
+  }
+ ],
+ "quebec": {
+  "intro": "Two tiny words run through every Quebec conversation: 'pis' (and, and then) and 'faque' (so). They are informal, but you will hear them in nearly every sentence a Quebecer tells a story with.",
+  "items": [
+   {
+    "std": "Moi et mon frère",
+    "qc": "Moi pis mon frère",
+    "en": "My brother and I",
+    "note": "pis = puis, used for 'and'"
+   },
+   {
+    "std": "On mange, puis on part.",
+    "qc": "On mange, pis on part.",
+    "en": "We eat, then we leave.",
+    "note": "pis for 'and then'"
+   },
+   {
+    "std": "Il pleut, donc je reste ici.",
+    "qc": "Y pleut, faque j'reste icitte.",
+    "en": "It's raining, so I'm staying here.",
+    "note": "faque = so; icitte = ici (very informal)"
+   },
+   {
+    "std": "Et alors?",
+    "qc": "Pis?",
+    "en": "So? And?",
+    "note": "asking 'and then what?' or 'so what?'"
+   },
+   {
+    "std": "parce que",
+    "qc": "pasque",
+    "en": "because",
+    "note": "fast pronunciation, very common"
+   },
+   {
+    "std": "Bon, en tout cas…",
+    "qc": "Faque, en tout cas…",
+    "en": "So, anyway…",
+    "note": "faque also starts a sentence to change topic"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "C'est cher, ___ c'est bon.",
+   "options": [
+    "parce que",
+    "mais",
+    "ou",
+    "donc"
+   ],
+   "a": 1,
+   "why": "Mais shows contrast."
+  },
+  {
+   "t": "mcq",
+   "q": "Which answers 'Pourquoi?'",
+   "options": [
+    "Donc…",
+    "Parce que…",
+    "Ou…",
+    "Mais…"
+   ],
+   "a": 1,
+   "why": "Pourquoi? → Parce que…"
+  },
+  {
+   "t": "mcq",
+   "q": "'Faque' means…",
+   "options": [
+    "but",
+    "so",
+    "or",
+    "because"
+   ],
+   "a": 1,
+   "why": "Faque (ça fait que) = so, informal Quebec."
+  },
+  {
+   "t": "mcq",
+   "q": "Which word means 'or'?",
+   "options": [
+    "où",
+    "ou",
+    "et",
+    "puis"
+   ],
+   "a": 1,
+   "why": "Ou = or; où = where."
+  },
+  {
+   "t": "fill",
+   "q": "Je reste ici ___ je suis malade.",
+   "a": [
+    "parce que"
+   ],
+   "en": "I'm staying here because I'm sick.",
+   "why": "parce que + reason."
+  },
+  {
+   "t": "fill",
+   "q": "Elle est en retard ___ il neige.",
+   "a": [
+    "parce qu'"
+   ],
+   "en": "She's late because it's snowing.",
+   "why": "parce que → parce qu' before il."
+  },
+  {
+   "t": "fill",
+   "q": "Il pleut, ___ je prends l'autobus.",
+   "a": [
+    "donc",
+    "alors"
+   ],
+   "en": "It's raining, so I'm taking the bus.",
+   "why": "donc / alors introduce a result."
+  },
+  {
+   "t": "fill",
+   "q": "Tu veux du thé ___ du café?",
+   "a": [
+    "ou"
+   ],
+   "en": "Do you want tea or coffee?",
+   "why": "ou = or (no accent)."
+  },
+  {
+   "t": "build",
+   "en": "First I eat, then I leave.",
+   "a": "D'abord je mange, puis je pars."
+  },
+  {
+   "t": "build",
+   "en": "I'm hungry, so I'm eating.",
+   "a": "J'ai faim, alors je mange."
+  },
+  {
+   "t": "build",
+   "en": "It's nice but it's cold.",
+   "a": "Il fait beau, mais il fait froid."
+  },
+  {
+   "t": "translate",
+   "en": "I'm tired, so I'm going to bed.",
+   "a": [
+    "Je suis fatigué, donc je vais au lit.",
+    "Je suis fatiguée, donc je vais au lit.",
+    "Je suis fatigué, alors je vais au lit.",
+    "Je suis fatiguée, alors je vais au lit.",
+    "Je suis fatigué, donc je vais me coucher.",
+    "Je suis fatiguée, alors je vais me coucher."
+   ],
+   "why": "Cause + donc / alors + result."
+  },
+  {
+   "t": "translate",
+   "en": "I'm learning French because I live in Quebec.",
+   "a": [
+    "J'apprends le français parce que j'habite au Québec.",
+    "J'apprends le français parce que je vis au Québec.",
+    "J'apprends le français parce que je demeure au Québec."
+   ],
+   "why": "parce que + full sentence; au Québec for the province."
+  },
+  {
+   "t": "translate",
+   "en": "Me and my friend",
+   "a": [
+    "Moi et mon ami",
+    "Moi et mon amie",
+    "Moi pis mon ami",
+    "Moi pis mon amie",
+    "Moi et mon chum",
+    "Moi pis mon chum"
+   ],
+   "why": "Pis is the casual Quebec 'and'."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "et",
+   "en": "and",
+   "ex": "Toi et moi."
+  },
+  {
+   "fr": "mais",
+   "en": "but",
+   "ex": "C'est petit, mais c'est beau."
+  },
+  {
+   "fr": "ou",
+   "en": "or",
+   "ex": "Ici ou là-bas?"
+  },
+  {
+   "fr": "parce que",
+   "en": "because",
+   "ex": "Parce que c'est le fun!"
+  },
+  {
+   "fr": "pourquoi",
+   "en": "why",
+   "ex": "Pourquoi tu pars?"
+  },
+  {
+   "fr": "donc",
+   "en": "so, therefore",
+   "ex": "Je pense, donc je suis."
+  },
+  {
+   "fr": "alors",
+   "en": "so, then, well then",
+   "ex": "Alors, ça va?"
+  },
+  {
+   "fr": "puis",
+   "en": "then, and then",
+   "ex": "Je mange, puis je pars."
+  },
+  {
+   "fr": "ensuite",
+   "en": "next, then",
+   "ex": "Ensuite, on va au cinéma."
+  },
+  {
+   "fr": "d'abord",
+   "en": "first, at first",
+   "ex": "D'abord, un café."
+  },
+  {
+   "fr": "enfin",
+   "en": "finally",
+   "ex": "Enfin, c'est vendredi!"
+  },
+  {
+   "fr": "aussi",
+   "en": "also, too",
+   "ex": "Moi aussi!"
+  },
+  {
+   "fr": "pis",
+   "en": "and, and then (informal)",
+   "ex": "Moi pis toi.",
+   "qc": true
+  },
+  {
+   "fr": "faque",
+   "en": "so (informal)",
+   "ex": "Faque, on y va?",
+   "qc": true
+  },
+  {
+   "fr": "en tout cas",
+   "en": "anyway, in any case",
+   "ex": "En tout cas, bonne fin de semaine!"
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "et",
+    "tip": "Just [é]: the t is never pronounced, and never linked."
+   },
+   {
+    "fr": "mais",
+    "tip": "[mè], open è."
+   },
+   {
+    "fr": "parce que",
+    "tip": "PARSS-kuh; in speech often 'pasque'."
+   },
+   {
+    "fr": "donc",
+    "tip": "DONK: the c is usually pronounced at the start of a clause."
+   },
+   {
+    "fr": "pis",
+    "tip": "Quebec: PEE, short."
+   },
+   {
+    "fr": "faque",
+    "tip": "Quebec: FAK, one syllable."
+   }
+  ],
+  "title": "Une fin de semaine ratée",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Pis, ta fin de semaine au chalet?",
+    "en": "So, your weekend at the cottage?"
+   },
+   {
+    "s": "B",
+    "fr": "Bof. On part vendredi, mais il pleut tout le temps.",
+    "en": "Meh. We leave Friday, but it rains the whole time."
+   },
+   {
+    "s": "A",
+    "fr": "Ah non! Faque vous restez en dedans?",
+    "en": "Oh no! So you stay inside?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui. D'abord on joue aux cartes, pis on regarde des films.",
+    "en": "Yes. First we play cards, then we watch movies."
+   },
+   {
+    "s": "A",
+    "fr": "C'est pas si pire!",
+    "en": "That's not so bad!"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, mais dimanche, il fait beau, donc on va au lac... parce que c'est le dernier jour!",
+    "en": "Yes, but on Sunday it's nice, so we go to the lake... because it's the last day!"
+   },
+   {
+    "s": "A",
+    "fr": "En tout cas, au moins une belle journée!",
+    "en": "Anyway, at least one nice day!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What is the weather like most of the weekend?",
+    "options": [
+     "Sunny",
+     "Rainy",
+     "Snowy"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What do they do inside?",
+    "options": [
+     "Cook and read",
+     "Play cards and watch movies",
+     "Sleep"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Why do they go to the lake on Sunday?",
+    "options": [
+     "It's nice and it's the last day",
+     "Friends invite them",
+     "It's hot"
+    ],
+    "a": 0
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Say why you are learning French, using parce que.",
+   "model": "J'apprends le français parce que j'habite à Montréal et parce que j'aime la culture québécoise."
+  },
+  {
+   "prompt": "Describe your morning in three steps with d'abord, puis, enfin.",
+   "model": "D'abord, je prends un café. Puis je prends une douche. Enfin, je pars au travail."
+  },
+  {
+   "prompt": "Tell a mini-story the Quebec way using pis and faque.",
+   "model": "Y neige, faque j'prends l'autobus, pis j'arrive en retard."
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences about your weekend plans using at least five different connectors.",
+  "model": "Samedi, je vais au marché parce que j'ai besoin de légumes. Ensuite, je vais chez ma sœur. Elle habite loin, donc je prends le métro. Dimanche, je veux aller au parc, mais il va pleuvoir. Alors on va regarder un film ou jouer aux cartes."
+ },
+ "quiz": [
+  {
+   "q": "'Donc' introduces…",
+   "options": [
+    "a reason",
+    "a result",
+    "a contrast",
+    "a choice"
+   ],
+   "a": 1,
+   "why": "Donc = so, therefore (result)."
+  },
+  {
+   "q": "'Parce que' + 'il' becomes…",
+   "options": [
+    "parce que il",
+    "parce qu'il",
+    "parc'il",
+    "parce il"
+   ],
+   "a": 1,
+   "why": "Que elides before a vowel."
+  },
+  {
+   "q": "'Pis' is the Quebec pronunciation of…",
+   "options": [
+    "puis",
+    "pas",
+    "pire",
+    "pour"
+   ],
+   "a": 0,
+   "why": "Pis = puis (and, then)."
+  },
+  {
+   "q": "Which is a contrast word?",
+   "options": [
+    "et",
+    "mais",
+    "puis",
+    "donc"
+   ],
+   "a": 1,
+   "why": "Mais = but."
+  },
+  {
+   "q": "'D'abord… puis… enfin' is used to…",
+   "options": [
+    "give reasons",
+    "order events",
+    "compare",
+    "ask questions"
+   ],
+   "a": 1,
+   "why": "First… then… finally."
+  },
+  {
+   "q": "'Faque' comes from…",
+   "options": [
+    "ça fait que",
+    "fais que",
+    "la fac",
+    "en fait"
+   ],
+   "a": 0,
+   "why": "Ça fait que → faque."
+  },
+  {
+   "q": "'Alors, on y va?' means…",
+   "options": [
+    "Because we go",
+    "So, shall we go?",
+    "Then we went",
+    "Or are we going?"
+   ],
+   "a": 1,
+   "why": "Alors = so / well then."
+  },
+  {
+   "q": "Is 'faque' OK in a formal email?",
+   "options": [
+    "Yes",
+    "No, use donc or alors",
+    "Only at the end",
+    "Only in Quebec City"
+   ],
+   "a": 1,
+   "why": "Faque is spoken and informal."
+  }
+ ]
+}

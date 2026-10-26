@@ -1,0 +1,643 @@
+{
+ "w": 115,
+ "title": "Narrating with all past tenses",
+ "goal": "By the end of this lesson you can tell a complete story in the past, combining the passé composé, imparfait, plus-que-parfait, venir de, aller and the future-in-the-past, and you can tell a Quebec winter-storm story with the right vocabulary.",
+ "learn": [
+  {
+   "h": "The three core tenses and their jobs",
+   "body": [
+    "A story in French needs a backdrop and a series of events. The imparfait paints the backdrop (weather, time, feelings, what was going on). The passé composé moves the plot forward (what happened, one event after another). The plus-que-parfait steps back to something that had happened before.",
+    "*Il neigeait depuis le matin* (backdrop). *Vers six heures, l'électricité a manqué* (event). *Heureusement, j'avais acheté des chandelles la veille* (earlier past)."
+   ],
+   "table": {
+    "head": [
+     "Tense",
+     "Job in the story",
+     "Example"
+    ],
+    "rows": [
+     [
+      "imparfait",
+      "setting, description, ongoing action, habit",
+      "Il faisait −25 et le vent soufflait."
+     ],
+     [
+      "passé composé",
+      "completed events, plot",
+      "Le toit a craqué. On est sortis."
+     ],
+     [
+      "plus-que-parfait",
+      "an earlier past (flashback)",
+      "J'avais oublié de mettre de l'essence."
+     ]
+    ]
+   },
+   "tip": "Ask: is it the scenery (imparfait), the action (passé composé), or the backstory (plus-que-parfait)?"
+  },
+  {
+   "h": "Interrupted actions and near past / near future",
+   "body": [
+    "An action in progress (imparfait) is often interrupted by an event (passé composé): *Je pelletais quand la charrue est passée.* Use *être en train de* in the imparfait to stress the ongoing action: *J'étais en train de souper quand…*",
+    "*venir de* in the imparfait = 'had just': *Je venais de finir de pelleter quand la charrue est passée.* *aller* in the imparfait = 'was about to': *J'allais partir quand ma voisine a appelé.*"
+   ]
+  },
+  {
+   "h": "The future seen from the past",
+   "body": [
+    "When you tell what someone thought or said about the future, use the conditionnel présent: *La météo disait qu'il tomberait 40 cm.* *Je savais que ce serait une longue nuit.*",
+    "For something that would be finished in that future, use the conditionnel passé: *On m'a dit que les routes auraient été déneigées avant le matin.*"
+   ]
+  },
+  {
+   "h": "Storytelling connectors",
+   "body": [
+    "Time markers make a story easy to follow: *ce jour-là* (that day), *la veille* (the day before), *le lendemain* (the next day), *tout à coup / soudain* (suddenly), *au bout d'une heure* (after an hour), *pendant que* (while), *à ce moment-là* (at that moment), *finalement / enfin* (finally).",
+    "In written literature and some news stories you'll also see the passé simple (*il neigea, ils partirent*). You only need to recognise it; in speech, always use the passé composé."
+   ]
+  },
+  {
+   "h": "Quebec: winter storm vocabulary",
+   "body": [
+    "Every Quebecer has a storm story. Key words: *une tempête* (storm), *une bordée de neige* (a big snowfall), *la poudrerie* (blowing, drifting snow), *le verglas* (freezing rain / ice), *un banc de neige* (snowbank), *la souffleuse* (snowblower), *la déneigeuse* (snowplow), *la sloche* (slush, informal).",
+    "*La crise du verglas* of January 1998 left over a million Quebec households without power, some for weeks. It's still a classic 'Where were you?' story."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Il neigeait depuis trois jours et les routes étaient fermées.",
+   "en": "It had been snowing for three days and the roads were closed.",
+   "note": "imparfait for setting (depuis + imparfait)"
+  },
+  {
+   "fr": "Tout à coup, l'électricité a manqué.",
+   "en": "Suddenly, the power went out.",
+   "note": "passé composé for the event"
+  },
+  {
+   "fr": "Heureusement, j'avais acheté des piles la veille.",
+   "en": "Luckily, I had bought batteries the day before.",
+   "note": "plus-que-parfait for an earlier action"
+  },
+  {
+   "fr": "Je pelletais l'entrée quand la déneigeuse est passée.",
+   "en": "I was shovelling the driveway when the snowplow went by.",
+   "note": "imparfait interrupted by passé composé"
+  },
+  {
+   "fr": "Je venais de finir quand un autre banc de neige s'est formé.",
+   "en": "I had just finished when another snowbank formed.",
+   "note": "venir de in the imparfait = had just"
+  },
+  {
+   "fr": "J'allais partir quand ma voisine m'a appelé.",
+   "en": "I was about to leave when my neighbour called me.",
+   "note": "aller in the imparfait = was about to"
+  },
+  {
+   "fr": "La météo annonçait qu'il tomberait 40 centimètres.",
+   "en": "The forecast said 40 centimetres would fall.",
+   "note": "future in the past = conditionnel"
+  },
+  {
+   "fr": "Nous étions en train de souper quand le toit a craqué.",
+   "en": "We were in the middle of supper when the roof creaked.",
+   "note": "être en train de in the imparfait"
+  },
+  {
+   "fr": "Au bout d'une heure, on a enfin réussi à sortir le char.",
+   "en": "After an hour, we finally managed to get the car out.",
+   "note": "au bout de = after (a duration)"
+  },
+  {
+   "fr": "Le lendemain, toute la ville était blanche.",
+   "en": "The next day, the whole city was white.",
+   "note": "le lendemain + description"
+  },
+  {
+   "fr": "Pendant que mon père dégageait le toit, ma mère faisait du chocolat chaud.",
+   "en": "While my father cleared the roof, my mother made hot chocolate.",
+   "note": "two simultaneous background actions"
+  },
+  {
+   "fr": "Je savais que ce serait une longue nuit.",
+   "en": "I knew it would be a long night.",
+   "note": "conditionnel after a past verb"
+  },
+  {
+   "fr": "On ne voyait rien à cause de la poudrerie.",
+   "en": "We couldn't see anything because of the blowing snow.",
+   "note": "poudrerie = blowing snow, Quebec"
+  },
+  {
+   "fr": "En 1998, nous avons passé deux semaines sans électricité.",
+   "en": "In 1998, we spent two weeks without power.",
+   "note": "a duration with a clear end → passé composé"
+  },
+  {
+   "fr": "Quand j'étais petit, on construisait des forts dans les bancs de neige.",
+   "en": "When I was little, we built forts in the snowbanks.",
+   "note": "imparfait for habits"
+  },
+  {
+   "fr": "Les écoles avaient déjà fermé quand la tempête a commencé.",
+   "en": "Schools had already closed when the storm started.",
+   "note": "plus-que-parfait vs passé composé"
+  }
+ ],
+ "quebec": {
+  "intro": "A winter-storm story is the classic Quebec narrative. Here are the storm words you'll hear and the casual way people tell these stories.",
+  "items": [
+   {
+    "std": "Il est tombé énormément de neige.",
+    "qc": "On a eu toute une bordée!",
+    "en": "We got a huge snowfall!",
+    "note": "bordée de neige = big snowfall; toute une = quite a"
+   },
+   {
+    "std": "La neige soufflée par le vent empêchait de voir.",
+    "qc": "Avec la poudrerie, on voyait rien.",
+    "en": "With the blowing snow, we couldn't see a thing.",
+    "note": "poudrerie is standard Quebec French; dropping ne is informal"
+   },
+   {
+    "std": "La voiture était coincée dans la neige.",
+    "qc": "Le char était pris dans le banc de neige.",
+    "en": "The car was stuck in the snowbank.",
+    "note": "être pris = to be stuck; char informal"
+   },
+   {
+    "std": "Le chasse-neige est passé.",
+    "qc": "La charrue est passée.",
+    "en": "The snowplow went by.",
+    "note": "charrue (lit. plough) is informal; déneigeuse is the neutral Quebec term"
+   },
+   {
+    "std": "Il y avait de la neige fondante partout.",
+    "qc": "Y'avait de la sloche partout.",
+    "en": "There was slush everywhere.",
+    "note": "sloche, from English slush, informal"
+   },
+   {
+    "std": "Je déblayais la neige quand…",
+    "qc": "J'étais en train de pelleter quand…",
+    "en": "I was shovelling when…",
+    "note": "pelleter is the everyday verb"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Il ___ très froid ce soir-là.",
+   "options": [
+    "a fait",
+    "faisait",
+    "avait fait",
+    "fera"
+   ],
+   "a": 1,
+   "why": "Weather as background → imparfait."
+  },
+  {
+   "t": "mcq",
+   "q": "Soudain, le courant ___.",
+   "options": [
+    "manquait",
+    "a manqué",
+    "manquerait",
+    "avait manqué"
+   ],
+   "a": 1,
+   "why": "A sudden event → passé composé."
+  },
+  {
+   "t": "mcq",
+   "q": "J'avais acheté des chandelles ___ (the day before).",
+   "options": [
+    "le lendemain",
+    "la veille",
+    "au bout",
+    "ce jour"
+   ],
+   "a": 1,
+   "why": "La veille = the day before."
+  },
+  {
+   "t": "mcq",
+   "q": "'J'allais sortir quand il a appelé' means…",
+   "options": [
+    "I went out when he called.",
+    "I was about to go out when he called.",
+    "I would go out if he called.",
+    "I had gone out when he called."
+   ],
+   "a": 1,
+   "why": "Aller in the imparfait = was about to."
+  },
+  {
+   "t": "fill",
+   "q": "Je ___ de finir de pelleter quand la charrue est passée. (venir)",
+   "a": [
+    "venais"
+   ],
+   "en": "I had just finished shovelling when the plow went by.",
+   "why": "Venir de in the imparfait = had just."
+  },
+  {
+   "t": "fill",
+   "q": "La météo disait qu'il ___ toute la nuit. (neiger)",
+   "a": [
+    "neigerait"
+   ],
+   "en": "The forecast said it would snow all night.",
+   "why": "Future in the past → conditionnel."
+  },
+  {
+   "t": "fill",
+   "q": "Quand je suis arrivé, la tempête ___ déjà commencé. (avoir)",
+   "a": [
+    "avait"
+   ],
+   "en": "When I arrived, the storm had already started.",
+   "why": "Earlier past → plus-que-parfait."
+  },
+  {
+   "t": "fill",
+   "q": "Nous ___ en train de souper quand on a frappé. (être)",
+   "a": [
+    "étions"
+   ],
+   "en": "We were having supper when someone knocked.",
+   "why": "Être en train de in the imparfait."
+  },
+  {
+   "t": "build",
+   "en": "It was snowing when we left.",
+   "a": "Il neigeait quand nous sommes partis."
+  },
+  {
+   "t": "build",
+   "en": "The next day, the roads were closed.",
+   "a": "Le lendemain, les routes étaient fermées."
+  },
+  {
+   "t": "build",
+   "en": "I had forgotten my gloves.",
+   "a": "J'avais oublié mes gants."
+  },
+  {
+   "t": "translate",
+   "en": "The power went out.",
+   "a": [
+    "L'électricité a manqué.",
+    "Le courant a manqué.",
+    "Il y a eu une panne d'électricité.",
+    "Il y a eu une panne de courant.",
+    "L'électricité est tombée."
+   ],
+   "why": "A completed event → passé composé."
+  },
+  {
+   "t": "translate",
+   "en": "I knew it would be long.",
+   "a": [
+    "Je savais que ce serait long.",
+    "Je savais que ça serait long."
+   ],
+   "why": "Future in the past → conditionnel."
+  },
+  {
+   "t": "translate",
+   "en": "The car was stuck in the snow.",
+   "a": [
+    "La voiture était prise dans la neige.",
+    "Le char était pris dans la neige.",
+    "L'auto était prise dans la neige.",
+    "La voiture était coincée dans la neige.",
+    "L'auto était coincée dans la neige."
+   ],
+   "why": "A state → imparfait; être pris = stuck in Quebec."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "la tempête",
+   "en": "storm",
+   "g": "f",
+   "ex": "La tempête a duré deux jours."
+  },
+  {
+   "fr": "la bordée de neige",
+   "en": "heavy snowfall",
+   "g": "f",
+   "ex": "On a eu une grosse bordée hier.",
+   "qc": true
+  },
+  {
+   "fr": "la poudrerie",
+   "en": "blowing / drifting snow",
+   "g": "f",
+   "ex": "La poudrerie rendait la route dangereuse.",
+   "qc": true
+  },
+  {
+   "fr": "le verglas",
+   "en": "freezing rain, black ice",
+   "g": "m",
+   "ex": "Attention au verglas ce matin."
+  },
+  {
+   "fr": "le banc de neige",
+   "en": "snowbank",
+   "g": "m",
+   "ex": "Les enfants jouent dans le banc de neige.",
+   "qc": true
+  },
+  {
+   "fr": "la souffleuse",
+   "en": "snowblower",
+   "g": "f",
+   "ex": "Mon voisin a une souffleuse.",
+   "qc": true
+  },
+  {
+   "fr": "la déneigeuse",
+   "en": "snowplow",
+   "g": "f",
+   "ex": "La déneigeuse passe à trois heures du matin.",
+   "qc": true
+  },
+  {
+   "fr": "la sloche",
+   "en": "slush",
+   "g": "f",
+   "ex": "Mes bottes sont pleines de sloche.",
+   "qc": true
+  },
+  {
+   "fr": "la panne d'électricité",
+   "en": "power outage",
+   "g": "f",
+   "ex": "La panne a duré dix heures."
+  },
+  {
+   "fr": "la chandelle",
+   "en": "candle",
+   "g": "f",
+   "ex": "On a soupé à la chandelle."
+  },
+  {
+   "fr": "être pris",
+   "en": "to be stuck",
+   "ex": "On était pris sur l'autoroute.",
+   "qc": true
+  },
+  {
+   "fr": "la veille",
+   "en": "the day before, the eve",
+   "g": "f",
+   "ex": "La veille, il faisait beau."
+  },
+  {
+   "fr": "le lendemain",
+   "en": "the next day",
+   "g": "m",
+   "ex": "Le lendemain, tout était fermé."
+  },
+  {
+   "fr": "tout à coup",
+   "en": "suddenly",
+   "ex": "Tout à coup, on a entendu un bruit."
+  },
+  {
+   "fr": "au bout de",
+   "en": "after (a period), at the end of",
+   "ex": "Au bout de deux heures, la route a rouvert."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "il neigeait / il a neigé",
+    "tip": "il nè-ZHÈ vs il a nè-ZHÉ: open vs closed final vowel."
+   },
+   {
+    "fr": "j'avais acheté",
+    "tip": "zha-vè-zash-TÉ: liaison in [z]."
+   },
+   {
+    "fr": "poudrerie",
+    "tip": "poo-druh-RI; often 'poud'rie'."
+   },
+   {
+    "fr": "verglas",
+    "tip": "vèr-GLA: final s silent."
+   },
+   {
+    "fr": "le lendemain",
+    "tip": "luh lan-duh-MIN; casually 'lan-d'min'."
+   },
+   {
+    "fr": "souffleuse",
+    "tip": "soo-FLEUZ."
+   }
+  ],
+  "title": "La tempête de mars",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Te rappelles-tu la tempête de mars 2017?",
+    "en": "Do you remember the March 2017 storm?"
+   },
+   {
+    "s": "B",
+    "fr": "Voyons, comment oublier! Il neigeait depuis le matin et la poudrerie était terrible.",
+    "en": "Come on, how could I forget! It had been snowing since morning and the blowing snow was terrible."
+   },
+   {
+    "s": "A",
+    "fr": "Moi, j'étais sur l'autoroute 13. Des centaines de chars sont restés pris toute la nuit.",
+    "en": "I was on Highway 13. Hundreds of cars stayed stuck all night."
+   },
+   {
+    "s": "B",
+    "fr": "Sérieux? Tu étais là-dedans?",
+    "en": "Seriously? You were in that?"
+   },
+   {
+    "s": "A",
+    "fr": "Oui! J'allais rentrer tôt, mais mon boss m'avait demandé de finir un dossier.",
+    "en": "Yes! I was going to head home early, but my boss had asked me to finish a file."
+   },
+   {
+    "s": "B",
+    "fr": "Pis, comment t'es sorti?",
+    "en": "So how did you get out?"
+   },
+   {
+    "s": "A",
+    "fr": "Vers quatre heures du matin, les policiers sont arrivés. Je venais de m'endormir!",
+    "en": "Around four in the morning, the police arrived. I had just fallen asleep!"
+   },
+   {
+    "s": "B",
+    "fr": "Quelle histoire! Moi, j'étais tranquille chez nous, en train de pelleter.",
+    "en": "What a story! Me, I was quietly at home, shovelling."
+   }
+  ],
+  "questions": [
+   {
+    "q": "Where was A during the storm?",
+    "options": [
+     "At home",
+     "Stuck on Highway 13",
+     "At the airport"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Why didn't A go home early?",
+    "options": [
+     "The car broke down",
+     "The boss had asked A to finish a file",
+     "A was waiting for a friend"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What was A doing when the police arrived?",
+    "options": [
+     "Shovelling",
+     "Had just fallen asleep",
+     "Calling home"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Describe the setting of a memorable winter day in three sentences (imparfait only).",
+   "model": "C'était un samedi de janvier. Il faisait −30 et le ciel était tout bleu. Les arbres étaient couverts de givre."
+  },
+  {
+   "prompt": "Now tell three events that happened that day (passé composé), with one flashback (plus-que-parfait).",
+   "model": "Ma batterie de char est morte. J'ai appelé mon voisin, qui est venu m'aider. Heureusement, il avait acheté des câbles la semaine d'avant."
+  },
+  {
+   "prompt": "Use 'j'allais… quand' and 'je venais de… quand' in two sentences.",
+   "model": "J'allais partir au travail quand l'école a annoncé sa fermeture. Je venais de pelleter quand la déneigeuse a tout bloqué."
+  },
+  {
+   "prompt": "Tell a friend, casually, about a big snowfall.",
+   "model": "On a eu toute une bordée hier! Y'avait de la poudrerie, on voyait rien, pis mon char était pris dans le banc de neige."
+  }
+ ],
+ "write": {
+  "prompt": "Write a winter-storm story of 8–10 sentences (real or invented). Use the imparfait, passé composé, plus-que-parfait, and at least one 'venir de', one 'aller' + infinitive in the imparfait and one future-in-the-past.",
+  "model": "C'était le 15 février, et la météo annonçait qu'il tomberait 50 centimètres. J'avais fait l'épicerie la veille, donc j'étais prête. Vers midi, il neigeait tellement fort qu'on ne voyait plus la maison d'en face. J'allais sortir pelleter quand l'électricité a manqué. Heureusement, mon frère m'avait prêté une génératrice l'année d'avant. Le soir, je venais de m'installer avec un livre et une chandelle quand quelqu'un a cogné à la porte. C'était ma voisine, Mme Lavoie : son char était pris dans le banc de neige. Mon voisin et moi, on a pelleté pendant une heure. Finalement, on a réussi à le sortir. Le lendemain, toute la rue est venue déjeuner chez moi!"
+ },
+ "quiz": [
+  {
+   "q": "Which tense describes the background of a story?",
+   "options": [
+    "passé composé",
+    "imparfait",
+    "futur",
+    "plus-que-parfait"
+   ],
+   "a": 1,
+   "why": "Setting, weather, feelings → imparfait."
+  },
+  {
+   "q": "Which tense goes back to an even earlier past?",
+   "options": [
+    "imparfait",
+    "passé composé",
+    "plus-que-parfait",
+    "conditionnel"
+   ],
+   "a": 2,
+   "why": "J'avais acheté = I had bought."
+  },
+  {
+   "q": "'Je venais d'arriver' means…",
+   "options": [
+    "I was going to arrive.",
+    "I had just arrived.",
+    "I came to arrive.",
+    "I would arrive."
+   ],
+   "a": 1,
+   "why": "Venir de in the imparfait."
+  },
+  {
+   "q": "'Il a dit qu'il viendrait' — viendrait is…",
+   "options": [
+    "a polite request",
+    "the future seen from the past",
+    "a hypothesis with si",
+    "a habit"
+   ],
+   "a": 1,
+   "why": "Conditionnel as future in the past."
+  },
+  {
+   "q": "What is 'la poudrerie'?",
+   "options": [
+    "a gunpowder factory",
+    "blowing, drifting snow",
+    "icy rain",
+    "powdered sugar"
+   ],
+   "a": 1,
+   "why": "Quebec winter word."
+  },
+  {
+   "q": "'Le lendemain' means…",
+   "options": [
+    "the day before",
+    "the next day",
+    "the same day",
+    "the weekend"
+   ],
+   "a": 1,
+   "why": "Le lendemain = the following day."
+  },
+  {
+   "q": "Choose the correct sentence.",
+   "options": [
+    "Je pelletais quand la charrue passait soudain.",
+    "Je pelletais quand la charrue est passée.",
+    "J'ai pelleté quand la charrue passait soudain.",
+    "Je pelletterai quand la charrue est passée."
+   ],
+   "a": 1,
+   "why": "Ongoing action (imparfait) interrupted by an event (passé composé)."
+  },
+  {
+   "q": "Which Quebec word means 'slush'?",
+   "options": [
+    "la poudrerie",
+    "la sloche",
+    "le verglas",
+    "la bordée"
+   ],
+   "a": 1,
+   "why": "Sloche, from English slush, informal."
+  },
+  {
+   "q": "In novels you may read 'il neigea'. That tense is…",
+   "options": [
+    "the passé simple",
+    "the imparfait",
+    "the futur",
+    "a Quebec form"
+   ],
+   "a": 0,
+   "why": "Recognise the passé simple; speak with the passé composé."
+  }
+ ]
+}

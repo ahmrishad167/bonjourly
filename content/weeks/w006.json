@@ -1,0 +1,694 @@
+{
+ "w": 6,
+ "title": "Guessing the gender of nouns",
+ "goal": "By the end of this lesson you can guess the gender of most new nouns from their ending, know the main exceptions, and understand why you will hear 'une autobus' in Quebec while writing 'un autobus'.",
+ "learn": [
+  {
+   "h": "Endings are your best clue",
+   "body": [
+    "Gender is not random: the ending of a noun predicts its gender correctly most of the time. When you meet a new word without an article, look at the last letters.",
+    "These rules have exceptions, so they help you guess, not replace learning. Still, they will be right far more often than a coin toss."
+   ]
+  },
+  {
+   "h": "Usually masculine",
+   "body": [
+    "Nouns ending in *-age*, *-ment*, *-eau*, *-isme*, *-oir*, *-ier* and *-et* are usually masculine. So are most nouns ending in a consonant, days, months, seasons, languages and metric units.",
+    "Common exceptions: *la page*, *la plage* (beach), *l'image* (f), *l'eau* (f), *la peau* (skin)."
+   ],
+   "table": {
+    "head": [
+     "Ending",
+     "Examples"
+    ],
+    "rows": [
+     [
+      "-age",
+      "le fromage, le voyage, le garage"
+     ],
+     [
+      "-ment",
+      "le moment, l'appartement, le gouvernement"
+     ],
+     [
+      "-eau",
+      "le bureau, le gâteau, le manteau"
+     ],
+     [
+      "-isme",
+      "le tourisme, le racisme"
+     ],
+     [
+      "-oir / -ier",
+      "le soir, le miroir, le papier, le cahier"
+     ],
+     [
+      "-et",
+      "le billet, le jouet"
+     ],
+     [
+      "languages",
+      "le français, l'anglais"
+     ]
+    ]
+   },
+   "tip": "Exceptions in -age: la page, la plage, l'image, la cage, la nage, la rage."
+  },
+  {
+   "h": "Usually feminine",
+   "body": [
+    "Nouns ending in *-tion* / *-sion*, *-té*, *-ure*, *-ette*, *-ance* / *-ence*, *-ie*, *-ise* and *-ude* are usually feminine.",
+    "A final *-e* often (but not always) signals a feminine noun: *la porte*, *la table*, *la chaise*. Watch out for masculine words in -e: *le livre*, *le monde*, *le musée*, *le problème*."
+   ],
+   "table": {
+    "head": [
+     "Ending",
+     "Examples"
+    ],
+    "rows": [
+     [
+      "-tion / -sion",
+      "la question, la station, la télévision"
+     ],
+     [
+      "-té",
+      "la liberté, la santé, l'université"
+     ],
+     [
+      "-ure",
+      "la voiture, la culture, la confiture"
+     ],
+     [
+      "-ette",
+      "la fourchette, la toilette, la bicyclette"
+     ],
+     [
+      "-ance / -ence",
+      "la chance, la différence"
+     ],
+     [
+      "-ie / -ise",
+      "la boulangerie, la pharmacie, la valise"
+     ]
+    ]
+   },
+   "tip": "Exceptions: le musée, le lycée, le café, l'été (m), le comité."
+  },
+  {
+   "h": "People and animals",
+   "body": [
+    "For people, gender usually follows the person: *un étudiant* / *une étudiante*, *un ami* / *une amie*. Many nouns just add *-e*. Some change more: *un acteur* / *une actrice*, *un boulanger* / *une boulangère*.",
+    "In Quebec, feminine job titles are standard and expected: *une professeure*, *une auteure*, *une ingénieure*. Quebec adopted these forms long before France."
+   ],
+   "table": {
+    "head": [
+     "Masculine",
+     "Feminine"
+    ],
+    "rows": [
+     [
+      "un étudiant",
+      "une étudiante"
+     ],
+     [
+      "un Canadien",
+      "une Canadienne"
+     ],
+     [
+      "un acteur",
+      "une actrice"
+     ],
+     [
+      "un infirmier",
+      "une infirmière"
+     ],
+     [
+      "un professeur",
+      "une professeure (Quebec usage)"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Quebec: une autobus?",
+   "body": [
+    "Some masculine nouns that start with a vowel are made feminine in casual Quebec speech: *une autobus*, *une avion*, *une ascenseur*. Why? With *l'* and with liaison (*un‿autobus*), you cannot hear the gender, so speakers drift.",
+    "This is informal spoken usage. In writing and careful speech, these words stay masculine: *un autobus*, *un avion*, *un ascenseur*. Recognise the Quebec form, but write the standard."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Le fromage est très bon.",
+   "en": "The cheese is very good.",
+   "note": "-age: masculine"
+  },
+  {
+   "fr": "J'aime la plage.",
+   "en": "I like the beach.",
+   "note": "exception: plage ends in -age but is feminine"
+  },
+  {
+   "fr": "Le bureau est petit.",
+   "en": "The office is small.",
+   "note": "-eau: masculine"
+  },
+  {
+   "fr": "J'ai une question.",
+   "en": "I have a question.",
+   "note": "-tion: feminine"
+  },
+  {
+   "fr": "La santé, c'est important.",
+   "en": "Health is important.",
+   "note": "-té: feminine"
+  },
+  {
+   "fr": "C'est un bon moment.",
+   "en": "It's a good moment.",
+   "note": "-ment: masculine"
+  },
+  {
+   "fr": "La pharmacie est là.",
+   "en": "The pharmacy is there.",
+   "note": "-ie: feminine"
+  },
+  {
+   "fr": "Le musée est grand.",
+   "en": "The museum is big.",
+   "note": "exception: -ée but masculine"
+  },
+  {
+   "fr": "J'ai un billet.",
+   "en": "I have a ticket.",
+   "note": "-et: masculine"
+  },
+  {
+   "fr": "La fourchette est sur la table.",
+   "en": "The fork is on the table.",
+   "note": "-ette: feminine"
+  },
+  {
+   "fr": "L'appartement est petit.",
+   "en": "The apartment is small.",
+   "note": "l' hides gender, but -ment tells you: masculine"
+  },
+  {
+   "fr": "Ma sœur est étudiante.",
+   "en": "My sister is a student.",
+   "note": "people: étudiant → étudiante"
+  },
+  {
+   "fr": "Elle est professeure.",
+   "en": "She is a teacher.",
+   "note": "standard feminine form in Quebec"
+  },
+  {
+   "fr": "L'autobus est en retard.",
+   "en": "The bus is late.",
+   "note": "standard: un autobus (masculine)"
+  },
+  {
+   "fr": "Une autobus arrive.",
+   "en": "A bus is coming.",
+   "note": "casual Quebec speech; write un autobus"
+  }
+ ],
+ "quebec": {
+  "intro": "In casual Quebec speech, some masculine nouns starting with a vowel become feminine: une autobus, une avion. It's informal; in writing they stay masculine.",
+  "items": [
+   {
+    "std": "Un autobus arrive.",
+    "qc": "Une autobus arrive.",
+    "en": "A bus is coming.",
+    "note": "informal spoken; very common"
+   },
+   {
+    "std": "C'est un gros avion.",
+    "qc": "C't'une grosse avion.",
+    "en": "It's a big plane.",
+    "note": "informal spoken"
+   },
+   {
+    "std": "Il y a un ascenseur.",
+    "qc": "Y'a une ascenseur.",
+    "en": "There's an elevator.",
+    "note": "informal spoken; y'a = il y a"
+   },
+   {
+    "std": "J'ai mal au gros orteil.",
+    "qc": "J'ai mal à la grosse orteil.",
+    "en": "My big toe hurts.",
+    "note": "informal spoken"
+   },
+   {
+    "std": "Elle est professeure.",
+    "qc": "Elle est prof.",
+    "en": "She's a teacher.",
+    "note": "professeure is standard Quebec; prof is the casual short form everywhere"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Which gender is 'le voyage' (-age)?",
+   "options": [
+    "masculine",
+    "feminine"
+   ],
+   "a": 0,
+   "why": "-age is usually masculine."
+  },
+  {
+   "t": "mcq",
+   "q": "Which -age word is an exception (feminine)?",
+   "options": [
+    "fromage",
+    "garage",
+    "plage",
+    "voyage"
+   ],
+   "a": 2,
+   "why": "la plage, la page, l'image, la cage are feminine."
+  },
+  {
+   "t": "mcq",
+   "q": "A noun ending in -tion is usually…",
+   "options": [
+    "masculine",
+    "feminine",
+    "plural",
+    "it depends on the region"
+   ],
+   "a": 1,
+   "why": "la question, la station, la nation."
+  },
+  {
+   "t": "mcq",
+   "q": "Which word is masculine even though it ends in -e?",
+   "options": [
+    "la table",
+    "le musée",
+    "la porte",
+    "la chaise"
+   ],
+   "a": 1,
+   "why": "le musée, le livre, le problème are masculine."
+  },
+  {
+   "t": "mcq",
+   "q": "In writing, 'autobus' is…",
+   "options": [
+    "feminine: une autobus",
+    "masculine: un autobus",
+    "either",
+    "only plural"
+   ],
+   "a": 1,
+   "why": "une autobus is spoken Quebec only."
+  },
+  {
+   "t": "fill",
+   "q": "J'ai ___ question. (a)",
+   "a": [
+    "une"
+   ],
+   "en": "I have a question.",
+   "why": "-tion: feminine."
+  },
+  {
+   "t": "fill",
+   "q": "___ bureau est petit. (the)",
+   "a": [
+    "Le"
+   ],
+   "en": "The office is small.",
+   "why": "-eau: masculine."
+  },
+  {
+   "t": "fill",
+   "q": "___ santé, c'est important. (the)",
+   "a": [
+    "La"
+   ],
+   "en": "Health is important.",
+   "why": "-té: feminine."
+  },
+  {
+   "t": "fill",
+   "q": "Elle est ___. (student)",
+   "a": [
+    "étudiante"
+   ],
+   "en": "She's a student.",
+   "why": "Add -e for a woman."
+  },
+  {
+   "t": "build",
+   "en": "The museum is big.",
+   "a": "Le musée est grand."
+  },
+  {
+   "t": "build",
+   "en": "I like the beach.",
+   "a": "J'aime la plage."
+  },
+  {
+   "t": "translate",
+   "en": "The cheese is good.",
+   "a": [
+    "Le fromage est bon."
+   ],
+   "why": "fromage (-age) is masculine."
+  },
+  {
+   "t": "translate",
+   "en": "The pharmacy is there.",
+   "a": [
+    "La pharmacie est là."
+   ],
+   "why": "-ie: feminine; là = there."
+  },
+  {
+   "t": "translate",
+   "en": "She is a teacher.",
+   "a": [
+    "Elle est professeure.",
+    "Elle est prof.",
+    "Elle est enseignante.",
+    "C'est une professeure.",
+    "C'est une prof.",
+    "C'est une enseignante."
+   ],
+   "why": "No article after être with a profession: Elle est professeure."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "le fromage",
+   "en": "cheese",
+   "g": "m",
+   "ex": "J'aime le fromage."
+  },
+  {
+   "fr": "le voyage",
+   "en": "trip",
+   "g": "m",
+   "ex": "Bon voyage!"
+  },
+  {
+   "fr": "la plage",
+   "en": "beach",
+   "g": "f",
+   "ex": "La plage est belle."
+  },
+  {
+   "fr": "le bureau",
+   "en": "office, desk",
+   "g": "m",
+   "ex": "Je suis au bureau."
+  },
+  {
+   "fr": "le moment",
+   "en": "moment",
+   "g": "m",
+   "ex": "Un moment, s'il vous plaît."
+  },
+  {
+   "fr": "l'appartement",
+   "en": "apartment",
+   "g": "m",
+   "ex": "L'appartement est petit."
+  },
+  {
+   "fr": "la question",
+   "en": "question",
+   "g": "f",
+   "ex": "J'ai une question."
+  },
+  {
+   "fr": "la santé",
+   "en": "health",
+   "g": "f",
+   "ex": "À ta santé!"
+  },
+  {
+   "fr": "la pharmacie",
+   "en": "pharmacy",
+   "g": "f",
+   "ex": "La pharmacie est ouverte."
+  },
+  {
+   "fr": "le musée",
+   "en": "museum",
+   "g": "m",
+   "ex": "Le musée est fermé."
+  },
+  {
+   "fr": "le billet",
+   "en": "ticket",
+   "g": "m",
+   "ex": "J'ai deux billets."
+  },
+  {
+   "fr": "la fourchette",
+   "en": "fork",
+   "g": "f",
+   "ex": "Une fourchette, s'il vous plaît."
+  },
+  {
+   "fr": "l'autobus",
+   "en": "bus",
+   "g": "m",
+   "ex": "L'autobus arrive."
+  },
+  {
+   "fr": "l'étudiant / l'étudiante",
+   "en": "student",
+   "ex": "Je suis étudiant."
+  },
+  {
+   "fr": "le / la prof",
+   "en": "teacher (casual)",
+   "ex": "La prof est sympathique."
+  },
+  {
+   "fr": "brisé / brisée",
+   "en": "broken",
+   "ex": "Le téléphone est brisé.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "le fromage",
+    "tip": "fro-MAZH: the final -ge is a soft zh."
+   },
+   {
+    "fr": "la question",
+    "tip": "kes-TYÕ: -tion after s sounds like 'tyon'."
+   },
+   {
+    "fr": "la station",
+    "tip": "sta-SYÕ: -tion usually sounds like 'syon'."
+   },
+   {
+    "fr": "le bureau",
+    "tip": "bü-RO: eau = oh."
+   },
+   {
+    "fr": "la santé",
+    "tip": "sahn-TAY: nasal an, closed é."
+   },
+   {
+    "fr": "un autobus",
+    "tip": "uh-no-to-BÜSS: liaison [n], the s is pronounced."
+   }
+  ],
+  "title": "À l'arrêt d'autobus",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Excusez-moi, j'ai une question.",
+    "en": "Excuse me, I have a question."
+   },
+   {
+    "s": "B",
+    "fr": "Oui?",
+    "en": "Yes?"
+   },
+   {
+    "s": "A",
+    "fr": "L'autobus pour le musée, c'est ici?",
+    "en": "The bus to the museum, is it here?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, mais l'autobus est en retard.",
+    "en": "Yes, but the bus is late."
+   },
+   {
+    "s": "A",
+    "fr": "Ah non! Le musée ferme à cinq heures.",
+    "en": "Oh no! The museum closes at five."
+   },
+   {
+    "s": "B",
+    "fr": "Regardez, une autobus arrive!",
+    "en": "Look, a bus is coming!"
+   },
+   {
+    "s": "A",
+    "fr": "Super, merci!",
+    "en": "Great, thanks!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Where does A want to go?",
+    "options": [
+     "To the beach",
+     "To the museum",
+     "To the pharmacy"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What is the problem?",
+    "options": [
+     "The bus is late",
+     "The museum is closed",
+     "A has no ticket"
+    ],
+    "a": 0
+   },
+   {
+    "q": "Which phrase is casual Quebec speech?",
+    "options": [
+     "j'ai une question",
+     "une autobus arrive",
+     "le musée ferme"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Guess the gender aloud and add le or la: fromage, télévision, gâteau, liberté, voyage, culture.",
+   "model": "le fromage, la télévision, le gâteau, la liberté, le voyage, la culture"
+  },
+  {
+   "prompt": "Say what you are and what a friend is, using masculine and feminine forms.",
+   "model": "Je suis étudiant. Mon amie Julie est étudiante aussi."
+  },
+  {
+   "prompt": "Say the bus is coming, first in standard French, then in casual Quebec style.",
+   "model": "Un autobus arrive. / Une autobus arrive."
+  }
+ ],
+ "write": {
+  "prompt": "Write 6 nouns you know with le or la, and next to each, the ending rule (or exception) that tells you the gender. Then write 2 sentences using them.",
+  "model": "le fromage (-age), la question (-tion), le bureau (-eau), la santé (-té), la plage (exception), le musée (exception). Le fromage est bon. La plage est belle."
+ },
+ "quiz": [
+  {
+   "q": "Which ending is usually masculine?",
+   "options": [
+    "-tion",
+    "-ment",
+    "-ette",
+    "-té"
+   ],
+   "a": 1,
+   "why": "le moment, le gouvernement."
+  },
+  {
+   "q": "Which ending is usually feminine?",
+   "options": [
+    "-eau",
+    "-isme",
+    "-ure",
+    "-oir"
+   ],
+   "a": 2,
+   "why": "la voiture, la culture."
+  },
+  {
+   "q": "'L'eau' is…",
+   "options": [
+    "masculine",
+    "feminine"
+   ],
+   "a": 1,
+   "why": "An exception to -eau: l'eau and la peau are feminine."
+  },
+  {
+   "q": "Why do Quebecers sometimes say 'une avion'?",
+   "options": [
+    "It's the standard form",
+    "Gender is hard to hear before a vowel, so it drifts",
+    "Avion is an English word",
+    "It's plural"
+   ],
+   "a": 1,
+   "why": "With l' and liaison, the gender of vowel-initial words is not audible."
+  },
+  {
+   "q": "Languages are…",
+   "options": [
+    "masculine",
+    "feminine",
+    "it depends"
+   ],
+   "a": 0,
+   "why": "le français, l'anglais, l'espagnol."
+  },
+  {
+   "q": "The feminine of 'acteur' is…",
+   "options": [
+    "acteure",
+    "actrice",
+    "acteuse",
+    "actresse"
+   ],
+   "a": 1,
+   "why": "-teur often becomes -trice."
+  },
+  {
+   "q": "In Quebec, the feminine of 'professeur' is usually written…",
+   "options": [
+    "professeur",
+    "professeure",
+    "professeuse",
+    "professrice"
+   ],
+   "a": 1,
+   "why": "Quebec standard uses professeure, auteure, ingénieure."
+  },
+  {
+   "q": "Which word is an exception to 'final -e = feminine'?",
+   "options": [
+    "la porte",
+    "le problème",
+    "la chaise",
+    "la valise"
+   ],
+   "a": 1,
+   "why": "le problème, le livre, le monde are masculine."
+  },
+  {
+   "q": "The best strategy for gender is to…",
+   "options": [
+    "Guess from the ending and always learn the article",
+    "Make every noun masculine",
+    "Only use l'",
+    "Ignore it"
+   ],
+   "a": 0,
+   "why": "Endings help guess; the article confirms."
+  }
+ ]
+}

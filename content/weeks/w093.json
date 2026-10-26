@@ -1,0 +1,623 @@
+{
+ "w": 93,
+ "title": "Ce qui, ce que, ce dont",
+ "goal": "By the end of this lesson you can say 'what' in the middle of a sentence with ce qui, ce que and ce dont, use them for emphasis, and turn casual Quebec 'c'est ça que' and 'qu'est-ce que' into standard forms.",
+ "learn": [
+  {
+   "h": "'What' that isn't a question",
+   "body": [
+    "English 'what' in 'I know what you want' is not a question; it means 'the thing that'. French says *ce que*: *Je sais ce que tu veux.*",
+    "*Ce* is a neutral 'thing' and is followed by the relative pronoun you already know: *qui* (subject), *que* (object) or *dont* (de + noun)."
+   ],
+   "table": {
+    "head": [
+     "Form",
+     "Role",
+     "Example"
+    ],
+    "rows": [
+     [
+      "ce qui",
+      "subject of the next verb",
+      "Ce qui m'intéresse, c'est l'histoire."
+     ],
+     [
+      "ce que (ce qu')",
+      "object of the next verb",
+      "Ce que je veux, c'est dormir."
+     ],
+     [
+      "ce dont",
+      "verb + de",
+      "Ce dont j'ai besoin, c'est d'un café."
+     ]
+    ]
+   },
+   "tip": "Is there already a subject after the gap? Yes → ce que. No → ce qui."
+  },
+  {
+   "h": "Choosing qui, que or dont",
+   "body": [
+    "Look at the verb that follows. If it has no subject of its own, *ce qui* is the subject: *ce qui se passe* (what's happening).",
+    "If it already has a subject, *ce que* is its object: *ce que tu dis* (what you're saying).",
+    "If the verb or expression takes *de* (*avoir besoin de, parler de, avoir peur de, se souvenir de, rêver de*), use *ce dont*: *ce dont on parle* (what we're talking about)."
+   ]
+  },
+  {
+   "h": "Emphasis: Ce que j'aime, c'est…",
+   "body": [
+    "French loves to put the important idea at the end with *ce … , c'est …*: *Ce que j'aime à Montréal, c'est les festivals.* *Ce qui m'énerve, c'est le trafic.*",
+    "When the second part starts with a plural noun, formal French uses *ce sont*; speech normally keeps *c'est*.",
+    "With *ce dont*, keep the *de* in the second part: *Ce dont j'ai besoin, c'est de repos.*"
+   ]
+  },
+  {
+   "h": "Indirect questions and tout ce qui/que",
+   "body": [
+    "In reported questions, *qu'est-ce que* becomes *ce que*, and *qu'est-ce qui* becomes *ce qui*: *Qu'est-ce que tu veux?* → *Dis-moi ce que tu veux.* / *Qu'est-ce qui se passe?* → *Je ne sais pas ce qui se passe.*",
+    "*Tout ce qui / tout ce que / tout ce dont* = everything that: *Prends tout ce que tu veux.* *C'est tout ce dont je me souviens.*"
+   ]
+  },
+  {
+   "h": "Quebec: c'est ça que, and qu'est-ce que in the middle",
+   "body": [
+    "In speech, Quebecers often use *ça* where standard French uses *ce*: *C'est ça que je veux* (that's what I want) instead of *C'est ce que je veux*. *C'est ça que* is fine in conversation; in writing, prefer *c'est ce que*.",
+    "Very common in casual Quebec speech: keeping *qu'est-ce que* in an indirect question: *Je sais pas qu'est-ce que tu veux.* Standard: *Je ne sais pas ce que tu veux.* Also *c'est ça que j'ai besoin* for *c'est ce dont j'ai besoin*."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Je ne sais pas ce que tu veux.",
+   "en": "I don't know what you want.",
+   "note": "ce que: tu is the subject of veux"
+  },
+  {
+   "fr": "Dis-moi ce qui ne va pas.",
+   "en": "Tell me what's wrong.",
+   "note": "ce qui: subject of va"
+  },
+  {
+   "fr": "Ce dont j'ai besoin, c'est d'une semaine de vacances.",
+   "en": "What I need is a week's vacation.",
+   "note": "avoir besoin de → ce dont … c'est de"
+  },
+  {
+   "fr": "Ce que j'aime à Montréal, c'est les festivals.",
+   "en": "What I love about Montreal is the festivals.",
+   "note": "emphasis; formal: ce sont les festivals"
+  },
+  {
+   "fr": "Ce qui m'énerve, c'est le trafic sur le pont.",
+   "en": "What bugs me is the traffic on the bridge.",
+   "note": "ce qui as subject of énerve"
+  },
+  {
+   "fr": "Je comprends ce que vous dites.",
+   "en": "I understand what you're saying."
+  },
+  {
+   "fr": "On ne sait pas encore ce qui s'est passé.",
+   "en": "We don't know yet what happened.",
+   "note": "qu'est-ce qui s'est passé → ce qui s'est passé"
+  },
+  {
+   "fr": "C'est exactement ce dont on parlait hier.",
+   "en": "That's exactly what we were talking about yesterday.",
+   "note": "parler de → ce dont"
+  },
+  {
+   "fr": "Prends tout ce que tu veux dans le frigo.",
+   "en": "Take whatever you want from the fridge.",
+   "note": "tout ce que = everything that"
+  },
+  {
+   "fr": "C'est tout ce dont je me souviens.",
+   "en": "That's all I remember.",
+   "note": "se souvenir de → tout ce dont"
+  },
+  {
+   "fr": "Tout ce qui brille n'est pas or.",
+   "en": "All that glitters is not gold.",
+   "note": "proverb with tout ce qui"
+  },
+  {
+   "fr": "Ce qu'il dit n'a aucun sens.",
+   "en": "What he's saying makes no sense.",
+   "note": "ce qu' before a vowel"
+  },
+  {
+   "fr": "Je me demande ce qu'elle fait ce soir.",
+   "en": "I wonder what she's doing tonight.",
+   "note": "indirect question"
+  },
+  {
+   "fr": "Ce qui compte, c'est que tu sois heureux.",
+   "en": "What matters is that you're happy.",
+   "note": "c'est que + subjunctive after a judgement"
+  },
+  {
+   "fr": "Il a oublié ce dont il avait peur.",
+   "en": "He forgot what he was afraid of.",
+   "note": "avoir peur de → ce dont"
+  },
+  {
+   "fr": "C'est ce que je pensais.",
+   "en": "That's what I thought.",
+   "note": "spoken Quebec: C'est ça que j'pensais."
+  }
+ ],
+ "quebec": {
+  "intro": "Spoken Quebec French often uses 'ça' instead of 'ce' ('C'est ça que je veux') and keeps 'qu'est-ce que' inside sentences ('Je sais pas qu'est-ce que tu veux'). Both are normal in conversation; the standard forms belong in writing.",
+  "items": [
+   {
+    "std": "C'est ce que je veux.",
+    "qc": "C'est ça que j'veux.",
+    "en": "That's what I want.",
+    "note": "c'est ça que: common, informal"
+   },
+   {
+    "std": "Je ne sais pas ce que tu veux.",
+    "qc": "J'sais pas qu'est-ce que tu veux.",
+    "en": "I don't know what you want.",
+    "note": "qu'est-ce que in an indirect question: very common, non-standard"
+   },
+   {
+    "std": "Je ne sais pas ce qui se passe.",
+    "qc": "J'sais pas qu'est-ce qui se passe.",
+    "en": "I don't know what's happening.",
+    "note": "same pattern with qu'est-ce qui"
+   },
+   {
+    "std": "C'est ce dont j'ai besoin.",
+    "qc": "C'est ça que j'ai besoin.",
+    "en": "That's what I need.",
+    "note": "que for dont: informal"
+   },
+   {
+    "std": "Ce qui m'énerve, c'est le bruit.",
+    "qc": "Ce qui m'écœure, c'est le bruit.",
+    "en": "What gets on my nerves is the noise.",
+    "note": "écœurer = to annoy, to sicken; informal in this sense"
+   },
+   {
+    "std": "C'est ce que je pensais.",
+    "qc": "C'est ça que j'pensais.",
+    "en": "That's what I thought."
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Je ne comprends pas ___ tu dis.",
+   "options": [
+    "ce qui",
+    "ce que",
+    "ce dont",
+    "qu'est-ce que"
+   ],
+   "a": 1,
+   "why": "Tu is the subject of dis, so 'what' is the object → ce que."
+  },
+  {
+   "t": "mcq",
+   "q": "___ m'intéresse, c'est l'histoire du Québec.",
+   "options": [
+    "Ce que",
+    "Ce qui",
+    "Ce dont",
+    "Qu'est-ce qui"
+   ],
+   "a": 1,
+   "why": "Intéresse has no other subject → ce qui."
+  },
+  {
+   "t": "mcq",
+   "q": "___ j'ai peur, c'est des araignées.",
+   "options": [
+    "Ce que",
+    "Ce qui",
+    "Ce dont",
+    "Dont"
+   ],
+   "a": 2,
+   "why": "Avoir peur de → ce dont."
+  },
+  {
+   "t": "mcq",
+   "q": "Standard form of 'J'sais pas qu'est-ce que tu veux':",
+   "options": [
+    "Je ne sais pas qu'est-ce que tu veux.",
+    "Je ne sais pas ce que tu veux.",
+    "Je ne sais pas ce qui tu veux.",
+    "Je ne sais pas quoi que tu veux."
+   ],
+   "a": 1,
+   "why": "In indirect questions, qu'est-ce que → ce que."
+  },
+  {
+   "t": "fill",
+   "q": "Dis-moi ___ ne va pas. (what)",
+   "a": [
+    "ce qui"
+   ],
+   "en": "Tell me what's wrong.",
+   "why": "Subject of va → ce qui."
+  },
+  {
+   "t": "fill",
+   "q": "C'est exactement ___ on parlait. (what … about)",
+   "a": [
+    "ce dont"
+   ],
+   "en": "That's exactly what we were talking about.",
+   "why": "Parler de → ce dont."
+  },
+  {
+   "t": "fill",
+   "q": "Prends tout ___ tu veux. (what)",
+   "a": [
+    "ce que"
+   ],
+   "en": "Take whatever you want.",
+   "why": "Tu is the subject → ce que."
+  },
+  {
+   "t": "fill",
+   "q": "Je ne sais pas ___ s'est passé. (what)",
+   "a": [
+    "ce qui"
+   ],
+   "en": "I don't know what happened.",
+   "why": "Subject of s'est passé → ce qui."
+  },
+  {
+   "t": "fill",
+   "q": "Ce dont j'ai besoin, c'est ___ repos.",
+   "a": [
+    "de",
+    "du"
+   ],
+   "en": "What I need is rest.",
+   "why": "Keep the de of avoir besoin de in the second part."
+  },
+  {
+   "t": "build",
+   "en": "What I love is the festivals.",
+   "a": "Ce que j'aime, c'est les festivals."
+  },
+  {
+   "t": "build",
+   "en": "That's all I remember.",
+   "a": "C'est tout ce dont je me souviens."
+  },
+  {
+   "t": "build",
+   "en": "I wonder what she is doing.",
+   "a": "Je me demande ce qu'elle fait."
+  },
+  {
+   "t": "translate",
+   "en": "That's what I want.",
+   "a": [
+    "C'est ce que je veux.",
+    "C'est ça que je veux.",
+    "Voilà ce que je veux."
+   ],
+   "why": "Ce que (or spoken c'est ça que)."
+  },
+  {
+   "t": "translate",
+   "en": "I don't know what's happening.",
+   "a": [
+    "Je ne sais pas ce qui se passe.",
+    "Je sais pas ce qui se passe.",
+    "Je ne sais pas ce qui arrive.",
+    "Je sais pas ce qui arrive."
+   ],
+   "why": "Ce qui as subject of se passe."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "ce qui",
+   "en": "what (subject)",
+   "ex": "Ce qui compte, c'est la santé."
+  },
+  {
+   "fr": "ce que",
+   "en": "what (object)",
+   "ex": "Je sais ce que tu penses."
+  },
+  {
+   "fr": "ce dont",
+   "en": "what (… of / about)",
+   "ex": "Ce dont il parle est important."
+  },
+  {
+   "fr": "tout ce que",
+   "en": "everything (that), whatever",
+   "ex": "Mange tout ce que tu veux."
+  },
+  {
+   "fr": "se demander",
+   "en": "to wonder",
+   "ex": "Je me demande ce qu'il fait."
+  },
+  {
+   "fr": "se passer",
+   "en": "to happen",
+   "ex": "Qu'est-ce qui se passe?"
+  },
+  {
+   "fr": "compter",
+   "en": "to matter; to count",
+   "ex": "C'est ce qui compte."
+  },
+  {
+   "fr": "énerver",
+   "en": "to annoy, to get on someone's nerves",
+   "ex": "Le bruit m'énerve."
+  },
+  {
+   "fr": "écœurer",
+   "en": "to sicken; (informal) to annoy, fed up",
+   "ex": "Ça m'écœure, ce trafic-là.",
+   "qc": true
+  },
+  {
+   "fr": "avoir du sens",
+   "en": "to make sense",
+   "ex": "Ça n'a aucun sens."
+  },
+  {
+   "fr": "le repos",
+   "en": "rest",
+   "g": "m",
+   "ex": "J'ai besoin de repos."
+  },
+  {
+   "fr": "le pont",
+   "en": "bridge",
+   "g": "m",
+   "ex": "Le pont Jacques-Cartier est bloqué."
+  },
+  {
+   "fr": "l'araignée",
+   "en": "spider",
+   "g": "f",
+   "ex": "J'ai peur des araignées."
+  },
+  {
+   "fr": "briller",
+   "en": "to shine, to glitter",
+   "ex": "Le soleil brille."
+  },
+  {
+   "fr": "le frigo",
+   "en": "fridge",
+   "g": "m",
+   "ex": "Il y a de la bière dans le frigo."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "ce qui",
+    "tip": "suh-KEE; fast: s'qui [ski]."
+   },
+   {
+    "fr": "ce que",
+    "tip": "suh-KUH; fast: s'que [skə]."
+   },
+   {
+    "fr": "ce dont",
+    "tip": "suh-DON."
+   },
+   {
+    "fr": "C'est ça que",
+    "tip": "sè-SA-kuh: stress on ça."
+   },
+   {
+    "fr": "qu'est-ce que",
+    "tip": "KESS-kuh."
+   },
+   {
+    "fr": "Je sais pas",
+    "tip": "Quebec casual: shè-PA or even ché-PA."
+   }
+  ],
+  "title": "Qu'est-ce que tu veux pour ta fête?",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Ta fête s'en vient. Dis-moi ce que tu veux comme cadeau.",
+    "en": "Your birthday is coming up. Tell me what you want as a gift."
+   },
+   {
+    "s": "B",
+    "fr": "Honnêtement, je ne sais pas ce que je veux.",
+    "en": "Honestly, I don't know what I want."
+   },
+   {
+    "s": "A",
+    "fr": "Ce qui te ferait plaisir, alors?",
+    "en": "What would make you happy, then?"
+   },
+   {
+    "s": "B",
+    "fr": "Ce dont j'ai vraiment besoin, c'est d'une fin de semaine tranquille.",
+    "en": "What I really need is a quiet weekend."
+   },
+   {
+    "s": "A",
+    "fr": "Ce que tu dis là, c'est un chalet?",
+    "en": "What you're saying is… a cottage?"
+   },
+   {
+    "s": "B",
+    "fr": "C'est ça que je dis! Un chalet, un lac, pas de cellulaire.",
+    "en": "That's what I'm saying! A cottage, a lake, no cellphone."
+   },
+   {
+    "s": "A",
+    "fr": "Ce qui me dérange, c'est le prix.",
+    "en": "What bothers me is the price."
+   },
+   {
+    "s": "B",
+    "fr": "On pourrait le partager. C'est tout ce que je demande!",
+    "en": "We could split it. That's all I'm asking!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What does B really need?",
+    "options": [
+     "A new phone",
+     "A quiet weekend",
+     "A party"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What bothers A?",
+    "options": [
+     "The distance",
+     "The price",
+     "The weather"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does B propose?",
+    "options": [
+     "Splitting the cost",
+     "Going next year",
+     "Camping instead"
+    ],
+    "a": 0
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Say three things about your city using 'Ce que j'aime, c'est…', 'Ce qui m'énerve, c'est…' and 'Ce dont j'ai besoin, c'est…'.",
+   "model": "Ce que j'aime, c'est les terrasses. Ce qui m'énerve, c'est les cônes orange. Ce dont j'ai besoin, c'est d'un plus grand appartement."
+  },
+  {
+   "prompt": "Report these questions: 'Qu'est-ce que tu fais?' and 'Qu'est-ce qui se passe?' starting with 'Il me demande…'.",
+   "model": "Il me demande ce que je fais. Il me demande ce qui se passe."
+  },
+  {
+   "prompt": "Turn into standard French: 'J'sais pas qu'est-ce qu'y veut, mais c'est ça que j'ai besoin.'",
+   "model": "Je ne sais pas ce qu'il veut, mais c'est ce dont j'ai besoin."
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences about your job or studies using the emphatic pattern 'Ce qui / Ce que / Ce dont …, c'est …' at least four times.",
+  "model": "Ce que j'aime dans mon travail, c'est le contact avec les clients. Ce qui est difficile, c'est les heures de pointe. Ce dont je suis le plus fier, c'est mon équipe. Ce qui me manque parfois, c'est le temps pour apprendre. Ce dont j'aurais besoin, c'est d'une formation en français des affaires."
+ },
+ "quiz": [
+  {
+   "q": "Which completes: 'Je sais ___ tu penses.'?",
+   "options": [
+    "ce qui",
+    "ce que",
+    "ce dont",
+    "qu'est-ce que"
+   ],
+   "a": 1,
+   "why": "Tu is the subject; the gap is the object → ce que."
+  },
+  {
+   "q": "___ est arrivé est grave.",
+   "options": [
+    "Ce que",
+    "Ce qui",
+    "Ce dont",
+    "Que"
+   ],
+   "a": 1,
+   "why": "Subject of est arrivé → ce qui."
+  },
+  {
+   "q": "Which verb would require 'ce dont'?",
+   "options": [
+    "vouloir",
+    "aimer",
+    "se souvenir",
+    "faire"
+   ],
+   "a": 2,
+   "why": "Se souvenir de."
+  },
+  {
+   "q": "'C'est ça que j'veux' is…",
+   "options": [
+    "incorrect everywhere",
+    "normal casual speech for 'c'est ce que je veux'",
+    "a formal written form",
+    "a subjunctive"
+   ],
+   "a": 1,
+   "why": "Ça for ce is typical of spoken French."
+  },
+  {
+   "q": "In an indirect question, 'qu'est-ce qui' becomes…",
+   "options": [
+    "ce que",
+    "ce qui",
+    "qui",
+    "quoi"
+   ],
+   "a": 1,
+   "why": "Qu'est-ce qui se passe? → Je ne sais pas ce qui se passe."
+  },
+  {
+   "q": "Ce dont j'ai envie, c'est ___ une pizza.",
+   "options": [
+    "d'",
+    "à",
+    "que",
+    "de la"
+   ],
+   "a": 0,
+   "why": "Avoir envie de: keep de in the second part."
+  },
+  {
+   "q": "'Tout ce que tu veux' means…",
+   "options": [
+    "Everything you want",
+    "All of you want",
+    "Whatever wants you",
+    "Only what you want"
+   ],
+   "a": 0,
+   "why": "Tout ce que = everything that."
+  },
+  {
+   "q": "'Ce qui m'écœure' in informal Quebec speech means…",
+   "options": [
+    "What I love",
+    "What really annoys me",
+    "What I need",
+    "What I remember"
+   ],
+   "a": 1,
+   "why": "Écœurer = to sicken / to annoy."
+  },
+  {
+   "q": "Which is correct?",
+   "options": [
+    "Ce qu'elle dit est vrai.",
+    "Ce qui elle dit est vrai.",
+    "Ce dont elle dit est vrai.",
+    "Qu'est-ce qu'elle dit est vrai."
+   ],
+   "a": 0,
+   "why": "Elle is the subject of dit → ce que, elided to ce qu'."
+  }
+ ]
+}

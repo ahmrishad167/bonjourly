@@ -1,0 +1,1335 @@
+{
+ "sounds": [
+  {
+   "id": "i",
+   "label": "i as in lit",
+   "ipa": "i",
+   "how": "Spread your lips as if smiling and push the tongue high and forward. It is like the 'ee' in 'see', but shorter and tenser, with no 'y' glide at the end.",
+   "words": [
+    "lit",
+    "vie",
+    "midi",
+    "île"
+   ],
+   "pairs": [
+    [
+     "lit",
+     "lu"
+    ],
+    [
+     "dire",
+     "dure"
+    ]
+   ],
+   "sentence": "Il lit dans son lit à midi."
+  },
+  {
+   "id": "e-closed",
+   "label": "é as in été",
+   "ipa": "e",
+   "how": "Lips spread, tongue high and forward, mouth almost closed. Like the 'ay' in 'say', but cut off before the 'y' glide. Keep the muscles tense and steady from start to finish.",
+   "words": [
+    "été",
+    "café",
+    "nez",
+    "parler"
+   ],
+   "pairs": [
+    [
+     "les",
+     "lait"
+    ],
+    [
+     "fée",
+     "fait"
+    ]
+   ],
+   "sentence": "J'ai mangé au café cet été."
+  },
+  {
+   "id": "e-open",
+   "label": "è as in mère",
+   "ipa": "ɛ",
+   "how": "Drop the jaw a little more than for é and relax the lips. Close to the 'e' in 'bed'. Spellings: è, ê, ai, and e before two consonants (elle, merci).",
+   "words": [
+    "mère",
+    "fête",
+    "lait",
+    "merci"
+   ],
+   "pairs": [
+    [
+     "prêt",
+     "pré"
+    ],
+    [
+     "lait",
+     "les"
+    ]
+   ],
+   "sentence": "Ma mère fait la fête."
+  },
+  {
+   "id": "a",
+   "label": "a as in chat",
+   "ipa": "a",
+   "how": "Open the mouth wide with the tongue low and slightly forward. Somewhere between the 'a' in 'cat' and the 'a' in 'father'. Never reduce it to the 'uh' of English 'sofa'.",
+   "words": [
+    "chat",
+    "ami",
+    "la",
+    "papa"
+   ],
+   "pairs": [
+    [
+     "patte",
+     "pâte"
+    ],
+    [
+     "ta",
+     "tu"
+    ]
+   ],
+   "sentence": "Le chat de mon ami est là."
+  },
+  {
+   "id": "a-back",
+   "label": "â as in pâte",
+   "ipa": "ɑ",
+   "how": "Open the mouth wide and pull the tongue back, as for the 'a' in 'father' or British 'car'. In Quebec this back â is very clearly different from the front a and often slightly rounded, toward 'aw'.",
+   "words": [
+    "pâte",
+    "château",
+    "gâteau",
+    "âge"
+   ],
+   "pairs": [
+    [
+     "pâte",
+     "patte"
+    ],
+    [
+     "tâche",
+     "tache"
+    ]
+   ],
+   "sentence": "Le gâteau du château est en pâte."
+  },
+  {
+   "id": "o-closed",
+   "label": "o as in beau",
+   "ipa": "o",
+   "how": "Round the lips into a small tight circle and keep them still. Like the 'o' in 'go', but without the 'w' glide at the end. Spellings: eau, au, ô, and o at the end of a word.",
+   "words": [
+    "beau",
+    "eau",
+    "mot",
+    "rose"
+   ],
+   "pairs": [
+    [
+     "saute",
+     "sotte"
+    ],
+    [
+     "paume",
+     "pomme"
+    ]
+   ],
+   "sentence": "Il fait beau au bord de l'eau."
+  },
+  {
+   "id": "o-open",
+   "label": "o as in porte",
+   "ipa": "ɔ",
+   "how": "Open the jaw more and round the lips loosely. Close to the vowel in British 'lot' or the start of 'thought'. Usually o followed by a pronounced consonant (porte, bol, homme).",
+   "words": [
+    "porte",
+    "bol",
+    "homme",
+    "école"
+   ],
+   "pairs": [
+    [
+     "pomme",
+     "paume"
+    ],
+    [
+     "cote",
+     "côte"
+    ]
+   ],
+   "sentence": "L'homme ouvre la porte de l'école."
+  },
+  {
+   "id": "ou",
+   "label": "ou as in vous",
+   "ipa": "u",
+   "how": "Pull the tongue back and push tightly rounded lips forward, like the 'oo' in 'food' but tenser, with no glide. Spelled ou.",
+   "words": [
+    "vous",
+    "tout",
+    "roue",
+    "jour"
+   ],
+   "pairs": [
+    [
+     "vous",
+     "vu"
+    ],
+    [
+     "roue",
+     "rue"
+    ]
+   ],
+   "sentence": "Nous jouons tous les jours."
+  },
+  {
+   "id": "u",
+   "label": "u as in tu",
+   "ipa": "y",
+   "how": "No English equivalent. Say 'ee' as in 'see' and freeze your tongue there, then round and push your lips forward as if to whistle or say 'oo'. Tongue of 'ee' plus lips of 'oo'.",
+   "words": [
+    "tu",
+    "rue",
+    "vu",
+    "sûr"
+   ],
+   "pairs": [
+    [
+     "tu",
+     "tout"
+    ],
+    [
+     "rue",
+     "roue"
+    ]
+   ],
+   "sentence": "Tu as vu la rue?"
+  },
+  {
+   "id": "eu-closed",
+   "label": "eu as in deux",
+   "ipa": "ø",
+   "how": "Put your tongue in position for é (as in 'say'), then round your lips as for 'o'. The mouth is almost closed. Usually eu at the end of a word or before a z sound (deux, heureuse).",
+   "words": [
+    "deux",
+    "peu",
+    "bleu",
+    "jeu"
+   ],
+   "pairs": [
+    [
+     "deux",
+     "doux"
+    ],
+    [
+     "peu",
+     "pou"
+    ]
+   ],
+   "sentence": "Il veut deux jeux bleus."
+  },
+  {
+   "id": "eu-open",
+   "label": "eu as in fleur",
+   "ipa": "œ",
+   "how": "Put your tongue in position for è (as in 'bed'), then round your lips loosely. A bit like the vowel in British 'fur' (no r), but with rounded lips. Usually eu or œu before a pronounced consonant.",
+   "words": [
+    "fleur",
+    "peur",
+    "sœur",
+    "jeune"
+   ],
+   "pairs": [
+    [
+     "peur",
+     "pour"
+    ],
+    [
+     "jeune",
+     "jeûne"
+    ]
+   ],
+   "sentence": "Ma sœur a peur des fleurs."
+  },
+  {
+   "id": "e-muet",
+   "label": "e muet as in le",
+   "ipa": "ə",
+   "how": "A short relaxed vowel with slightly rounded lips, like the 'a' in 'about' but rounded. It appears in small words (le, de, je, que) and in unstressed syllables (petit, demain).",
+   "words": [
+    "le",
+    "petit",
+    "demain",
+    "samedi"
+   ],
+   "pairs": [
+    [
+     "le",
+     "les"
+    ],
+    [
+     "de",
+     "des"
+    ]
+   ],
+   "sentence": "Je te le redemande demain."
+  },
+  {
+   "id": "e-muet-drop",
+   "label": "dropping the e muet",
+   "ipa": "ə → ∅",
+   "how": "In normal speech the e muet often disappears when only one consonant comes before it: samedi sounds like 'sam-di', petit like 'p-ti', je ne sais pas like 'je n'sais pas'. Keep it when dropping it would pile up three consonants (vendredi, quelque chose). Quebec speakers drop it even more often.",
+   "words": [
+    "samedi",
+    "petit",
+    "maintenant",
+    "mademoiselle"
+   ],
+   "pairs": [
+    [
+     "je",
+     "j'ai"
+    ],
+    [
+     "de",
+     "des"
+    ]
+   ],
+   "sentence": "Samedi, je ne sais pas ce que je fais."
+  },
+  {
+   "id": "an",
+   "label": "an/en as in enfant",
+   "ipa": "ɑ̃",
+   "how": "Open the mouth as for a, then let air flow through your nose as well as your mouth. Do NOT pronounce an n or ng at the end; the nose does the work. Spellings: an, am, en, em.",
+   "words": [
+    "enfant",
+    "temps",
+    "dans",
+    "chambre"
+   ],
+   "pairs": [
+    [
+     "vent",
+     "vin"
+    ],
+    [
+     "banc",
+     "bon"
+    ]
+   ],
+   "sentence": "Les enfants chantent dans le vent."
+  },
+  {
+   "id": "on",
+   "label": "on as in bon",
+   "ipa": "ɔ̃",
+   "how": "Round the lips tightly as for the o in 'go' and send air through the nose. A bit like the 'on' of 'song' with the ng sound removed. Spellings: on, om.",
+   "words": [
+    "bon",
+    "nom",
+    "pont",
+    "monde"
+   ],
+   "pairs": [
+    [
+     "bon",
+     "banc"
+    ],
+    [
+     "pont",
+     "pain"
+    ]
+   ],
+   "sentence": "Mon oncle a un bon nom."
+  },
+  {
+   "id": "in",
+   "label": "in/ain/ein as in vin",
+   "ipa": "ɛ̃",
+   "how": "Spread the lips as for è in 'bed' and send air through the nose. Similar to the vowel in 'bang' with no ng. Spellings: in, im, ain, aim, ein, and en after i (bien).",
+   "words": [
+    "vin",
+    "pain",
+    "plein",
+    "matin",
+    "faim"
+   ],
+   "pairs": [
+    [
+     "vin",
+     "vent"
+    ],
+    [
+     "pain",
+     "pont"
+    ]
+   ],
+   "sentence": "Le matin, j'ai faim de pain."
+  },
+  {
+   "id": "un",
+   "label": "un as in brun",
+   "ipa": "œ̃",
+   "how": "The rounded version of 'in': start with 'in' and round your lips. Many Paris speakers merge it with 'in', but in Quebec it stays clearly distinct, so it is worth learning.",
+   "words": [
+    "un",
+    "brun",
+    "lundi",
+    "parfum"
+   ],
+   "pairs": [
+    [
+     "brun",
+     "brin"
+    ],
+    [
+     "un",
+     "an"
+    ]
+   ],
+   "sentence": "Lundi, un ami brun porte du parfum."
+  },
+  {
+   "id": "nasal-vs-n",
+   "label": "nasal vowel vs pronounced n",
+   "ipa": "ɔ̃ / ɔn",
+   "how": "When n or m is followed by a vowel (often a final e), the vowel stops being nasal and you pronounce a real n: bon vs bonne, fin vs fine. This is how many masculine and feminine forms differ.",
+   "words": [
+    "bon",
+    "bonne",
+    "plein",
+    "pleine"
+   ],
+   "pairs": [
+    [
+     "bon",
+     "bonne"
+    ],
+    [
+     "fin",
+     "fine"
+    ]
+   ],
+   "sentence": "Un bon vin et une bonne bière."
+  },
+  {
+   "id": "y-glide",
+   "label": "y glide as in pied",
+   "ipa": "j",
+   "how": "Like the 'y' in 'yes', said quickly and attached to the next vowel. Spellings: i or y before a vowel (pied, payer), ill, final il (travail).",
+   "words": [
+    "pied",
+    "yeux",
+    "bien",
+    "payer"
+   ],
+   "pairs": [
+    [
+     "bien",
+     "bain"
+    ],
+    [
+     "lien",
+     "lin"
+    ]
+   ],
+   "sentence": "Viens bien t'asseoir à mes pieds."
+  },
+  {
+   "id": "w-glide",
+   "label": "w glide as in oui",
+   "ipa": "w",
+   "how": "Like the 'w' in 'we': start with ou and slide quickly into the next vowel. Spellings: ou before a vowel (oui, jouer), and the w part of oi.",
+   "words": [
+    "oui",
+    "jouer",
+    "Louis",
+    "ouest"
+   ],
+   "pairs": [
+    [
+     "Louis",
+     "lui"
+    ],
+    [
+     "oui",
+     "huit"
+    ]
+   ],
+   "sentence": "Oui, Louis va jouer à l'ouest."
+  },
+  {
+   "id": "ui",
+   "label": "ui as in huit",
+   "ipa": "ɥ",
+   "how": "Start with the French u of 'tu' (tongue forward, lips rounded) and slide fast into i. It is NOT 'wee': keep the tongue forward. Compare lui and Louis.",
+   "words": [
+    "huit",
+    "lui",
+    "nuit",
+    "cuisine",
+    "puis"
+   ],
+   "pairs": [
+    [
+     "lui",
+     "Louis"
+    ],
+    [
+     "huit",
+     "oui"
+    ]
+   ],
+   "sentence": "Depuis minuit, il cuisine pour lui."
+  },
+  {
+   "id": "oi",
+   "label": "oi as in moi",
+   "ipa": "wa",
+   "how": "The spelling oi is always said 'wa', like 'wa' in 'wander'. In casual Quebec speech you will also hear 'moé' and 'toé' for moi and toi (see the Quebec section).",
+   "words": [
+    "moi",
+    "toi",
+    "soir",
+    "poisson",
+    "voir"
+   ],
+   "pairs": [
+    [
+     "soir",
+     "sœur"
+    ],
+    [
+     "boire",
+     "bord"
+    ]
+   ],
+   "sentence": "Ce soir, je vais boire un verre avec toi."
+  },
+  {
+   "id": "r",
+   "label": "French r as in rouge",
+   "ipa": "ʁ",
+   "how": "Keep the tip of your tongue down behind your lower teeth. Raise the back of the tongue toward the soft back of the roof of your mouth and let air rub there, like a soft gargle or a voiced version of the 'ch' in Scottish 'loch'. Never curl the tongue like English r.",
+   "words": [
+    "rouge",
+    "Paris",
+    "trois",
+    "merci",
+    "heure"
+   ],
+   "pairs": [
+    [
+     "rond",
+     "long"
+    ],
+    [
+     "riz",
+     "lit"
+    ]
+   ],
+   "sentence": "Robert rentre à trois heures."
+  },
+  {
+   "id": "u-vs-ou",
+   "label": "u vs ou",
+   "ipa": "y / u",
+   "how": "The most important vowel contrast for English speakers. For u, the tongue stays forward ('ee' position) with rounded lips. For ou, the tongue pulls back ('oo' in 'food'). Feel your tongue slide back as you go from tu to tout.",
+   "words": [
+    "dessus",
+    "dessous",
+    "vu",
+    "vous"
+   ],
+   "pairs": [
+    [
+     "dessus",
+     "dessous"
+    ],
+    [
+     "vu",
+     "vous"
+    ],
+    [
+     "pu",
+     "pou"
+    ]
+   ],
+   "sentence": "Le chat est dessus, pas dessous."
+  },
+  {
+   "id": "e-vs-e",
+   "label": "é vs è",
+   "ipa": "e / ɛ",
+   "how": "é is closed and tense, lips spread ('say' without the y). è is open and relaxed ('bed'). Spelling clues: é, -er, -ez are closed; è, ê, -ait, -ais and e before two consonants are open. Quebec keeps parlé and parlait clearly different.",
+   "words": [
+    "été",
+    "était",
+    "parlé",
+    "parlait"
+   ],
+   "pairs": [
+    [
+     "parlé",
+     "parlait"
+    ],
+    [
+     "fée",
+     "fait"
+    ]
+   ],
+   "sentence": "J'ai parlé à Marie pendant qu'elle parlait au téléphone."
+  },
+  {
+   "id": "liaison",
+   "label": "liaison",
+   "ipa": "‿z ‿n ‿t",
+   "how": "A normally silent final consonant is pronounced and joined to the next word when that word starts with a vowel sound. s and x become z (les amis = 'lé-za-mi'), d becomes t (grand homme), n links (un ami). Required after determiners and pronouns (les, des, mon, nous, vous). Never after 'et' and never before h aspiré.",
+   "words": [
+    "les amis",
+    "un ami",
+    "nous avons",
+    "deux heures"
+   ],
+   "pairs": [
+    [
+     "les amis",
+     "les héros"
+    ],
+    [
+     "deux amis",
+     "deux garçons"
+    ]
+   ],
+   "sentence": "Nous avons deux amis aux États-Unis."
+  },
+  {
+   "id": "enchainement",
+   "label": "enchaînement",
+   "ipa": "‿",
+   "how": "A consonant that is always pronounced slides onto the next word's first vowel, so the words flow together in one breath: 'il a' sounds like 'i-la', 'une amie' like 'u-na-mie'. French speech is a stream of syllables, not separate words.",
+   "words": [
+    "il a",
+    "une amie",
+    "avec elle",
+    "quatre enfants"
+   ],
+   "pairs": [
+    [
+     "une amie",
+     "une sœur"
+    ],
+    [
+     "elle arrive",
+     "elle part"
+    ]
+   ],
+   "sentence": "Elle habite avec une amie à Ottawa."
+  },
+  {
+   "id": "h-muet",
+   "label": "h muet",
+   "ipa": "∅",
+   "how": "French h is never pronounced. With most h-words (h muet), the word behaves as if it starts with a vowel: elision (l'homme) and liaison (les hommes = 'lé-zom') happen as normal.",
+   "words": [
+    "l'homme",
+    "les hommes",
+    "l'hôpital",
+    "un hôtel"
+   ],
+   "pairs": [
+    [
+     "les hommes",
+     "les héros"
+    ],
+    [
+     "l'hôtel",
+     "le hibou"
+    ]
+   ],
+   "sentence": "Les hommes arrivent à l'hôpital."
+  },
+  {
+   "id": "h-aspire",
+   "label": "h aspiré",
+   "ipa": "∅ (blocks liaison)",
+   "how": "The h is still silent, but it acts like a wall: no elision (le héros, not l'héros) and no liaison (les haricots without a z). Learn these words by heart: héros, haricot, honte, haut, hockey, hibou, huit.",
+   "words": [
+    "le héros",
+    "les haricots",
+    "la honte",
+    "le hockey"
+   ],
+   "pairs": [
+    [
+     "les héros",
+     "les zéros"
+    ],
+    [
+     "le hibou",
+     "l'hiver"
+    ]
+   ],
+   "sentence": "Les héros du hockey sont en haut."
+  },
+  {
+   "id": "gn",
+   "label": "gn as in montagne",
+   "ipa": "ɲ",
+   "how": "Press the middle of your tongue flat against the roof of your mouth, like the 'ny' in 'canyon' or the 'ni' in 'onion', as one sound.",
+   "words": [
+    "montagne",
+    "agneau",
+    "signe",
+    "campagne"
+   ],
+   "pairs": [
+    [
+     "agneau",
+     "anneau"
+    ],
+    [
+     "peigne",
+     "peine"
+    ]
+   ],
+   "sentence": "À la campagne, l'agneau regarde la montagne."
+  },
+  {
+   "id": "ill",
+   "label": "ill as in fille",
+   "ipa": "ij / j",
+   "how": "After a vowel or in most words, ill is the 'y' sound of 'yes': fille = 'fiy', travailler = 'tra-va-yé', soleil = 'so-ley'. A few common exceptions keep a real l: ville, mille, tranquille.",
+   "words": [
+    "fille",
+    "famille",
+    "travailler",
+    "soleil"
+   ],
+   "pairs": [
+    [
+     "fille",
+     "ville"
+    ],
+    [
+     "bille",
+     "mille"
+    ]
+   ],
+   "sentence": "La fille de la famille travaille au soleil."
+  },
+  {
+   "id": "final-consonants",
+   "label": "silent final consonants",
+   "ipa": "∅",
+   "how": "Most final consonants are silent: s, t, d, x, z, p (petit, grand, deux). A handy rule is CaReFuL: final c, r, f, l are usually pronounced (sac, mer, chef, sel), except -er in verbs and many nouns (parler, premier). A final e makes the consonant before it pronounced (petite, grande).",
+   "words": [
+    "petit",
+    "grand",
+    "sac",
+    "chef",
+    "sel",
+    "parler"
+   ],
+   "pairs": [
+    [
+     "petit",
+     "petite"
+    ],
+    [
+     "grand",
+     "grande"
+    ]
+   ],
+   "sentence": "Le petit chef a un grand sac de sel."
+  },
+  {
+   "id": "ent-verbs",
+   "label": "silent -ent in verbs",
+   "ipa": "∅",
+   "how": "The -ent ending of ils/elles verbs is completely silent: ils parlent sounds exactly like il parle. Careful: in nouns and adverbs like moment or souvent, -ent is the nasal 'an'.",
+   "words": [
+    "parlent",
+    "mangent",
+    "aiment",
+    "travaillent"
+   ],
+   "pairs": [
+    [
+     "il parle",
+     "ils parlent"
+    ],
+    [
+     "il mange",
+     "ils mangent"
+    ]
+   ],
+   "sentence": "Ils parlent souvent et ils mangent lentement."
+  },
+  {
+   "id": "s-vs-z",
+   "label": "s vs z",
+   "ipa": "s / z",
+   "how": "A single s between two vowels is a z sound (poison, rose). Double ss is always s (poisson). Mixing them up changes the word: poisson is fish, poison is poison.",
+   "words": [
+    "poisson",
+    "poison",
+    "rose",
+    "dessert"
+   ],
+   "pairs": [
+    [
+     "poisson",
+     "poison"
+    ],
+    [
+     "dessert",
+     "désert"
+    ],
+    [
+     "coussin",
+     "cousin"
+    ]
+   ],
+   "sentence": "Mon cousin mange du poisson au dessert."
+  },
+  {
+   "id": "ch-j",
+   "label": "ch and j",
+   "ipa": "ʃ / ʒ",
+   "how": "ch is the 'sh' of 'shoe' (never the 'ch' of 'church'). j, and g before e or i, is the 's' of 'measure' (never the 'j' of 'jump'). Push the lips slightly forward for both.",
+   "words": [
+    "chat",
+    "chose",
+    "jour",
+    "manger",
+    "girafe"
+   ],
+   "pairs": [
+    [
+     "chou",
+     "joue"
+    ],
+    [
+     "cache",
+     "cage"
+    ]
+   ],
+   "sentence": "Je cherche mon chat chaque jour."
+  },
+  {
+   "id": "ptk",
+   "label": "p, t, k without a puff of air",
+   "ipa": "p t k",
+   "how": "English p, t, k at the start of a word come with a puff of air (hold a hand in front of your mouth and say 'pie'). French p, t, k have no puff. Also, French t and d touch the back of the upper teeth, not the gum ridge.",
+   "words": [
+    "papa",
+    "tout",
+    "café",
+    "Paris"
+   ],
+   "pairs": [
+    [
+     "pas",
+     "bas"
+    ],
+    [
+     "tout",
+     "doux"
+    ]
+   ],
+   "sentence": "Papa a pris un café à Paris."
+  }
+ ],
+ "quebec": [
+  {
+   "id": "affrication",
+   "label": "t and d before i/u",
+   "how": "Before i, u (and the glides of 'lui', 'tiens'), t becomes 'ts' and d becomes 'dz'. This is standard Quebec pronunciation used by everyone in every register, including the news. Not slang.",
+   "std": "petit, dur, tu dis, mardi",
+   "qc": "p'tsi, dzur, tsu dzis, mar-dzi",
+   "examples": [
+    "Tu dis toujours oui.",
+    "Il est parti mardi.",
+    "Ma tante habite dans une petite ville."
+   ]
+  },
+  {
+   "id": "laxing",
+   "label": "short i, u, ou in closed syllables",
+   "how": "When i, u or ou are in the last syllable and followed by a pronounced consonant (except r, z, v, j sounds), they become short and relaxed: vite sounds like English 'vit' (as in 'bit'), poule like English 'pull'. Standard in Quebec, all registers.",
+   "std": "vite, jupe, poule, musique",
+   "qc": "vitt (like 'bit'), jupp (relaxed u), poull (like 'pull'), musicc",
+   "examples": [
+    "Viens vite!",
+    "Elle porte une jupe bleue.",
+    "La musique est trop forte."
+   ]
+  },
+  {
+   "id": "diphthongs",
+   "label": "gliding long vowels",
+   "how": "Long vowels in a stressed final syllable often glide into a second vowel: père sounds like 'paère', fête like 'faète', pâte like 'pâoute', fleur like 'flaeur'. Mild gliding is normal everywhere in Quebec; strong gliding is more casual or regional.",
+   "std": "père, fête, pâte, fleur",
+   "qc": "paère, faète, pâoute, flaeur",
+   "examples": [
+    "Mon père prépare la fête.",
+    "Elle a mis la pâte au four.",
+    "C'est une belle fleur."
+   ]
+  },
+  {
+   "id": "a-back",
+   "label": "â vs a (and final a)",
+   "how": "Quebec keeps a clear difference between front a (patte) and back â (pâte), which sounds close to 'aw'. In casual speech, an a at the very end of a word is also pulled back: Canada, chat, ça sound like 'Canadâ', 'châ', 'çâ'. The final-a version is informal.",
+   "std": "patte / pâte, Canada, ça va",
+   "qc": "patte (front) / pâwte (back), Canadâ, çâ vâ (informal)",
+   "examples": [
+    "Le chat a mal à la patte.",
+    "On mange des pâtes au Canada.",
+    "Ça va bien."
+   ]
+  },
+  {
+   "id": "e-long",
+   "label": "ê kept distinct from è",
+   "how": "Quebec keeps a long ê (often gliding) separate from a short è, a contrast many Paris speakers have lost: mettre vs maître, faites vs fête. The long one sounds like 'aè'.",
+   "std": "mettre / maître, faites / fête",
+   "qc": "mettre (short) / maaètre (long), faites (short) / faète (long)",
+   "examples": [
+    "Il faut mettre la table.",
+    "Le maître parle aux élèves.",
+    "Bonne fête, maman!"
+   ]
+  },
+  {
+   "id": "er-aere",
+   "label": "-er / -ère / -erre sounding like 'aère'",
+   "how": "Before r, è opens toward a and often glides: père, mère, frère, hiver, terre sound like 'paère', 'maère', 'fraère', 'hivaère'. A slight opening is common in all speech. The strong 'a' version (merci said 'marci', perdre said 'pardre') is informal and somewhat stereotyped.",
+   "std": "mère, frère, hiver, merci",
+   "qc": "maère, fraère, hivaère, marci (informal)",
+   "examples": [
+    "Mon frère aime l'hiver.",
+    "Merci beaucoup, madame.",
+    "Ma mère est sur la terrasse."
+   ]
+  },
+  {
+   "id": "moe-toe",
+   "label": "moé / toé (informal)",
+   "how": "In casual, older or rural speech, moi and toi are said 'moé' and 'toé'. Very common in songs, sitcoms and family talk; younger urban speakers mostly say moi/toi. Understand it, but use moi/toi yourself unless you are sure of the setting. INFORMAL.",
+   "std": "moi, toi, pis toi?",
+   "qc": "moé, toé, pis toé? (informal)",
+   "examples": [
+    "C'est à moi.",
+    "Et toi, ça va?",
+    "Viens avec moi."
+   ]
+  },
+  {
+   "id": "oi-e",
+   "label": "oi said 'è' in some words (informal)",
+   "how": "In a handful of very common words, oi becomes an è sound: droit becomes 'drette' (drette là = right there), froid becomes 'frette' (il fait frette = it's freezing), étroit becomes 'étrette'. Fixed words only, not a general rule. INFORMAL.",
+   "std": "droit, froid, étroit",
+   "qc": "drette, frette, étrette (informal)",
+   "examples": [
+    "Il fait froid dehors.",
+    "C'est tout droit.",
+    "La rue est étroite."
+   ]
+  },
+  {
+   "id": "final-t",
+   "label": "final t pronounced in some words (informal)",
+   "how": "Some words keep a final t that is silent in standard French: bout, debout, nuit, lit, and the feminine-looking 'toute' used for tout ('toutte'). Ici becomes 'icitte'. Very common in casual speech. INFORMAL.",
+   "std": "bout, nuit, tout, ici",
+   "qc": "boutt, nuitt, toutte, icitte (informal)",
+   "examples": [
+    "Il est debout depuis minuit.",
+    "Viens ici tout de suite.",
+    "C'est au bout de la rue."
+   ]
+  },
+  {
+   "id": "pronoun-contractions",
+   "label": "chu, t'sais, y'é, a (informal)",
+   "how": "Subject pronouns and verbs fuse in fast speech: je suis becomes 'chu', tu sais becomes 't'sais' or 'tsé', il est becomes 'y'é', il y a becomes 'y'a', elle becomes 'a' ('a l'a dit'), ils becomes 'y'. Everyone uses these in casual talk; avoid them in writing and formal situations. INFORMAL.",
+   "std": "je suis, tu sais, il est, elle a",
+   "qc": "chu, t'sais (tsé), y'é, a l'a (informal)",
+   "examples": [
+    "Je suis fatigué.",
+    "Tu sais, il est déjà parti.",
+    "Elle a dit oui."
+   ]
+  },
+  {
+   "id": "article-contractions",
+   "label": "su'a, dans'a (informal)",
+   "how": "The l of la, le, les drops after short prepositions: sur la becomes 'su'a', sur le becomes 'su'l', dans la becomes 'dans'a', dans les becomes 'dans'é', à la becomes 'à'a'. Extremely frequent in conversation. INFORMAL.",
+   "std": "sur la table, dans la cuisine, sur le bord",
+   "qc": "su'a table, dans'a cuisine, su'l bord (informal)",
+   "examples": [
+    "Le livre est sur la table.",
+    "Il est dans la cuisine.",
+    "Mets ça sur le bord."
+   ]
+  },
+  {
+   "id": "tu-particle",
+   "label": "the question particle -tu (informal)",
+   "how": "Yes/no questions are often marked with 'tu' after the verb, whatever the subject: 'Tu veux-tu?', 'C'est-tu loin?', 'Ça marche-tu?'. With affrication it sounds like 'tsu'. Not the pronoun tu here, just a question marker. INFORMAL.",
+   "std": "Tu veux du café? C'est loin?",
+   "qc": "Tu veux-tu du café? C'est-tu loin? (informal)",
+   "examples": [
+    "Tu veux du café?",
+    "C'est loin d'ici?",
+    "Ça marche?"
+   ]
+  },
+  {
+   "id": "nasals",
+   "label": "Quebec nasal vowels",
+   "how": "Quebec nasals sound different from Paris: 'an' is pronounced further forward (to French ears close to Paris 'in'), 'in' is tighter and may glide slightly, 'on' is tightly rounded, and 'un' stays distinct from 'in'. Standard Quebec, all registers.",
+   "std": "maman, enfant, vin, un",
+   "qc": "maman with a front nasal a (sounds like 'mamain' to Paris ears), vin tighter, un kept distinct from in",
+   "examples": [
+    "Mon enfant a cinq ans.",
+    "Un bon vin blanc, s'il vous plaît.",
+    "Lundi matin, j'ai faim."
+   ]
+  },
+  {
+   "id": "devoicing",
+   "label": "whispered i and u",
+   "how": "Between two voiceless consonants (p, t, k, f, s, ch), i and u are often whispered or almost disappear: piscine sounds like 'p'scine', épicerie like 'ép'cerie', politique like 'pol'tique'. Standard Quebec, very common.",
+   "std": "piscine, épicerie, université, politique",
+   "qc": "p'scine, ép'cerie, univ'rsité, pol'tique",
+   "examples": [
+    "Je vais à la piscine.",
+    "L'épicerie est fermée.",
+    "On parle de politique."
+   ]
+  },
+  {
+   "id": "rhythm",
+   "label": "rhythm, intonation and là",
+   "how": "Like all French, stress falls on the last syllable of each word group, and syllables are fairly even. Quebec speech lengthens and glides stressed vowels, so it can sound more 'sing-song' or drawn out. The tag 'là' at the end of phrases is a filler or emphasis word ('Je m'en vais, là'). 'Bon ben' and 'pis' (for puis) are frequent fillers. Fillers are informal.",
+   "std": "Je vais au dépanneur. Bon, eh bien, j'y vais. Et puis?",
+   "qc": "Je vais au dépanneur, là. Bon ben, j'y vais. Pis? (informal)",
+   "examples": [
+    "Je vais au dépanneur, là.",
+    "Bon, ben, j'y vais.",
+    "On se voit demain?"
+   ]
+  },
+  {
+   "id": "r-quebec",
+   "label": "the Quebec r",
+   "how": "Today most Quebecers use the back-of-the-throat r, like in France. A rolled tongue-tip r was traditional in Montreal and western Quebec and is still heard from some older speakers. After a long vowel at the end of a word the r can be very weak.",
+   "std": "Robert, Montréal, merci",
+   "qc": "back r for most speakers; rolled tip r for some older Montrealers",
+   "examples": [
+    "Robert arrive à trois heures.",
+    "Il fait beau à Montréal.",
+    "Merci pour le cadeau."
+   ]
+  }
+ ],
+ "twisters": [
+  {
+   "fr": "Les chaussettes de l'archiduchesse sont-elles sèches, archi-sèches?",
+   "en": "Are the archduchess's socks dry, extra-dry?",
+   "focus": "s vs ch"
+  },
+  {
+   "fr": "Un chasseur sachant chasser doit savoir chasser sans son chien.",
+   "en": "A hunter who knows how to hunt must be able to hunt without his dog.",
+   "focus": "s vs ch"
+  },
+  {
+   "fr": "Si six scies scient six cyprès, six cent six scies scient six cent six cyprès.",
+   "en": "If six saws saw six cypresses, six hundred and six saws saw six hundred and six cypresses.",
+   "focus": "s and i"
+  },
+  {
+   "fr": "Ton thé t'a-t-il ôté ta toux?",
+   "en": "Did your tea get rid of your cough?",
+   "focus": "t without a puff of air"
+  },
+  {
+   "fr": "Didon dîna, dit-on, du dos d'un dodu dindon.",
+   "en": "Dido dined, they say, on the back of a plump turkey.",
+   "focus": "d, and on vs in nasals"
+  },
+  {
+   "fr": "Je veux et j'exige d'exquises excuses.",
+   "en": "I want and demand exquisite apologies.",
+   "focus": "j and x (gz / ks)"
+  },
+  {
+   "fr": "Trois tortues trottaient sur un trottoir très étroit.",
+   "en": "Three turtles trotted on a very narrow sidewalk.",
+   "focus": "tr and the French r"
+  },
+  {
+   "fr": "Seize chaises sèchent.",
+   "en": "Sixteen chairs are drying.",
+   "focus": "s, z and ch"
+  },
+  {
+   "fr": "Cinq chiens chassent six chats.",
+   "en": "Five dogs chase six cats.",
+   "focus": "s vs ch, in nasal"
+  },
+  {
+   "fr": "Pauvre petit pêcheur, prends patience pour pouvoir prendre plusieurs petits poissons.",
+   "en": "Poor little fisherman, be patient so you can catch several little fish.",
+   "focus": "p without a puff of air"
+  },
+  {
+   "fr": "Le ver vert va vers le verre vert.",
+   "en": "The green worm goes toward the green glass.",
+   "focus": "homophones and the è sound"
+  },
+  {
+   "fr": "Natacha n'attacha pas son chat Pacha qui s'échappa.",
+   "en": "Natacha didn't tie up her cat Pacha, who escaped.",
+   "focus": "ch and a"
+  },
+  {
+   "fr": "Dans ta tente, ta tante t'attend.",
+   "en": "In your tent, your aunt is waiting for you.",
+   "focus": "t and the an nasal"
+  },
+  {
+   "fr": "Suis-je bien chez ce cher Serge?",
+   "en": "Am I really at dear Serge's place?",
+   "focus": "s, ch and j"
+  },
+  {
+   "fr": "Cent sans-cœur sans sang.",
+   "en": "A hundred heartless people without blood.",
+   "focus": "homophones with the an nasal"
+  },
+  {
+   "fr": "Il était une fois un homme de foi qui vendait du foie dans la ville de Foix.",
+   "en": "Once upon a time there was a man of faith who sold liver in the town of Foix.",
+   "focus": "oi homophones"
+  },
+  {
+   "fr": "Douze douches douces.",
+   "en": "Twelve gentle showers.",
+   "focus": "ou, d and ch"
+  },
+  {
+   "fr": "Pruneau cuit, pruneau cru.",
+   "en": "Cooked prune, raw prune.",
+   "focus": "u and ui, French r"
+  },
+  {
+   "fr": "Un pâtissier qui pâtissait chez un tapissier qui tapissait.",
+   "en": "A pastry chef who baked at the home of an upholsterer who upholstered.",
+   "focus": "p, t and s"
+  },
+  {
+   "fr": "Tu t'entêtes à tout tenter, tu t'uses et tu te tues à tant t'entêter.",
+   "en": "You insist on trying everything; you wear yourself out and kill yourself by being so stubborn.",
+   "focus": "u vs ou, t (affricated as ts in Quebec)"
+  }
+ ],
+ "minimal_pairs": [
+  {
+   "a": "dessus",
+   "b": "dessous",
+   "focus": "u vs ou"
+  },
+  {
+   "a": "tu",
+   "b": "tout",
+   "focus": "u vs ou"
+  },
+  {
+   "a": "rue",
+   "b": "roue",
+   "focus": "u vs ou"
+  },
+  {
+   "a": "vu",
+   "b": "vous",
+   "focus": "u vs ou"
+  },
+  {
+   "a": "pu",
+   "b": "pou",
+   "focus": "u vs ou"
+  },
+  {
+   "a": "lu",
+   "b": "loup",
+   "focus": "u vs ou"
+  },
+  {
+   "a": "dire",
+   "b": "dure",
+   "focus": "i vs u"
+  },
+  {
+   "a": "fée",
+   "b": "fait",
+   "focus": "é vs è"
+  },
+  {
+   "a": "pré",
+   "b": "prêt",
+   "focus": "é vs è"
+  },
+  {
+   "a": "parlé",
+   "b": "parlait",
+   "focus": "é vs è"
+  },
+  {
+   "a": "deux",
+   "b": "doux",
+   "focus": "eu vs ou"
+  },
+  {
+   "a": "feu",
+   "b": "fou",
+   "focus": "eu vs ou"
+  },
+  {
+   "a": "le",
+   "b": "les",
+   "focus": "e muet vs é"
+  },
+  {
+   "a": "de",
+   "b": "des",
+   "focus": "e muet vs é"
+  },
+  {
+   "a": "jeune",
+   "b": "jeûne",
+   "focus": "open eu vs closed eu"
+  },
+  {
+   "a": "patte",
+   "b": "pâte",
+   "focus": "a vs â"
+  },
+  {
+   "a": "tache",
+   "b": "tâche",
+   "focus": "a vs â"
+  },
+  {
+   "a": "sotte",
+   "b": "saute",
+   "focus": "open o vs closed o"
+  },
+  {
+   "a": "pomme",
+   "b": "paume",
+   "focus": "open o vs closed o"
+  },
+  {
+   "a": "vent",
+   "b": "vin",
+   "focus": "an vs in"
+  },
+  {
+   "a": "banc",
+   "b": "bon",
+   "focus": "an vs on"
+  },
+  {
+   "a": "pain",
+   "b": "pont",
+   "focus": "in vs on"
+  },
+  {
+   "a": "lent",
+   "b": "long",
+   "focus": "an vs on"
+  },
+  {
+   "a": "brin",
+   "b": "brun",
+   "focus": "in vs un"
+  },
+  {
+   "a": "bon",
+   "b": "bonne",
+   "focus": "nasal vowel vs pronounced n"
+  },
+  {
+   "a": "beau",
+   "b": "bon",
+   "focus": "oral o vs nasal on"
+  },
+  {
+   "a": "bien",
+   "b": "bain",
+   "focus": "y glide"
+  },
+  {
+   "a": "lui",
+   "b": "Louis",
+   "focus": "ui vs oui"
+  },
+  {
+   "a": "poisson",
+   "b": "poison",
+   "focus": "s vs z"
+  },
+  {
+   "a": "dessert",
+   "b": "désert",
+   "focus": "s vs z"
+  },
+  {
+   "a": "coussin",
+   "b": "cousin",
+   "focus": "s vs z"
+  },
+  {
+   "a": "chou",
+   "b": "joue",
+   "focus": "ch vs j"
+  },
+  {
+   "a": "cache",
+   "b": "cage",
+   "focus": "ch vs j"
+  },
+  {
+   "a": "agneau",
+   "b": "anneau",
+   "focus": "gn vs n"
+  },
+  {
+   "a": "rond",
+   "b": "long",
+   "focus": "r vs l"
+  },
+  {
+   "a": "petit",
+   "b": "petite",
+   "focus": "silent vs pronounced final t"
+  },
+  {
+   "a": "les héros",
+   "b": "les zéros",
+   "focus": "h aspiré vs liaison"
+  },
+  {
+   "a": "pas",
+   "b": "bas",
+   "focus": "p vs b"
+  }
+ ]
+}

@@ -1,0 +1,666 @@
+{
+ "w": 94,
+ "title": "Infinitive constructions",
+ "goal": "By the end of this lesson you can link verbs to an infinitive with no preposition, with à or with de, use infinitives after pour, sans and au lieu de, and describe ongoing actions with être en train de.",
+ "learn": [
+  {
+   "h": "Three patterns: verb + infinitive",
+   "body": [
+    "When one verb follows another, the second is in the infinitive. The first verb decides whether a preposition comes in between: nothing, *à*, or *de*. There's no reliable rule; learn each verb with its pattern.",
+    "No preposition: *aimer, adorer, détester, préférer, vouloir, pouvoir, devoir, savoir, aller, espérer, penser* (to plan), *il faut*.",
+    "With *à*: *commencer à, continuer à, apprendre à, aider quelqu'un à, réussir à, hésiter à, s'habituer à, passer du temps à, inviter quelqu'un à*.",
+    "With *de*: *décider de, essayer de, oublier de, arrêter de, finir de, refuser de, accepter de, choisir de, se dépêcher de, avoir besoin / envie / peur de*."
+   ],
+   "table": {
+    "head": [
+     "No preposition",
+     "+ à",
+     "+ de"
+    ],
+    "rows": [
+     [
+      "Je veux partir.",
+      "Je commence à comprendre.",
+      "J'ai décidé de partir."
+     ],
+     [
+      "Elle sait nager.",
+      "Il apprend à conduire.",
+      "Elle essaie de dormir."
+     ],
+     [
+      "On préfère rester.",
+      "Tu réussis à dormir?",
+      "Arrête de crier!"
+     ],
+     [
+      "Il faut payer.",
+      "Aide-moi à porter ça.",
+      "N'oublie pas de m'appeler."
+     ]
+    ]
+   },
+   "tip": "Learn verbs as chunks: 'essayer de', 'réussir à', 'vouloir' + nothing."
+  },
+  {
+   "h": "Prepositions + infinitive",
+   "body": [
+    "After most prepositions, French uses the infinitive where English uses '-ing': *sans parler* (without speaking), *au lieu de travailler* (instead of working), *avant de partir* (before leaving).",
+    "*Pour* + infinitive = in order to: *Je travaille pour payer mon loyer.* *Afin de* is a more formal equivalent.",
+    "Exception: *en* takes the present participle (gérondif): *en marchant*. And *après* takes the PAST infinitive: *après avoir mangé, après être parti*."
+   ],
+   "table": {
+    "head": [
+     "Preposition",
+     "Example",
+     "English"
+    ],
+    "rows": [
+     [
+      "pour",
+      "Je suis venu pour t'aider.",
+      "to / in order to"
+     ],
+     [
+      "sans",
+      "Il est parti sans dire au revoir.",
+      "without saying"
+     ],
+     [
+      "au lieu de",
+      "Au lieu de chialer, aide-moi!",
+      "instead of complaining"
+     ],
+     [
+      "avant de",
+      "Lis avant de signer.",
+      "before signing"
+     ],
+     [
+      "après + avoir/être",
+      "Après avoir signé, il est parti.",
+      "after signing"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Adjectives and nouns + infinitive",
+   "body": [
+    "Adjectives of feeling take *de*: *content de, triste de, fier de, désolé de, prêt à* (note: *prêt à*).",
+    "*Il est facile de comprendre ce texte* (impersonal, the infinitive has an object) vs *Ce texte est facile à comprendre* (the subject is the thing being understood).",
+    "Nouns often take *de* or *à*: *le temps de, l'occasion de, une machine à laver, une salle à manger*."
+   ]
+  },
+  {
+   "h": "Être en train de, venir de, aller",
+   "body": [
+    "Three infinitive frames place an action in time: *aller* + inf (about to / going to), *être en train de* + inf (in the middle of), *venir de* + inf (just did).",
+    "*Être en train de* stresses that an action is in progress right now: *Je suis en train de cuisiner, je te rappelle.* Use it when the simple present would sound too vague. In the past: *J'étais en train de dormir quand tu as appelé.*",
+    "Infinitives also give instructions on signs and in recipes: *Ne pas stationner. Bien mélanger.* Note the order: *ne pas* both come before the infinitive."
+   ]
+  },
+  {
+   "h": "Quebec: être en train de, être après, être pour",
+   "body": [
+    "*Être en train de* is used everywhere, in Quebec as in France, and is pronounced quickly: *chu en train d'manger*.",
+    "Quebec also has two traditional informal frames: *être après* + inf = to be in the middle of (*J'suis après souper* = I'm eating supper right now), and *être pour* + inf = to be about to / to be going to (*J'étais pour t'appeler!* = I was just about to call you!).",
+    "Another casual Quebec verb: *partir à* + inf = to burst out / start: *Y est parti à rire.* = He burst out laughing."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Je commence à comprendre le joual.",
+   "en": "I'm starting to understand joual.",
+   "note": "commencer à"
+  },
+  {
+   "fr": "Elle a décidé de déménager à Sherbrooke.",
+   "en": "She decided to move to Sherbrooke.",
+   "note": "décider de"
+  },
+  {
+   "fr": "On aimerait rester un peu plus longtemps.",
+   "en": "We'd like to stay a bit longer.",
+   "note": "aimer + no preposition"
+  },
+  {
+   "fr": "N'oublie pas de sortir les vidanges.",
+   "en": "Don't forget to take out the garbage.",
+   "note": "oublier de; les vidanges = garbage in Quebec"
+  },
+  {
+   "fr": "Mon fils apprend à patiner.",
+   "en": "My son is learning to skate.",
+   "note": "apprendre à"
+  },
+  {
+   "fr": "J'essaie de dormir, peux-tu baisser la musique?",
+   "en": "I'm trying to sleep, can you turn down the music?",
+   "note": "essayer de"
+  },
+  {
+   "fr": "Il est parti sans dire au revoir.",
+   "en": "He left without saying goodbye.",
+   "note": "sans + infinitive = without -ing"
+  },
+  {
+   "fr": "Au lieu de chialer, aide-moi à pelleter.",
+   "en": "Instead of complaining, help me shovel.",
+   "note": "chialer = to complain (Quebec); aider à"
+  },
+  {
+   "fr": "Je travaille de nuit pour payer mes études.",
+   "en": "I work nights to pay for my studies.",
+   "note": "pour = in order to"
+  },
+  {
+   "fr": "Après avoir signé le bail, on a fêté.",
+   "en": "After signing the lease, we celebrated.",
+   "note": "après + past infinitive"
+  },
+  {
+   "fr": "Ce formulaire est facile à remplir.",
+   "en": "This form is easy to fill out.",
+   "note": "noun subject + facile à"
+  },
+  {
+   "fr": "Il est facile de remplir ce formulaire.",
+   "en": "It's easy to fill out this form.",
+   "note": "impersonal il est facile de"
+  },
+  {
+   "fr": "Je suis en train de cuisiner, je te rappelle.",
+   "en": "I'm in the middle of cooking, I'll call you back.",
+   "note": "être en train de = in progress"
+  },
+  {
+   "fr": "On était en train de souper quand l'électricité a manqué.",
+   "en": "We were having supper when the power went out.",
+   "note": "être en train de in the imparfait"
+  },
+  {
+   "fr": "Je suis content de te voir.",
+   "en": "I'm happy to see you.",
+   "note": "adjective of feeling + de"
+  },
+  {
+   "fr": "Ne pas stationner devant la porte.",
+   "en": "No parking in front of the door.",
+   "note": "instruction: ne pas + infinitive"
+  }
+ ],
+ "quebec": {
+  "intro": "'Être en train de' is the everyday way to stress an ongoing action in Quebec too. Quebec also keeps two informal frames: 'être après' + infinitive (in the middle of) and 'être pour' + infinitive (about to).",
+  "items": [
+   {
+    "std": "Je suis en train de manger.",
+    "qc": "Chu en train d'manger.",
+    "en": "I'm eating right now.",
+    "note": "same structure, casual pronunciation"
+   },
+   {
+    "std": "Je suis en train de souper.",
+    "qc": "Chu après souper.",
+    "en": "I'm having supper right now.",
+    "note": "être après + inf: traditional, informal Quebec"
+   },
+   {
+    "std": "J'allais justement t'appeler!",
+    "qc": "J'étais pour t'appeler!",
+    "en": "I was just about to call you!",
+    "note": "être pour + inf = be about to; informal"
+   },
+   {
+    "std": "Il a éclaté de rire.",
+    "qc": "Y est parti à rire.",
+    "en": "He burst out laughing.",
+    "note": "partir à + inf = to start suddenly; informal"
+   },
+   {
+    "std": "Arrête de te plaindre.",
+    "qc": "Arrête de chialer.",
+    "en": "Stop complaining.",
+    "note": "chialer = to complain, informal Quebec"
+   },
+   {
+    "std": "Je viens juste de finir.",
+    "qc": "J'viens juste de finir.",
+    "en": "I just finished."
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "J'ai décidé ___ partir.",
+   "options": [
+    "à",
+    "de",
+    "pour",
+    "—"
+   ],
+   "a": 1,
+   "why": "Décider de + infinitive."
+  },
+  {
+   "t": "mcq",
+   "q": "Il apprend ___ conduire.",
+   "options": [
+    "à",
+    "de",
+    "pour",
+    "—"
+   ],
+   "a": 0,
+   "why": "Apprendre à + infinitive."
+  },
+  {
+   "t": "mcq",
+   "q": "Nous voulons ___ voyager.",
+   "options": [
+    "à",
+    "de",
+    "pour",
+    "—"
+   ],
+   "a": 3,
+   "why": "Vouloir takes no preposition."
+  },
+  {
+   "t": "mcq",
+   "q": "'J'étais pour t'appeler' means…",
+   "options": [
+    "I was in favour of calling you",
+    "I was just about to call you",
+    "I called you for nothing",
+    "I was calling for you"
+   ],
+   "a": 1,
+   "why": "Être pour + inf = be about to, informal Quebec."
+  },
+  {
+   "t": "fill",
+   "q": "N'oublie pas ___ fermer la porte.",
+   "a": [
+    "de"
+   ],
+   "en": "Don't forget to close the door.",
+   "why": "Oublier de."
+  },
+  {
+   "t": "fill",
+   "q": "Il est parti ___ payer. (without)",
+   "a": [
+    "sans"
+   ],
+   "en": "He left without paying.",
+   "why": "Sans + infinitive."
+  },
+  {
+   "t": "fill",
+   "q": "Après ___ mangé, on est sortis.",
+   "a": [
+    "avoir"
+   ],
+   "en": "After eating, we went out.",
+   "why": "Après + past infinitive."
+  },
+  {
+   "t": "fill",
+   "q": "Ce texte est difficile ___ traduire.",
+   "a": [
+    "à"
+   ],
+   "en": "This text is hard to translate.",
+   "why": "Noun subject + difficile à."
+  },
+  {
+   "t": "fill",
+   "q": "Je suis en train ___ travailler.",
+   "a": [
+    "de"
+   ],
+   "en": "I'm busy working.",
+   "why": "Être en train de."
+  },
+  {
+   "t": "build",
+   "en": "I'm starting to understand.",
+   "a": "Je commence à comprendre."
+  },
+  {
+   "t": "build",
+   "en": "Help me carry the boxes.",
+   "a": "Aide-moi à porter les boîtes."
+  },
+  {
+   "t": "build",
+   "en": "I'm trying to sleep.",
+   "a": "J'essaie de dormir."
+  },
+  {
+   "t": "translate",
+   "en": "I'm in the middle of cooking.",
+   "a": [
+    "Je suis en train de cuisiner.",
+    "Je suis en train de faire à manger.",
+    "Je suis en train de faire la cuisine."
+   ],
+   "why": "Être en train de + infinitive."
+  },
+  {
+   "t": "translate",
+   "en": "Stop complaining!",
+   "a": [
+    "Arrête de te plaindre!",
+    "Arrêtez de vous plaindre!",
+    "Arrête de chialer!",
+    "Arrêtez de chialer!"
+   ],
+   "why": "Arrêter de + infinitive."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "essayer de",
+   "en": "to try to",
+   "ex": "J'essaie de comprendre."
+  },
+  {
+   "fr": "réussir à",
+   "en": "to manage to, to succeed in",
+   "ex": "J'ai réussi à dormir."
+  },
+  {
+   "fr": "s'habituer à",
+   "en": "to get used to",
+   "ex": "Je m'habitue à vivre ici."
+  },
+  {
+   "fr": "hésiter à",
+   "en": "to hesitate to",
+   "ex": "N'hésite pas à m'appeler."
+  },
+  {
+   "fr": "arrêter de",
+   "en": "to stop (doing)",
+   "ex": "J'ai arrêté de fumer."
+  },
+  {
+   "fr": "refuser de",
+   "en": "to refuse to",
+   "ex": "Il refuse de payer."
+  },
+  {
+   "fr": "au lieu de",
+   "en": "instead of",
+   "ex": "Au lieu de sortir, on reste."
+  },
+  {
+   "fr": "être en train de",
+   "en": "to be in the middle of",
+   "ex": "Je suis en train de lire."
+  },
+  {
+   "fr": "le bail",
+   "en": "lease",
+   "g": "m",
+   "ex": "On a signé le bail le 1er juillet."
+  },
+  {
+   "fr": "remplir",
+   "en": "to fill out, to fill",
+   "ex": "Remplissez le formulaire."
+  },
+  {
+   "fr": "pelleter",
+   "en": "to shovel",
+   "ex": "Il faut pelleter l'entrée."
+  },
+  {
+   "fr": "chialer",
+   "en": "to complain, to grumble",
+   "ex": "Arrête de chialer!",
+   "qc": true
+  },
+  {
+   "fr": "les vidanges",
+   "en": "garbage, trash",
+   "g": "f",
+   "ex": "Les vidanges passent le mardi.",
+   "qc": true
+  },
+  {
+   "fr": "être pour",
+   "en": "to be about to (+ inf.)",
+   "ex": "J'étais pour partir.",
+   "qc": true
+  },
+  {
+   "fr": "patiner",
+   "en": "to skate",
+   "ex": "On va patiner au parc."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "en train de",
+    "tip": "an-TRIN-duh; casual: an-trin-d'."
+   },
+   {
+    "fr": "Chu en train d'manger",
+    "tip": "shu-an-trin-dman-ZHÉ."
+   },
+   {
+    "fr": "essayer de",
+    "tip": "è-sè-YÉ-duh."
+   },
+   {
+    "fr": "au lieu de",
+    "tip": "o-LYEU-duh."
+   },
+   {
+    "fr": "chialer",
+    "tip": "shya-LÉ."
+   },
+   {
+    "fr": "J'étais pour",
+    "tip": "zhé-tè-POUR, final r pronounced."
+   }
+  ],
+  "title": "Un appel au mauvais moment",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Allô? Je te dérange?",
+    "en": "Hello? Am I bothering you?"
+   },
+   {
+    "s": "B",
+    "fr": "Un peu, je suis en train de faire le souper.",
+    "en": "A little, I'm in the middle of making supper."
+   },
+   {
+    "s": "A",
+    "fr": "Ah, j'étais pour te demander de m'aider à déménager samedi.",
+    "en": "Oh, I was going to ask you to help me move on Saturday."
+   },
+   {
+    "s": "B",
+    "fr": "Samedi? J'ai promis d'aller patiner avec les enfants.",
+    "en": "Saturday? I promised to go skating with the kids."
+   },
+   {
+    "s": "A",
+    "fr": "Pas grave. J'essaie de trouver trois personnes pour porter les meubles.",
+    "en": "No problem. I'm trying to find three people to carry the furniture."
+   },
+   {
+    "s": "B",
+    "fr": "Au lieu de chercher des amis, pourquoi ne pas engager des déménageurs?",
+    "en": "Instead of looking for friends, why not hire movers?"
+   },
+   {
+    "s": "A",
+    "fr": "C'est trop cher le premier juillet! J'ai décidé de le faire moi-même.",
+    "en": "It's too expensive on July first! I decided to do it myself."
+   },
+   {
+    "s": "B",
+    "fr": "Bon, je vais essayer de passer dimanche. Je te rappelle après avoir mangé!",
+    "en": "OK, I'll try to come by on Sunday. I'll call you back after eating!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What is B doing when A calls?",
+    "options": [
+     "Sleeping",
+     "Making supper",
+     "Skating"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does A want help with?",
+    "options": [
+     "Moving",
+     "Painting",
+     "Shopping"
+    ],
+    "a": 0
+   },
+   {
+    "q": "Why doesn't A hire movers?",
+    "options": [
+     "They're all booked",
+     "It's too expensive on July 1st",
+     "A doesn't trust them"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Tell a friend what you are doing right now, what you just did, and what you're about to do.",
+   "model": "Je suis en train d'étudier. Je viens de manger. Je vais aller me coucher bientôt."
+  },
+  {
+   "prompt": "Name three things you're learning to do, trying to do, and decided to stop doing.",
+   "model": "J'apprends à jouer de la guitare. J'essaie de courir trois fois par semaine. J'ai décidé d'arrêter de boire du café le soir."
+  },
+  {
+   "prompt": "Say 'I was just about to call you!' in standard French, then the Quebec casual way.",
+   "model": "J'allais justement t'appeler! / J'étais pour t'appeler!"
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences about a new habit you are trying to build. Use at least three verbs with à or de, one preposition + infinitive (pour, sans, au lieu de), and être en train de.",
+  "model": "Depuis janvier, j'essaie de marcher trente minutes par jour. Au début, j'hésitais à sortir quand il faisait moins vingt. Maintenant, je commence à aimer l'hiver. Je marche pour réduire mon stress et sans écouter mon téléphone. Au lieu de prendre l'autobus, je vais au travail à pied. En ce moment, je suis en train de convaincre mon voisin de m'accompagner."
+ },
+ "quiz": [
+  {
+   "q": "Which verb takes à before an infinitive?",
+   "options": [
+    "décider",
+    "réussir",
+    "vouloir",
+    "oublier"
+   ],
+   "a": 1,
+   "why": "Réussir à."
+  },
+  {
+   "q": "Which verb takes de?",
+   "options": [
+    "commencer",
+    "apprendre",
+    "essayer",
+    "aimer"
+   ],
+   "a": 2,
+   "why": "Essayer de."
+  },
+  {
+   "q": "'Without saying' in French is…",
+   "options": [
+    "sans disant",
+    "sans dire",
+    "sans de dire",
+    "en dire"
+   ],
+   "a": 1,
+   "why": "Prepositions (except en) take the infinitive."
+  },
+  {
+   "q": "'Il est facile ___ comprendre' vs 'C'est facile ___ comprendre (ce texte)'",
+   "options": [
+    "de / à",
+    "à / de",
+    "de / de",
+    "à / à"
+   ],
+   "a": 0,
+   "why": "Impersonal il est facile de; noun + facile à."
+  },
+  {
+   "q": "'Chu après souper' means…",
+   "options": [
+    "I've finished supper",
+    "I'm in the middle of supper",
+    "I'll eat after supper",
+    "I'm hungry"
+   ],
+   "a": 1,
+   "why": "Être après + inf = in the middle of (informal Quebec)."
+  },
+  {
+   "q": "Which is a correct sign?",
+   "options": [
+    "Pas ne fumer",
+    "Ne fumer pas",
+    "Ne pas fumer",
+    "Fumer ne pas"
+   ],
+   "a": 2,
+   "why": "Ne pas both go before the infinitive."
+  },
+  {
+   "q": "Je suis prêt ___ partir.",
+   "options": [
+    "de",
+    "à",
+    "pour de",
+    "—"
+   ],
+   "a": 1,
+   "why": "Prêt à + infinitive."
+  },
+  {
+   "q": "'Y est parti à rire' means…",
+   "options": [
+    "He left laughing",
+    "He burst out laughing",
+    "He left to laugh",
+    "He stopped laughing"
+   ],
+   "a": 1,
+   "why": "Partir à + inf = to start suddenly (informal Quebec)."
+  },
+  {
+   "q": "After 'après', use…",
+   "options": [
+    "the present infinitive",
+    "the past infinitive",
+    "the gérondif",
+    "the subjunctive"
+   ],
+   "a": 1,
+   "why": "Après avoir mangé, après être parti."
+  }
+ ]
+}

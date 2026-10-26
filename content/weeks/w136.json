@@ -1,0 +1,617 @@
+{
+ "w": 136,
+ "title": "Relative pronoun auquel",
+ "goal": "By the end of this lesson you can use auquel, à laquelle, auxquels and auxquelles after verbs and expressions built with à, choose between à qui and auquel for people, and turn casual spoken sentences into correct written French.",
+ "learn": [
+  {
+   "h": "Where auquel comes from",
+   "body": [
+    "*Auquel* is *à + lequel*. You need it when the verb or expression in the relative clause is built with *à*: *penser à*, *participer à*, *assister à*, *s'intéresser à*, *faire face à*, *s'attendre à*, *tenir à*, *répondre à*.",
+    "Start from the full sentence: *Je travaille **à** ce projet.* → *le projet **auquel** je travaille*. The *à* that belonged to the verb moves to the front and merges with *lequel*."
+   ],
+   "table": {
+    "head": [
+     "",
+     "Masculine",
+     "Feminine"
+    ],
+    "rows": [
+     [
+      "Singular",
+      "auquel",
+      "à laquelle"
+     ],
+     [
+      "Plural",
+      "auxquels",
+      "auxquelles"
+     ]
+    ]
+   },
+   "tip": "Only à laquelle stays in two words: à + la can't contract."
+  },
+  {
+   "h": "Agreement: look at the antecedent",
+   "body": [
+    "The form agrees in gender and number with the noun it replaces (the antecedent), not with the subject of the verb.",
+    "*Le concours auquel elle participe* (concours, m. sg.). *La conférence à laquelle j'ai assisté* (conférence, f. sg.). *Les défis auxquels nous faisons face* (défis, m. pl.). *Les questions auxquelles il a répondu* (questions, f. pl.)."
+   ]
+  },
+  {
+   "h": "People: à qui is usually better",
+   "body": [
+    "For people, *à qui* is the normal choice: *la collègue à qui j'ai parlé*, *les clients à qui nous avons écrit*. *Auquel / à laquelle* is possible for people but sounds heavier; use it mainly to avoid ambiguity.",
+    "For things and ideas, *à qui* is impossible: you must use *auquel*. *Le problème auquel je pense*, never *le problème à qui je pense*."
+   ],
+   "table": {
+    "head": [
+     "Antecedent",
+     "Use",
+     "Example"
+    ],
+    "rows": [
+     [
+      "person",
+      "à qui (preferred) / auquel",
+      "l'ami à qui j'ai prêté mon auto"
+     ],
+     [
+      "thing, idea",
+      "auquel, à laquelle…",
+      "le livre auquel je pense"
+     ],
+     [
+      "place, time",
+      "où (often simpler)",
+      "la ville où je vais"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Compound prepositions ending in à",
+   "body": [
+    "Expressions like *grâce à*, *face à*, *par rapport à* also combine: *l'aide grâce à laquelle j'ai réussi*, *les attentes par rapport auxquelles on évalue le projet*.",
+    "*Auquel* is also an interrogative pronoun: *Il y a deux projets. Auquel participes-tu?* (Which one are you taking part in?)"
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "C'est le projet auquel je travaille depuis un an.",
+   "en": "It's the project I've been working on for a year.",
+   "note": "travailler à → auquel"
+  },
+  {
+   "fr": "La conférence à laquelle j'ai assisté était passionnante.",
+   "en": "The conference I attended was fascinating.",
+   "note": "assister à; conférence is feminine"
+  },
+  {
+   "fr": "Voici les défis auxquels nous faisons face.",
+   "en": "Here are the challenges we are facing.",
+   "note": "faire face à; défis m. pl."
+  },
+  {
+   "fr": "Ce sont des questions auxquelles personne n'a répondu.",
+   "en": "These are questions nobody answered.",
+   "note": "répondre à; questions f. pl."
+  },
+  {
+   "fr": "Le concours auquel ma fille participe a lieu à Québec.",
+   "en": "The competition my daughter is taking part in is in Quebec City.",
+   "note": "participer à"
+  },
+  {
+   "fr": "C'est une solution à laquelle je n'avais pas pensé.",
+   "en": "It's a solution I hadn't thought of.",
+   "note": "penser à"
+  },
+  {
+   "fr": "La musique est un domaine auquel il s'intéresse beaucoup.",
+   "en": "Music is a field he's very interested in.",
+   "note": "s'intéresser à"
+  },
+  {
+   "fr": "Ce n'est pas le résultat auquel on s'attendait.",
+   "en": "That's not the result we were expecting.",
+   "note": "s'attendre à"
+  },
+  {
+   "fr": "C'est un souvenir auquel je tiens énormément.",
+   "en": "It's a keepsake that means a lot to me.",
+   "note": "tenir à = to value, care about"
+  },
+  {
+   "fr": "La personne à qui j'ai parlé m'a donné un numéro de dossier.",
+   "en": "The person I spoke to gave me a file number.",
+   "note": "person → à qui preferred"
+  },
+  {
+   "fr": "Les clients à qui nous avons écrit ont tous répondu.",
+   "en": "The customers we wrote to all replied.",
+   "note": "à qui for people"
+  },
+  {
+   "fr": "C'est la bourse grâce à laquelle j'ai pu étudier.",
+   "en": "It's the scholarship thanks to which I was able to study.",
+   "note": "grâce à + laquelle"
+  },
+  {
+   "fr": "Voici les critères par rapport auxquels le jury décidera.",
+   "en": "Here are the criteria against which the jury will decide.",
+   "note": "par rapport à + lesquels"
+  },
+  {
+   "fr": "Il y a deux ateliers. Auquel veux-tu t'inscrire?",
+   "en": "There are two workshops. Which one do you want to sign up for?",
+   "note": "interrogative auquel"
+  },
+  {
+   "fr": "Le poste auquel vous avez postulé a été comblé.",
+   "en": "The position you applied for has been filled.",
+   "note": "postuler à (also postuler pour in Quebec usage)"
+  },
+  {
+   "fr": "La loi à laquelle le ministre fait référence date de 1977.",
+   "en": "The law the minister is referring to dates from 1977.",
+   "note": "faire référence à"
+  }
+ ],
+ "quebec": {
+  "intro": "Auquel belongs to formal writing. In casual Quebec speech, people avoid it by using que + a preposition left at the end (dessus, dedans, avec), or by restructuring. Recognise these, but write the formal version in emails, reports and letters.",
+  "items": [
+   {
+    "std": "le projet auquel je travaille",
+    "qc": "le projet que je travaille dessus",
+    "en": "the project I'm working on",
+    "note": "que + dessus is nonstandard, informal speech only"
+   },
+   {
+    "std": "la réunion à laquelle j'ai assisté",
+    "qc": "la réunion où j'suis allé",
+    "en": "the meeting I went to",
+    "note": "où is a common everyday workaround"
+   },
+   {
+    "std": "les gens à qui j'ai parlé",
+    "qc": "le monde que j'ai parlé avec",
+    "en": "the people I talked to",
+    "note": "le monde = people; que… avec is nonstandard"
+   },
+   {
+    "std": "C'est une chose à laquelle je n'avais pas pensé.",
+    "qc": "J'y avais pas pensé, à ça.",
+    "en": "I hadn't thought of that.",
+    "note": "restructured with y + ça; informal"
+   },
+   {
+    "std": "le poste auquel j'ai postulé",
+    "qc": "la job que j'ai appliqué pour",
+    "en": "the job I applied for",
+    "note": "appliquer pour is an anglicism; informal"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "La réunion ___ j'ai participé a duré trois heures.",
+   "options": [
+    "auquel",
+    "à laquelle",
+    "auxquels",
+    "à qui"
+   ],
+   "a": 1,
+   "why": "Participer à; réunion is feminine singular."
+  },
+  {
+   "t": "mcq",
+   "q": "Les problèmes ___ nous pensons sont sérieux.",
+   "options": [
+    "auxquelles",
+    "auquel",
+    "auxquels",
+    "à qui"
+   ],
+   "a": 2,
+   "why": "Penser à; problèmes is masculine plural."
+  },
+  {
+   "t": "mcq",
+   "q": "For a person, the preferred form is…",
+   "options": [
+    "à qui",
+    "auquel",
+    "que",
+    "dont"
+   ],
+   "a": 0,
+   "why": "À qui is lighter and more natural for people."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is wrong?",
+   "options": [
+    "le livre auquel je pense",
+    "le livre à qui je pense",
+    "l'amie à qui je pense",
+    "l'amie à laquelle je pense"
+   ],
+   "a": 1,
+   "why": "À qui cannot refer to a thing."
+  },
+  {
+   "t": "mcq",
+   "q": "'Le projet que je travaille dessus' is…",
+   "options": [
+    "formal written French",
+    "informal, nonstandard speech",
+    "a France-only form",
+    "the most correct option"
+   ],
+   "a": 1,
+   "why": "Formally: le projet auquel je travaille."
+  },
+  {
+   "t": "fill",
+   "q": "C'est un détail ___ je n'avais pas pensé. (penser à)",
+   "a": [
+    "auquel"
+   ],
+   "en": "It's a detail I hadn't thought of.",
+   "why": "Détail is masculine singular."
+  },
+  {
+   "t": "fill",
+   "q": "Les questions ___ il a répondu étaient difficiles.",
+   "a": [
+    "auxquelles"
+   ],
+   "en": "The questions he answered were difficult.",
+   "why": "Répondre à; questions f. pl."
+  },
+  {
+   "t": "fill",
+   "q": "La cause à ___ elle consacre sa vie est l'environnement.",
+   "a": [
+    "laquelle"
+   ],
+   "en": "The cause she devotes her life to is the environment.",
+   "why": "Consacrer à; cause f. sg."
+  },
+  {
+   "t": "fill",
+   "q": "Le collègue ___ j'ai prêté mon portable est absent. (to whom)",
+   "a": [
+    "à qui",
+    "auquel"
+   ],
+   "en": "The colleague I lent my laptop to is absent.",
+   "why": "Person: à qui preferred, auquel possible."
+  },
+  {
+   "t": "build",
+   "en": "It's the competition she's taking part in.",
+   "a": "C'est le concours auquel elle participe."
+  },
+  {
+   "t": "build",
+   "en": "Here are the challenges we're facing.",
+   "a": "Voici les défis auxquels nous faisons face."
+  },
+  {
+   "t": "build",
+   "en": "Which one are you thinking of?",
+   "a": "Auquel penses-tu?"
+  },
+  {
+   "t": "translate",
+   "en": "the conference I attended",
+   "a": [
+    "la conférence à laquelle j'ai assisté"
+   ],
+   "why": "Assister à + feminine noun → à laquelle."
+  },
+  {
+   "t": "translate",
+   "en": "the result we were expecting",
+   "a": [
+    "le résultat auquel nous nous attendions",
+    "le résultat auquel on s'attendait"
+   ],
+   "why": "S'attendre à → auquel."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "auquel / à laquelle",
+   "en": "to which, which (with à-verbs)",
+   "ex": "le film auquel je pense"
+  },
+  {
+   "fr": "auxquels / auxquelles",
+   "en": "to which (plural)",
+   "ex": "les gens auxquels j'ai écrit"
+  },
+  {
+   "fr": "participer à",
+   "en": "to take part in",
+   "ex": "Je participe à un atelier."
+  },
+  {
+   "fr": "assister à",
+   "en": "to attend",
+   "ex": "J'ai assisté à la réunion."
+  },
+  {
+   "fr": "faire face à",
+   "en": "to face, deal with",
+   "ex": "Nous faisons face à une pénurie."
+  },
+  {
+   "fr": "s'attendre à",
+   "en": "to expect",
+   "ex": "Je ne m'y attendais pas."
+  },
+  {
+   "fr": "tenir à",
+   "en": "to value, care about, insist on",
+   "ex": "Je tiens à te remercier."
+  },
+  {
+   "fr": "s'intéresser à",
+   "en": "to be interested in",
+   "ex": "Elle s'intéresse à la politique."
+  },
+  {
+   "fr": "consacrer à",
+   "en": "to devote to",
+   "ex": "Il consacre ses soirées à la lecture."
+  },
+  {
+   "fr": "faire référence à",
+   "en": "to refer to",
+   "ex": "Il fait référence à la loi 101."
+  },
+  {
+   "fr": "postuler à / pour",
+   "en": "to apply for (a job)",
+   "ex": "J'ai postulé à ce poste."
+  },
+  {
+   "fr": "le défi",
+   "en": "challenge",
+   "g": "m",
+   "ex": "C'est un beau défi."
+  },
+  {
+   "fr": "le concours",
+   "en": "competition, contest",
+   "g": "m",
+   "ex": "Il a gagné le concours."
+  },
+  {
+   "fr": "la bourse",
+   "en": "scholarship; stock exchange",
+   "g": "f",
+   "ex": "Elle a obtenu une bourse d'études."
+  },
+  {
+   "fr": "le monde",
+   "en": "people (informal); world",
+   "g": "m",
+   "ex": "Y'avait ben du monde.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "auquel",
+    "tip": "[o-KÈL]: sounds like 'au quel'."
+   },
+   {
+    "fr": "à laquelle",
+    "tip": "[a la-KÈL]."
+   },
+   {
+    "fr": "auxquels / auxquelles",
+    "tip": "Both [o-KÈL]: you only see the difference in writing."
+   },
+   {
+    "fr": "auxquels ils",
+    "tip": "In careful speech the s links as [z]: [o-kèl-ZIL]."
+   },
+   {
+    "fr": "à qui",
+    "tip": "[a KI]."
+   },
+   {
+    "fr": "dessus",
+    "tip": "[duh-SU]; don't confuse with dessous [duh-SOU]."
+   }
+  ],
+  "title": "Après l'entrevue",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Pis, ton entrevue? C'est pour quel poste, déjà?",
+    "en": "So, your interview? What position was it for again?"
+   },
+   {
+    "s": "B",
+    "fr": "Le poste de coordonnatrice auquel j'ai postulé en septembre.",
+    "en": "The coordinator position I applied for in September."
+   },
+   {
+    "s": "A",
+    "fr": "Et ça s'est bien passé?",
+    "en": "And did it go well?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, mais il y a une question à laquelle je ne m'attendais pas du tout.",
+    "en": "Yes, but there was one question I wasn't expecting at all."
+   },
+   {
+    "s": "A",
+    "fr": "Laquelle?",
+    "en": "Which one?"
+   },
+   {
+    "s": "B",
+    "fr": "« Quels sont les trois défis auxquels notre secteur fait face? »",
+    "en": "'What are the three challenges our sector is facing?'"
+   },
+   {
+    "s": "A",
+    "fr": "Ouf! Et la personne à qui tu as parlé, elle était sympathique?",
+    "en": "Phew! And the person you spoke with, was she friendly?"
+   },
+   {
+    "s": "B",
+    "fr": "Très. C'est un projet auquel je tiens, j'espère vraiment l'avoir.",
+    "en": "Very. It's a project I really care about, I really hope I get it."
+   }
+  ],
+  "questions": [
+   {
+    "q": "When did B apply for the job?",
+    "options": [
+     "In June",
+     "In September",
+     "Last week"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What surprised B in the interview?",
+    "options": [
+     "The salary",
+     "A question about the sector's challenges",
+     "The location"
+    ],
+    "a": 1
+   },
+   {
+    "q": "How does B feel about the project?",
+    "options": [
+     "Indifferent",
+     "B really cares about it",
+     "B wants to decline"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Describe three things you care about or are interested in using auquel / à laquelle / auxquels.",
+   "model": "Le français est une langue à laquelle je tiens beaucoup. Le hockey est un sport auquel je m'intéresse depuis mon arrivée. Il y a des causes environnementales auxquelles je donne de l'argent."
+  },
+  {
+   "prompt": "Talk about a meeting or event you attended using à laquelle and à qui.",
+   "model": "La réunion à laquelle j'ai assisté mardi portait sur le budget. La gestionnaire à qui j'ai posé une question m'a répondu très clairement."
+  },
+  {
+   "prompt": "Make this formal: 'C'est la job que j'ai appliqué pour pis le projet que je travaille dessus.'",
+   "model": "C'est le poste auquel j'ai postulé et le projet auquel je travaille."
+  }
+ ],
+ "write": {
+  "prompt": "Write a short cover letter paragraph (5–6 sentences) using at least four forms of auquel or à qui.",
+  "model": "Je vous écris au sujet du poste d'analyste auquel j'aimerais postuler. Les défis auxquels votre organisation fait face, notamment la transition numérique, m'intéressent beaucoup. Dans mon emploi actuel, j'ai dirigé un projet auquel ont participé plus de vingt employés. La gestionnaire à qui je rendais compte pourra confirmer mes compétences. C'est une expérience à laquelle je tiens et que je souhaite mettre à votre service."
+ },
+ "quiz": [
+  {
+   "q": "'Auquel' is a contraction of…",
+   "options": [
+    "à + quel",
+    "à + lequel",
+    "au + que",
+    "à + le + que"
+   ],
+   "a": 1,
+   "why": "À + lequel = auquel."
+  },
+  {
+   "q": "Which form never contracts?",
+   "options": [
+    "auquel",
+    "auxquels",
+    "à laquelle",
+    "auxquelles"
+   ],
+   "a": 2,
+   "why": "À + la stays separate."
+  },
+  {
+   "q": "'Auquel' agrees with…",
+   "options": [
+    "the subject of the clause",
+    "the antecedent",
+    "the verb",
+    "nothing"
+   ],
+   "a": 1,
+   "why": "It takes the gender and number of the noun it replaces."
+  },
+  {
+   "q": "Which verb leads to auquel?",
+   "options": [
+    "parler de",
+    "penser à",
+    "avoir besoin de",
+    "se souvenir de"
+   ],
+   "a": 1,
+   "why": "Verbs with de lead to dont/duquel."
+  },
+  {
+   "q": "'Les causes ___ je crois' (croire à)",
+   "options": [
+    "auxquels",
+    "auxquelles",
+    "auquel",
+    "à laquelle"
+   ],
+   "a": 1,
+   "why": "Causes is feminine plural."
+  },
+  {
+   "q": "'L'aide grâce à ___ j'ai réussi'",
+   "options": [
+    "lequel",
+    "laquelle",
+    "qui",
+    "quoi"
+   ],
+   "a": 1,
+   "why": "Aide is feminine: grâce à laquelle."
+  },
+  {
+   "q": "Which is the best written form?",
+   "options": [
+    "la fille que je parle avec",
+    "la fille à qui je parle",
+    "la fille que je lui parle",
+    "la fille où je parle"
+   ],
+   "a": 1,
+   "why": "Parler à + person → à qui."
+  },
+  {
+   "q": "'Auquel veux-tu participer?' is…",
+   "options": [
+    "a relative clause",
+    "an interrogative question",
+    "an error",
+    "Quebec slang"
+   ],
+   "a": 1,
+   "why": "Auquel can be an interrogative: which one?"
+  }
+ ]
+}

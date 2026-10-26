@@ -1,0 +1,630 @@
+{
+ "w": 70,
+ "title": "Gérondif",
+ "goal": "By the end of this lesson you can form the gérondif (en + -ant) and use it to say that two actions happen at the same time, or how something is done, including the very Quebec 'en s'en allant'.",
+ "learn": [
+  {
+   "h": "Forming the present participle",
+   "body": [
+    "Take the *nous* form of the present tense, remove *-ons*, and add *-ant*: *nous parlons* → *parlant*, *nous finissons* → *finissant*, *nous prenons* → *prenant*, *nous faisons* → *faisant*.",
+    "Only three verbs are irregular: *être* → *étant*, *avoir* → *ayant*, *savoir* → *sachant*.",
+    "Spelling: verbs in *-ger* and *-cer* keep their nous spelling: *mangeant*, *commençant*."
+   ],
+   "table": {
+    "head": [
+     "Infinitive",
+     "nous form",
+     "Participle"
+    ],
+    "rows": [
+     [
+      "regarder",
+      "nous regardons",
+      "regardant"
+     ],
+     [
+      "choisir",
+      "nous choisissons",
+      "choisissant"
+     ],
+     [
+      "lire",
+      "nous lisons",
+      "lisant"
+     ],
+     [
+      "aller",
+      "nous allons",
+      "allant"
+     ],
+     [
+      "manger",
+      "nous mangeons",
+      "mangeant"
+     ],
+     [
+      "être / avoir / savoir",
+      "(irregular)",
+      "étant / ayant / sachant"
+     ]
+    ]
+   },
+   "tip": "nous form minus -ons plus -ant. Only être, avoir and savoir break the rule."
+  },
+  {
+   "h": "The gérondif: en + participle",
+   "body": [
+    "Put *en* before the participle to make the gérondif. It never changes form, and its subject is always the subject of the main verb: *Je chante en conduisant* (I sing while driving).",
+    "Three main uses: simultaneous actions (*Il mange en regardant la télé*), manner or means (*J'ai appris le français en écoutant la radio*), and condition (*En partant maintenant, tu vas arriver à l'heure* = if you leave now)."
+   ],
+   "table": {
+    "head": [
+     "Use",
+     "Example",
+     "English"
+    ],
+    "rows": [
+     [
+      "at the same time",
+      "Je travaille en écoutant de la musique.",
+      "I work while listening to music."
+     ],
+     [
+      "how / by means of",
+      "Il a maigri en faisant du vélo.",
+      "He lost weight by cycling."
+     ],
+     [
+      "condition",
+      "En prenant le métro, tu vas sauver du temps.",
+      "If you take the metro, you'll save time."
+     ],
+     [
+      "when",
+      "En arrivant, j'ai vu Marie.",
+      "When I arrived / On arriving, I saw Marie."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Tout en: contrast or emphasis",
+   "body": [
+    "*Tout en* + participle stresses that the two actions happen at the same time, often with a contrast: *Il est gentil tout en étant très strict* (He's kind while being very strict). *Elle étudie tout en travaillant à temps plein* (She studies while working full time)."
+   ]
+  },
+  {
+   "h": "Pronominal verbs and pronouns",
+   "body": [
+    "With pronominal verbs, the reflexive pronoun matches the subject: *Je me suis fait mal en me levant*, *Tu as glissé en te levant*, *Il chante en se rasant*.",
+    "Other pronouns also go between *en* and the participle: *en le voyant* (when seeing him), *en y allant* (on the way there), *en lui parlant* (while talking to her).",
+    "*S'en aller* (to leave, to go away) gives the very common *en m'en allant*, *en s'en allant*: 'on my way, on the way'."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Je chante toujours en prenant ma douche.",
+   "en": "I always sing while taking a shower."
+  },
+  {
+   "fr": "Il mange en regardant son téléphone.",
+   "en": "He eats while looking at his phone."
+  },
+  {
+   "fr": "J'ai appris le français en écoutant la radio.",
+   "en": "I learned French by listening to the radio.",
+   "note": "manner / means"
+  },
+  {
+   "fr": "En arrivant au bureau, j'ai pris un café.",
+   "en": "When I arrived at the office, I had a coffee."
+  },
+  {
+   "fr": "Elle s'est cassé le poignet en tombant sur la glace.",
+   "en": "She broke her wrist falling on the ice."
+  },
+  {
+   "fr": "En partant maintenant, on va éviter le trafic.",
+   "en": "If we leave now, we'll avoid the traffic.",
+   "note": "condition"
+  },
+  {
+   "fr": "Ne parle pas en mangeant!",
+   "en": "Don't talk while eating!"
+  },
+  {
+   "fr": "Je me suis fait mal au dos en déménageant.",
+   "en": "I hurt my back moving."
+  },
+  {
+   "fr": "Elle étudie tout en travaillant à temps plein.",
+   "en": "She studies while working full time.",
+   "note": "tout en for emphasis"
+  },
+  {
+   "fr": "On apprend beaucoup en étant bénévole.",
+   "en": "You learn a lot by being a volunteer.",
+   "note": "étant: irregular participle of être"
+  },
+  {
+   "fr": "On a économisé de l'argent en cuisinant à la maison.",
+   "en": "We saved money by cooking at home."
+  },
+  {
+   "fr": "En m'en allant, j'ai arrêté à l'épicerie.",
+   "en": "On my way, I stopped at the grocery store.",
+   "note": "en m'en allant = while leaving / on my way"
+  },
+  {
+   "fr": "Il s'est endormi en lisant.",
+   "en": "He fell asleep reading."
+  },
+  {
+   "fr": "En le voyant, j'ai tout de suite compris.",
+   "en": "When I saw him, I understood right away.",
+   "note": "pronoun between en and participle"
+  },
+  {
+   "fr": "Tu vas apprendre plus vite en parlant avec des Québécois.",
+   "en": "You'll learn faster by talking with Quebecers."
+  }
+ ],
+ "quebec": {
+  "intro": "The gérondif is used in Quebec just like in France, and some forms are especially frequent in speech: 'en s'en allant' (on the way), 'en revenant' (on the way back) and 'en passant' (by the way).",
+  "items": [
+   {
+    "std": "Sur le chemin, j'ai acheté du pain.",
+    "qc": "En m'en allant, j'ai acheté du pain.",
+    "en": "On my way, I bought bread.",
+    "note": "Very common in Quebec speech; correct French too"
+   },
+   {
+    "std": "Nous en avons parlé pendant le trajet.",
+    "qc": "On en a parlé en s'en allant.",
+    "en": "We talked about it on the way.",
+    "note": "on + se: en s'en allant"
+   },
+   {
+    "std": "Je vais m'arrêter au retour.",
+    "qc": "J'vas arrêter en revenant.",
+    "en": "I'll stop on the way back.",
+    "note": "Quebec often uses 'arrêter' without se"
+   },
+   {
+    "std": "Au fait, tu as vu Julie?",
+    "qc": "En passant, t'as-tu vu Julie?",
+    "en": "By the way, did you see Julie?",
+    "note": "en passant = by the way; -tu marks a yes/no question in speech"
+   },
+   {
+    "std": "Je me suis fait mal en tombant sur la glace.",
+    "qc": "J'me suis fait mal en tombant su'a glace.",
+    "en": "I hurt myself falling on the ice.",
+    "note": "Fast speech: je me → j'me, sur la → su'a"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "What is the present participle of 'finir'?",
+   "options": [
+    "finant",
+    "finissant",
+    "finisant",
+    "finiant"
+   ],
+   "a": 1,
+   "why": "nous finissons → finissant."
+  },
+  {
+   "t": "mcq",
+   "q": "Which verb has an irregular participle?",
+   "options": [
+    "faire",
+    "savoir",
+    "lire",
+    "prendre"
+   ],
+   "a": 1,
+   "why": "savoir → sachant (also être → étant, avoir → ayant)."
+  },
+  {
+   "t": "mcq",
+   "q": "'En s'en allant' means…",
+   "options": [
+    "while staying",
+    "on the way (while leaving)",
+    "after leaving",
+    "before going"
+   ],
+   "a": 1,
+   "why": "s'en aller = to leave; en s'en allant = on the way."
+  },
+  {
+   "t": "mcq",
+   "q": "'J'ai appris le français en écoutant la radio' shows…",
+   "options": [
+    "a condition",
+    "how / by what means",
+    "a cause in the past",
+    "the future"
+   ],
+   "a": 1,
+   "why": "The gérondif here expresses the means."
+  },
+  {
+   "t": "fill",
+   "q": "Il s'est endormi en ___. (lire)",
+   "a": [
+    "lisant"
+   ],
+   "en": "He fell asleep reading.",
+   "why": "nous lisons → lisant."
+  },
+  {
+   "t": "fill",
+   "q": "Ne parle pas en ___! (manger)",
+   "a": [
+    "mangeant"
+   ],
+   "en": "Don't talk while eating!",
+   "why": "Keep the e: mangeant."
+  },
+  {
+   "t": "fill",
+   "q": "Je me suis fait mal en ___ levant. (me / te / se)",
+   "a": [
+    "me"
+   ],
+   "en": "I hurt myself getting up.",
+   "why": "The reflexive pronoun matches je."
+  },
+  {
+   "t": "fill",
+   "q": "Elle travaille tout ___ étudiant. (while)",
+   "a": [
+    "en"
+   ],
+   "en": "She works while studying.",
+   "why": "tout en + participle."
+  },
+  {
+   "t": "build",
+   "en": "I sing while driving.",
+   "a": "Je chante en conduisant."
+  },
+  {
+   "t": "build",
+   "en": "When I arrived, I saw Marie.",
+   "a": "En arrivant, j'ai vu Marie."
+  },
+  {
+   "t": "build",
+   "en": "On my way, I stopped at the store.",
+   "a": "En m'en allant, j'ai arrêté au magasin."
+  },
+  {
+   "t": "translate",
+   "en": "He eats while watching TV.",
+   "a": [
+    "Il mange en regardant la télé.",
+    "Il mange en regardant la télévision."
+   ],
+   "why": "en regardant."
+  },
+  {
+   "t": "translate",
+   "en": "We saved money by cooking.",
+   "a": [
+    "On a économisé de l'argent en cuisinant.",
+    "Nous avons économisé de l'argent en cuisinant.",
+    "On a épargné de l'argent en cuisinant.",
+    "Nous avons épargné de l'argent en cuisinant."
+   ],
+   "why": "Gérondif of means."
+  },
+  {
+   "t": "translate",
+   "en": "By the way, are you coming tonight?",
+   "a": [
+    "En passant, tu viens ce soir?",
+    "En passant, viens-tu ce soir?",
+    "En passant, vous venez ce soir?",
+    "En passant, venez-vous ce soir?",
+    "Au fait, tu viens ce soir?",
+    "Au fait, vous venez ce soir?"
+   ],
+   "why": "en passant (Quebec) or au fait."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "en + participe présent",
+   "en": "while / by / on (doing)",
+   "ex": "en marchant, en parlant"
+  },
+  {
+   "fr": "tout en",
+   "en": "while (at the same time, contrast)",
+   "ex": "Il sourit tout en disant non."
+  },
+  {
+   "fr": "s'en aller",
+   "en": "to leave, to go away",
+   "ex": "Je m'en vais à six heures."
+  },
+  {
+   "fr": "en passant",
+   "en": "by the way; in passing",
+   "ex": "En passant, merci pour hier!"
+  },
+  {
+   "fr": "en revenant",
+   "en": "on the way back",
+   "ex": "Achète du lait en revenant."
+  },
+  {
+   "fr": "conduire",
+   "en": "to drive",
+   "ex": "Ne texte pas en conduisant."
+  },
+  {
+   "fr": "glisser",
+   "en": "to slip",
+   "ex": "J'ai glissé en sortant."
+  },
+  {
+   "fr": "s'endormir",
+   "en": "to fall asleep",
+   "ex": "Il s'endort en lisant."
+  },
+  {
+   "fr": "économiser / épargner",
+   "en": "to save (money)",
+   "ex": "On économise en cuisinant."
+  },
+  {
+   "fr": "maigrir",
+   "en": "to lose weight",
+   "ex": "Elle a maigri en marchant."
+  },
+  {
+   "fr": "éviter",
+   "en": "to avoid",
+   "ex": "En partant tôt, on évite le trafic."
+  },
+  {
+   "fr": "le trafic",
+   "en": "traffic",
+   "g": "m",
+   "ex": "Il y a du trafic sur le pont."
+  },
+  {
+   "fr": "à temps plein / à temps partiel",
+   "en": "full-time / part-time",
+   "ex": "Je travaille à temps partiel."
+  },
+  {
+   "fr": "le poignet",
+   "en": "wrist",
+   "g": "m",
+   "ex": "Il s'est foulé le poignet."
+  },
+  {
+   "fr": "arrêter (à)",
+   "en": "to stop (by)",
+   "ex": "J'ai arrêté au dépanneur.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "en parlant",
+    "tip": "ahn par-LAHN: two nasal vowels."
+   },
+   {
+    "fr": "en écoutant",
+    "tip": "Liaison: ahn-nay-koo-TAHN."
+   },
+   {
+    "fr": "en allant",
+    "tip": "Liaison: ahn-na-LAHN."
+   },
+   {
+    "fr": "en m'en allant",
+    "tip": "ahn mahn-na-LAHN."
+   },
+   {
+    "fr": "sachant",
+    "tip": "sa-SHAHN."
+   },
+   {
+    "fr": "ayant",
+    "tip": "ay-YAHN."
+   }
+  ],
+  "title": "En revenant du travail",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Allô chérie, je viens de finir. Je m'en vais à la maison.",
+    "en": "Hi honey, I just finished. I'm heading home."
+   },
+   {
+    "s": "B",
+    "fr": "Parfait. En revenant, peux-tu arrêter à l'épicerie?",
+    "en": "Perfect. On the way back, can you stop at the grocery store?"
+   },
+   {
+    "s": "A",
+    "fr": "Oui. Qu'est-ce qu'il te faut?",
+    "en": "Yes. What do you need?"
+   },
+   {
+    "s": "B",
+    "fr": "Du lait et des œufs. Mais ne texte pas en conduisant!",
+    "en": "Milk and eggs. But don't text while driving!"
+   },
+   {
+    "s": "A",
+    "fr": "Promis. En passant, ta mère a appelé?",
+    "en": "Promise. By the way, did your mother call?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, elle s'est fait mal au pied en tombant dans l'escalier.",
+    "en": "Yes, she hurt her foot falling down the stairs."
+   },
+   {
+    "s": "A",
+    "fr": "Oh non! Je peux passer chez elle en m'en allant.",
+    "en": "Oh no! I can stop by her place on my way."
+   },
+   {
+    "s": "B",
+    "fr": "Bonne idée. En partant maintenant, tu vas éviter le trafic.",
+    "en": "Good idea. If you leave now, you'll avoid the traffic."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What does B ask A to buy?",
+    "options": [
+     "Bread and cheese",
+     "Milk and eggs",
+     "Fruit"
+    ],
+    "a": 1
+   },
+   {
+    "q": "How did B's mother hurt herself?",
+    "options": [
+     "Falling on the ice",
+     "Falling down the stairs",
+     "Playing hockey"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Why should A leave now?",
+    "options": [
+     "To avoid the traffic",
+     "Because the store closes",
+     "Because it's snowing"
+    ],
+    "a": 0
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Say two things you often do at the same time, using the gérondif.",
+   "model": "Je mange en lisant les nouvelles. J'écoute des balados en marchant."
+  },
+  {
+   "prompt": "Explain how you are learning French, using 'en + participle' three times.",
+   "model": "J'apprends le français en écoutant la radio, en regardant des séries québécoises et en parlant avec mes collègues."
+  },
+  {
+   "prompt": "Ask your partner to buy something on the way home, the Quebec way.",
+   "model": "En revenant, peux-tu arrêter au dépanneur pour du lait?"
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences giving advice to a newcomer on how to improve their French, using at least four gérondifs.",
+  "model": "Tu peux améliorer ton français en écoutant Radio-Canada tous les jours. En lisant les journaux, tu vas apprendre du vocabulaire. Parle avec tes voisins en faisant tes courses. Tout en travaillant, essaie de penser en français. En pratiquant un peu chaque jour, tu vas faire de grands progrès!"
+ },
+ "quiz": [
+  {
+   "q": "What is the gérondif of 'faire'?",
+   "options": [
+    "en faisant",
+    "en fait",
+    "en faiant",
+    "en fesant"
+   ],
+   "a": 0,
+   "why": "nous faisons → faisant."
+  },
+  {
+   "q": "What is the participle of 'avoir'?",
+   "options": [
+    "avant",
+    "ayant",
+    "avoyant",
+    "eyant"
+   ],
+   "a": 1,
+   "why": "Irregular: ayant."
+  },
+  {
+   "q": "Who is doing the action in 'J'ai vu Paul en sortant'?",
+   "options": [
+    "Paul",
+    "I (je)",
+    "Both",
+    "Nobody"
+   ],
+   "a": 1,
+   "why": "The gérondif always has the same subject as the main verb."
+  },
+  {
+   "q": "'En passant' commonly means…",
+   "options": [
+    "by passing an exam",
+    "by the way",
+    "while passing the salt",
+    "in the past"
+   ],
+   "a": 1,
+   "why": "En passant = by the way."
+  },
+  {
+   "q": "Which sentence expresses a condition?",
+   "options": [
+    "Il chante en marchant.",
+    "En prenant le métro, tu arriveras plus vite.",
+    "En arrivant, il a souri.",
+    "Elle lit en mangeant."
+   ],
+   "a": 1,
+   "why": "If you take the metro, you'll arrive faster."
+  },
+  {
+   "q": "Complete: 'Tu t'es fait mal en ___ levant.'",
+   "options": [
+    "me",
+    "te",
+    "se",
+    "nous"
+   ],
+   "a": 1,
+   "why": "The pronoun matches tu: te."
+  },
+  {
+   "q": "What is the participle of 'commencer'?",
+   "options": [
+    "commencant",
+    "commençant",
+    "commenssant",
+    "commencent"
+   ],
+   "a": 1,
+   "why": "Keep the ç: nous commençons → commençant."
+  },
+  {
+   "q": "'Il est poli tout en étant ferme' means…",
+   "options": [
+    "He is polite and then firm.",
+    "He is polite while being firm.",
+    "He is firm because polite.",
+    "He was polite."
+   ],
+   "a": 1,
+   "why": "tout en = while at the same time."
+  }
+ ]
+}

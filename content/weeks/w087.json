@@ -1,0 +1,661 @@
+{
+ "w": 87,
+ "title": "Indicatif vs subjonctif",
+ "goal": "By the end of this lesson you can choose between the indicative and the subjunctive after verbs of opinion, certainty and doubt, and you can correct the most common spoken slips.",
+ "learn": [
+  {
+   "h": "The core contrast: fact vs non-fact",
+   "body": [
+    "The indicative presents something as real or certain. The subjunctive presents it as wished, needed, felt about, doubted or merely possible.",
+    "Compare: *Je sais qu'il vient.* (I know he's coming: fact → indicative) vs *Je doute qu'il vienne.* (I doubt he's coming: doubt → subjunctive)."
+   ],
+   "table": {
+    "head": [
+     "Indicative (certainty)",
+     "Subjunctive (doubt, possibility)"
+    ],
+    "rows": [
+     [
+      "Je sais que…",
+      "Je doute que…"
+     ],
+     [
+      "Je suis sûr(e) que…",
+      "Je ne suis pas sûr(e) que…"
+     ],
+     [
+      "Il est certain que…",
+      "Il est possible que…"
+     ],
+     [
+      "Il est évident que…",
+      "Il se peut que…"
+     ],
+     [
+      "Il est vrai que…",
+      "Il est peu probable que…"
+     ],
+     [
+      "Il est probable que…",
+      "Il semble que…"
+     ]
+    ]
+   },
+   "tip": "Probable = indicative (it's likely, close to certain). Possible = subjunctive."
+  },
+  {
+   "h": "Opinion verbs: penser, croire, trouver",
+   "body": [
+    "In the affirmative, *penser que*, *croire que*, *trouver que* and *être sûr que* take the indicative: *Je pense qu'il a raison.*",
+    "In the negative or in an inverted question, they usually take the subjunctive, because the speaker is no longer asserting a fact: *Je ne pense pas qu'il ait raison.* / *Crois-tu qu'elle puisse venir?*",
+    "In everyday speech, the indicative after a negative is also heard (*Je pense pas qu'il a raison*), but the subjunctive is the standard choice in writing."
+   ]
+  },
+  {
+   "h": "Tricky pairs",
+   "body": [
+    "*Il me semble que* + indicative (it seems to me: an opinion) vs *Il semble que* + subjunctive (it appears that: uncertain).",
+    "*Après que* + indicative (the action really happened) vs *avant que* + subjunctive (the action hasn't happened yet). Many native speakers say *après qu'il soit parti*, but the standard is *après qu'il est parti*.",
+    "*Espérer que* + indicative vs *souhaiter que* + subjunctive.",
+    "After a superlative or *le seul, le premier, le dernier* + *qui/que*, the subjunctive is common to show a subjective judgement: *C'est le meilleur film que j'aie vu.*"
+   ],
+   "table": {
+    "head": [
+     "Indicative",
+     "Subjunctive"
+    ],
+    "rows": [
+     [
+      "Il me semble qu'il est fâché.",
+      "Il semble qu'il soit fâché."
+     ],
+     [
+      "Après qu'il est parti, on a mangé.",
+      "Avant qu'il parte, on a mangé."
+     ],
+     [
+      "J'espère que tu viendras.",
+      "Je souhaite que tu viennes."
+     ],
+     [
+      "Je crois qu'il pleut.",
+      "Je ne crois pas qu'il pleuve."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "A quick decision test",
+   "body": [
+    "Ask: is the speaker presenting the second clause as a fact they believe? If yes → indicative. If it is wanted, needed, felt about, doubted, denied or only possible → subjunctive.",
+    "Then check the subject: if both clauses share one subject, replace *que* + verb with an infinitive where possible: *Je ne suis pas sûr de pouvoir venir.*"
+   ]
+  },
+  {
+   "h": "Quebec: spoken slips you will hear",
+   "body": [
+    "Casual speech, in Quebec as elsewhere, does not always follow the written rules. You will hear *Faut que tu viens* (indicative after *il faut que*), *J'espère qu'y vienne* (subjunctive after *espérer*), and *après qu'y soit parti*.",
+    "These slips are understood by everyone, but in writing, at work and in exams, use the standard forms: *Il faut que tu viennes*, *J'espère qu'il viendra*, *après qu'il est parti*."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Je sais qu'elle est malade.",
+   "en": "I know she's sick.",
+   "note": "knowledge → indicative"
+  },
+  {
+   "fr": "Je doute qu'elle soit malade.",
+   "en": "I doubt she's sick.",
+   "note": "doubt → subjunctive"
+  },
+  {
+   "fr": "Je pense qu'il a raison.",
+   "en": "I think he's right.",
+   "note": "affirmative opinion → indicative"
+  },
+  {
+   "fr": "Je ne pense pas qu'il ait raison.",
+   "en": "I don't think he's right.",
+   "note": "negative opinion → subjunctive"
+  },
+  {
+   "fr": "Crois-tu qu'elle puisse nous aider?",
+   "en": "Do you think she can help us?",
+   "note": "inverted question → subjunctive is common"
+  },
+  {
+   "fr": "Il est probable qu'il neigera demain.",
+   "en": "It will probably snow tomorrow.",
+   "note": "probable → indicative"
+  },
+  {
+   "fr": "Il est possible qu'il neige demain.",
+   "en": "It might snow tomorrow.",
+   "note": "possible → subjunctive"
+  },
+  {
+   "fr": "Il se peut que le train soit en retard.",
+   "en": "The train may be late.",
+   "note": "il se peut que → subjunctive"
+  },
+  {
+   "fr": "Il me semble que tu es fatigué.",
+   "en": "You seem tired to me.",
+   "note": "il me semble que → indicative"
+  },
+  {
+   "fr": "Il semble que la réunion soit annulée.",
+   "en": "It appears the meeting is cancelled.",
+   "note": "il semble que → subjunctive"
+  },
+  {
+   "fr": "Je suis sûre que vous allez réussir.",
+   "en": "I'm sure you're going to succeed.",
+   "note": "certainty → indicative"
+  },
+  {
+   "fr": "Je ne suis pas sûre que ce soit une bonne idée.",
+   "en": "I'm not sure it's a good idea.",
+   "note": "uncertainty → subjunctive"
+  },
+  {
+   "fr": "Après que tu es parti, Marie est arrivée.",
+   "en": "After you left, Marie arrived.",
+   "note": "après que → indicative (standard)"
+  },
+  {
+   "fr": "Il est vrai que les loyers sont chers à Montréal.",
+   "en": "It's true that rents are expensive in Montreal.",
+   "note": "il est vrai que → indicative"
+  },
+  {
+   "fr": "C'est le meilleur restaurant que je connaisse.",
+   "en": "It's the best restaurant I know.",
+   "note": "superlative + que → subjunctive is common"
+  },
+  {
+   "fr": "Il n'est pas certain qu'on puisse partir.",
+   "en": "It's not certain we can leave.",
+   "note": "negated certainty → subjunctive"
+  }
+ ],
+ "quebec": {
+  "intro": "Spoken French, very much including Quebec French, bends the indicative/subjunctive rules. Learn to recognize the common slips and to produce the standard form when it counts.",
+  "items": [
+   {
+    "std": "Il faut que tu viennes.",
+    "qc": "Faut que tu viens.",
+    "en": "You have to come.",
+    "note": "indicative after il faut que: a common spoken slip"
+   },
+   {
+    "std": "J'espère qu'il viendra.",
+    "qc": "J'espère qu'y vienne.",
+    "en": "I hope he'll come.",
+    "note": "subjunctive after espérer: heard, but standard uses the indicative"
+   },
+   {
+    "std": "Après qu'il est parti, on a soupé.",
+    "qc": "Après qu'y soit parti, on a soupé.",
+    "en": "After he left, we had supper.",
+    "note": "very common everywhere; the standard is après que + indicative"
+   },
+   {
+    "std": "Je ne pense pas qu'il ait raison.",
+    "qc": "J'pense pas qu'y a raison.",
+    "en": "I don't think he's right.",
+    "note": "indicative after a negative opinion: normal in speech"
+   },
+   {
+    "std": "Il faut que je sois là.",
+    "qc": "Faut que j'soye là.",
+    "en": "I have to be there.",
+    "note": "soye is a non-standard form of sois"
+   },
+   {
+    "std": "Il est possible qu'il pleuve.",
+    "qc": "C'est possible qu'y mouille.",
+    "en": "It might rain.",
+    "note": "c'est for il est, mouiller for pleuvoir: informal"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Je sais que tu ___ raison.",
+   "options": [
+    "aies",
+    "as",
+    "ayes",
+    "aie"
+   ],
+   "a": 1,
+   "why": "Savoir que = fact → indicative."
+  },
+  {
+   "t": "mcq",
+   "q": "Je doute que tu ___ raison.",
+   "options": [
+    "as",
+    "auras",
+    "aies",
+    "avais"
+   ],
+   "a": 2,
+   "why": "Douter que → subjunctive."
+  },
+  {
+   "t": "mcq",
+   "q": "Which takes the indicative?",
+   "options": [
+    "Il est possible que",
+    "Il est probable que",
+    "Il se peut que",
+    "Il semble que"
+   ],
+   "a": 1,
+   "why": "Probable expresses near-certainty → indicative."
+  },
+  {
+   "t": "mcq",
+   "q": "Standard French: 'Après qu'il ___ parti, on a mangé.'",
+   "options": [
+    "soit",
+    "est",
+    "soye",
+    "sera"
+   ],
+   "a": 1,
+   "why": "Après que + indicative (the event really happened)."
+  },
+  {
+   "t": "fill",
+   "q": "Je ne pense pas qu'elle ___ venir. (pouvoir)",
+   "a": [
+    "puisse"
+   ],
+   "en": "I don't think she can come.",
+   "why": "Negative opinion → subjunctive."
+  },
+  {
+   "t": "fill",
+   "q": "Je pense qu'elle ___ venir. (pouvoir)",
+   "a": [
+    "peut",
+    "pourra",
+    "va pouvoir"
+   ],
+   "en": "I think she can come.",
+   "why": "Affirmative opinion → indicative."
+  },
+  {
+   "t": "fill",
+   "q": "Il me semble que tu ___ fatigué. (être)",
+   "a": [
+    "es"
+   ],
+   "en": "You seem tired to me.",
+   "why": "Il me semble que → indicative."
+  },
+  {
+   "t": "fill",
+   "q": "Il se peut que nous ___ en retard. (être)",
+   "a": [
+    "soyons"
+   ],
+   "en": "We might be late.",
+   "why": "Il se peut que → subjunctive."
+  },
+  {
+   "t": "fill",
+   "q": "Il est évident que vous ___ du talent. (avoir)",
+   "a": [
+    "avez"
+   ],
+   "en": "It's obvious you have talent.",
+   "why": "Évident = certain → indicative."
+  },
+  {
+   "t": "build",
+   "en": "I'm not sure it's a good idea.",
+   "a": "Je ne suis pas sûr que ce soit une bonne idée."
+  },
+  {
+   "t": "build",
+   "en": "It's true that rents are expensive.",
+   "a": "Il est vrai que les loyers sont chers."
+  },
+  {
+   "t": "build",
+   "en": "The train may be late.",
+   "a": "Il se peut que le train soit en retard."
+  },
+  {
+   "t": "translate",
+   "en": "I don't think he's right.",
+   "a": [
+    "Je ne pense pas qu'il ait raison.",
+    "Je ne crois pas qu'il ait raison."
+   ],
+   "why": "Negative opinion → subjunctive (ait)."
+  },
+  {
+   "t": "translate",
+   "en": "I'm sure she'll come.",
+   "a": [
+    "Je suis sûr qu'elle va venir.",
+    "Je suis sûre qu'elle va venir.",
+    "Je suis sûr qu'elle viendra.",
+    "Je suis sûre qu'elle viendra.",
+    "Je suis certain qu'elle va venir.",
+    "Je suis certaine qu'elle va venir.",
+    "Je suis certain qu'elle viendra.",
+    "Je suis certaine qu'elle viendra."
+   ],
+   "why": "Certainty → indicative."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "douter que",
+   "en": "to doubt that (+ subj.)",
+   "ex": "Je doute qu'il soit prêt."
+  },
+  {
+   "fr": "il se peut que",
+   "en": "it may be that (+ subj.)",
+   "ex": "Il se peut qu'il neige."
+  },
+  {
+   "fr": "il est probable que",
+   "en": "it's likely that (+ ind.)",
+   "ex": "Il est probable qu'il viendra."
+  },
+  {
+   "fr": "il est peu probable que",
+   "en": "it's unlikely that (+ subj.)",
+   "ex": "Il est peu probable qu'il vienne."
+  },
+  {
+   "fr": "il me semble que",
+   "en": "it seems to me that (+ ind.)",
+   "ex": "Il me semble que c'est trop cher."
+  },
+  {
+   "fr": "il semble que",
+   "en": "it appears that (+ subj.)",
+   "ex": "Il semble qu'il y ait un problème."
+  },
+  {
+   "fr": "évident / évidente",
+   "en": "obvious",
+   "ex": "C'est évident qu'il ment."
+  },
+  {
+   "fr": "avoir raison",
+   "en": "to be right",
+   "ex": "Tu as raison."
+  },
+  {
+   "fr": "avoir tort",
+   "en": "to be wrong",
+   "ex": "Je ne pense pas qu'il ait tort."
+  },
+  {
+   "fr": "le loyer",
+   "en": "rent",
+   "g": "m",
+   "ex": "Le loyer augmente chaque année."
+  },
+  {
+   "fr": "annulé / annulée",
+   "en": "cancelled",
+   "ex": "La réunion est annulée."
+  },
+  {
+   "fr": "réussir",
+   "en": "to succeed, to pass",
+   "ex": "Je suis sûr que tu vas réussir."
+  },
+  {
+   "fr": "souper",
+   "en": "to have supper (evening meal)",
+   "ex": "On soupe à six heures.",
+   "qc": true
+  },
+  {
+   "fr": "le doute",
+   "en": "doubt",
+   "g": "m",
+   "ex": "J'ai des doutes."
+  },
+  {
+   "fr": "la certitude",
+   "en": "certainty",
+   "g": "f",
+   "ex": "Je n'ai aucune certitude."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "qu'il ait / qu'il est",
+    "tip": "Both sound [ɛ]: only grammar tells them apart."
+   },
+   {
+    "fr": "qu'il soit / qu'il soye",
+    "tip": "Standard SWA; the Quebec non-standard form adds a y: SWAY."
+   },
+   {
+    "fr": "il se peut que",
+    "tip": "eel-suh-PEU-kuh, often il s'peut que in speech."
+   },
+   {
+    "fr": "Je pense pas",
+    "tip": "Casual: ne disappears, zh'pens-PA."
+   },
+   {
+    "fr": "qu'elle puisse",
+    "tip": "kèl-PWEESS."
+   },
+   {
+    "fr": "il me semble",
+    "tip": "Casual Quebec: y m'semble [i msɑ̃b]."
+   }
+  ],
+  "title": "La réunion de lundi",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Tu penses que la réunion de lundi va avoir lieu?",
+    "en": "Do you think Monday's meeting will happen?"
+   },
+   {
+    "s": "B",
+    "fr": "Je ne suis pas sûre qu'elle ait lieu. Le patron est malade.",
+    "en": "I'm not sure it will happen. The boss is sick."
+   },
+   {
+    "s": "A",
+    "fr": "Il me semble qu'il allait mieux vendredi.",
+    "en": "It seemed to me he was better on Friday."
+   },
+   {
+    "s": "B",
+    "fr": "Oui, mais il se peut qu'il reste à la maison toute la semaine.",
+    "en": "Yes, but he may stay home all week."
+   },
+   {
+    "s": "A",
+    "fr": "Il est probable qu'on va recevoir un courriel ce soir.",
+    "en": "We'll probably get an email tonight."
+   },
+   {
+    "s": "B",
+    "fr": "J'espère qu'ils vont nous prévenir à temps.",
+    "en": "I hope they'll let us know in time."
+   },
+   {
+    "s": "A",
+    "fr": "Moi, je doute qu'ils le fassent avant dimanche.",
+    "en": "I doubt they'll do it before Sunday."
+   },
+   {
+    "s": "B",
+    "fr": "Bon, on verra. Il est vrai qu'on ne peut rien faire.",
+    "en": "Well, we'll see. It's true there's nothing we can do."
+   }
+  ],
+  "questions": [
+   {
+    "q": "Why might the meeting not happen?",
+    "options": [
+     "The room is booked",
+     "The boss is sick",
+     "It's a holiday"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What do they expect to receive?",
+    "options": [
+     "A phone call",
+     "An email",
+     "A letter"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does A doubt?",
+    "options": [
+     "That the boss is sick",
+     "That they'll be told before Sunday",
+     "That the meeting exists"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Give one opinion with 'Je pense que…' and then the opposite with 'Je ne pense pas que…'.",
+   "model": "Je pense que le métro est pratique. Je ne pense pas que ce soit toujours rapide."
+  },
+  {
+   "prompt": "Say three things about tomorrow's weather: one certain, one probable, one only possible.",
+   "model": "Il est sûr qu'il fera froid. Il est probable qu'il neigera. Il est possible qu'il y ait du verglas."
+  },
+  {
+   "prompt": "Correct these spoken slips aloud: 'Faut que tu viens', 'J'espère qu'il vienne'.",
+   "model": "Il faut que tu viennes. J'espère qu'il viendra."
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences giving your opinion about living in Montreal (or your city). Mix certainty (indicative) and doubt or possibility (subjunctive).",
+  "model": "Je suis sûr que Montréal est une ville très vivante. Il est vrai que les hivers sont longs. Je ne pense pas que les loyers soient encore abordables. Il est possible que je déménage en banlieue. Il me semble que les gens sont accueillants, mais je doute que le trafic s'améliore bientôt."
+ },
+ "quiz": [
+  {
+   "q": "Which sentence is standard?",
+   "options": [
+    "Je crois qu'il soit là.",
+    "Je crois qu'il est là.",
+    "Je doute qu'il est là.",
+    "Il faut qu'il est là."
+   ],
+   "a": 1,
+   "why": "Croire que in the affirmative → indicative."
+  },
+  {
+   "q": "Il est peu probable qu'il ___.",
+   "options": [
+    "vient",
+    "vienne",
+    "viendra",
+    "venait"
+   ],
+   "a": 1,
+   "why": "Peu probable expresses doubt → subjunctive."
+  },
+  {
+   "q": "'Il semble que' is normally followed by…",
+   "options": [
+    "the indicative",
+    "the subjunctive",
+    "an infinitive",
+    "the conditional"
+   ],
+   "a": 1,
+   "why": "Il semble que + subjunctive; il me semble que + indicative."
+  },
+  {
+   "q": "Which is a common spoken slip?",
+   "options": [
+    "Il faut que tu viennes.",
+    "Faut que tu viens.",
+    "Je sais que tu viens.",
+    "Je veux que tu viennes."
+   ],
+   "a": 1,
+   "why": "The standard after il faut que is the subjunctive viennes."
+  },
+  {
+   "q": "Avant que vs après que:",
+   "options": [
+    "both take the subjunctive",
+    "avant que + subjunctive, après que + indicative",
+    "both take the indicative",
+    "avant que + indicative, après que + subjunctive"
+   ],
+   "a": 1,
+   "why": "Before: not yet real → subjunctive. After: real → indicative."
+  },
+  {
+   "q": "C'est le plus beau pays que je ___.",
+   "options": [
+    "connais",
+    "connaisse",
+    "connaîtrai",
+    "connaissais"
+   ],
+   "a": 1,
+   "why": "After a superlative, the subjunctive is the standard written choice (connais is also heard)."
+  },
+  {
+   "q": "Je ne suis pas sûr ___ venir. (I'm not sure I can come)",
+   "options": [
+    "que je puisse",
+    "de pouvoir",
+    "que je peux",
+    "pouvoir"
+   ],
+   "a": 1,
+   "why": "Same subject → de + infinitive is preferred."
+  },
+  {
+   "q": "'Il est vrai que' takes…",
+   "options": [
+    "the subjunctive",
+    "the indicative",
+    "the infinitive",
+    "either, always"
+   ],
+   "a": 1,
+   "why": "Truth/certainty → indicative."
+  },
+  {
+   "q": "'J'pense pas qu'y a raison' in standard written French is…",
+   "options": [
+    "Je ne pense pas qu'il a raison.",
+    "Je ne pense pas qu'il ait raison.",
+    "Je pense qu'il n'a pas raison.",
+    "Je ne pense pas qu'il aie raison."
+   ],
+   "a": 1,
+   "why": "Negative opinion → subjunctive: qu'il ait."
+  }
+ ]
+}

@@ -1,0 +1,629 @@
+{
+ "w": 167,
+ "title": "Final review",
+ "goal": "By the end of this lesson you have reviewed the core grammar of the B2 phase and the most useful Quebec expressions from all seven sets, and you are ready for next week's milestone conversation.",
+ "learn": [
+  {
+   "h": "B2 grammar at a glance",
+   "body": [
+    "Sentence building: *c'est / il est*; relative pronouns *qui, que, dont, où, lequel, auquel, duquel*; *y* and *en*; pronoun order (*je le lui ai dit, donne-le-moi*); adjective position (*un ancien collègue / un bâtiment ancien*).",
+    "Moods: subjunctive after will, emotion, doubt, necessity and *bien que, pour que, avant que, à condition que*; indicative after *penser que, espérer que, même si, après que*; conditional for politeness, hypotheses and unconfirmed news.",
+    "Style: concession and hedging, nominalisation, passive, *cela* in writing and *ça* in speech, formal inversion, register switching."
+   ],
+   "table": {
+    "head": [
+     "Point",
+     "Model sentence"
+    ],
+    "rows": [
+     [
+      "dont",
+      "Le livre dont je t'ai parlé est sorti."
+     ],
+     [
+      "auquel",
+      "Le projet auquel je travaille avance bien."
+     ],
+     [
+      "lui + en",
+      "Je lui en ai parlé hier."
+     ],
+     [
+      "bien que + subj.",
+      "Bien qu'il soit tard, on continue."
+     ],
+     [
+      "même si + ind.",
+      "Même s'il est tard, on continue."
+     ],
+     [
+      "conditionnel passé",
+      "Si j'avais su, je serais venu."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Quebec expressions: the best of seven sets",
+   "body": [
+    "Everyday: *avoir hâte*, *c'est plate*, *être tanné*, *pantoute*, *magasiner*, *tantôt*, *une job*, *mon chum / ma blonde*, *c'est correct*, *bienvenue* (you're welcome), *faire du pouce* (hitchhike).",
+    "Media and work: *patiner*, *virer capot*, *tirer la couverte de son bord*, *ne pas être sorti du bois*, *couper les coins ronds*, *je te reviens là-dessus*, *un enjeu*.",
+    "Sport and politics: *lancer la serviette*, *jeter les gants*, *les bottines suivent les babines*, *avoir le gros bout du bâton*, *pelleteux de nuages*, *le gros bon sens*."
+   ],
+   "tip": "Use Quebec expressions to sound warm and local, standard forms to sound precise and professional; at B2 you can do both."
+  },
+  {
+   "h": "Register map: who you are in French",
+   "body": [
+    "With friends: familiar Quebec speech is fine (*chu, pis, tsé, c'est le fun*). At work: neutral Quebec French, with tu among colleagues. In writing: standard French, no anglicisms (*annuler, planifier, jusqu'à présent, responsable de*).",
+    "Spoken markers that make you sound natural without being sloppy: *ben, en fait, dans le fond, mettons, par contre, quand même*."
+   ]
+  },
+  {
+   "h": "Preparing for the milestone conversation",
+   "body": [
+    "Next week you'll hold a twenty-minute conversation entirely in French. Prepare stories, not lists: your arrival in Quebec, your work, a challenge you overcame, your opinion on a current issue, your plans.",
+    "Prepare survival phrases: *Pouvez-vous reformuler?*, *Comment dit-on… en français?*, *Ce que je veux dire, c'est que…*, *Laisse-moi réfléchir une seconde.*"
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "C'est une ville où il fait bon vivre, même si l'hiver est long.",
+   "en": "It's a city where life is good, even if winter is long.",
+   "note": "c'est + où + même si"
+  },
+  {
+   "fr": "Le cours de français dont je suis le plus fier, c'est celui sur le débat.",
+   "en": "The French lesson I'm proudest of is the one on debate.",
+   "note": "dont with être fier de"
+  },
+  {
+   "fr": "J'ai hâte de pouvoir regarder un film québécois sans sous-titres.",
+   "en": "I can't wait to be able to watch a Quebec film without subtitles.",
+   "note": "avoir hâte de"
+  },
+  {
+   "fr": "Bien que j'aie fait beaucoup de progrès, il me reste du chemin à faire.",
+   "en": "Although I've made a lot of progress, I still have a way to go.",
+   "note": "bien que + past subjunctive"
+  },
+  {
+   "fr": "Je lui en ai parlé, mais elle ne m'a pas encore répondu.",
+   "en": "I talked to her about it, but she hasn't answered me yet.",
+   "note": "pronoun order + répondre à"
+  },
+  {
+   "fr": "Si j'avais commencé plus tôt, je parlerais déjà couramment.",
+   "en": "If I had started earlier, I'd already be fluent.",
+   "note": "mixed conditional"
+  },
+  {
+   "fr": "Dans le fond, c'est en parlant qu'on apprend.",
+   "en": "Basically, you learn by speaking.",
+   "note": "c'est… que emphasis + gérondif"
+  },
+  {
+   "fr": "Le ministre a patiné, mais les journalistes ne l'ont pas lâché.",
+   "en": "The minister dodged, but the journalists didn't let go.",
+   "note": "Quebec media idiom"
+  },
+  {
+   "fr": "Il faut que les bottines suivent les babines.",
+   "en": "Actions must match words.",
+   "note": "Quebec idiom, politics"
+  },
+  {
+   "fr": "On n'est pas sortis du bois, mais ça avance.",
+   "en": "We're not out of the woods, but it's progressing.",
+   "note": "Quebec idiom"
+  },
+  {
+   "fr": "Il se peut que je fasse le TEFAQ l'an prochain.",
+   "en": "I may take the TEFAQ next year.",
+   "note": "hedging + subjunctive"
+  },
+  {
+   "fr": "Ce que j'aime le plus du Québec, c'est la chaleur des gens.",
+   "en": "What I like most about Quebec is the warmth of the people.",
+   "note": "ce que… c'est"
+  },
+  {
+   "fr": "Mettons qu'on se retrouve au café après le cours.",
+   "en": "Let's say we meet at the café after class.",
+   "note": "familiar Quebec"
+  },
+  {
+   "fr": "Je n'aurais jamais cru que je comprendrais la radio un jour.",
+   "en": "I would never have believed I'd understand the radio one day.",
+   "note": "conditionnel passé + future in the past"
+  },
+  {
+   "fr": "En somme, apprendre le français m'a ouvert les portes du Québec.",
+   "en": "All in all, learning French opened Quebec's doors to me.",
+   "note": "conclusion connector"
+  }
+ ],
+ "quebec": {
+  "intro": "Your favourite Quebec expressions from the whole course, each with its standard equivalent. Use them in conversation to sound local; switch to the standard form in writing.",
+  "items": [
+   {
+    "std": "J'ai vraiment hâte!",
+    "qc": "J'ai ben hâte!",
+    "en": "I can't wait!",
+    "note": "ben = bien (familiar)"
+   },
+   {
+    "std": "Je suis fatigué de ça.",
+    "qc": "Chu tanné.",
+    "en": "I'm fed up.",
+    "note": "familiar"
+   },
+   {
+    "std": "Ce n'est pas grave du tout.",
+    "qc": "C'est pas grave pantoute.",
+    "en": "It's no big deal at all.",
+    "note": "pantoute: familiar"
+   },
+   {
+    "std": "C'est très amusant!",
+    "qc": "C'est donc ben le fun!",
+    "en": "It's so much fun!",
+    "note": "donc ben = so, really (familiar)"
+   },
+   {
+    "std": "Il a jeté l'éponge.",
+    "qc": "Y'a lancé la serviette.",
+    "en": "He gave up.",
+    "note": "Quebec idiom"
+   },
+   {
+    "std": "Ça n'a aucun sens!",
+    "qc": "Ça a pas d'allure!",
+    "en": "That's ridiculous!",
+    "note": "avoir de l'allure = make sense, be reasonable (Quebec)"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Le projet ___ je travaille est presque fini.",
+   "options": [
+    "dont",
+    "auquel",
+    "que",
+    "duquel"
+   ],
+   "a": 1,
+   "why": "travailler à → auquel."
+  },
+  {
+   "t": "mcq",
+   "q": "Même si tu ___ fatigué, viens au party!",
+   "options": [
+    "sois",
+    "es",
+    "seras",
+    "serais"
+   ],
+   "a": 1,
+   "why": "même si + indicative."
+  },
+  {
+   "t": "mcq",
+   "q": "'Ça a pas d'allure!' means…",
+   "options": [
+    "It has no speed!",
+    "That's ridiculous!",
+    "It's not pretty!",
+    "It's not allowed!"
+   ],
+   "a": 1,
+   "why": "Quebec: ça n'a pas de bon sens."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is standard in a written report?",
+   "options": [
+    "à date",
+    "jusqu'à présent",
+    "pantoute",
+    "le fun"
+   ],
+   "a": 1,
+   "why": "The others are familiar Quebec usages."
+  },
+  {
+   "t": "mcq",
+   "q": "'Avoir le gros bout du bâton' means…",
+   "options": [
+    "to be strong",
+    "to have the upper hand",
+    "to be violent",
+    "to lead a parade"
+   ],
+   "a": 1,
+   "why": "= avoir l'avantage."
+  },
+  {
+   "t": "fill",
+   "q": "Bien que j'___ progressé, je dois continuer. (avoir)",
+   "a": [
+    "aie"
+   ],
+   "en": "Although I've made progress, I must keep going.",
+   "why": "past subjunctive: j'aie progressé."
+  },
+  {
+   "t": "fill",
+   "q": "Si j'avais su, je ___ venu plus tôt. (être)",
+   "a": [
+    "serais"
+   ],
+   "en": "If I'd known, I'd have come earlier.",
+   "why": "conditionnel passé of venir."
+  },
+  {
+   "t": "fill",
+   "q": "C'est la ville ___ je rêvais. (rêver de)",
+   "a": [
+    "dont"
+   ],
+   "en": "It's the city I dreamed of.",
+   "why": "rêver de → dont."
+  },
+  {
+   "t": "fill",
+   "q": "Le ministre a ___ : il n'a pas répondu. (Quebec: dodged)",
+   "a": [
+    "patiné"
+   ],
+   "en": "The minister dodged: he didn't answer.",
+   "why": "patiner = esquiver."
+  },
+  {
+   "t": "build",
+   "en": "I can't wait to see you.",
+   "a": "J'ai hâte de te voir."
+  },
+  {
+   "t": "build",
+   "en": "I talked to him about it.",
+   "a": "Je lui en ai parlé."
+  },
+  {
+   "t": "build",
+   "en": "We're not out of the woods.",
+   "a": "On n'est pas sortis du bois."
+  },
+  {
+   "t": "translate",
+   "en": "It's so much fun!",
+   "a": [
+    "C'est tellement amusant!",
+    "C'est vraiment amusant!",
+    "C'est donc ben le fun!",
+    "C'est vraiment le fun!",
+    "C'est tellement le fun!"
+   ],
+   "why": "le fun is familiar Quebec; amusant is standard."
+  },
+  {
+   "t": "translate",
+   "en": "What I like most is the people.",
+   "a": [
+    "Ce que j'aime le plus, ce sont les gens.",
+    "Ce que j'aime le plus, c'est les gens.",
+    "Ce que je préfère, ce sont les gens.",
+    "Ce que je préfère, c'est les gens."
+   ],
+   "why": "ce que… c'est / ce sont."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "faire du chemin",
+   "en": "to make progress, come a long way",
+   "ex": "Tu as fait du chemin depuis l'an passé!"
+  },
+  {
+   "fr": "couramment",
+   "en": "fluently",
+   "ex": "Elle parle couramment trois langues."
+  },
+  {
+   "fr": "les sous-titres",
+   "en": "subtitles",
+   "g": "m",
+   "ex": "Je regarde sans sous-titres maintenant."
+  },
+  {
+   "fr": "avoir de l'allure",
+   "en": "to make sense, be reasonable (Quebec)",
+   "ex": "Ton plan a de l'allure.",
+   "qc": true
+  },
+  {
+   "fr": "le fun",
+   "en": "fun (familiar)",
+   "g": "m",
+   "ex": "C'était le fun, ta fête!",
+   "qc": true
+  },
+  {
+   "fr": "tanné / tannée",
+   "en": "fed up (familiar)",
+   "ex": "Chu tanné de la neige.",
+   "qc": true
+  },
+  {
+   "fr": "bienvenue",
+   "en": "you're welcome (Quebec)",
+   "ex": "— Merci! — Bienvenue!",
+   "qc": true
+  },
+  {
+   "fr": "faire du pouce",
+   "en": "to hitchhike (Quebec)",
+   "ex": "Il a fait du pouce jusqu'en Gaspésie.",
+   "qc": true
+  },
+  {
+   "fr": "reformuler",
+   "en": "to rephrase",
+   "ex": "Pouvez-vous reformuler la question?"
+  },
+  {
+   "fr": "le bilan",
+   "en": "assessment, review, stock-taking",
+   "g": "m",
+   "ex": "Faisons le bilan de l'année."
+  },
+  {
+   "fr": "se débrouiller",
+   "en": "to manage, get by",
+   "ex": "Je me débrouille bien en français maintenant."
+  },
+  {
+   "fr": "le parcours",
+   "en": "path, journey (life, learning)",
+   "g": "m",
+   "ex": "Mon parcours n'a pas été facile."
+  },
+  {
+   "fr": "s'épanouir",
+   "en": "to flourish, thrive",
+   "ex": "Elle s'épanouit dans son nouveau travail."
+  },
+  {
+   "fr": "se sentir chez soi",
+   "en": "to feel at home",
+   "ex": "Je me sens enfin chez moi à Montréal."
+  },
+  {
+   "fr": "en somme",
+   "en": "all in all",
+   "ex": "En somme, l'expérience a été positive."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "c'est donc ben le fun",
+    "tip": "sè-don-BIN-luh-FONN: fun rhymes with 'bonne'."
+   },
+   {
+    "fr": "ça a pas d'allure",
+    "tip": "sa-a-pa-da-LUR."
+   },
+   {
+    "fr": "auquel",
+    "tip": "o-KÈL."
+   },
+   {
+    "fr": "couramment",
+    "tip": "koo-ra-MAN."
+   },
+   {
+    "fr": "je lui en ai parlé",
+    "tip": "juh-lui-an-né-par-LÉ."
+   },
+   {
+    "fr": "s'épanouir",
+    "tip": "sé-pa-NWIR."
+   }
+  ],
+  "title": "Le bilan",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Pis, trois ans de français : ça fait quoi?",
+    "en": "So, three years of French: how does it feel?"
+   },
+   {
+    "s": "B",
+    "fr": "Honnêtement, je n'aurais jamais cru que je pourrais suivre un débat à la radio.",
+    "en": "Honestly, I never would have believed I could follow a debate on the radio."
+   },
+   {
+    "s": "A",
+    "fr": "Qu'est-ce qui a été le plus difficile?",
+    "en": "What was the hardest?"
+   },
+   {
+    "s": "B",
+    "fr": "Les prépositions et le subjonctif. Pis comprendre mes collègues quand ils parlent vite!",
+    "en": "Prepositions and the subjunctive. And understanding my colleagues when they talk fast!"
+   },
+   {
+    "s": "A",
+    "fr": "Et ton expression québécoise préférée?",
+    "en": "And your favourite Quebec expression?"
+   },
+   {
+    "s": "B",
+    "fr": "« Les bottines suivent les babines. » Je la trouve tellement imagée!",
+    "en": "'Les bottines suivent les babines.' I find it so vivid!"
+   },
+   {
+    "s": "A",
+    "fr": "Et maintenant, c'est quoi la suite?",
+    "en": "And now, what's next?"
+   },
+   {
+    "s": "B",
+    "fr": "Il se peut que je passe le TEFAQ. Pis je veux lire Les Belles-sœurs sans dictionnaire.",
+    "en": "I may take the TEFAQ. And I want to read Les Belles-sœurs without a dictionary."
+   }
+  ],
+  "questions": [
+   {
+    "q": "How long has B been learning French?",
+    "options": [
+     "One year",
+     "Three years",
+     "Five years"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What was hardest for B?",
+    "options": [
+     "Pronunciation",
+     "Prepositions and the subjunctive",
+     "Reading"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does B want to read?",
+    "options": [
+     "Maria Chapdelaine",
+     "Les Belles-sœurs",
+     "Le Devoir every day"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Tell the story of your French-learning journey in 2 minutes: where you started, what was hard, a moment you were proud of.",
+   "model": "Quand je suis arrivé à Montréal, je ne savais dire que « bonjour » et « merci ». Les premiers mois ont été difficiles : je ne comprenais rien au dépanneur! Petit à petit, j'ai fait du chemin. Le moment dont je suis le plus fier, c'est le jour où j'ai animé une réunion en français. Aujourd'hui, je me débrouille bien, même si le joual me surprend encore."
+  },
+  {
+   "prompt": "Choose your three favourite Quebec expressions and use each in a sentence.",
+   "model": "J'ai ben hâte aux vacances. Mon voisin s'est fait passer un sapin avec son char usagé. Faut que les bottines suivent les babines!"
+  },
+  {
+   "prompt": "Practise survival phrases: ask someone to rephrase, buy time, and clarify what you mean.",
+   "model": "Pardon, pourriez-vous reformuler? / Laisse-moi réfléchir une seconde. / Ce que je veux dire, c'est que…"
+  }
+ ],
+ "write": {
+  "prompt": "Write a 180–220-word reflection on your learning journey: your starting point, your progress, the role of Quebec French, and your goals. Use a range of B2 structures (subjunctive, relative pronouns, conditional, concession).",
+  "model": "Il y a un peu plus de trois ans, je ne parlais presque pas français. Bien que je vive au Québec, je me débrouillais surtout en anglais. Ce qui m'a décidé, c'est le sentiment de passer à côté de la vie autour de moi. Les débuts ont été lents : la prononciation, les genres et les prépositions me posaient de vrais problèmes. Peu à peu, j'ai commencé à comprendre mes collègues, puis la radio, puis les chroniques que je lis maintenant dans La Presse. Le français québécois a joué un rôle essentiel. Au début, je trouvais les expressions comme « c'est plate » ou « j'ai hâte » déroutantes; aujourd'hui, ce sont celles dont je me sers le plus. J'ai appris à passer d'un registre à l'autre selon la situation, ce qui m'a beaucoup aidé au travail. Si j'avais su à quel point ça m'ouvrirait de portes, j'aurais commencé bien plus tôt. Il me reste des faiblesses, notamment le subjonctif à l'oral. Mon prochain objectif est de passer un examen officiel, puis de lire un roman de Michel Tremblay sans dictionnaire. En somme, je me sens enfin chez moi."
+ },
+ "quiz": [
+  {
+   "q": "Which relative pronoun goes with 'avoir besoin de'?",
+   "options": [
+    "que",
+    "dont",
+    "auquel",
+    "où"
+   ],
+   "a": 1,
+   "why": "de + noun → dont."
+  },
+  {
+   "q": "'Bienvenue' as a reply to 'merci' is…",
+   "options": [
+    "a Quebec usage meaning you're welcome",
+    "a mistake",
+    "only used in France",
+    "an invitation"
+   ],
+   "a": 0,
+   "why": "Common in Quebec, a calque of 'you're welcome'; standard: de rien / je vous en prie."
+  },
+  {
+   "q": "Which sentence is correct?",
+   "options": [
+    "Je pense qu'il soit là.",
+    "Je pense qu'il est là.",
+    "Je pense qu'il serait là demain sûr.",
+    "Je pense que il est là."
+   ],
+   "a": 1,
+   "why": "penser que + indicative; elision qu'il."
+  },
+  {
+   "q": "'Faire du pouce' means…",
+   "options": [
+    "to give a thumbs up",
+    "to hitchhike",
+    "to grow",
+    "to count"
+   ],
+   "a": 1,
+   "why": "Quebec usage; France: faire du stop."
+  },
+  {
+   "q": "'Virer capot' means…",
+   "options": [
+    "to capsize",
+    "to switch sides",
+    "to get angry",
+    "to turn left"
+   ],
+   "a": 1,
+   "why": "Quebec political idiom."
+  },
+  {
+   "q": "In formal writing, replace 'canceller' with…",
+   "options": [
+    "annuler",
+    "cancer",
+    "effacer",
+    "terminer"
+   ],
+   "a": 0,
+   "why": "annuler."
+  },
+  {
+   "q": "'Si j'avais su, je ___ venu.'",
+   "options": [
+    "suis",
+    "serais",
+    "serai",
+    "étais"
+   ],
+   "a": 1,
+   "why": "conditionnel passé."
+  },
+  {
+   "q": "'Se débrouiller' means…",
+   "options": [
+    "to get confused",
+    "to manage, get by",
+    "to untangle hair only",
+    "to argue"
+   ],
+   "a": 1,
+   "why": "Je me débrouille en français = I get by."
+  },
+  {
+   "q": "Which marker is best for sounding natural but not sloppy?",
+   "options": [
+    "tabarnak",
+    "par contre",
+    "m'as",
+    "chu"
+   ],
+   "a": 1,
+   "why": "par contre is neutral and very common in Quebec."
+  }
+ ]
+}

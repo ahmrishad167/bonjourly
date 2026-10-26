@@ -1,0 +1,648 @@
+{
+ "w": 75,
+ "title": "Advanced negatives: jamais, plus, rien, personne",
+ "goal": "By the end of this lesson you can use ne… jamais, ne… plus, ne… rien, ne… personne, ne… pas encore and ne… nulle part in all the tenses you know, and understand Quebec negatives like 'pas pantoute' and 'jamais de la vie'.",
+ "learn": [
+  {
+   "h": "The negative pairs",
+   "body": [
+    "Like *ne… pas*, these negatives have two parts around the conjugated verb. Each replaces *pas* with a more precise word.",
+    "*Ne* becomes *n'* before a vowel: *Je n'ai rien*, *Il n'y a personne*."
+   ],
+   "table": {
+    "head": [
+     "Negative",
+     "Meaning",
+     "Example"
+    ],
+    "rows": [
+     [
+      "ne… jamais",
+      "never",
+      "Je ne bois jamais de café."
+     ],
+     [
+      "ne… plus",
+      "no longer, not anymore",
+      "Il ne fume plus."
+     ],
+     [
+      "ne… rien",
+      "nothing",
+      "Je ne vois rien."
+     ],
+     [
+      "ne… personne",
+      "nobody, not anyone",
+      "Je ne connais personne ici."
+     ],
+     [
+      "ne… pas encore",
+      "not yet",
+      "Elle n'est pas encore arrivée."
+     ],
+     [
+      "ne… nulle part",
+      "nowhere",
+      "Je ne trouve mes clés nulle part."
+     ],
+     [
+      "ne… que",
+      "only (restriction)",
+      "Je n'ai que dix dollars."
+     ]
+    ]
+   },
+   "tip": "Jamais is the opposite of toujours; plus is the opposite of encore."
+  },
+  {
+   "h": "Word order in compound tenses",
+   "body": [
+    "In the passé composé and plus-que-parfait, *jamais*, *plus*, *rien* and *pas encore* go before the participle, like *pas*: *Je n'ai jamais vu d'orignal*, *Il n'a rien mangé*, *Elle n'est plus venue*.",
+    "But *personne* and *nulle part* go after the participle: *Je n'ai vu personne* (I didn't see anyone), *On n'est allés nulle part* (We didn't go anywhere).",
+    "With an infinitive, *ne jamais*, *ne plus*, *ne rien* stay together before it: *J'ai décidé de ne plus fumer*. *Personne* still follows: *Je préfère ne voir personne*."
+   ],
+   "table": {
+    "head": [
+     "Before the participle",
+     "After the participle"
+    ],
+    "rows": [
+     [
+      "Je n'ai jamais vu…",
+      "Je n'ai vu personne."
+     ],
+     [
+      "Je n'ai rien dit.",
+      "Je ne suis allé nulle part."
+     ],
+     [
+      "Je n'ai plus travaillé là.",
+      ""
+     ],
+     [
+      "Je n'ai pas encore mangé.",
+      ""
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Rien and personne as subjects",
+   "body": [
+    "*Rien* and *personne* can start a sentence, still with *ne* before the verb (but no *pas*): *Personne n'est venu* (Nobody came), *Rien n'a changé* (Nothing has changed).",
+    "As one-word answers they work alone: *Qui est là? — Personne.* *Qu'est-ce que tu veux? — Rien.* *Tu fumes? — Jamais!*",
+    "Don't add *pas*: *Je ne vois pas personne* is incorrect in standard French."
+   ]
+  },
+  {
+   "h": "De after negatives, and combining them",
+   "body": [
+    "Like *ne… pas*, the negatives *jamais* and *plus* change *un, une, du, de la, des* to *de*: *Je n'ai plus de lait*, *Il ne mange jamais de viande*.",
+    "Some negatives combine: *Il ne dit plus rien* (He doesn't say anything anymore), *Je ne vois jamais personne* (I never see anyone), *On ne fait plus jamais ça* (We never do that anymore)."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Je ne bois jamais de café le soir.",
+   "en": "I never drink coffee in the evening.",
+   "note": "de after jamais"
+  },
+  {
+   "fr": "Il ne travaille plus ici.",
+   "en": "He doesn't work here anymore."
+  },
+  {
+   "fr": "Je ne comprends rien!",
+   "en": "I don't understand anything!"
+  },
+  {
+   "fr": "Je ne connais personne dans ce quartier.",
+   "en": "I don't know anyone in this neighbourhood."
+  },
+  {
+   "fr": "Elle n'a pas encore fini son rapport.",
+   "en": "She hasn't finished her report yet."
+  },
+  {
+   "fr": "Je n'ai jamais vu d'orignal.",
+   "en": "I've never seen a moose.",
+   "note": "un → de after a negative"
+  },
+  {
+   "fr": "Il n'a rien dit pendant la réunion.",
+   "en": "He didn't say anything during the meeting.",
+   "note": "rien before the participle"
+  },
+  {
+   "fr": "On n'a vu personne au parc.",
+   "en": "We didn't see anyone at the park.",
+   "note": "personne after the participle"
+  },
+  {
+   "fr": "Je ne trouve mon cellulaire nulle part.",
+   "en": "I can't find my cell phone anywhere."
+  },
+  {
+   "fr": "Personne n'est venu à la fête.",
+   "en": "Nobody came to the party.",
+   "note": "personne as subject"
+  },
+  {
+   "fr": "Rien n'a changé depuis l'année passée.",
+   "en": "Nothing has changed since last year."
+  },
+  {
+   "fr": "Il n'y a plus de lait dans le frigo.",
+   "en": "There's no more milk in the fridge."
+  },
+  {
+   "fr": "J'ai décidé de ne plus manger de sucre.",
+   "en": "I decided not to eat sugar anymore.",
+   "note": "ne plus together before the infinitive"
+  },
+  {
+   "fr": "Je n'ai que vingt dollars sur moi.",
+   "en": "I only have twenty dollars on me.",
+   "note": "ne… que = only"
+  },
+  {
+   "fr": "Mon grand-père ne dit plus rien.",
+   "en": "My grandfather doesn't say anything anymore.",
+   "note": "combined negatives"
+  },
+  {
+   "fr": "Tu as faim? — Non, pas du tout.",
+   "en": "Are you hungry? — No, not at all."
+  }
+ ],
+ "quebec": {
+  "intro": "In Quebec speech, 'ne' almost disappears, and you'll hear strong negatives like 'pas pantoute' (not at all) and 'jamais de la vie' (no way). You may also hear double negatives like 'y'a pas personne', which are nonstandard.",
+  "items": [
+   {
+    "std": "Pas du tout.",
+    "qc": "Pas pantoute.",
+    "en": "Not at all.",
+    "note": "Informal, very Quebec; pantoute comes from 'pas en tout'"
+   },
+   {
+    "std": "Je n'ai rien compris.",
+    "qc": "J'ai rien compris pantoute.",
+    "en": "I didn't understand anything at all.",
+    "note": "ne dropped; pantoute for emphasis"
+   },
+   {
+    "std": "Jamais!",
+    "qc": "Jamais de la vie!",
+    "en": "No way! Never in my life!",
+    "note": "Also used in France; very common in Quebec"
+   },
+   {
+    "std": "Il n'y a personne.",
+    "qc": "Y'a pas personne.",
+    "en": "There's nobody.",
+    "note": "Double negative heard in speech; nonstandard, don't write it"
+   },
+   {
+    "std": "Je ne fume plus.",
+    "qc": "J'fume pus.",
+    "en": "I don't smoke anymore.",
+    "note": "plus → pus in informal speech"
+   },
+   {
+    "std": "Je n'ai que cinq dollars.",
+    "qc": "J'ai rien que cinq piasses.",
+    "en": "I only have five bucks.",
+    "note": "rien que = only; piasse = dollar (informal)"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "'Il ne fume plus' means…",
+   "options": [
+    "He smokes more.",
+    "He doesn't smoke anymore.",
+    "He never smoked.",
+    "He smokes nothing."
+   ],
+   "a": 1,
+   "why": "ne… plus = no longer."
+  },
+  {
+   "t": "mcq",
+   "q": "Where does 'personne' go in the passé composé?",
+   "options": [
+    "Before the helper",
+    "Between helper and participle",
+    "After the participle",
+    "At the start only"
+   ],
+   "a": 2,
+   "why": "Je n'ai vu personne."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is standard French?",
+   "options": [
+    "Je ne vois pas personne.",
+    "Je ne vois personne.",
+    "Je vois pas personne.",
+    "Je ne personne vois."
+   ],
+   "a": 1,
+   "why": "Personne replaces pas."
+  },
+  {
+   "t": "mcq",
+   "q": "'Pas pantoute' means…",
+   "options": [
+    "not yet",
+    "not at all",
+    "nowhere",
+    "never again"
+   ],
+   "a": 1,
+   "why": "Quebec for pas du tout."
+  },
+  {
+   "t": "fill",
+   "q": "Je n'ai ___ vu la mer. (never)",
+   "a": [
+    "jamais"
+   ],
+   "en": "I've never seen the sea.",
+   "why": "jamais before the participle."
+  },
+  {
+   "t": "fill",
+   "q": "___ n'a appelé ce matin. (Nobody)",
+   "a": [
+    "Personne"
+   ],
+   "en": "Nobody called this morning.",
+   "why": "Personne as subject + ne."
+  },
+  {
+   "t": "fill",
+   "q": "Il n'y a plus ___ pain. (any)",
+   "a": [
+    "de"
+   ],
+   "en": "There's no more bread.",
+   "why": "du → de after a negative."
+  },
+  {
+   "t": "fill",
+   "q": "On n'est allés ___ part ce week-end. (no-)",
+   "a": [
+    "nulle"
+   ],
+   "en": "We didn't go anywhere this weekend.",
+   "why": "ne… nulle part."
+  },
+  {
+   "t": "build",
+   "en": "I don't understand anything.",
+   "a": "Je ne comprends rien."
+  },
+  {
+   "t": "build",
+   "en": "She hasn't arrived yet.",
+   "a": "Elle n'est pas encore arrivée."
+  },
+  {
+   "t": "build",
+   "en": "Nothing has changed.",
+   "a": "Rien n'a changé."
+  },
+  {
+   "t": "translate",
+   "en": "I never eat meat.",
+   "a": [
+    "Je ne mange jamais de viande.",
+    "Je mange jamais de viande."
+   ],
+   "why": "de after jamais."
+  },
+  {
+   "t": "translate",
+   "en": "We didn't see anyone.",
+   "a": [
+    "On n'a vu personne.",
+    "Nous n'avons vu personne.",
+    "On a vu personne."
+   ],
+   "why": "personne after the participle."
+  },
+  {
+   "t": "translate",
+   "en": "I only have ten dollars.",
+   "a": [
+    "Je n'ai que dix dollars.",
+    "J'ai seulement dix dollars.",
+    "J'ai juste dix dollars."
+   ],
+   "why": "ne… que = only."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "ne… jamais",
+   "en": "never",
+   "ex": "Il n'est jamais en retard."
+  },
+  {
+   "fr": "ne… plus",
+   "en": "no longer, not anymore",
+   "ex": "Je n'habite plus là."
+  },
+  {
+   "fr": "ne… rien",
+   "en": "nothing",
+   "ex": "Je n'ai rien acheté."
+  },
+  {
+   "fr": "ne… personne",
+   "en": "nobody",
+   "ex": "Je n'ai vu personne."
+  },
+  {
+   "fr": "ne… pas encore",
+   "en": "not yet",
+   "ex": "Je n'ai pas encore mangé."
+  },
+  {
+   "fr": "ne… nulle part",
+   "en": "nowhere",
+   "ex": "Je ne le trouve nulle part."
+  },
+  {
+   "fr": "ne… que",
+   "en": "only",
+   "ex": "Il n'a que deux ans."
+  },
+  {
+   "fr": "pas du tout",
+   "en": "not at all",
+   "ex": "Je ne suis pas du tout fatigué."
+  },
+  {
+   "fr": "pantoute",
+   "en": "at all (informal)",
+   "ex": "J'aime pas ça pantoute.",
+   "qc": true
+  },
+  {
+   "fr": "jamais de la vie",
+   "en": "no way, never",
+   "ex": "Sauter en parachute? Jamais de la vie!"
+  },
+  {
+   "fr": "toujours",
+   "en": "always; still",
+   "ex": "Il est toujours en retard."
+  },
+  {
+   "fr": "encore",
+   "en": "still; again",
+   "ex": "Tu es encore là?"
+  },
+  {
+   "fr": "quelqu'un",
+   "en": "someone",
+   "ex": "Il y a quelqu'un?"
+  },
+  {
+   "fr": "quelque chose",
+   "en": "something",
+   "ex": "Tu veux quelque chose?"
+  },
+  {
+   "fr": "quelque part",
+   "en": "somewhere",
+   "ex": "Mes clés sont quelque part ici."
+  },
+  {
+   "fr": "rien que",
+   "en": "only, just (informal Quebec)",
+   "ex": "J'en veux rien qu'un.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "je n'ai rien",
+    "tip": "zhuh nay RYAN; Quebec: zhay RYAN (ne dropped)."
+   },
+   {
+    "fr": "il n'y a personne",
+    "tip": "eel nya pèr-SONN; Quebec: ya pas pèr-SONN."
+   },
+   {
+    "fr": "ne… plus",
+    "tip": "PLU, silent s; Quebec informal: PU."
+   },
+   {
+    "fr": "pantoute",
+    "tip": "pan-TOUTT, final t pronounced."
+   },
+   {
+    "fr": "nulle part",
+    "tip": "nul PAR."
+   },
+   {
+    "fr": "jamais de la vie",
+    "tip": "zha-mè d'la VEE."
+   }
+  ],
+  "title": "Une journée nulle",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "T'as l'air fatigué. Ça va?",
+    "en": "You look tired. Are you OK?"
+   },
+   {
+    "s": "B",
+    "fr": "Pas pantoute. Je ne trouve mes clés nulle part!",
+    "en": "Not at all. I can't find my keys anywhere!"
+   },
+   {
+    "s": "A",
+    "fr": "As-tu demandé à ta coloc?",
+    "en": "Did you ask your roommate?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, mais elle n'a rien vu. Et il n'y a personne d'autre à la maison.",
+    "en": "Yes, but she didn't see anything. And there's nobody else at home."
+   },
+   {
+    "s": "A",
+    "fr": "As-tu mangé au moins?",
+    "en": "Did you at least eat?"
+   },
+   {
+    "s": "B",
+    "fr": "Non, pas encore. Et il n'y a plus de pain!",
+    "en": "No, not yet. And there's no more bread!"
+   },
+   {
+    "s": "A",
+    "fr": "Pauvre toi! Viens dîner avec moi. C'est moi qui paie.",
+    "en": "Poor you! Come have lunch with me. It's on me."
+   },
+   {
+    "s": "B",
+    "fr": "T'es sûr? Je n'ai que deux dollars sur moi.",
+    "en": "You sure? I only have two dollars on me."
+   },
+   {
+    "s": "A",
+    "fr": "Jamais de la vie! C'est moi qui t'invite.",
+    "en": "No way! I'm treating you."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What can't B find?",
+    "options": [
+     "Her wallet",
+     "Her keys",
+     "Her phone"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What is missing at home?",
+    "options": [
+     "Milk",
+     "Bread",
+     "Coffee"
+    ],
+    "a": 1
+   },
+   {
+    "q": "How much money does B have?",
+    "options": [
+     "Two dollars",
+     "Ten dollars",
+     "Nothing"
+    ],
+    "a": 0
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Say three things you never do, using ne… jamais.",
+   "model": "Je ne fume jamais. Je ne bois jamais de café le soir. Je ne suis jamais allé en Europe."
+  },
+  {
+   "prompt": "Say two things you don't do anymore since you moved to Quebec.",
+   "model": "Je ne conduis plus beaucoup. Je ne mange plus de sushis tous les jours."
+  },
+  {
+   "prompt": "React strongly to 'Tu veux nager dans le fleuve en janvier?' the Quebec way.",
+   "model": "Jamais de la vie! Pas pantoute!"
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences about a bad day when nothing went right. Use at least five different negatives.",
+  "model": "Lundi, rien n'a marché. Mon réveil n'a pas sonné et il n'y avait plus de café. Je n'ai trouvé mon portefeuille nulle part. Au bureau, personne ne m'a dit bonjour. Je n'ai pas encore fini mon rapport. Je ne veux plus jamais vivre une journée comme ça!"
+ },
+ "quiz": [
+  {
+   "q": "'Je n'ai que deux heures' means…",
+   "options": [
+    "I don't have two hours.",
+    "I only have two hours.",
+    "I have two hours left over.",
+    "I never have two hours."
+   ],
+   "a": 1,
+   "why": "ne… que = only."
+  },
+  {
+   "q": "Which is correct?",
+   "options": [
+    "Je n'ai jamais vu un orignal.",
+    "Je n'ai jamais vu d'orignal.",
+    "Je n'ai vu jamais d'orignal.",
+    "Je jamais n'ai vu d'orignal."
+   ],
+   "a": 1,
+   "why": "jamais before the participle; un → de."
+  },
+  {
+   "q": "The opposite of 'toujours' is…",
+   "options": [
+    "plus",
+    "rien",
+    "jamais",
+    "personne"
+   ],
+   "a": 2,
+   "why": "toujours (always) / jamais (never)."
+  },
+  {
+   "q": "'J'fume pus' means…",
+   "options": [
+    "I smoke more.",
+    "I don't smoke anymore.",
+    "I never smoked.",
+    "I smoke a lot."
+   ],
+   "a": 1,
+   "why": "pus = plus (no longer) in Quebec speech."
+  },
+  {
+   "q": "'Y'a pas personne' is…",
+   "options": [
+    "standard written French",
+    "a spoken double negative, nonstandard",
+    "a France expression",
+    "a question"
+   ],
+   "a": 1,
+   "why": "Standard: Il n'y a personne."
+  },
+  {
+   "q": "Which sentence is correct?",
+   "options": [
+    "Personne n'est venu.",
+    "Personne n'est pas venu.",
+    "Personne est ne venu.",
+    "Ne personne est venu."
+   ],
+   "a": 0,
+   "why": "Personne as subject + ne, no pas."
+  },
+  {
+   "q": "Correct order with an infinitive:",
+   "options": [
+    "J'ai décidé de fumer ne plus.",
+    "J'ai décidé de ne plus fumer.",
+    "J'ai décidé ne de plus fumer.",
+    "J'ai ne décidé plus de fumer."
+   ],
+   "a": 1,
+   "why": "ne plus together before the infinitive."
+  },
+  {
+   "q": "'Il ne dit plus rien' means…",
+   "options": [
+    "He says a lot more.",
+    "He doesn't say anything anymore.",
+    "He says nobody.",
+    "He never said anything."
+   ],
+   "a": 1,
+   "why": "plus + rien combined."
+  }
+ ]
+}

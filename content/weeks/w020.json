@@ -1,0 +1,734 @@
+{
+ "w": 20,
+ "title": "Descriptive adjectives, agreement and colours",
+ "goal": "By the end of this lesson you can make adjectives agree in gender and number, place them before or after the noun, name the colours, and use everyday Quebec judgments like c'est le fun, c'est plate and c'est beau.",
+ "learn": [
+  {
+   "h": "Agreement: adjectives match the noun",
+   "body": [
+    "A French adjective takes the gender and number of the noun it describes. The basic rule: add *-e* for feminine, *-s* for plural, *-es* for feminine plural.",
+    "Adding *-e* often makes a silent final consonant audible: *petit* [puh-TEE] → *petite* [puh-TEET], *grand* → *grande*. If the adjective already ends in *-e*, the feminine doesn't change: *rouge, jeune, facile*."
+   ],
+   "table": {
+    "head": [
+     "",
+     "Masculine",
+     "Feminine"
+    ],
+    "rows": [
+     [
+      "Singular",
+      "un chat noir",
+      "une voiture noire"
+     ],
+     [
+      "Plural",
+      "des chats noirs",
+      "des voitures noires"
+     ],
+     [
+      "Already -e",
+      "un livre rouge",
+      "une table rouge"
+     ]
+    ]
+   },
+   "tip": "A mixed group (masculine + feminine) takes the masculine plural: Paul et Julie sont grands."
+  },
+  {
+   "h": "Common feminine patterns",
+   "body": [
+    "Some endings change more than just adding -e. Learn these families; they cover hundreds of adjectives.",
+    "A few very common adjectives are irregular: *beau / belle*, *nouveau / nouvelle*, *vieux / vieille*, *blanc / blanche*, *long / longue*, *gentil / gentille*."
+   ],
+   "table": {
+    "head": [
+     "Ending",
+     "Masculine",
+     "Feminine"
+    ],
+    "rows": [
+     [
+      "-eux → -euse",
+      "heureux",
+      "heureuse"
+     ],
+     [
+      "-if → -ive",
+      "sportif",
+      "sportive"
+     ],
+     [
+      "-el → -elle",
+      "naturel",
+      "naturelle"
+     ],
+     [
+      "-en → -enne",
+      "canadien",
+      "canadienne"
+     ],
+     [
+      "-er → -ère",
+      "cher",
+      "chère"
+     ],
+     [
+      "-on → -onne",
+      "bon",
+      "bonne"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Where does the adjective go?",
+   "body": [
+    "Most adjectives go AFTER the noun, unlike English: *une voiture rouge* (a red car), *un homme intéressant*. Colours and nationalities always go after.",
+    "A small group of short, common adjectives goes BEFORE the noun. Remember BAGS: Beauty (*beau, joli*), Age (*jeune, vieux, nouveau*), Goodness (*bon, mauvais*), Size (*petit, grand, gros*): *une belle maison, un petit chat, un bon café*.",
+    "Before a masculine noun starting with a vowel, *beau, nouveau, vieux* become *bel, nouvel, vieil*: *un bel appartement, un vieil ami*."
+   ],
+   "tip": "BAGS adjectives go before: un grand appartement, une jolie robe."
+  },
+  {
+   "h": "Colours",
+   "body": [
+    "Colours are adjectives and agree: *une robe verte, des yeux bleus*. Colours that come from nouns (*orange, marron*) don't change: *des chaussures orange*.",
+    "In Quebec, 'brown' is usually *brun* (*des yeux bruns*, *un manteau brun*); *marron* is more common in France."
+   ],
+   "table": {
+    "head": [
+     "Masculine",
+     "Feminine",
+     "English"
+    ],
+    "rows": [
+     [
+      "noir",
+      "noire",
+      "black"
+     ],
+     [
+      "blanc",
+      "blanche",
+      "white"
+     ],
+     [
+      "rouge",
+      "rouge",
+      "red"
+     ],
+     [
+      "bleu",
+      "bleue",
+      "blue"
+     ],
+     [
+      "vert",
+      "verte",
+      "green"
+     ],
+     [
+      "jaune",
+      "jaune",
+      "yellow"
+     ],
+     [
+      "gris",
+      "grise",
+      "grey"
+     ],
+     [
+      "brun",
+      "brune",
+      "brown"
+     ],
+     [
+      "orange",
+      "orange",
+      "orange (no change)"
+     ],
+     [
+      "rose",
+      "rose",
+      "pink"
+     ],
+     [
+      "mauve",
+      "mauve",
+      "purple (Quebec; also violet)"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Quebec: c'est le fun, c'est plate, c'est beau",
+   "body": [
+    "Quebecers judge things with a few very frequent expressions. *C'est le fun* = it's fun (*le fun* works like an adjective: *une soirée le fun*). Its opposite is *C'est plate* = it's boring.",
+    "*C'est beau* can mean 'it's beautiful', but in Quebec it very often means 'OK, that's fine': *Je vais être en retard. — C'est beau!* *C'est bon* = it tastes good / it's fine. *Fin / fine* = nice, kind. All casual, but used by everyone."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "J'ai un chat noir.",
+   "en": "I have a black cat.",
+   "note": "colour after the noun"
+  },
+  {
+   "fr": "Elle a une voiture noire.",
+   "en": "She has a black car.",
+   "note": "feminine: -e"
+  },
+  {
+   "fr": "Les enfants sont contents.",
+   "en": "The children are happy.",
+   "note": "plural: -s"
+  },
+  {
+   "fr": "Mes sœurs sont grandes.",
+   "en": "My sisters are tall.",
+   "note": "feminine plural: -es"
+  },
+  {
+   "fr": "C'est une belle maison.",
+   "en": "It's a beautiful house.",
+   "note": "BAGS: beauty, before the noun"
+  },
+  {
+   "fr": "J'habite dans un bel appartement.",
+   "en": "I live in a beautiful apartment.",
+   "note": "beau → bel before a vowel"
+  },
+  {
+   "fr": "C'est un vieil ami.",
+   "en": "He's an old friend.",
+   "note": "vieux → vieil before a vowel"
+  },
+  {
+   "fr": "Ma voisine est très gentille.",
+   "en": "My neighbour is very kind.",
+   "note": "gentil → gentille"
+  },
+  {
+   "fr": "Il est heureux et elle est heureuse.",
+   "en": "He's happy and she's happy.",
+   "note": "-eux → -euse"
+  },
+  {
+   "fr": "Julie est canadienne.",
+   "en": "Julie is Canadian.",
+   "note": "-en → -enne; lowercase nationality"
+  },
+  {
+   "fr": "J'ai les yeux bruns.",
+   "en": "I have brown eyes.",
+   "note": "brun in Quebec"
+  },
+  {
+   "fr": "Je cherche une tuque blanche.",
+   "en": "I'm looking for a white tuque.",
+   "note": "blanc → blanche; tuque = winter hat"
+  },
+  {
+   "fr": "C'est un bon restaurant italien.",
+   "en": "It's a good Italian restaurant.",
+   "note": "bon before, nationality after"
+  },
+  {
+   "fr": "Le party est vraiment le fun!",
+   "en": "The party is really fun!",
+   "note": "Quebec casual"
+  },
+  {
+   "fr": "Le film est plate.",
+   "en": "The movie is boring.",
+   "note": "Quebec casual: plate = boring"
+  }
+ ],
+ "quebec": {
+  "intro": "Everyday Quebec judgments: c'est le fun (it's fun), c'est plate (it's boring), c'est beau (it's fine / OK), c'est bon. Fin / fine means nice, and brun is the usual word for brown.",
+  "items": [
+   {
+    "std": "C'est amusant!",
+    "qc": "C'est le fun!",
+    "en": "It's fun!",
+    "note": "informal, extremely common"
+   },
+   {
+    "std": "C'est ennuyeux.",
+    "qc": "C'est plate.",
+    "en": "It's boring.",
+    "note": "informal; plate is invariable in speech"
+   },
+   {
+    "std": "D'accord, ça va.",
+    "qc": "C'est beau!",
+    "en": "OK, that's fine!",
+    "note": "informal; not about beauty here"
+   },
+   {
+    "std": "Il est gentil.",
+    "qc": "Il est fin.",
+    "en": "He's nice.",
+    "note": "fin / fine = kind, nice"
+   },
+   {
+    "std": "une soirée amusante",
+    "qc": "une soirée le fun",
+    "en": "a fun evening",
+    "note": "informal: le fun used as an adjective"
+   },
+   {
+    "std": "des yeux marron",
+    "qc": "des yeux bruns",
+    "en": "brown eyes",
+    "note": "brun is standard in Quebec"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Une voiture ___ (green)",
+   "options": [
+    "vert",
+    "verte",
+    "verts",
+    "vertes"
+   ],
+   "a": 1,
+   "why": "voiture is feminine singular."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is correctly placed?",
+   "options": [
+    "une rouge voiture",
+    "une voiture rouge",
+    "un rouge voiture",
+    "une voiture rouges"
+   ],
+   "a": 1,
+   "why": "Colours go after the noun."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is correct?",
+   "options": [
+    "un beau appartement",
+    "un bel appartement",
+    "un belle appartement",
+    "un appartement bel"
+   ],
+   "a": 1,
+   "why": "beau → bel before a masculine noun starting with a vowel."
+  },
+  {
+   "t": "mcq",
+   "q": "The feminine of 'heureux' is…",
+   "options": [
+    "heureuxe",
+    "heureuse",
+    "heureuze",
+    "heureusse"
+   ],
+   "a": 1,
+   "why": "-eux → -euse."
+  },
+  {
+   "t": "mcq",
+   "q": "In Quebec, 'C'est plate' means…",
+   "options": [
+    "It's flat",
+    "It's boring",
+    "It's great",
+    "It's a plate"
+   ],
+   "a": 1,
+   "why": "plate = boring (informal)."
+  },
+  {
+   "t": "fill",
+   "q": "Mes sœurs sont ___. (tall)",
+   "a": [
+    "grandes"
+   ],
+   "en": "My sisters are tall.",
+   "why": "Feminine plural: -es."
+  },
+  {
+   "t": "fill",
+   "q": "Ma voisine est très ___. (kind)",
+   "a": [
+    "gentille",
+    "fine"
+   ],
+   "en": "My neighbour is very kind.",
+   "why": "gentil → gentille; Quebec: fine."
+  },
+  {
+   "t": "fill",
+   "q": "Je cherche une tuque ___. (white)",
+   "a": [
+    "blanche"
+   ],
+   "en": "I'm looking for a white tuque.",
+   "why": "blanc → blanche."
+  },
+  {
+   "t": "fill",
+   "q": "C'est une ___ maison. (beautiful)",
+   "a": [
+    "belle"
+   ],
+   "en": "It's a beautiful house.",
+   "why": "beau → belle; BAGS: before the noun."
+  },
+  {
+   "t": "fill",
+   "q": "Julie est ___. (Canadian)",
+   "a": [
+    "canadienne"
+   ],
+   "en": "Julie is Canadian.",
+   "why": "-en → -enne, lowercase."
+  },
+  {
+   "t": "build",
+   "en": "He's an old friend.",
+   "a": "C'est un vieil ami."
+  },
+  {
+   "t": "build",
+   "en": "The party is really fun!",
+   "a": "Le party est vraiment le fun!"
+  },
+  {
+   "t": "translate",
+   "en": "I have brown eyes.",
+   "a": [
+    "J'ai les yeux bruns.",
+    "J'ai des yeux bruns.",
+    "J'ai les yeux marron."
+   ],
+   "why": "brun in Quebec, marron in France."
+  },
+  {
+   "t": "translate",
+   "en": "The children are happy.",
+   "a": [
+    "Les enfants sont contents.",
+    "Les enfants sont heureux.",
+    "Les enfants sont contentes.",
+    "Les enfants sont heureuses."
+   ],
+   "why": "Plural agreement."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "grand / grande",
+   "en": "big, tall",
+   "ex": "Un grand appartement."
+  },
+  {
+   "fr": "petit / petite",
+   "en": "small, little",
+   "ex": "Une petite maison."
+  },
+  {
+   "fr": "beau / bel / belle",
+   "en": "beautiful, handsome",
+   "ex": "Un bel hôtel, une belle ville."
+  },
+  {
+   "fr": "nouveau / nouvel / nouvelle",
+   "en": "new",
+   "ex": "Une nouvelle job."
+  },
+  {
+   "fr": "vieux / vieil / vieille",
+   "en": "old",
+   "ex": "Un vieil ami."
+  },
+  {
+   "fr": "jeune",
+   "en": "young",
+   "ex": "Il est jeune."
+  },
+  {
+   "fr": "content / contente",
+   "en": "happy, pleased",
+   "ex": "Je suis contente."
+  },
+  {
+   "fr": "heureux / heureuse",
+   "en": "happy",
+   "ex": "Elle est heureuse."
+  },
+  {
+   "fr": "intéressant / intéressante",
+   "en": "interesting",
+   "ex": "Un livre intéressant."
+  },
+  {
+   "fr": "blanc / blanche",
+   "en": "white",
+   "ex": "La neige est blanche."
+  },
+  {
+   "fr": "bleu / bleue",
+   "en": "blue",
+   "ex": "Une chemise bleue."
+  },
+  {
+   "fr": "vert / verte",
+   "en": "green",
+   "ex": "Une pomme verte."
+  },
+  {
+   "fr": "brun / brune",
+   "en": "brown",
+   "ex": "Des cheveux bruns.",
+   "qc": true
+  },
+  {
+   "fr": "le fun",
+   "en": "fun (informal)",
+   "ex": "C'est le fun!",
+   "qc": true
+  },
+  {
+   "fr": "plate",
+   "en": "boring (informal)",
+   "ex": "C'est plate!",
+   "qc": true
+  },
+  {
+   "fr": "la tuque",
+   "en": "winter hat, toque",
+   "g": "f",
+   "ex": "Une tuque rouge.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "petit / petite",
+    "tip": "puh-TEE / puh-TEET: the -e makes the t heard."
+   },
+   {
+    "fr": "grand / grande",
+    "tip": "GRAHN / GRAHND."
+   },
+   {
+    "fr": "blanc / blanche",
+    "tip": "BLAHN / BLAHNSH."
+   },
+   {
+    "fr": "un bel appartement",
+    "tip": "uhn beh-la-par-tuh-MAHN."
+   },
+   {
+    "fr": "heureux / heureuse",
+    "tip": "uh-RUH / uh-RUHZ."
+   },
+   {
+    "fr": "canadien / canadienne",
+    "tip": "ka-na-DYAN (nasal) / ka-na-DYENN (not nasal)."
+   },
+   {
+    "fr": "C'est le fun!",
+    "tip": "say luh FONN: Quebecers say 'fonne', not the English 'fun'."
+   }
+  ],
+  "title": "Au magasin",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Bonjour! Je cherche une tuque pour l'hiver.",
+    "en": "Hello! I'm looking for a tuque for the winter."
+   },
+   {
+    "s": "B",
+    "fr": "On a des tuques rouges, bleues et noires.",
+    "en": "We have red, blue and black tuques."
+   },
+   {
+    "s": "A",
+    "fr": "La bleue est belle! Elle coûte combien?",
+    "en": "The blue one is nice! How much is it?"
+   },
+   {
+    "s": "B",
+    "fr": "Vingt-cinq dollars. C'est une bonne tuque, très chaude.",
+    "en": "Twenty-five dollars. It's a good tuque, very warm."
+   },
+   {
+    "s": "A",
+    "fr": "Parfait. Et des mitaines grises?",
+    "en": "Perfect. And grey mittens?"
+   },
+   {
+    "s": "B",
+    "fr": "Désolé, on a juste des mitaines brunes.",
+    "en": "Sorry, we only have brown mittens."
+   },
+   {
+    "s": "A",
+    "fr": "C'est beau, je prends juste la tuque.",
+    "en": "That's fine, I'll just take the tuque."
+   }
+  ],
+  "questions": [
+   {
+    "q": "Which tuque does A like?",
+    "options": [
+     "The red one",
+     "The blue one",
+     "The black one"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What colour are the available mittens?",
+    "options": [
+     "Grey",
+     "Brown",
+     "Blue"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does 'C'est beau' mean here?",
+    "options": [
+     "It's beautiful",
+     "That's fine",
+     "It's expensive"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Describe yourself in 3 sentences: height, hair and eye colour, personality.",
+   "model": "Je suis grand. J'ai les cheveux bruns et les yeux bleus. Je suis sportif et gentil."
+  },
+  {
+   "prompt": "Describe your home and your street with at least four adjectives.",
+   "model": "J'habite dans un petit appartement. Il est vieux mais beau. La rue est calme et verte."
+  },
+  {
+   "prompt": "Give your opinion on three activities using c'est le fun, c'est plate or c'est beau.",
+   "model": "Le hockey, c'est le fun! Faire l'épicerie, c'est plate. Le Vieux-Québec, c'est beau!"
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences describing a friend or family member: appearance, clothes (with colours) and personality. Check every agreement.",
+  "model": "Ma sœur s'appelle Julie. Elle est petite et elle a les cheveux bruns. Elle a les yeux verts. Aujourd'hui, elle porte une tuque rouge et un manteau noir. Elle est très drôle et gentille. Avec elle, c'est toujours le fun!"
+ },
+ "quiz": [
+  {
+   "q": "The feminine plural of 'petit' is…",
+   "options": [
+    "petits",
+    "petites",
+    "petite",
+    "petitees"
+   ],
+   "a": 1,
+   "why": "-e + -s = -es."
+  },
+  {
+   "q": "Which adjective usually goes BEFORE the noun?",
+   "options": [
+    "rouge",
+    "intéressant",
+    "petit",
+    "canadien"
+   ],
+   "a": 2,
+   "why": "BAGS: size adjectives like petit go before."
+  },
+  {
+   "q": "The feminine of 'sportif' is…",
+   "options": [
+    "sportife",
+    "sportive",
+    "sportifve",
+    "sportiffe"
+   ],
+   "a": 1,
+   "why": "-if → -ive."
+  },
+  {
+   "q": "Which colour does NOT change in the feminine?",
+   "options": [
+    "vert",
+    "noir",
+    "jaune",
+    "gris"
+   ],
+   "a": 2,
+   "why": "jaune already ends in -e."
+  },
+  {
+   "q": "Which is correct?",
+   "options": [
+    "des chaussures oranges",
+    "des chaussures orange",
+    "des oranges chaussures",
+    "des chaussure orange"
+   ],
+   "a": 1,
+   "why": "Colours from nouns (orange, marron) are invariable."
+  },
+  {
+   "q": "'Paul et Julie sont ___' (tall)",
+   "options": [
+    "grands",
+    "grandes",
+    "grande",
+    "grand"
+   ],
+   "a": 0,
+   "why": "A mixed group takes the masculine plural."
+  },
+  {
+   "q": "In Quebec, 'C'est le fun' means…",
+   "options": [
+    "It's funny",
+    "It's fun",
+    "It's the end",
+    "It's fine"
+   ],
+   "a": 1,
+   "why": "le fun = fun, enjoyable."
+  },
+  {
+   "q": "'Je vais être en retard. — C'est beau!' means…",
+   "options": [
+    "That's beautiful!",
+    "OK, no problem!",
+    "That's bad!",
+    "Hurry up!"
+   ],
+   "a": 1,
+   "why": "In Quebec, c'est beau often means 'that's fine'."
+  },
+  {
+   "q": "Which is the usual Quebec word for 'brown'?",
+   "options": [
+    "marron",
+    "brun",
+    "beige",
+    "châtain"
+   ],
+   "a": 1,
+   "why": "brun (des yeux bruns)."
+  }
+ ]
+}

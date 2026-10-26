@@ -1,0 +1,681 @@
+{
+ "w": 127,
+ "title": "Speaking: extended monologue",
+ "goal": "By the end of this lesson you can speak for three minutes without notes on a familiar topic, with a clear plan, smooth transitions, and strategies to keep going when a word escapes you.",
+ "learn": [
+  {
+   "h": "A three-minute monologue has a skeleton",
+   "body": [
+    "Three minutes is about 350–450 words. Nobody memorises that. What you memorise is a skeleton: an opening sentence, a plan announced out loud, two or three points with one concrete example each, and a closing line.",
+    "Announcing the plan is the single most useful trick. It tells the listener where you are going, and it tells *you* what comes next: *Je vais parler de trois choses : d'abord…, ensuite…, et enfin…*"
+   ],
+   "table": {
+    "head": [
+     "Part",
+     "Time",
+     "Useful French"
+    ],
+    "rows": [
+     [
+      "Opening",
+      "15 s",
+      "Aujourd'hui, j'aimerais vous parler de… / Le sujet qui me tient à cœur, c'est…"
+     ],
+     [
+      "Plan",
+      "10 s",
+      "Je vais aborder trois points. / D'abord…, ensuite…, enfin…"
+     ],
+     [
+      "Point 1 + example",
+      "45 s",
+      "Premièrement… Par exemple, l'hiver dernier…"
+     ],
+     [
+      "Point 2 + example",
+      "45 s",
+      "Ensuite, il faut dire que… Prenons le cas de…"
+     ],
+     [
+      "Point 3 + example",
+      "45 s",
+      "Enfin, et c'est peut-être le plus important…"
+     ],
+     [
+      "Closing",
+      "20 s",
+      "Bref, … / Pour conclure, … / En somme, …"
+     ]
+    ]
+   },
+   "tip": "Memorise your first and last sentence word for word. Improvise everything in between."
+  },
+  {
+   "h": "Connectors that move you forward",
+   "body": [
+    "Connectors are the joints of a monologue. Each one buys you a second of thinking time and signals the logic: adding (*de plus, en outre, par ailleurs*), contrasting (*par contre, en revanche, cependant*), giving an example (*par exemple, prenons le cas de, notamment*), concluding (*bref, en somme, finalement*).",
+    "*D'une part… d'autre part…* is ideal to present two sides. *Non seulement… mais aussi…* lets you stack arguments elegantly."
+   ],
+   "table": {
+    "head": [
+     "Function",
+     "Connectors"
+    ],
+    "rows": [
+     [
+      "Order",
+      "d'abord, ensuite, puis, enfin"
+     ],
+     [
+      "Add",
+      "de plus, en outre, par ailleurs, en plus"
+     ],
+     [
+      "Contrast",
+      "par contre, en revanche, cependant, pourtant"
+     ],
+     [
+      "Example",
+      "par exemple, notamment, prenons le cas de"
+     ],
+     [
+      "Cause / effect",
+      "parce que, puisque, c'est pourquoi, donc"
+     ],
+     [
+      "Conclude",
+      "bref, en somme, pour conclure, finalement"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Buying time and fixing mistakes",
+   "body": [
+    "Silence is the enemy, not hesitation. Native speakers fill pauses constantly: *bon*, *alors*, *eh bien*, *disons*, *comment dire*, *en fait*. Use them instead of 'um'.",
+    "When you lose a word, describe it: *c'est une sorte de…*, *c'est le truc qui sert à…*, *je ne trouve plus le mot, mais c'est comme…*. When you make a mistake, fix it lightly: *pardon, je veux dire…*, *ou plutôt…*, *autrement dit…*."
+   ],
+   "tip": "Paraphrase beats silence: 'le truc qui sert à déneiger' is perfectly good French for a snow scraper you can't name."
+  },
+  {
+   "h": "Mix tenses to tell a story",
+   "body": [
+    "A good example is usually a short story, and stories need the past tenses you already know: *imparfait* for the setting (*il faisait −30*), *passé composé* for the events (*la voiture n'a pas démarré*), *plus-que-parfait* for what had happened before (*j'avais oublié de la brancher*).",
+    "Then come back to the present to draw the lesson: *Depuis ce jour-là, je branche toujours mon auto.* Add a hypothesis to sound B1+: *Si j'avais su, je serais parti plus tôt.*"
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Aujourd'hui, j'aimerais vous parler de mon premier hiver au Québec.",
+   "en": "Today I'd like to talk to you about my first winter in Quebec.",
+   "note": "a clean opening sentence; j'aimerais is softer than je veux"
+  },
+  {
+   "fr": "Je vais aborder trois points : le froid, la neige et les gens.",
+   "en": "I'm going to cover three points: the cold, the snow and the people.",
+   "note": "announcing the plan"
+  },
+  {
+   "fr": "D'abord, il faut dire que je n'étais pas du tout prêt.",
+   "en": "First, I have to say I wasn't ready at all.",
+   "note": "il faut dire que introduces a point naturally"
+  },
+  {
+   "fr": "Par exemple, un matin de janvier, il faisait moins trente.",
+   "en": "For example, one January morning, it was minus thirty.",
+   "note": "imparfait for the setting"
+  },
+  {
+   "fr": "Ma voiture n'a pas démarré parce que j'avais oublié de la brancher.",
+   "en": "My car didn't start because I had forgotten to plug it in.",
+   "note": "passé composé + plus-que-parfait"
+  },
+  {
+   "fr": "Ensuite, et c'est ce qui m'a le plus surpris, il y a la neige.",
+   "en": "Next, and this is what surprised me most, there's the snow.",
+   "note": "a transition that creates interest"
+  },
+  {
+   "fr": "Non seulement il en tombe beaucoup, mais en plus elle reste jusqu'en avril.",
+   "en": "Not only does a lot fall, but it also stays until April.",
+   "note": "non seulement… mais en plus"
+  },
+  {
+   "fr": "Par contre, les déneigeuses passent très vite.",
+   "en": "On the other hand, the snowplows come by very quickly.",
+   "note": "par contre introduces a contrast"
+  },
+  {
+   "fr": "Comment dire… c'est une sorte de grosse pelle qu'on pousse.",
+   "en": "How can I put it… it's a kind of big shovel that you push.",
+   "note": "describing a word you can't find"
+  },
+  {
+   "fr": "Pardon, je veux dire en février, pas en janvier.",
+   "en": "Sorry, I mean in February, not January.",
+   "note": "light self-correction"
+  },
+  {
+   "fr": "Enfin, et c'est peut-être le plus important, les gens m'ont beaucoup aidé.",
+   "en": "Finally, and this is perhaps the most important, people helped me a lot.",
+   "note": "signals the last point"
+  },
+  {
+   "fr": "Mon voisin, que je ne connaissais pas, est venu pelleter mon entrée.",
+   "en": "My neighbour, whom I didn't know, came to shovel my driveway.",
+   "note": "relative clause adds detail without a new sentence"
+  },
+  {
+   "fr": "Si j'avais su, j'aurais acheté un meilleur manteau.",
+   "en": "If I had known, I would have bought a better coat.",
+   "note": "si + plus-que-parfait, conditionnel passé"
+  },
+  {
+   "fr": "Autrement dit, l'hiver, ça s'apprend.",
+   "en": "In other words, winter is something you learn.",
+   "note": "autrement dit reformulates"
+  },
+  {
+   "fr": "Bref, c'était difficile, mais je ne regrette rien.",
+   "en": "In short, it was hard, but I don't regret anything.",
+   "note": "bref announces the wrap-up"
+  },
+  {
+   "fr": "Merci de m'avoir écouté.",
+   "en": "Thank you for listening to me.",
+   "note": "a standard closing line"
+  }
+ ],
+ "quebec": {
+  "intro": "In a three-minute monologue with no notes, Quebecers lean on a handful of spoken connectors and fillers. Recognise them, use a few to sound natural, but keep the standard ones for an exam or presentation.",
+  "items": [
+   {
+    "std": "Donc, j'ai décidé de rester.",
+    "qc": "Fait que j'ai décidé de rester.",
+    "en": "So I decided to stay.",
+    "note": "fait que (often 'faque') is the Quebec 'so'; informal"
+   },
+   {
+    "std": "Tu sais, c'était vraiment dur.",
+    "qc": "Tsé, c'était vraiment dur.",
+    "en": "You know, it was really hard.",
+    "note": "tsé = tu sais; informal filler"
+   },
+   {
+    "std": "Et puis, après, on est partis.",
+    "qc": "Pis là, après, on est partis.",
+    "en": "And then, after that, we left.",
+    "note": "pis là is the storytelling engine of casual Quebec speech"
+   },
+   {
+    "std": "Disons qu'il faisait moins trente.",
+    "qc": "Mettons qu'il faisait moins trente.",
+    "en": "Let's say it was minus thirty.",
+    "note": "mettons = disons; informal"
+   },
+   {
+    "std": "Bon, eh bien, voilà, c'est tout.",
+    "qc": "Bon ben, c'est ça, c'est toutt.",
+    "en": "Well, that's it, that's all.",
+    "note": "bon ben… c'est ça closes a turn; informal"
+   },
+   {
+    "std": "Enfin, bref, je m'égare.",
+    "qc": "En tout cas, je m'écarte.",
+    "en": "Anyway, I'm getting off track.",
+    "note": "en tout cas = anyway; s'écarter (du sujet) is common in Quebec"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Which connector introduces an example?",
+   "options": [
+    "en revanche",
+    "notamment",
+    "bref",
+    "puisque"
+   ],
+   "a": 1,
+   "why": "Notamment = in particular, notably; it introduces an example."
+  },
+  {
+   "t": "mcq",
+   "q": "You forget the word for 'snow scraper'. Best strategy?",
+   "options": [
+    "Stop and switch to English",
+    "Say nothing and move on",
+    "C'est le truc qui sert à enlever la neige sur le pare-brise.",
+    "Repeat the previous sentence"
+   ],
+   "a": 2,
+   "why": "Paraphrase keeps the monologue flowing."
+  },
+  {
+   "t": "mcq",
+   "q": "Which sentence announces a plan?",
+   "options": [
+    "Bref, c'était bien.",
+    "Je vais aborder deux points : le travail et la famille.",
+    "Par contre, c'est cher.",
+    "Merci de m'avoir écouté."
+   ],
+   "a": 1,
+   "why": "Je vais aborder… tells the listener the structure."
+  },
+  {
+   "t": "mcq",
+   "q": "'Fait que' in Quebec speech means…",
+   "options": [
+    "in fact",
+    "so / therefore",
+    "because",
+    "although"
+   ],
+   "a": 1,
+   "why": "Fait que (faque) = donc, alors; informal."
+  },
+  {
+   "t": "mcq",
+   "q": "Which tense sets the scene in a story?",
+   "options": [
+    "passé composé",
+    "imparfait",
+    "futur simple",
+    "impératif"
+   ],
+   "a": 1,
+   "why": "The imparfait describes background: il faisait froid, il neigeait."
+  },
+  {
+   "t": "fill",
+   "q": "Non seulement il fait froid, ___ en plus il vente. (but)",
+   "a": [
+    "mais"
+   ],
+   "en": "Not only is it cold, but it's also windy.",
+   "why": "Non seulement… mais (en plus / aussi)."
+  },
+  {
+   "t": "fill",
+   "q": "Si j'avais su, j'___ parti plus tôt. (être, conditionnel passé)",
+   "a": [
+    "serais"
+   ],
+   "en": "If I had known, I would have left earlier.",
+   "why": "Partir takes être: je serais parti."
+  },
+  {
+   "t": "fill",
+   "q": "Pardon, je ___ dire en février. (vouloir)",
+   "a": [
+    "veux"
+   ],
+   "en": "Sorry, I mean in February.",
+   "why": "Je veux dire = I mean."
+  },
+  {
+   "t": "fill",
+   "q": "___ dit, l'hiver, ça s'apprend. (In other words)",
+   "a": [
+    "Autrement"
+   ],
+   "en": "In other words, winter is something you learn.",
+   "why": "Autrement dit = in other words."
+  },
+  {
+   "t": "build",
+   "en": "Today I'd like to talk to you about my job.",
+   "a": "Aujourd'hui, j'aimerais vous parler de mon travail."
+  },
+  {
+   "t": "build",
+   "en": "First, I have to say that I was not ready.",
+   "a": "D'abord, il faut dire que je n'étais pas prêt."
+  },
+  {
+   "t": "build",
+   "en": "In short, I don't regret anything.",
+   "a": "Bref, je ne regrette rien."
+  },
+  {
+   "t": "translate",
+   "en": "Thank you for listening.",
+   "a": [
+    "Merci de m'avoir écouté.",
+    "Merci de m'avoir écoutée.",
+    "Merci de votre attention.",
+    "Merci de m'avoir écouté!",
+    "Merci pour votre attention."
+   ],
+   "why": "Merci de + past infinitive: de m'avoir écouté."
+  },
+  {
+   "t": "translate",
+   "en": "On the other hand, it's expensive.",
+   "a": [
+    "Par contre, c'est cher.",
+    "En revanche, c'est cher.",
+    "Par contre, ça coûte cher.",
+    "En revanche, ça coûte cher."
+   ],
+   "why": "Par contre is the everyday choice; en revanche is more formal."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "aborder (un sujet)",
+   "en": "to tackle, bring up (a topic)",
+   "ex": "Je vais aborder trois points."
+  },
+  {
+   "fr": "le sujet",
+   "en": "topic, subject",
+   "g": "m",
+   "ex": "C'est un sujet qui me tient à cœur."
+  },
+  {
+   "fr": "tenir à cœur",
+   "en": "to matter deeply (to someone)",
+   "ex": "Ce projet me tient à cœur."
+  },
+  {
+   "fr": "d'abord",
+   "en": "first, first of all",
+   "ex": "D'abord, je vais me présenter."
+  },
+  {
+   "fr": "par ailleurs",
+   "en": "besides, moreover",
+   "ex": "Par ailleurs, le transport est gratuit."
+  },
+  {
+   "fr": "en revanche",
+   "en": "on the other hand",
+   "ex": "En revanche, le loyer est cher."
+  },
+  {
+   "fr": "notamment",
+   "en": "in particular, notably",
+   "ex": "J'aime les sports d'hiver, notamment le ski."
+  },
+  {
+   "fr": "autrement dit",
+   "en": "in other words",
+   "ex": "Autrement dit, il faut s'adapter."
+  },
+  {
+   "fr": "bref",
+   "en": "in short, anyway",
+   "ex": "Bref, tout s'est bien terminé."
+  },
+  {
+   "fr": "en somme",
+   "en": "all in all",
+   "ex": "En somme, c'est une belle expérience."
+  },
+  {
+   "fr": "comment dire",
+   "en": "how can I put it",
+   "ex": "C'est, comment dire, un peu bizarre."
+  },
+  {
+   "fr": "s'égarer",
+   "en": "to stray (from the topic)",
+   "ex": "Pardon, je m'égare."
+  },
+  {
+   "fr": "le fil (de ses idées)",
+   "en": "thread (of one's ideas)",
+   "g": "m",
+   "ex": "J'ai perdu le fil."
+  },
+  {
+   "fr": "fait que (faque)",
+   "en": "so (informal)",
+   "ex": "Faque j'ai appelé ma sœur.",
+   "qc": true
+  },
+  {
+   "fr": "tsé",
+   "en": "you know (informal)",
+   "ex": "Tsé, c'est pas facile.",
+   "qc": true
+  },
+  {
+   "fr": "mettons",
+   "en": "let's say (informal)",
+   "ex": "Mettons qu'on part à huit heures.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "d'abord",
+    "tip": "One flowing unit: [da-BOR], the r is pronounced."
+   },
+   {
+    "fr": "en revanche",
+    "tip": "Two nasals: [ahn ruh-VAHNSH]; the e of re is light or dropped."
+   },
+   {
+    "fr": "autrement dit",
+    "tip": "[o-truh-mahn DEE]; stress falls on the last syllable."
+   },
+   {
+    "fr": "notamment",
+    "tip": "[no-ta-MAHN]; the double m is a single sound."
+   },
+   {
+    "fr": "fait que / faque",
+    "tip": "Quebec speech squeezes it to [fak]."
+   },
+   {
+    "fr": "tu sais / tsé",
+    "tip": "The u disappears: [tsé]."
+   },
+   {
+    "fr": "Je vais aborder trois points.",
+    "tip": "No liaison in trois points (p is a consonant). Slow down and stress the last syllable: [a-bor-DÉ], [PWEN]."
+   }
+  ],
+  "title": "Trois minutes sur mon quartier",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Bon, tu as trois minutes. Ton sujet, c'est ton quartier. Vas-y!",
+    "en": "OK, you have three minutes. Your topic is your neighbourhood. Go!"
+   },
+   {
+    "s": "B",
+    "fr": "Alors, j'aimerais vous parler de Rosemont, où j'habite depuis deux ans.",
+    "en": "So, I'd like to talk to you about Rosemont, where I've lived for two years."
+   },
+   {
+    "s": "B",
+    "fr": "Je vais aborder trois points : les commerces, les parcs et les voisins.",
+    "en": "I'll cover three points: the shops, the parks and the neighbours."
+   },
+   {
+    "s": "B",
+    "fr": "D'abord, les commerces. Il y a une boulangerie, un dépanneur et, comment dire, une sorte de café-librairie.",
+    "en": "First, the shops. There's a bakery, a convenience store and, how can I put it, a kind of café-bookshop."
+   },
+   {
+    "s": "B",
+    "fr": "Ensuite, les parcs. Par exemple, l'hiver dernier, on a fait du patin presque tous les soirs.",
+    "en": "Next, the parks. For example, last winter, we went skating almost every evening."
+   },
+   {
+    "s": "B",
+    "fr": "Enfin, les voisins. Quand je suis arrivé, je ne connaissais personne, mais ils m'ont invité à leur fête de ruelle.",
+    "en": "Finally, the neighbours. When I arrived I didn't know anyone, but they invited me to their alley party."
+   },
+   {
+    "s": "B",
+    "fr": "Bref, si j'avais su, je serais venu à Rosemont bien plus tôt. Merci de m'avoir écouté.",
+    "en": "In short, if I had known, I would have come to Rosemont much earlier. Thank you for listening."
+   },
+   {
+    "s": "A",
+    "fr": "Bravo! Deux minutes cinquante. Ton plan était très clair.",
+    "en": "Well done! Two minutes fifty. Your plan was very clear."
+   }
+  ],
+  "questions": [
+   {
+    "q": "How long has the speaker lived in Rosemont?",
+    "options": [
+     "Six months",
+     "Two years",
+     "Five years"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What did the speaker do in the park last winter?",
+    "options": [
+     "Skiing",
+     "Skating",
+     "Snowshoeing"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What strategy did the speaker use for the café-bookshop?",
+    "options": [
+     "Switched to English",
+     "Paraphrased with 'comment dire, une sorte de'",
+     "Skipped it"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Record yourself: one opening sentence and an announced three-point plan about your city.",
+   "model": "Aujourd'hui, j'aimerais vous parler de Laval. Je vais aborder trois points : le logement, le transport et les loisirs."
+  },
+  {
+   "prompt": "Tell a 45-second example story using imparfait, passé composé and plus-que-parfait.",
+   "model": "L'hiver dernier, il faisait moins vingt-cinq. Je suis sorti pour aller travailler, mais j'avais oublié mes mitaines. Au bout de cinq minutes, je ne sentais plus mes doigts. Depuis, j'en garde toujours une paire dans l'auto."
+  },
+  {
+   "prompt": "Pretend you forgot the word 'thermostat'. Paraphrase it for 15 seconds.",
+   "model": "C'est le petit appareil sur le mur, comment dire, celui qui sert à régler la température de la maison."
+  },
+  {
+   "prompt": "Full task: speak for three minutes, with no notes, on 'Ce que j'ai appris en apprenant le français'.",
+   "model": "Aujourd'hui, j'aimerais vous parler de ce que le français m'a appris. Je vais aborder trois points : la patience, la culture et la confiance. D'abord, la patience… Ensuite, la culture : par exemple, j'ai découvert les chansons de Vigneault… Enfin, la confiance… Bref, si on m'avait dit il y a deux ans que je parlerais trois minutes en français, je ne l'aurais pas cru. Merci de m'avoir écouté."
+  }
+ ],
+ "write": {
+  "prompt": "Write the skeleton of your three-minute monologue: opening sentence, plan, one keyword list per point, closing sentence. No full paragraphs.",
+  "model": "Ouverture : Aujourd'hui, j'aimerais vous parler de mon premier hiver au Québec. Plan : le froid, la neige, les gens. Point 1 : moins trente, auto pas branchée, retard au travail. Point 2 : tempête, déneigeuse, stationnement interdit, remorquage. Point 3 : voisin, pelle, café, amitié. Conclusion : Bref, c'était dur, mais si c'était à refaire, je le referais. Merci de m'avoir écouté."
+ },
+ "quiz": [
+  {
+   "q": "About how many words is a three-minute monologue?",
+   "options": [
+    "About 100",
+    "About 350–450",
+    "About 1,000",
+    "About 50"
+   ],
+   "a": 1,
+   "why": "Conversational speed is roughly 120–150 words per minute."
+  },
+  {
+   "q": "Which part should you memorise word for word?",
+   "options": [
+    "The whole text",
+    "The opening and closing sentences",
+    "The examples",
+    "Nothing"
+   ],
+   "a": 1,
+   "why": "Fixed first and last lines give you a safe start and finish."
+  },
+  {
+   "q": "Which pair presents two sides?",
+   "options": [
+    "d'abord… enfin",
+    "d'une part… d'autre part",
+    "bref… en somme",
+    "parce que… donc"
+   ],
+   "a": 1,
+   "why": "D'une part… d'autre part = on the one hand… on the other."
+  },
+  {
+   "q": "Which is a self-correction?",
+   "options": [
+    "ou plutôt…",
+    "par exemple…",
+    "notamment…",
+    "puisque…"
+   ],
+   "a": 0,
+   "why": "Ou plutôt = or rather."
+  },
+  {
+   "q": "'Par ailleurs' means…",
+   "options": [
+    "elsewhere only",
+    "besides, moreover",
+    "therefore",
+    "however"
+   ],
+   "a": 1,
+   "why": "Par ailleurs adds a new point: moreover."
+  },
+  {
+   "q": "What does 'tsé' stand for?",
+   "options": [
+    "tu es",
+    "tu sais",
+    "c'est",
+    "t'es sûr"
+   ],
+   "a": 1,
+   "why": "Tsé is a compressed tu sais, informal Quebec speech."
+  },
+  {
+   "q": "'J'avais oublié de la brancher' is in which tense?",
+   "options": [
+    "passé composé",
+    "plus-que-parfait",
+    "conditionnel passé",
+    "imparfait"
+   ],
+   "a": 1,
+   "why": "Avoir in the imparfait + past participle = plus-que-parfait."
+  },
+  {
+   "q": "Which closing is the most neutral for a presentation?",
+   "options": [
+    "Bon ben, c'est ça.",
+    "Merci de m'avoir écouté.",
+    "Faque voilà.",
+    "C'est toutt."
+   ],
+   "a": 1,
+   "why": "The others are informal Quebec closers."
+  },
+  {
+   "q": "'Prenons le cas de…' introduces…",
+   "options": [
+    "a conclusion",
+    "an example",
+    "a contrast",
+    "a question"
+   ],
+   "a": 1,
+   "why": "Let's take the case of… = an example."
+  }
+ ]
+}

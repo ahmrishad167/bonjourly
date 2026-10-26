@@ -1,0 +1,715 @@
+{
+ "w": 147,
+ "title": "Passé simple, recognition only",
+ "goal": "By the end of this lesson you can recognise the passé simple in novels, history books and tales, identify the infinitive behind the common irregular forms, and mentally convert any passé simple into the passé composé you would use in speech.",
+ "learn": [
+  {
+   "h": "A tense you read but don't say",
+   "body": [
+    "The *passé simple* is the literary past tense. It means exactly the same as the *passé composé*: a completed action in the past. But it lives only in writing: novels, history books, fairy tales, biographies and some formal journalism. Nobody uses it in conversation, in Quebec or in France.",
+    "Your goal is recognition, not production. When you see *il arriva*, read *il est arrivé*. When you see *ils firent*, read *ils ont fait*. You'll mostly meet the third person (*il, elle, ils, elles*), because narratives are about other people."
+   ],
+   "tip": "Passé simple + imparfait in a novel = passé composé + imparfait in speech. The imparfait doesn't change."
+  },
+  {
+   "h": "The three ending patterns",
+   "body": [
+    "Regular *-er* verbs (and *aller*) take *a*-endings. Regular *-ir* and *-re* verbs take *i*-endings. Many irregular verbs take *u*-endings. A few verbs (*venir, tenir* and their family) take *in*-endings."
+   ],
+   "table": {
+    "head": [
+     "",
+     "-er: parler",
+     "-ir/-re: finir, rendre",
+     "-u: être → fus",
+     "-in: venir"
+    ],
+    "rows": [
+     [
+      "je",
+      "parlai",
+      "finis",
+      "fus",
+      "vins"
+     ],
+     [
+      "tu",
+      "parlas",
+      "finis",
+      "fus",
+      "vins"
+     ],
+     [
+      "il / elle",
+      "parla",
+      "finit",
+      "fut",
+      "vint"
+     ],
+     [
+      "nous",
+      "parlâmes",
+      "finîmes",
+      "fûmes",
+      "vînmes"
+     ],
+     [
+      "vous",
+      "parlâtes",
+      "finîtes",
+      "fûtes",
+      "vîntes"
+     ],
+     [
+      "ils / elles",
+      "parlèrent",
+      "finirent",
+      "furent",
+      "vinrent"
+     ]
+    ]
+   },
+   "tip": "-èrent, -irent, -urent, -inrent: the ils form is the easiest to spot."
+  },
+  {
+   "h": "Irregular forms worth knowing",
+   "body": [
+    "The stem of irregular verbs often looks like the past participle: *avoir → eut* (eu), *pouvoir → put* (pu), *lire → lut* (lu), *prendre → prit* (pris), *mettre → mit* (mis). Others must be learned: *faire → fit*, *voir → vit*, *naître → naquit*, *vivre → vécut*, *mourir → mourut*, *écrire → écrivit*."
+   ],
+   "table": {
+    "head": [
+     "Infinitive",
+     "il / elle",
+     "ils / elles",
+     "Passé composé"
+    ],
+    "rows": [
+     [
+      "être",
+      "fut",
+      "furent",
+      "a été"
+     ],
+     [
+      "avoir",
+      "eut",
+      "eurent",
+      "a eu"
+     ],
+     [
+      "faire",
+      "fit",
+      "firent",
+      "a fait"
+     ],
+     [
+      "aller",
+      "alla",
+      "allèrent",
+      "est allé"
+     ],
+     [
+      "venir / devenir",
+      "vint / devint",
+      "vinrent / devinrent",
+      "est venu / devenu"
+     ],
+     [
+      "voir",
+      "vit",
+      "virent",
+      "a vu"
+     ],
+     [
+      "prendre",
+      "prit",
+      "prirent",
+      "a pris"
+     ],
+     [
+      "naître",
+      "naquit",
+      "naquirent",
+      "est né"
+     ],
+     [
+      "mourir",
+      "mourut",
+      "moururent",
+      "est mort"
+     ],
+     [
+      "vivre",
+      "vécut",
+      "vécurent",
+      "a vécu"
+     ],
+     [
+      "pouvoir / devoir / savoir",
+      "put / dut / sut",
+      "purent / durent / surent",
+      "a pu / dû / su"
+     ],
+     [
+      "dire / écrire",
+      "dit / écrivit",
+      "dirent / écrivirent",
+      "a dit / écrit"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Traps",
+   "body": [
+    "Some forms look like the present: *il dit*, *il finit*, *il lit* are both present and passé simple for some verbs — context decides. *Il vit* can be *voir* (passé simple: he saw) or *vivre* (present: he lives).",
+    "Don't confuse *il fut* (passé simple) with *il fût* (imparfait du subjonctif, with a circumflex), or *il eut* with *il eût*. And don't confuse *il fit* (faire, passé simple) with *il fait* (present)."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Jacques Cartier arriva à Gaspé en juillet 1534.",
+   "en": "Jacques Cartier arrived at Gaspé in July 1534.",
+   "note": "arriva = est arrivé (arriver)"
+  },
+  {
+   "fr": "Samuel de Champlain fonda Québec en 1608.",
+   "en": "Samuel de Champlain founded Quebec City in 1608.",
+   "note": "fonda = a fondé"
+  },
+  {
+   "fr": "La bataille des plaines d'Abraham eut lieu le 13 septembre 1759.",
+   "en": "The Battle of the Plains of Abraham took place on September 13, 1759.",
+   "note": "eut lieu = a eu lieu (avoir)"
+  },
+  {
+   "fr": "Wolfe et Montcalm moururent des suites de leurs blessures.",
+   "en": "Wolfe and Montcalm died of their wounds.",
+   "note": "moururent = sont morts (mourir)"
+  },
+  {
+   "fr": "En 1837, les Patriotes se soulevèrent contre le pouvoir colonial.",
+   "en": "In 1837, the Patriotes rose up against colonial rule.",
+   "note": "se soulevèrent = se sont soulevés"
+  },
+  {
+   "fr": "En 1867, le Québec devint une province du Canada.",
+   "en": "In 1867, Quebec became a province of Canada.",
+   "note": "devint = est devenu (devenir)"
+  },
+  {
+   "fr": "René Lévesque fonda le Parti québécois en 1968.",
+   "en": "René Lévesque founded the Parti Québécois in 1968.",
+   "note": "fonda = a fondé"
+  },
+  {
+   "fr": "La Charte de la langue française fut adoptée en 1977.",
+   "en": "The Charter of the French Language was adopted in 1977.",
+   "note": "fut adoptée = a été adoptée (passive)"
+  },
+  {
+   "fr": "Gabrielle Roy publia Bonheur d'occasion en 1945.",
+   "en": "Gabrielle Roy published The Tin Flute in 1945.",
+   "note": "publia = a publié"
+  },
+  {
+   "fr": "Le roman reçut le prix Femina en 1947.",
+   "en": "The novel won the Prix Femina in 1947.",
+   "note": "reçut = a reçu (recevoir)"
+  },
+  {
+   "fr": "Il faisait nuit quand elle ouvrit la porte.",
+   "en": "It was dark when she opened the door.",
+   "note": "imparfait (setting) + passé simple (event)"
+  },
+  {
+   "fr": "Il prit son manteau et sortit sans un mot.",
+   "en": "He took his coat and went out without a word.",
+   "note": "prit = a pris; sortit = est sorti"
+  },
+  {
+   "fr": "Ils firent le voyage en canot jusqu'à Montréal.",
+   "en": "They made the trip by canoe to Montreal.",
+   "note": "firent = ont fait (faire)"
+  },
+  {
+   "fr": "Quand il vit la neige, il comprit que l'hiver était arrivé.",
+   "en": "When he saw the snow, he understood that winter had come.",
+   "note": "vit = a vu (voir); comprit = a compris"
+  },
+  {
+   "fr": "Elle naquit à Saint-Boniface et vécut longtemps à Québec.",
+   "en": "She was born in Saint-Boniface and lived in Quebec City for a long time.",
+   "note": "naquit = est née; vécut = a vécu"
+  },
+  {
+   "fr": "Nous vînmes, nous vîmes et nous repartîmes.",
+   "en": "We came, we saw, and we left again.",
+   "note": "rare nous forms: vînmes (venir), vîmes (voir)"
+  }
+ ],
+ "quebec": {
+  "intro": "You'll meet the passé simple in Quebec novels (Gabrielle Roy, Anne Hébert, Louis Hémon's Maria Chapdelaine), in history textbooks and on museum plaques in Old Quebec. In speech, Quebecers always use the passé composé: here is each written form as you would say it.",
+  "items": [
+   {
+    "std": "Champlain fonda Québec en 1608.",
+    "qc": "Champlain a fondé Québec en 1608.",
+    "en": "Champlain founded Quebec City in 1608.",
+    "note": "written → spoken"
+   },
+   {
+    "std": "La bataille eut lieu en 1759.",
+    "qc": "La bataille a eu lieu en 1759.",
+    "en": "The battle took place in 1759.",
+    "note": "eut → a eu"
+   },
+   {
+    "std": "Ils vinrent s'installer sur les bords du Saint-Laurent.",
+    "qc": "Y sont venus s'installer au bord du fleuve.",
+    "en": "They came to settle on the shores of the St. Lawrence.",
+    "note": "vinrent → sont venus; y = ils, informal"
+   },
+   {
+    "std": "Elle ouvrit la lettre et pleura.",
+    "qc": "Elle a ouvert la lettre pis elle a pleuré.",
+    "en": "She opened the letter and cried.",
+    "note": "pis = et puis, informal"
+   },
+   {
+    "std": "Il était une fois un bûcheron qui vivait dans les Laurentides. Un jour, il partit…",
+    "qc": "Y'avait un bûcheron qui vivait dans les Laurentides. Un jour, y est parti…",
+    "en": "Once upon a time there was a lumberjack who lived in the Laurentians. One day, he left…",
+    "note": "storytelling in speech keeps the imparfait and uses the passé composé"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Infinitive of 'ils firent'?",
+   "options": [
+    "finir",
+    "faire",
+    "fier",
+    "fuir"
+   ],
+   "a": 1,
+   "why": "Faire → il fit, ils firent."
+  },
+  {
+   "t": "mcq",
+   "q": "Infinitive of 'elle naquit'?",
+   "options": [
+    "nager",
+    "naître",
+    "nier",
+    "nuire"
+   ],
+   "a": 1,
+   "why": "Naître → elle naquit = elle est née."
+  },
+  {
+   "t": "mcq",
+   "q": "Infinitive of 'il vécut'?",
+   "options": [
+    "voir",
+    "vouloir",
+    "vivre",
+    "venir"
+   ],
+   "a": 2,
+   "why": "Vivre → il vécut = il a vécu."
+  },
+  {
+   "t": "mcq",
+   "q": "'Il eut' corresponds to…",
+   "options": [
+    "il a eu",
+    "il est allé",
+    "il était",
+    "il aura"
+   ],
+   "a": 0,
+   "why": "Avoir → eut."
+  },
+  {
+   "t": "mcq",
+   "q": "Which tense is 'ils parlèrent'?",
+   "options": [
+    "imparfait",
+    "passé simple",
+    "futur",
+    "conditionnel"
+   ],
+   "a": 1,
+   "why": "-èrent is the ils ending of -er verbs in the passé simple."
+  },
+  {
+   "t": "mcq",
+   "q": "'Quand il vit le loup…' — vit comes from…",
+   "options": [
+    "vivre (present)",
+    "voir (passé simple)",
+    "venir",
+    "visiter"
+   ],
+   "a": 1,
+   "why": "Context: a single past event → voir, passé simple."
+  },
+  {
+   "t": "fill",
+   "q": "Il arriva à midi. → Il ___ arrivé à midi.",
+   "a": [
+    "est"
+   ],
+   "en": "He arrived at noon.",
+   "why": "Arriver takes être in the passé composé."
+  },
+  {
+   "t": "fill",
+   "q": "Elle prit le train. → Elle a ___ le train.",
+   "a": [
+    "pris"
+   ],
+   "en": "She took the train.",
+   "why": "Prendre → pris."
+  },
+  {
+   "t": "fill",
+   "q": "Ils devinrent célèbres. → Ils sont ___ célèbres.",
+   "a": [
+    "devenus"
+   ],
+   "en": "They became famous.",
+   "why": "Devenir → devenus (agreement with ils)."
+  },
+  {
+   "t": "fill",
+   "q": "Il mourut en 1759. → Il est ___ en 1759.",
+   "a": [
+    "mort"
+   ],
+   "en": "He died in 1759.",
+   "why": "Mourir → mort."
+  },
+  {
+   "t": "build",
+   "en": "Convert: 'Champlain fonda Québec.'",
+   "a": "Champlain a fondé Québec."
+  },
+  {
+   "t": "build",
+   "en": "Convert: 'Elle ouvrit la porte.'",
+   "a": "Elle a ouvert la porte."
+  },
+  {
+   "t": "translate",
+   "en": "Convert to passé composé: 'Ils firent un long voyage.'",
+   "a": [
+    "Ils ont fait un long voyage."
+   ],
+   "why": "Faire → ont fait."
+  },
+  {
+   "t": "translate",
+   "en": "Convert to passé composé: 'La loi fut adoptée en 1977.'",
+   "a": [
+    "La loi a été adoptée en 1977."
+   ],
+   "why": "Fut → a été (passive voice)."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "le passé simple",
+   "en": "simple past (literary)",
+   "g": "m",
+   "ex": "Le passé simple s'emploie à l'écrit."
+  },
+  {
+   "fr": "le récit",
+   "en": "narrative, account",
+   "g": "m",
+   "ex": "Le récit est au passé simple."
+  },
+  {
+   "fr": "le roman",
+   "en": "novel",
+   "g": "m",
+   "ex": "Un roman de Gabrielle Roy."
+  },
+  {
+   "fr": "le conte",
+   "en": "tale, folk tale",
+   "g": "m",
+   "ex": "Les contes commencent par « Il était une fois »."
+  },
+  {
+   "fr": "fonder",
+   "en": "to found",
+   "ex": "Champlain fonda Québec."
+  },
+  {
+   "fr": "avoir lieu",
+   "en": "to take place",
+   "ex": "La bataille eut lieu en 1759."
+  },
+  {
+   "fr": "se soulever",
+   "en": "to rise up, revolt",
+   "ex": "Les Patriotes se soulevèrent."
+  },
+  {
+   "fr": "la blessure",
+   "en": "wound",
+   "g": "f",
+   "ex": "Il mourut de ses blessures."
+  },
+  {
+   "fr": "devenir",
+   "en": "to become",
+   "ex": "Il devint premier ministre."
+  },
+  {
+   "fr": "naître",
+   "en": "to be born",
+   "ex": "Elle naquit au Manitoba."
+  },
+  {
+   "fr": "le bûcheron",
+   "en": "lumberjack",
+   "g": "m",
+   "ex": "Le bûcheron partit dans le bois."
+  },
+  {
+   "fr": "le canot",
+   "en": "canoe",
+   "g": "m",
+   "ex": "Ils voyagèrent en canot.",
+   "qc": true
+  },
+  {
+   "fr": "la Conquête",
+   "en": "the (British) Conquest of 1759–1760",
+   "g": "f",
+   "ex": "La Conquête changea l'histoire du Québec.",
+   "qc": true
+  },
+  {
+   "fr": "les Patriotes",
+   "en": "the Patriotes (1837–1838 rebels)",
+   "g": "m",
+   "ex": "On honore les Patriotes en mai.",
+   "qc": true
+  },
+  {
+   "fr": "il était une fois",
+   "en": "once upon a time",
+   "ex": "Il était une fois une princesse…"
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "il parla / ils parlèrent",
+    "tip": "[par-LA] / [par-LÈR]."
+   },
+   {
+    "fr": "il fut / il fût",
+    "tip": "Both [FU]: you only see the difference in writing."
+   },
+   {
+    "fr": "il eut",
+    "tip": "[il U]: eu is pronounced [u] in avoir."
+   },
+   {
+    "fr": "ils vinrent",
+    "tip": "[VINR]: nasal + r."
+   },
+   {
+    "fr": "elle naquit",
+    "tip": "[na-KI]."
+   },
+   {
+    "fr": "nous fûmes",
+    "tip": "[FUM]; the circumflex doesn't change the sound."
+   }
+  ],
+  "title": "Au musée de la Civilisation",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Lis le panneau : « En 1608, Champlain fonda un poste de traite au pied du cap Diamant. »",
+    "en": "Read the sign: 'In 1608, Champlain founded a trading post at the foot of Cap Diamant.'"
+   },
+   {
+    "s": "B",
+    "fr": "Donc il a fondé un poste de traite. Pourquoi ils écrivent « fonda »?",
+    "en": "So he founded a trading post. Why do they write 'fonda'?"
+   },
+   {
+    "s": "A",
+    "fr": "C'est le passé simple, le temps des livres d'histoire. On ne le dit jamais.",
+    "en": "It's the passé simple, the tense of history books. We never say it."
+   },
+   {
+    "s": "B",
+    "fr": "« Le premier hiver fut terrible : plusieurs colons moururent du scorbut. »",
+    "en": "'The first winter was terrible: several settlers died of scurvy.'"
+   },
+   {
+    "s": "A",
+    "fr": "Fut, c'est « a été ». Moururent, c'est « sont morts ».",
+    "en": "Fut means 'a été'. Moururent means 'sont morts'."
+   },
+   {
+    "s": "B",
+    "fr": "Ouf. « Au printemps, les survivants reprirent courage. »",
+    "en": "Phew. 'In the spring, the survivors regained their courage.'"
+   },
+   {
+    "s": "A",
+    "fr": "Reprirent, de reprendre : « ont repris courage ». Tu vois, tu t'y fais!",
+    "en": "Reprirent, from reprendre: 'ont repris courage'. See, you're getting used to it!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What did Champlain found in 1608?",
+    "options": [
+     "A church",
+     "A trading post",
+     "A school"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What killed several settlers?",
+    "options": [
+     "The cold",
+     "Scurvy",
+     "A battle"
+    ],
+    "a": 1
+   },
+   {
+    "q": "'Reprirent' is the passé simple of…",
+    "options": [
+     "répondre",
+     "reprendre",
+     "repartir"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Read the history examples aloud, converting each verb to the passé composé as you read.",
+   "model": "Jacques Cartier est arrivé à Gaspé en 1534. Champlain a fondé Québec en 1608. La bataille des plaines d'Abraham a eu lieu en 1759. En 1867, le Québec est devenu une province du Canada."
+  },
+  {
+   "prompt": "Retell the start of a fairy tale you know in spoken French (imparfait + passé composé).",
+   "model": "Il était une fois une petite fille qui habitait près de la forêt. Un jour, sa mère lui a demandé d'apporter un panier à sa grand-mère. En chemin, elle a rencontré un loup…"
+  },
+  {
+   "prompt": "Name the infinitive of each form: fit, vit, vécut, naquit, put, sut, vint, eut.",
+   "model": "faire, voir, vivre, naître, pouvoir, savoir, venir, avoir."
+  }
+ ],
+ "write": {
+  "prompt": "Rewrite this literary paragraph in the passé composé (keep the imparfait): 'Il neigeait depuis l'aube. Marie sortit, prit la route du village et marcha longtemps. Quand elle arriva, elle vit que l'église était fermée. Elle s'assit sur les marches et attendit.'",
+  "model": "Il neigeait depuis l'aube. Marie est sortie, a pris la route du village et a marché longtemps. Quand elle est arrivée, elle a vu que l'église était fermée. Elle s'est assise sur les marches et a attendu."
+ },
+ "quiz": [
+  {
+   "q": "Where is the passé simple used?",
+   "options": [
+    "Everyday conversation",
+    "Literary and historical writing",
+    "Text messages",
+    "Only in Quebec"
+   ],
+   "a": 1,
+   "why": "It's a written narrative tense."
+  },
+  {
+   "q": "Its meaning is closest to…",
+   "options": [
+    "the imparfait",
+    "the passé composé",
+    "the futur",
+    "the conditionnel"
+   ],
+   "a": 1,
+   "why": "A completed past action, like the passé composé."
+  },
+  {
+   "q": "'Ils allèrent' = ?",
+   "options": [
+    "ils allaient",
+    "ils sont allés",
+    "ils iront",
+    "ils iraient"
+   ],
+   "a": 1,
+   "why": "Aller → allèrent."
+  },
+  {
+   "q": "'Elle sut' comes from…",
+   "options": [
+    "sortir",
+    "savoir",
+    "suivre",
+    "sucer"
+   ],
+   "a": 1,
+   "why": "Savoir → sut (participle su)."
+  },
+  {
+   "q": "'Il fût' (with a circumflex) is…",
+   "options": [
+    "passé simple",
+    "imparfait du subjonctif",
+    "present",
+    "a typo always"
+   ],
+   "a": 1,
+   "why": "Fut = passé simple; fût = imparfait du subjonctif."
+  },
+  {
+   "q": "'Il fit froid toute la nuit' means…",
+   "options": [
+    "It is cold all night.",
+    "It was cold all night.",
+    "He made cold all night.",
+    "It will be cold."
+   ],
+   "a": 1,
+   "why": "Fit = a fait; il a fait froid."
+  },
+  {
+   "q": "Which ending signals the ils form of an -ir verb?",
+   "options": [
+    "-èrent",
+    "-irent",
+    "-aient",
+    "-ont"
+   ],
+   "a": 1,
+   "why": "Ils finirent, ils partirent."
+  },
+  {
+   "q": "In a novel, which tense usually goes with the passé simple for background?",
+   "options": [
+    "passé composé",
+    "imparfait",
+    "futur",
+    "subjonctif"
+   ],
+   "a": 1,
+   "why": "Imparfait = setting; passé simple = events."
+  }
+ ]
+}

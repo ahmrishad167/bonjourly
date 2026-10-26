@@ -1,0 +1,672 @@
+{
+ "w": 13,
+ "title": "Yes/no questions: intonation, est-ce que, inversion",
+ "goal": "By the end of this lesson you can ask yes/no questions in three registers (intonation, est-ce que, inversion), answer with oui, non and si, and understand the Quebec question particle -tu: Tu viens-tu?",
+ "learn": [
+  {
+   "h": "1. Intonation: just raise your voice",
+   "body": [
+    "The simplest and most common way to ask a yes/no question in speech is to take a normal sentence and make your voice rise at the end: *Tu es prêt?* *Vous parlez anglais?* *Il fait froid?*",
+    "The word order does not change at all. In writing, add a question mark (in Quebec usage, no space before it)."
+   ],
+   "tip": "Statement: Tu es prêt. ↘  Question: Tu es prêt? ↗"
+  },
+  {
+   "h": "2. Est-ce que: the all-purpose question",
+   "body": [
+    "Put *est-ce que* (literally 'is it that') at the start of any statement to make it a question. Before a vowel, it becomes *est-ce qu'*: *Est-ce qu'il travaille?*",
+    "*Est-ce que* is neutral: fine in conversation, at work and in writing. It sounds like 'ess-kuh'."
+   ],
+   "table": {
+    "head": [
+     "Statement",
+     "Question"
+    ],
+    "rows": [
+     [
+      "Tu parles français.",
+      "Est-ce que tu parles français?"
+     ],
+     [
+      "Vous avez un chien.",
+      "Est-ce que vous avez un chien?"
+     ],
+     [
+      "Il est là.",
+      "Est-ce qu'il est là?"
+     ],
+     [
+      "On peut payer par carte.",
+      "Est-ce qu'on peut payer par carte?"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "3. Inversion: formal",
+   "body": [
+    "In formal speech and writing, swap the subject pronoun and the verb and join them with a hyphen: *Vous parlez* → *Parlez-vous?* *Tu es* → *Es-tu?*",
+    "If the verb ends in a vowel and the pronoun is *il, elle* or *on*, add *-t-* for sound: *A-t-il un chien? Parle-t-elle français?* With a noun subject, keep the noun and add a pronoun: *Marie est-elle là?* Inversion with *je* is rare; use *est-ce que je…?* instead."
+   ],
+   "table": {
+    "head": [
+     "Statement",
+     "Inversion"
+    ],
+    "rows": [
+     [
+      "Vous êtes prêts.",
+      "Êtes-vous prêts?"
+     ],
+     [
+      "Tu veux un café.",
+      "Veux-tu un café?"
+     ],
+     [
+      "Il a un chien.",
+      "A-t-il un chien?"
+     ],
+     [
+      "Elle parle français.",
+      "Parle-t-elle français?"
+     ],
+     [
+      "Marc est là.",
+      "Marc est-il là?"
+     ]
+    ]
+   },
+   "tip": "Fixed polite phrases use inversion: Comment allez-vous? Pouvez-vous répéter?"
+  },
+  {
+   "h": "Answering: oui, non, si",
+   "body": [
+    "Answer *oui* (yes) or *non* (no). But if the question is negative and you want to say 'yes, on the contrary', use *si*: *Tu n'as pas faim? — Si, j'ai faim!* (You're not hungry? — Yes, I am!)",
+    "Soften or strengthen your answer: *oui, bien sûr* (yes, of course), *peut-être* (maybe), *non, merci*."
+   ]
+  },
+  {
+   "h": "Quebec: the -tu question particle",
+   "body": [
+    "Casual Quebec French has a special yes/no marker: *-tu* placed right after the verb. *Tu viens-tu?* = Are you coming? Here *-tu* is not the pronoun 'you'; it just means 'this is a question'. It works with every subject: *C'est-tu loin?* (Is it far?), *Il vient-tu?* (Is he coming?), *Ça se peut-tu?* (Is that possible?).",
+    "It is informal and spoken only, but extremely frequent. Understand it; you can use it with friends once you are comfortable. In writing, use *est-ce que* or intonation."
+   ],
+   "table": {
+    "head": [
+     "Standard",
+     "Quebec spoken"
+    ],
+    "rows": [
+     [
+      "Tu viens?",
+      "Tu viens-tu?"
+     ],
+     [
+      "C'est loin?",
+      "C'est-tu loin?"
+     ],
+     [
+      "Il est prêt?",
+      "Y'est-tu prêt?"
+     ],
+     [
+      "Vous voulez un café?",
+      "Vous voulez-tu un café?"
+     ]
+    ]
+   }
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Tu es prêt?",
+   "en": "Are you ready?",
+   "note": "intonation only"
+  },
+  {
+   "fr": "Vous parlez anglais?",
+   "en": "Do you speak English?",
+   "note": "intonation; very common"
+  },
+  {
+   "fr": "Est-ce que tu aimes le hockey?",
+   "en": "Do you like hockey?",
+   "note": "est-ce que + statement"
+  },
+  {
+   "fr": "Est-ce qu'il travaille aujourd'hui?",
+   "en": "Is he working today?",
+   "note": "que → qu' before a vowel"
+  },
+  {
+   "fr": "Est-ce qu'on peut payer par carte?",
+   "en": "Can we pay by card?"
+  },
+  {
+   "fr": "Parlez-vous français?",
+   "en": "Do you speak French?",
+   "note": "inversion: formal"
+  },
+  {
+   "fr": "Veux-tu un café?",
+   "en": "Do you want a coffee?",
+   "note": "inversion with tu"
+  },
+  {
+   "fr": "A-t-il un chien?",
+   "en": "Does he have a dog?",
+   "note": "-t- between two vowels"
+  },
+  {
+   "fr": "Marie est-elle à la maison?",
+   "en": "Is Marie at home?",
+   "note": "noun + inverted pronoun"
+  },
+  {
+   "fr": "Pouvez-vous répéter, s'il vous plaît?",
+   "en": "Can you repeat, please?",
+   "note": "fixed polite phrase"
+  },
+  {
+   "fr": "Tu n'as pas faim? — Si!",
+   "en": "Aren't you hungry? — Yes, I am!",
+   "note": "si contradicts a negative question"
+  },
+  {
+   "fr": "Oui, bien sûr!",
+   "en": "Yes, of course!"
+  },
+  {
+   "fr": "Tu viens-tu au party?",
+   "en": "Are you coming to the party?",
+   "note": "Quebec casual: -tu marks the question"
+  },
+  {
+   "fr": "C'est-tu loin?",
+   "en": "Is it far?",
+   "note": "Quebec casual: works with any subject"
+  },
+  {
+   "fr": "Ça se peut-tu?",
+   "en": "Is that possible? / Can you believe it?",
+   "note": "Quebec casual, often as surprise"
+  }
+ ],
+ "quebec": {
+  "intro": "Casual Quebec French marks yes/no questions with -tu after the verb: Tu viens-tu? This -tu isn't 'you'; it's a question particle that works with any subject, as in C'est-tu loin?",
+  "items": [
+   {
+    "std": "Tu viens?",
+    "qc": "Tu viens-tu?",
+    "en": "Are you coming?",
+    "note": "informal spoken"
+   },
+   {
+    "std": "Est-ce que c'est loin?",
+    "qc": "C'est-tu loin?",
+    "en": "Is it far?",
+    "note": "informal; the particle works with c'est"
+   },
+   {
+    "std": "Est-ce qu'il est prêt?",
+    "qc": "Y'est-tu prêt?",
+    "en": "Is he ready?",
+    "note": "informal; il → y"
+   },
+   {
+    "std": "Est-ce que c'est possible?",
+    "qc": "Ça se peut-tu?",
+    "en": "Is that possible?",
+    "note": "informal; also used for surprise"
+   },
+   {
+    "std": "Voulez-vous un café?",
+    "qc": "Vous voulez-tu un café?",
+    "en": "Do you want a coffee?",
+    "note": "informal; -tu even with vous"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Which question is the most formal?",
+   "options": [
+    "Tu parles français?",
+    "Est-ce que tu parles français?",
+    "Parles-tu français?",
+    "Tu parles-tu français?"
+   ],
+   "a": 2,
+   "why": "Inversion is the formal register."
+  },
+  {
+   "t": "mcq",
+   "q": "Choose the correct inversion of 'Il a un chien.'",
+   "options": [
+    "A-il un chien?",
+    "A-t-il un chien?",
+    "Il a-t-il un chien?",
+    "Est-il a un chien?"
+   ],
+   "a": 1,
+   "why": "Add -t- between two vowels."
+  },
+  {
+   "t": "mcq",
+   "q": "'Tu n'aimes pas le café?' — You DO like it. You answer…",
+   "options": [
+    "Oui!",
+    "Non!",
+    "Si!",
+    "Pas!"
+   ],
+   "a": 2,
+   "why": "Si contradicts a negative question."
+  },
+  {
+   "t": "mcq",
+   "q": "In 'Tu viens-tu?', the second 'tu' means…",
+   "options": [
+    "you",
+    "too",
+    "it's a question",
+    "two"
+   ],
+   "a": 2,
+   "why": "It's the Quebec question particle."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is the casual Quebec version of 'Est-ce que c'est loin?'",
+   "options": [
+    "C'est-tu loin?",
+    "Est-tu loin?",
+    "Loin-tu c'est?",
+    "Tu c'est loin?"
+   ],
+   "a": 0,
+   "why": "-tu goes right after the verb (est)."
+  },
+  {
+   "t": "fill",
+   "q": "___ tu aimes le hockey? (is it that)",
+   "a": [
+    "Est-ce que"
+   ],
+   "en": "Do you like hockey?",
+   "why": "est-ce que + statement."
+  },
+  {
+   "t": "fill",
+   "q": "Est-ce ___ il travaille? (that)",
+   "a": [
+    "qu'"
+   ],
+   "en": "Is he working?",
+   "why": "que → qu' before a vowel."
+  },
+  {
+   "t": "fill",
+   "q": "Parle-___-elle français? (sound link)",
+   "a": [
+    "t"
+   ],
+   "en": "Does she speak French?",
+   "why": "-t- between two vowels in inversion."
+  },
+  {
+   "t": "fill",
+   "q": "___-vous répéter, s'il vous plaît? (can)",
+   "a": [
+    "Pouvez"
+   ],
+   "en": "Can you repeat, please?",
+   "why": "Inversion of vous pouvez."
+  },
+  {
+   "t": "build",
+   "en": "Do you speak French?",
+   "a": "Parlez-vous français?"
+  },
+  {
+   "t": "build",
+   "en": "Can we pay by card?",
+   "a": "Est-ce qu'on peut payer par carte?"
+  },
+  {
+   "t": "build",
+   "en": "Is Marie at home?",
+   "a": "Marie est-elle à la maison?"
+  },
+  {
+   "t": "translate",
+   "en": "Are you ready?",
+   "a": [
+    "Tu es prêt?",
+    "Tu es prête?",
+    "Vous êtes prêt?",
+    "Vous êtes prête?",
+    "Vous êtes prêts?",
+    "Vous êtes prêtes?",
+    "Es-tu prêt?",
+    "Es-tu prête?",
+    "Êtes-vous prêt?",
+    "Êtes-vous prête?",
+    "Êtes-vous prêts?",
+    "Est-ce que tu es prêt?",
+    "Est-ce que tu es prête?",
+    "Est-ce que vous êtes prêt?",
+    "Est-ce que vous êtes prêts?",
+    "T'es-tu prêt?",
+    "T'es prêt?"
+   ],
+   "why": "Any of the three structures works."
+  },
+  {
+   "t": "translate",
+   "en": "Is it far?",
+   "a": [
+    "C'est loin?",
+    "Est-ce que c'est loin?",
+    "Est-ce loin?",
+    "C'est-tu loin?"
+   ],
+   "why": "Intonation is the most natural."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "est-ce que",
+   "en": "question marker ('is it that')",
+   "ex": "Est-ce que tu viens?"
+  },
+  {
+   "fr": "oui",
+   "en": "yes",
+   "ex": "Oui, merci."
+  },
+  {
+   "fr": "non",
+   "en": "no",
+   "ex": "Non, pas aujourd'hui."
+  },
+  {
+   "fr": "si",
+   "en": "yes (to a negative question)",
+   "ex": "Tu ne viens pas? — Si!"
+  },
+  {
+   "fr": "bien sûr",
+   "en": "of course",
+   "ex": "Oui, bien sûr!"
+  },
+  {
+   "fr": "peut-être",
+   "en": "maybe",
+   "ex": "Peut-être demain."
+  },
+  {
+   "fr": "répéter",
+   "en": "to repeat",
+   "ex": "Pouvez-vous répéter?"
+  },
+  {
+   "fr": "loin",
+   "en": "far",
+   "ex": "C'est loin?"
+  },
+  {
+   "fr": "près",
+   "en": "near, close",
+   "ex": "C'est près d'ici."
+  },
+  {
+   "fr": "prêt / prête",
+   "en": "ready",
+   "ex": "Tu es prête?"
+  },
+  {
+   "fr": "possible",
+   "en": "possible",
+   "ex": "C'est possible?"
+  },
+  {
+   "fr": "Ça se peut-tu?",
+   "en": "Is that possible? / No way!",
+   "ex": "Il neige en mai? Ça se peut-tu?",
+   "qc": true
+  },
+  {
+   "fr": "-tu (question particle)",
+   "en": "spoken yes/no question marker",
+   "ex": "Tu viens-tu?",
+   "qc": true
+  },
+  {
+   "fr": "le hockey",
+   "en": "hockey",
+   "g": "m",
+   "ex": "Tu aimes le hockey?"
+  },
+  {
+   "fr": "d'accord",
+   "en": "OK, agreed",
+   "ex": "D'accord, on y va."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "Tu es prêt?",
+    "tip": "Voice rises on the last syllable: prêt ↗."
+   },
+   {
+    "fr": "est-ce que",
+    "tip": "ESS-kuh: two syllables only."
+   },
+   {
+    "fr": "est-ce qu'il",
+    "tip": "ess-KEEL."
+   },
+   {
+    "fr": "a-t-il",
+    "tip": "a-TEEL."
+   },
+   {
+    "fr": "Tu viens-tu?",
+    "tip": "Quebec: tsu vyan-TSU ↗; the particle is unstressed but the voice rises."
+   },
+   {
+    "fr": "C'est-tu",
+    "tip": "Quebec: say-TSU, like one word."
+   }
+  ],
+  "title": "Tu viens-tu?",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Allô! Y'a un party chez Marc samedi. Tu viens-tu?",
+    "en": "Hi! There's a party at Marc's on Saturday. Are you coming?"
+   },
+   {
+    "s": "B",
+    "fr": "Peut-être. C'est-tu loin?",
+    "en": "Maybe. Is it far?"
+   },
+   {
+    "s": "A",
+    "fr": "Non, c'est près du métro.",
+    "en": "No, it's near the metro."
+   },
+   {
+    "s": "B",
+    "fr": "Est-ce que je peux venir avec ma sœur?",
+    "en": "Can I come with my sister?"
+   },
+   {
+    "s": "A",
+    "fr": "Oui, bien sûr! Elle aime pas la musique forte?",
+    "en": "Yes, of course! Doesn't she like loud music?"
+   },
+   {
+    "s": "B",
+    "fr": "Si, elle adore ça!",
+    "en": "Yes, she loves it!"
+   },
+   {
+    "s": "A",
+    "fr": "Parfait! À samedi!",
+    "en": "Perfect! See you Saturday!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Where is the party?",
+    "options": [
+     "At A's place",
+     "At Marc's place",
+     "At a bar"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Is it far?",
+    "options": [
+     "Yes, very far",
+     "No, it's near the metro",
+     "They don't know"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Does B's sister like loud music?",
+    "options": [
+     "Yes",
+     "No",
+     "A little"
+    ],
+    "a": 0
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Ask 'Do you like coffee?' in three ways: intonation, est-ce que, inversion.",
+   "model": "Tu aimes le café? / Est-ce que tu aimes le café? / Aimes-tu le café?"
+  },
+  {
+   "prompt": "Invite a friend to a party using the Quebec -tu question.",
+   "model": "Y'a un party samedi. Tu viens-tu?"
+  },
+  {
+   "prompt": "Answer the negative question 'Tu n'aimes pas le hockey?' saying that you do like it.",
+   "model": "Si, j'aime le hockey!"
+  }
+ ],
+ "write": {
+  "prompt": "Write 5 polite questions you could ask a new coworker, using est-ce que or inversion.",
+  "model": "Est-ce que vous habitez à Montréal? Parlez-vous anglais? Est-ce que vous aimez le hockey? Avez-vous des enfants? Voulez-vous un café?"
+ },
+ "quiz": [
+  {
+   "q": "The most common way to ask a question in everyday speech is…",
+   "options": [
+    "inversion",
+    "rising intonation",
+    "-t-",
+    "si"
+   ],
+   "a": 1,
+   "why": "Just raise your voice at the end."
+  },
+  {
+   "q": "'Est-ce que' can be used…",
+   "options": [
+    "only in writing",
+    "in almost any situation",
+    "only in Quebec",
+    "only with tu"
+   ],
+   "a": 1,
+   "why": "It's neutral and works everywhere."
+  },
+  {
+   "q": "Which inversion is correct?",
+   "options": [
+    "Parle-elle français?",
+    "Parle-t-elle français?",
+    "Elle parle-t-elle français?",
+    "Parle-t-elle-t-elle français?"
+   ],
+   "a": 1,
+   "why": "-t- between the vowels e and e."
+  },
+  {
+   "q": "How do you form a question with inversion and a noun subject 'Paul'?",
+   "options": [
+    "Est Paul là?",
+    "Paul est-il là?",
+    "Est-il Paul là?",
+    "Paul-est là?"
+   ],
+   "a": 1,
+   "why": "Keep the noun, invert with a pronoun."
+  },
+  {
+   "q": "'Si' is used to answer…",
+   "options": [
+    "any question",
+    "a negative question with 'yes'",
+    "a question with 'no'",
+    "only in Quebec"
+   ],
+   "a": 1,
+   "why": "Tu ne viens pas? — Si!"
+  },
+  {
+   "q": "'Pouvez-vous répéter?' means…",
+   "options": [
+    "Can you repeat?",
+    "Do you want to repeat?",
+    "Are you repeating?",
+    "Repeat it!"
+   ],
+   "a": 0,
+   "why": "Inversion of vous pouvez."
+  },
+  {
+   "q": "The Quebec particle -tu goes…",
+   "options": [
+    "at the start of the sentence",
+    "right after the verb",
+    "at the end of any sentence",
+    "before the subject"
+   ],
+   "a": 1,
+   "why": "Tu viens-tu? C'est-tu loin?"
+  },
+  {
+   "q": "Is 'Il vient-tu?' possible in Quebec speech?",
+   "options": [
+    "Yes, -tu works with any subject",
+    "No, only with tu",
+    "Only in writing",
+    "Only with vous"
+   ],
+   "a": 0,
+   "why": "The particle isn't the pronoun; it marks a question."
+  },
+  {
+   "q": "Where should you avoid the -tu particle?",
+   "options": [
+    "With friends",
+    "In a formal e-mail",
+    "At a party",
+    "With family"
+   ],
+   "a": 1,
+   "why": "It's informal and spoken only."
+  }
+ ]
+}

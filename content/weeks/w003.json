@@ -1,0 +1,725 @@
+{
+ "w": 3,
+ "title": "Accent marks",
+ "goal": "By the end of this lesson you can name the five French accent marks, pronounce é, è and ê correctly, use accents that change meaning (à / a, où / ou), and hear the Quebec difference between pâte and patte.",
+ "learn": [
+  {
+   "h": "Five marks to know",
+   "body": [
+    "French accents are not decoration: they are part of the spelling, and a missing accent is a spelling mistake. Some change the sound, some only change the meaning.",
+    "The five marks are the *accent aigu* (é), the *accent grave* (è, à, ù), the *accent circonflexe* (â, ê, î, ô, û), the *cédille* (ç) and the *tréma* (ë, ï, ü)."
+   ],
+   "table": {
+    "head": [
+     "Mark",
+     "Name",
+     "On",
+     "Examples"
+    ],
+    "rows": [
+     [
+      "´",
+      "accent aigu",
+      "e only",
+      "café, été, Québec"
+     ],
+     [
+      "`",
+      "accent grave",
+      "e, a, u",
+      "mère, très, à, où"
+     ],
+     [
+      "^",
+      "accent circonflexe",
+      "a, e, i, o, u",
+      "pâte, fête, île, hôtel, sûr"
+     ],
+     [
+      "¸",
+      "cédille",
+      "c only",
+      "ça, français, garçon"
+     ],
+     [
+      "¨",
+      "tréma",
+      "e, i, u",
+      "Noël, naïf, maïs"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "é, è, ê: three ways to write two sounds",
+   "body": [
+    "*é* (accent aigu) is a closed sound, like 'ay' in 'say' but short and without gliding: *café*, *été*, *bébé*. The ending *-er* of verbs and *-ez* also make this sound: *parler*, *vous parlez*.",
+    "*è* and *ê* are open sounds, like 'e' in 'bed': *mère*, *très*, *fête*, *forêt*. A plain *e* with no accent is usually 'uh' (*le*, *petit*) or silent at the end of a word (*table*)."
+   ],
+   "table": {
+    "head": [
+     "Spelling",
+     "Sound",
+     "Examples"
+    ],
+    "rows": [
+     [
+      "é",
+      "ay (short)",
+      "été, café, aimé"
+     ],
+     [
+      "è",
+      "eh",
+      "mère, père, très"
+     ],
+     [
+      "ê",
+      "eh (often long)",
+      "fête, tête, forêt"
+     ],
+     [
+      "e",
+      "uh / silent",
+      "le, petit, table"
+     ]
+    ]
+   },
+   "tip": "The accent aigu 'points up' to a closed, tight sound; the grave 'points down' to an open one."
+  },
+  {
+   "h": "Accents that change the meaning",
+   "body": [
+    "On *a* and *u*, the accent grave does not change the sound. It tells you which word it is: *a* (has) vs *à* (to, at), *ou* (or) vs *où* (where), *la* (the) vs *là* (there).",
+    "The circumflex can also separate words: *sur* (on) vs *sûr* (sure), *du* (some) vs *dû* (owed). It often replaces an old s that English still has: *forêt* (forest), *hôpital* (hospital), *fête* (feast)."
+   ],
+   "table": {
+    "head": [
+     "Without",
+     "With accent"
+    ],
+    "rows": [
+     [
+      "a = has",
+      "à = to, at"
+     ],
+     [
+      "ou = or",
+      "où = where"
+     ],
+     [
+      "la = the",
+      "là = there"
+     ],
+     [
+      "sur = on",
+      "sûr = sure"
+     ]
+    ]
+   },
+   "tip": "Circumflex + English s: forêt/forest, île/isle, hôtel/hostel, pâte/paste."
+  },
+  {
+   "h": "Cédille and tréma",
+   "body": [
+    "Before *a, o, u*, a plain *c* is hard (k): *café*, *comment*. The cédille makes it soft (s): *ça*, *garçon*, *reçu*. You never need it before *e* or *i*, where c is already soft (*merci*, *ici*).",
+    "The tréma tells you to pronounce two vowels separately: *naïf* is na-eef, not 'nef'; *Noël* is no-el. *maïs* (corn) is ma-eess, while *mais* (but) is 'meh'."
+   ]
+  },
+  {
+   "h": "Quebec: â and ê stay long",
+   "body": [
+    "In France today, *pâte* (dough, paste) and *patte* (paw) usually sound the same. In Quebec they are clearly different: *pâte* has a long, deep 'aw' sound [pawt], *patte* a short, bright 'a' [pat].",
+    "The same goes for *ê*: *fête* (party) is long and can glide to 'faète', while *faite* (done, feminine) is short. Quebecers really use this length to tell words apart, so listen for it."
+   ],
+   "table": {
+    "head": [
+     "Long (Quebec)",
+     "Short"
+    ],
+    "rows": [
+     [
+      "pâte [pawt]",
+      "patte [pat]"
+     ],
+     [
+      "tâche (task)",
+      "tache (stain)"
+     ],
+     [
+      "mâle (male)",
+      "mal (bad)"
+     ],
+     [
+      "fête (party)",
+      "faite (done)"
+     ],
+     [
+      "maître (master)",
+      "mettre (to put)"
+     ]
+    ]
+   }
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Un café, s'il vous plaît.",
+   "en": "A coffee, please.",
+   "note": "é = closed 'ay'"
+  },
+  {
+   "fr": "Ma mère est très gentille.",
+   "en": "My mother is very kind.",
+   "note": "è in mère and très = open 'eh'"
+  },
+  {
+   "fr": "C'est l'été à Québec.",
+   "en": "It's summer in Quebec City.",
+   "note": "two é's in été; Québec has é"
+  },
+  {
+   "fr": "Je suis à Montréal.",
+   "en": "I'm in Montreal.",
+   "note": "à = in/at; without the accent, a means 'has'"
+  },
+  {
+   "fr": "Il a un chat.",
+   "en": "He has a cat.",
+   "note": "a (no accent) = has"
+  },
+  {
+   "fr": "Où est l'hôtel?",
+   "en": "Where is the hotel?",
+   "note": "où = where; hôtel has a circumflex (old s: hostel)"
+  },
+  {
+   "fr": "Du thé ou du café?",
+   "en": "Tea or coffee?",
+   "note": "ou (no accent) = or"
+  },
+  {
+   "fr": "Le chat est là.",
+   "en": "The cat is there.",
+   "note": "là = there; la = the"
+  },
+  {
+   "fr": "Ça va bien, merci.",
+   "en": "I'm fine, thanks.",
+   "note": "ç = s sound before a"
+  },
+  {
+   "fr": "Le garçon parle français.",
+   "en": "The boy speaks French.",
+   "note": "ç in garçon and français"
+  },
+  {
+   "fr": "Joyeux Noël!",
+   "en": "Merry Christmas!",
+   "note": "tréma: no-el, two syllables"
+  },
+  {
+   "fr": "C'est une belle fête.",
+   "en": "It's a nice party.",
+   "note": "ê; in Quebec, often long: 'faète'"
+  },
+  {
+   "fr": "La pâte est prête.",
+   "en": "The dough is ready.",
+   "note": "Quebec: long, deep â in pâte"
+  },
+  {
+   "fr": "Le chien a mal à la patte.",
+   "en": "The dog has a sore paw.",
+   "note": "short a in patte; a = has, à = at"
+  },
+  {
+   "fr": "Tu es sûr?",
+   "en": "Are you sure?",
+   "note": "sûr = sure; sur = on"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebec French keeps long vowels that France has mostly lost. A circumflex often marks a long vowel: pâte sounds like 'pawt', clearly different from patte.",
+  "items": [
+   {
+    "std": "la pâte / la patte (same sound in Paris)",
+    "qc": "la pâte [pawt] / la patte [pat]",
+    "en": "dough / paw",
+    "note": "the circumflex â is long and deep in Quebec"
+   },
+   {
+    "std": "un gâteau",
+    "qc": "un gâteau [gaw-to]",
+    "en": "a cake",
+    "note": "same long, deep â; pronunciation only"
+   },
+   {
+    "std": "Il est en retard.",
+    "qc": "Y'é en r'tard [r'tawr].",
+    "en": "He's late.",
+    "note": "informal: a before a final r is also long and deep in Quebec"
+   },
+   {
+    "std": "C'est une fête.",
+    "qc": "C't'une faète.",
+    "en": "It's a party.",
+    "note": "informal: long ê glides, c'est une → c't'une"
+   },
+   {
+    "std": "J'ai une tâche.",
+    "qc": "J'ai une tâche [tawsh].",
+    "en": "I have a task.",
+    "note": "vs une tache [tash], a stain"
+   },
+   {
+    "std": "Le maître",
+    "qc": "Le maître [maètr']",
+    "en": "The master",
+    "note": "long ê/î: not the same as mettre"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Which accent can ONLY go on the letter e?",
+   "options": [
+    "accent grave",
+    "accent aigu",
+    "accent circonflexe",
+    "tréma"
+   ],
+   "a": 1,
+   "why": "The accent aigu appears only on é."
+  },
+  {
+   "t": "mcq",
+   "q": "How is 'é' in 'café' pronounced?",
+   "options": [
+    "like e in 'bed'",
+    "like 'ay' (short)",
+    "uh",
+    "silent"
+   ],
+   "a": 1,
+   "why": "é is the closed 'ay' sound."
+  },
+  {
+   "t": "mcq",
+   "q": "What does 'où' mean?",
+   "options": [
+    "or",
+    "where",
+    "there",
+    "has"
+   ],
+   "a": 1,
+   "why": "où = where; ou = or."
+  },
+  {
+   "t": "mcq",
+   "q": "Why does 'garçon' need a cédille?",
+   "options": [
+    "To make the c sound like s before o",
+    "To make the c sound like k",
+    "Because it is masculine",
+    "It doesn't need one"
+   ],
+   "a": 0,
+   "why": "Before a, o, u, c is hard unless it has a cédille."
+  },
+  {
+   "t": "mcq",
+   "q": "In Quebec, which pair sounds clearly different?",
+   "options": [
+    "la / là",
+    "pâte / patte",
+    "ou / où",
+    "a / à"
+   ],
+   "a": 1,
+   "why": "Quebec keeps the long â of pâte. The other pairs sound identical everywhere."
+  },
+  {
+   "t": "fill",
+   "q": "Je suis ___ Montréal. (in)",
+   "a": [
+    "à"
+   ],
+   "en": "I'm in Montreal.",
+   "why": "à (with accent) = in, at, to."
+  },
+  {
+   "t": "fill",
+   "q": "Il ___ un chat. (has)",
+   "a": [
+    "a"
+   ],
+   "en": "He has a cat.",
+   "why": "a (no accent) is the verb 'has'."
+  },
+  {
+   "t": "fill",
+   "q": "Du thé ___ du café? (or)",
+   "a": [
+    "ou"
+   ],
+   "en": "Tea or coffee?",
+   "why": "ou without an accent = or."
+  },
+  {
+   "t": "fill",
+   "q": "C'est l'___. (summer)",
+   "a": [
+    "été"
+   ],
+   "en": "It's summer.",
+   "why": "été has two accents aigus."
+  },
+  {
+   "t": "build",
+   "en": "Where is the hotel?",
+   "a": "Où est l'hôtel?"
+  },
+  {
+   "t": "build",
+   "en": "The boy speaks French.",
+   "a": "Le garçon parle français."
+  },
+  {
+   "t": "translate",
+   "en": "Are you sure?",
+   "a": [
+    "Tu es sûr?",
+    "Tu es sûre?",
+    "Vous êtes sûr?",
+    "Vous êtes sûre?",
+    "Vous êtes sûrs?",
+    "Vous êtes sûres?",
+    "Es-tu sûr?",
+    "Es-tu sûre?",
+    "Êtes-vous sûr?",
+    "Êtes-vous sûre?"
+   ],
+   "why": "sûr needs the circumflex; add -e for a woman."
+  },
+  {
+   "t": "translate",
+   "en": "Merry Christmas!",
+   "a": [
+    "Joyeux Noël!",
+    "Joyeux Noël."
+   ],
+   "why": "Noël has a tréma: no-el."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "le café",
+   "en": "coffee, café",
+   "g": "m",
+   "ex": "Un café, s'il vous plaît."
+  },
+  {
+   "fr": "l'été",
+   "en": "summer",
+   "g": "m",
+   "ex": "C'est l'été."
+  },
+  {
+   "fr": "très",
+   "en": "very",
+   "ex": "C'est très bon."
+  },
+  {
+   "fr": "à",
+   "en": "to, at, in",
+   "ex": "Je suis à Québec."
+  },
+  {
+   "fr": "où",
+   "en": "where",
+   "ex": "Où est le café?"
+  },
+  {
+   "fr": "ou",
+   "en": "or",
+   "ex": "Du thé ou du café?"
+  },
+  {
+   "fr": "là",
+   "en": "there",
+   "ex": "Il est là."
+  },
+  {
+   "fr": "l'hôtel",
+   "en": "hotel",
+   "g": "m",
+   "ex": "L'hôtel est grand."
+  },
+  {
+   "fr": "le garçon",
+   "en": "boy",
+   "g": "m",
+   "ex": "Le garçon a dix ans."
+  },
+  {
+   "fr": "français / française",
+   "en": "French",
+   "ex": "Je parle français."
+  },
+  {
+   "fr": "Noël",
+   "en": "Christmas",
+   "g": "m",
+   "ex": "Joyeux Noël!"
+  },
+  {
+   "fr": "la pâte",
+   "en": "dough, paste",
+   "g": "f",
+   "ex": "La pâte est prête."
+  },
+  {
+   "fr": "la patte",
+   "en": "paw, leg (animal)",
+   "g": "f",
+   "ex": "Le chat a mal à la patte."
+  },
+  {
+   "fr": "sûr / sûre",
+   "en": "sure",
+   "ex": "Tu es sûr?"
+  },
+  {
+   "fr": "prêt / prête",
+   "en": "ready",
+   "ex": "Je suis prêt."
+  },
+  {
+   "fr": "la forêt",
+   "en": "forest",
+   "g": "f",
+   "ex": "La forêt est belle."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "été",
+    "tip": "Two short, tight 'ay' sounds: ay-TAY."
+   },
+   {
+    "fr": "mère, très",
+    "tip": "Open 'eh', like 'bed'."
+   },
+   {
+    "fr": "le, petit",
+    "tip": "Plain e = 'uh'."
+   },
+   {
+    "fr": "ça, garçon",
+    "tip": "ç = s: sa, gar-SÕ."
+   },
+   {
+    "fr": "Noël, naïf",
+    "tip": "Tréma: two separate vowels. no-EL, na-EEF."
+   },
+   {
+    "fr": "pâte, patte",
+    "tip": "Quebec: pawt (long, deep) vs pat (short)."
+   },
+   {
+    "fr": "fête",
+    "tip": "Long ê; casual Quebec 'faète'."
+   }
+  ],
+  "title": "Au café",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Bonjour! Un café ou un thé?",
+    "en": "Hello! A coffee or a tea?"
+   },
+   {
+    "s": "B",
+    "fr": "Un café, s'il vous plaît.",
+    "en": "A coffee, please."
+   },
+   {
+    "s": "A",
+    "fr": "Avec du lait?",
+    "en": "With milk?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, merci. Où sont les toilettes?",
+    "en": "Yes, thank you. Where are the washrooms?"
+   },
+   {
+    "s": "A",
+    "fr": "Là, à gauche.",
+    "en": "There, on the left."
+   },
+   {
+    "s": "B",
+    "fr": "Merci. Et la pâte à pizza, elle est prête?",
+    "en": "Thanks. And the pizza dough, is it ready?"
+   },
+   {
+    "s": "A",
+    "fr": "Oui, tout est prêt!",
+    "en": "Yes, everything is ready!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What does B order?",
+    "options": [
+     "A tea",
+     "A coffee with milk",
+     "A coffee without milk"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Where are the washrooms?",
+    "options": [
+     "On the left",
+     "On the right",
+     "Upstairs"
+    ],
+    "a": 0
+   },
+   {
+    "q": "What does B ask about at the end?",
+    "options": [
+     "The bill",
+     "The pizza dough",
+     "The hotel"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Read aloud and make the é / è contrast clear: 'Mon père a été très gentil.'",
+   "model": "mõ PÈR a ay-TAY trè zhahn-TEE"
+  },
+  {
+   "prompt": "Say both words with the Quebec contrast: pâte, patte.",
+   "model": "pâte [pawt] — patte [pat]"
+  },
+  {
+   "prompt": "Ask where three places are, using où.",
+   "model": "Où est l'hôtel? Où est le café? Où est la forêt?"
+  }
+ ],
+ "write": {
+  "prompt": "Copy these words and add the missing accents: cafe, ete, tres, ou (where), ca, garcon, Noel, hotel. Then write two short sentences with them.",
+  "model": "café, été, très, où, ça, garçon, Noël, hôtel. Où est l'hôtel? Le garçon est très gentil."
+ },
+ "quiz": [
+  {
+   "q": "Which word means 'there'?",
+   "options": [
+    "la",
+    "là",
+    "le",
+    "las"
+   ],
+   "a": 1,
+   "why": "là = there; la = the."
+  },
+  {
+   "q": "The circumflex in 'forêt' often replaces which old letter?",
+   "options": [
+    "e",
+    "s",
+    "t",
+    "r"
+   ],
+   "a": 1,
+   "why": "forêt / forest, hôpital / hospital."
+  },
+  {
+   "q": "Which word needs a cédille?",
+   "options": [
+    "merci",
+    "ici",
+    "francais",
+    "café"
+   ],
+   "a": 2,
+   "why": "français: c before a needs ç to sound like s."
+  },
+  {
+   "q": "What does the tréma in 'maïs' tell you?",
+   "options": [
+    "The word is plural",
+    "Pronounce a and i separately",
+    "The s is silent",
+    "The vowel is long"
+   ],
+   "a": 1,
+   "why": "ma-ees (corn), not 'meh' (mais = but)."
+  },
+  {
+   "q": "Which accent mark does NOT change the sound of a or u?",
+   "options": [
+    "accent grave",
+    "cédille",
+    "tréma",
+    "accent aigu"
+   ],
+   "a": 0,
+   "why": "à and ù sound like a and u; the accent only changes the meaning."
+  },
+  {
+   "q": "'sur' vs 'sûr': what do they mean?",
+   "options": [
+    "on / sure",
+    "sure / on",
+    "both mean sure",
+    "sour / sure"
+   ],
+   "a": 0,
+   "why": "The circumflex marks sûr = sure."
+  },
+  {
+   "q": "In Quebec, 'pâte' sounds…",
+   "options": [
+    "exactly like patte",
+    "long and deep, like 'pawt'",
+    "like 'pat-ay'",
+    "like 'pet'"
+   ],
+   "a": 1,
+   "why": "Quebec keeps long â distinct from short a."
+  },
+  {
+   "q": "Which word is pronounced with an open 'eh' sound?",
+   "options": [
+    "été",
+    "parler",
+    "très",
+    "café"
+   ],
+   "a": 2,
+   "why": "è in très is open; é, -er are closed."
+  },
+  {
+   "q": "Is a missing accent a spelling mistake in French?",
+   "options": [
+    "Yes",
+    "No, accents are optional",
+    "Only on capital letters",
+    "Only in Quebec"
+   ],
+   "a": 0,
+   "why": "Accents are part of the spelling, including on capitals (the OQLF recommends them)."
+  }
+ ]
+}

@@ -1,0 +1,695 @@
+{
+ "w": 11,
+ "title": "Key irregulars: aller, faire, vouloir, pouvoir",
+ "goal": "By the end of this lesson you can conjugate aller, faire, vouloir and pouvoir in the present, use them with an infinitive (je veux manger, je peux venir), and understand the Quebec 'j'vas' you hear everywhere.",
+ "learn": [
+  {
+   "h": "Aller: to go",
+   "body": [
+    "*aller* ends in -er but is completely irregular. Use it for movement (*Je vais à Montréal*) and for how someone is doing (*Comment allez-vous? Je vais bien*).",
+    "*à* + *le* contracts to *au*, and *à* + *les* to *aux*: *Je vais au café, aux toilettes*. *À la* and *à l'* don't change."
+   ],
+   "table": {
+    "head": [
+     "Pronoun",
+     "aller"
+    ],
+    "rows": [
+     [
+      "je",
+      "vais"
+     ],
+     [
+      "tu",
+      "vas"
+     ],
+     [
+      "il / elle / on",
+      "va"
+     ],
+     [
+      "nous",
+      "allons"
+     ],
+     [
+      "vous",
+      "allez"
+     ],
+     [
+      "ils / elles",
+      "vont"
+     ]
+    ]
+   },
+   "tip": "à + le = au; à + les = aux. Je vais au dépanneur."
+  },
+  {
+   "h": "Faire: to do, to make",
+   "body": [
+    "*faire* covers 'do' and 'make': *Je fais un gâteau* (I'm making a cake), *Qu'est-ce que tu fais?* (What are you doing?). It's also used for the weather (*Il fait beau, il fait froid*) and many activities (*faire du sport, faire l'épicerie*).",
+    "Note the irregular *vous faites* (never 'faisez') and *ils font*."
+   ],
+   "table": {
+    "head": [
+     "Pronoun",
+     "faire"
+    ],
+    "rows": [
+     [
+      "je",
+      "fais"
+     ],
+     [
+      "tu",
+      "fais"
+     ],
+     [
+      "il / elle / on",
+      "fait"
+     ],
+     [
+      "nous",
+      "faisons (fuh-ZÕ)"
+     ],
+     [
+      "vous",
+      "faites"
+     ],
+     [
+      "ils / elles",
+      "font"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Vouloir and pouvoir: want and can",
+   "body": [
+    "*vouloir* (to want) and *pouvoir* (can, to be able to) follow the same pattern: *-x, -x, -t* in the singular, then a vowel change in *ils veulent / ils peuvent*.",
+    "Both are often followed directly by an infinitive: *Je veux manger. Tu peux venir?* To order politely, use *je voudrais* (I would like) instead of *je veux*, which can sound blunt."
+   ],
+   "table": {
+    "head": [
+     "Pronoun",
+     "vouloir",
+     "pouvoir"
+    ],
+    "rows": [
+     [
+      "je",
+      "veux",
+      "peux"
+     ],
+     [
+      "tu",
+      "veux",
+      "peux"
+     ],
+     [
+      "il / elle / on",
+      "veut",
+      "peut"
+     ],
+     [
+      "nous",
+      "voulons",
+      "pouvons"
+     ],
+     [
+      "vous",
+      "voulez",
+      "pouvez"
+     ],
+     [
+      "ils / elles",
+      "veulent",
+      "peuvent"
+     ]
+    ]
+   },
+   "tip": "At a counter: Je voudrais un café, s'il vous plaît."
+  },
+  {
+   "h": "Verb + infinitive",
+   "body": [
+    "With all four verbs, a second verb stays in the infinitive: *Je vais manger* (I'm going to eat), *On peut parler?* (Can we talk?), *Tu veux jouer?* (Do you want to play?).",
+    "*aller* + infinitive is the near future, which you will study in detail later: *Je vais travailler demain.*"
+   ]
+  },
+  {
+   "h": "Quebec: j'vas and m'as",
+   "body": [
+    "In Quebec speech, *je vais* is very often *j'vas* (from an old form *je vas*): *J'vas au dépanneur.* It is informal but heard everywhere, from all ages.",
+    "You'll also hear *m'as* for *je vais* + infinitive: *M'as y aller* (I'm gonna go). And *être capable* often replaces *pouvoir*: *Chu pas capable* = I can't. Recognise these; use the standard forms in writing."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Je vais au dépanneur.",
+   "en": "I'm going to the convenience store.",
+   "note": "à + le = au"
+  },
+  {
+   "fr": "Tu vas à l'école?",
+   "en": "Are you going to school?",
+   "note": "à l' does not contract"
+  },
+  {
+   "fr": "On va aux toilettes.",
+   "en": "We're going to the washroom.",
+   "note": "à + les = aux"
+  },
+  {
+   "fr": "Comment allez-vous?",
+   "en": "How are you?",
+   "note": "aller for well-being"
+  },
+  {
+   "fr": "Qu'est-ce que tu fais?",
+   "en": "What are you doing?"
+  },
+  {
+   "fr": "Je fais l'épicerie le samedi.",
+   "en": "I do the groceries on Saturdays.",
+   "note": "faire l'épicerie: very Quebec, standard French too"
+  },
+  {
+   "fr": "Il fait froid aujourd'hui.",
+   "en": "It's cold today.",
+   "note": "faire for weather"
+  },
+  {
+   "fr": "Vous faites du sport?",
+   "en": "Do you play sports?",
+   "note": "vous faites, not 'faisez'"
+  },
+  {
+   "fr": "Je veux un café.",
+   "en": "I want a coffee."
+  },
+  {
+   "fr": "Je voudrais un café, s'il vous plaît.",
+   "en": "I'd like a coffee, please.",
+   "note": "polite ordering"
+  },
+  {
+   "fr": "Tu veux jouer dehors?",
+   "en": "Do you want to play outside?",
+   "note": "vouloir + infinitive"
+  },
+  {
+   "fr": "Je peux payer par carte?",
+   "en": "Can I pay by card?",
+   "note": "pouvoir + infinitive"
+  },
+  {
+   "fr": "Ils peuvent venir demain.",
+   "en": "They can come tomorrow.",
+   "note": "ils peuvent"
+  },
+  {
+   "fr": "Je vais travailler demain.",
+   "en": "I'm going to work tomorrow.",
+   "note": "aller + infinitive = near future"
+  },
+  {
+   "fr": "J'vas au cinéma ce soir.",
+   "en": "I'm going to the movies tonight.",
+   "note": "casual Quebec for je vais"
+  }
+ ],
+ "quebec": {
+  "intro": "In Quebec speech, je vais is very often j'vas. You'll also hear m'as (I'm gonna) and chu capable / chu pas capable for 'I can / I can't'.",
+  "items": [
+   {
+    "std": "Je vais au dépanneur.",
+    "qc": "J'vas au dép.",
+    "en": "I'm going to the convenience store.",
+    "note": "informal; le dép = le dépanneur"
+   },
+   {
+    "std": "Je vais y aller.",
+    "qc": "M'as y aller.",
+    "en": "I'm gonna go.",
+    "note": "informal; m'as = je vais + verb"
+   },
+   {
+    "std": "Je ne peux pas.",
+    "qc": "Chu pas capable.",
+    "en": "I can't.",
+    "note": "informal; être capable = pouvoir"
+   },
+   {
+    "std": "Tu veux un café?",
+    "qc": "Tsu veux un café?",
+    "en": "Do you want a coffee?",
+    "note": "pronunciation: t before u = ts"
+   },
+   {
+    "std": "Je fais les courses.",
+    "qc": "J'fais l'épicerie.",
+    "en": "I'm doing the groceries.",
+    "note": "faire l'épicerie is the normal Quebec expression"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Ils ___ à Québec. (aller)",
+   "options": [
+    "allent",
+    "vont",
+    "vas",
+    "allons"
+   ],
+   "a": 1,
+   "why": "ils vont."
+  },
+  {
+   "t": "mcq",
+   "q": "Vous ___ quoi ce soir? (faire)",
+   "options": [
+    "faisez",
+    "faites",
+    "font",
+    "fais"
+   ],
+   "a": 1,
+   "why": "vous faites: irregular."
+  },
+  {
+   "t": "mcq",
+   "q": "Je vais ___ cinéma.",
+   "options": [
+    "à le",
+    "au",
+    "aux",
+    "à la"
+   ],
+   "a": 1,
+   "why": "à + le = au."
+  },
+  {
+   "t": "mcq",
+   "q": "The most polite way to order is…",
+   "options": [
+    "Je veux un café.",
+    "Je voudrais un café, s'il vous plaît.",
+    "Un café!",
+    "Donne un café."
+   ],
+   "a": 1,
+   "why": "je voudrais = I would like."
+  },
+  {
+   "t": "mcq",
+   "q": "In Quebec, 'J'vas' means…",
+   "options": [
+    "I see",
+    "I'm going",
+    "I want",
+    "I can"
+   ],
+   "a": 1,
+   "why": "j'vas = je vais."
+  },
+  {
+   "t": "fill",
+   "q": "Je ___ payer par carte? (pouvoir)",
+   "a": [
+    "peux"
+   ],
+   "en": "Can I pay by card?",
+   "why": "je peux."
+  },
+  {
+   "t": "fill",
+   "q": "Tu ___ jouer dehors? (vouloir)",
+   "a": [
+    "veux"
+   ],
+   "en": "Do you want to play outside?",
+   "why": "tu veux."
+  },
+  {
+   "t": "fill",
+   "q": "Il ___ froid aujourd'hui. (faire)",
+   "a": [
+    "fait"
+   ],
+   "en": "It's cold today.",
+   "why": "Weather: il fait."
+  },
+  {
+   "t": "fill",
+   "q": "Nous ___ à la plage. (aller)",
+   "a": [
+    "allons"
+   ],
+   "en": "We're going to the beach.",
+   "why": "nous allons."
+  },
+  {
+   "t": "fill",
+   "q": "Elles ___ venir demain. (pouvoir)",
+   "a": [
+    "peuvent"
+   ],
+   "en": "They can come tomorrow.",
+   "why": "elles peuvent."
+  },
+  {
+   "t": "build",
+   "en": "I'm going to work tomorrow.",
+   "a": "Je vais travailler demain."
+  },
+  {
+   "t": "build",
+   "en": "What are you doing?",
+   "a": "Qu'est-ce que tu fais?"
+  },
+  {
+   "t": "translate",
+   "en": "I'd like a coffee, please.",
+   "a": [
+    "Je voudrais un café, s'il vous plaît.",
+    "Je voudrais un café, s'il te plaît.",
+    "Un café, s'il vous plaît."
+   ],
+   "why": "je voudrais is the polite form."
+  },
+  {
+   "t": "translate",
+   "en": "We want to eat.",
+   "a": [
+    "Nous voulons manger.",
+    "On veut manger."
+   ],
+   "why": "vouloir + infinitive."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "aller",
+   "en": "to go",
+   "ex": "Je vais au travail."
+  },
+  {
+   "fr": "faire",
+   "en": "to do, to make",
+   "ex": "Je fais un gâteau."
+  },
+  {
+   "fr": "vouloir",
+   "en": "to want",
+   "ex": "Tu veux venir?"
+  },
+  {
+   "fr": "pouvoir",
+   "en": "can, to be able to",
+   "ex": "Je peux t'aider."
+  },
+  {
+   "fr": "je voudrais",
+   "en": "I would like",
+   "ex": "Je voudrais un thé."
+  },
+  {
+   "fr": "le dépanneur",
+   "en": "convenience store",
+   "g": "m",
+   "ex": "Je vais au dépanneur.",
+   "qc": true
+  },
+  {
+   "fr": "faire l'épicerie",
+   "en": "to do the groceries",
+   "ex": "On fait l'épicerie samedi.",
+   "qc": true
+  },
+  {
+   "fr": "le cinéma",
+   "en": "movie theatre, the movies",
+   "g": "m",
+   "ex": "On va au cinéma?"
+  },
+  {
+   "fr": "les toilettes",
+   "en": "washroom",
+   "g": "f",
+   "ex": "Où sont les toilettes?"
+  },
+  {
+   "fr": "aujourd'hui",
+   "en": "today",
+   "ex": "Il fait beau aujourd'hui."
+  },
+  {
+   "fr": "demain",
+   "en": "tomorrow",
+   "ex": "Je travaille demain."
+  },
+  {
+   "fr": "ce soir",
+   "en": "tonight, this evening",
+   "ex": "Qu'est-ce que tu fais ce soir?"
+  },
+  {
+   "fr": "payer",
+   "en": "to pay",
+   "ex": "Je peux payer par carte?"
+  },
+  {
+   "fr": "venir",
+   "en": "to come",
+   "ex": "Tu veux venir?"
+  },
+  {
+   "fr": "être capable",
+   "en": "to be able to, can",
+   "ex": "Chu pas capable!",
+   "qc": true
+  },
+  {
+   "fr": "il fait beau / froid",
+   "en": "the weather is nice / cold",
+   "ex": "Il fait beau!"
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "je vais, ils vont",
+    "tip": "zhuh VAY, eel VÕ."
+   },
+   {
+    "fr": "nous faisons",
+    "tip": "noo fuh-ZÕ: the ai sounds like 'uh'."
+   },
+   {
+    "fr": "vous faites",
+    "tip": "voo FET."
+   },
+   {
+    "fr": "je veux, je peux",
+    "tip": "Rounded 'uh' sound: vuh, puh."
+   },
+   {
+    "fr": "ils veulent, ils peuvent",
+    "tip": "Open vowel: eel VULL, eel PUV."
+   },
+   {
+    "fr": "j'vas",
+    "tip": "Quebec casual: zhvaw, with a long deep a."
+   }
+  ],
+  "title": "Samedi",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Qu'est-ce que tu fais samedi?",
+    "en": "What are you doing Saturday?"
+   },
+   {
+    "s": "B",
+    "fr": "J'vas faire l'épicerie le matin.",
+    "en": "I'm going to do the groceries in the morning."
+   },
+   {
+    "s": "A",
+    "fr": "Et l'après-midi? Tu veux aller au cinéma?",
+    "en": "And in the afternoon? Do you want to go to the movies?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, mais je peux seulement après trois heures.",
+    "en": "Yes, but I can only go after three."
+   },
+   {
+    "s": "A",
+    "fr": "Pas de problème. On va au cinéma à quatre heures.",
+    "en": "No problem. We'll go to the movies at four."
+   },
+   {
+    "s": "B",
+    "fr": "Parfait. Ma sœur peut venir?",
+    "en": "Perfect. Can my sister come?"
+   },
+   {
+    "s": "A",
+    "fr": "Bien sûr!",
+    "en": "Of course!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What is B doing Saturday morning?",
+    "options": [
+     "Going to the movies",
+     "Doing the groceries",
+     "Working"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What time will they go to the movies?",
+    "options": [
+     "Three",
+     "Four",
+     "Five"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Who else might come?",
+    "options": [
+     "B's sister",
+     "A's brother",
+     "B's mother"
+    ],
+    "a": 0
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Say where you are going this weekend and what you are going to do.",
+   "model": "Samedi, je vais au marché. Je vais faire l'épicerie. Dimanche, je vais au cinéma."
+  },
+  {
+   "prompt": "Order two things politely at a café.",
+   "model": "Bonjour! Je voudrais un café et un muffin, s'il vous plaît."
+  },
+  {
+   "prompt": "Ask a friend if they want to come and if they can come tomorrow.",
+   "model": "Tu veux venir? Tu peux venir demain?"
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences about your plans for Saturday using aller, faire, vouloir and pouvoir.",
+  "model": "Samedi, je vais faire l'épicerie. Après, je vais au parc avec mes enfants. Ils veulent jouer dehors. Le soir, on peut aller au cinéma. Je voudrais voir un film québécois."
+ },
+ "quiz": [
+  {
+   "q": "Which is 'we go'?",
+   "options": [
+    "nous vons",
+    "nous allons",
+    "nous vais",
+    "nous allez"
+   ],
+   "a": 1,
+   "why": "nous allons."
+  },
+  {
+   "q": "'à + les' becomes…",
+   "options": [
+    "à les",
+    "au",
+    "aux",
+    "als"
+   ],
+   "a": 2,
+   "why": "aux toilettes, aux États-Unis."
+  },
+  {
+   "q": "'Il fait beau' is about…",
+   "options": [
+    "a person's looks",
+    "the weather",
+    "a job",
+    "cooking"
+   ],
+   "a": 1,
+   "why": "faire is used for weather."
+  },
+  {
+   "q": "The ils form of vouloir is…",
+   "options": [
+    "voulent",
+    "veulent",
+    "veuillent",
+    "vouloient"
+   ],
+   "a": 1,
+   "why": "ils veulent."
+  },
+  {
+   "q": "After vouloir and pouvoir, the next verb is…",
+   "options": [
+    "conjugated",
+    "in the infinitive",
+    "in the past",
+    "dropped"
+   ],
+   "a": 1,
+   "why": "Je veux manger, je peux venir."
+  },
+  {
+   "q": "'Je vais travailler' means…",
+   "options": [
+    "I work",
+    "I'm going to work (future)",
+    "I worked",
+    "I want to work"
+   ],
+   "a": 1,
+   "why": "aller + infinitive = near future."
+  },
+  {
+   "q": "'M'as y aller' is casual Quebec for…",
+   "options": [
+    "Je vais y aller.",
+    "Ma mère y va.",
+    "Tu vas y aller?",
+    "Il va y aller."
+   ],
+   "a": 0,
+   "why": "m'as = je vais + infinitive."
+  },
+  {
+   "q": "'Chu pas capable' means…",
+   "options": [
+    "I'm not capable of being good",
+    "I can't",
+    "I'm not hungry",
+    "I don't want to"
+   ],
+   "a": 1,
+   "why": "être capable often replaces pouvoir in Quebec."
+  },
+  {
+   "q": "Which sentence is correct?",
+   "options": [
+    "Je peux payer par carte?",
+    "Je peux paye par carte?",
+    "Je peut payer par carte?",
+    "Je pouvoir payer par carte?"
+   ],
+   "a": 0,
+   "why": "je peux + infinitive."
+  }
+ ]
+}

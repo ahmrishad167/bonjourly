@@ -1,0 +1,688 @@
+{
+ "w": 148,
+ "title": "Passé antérieur and subjonctif imparfait, recognition only",
+ "goal": "By the end of this lesson you can recognise the passé antérieur, the imparfait du subjonctif and the plus-que-parfait du subjonctif in literary texts, find the infinitive behind each form, and restate the sentence in everyday spoken French.",
+ "learn": [
+  {
+   "h": "Why recognition only",
+   "body": [
+    "Last week you met the passé simple. This lesson you meet its three literary companions: the *passé antérieur*, the *imparfait du subjonctif* and the *plus-que-parfait du subjonctif*. Nobody uses them in conversation, in Quebec or in France, and you will never need to produce them.",
+    "You will, however, see them in novels, history books, older newspapers, legal texts and speeches. Your job is to spot them, identify the verb, and mentally convert them into the French you actually speak."
+   ],
+   "tip": "Spot, identify, convert: three steps, never produce."
+  },
+  {
+   "h": "The passé antérieur: 'had done' in a passé simple story",
+   "body": [
+    "Form: *avoir* or *être* in the passé simple + past participle. *il eut fini*, *elle fut partie*, *nous eûmes compris*, *ils furent arrivés*.",
+    "It describes an action completed just before another action in the passé simple. It almost always follows a time conjunction: *quand*, *lorsque*, *dès que*, *aussitôt que*, *après que*, or the pattern *à peine… que*.",
+    "Spoken equivalent: usually just the passé composé, or *après avoir / après être* + participle. *Dès qu'il eut fini, il sortit* becomes *Dès qu'il a fini, il est sorti*."
+   ],
+   "table": {
+    "head": [
+     "Literary (passé antérieur)",
+     "Spoken equivalent",
+     "English"
+    ],
+    "rows": [
+     [
+      "Quand elle eut mangé, elle partit.",
+      "Quand elle a mangé, elle est partie.",
+      "When she had eaten, she left."
+     ],
+     [
+      "Dès qu'ils furent arrivés, la fête commença.",
+      "Dès qu'ils sont arrivés, la fête a commencé.",
+      "As soon as they had arrived, the party started."
+     ],
+     [
+      "Après qu'il eut parlé, on applaudit.",
+      "Après qu'il a parlé, on a applaudi.",
+      "After he had spoken, people applauded."
+     ],
+     [
+      "À peine fut-il sorti qu'il plut.",
+      "Il venait juste de sortir quand il a commencé à pleuvoir.",
+      "He had barely gone out when it rained."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "The imparfait du subjonctif",
+   "body": [
+    "Built from the passé simple stem. The il/elle form is the one you will meet 90% of the time: it ends in *-ât*, *-ît* or *-ût*, always with a circumflex: *qu'il parlât*, *qu'il finît*, *qu'il fût*, *qu'il eût*, *qu'il vînt*, *qu'il pût*, *qu'il fît*, *qu'il sût*.",
+    "Other persons have tell-tale double s: *que je parlasse*, *que nous finissions* (same as present!), *qu'ils vinssent*, *que vous fussiez*.",
+    "It appears where you would expect a subjunctive, after a main verb in the past: *Il fallait qu'il partît*. In speech, replace it with the present subjunctive: *Il fallait qu'il parte*."
+   ],
+   "table": {
+    "head": [
+     "Infinitive",
+     "Passé simple (il)",
+     "Imparfait du subj. (qu'il)",
+     "Spoken (present subj.)"
+    ],
+    "rows": [
+     [
+      "être",
+      "il fut",
+      "qu'il fût",
+      "qu'il soit"
+     ],
+     [
+      "avoir",
+      "il eut",
+      "qu'il eût",
+      "qu'il ait"
+     ],
+     [
+      "faire",
+      "il fit",
+      "qu'il fît",
+      "qu'il fasse"
+     ],
+     [
+      "venir",
+      "il vint",
+      "qu'il vînt",
+      "qu'il vienne"
+     ],
+     [
+      "pouvoir",
+      "il put",
+      "qu'il pût",
+      "qu'il puisse"
+     ],
+     [
+      "parler",
+      "il parla",
+      "qu'il parlât",
+      "qu'il parle"
+     ],
+     [
+      "savoir",
+      "il sut",
+      "qu'il sût",
+      "qu'il sache"
+     ]
+    ]
+   },
+   "tip": "The circumflex is the whole difference: il fut (passé simple) vs qu'il fût (subjunctive)."
+  },
+  {
+   "h": "The plus-que-parfait du subjonctif and the 'conditionnel passé 2e forme'",
+   "body": [
+    "Form: *avoir* or *être* in the imparfait du subjonctif + participle: *qu'il eût fini*, *qu'elle fût partie*. In speech: past subjunctive, *qu'il ait fini*, *qu'elle soit partie*.",
+    "The same form is also used as a literary conditional past: *Il eût fallu partir* = *Il aurait fallu partir*. *On eût dit un fantôme* = *On aurait dit un fantôme*.",
+    "A few frozen expressions survive in careful writing and even in speeches: *ne fût-ce que* (if only, even just), *fût-il* (even if he were), *eût-il su* (had he known), *Plût au ciel que…* (would to heaven that)."
+   ]
+  },
+  {
+   "h": "A quick identification routine",
+   "body": [
+    "1. Is there a circumflex on -ât/-ît/-ût in the il form, or a -sse- / -ssi- ending? Probably imparfait du subjonctif. 2. Is it *eut/fut* (no circumflex) + participle after *quand, dès que, après que*? Passé antérieur. 3. Is it *eût/fût* (circumflex) + participle? Plus-que-parfait du subjonctif or conditionnel passé 2e forme.",
+    "Then convert: passé antérieur → passé composé; imparfait du subjonctif → present subjunctive; plus-que-parfait du subjonctif → past subjunctive or conditionnel passé."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Quand il eut terminé sa lettre, il la cacheta.",
+   "en": "When he had finished his letter, he sealed it.",
+   "note": "eut terminé = passé antérieur of terminer; spoken: quand il a terminé"
+  },
+  {
+   "fr": "Dès que la neige fut tombée, les enfants sortirent.",
+   "en": "As soon as the snow had fallen, the children went out.",
+   "note": "fut tombée = passé antérieur with être"
+  },
+  {
+   "fr": "Aussitôt qu'elle eut compris, elle rougit.",
+   "en": "As soon as she had understood, she blushed.",
+   "note": "eut compris (comprendre); rougit is passé simple"
+  },
+  {
+   "fr": "Après qu'ils eurent dîné, ils jouèrent aux cartes.",
+   "en": "After they had dined, they played cards.",
+   "note": "eurent dîné; spoken: après avoir dîné, ils ont joué aux cartes"
+  },
+  {
+   "fr": "À peine fut-il entré que le téléphone sonna.",
+   "en": "He had barely come in when the phone rang.",
+   "note": "à peine + inversion + passé antérieur + que"
+  },
+  {
+   "fr": "Il fallait qu'elle partît avant l'aube.",
+   "en": "She had to leave before dawn.",
+   "note": "partît = imparfait du subjonctif of partir; spoken: qu'elle parte"
+  },
+  {
+   "fr": "Je voulais qu'il vînt me voir.",
+   "en": "I wanted him to come and see me.",
+   "note": "vînt (venir); spoken: qu'il vienne"
+  },
+  {
+   "fr": "Bien qu'il fût malade, il continua de travailler.",
+   "en": "Although he was ill, he kept working.",
+   "note": "fût (être) with a circumflex = subjunctive; spoken: bien qu'il soit malade"
+  },
+  {
+   "fr": "Elle attendit qu'il eût fini de parler.",
+   "en": "She waited until he had finished speaking.",
+   "note": "eût fini = plus-que-parfait du subjonctif; spoken: qu'il ait fini"
+  },
+  {
+   "fr": "Il eût fallu prévenir la famille.",
+   "en": "The family should have been warned.",
+   "note": "eût fallu = aurait fallu (conditionnel passé 2e forme)"
+  },
+  {
+   "fr": "On eût dit qu'il avait vu un fantôme.",
+   "en": "You would have thought he had seen a ghost.",
+   "note": "on eût dit = on aurait dit"
+  },
+  {
+   "fr": "Il craignait que nous ne fussions en retard.",
+   "en": "He feared we would be late.",
+   "note": "fussions (être); expletive ne; spoken: qu'on soit en retard"
+  },
+  {
+   "fr": "Prenez au moins un café, ne fût-ce que pour vous réchauffer.",
+   "en": "Have at least a coffee, if only to warm up.",
+   "note": "ne fût-ce que: a frozen expression still used in careful speech"
+  },
+  {
+   "fr": "Eût-il su la vérité, il ne serait pas venu.",
+   "en": "Had he known the truth, he wouldn't have come.",
+   "note": "eût-il su = s'il avait su"
+  },
+  {
+   "fr": "Le seigneur exigea que les colons défrichassent leurs terres.",
+   "en": "The seigneur required the settlers to clear their land.",
+   "note": "défrichassent: the -assent ending gives it away; history-book style about New France"
+  },
+  {
+   "fr": "Lorsqu'elle fut sortie, il se mit à pleurer.",
+   "en": "When she had gone out, he began to cry.",
+   "note": "fut sortie = passé antérieur (no circumflex)"
+  }
+ ],
+ "quebec": {
+  "intro": "These forms never occur in Quebec speech, but you will meet them in classic Quebec literature (Philippe Aubert de Gaspé's Les Anciens Canadiens, Louis Hémon's Maria Chapdelaine, Anne Hébert's Kamouraska) and in older history texts. Each literary form below is shown with what a Quebecer would actually say.",
+  "items": [
+   {
+    "std": "Quand il eut fini son ouvrage, il rentra.",
+    "qc": "Quand y'a fini sa job, y'est rentré.",
+    "en": "When he had finished his work, he went home.",
+    "note": "Spoken Quebec uses the passé composé; 'y'a', 'sa job' are informal"
+   },
+   {
+    "std": "Il fallait qu'elle vînt tout de suite.",
+    "qc": "Fallait qu'a vienne tusuite.",
+    "en": "She had to come right away.",
+    "note": "present subjunctive replaces vînt; 'a' = elle, 'tusuite' = tout de suite (informal)"
+   },
+   {
+    "std": "Bien qu'il fût tard, ils veillèrent.",
+    "qc": "Même si c'était tard, y'ont veillé.",
+    "en": "Although it was late, they stayed up.",
+    "note": "Speech prefers même si + indicative; veiller = stay up / spend the evening, very Quebec"
+   },
+   {
+    "std": "On eût dit un orignal.",
+    "qc": "On aurait dit un orignal.",
+    "en": "It looked like a moose.",
+    "note": "conditionnel passé replaces eût dit in all registers of speech"
+   },
+   {
+    "std": "Dès que la glace fut partie, ils mirent le canot à l'eau.",
+    "qc": "Dès que la glace est partie, y'ont mis le canot à l'eau.",
+    "en": "As soon as the ice had gone, they put the canoe in the water.",
+    "note": "passé composé replaces fut partie; y'ont = ils ont (informal)"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "'Quand il eut mangé, il sortit.' What tense is 'eut mangé'?",
+   "options": [
+    "Plus-que-parfait",
+    "Passé antérieur",
+    "Plus-que-parfait du subjonctif",
+    "Passé composé"
+   ],
+   "a": 1,
+   "why": "avoir in the passé simple (eut, no circumflex) + participle = passé antérieur."
+  },
+  {
+   "t": "mcq",
+   "q": "'Il fallait qu'il fût là.' What is the infinitive of 'fût'?",
+   "options": [
+    "falloir",
+    "faire",
+    "être",
+    "fuir"
+   ],
+   "a": 2,
+   "why": "fût is the imparfait du subjonctif of être."
+  },
+  {
+   "t": "mcq",
+   "q": "Which form is an imparfait du subjonctif?",
+   "options": [
+    "il vint",
+    "qu'il vînt",
+    "il vient",
+    "qu'il vienne"
+   ],
+   "a": 1,
+   "why": "The circumflex on -înt marks the imparfait du subjonctif of venir."
+  },
+  {
+   "t": "mcq",
+   "q": "'Il eût fallu partir' means…",
+   "options": [
+    "It was necessary to leave",
+    "It had been necessary to leave",
+    "We should have left / It would have been necessary to leave",
+    "It will be necessary to leave"
+   ],
+   "a": 2,
+   "why": "eût fallu = aurait fallu, the literary conditionnel passé."
+  },
+  {
+   "t": "mcq",
+   "q": "What is the infinitive of 'qu'il sût'?",
+   "options": [
+    "sortir",
+    "suivre",
+    "savoir",
+    "suffire"
+   ],
+   "a": 2,
+   "why": "savoir: il sut (passé simple), qu'il sût (imparfait du subjonctif)."
+  },
+  {
+   "t": "fill",
+   "q": "Il fallait qu'elle partît. → Spoken: Il fallait qu'elle ___.",
+   "a": [
+    "parte"
+   ],
+   "en": "She had to leave.",
+   "why": "Replace the imparfait du subjonctif with the present subjunctive."
+  },
+  {
+   "t": "fill",
+   "q": "Quand il eut fini, il partit. → Spoken: Quand il a fini, il ___ parti.",
+   "a": [
+    "est"
+   ],
+   "en": "When he had finished, he left.",
+   "why": "partir takes être in the passé composé."
+  },
+  {
+   "t": "fill",
+   "q": "Je voulais qu'il fît attention. → Spoken: Je voulais qu'il ___ attention.",
+   "a": [
+    "fasse"
+   ],
+   "en": "I wanted him to be careful.",
+   "why": "fît (faire) → present subjunctive fasse."
+  },
+  {
+   "t": "fill",
+   "q": "On eût dit un enfant. → Spoken: On ___ dit un enfant.",
+   "a": [
+    "aurait"
+   ],
+   "en": "You'd have thought it was a child.",
+   "why": "eût dit = aurait dit."
+  },
+  {
+   "t": "fill",
+   "q": "Elle attendit qu'il eût fini. → Spoken: Elle a attendu qu'il ___ fini.",
+   "a": [
+    "ait"
+   ],
+   "en": "She waited until he had finished.",
+   "why": "Plus-que-parfait du subjonctif → past subjunctive (ait + participle)."
+  },
+  {
+   "t": "build",
+   "en": "When she had eaten, she left.",
+   "a": "Quand elle a mangé, elle est partie."
+  },
+  {
+   "t": "build",
+   "en": "He had to come right away.",
+   "a": "Il fallait qu'il vienne tout de suite."
+  },
+  {
+   "t": "translate",
+   "en": "Although he was sick, he worked.",
+   "a": [
+    "Bien qu'il soit malade, il a travaillé.",
+    "Bien qu'il fût malade, il travailla.",
+    "Même s'il était malade, il a travaillé.",
+    "Bien qu'il ait été malade, il a travaillé."
+   ],
+   "why": "Spoken: bien que + present/past subjunctive, or même si + indicative. Literary: fût / travailla."
+  },
+  {
+   "t": "translate",
+   "en": "Had he known, he wouldn't have come.",
+   "a": [
+    "S'il avait su, il ne serait pas venu.",
+    "Eût-il su, il ne serait pas venu.",
+    "S'il avait su, il serait pas venu."
+   ],
+   "why": "Eût-il su is the literary version of s'il avait su."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "le passé antérieur",
+   "en": "past anterior (literary 'had done')",
+   "g": "m",
+   "ex": "Le passé antérieur suit souvent « dès que »."
+  },
+  {
+   "fr": "le subjonctif imparfait",
+   "en": "imperfect subjunctive",
+   "g": "m",
+   "ex": "Le subjonctif imparfait a disparu de la langue parlée."
+  },
+  {
+   "fr": "l'accent circonflexe",
+   "en": "circumflex accent",
+   "g": "m",
+   "ex": "L'accent circonflexe distingue « il fut » de « qu'il fût »."
+  },
+  {
+   "fr": "la langue littéraire",
+   "en": "literary language",
+   "g": "f",
+   "ex": "Ces formes appartiennent à la langue littéraire."
+  },
+  {
+   "fr": "aussitôt que",
+   "en": "as soon as",
+   "ex": "Aussitôt qu'il fut parti, elle ouvrit la lettre."
+  },
+  {
+   "fr": "à peine… que",
+   "en": "barely / hardly… when",
+   "ex": "À peine était-il sorti qu'il s'est mis à pleuvoir."
+  },
+  {
+   "fr": "ne fût-ce que",
+   "en": "if only, even if just",
+   "ex": "Appelle-la, ne fût-ce que pour la rassurer."
+  },
+  {
+   "fr": "on eût dit",
+   "en": "one would have said, it looked like (literary)",
+   "ex": "On eût dit une peinture."
+  },
+  {
+   "fr": "le récit",
+   "en": "narrative, account",
+   "g": "m",
+   "ex": "Le récit est écrit au passé simple."
+  },
+  {
+   "fr": "le roman du terroir",
+   "en": "rural 'land' novel (Quebec genre)",
+   "g": "m",
+   "ex": "Maria Chapdelaine est un classique du roman du terroir.",
+   "qc": true
+  },
+  {
+   "fr": "le colon",
+   "en": "settler",
+   "g": "m",
+   "ex": "Les colons défrichaient la forêt."
+  },
+  {
+   "fr": "défricher",
+   "en": "to clear (land)",
+   "ex": "Il fallait défricher avant de semer."
+  },
+  {
+   "fr": "veiller",
+   "en": "to stay up; to spend the evening socialising",
+   "ex": "On a veillé chez ma tante jusqu'à minuit.",
+   "qc": true
+  },
+  {
+   "fr": "désuet / désuète",
+   "en": "outdated, obsolete",
+   "ex": "Cette tournure est désuète."
+  },
+  {
+   "fr": "repérer",
+   "en": "to spot, to locate",
+   "ex": "Repère les verbes au subjonctif imparfait."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "il fut / qu'il fût",
+    "tip": "Pronounced the same [fu]; only spelling (the circumflex) shows the difference."
+   },
+   {
+    "fr": "qu'il eût",
+    "tip": "eût is pronounced [u], like the letter u, not like 'eu' in 'peu'."
+   },
+   {
+    "fr": "que nous fussions",
+    "tip": "fu-SYON: the double s is a sharp [s]."
+   },
+   {
+    "fr": "qu'ils vinssent",
+    "tip": "VINSS: nasal vin + [s]; the -ent is silent."
+   },
+   {
+    "fr": "ne fût-ce que",
+    "tip": "nuh fuss-kuh: fût-ce links into one word."
+   },
+   {
+    "fr": "aussitôt qu'il eut fini",
+    "tip": "o-see-TOH-kee-lu-fee-NEE: eut = [u]."
+   }
+  ],
+  "title": "Le club de lecture",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "J'ai commencé Les Anciens Canadiens, mais certaines phrases me bloquent.",
+    "en": "I started Les Anciens Canadiens, but some sentences stop me."
+   },
+   {
+    "s": "B",
+    "fr": "Lesquelles? Lis-m'en une.",
+    "en": "Which ones? Read me one."
+   },
+   {
+    "s": "A",
+    "fr": "« Dès qu'ils eurent soupé, ils se mirent en route. »",
+    "en": "'As soon as they had had supper, they set off.'"
+   },
+   {
+    "s": "B",
+    "fr": "C'est du passé antérieur. En gros : dès qu'ils ont soupé, ils sont partis.",
+    "en": "That's the passé antérieur. Basically: as soon as they ate supper, they left."
+   },
+   {
+    "s": "A",
+    "fr": "Et celle-ci : « Il fallait qu'il revînt avant la nuit. »",
+    "en": "And this one: 'He had to come back before nightfall.'"
+   },
+   {
+    "s": "B",
+    "fr": "Subjonctif imparfait de revenir. Aujourd'hui, on dirait : il fallait qu'il revienne.",
+    "en": "Imperfect subjunctive of revenir. Today we'd say: il fallait qu'il revienne."
+   },
+   {
+    "s": "A",
+    "fr": "Donc je n'ai pas besoin de les apprendre par cœur?",
+    "en": "So I don't need to learn them by heart?"
+   },
+   {
+    "s": "B",
+    "fr": "Non, il suffit de les reconnaître. Personne ne parle comme ça, même pas les profs de littérature!",
+    "en": "No, you just need to recognise them. Nobody talks like that, not even literature teachers!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What book is speaker A reading?",
+    "options": [
+     "Maria Chapdelaine",
+     "Les Anciens Canadiens",
+     "Kamouraska"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What modern form does B give for 'qu'il revînt'?",
+    "options": [
+     "qu'il revient",
+     "qu'il revienne",
+     "qu'il reviendrait"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What is B's advice?",
+    "options": [
+     "Memorise all the forms",
+     "Just recognise them",
+     "Avoid old books"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Read this literary sentence aloud, then say it the way you would in conversation: 'Quand elle eut fermé la porte, elle s'assit.'",
+   "model": "Quand elle eut fermé la porte, elle s'assit. → Quand elle a fermé la porte, elle s'est assise."
+  },
+  {
+   "prompt": "Convert to spoken French: 'Il fallait que nous fussions prêts.'",
+   "model": "Il fallait qu'on soit prêts. / Il fallait que nous soyons prêts."
+  },
+  {
+   "prompt": "Explain in French, in two sentences, how to tell 'il fut' from 'qu'il fût'.",
+   "model": "« Il fut » est au passé simple. « Qu'il fût », avec un accent circonflexe, est au subjonctif imparfait; on le trouve après « que »."
+  }
+ ],
+ "write": {
+  "prompt": "Rewrite this short literary passage in modern, neutral French (passé composé and present subjunctive): 'Dès que le soleil fut levé, le vieux colon sortit. Il fallait qu'il finît de défricher avant l'hiver. Bien qu'il fût fatigué, il travailla jusqu'au soir.'",
+  "model": "Dès que le soleil s'est levé, le vieux colon est sorti. Il fallait qu'il finisse de défricher avant l'hiver. Même s'il était fatigué, il a travaillé jusqu'au soir."
+ },
+ "quiz": [
+  {
+   "q": "The passé antérieur is formed with…",
+   "options": [
+    "avoir/être in the imparfait + participle",
+    "avoir/être in the passé simple + participle",
+    "avoir/être in the subjunctive + participle",
+    "the passé simple stem + -sse"
+   ],
+   "a": 1,
+   "why": "il eut fini, elle fut partie: passé simple of the auxiliary."
+  },
+  {
+   "q": "Which word typically introduces a passé antérieur?",
+   "options": [
+    "parce que",
+    "dès que",
+    "pour que",
+    "bien que"
+   ],
+   "a": 1,
+   "why": "Time conjunctions like dès que, quand, lorsque, après que."
+  },
+  {
+   "q": "'qu'ils vinssent' is the imparfait du subjonctif of…",
+   "options": [
+    "vendre",
+    "vaincre",
+    "venir",
+    "voir"
+   ],
+   "a": 2,
+   "why": "venir: ils vinrent → qu'ils vinssent."
+  },
+  {
+   "q": "In conversation, the imparfait du subjonctif is replaced by…",
+   "options": [
+    "the imparfait",
+    "the present subjunctive",
+    "the conditional",
+    "the infinitive"
+   ],
+   "a": 1,
+   "why": "Il fallait qu'il vînt → il fallait qu'il vienne."
+  },
+  {
+   "q": "'Fût-il riche, elle ne l'épouserait pas' means…",
+   "options": [
+    "He was rich, so she married him",
+    "Even if he were rich, she wouldn't marry him",
+    "Because he was rich, she married him",
+    "He will be rich when she marries him"
+   ],
+   "a": 1,
+   "why": "fût-il = même s'il était."
+  },
+  {
+   "q": "Which sentence contains a plus-que-parfait du subjonctif?",
+   "options": [
+    "Il eut fini.",
+    "Qu'il eût fini.",
+    "Il avait fini.",
+    "Qu'il ait fini."
+   ],
+   "a": 1,
+   "why": "eût (circumflex) + participle."
+  },
+  {
+   "q": "'qu'il pût' comes from…",
+   "options": [
+    "plaire",
+    "pleuvoir",
+    "pouvoir",
+    "prendre"
+   ],
+   "a": 2,
+   "why": "pouvoir: il put → qu'il pût."
+  },
+  {
+   "q": "Where are you most likely to meet these forms in Quebec?",
+   "options": [
+    "Talk radio",
+    "Text messages",
+    "Classic novels and older history texts",
+    "Workplace meetings"
+   ],
+   "a": 2,
+   "why": "They are purely literary; they never occur in Quebec speech."
+  },
+  {
+   "q": "What does 'ne fût-ce que' mean?",
+   "options": [
+    "Not even",
+    "If only / even if just",
+    "It was not",
+    "Unless"
+   ],
+   "a": 1,
+   "why": "Ne fût-ce que pour dire bonjour = if only to say hello."
+  }
+ ]
+}

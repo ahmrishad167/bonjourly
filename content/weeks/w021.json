@@ -1,0 +1,685 @@
+{
+ "w": 21,
+ "title": "Possessive adjectives",
+ "goal": "By the end of this lesson you can say my, your, his, her, our and their in French (mon, ta, ses, notre, leurs…), choose the form by the gender of the thing owned, and talk about your partner and friends the Quebec way: mon chum, ma blonde.",
+ "learn": [
+  {
+   "h": "My, your, his/her",
+   "body": [
+    "Possessive adjectives replace the article (*le, la, les*) and agree with the noun they go with: *mon frère* (my brother), *ma sœur* (my sister), *mes parents* (my parents).",
+    "Singular owners have three forms each: masculine, feminine and plural."
+   ],
+   "table": {
+    "head": [
+     "Owner",
+     "Masc. sing.",
+     "Fem. sing.",
+     "Plural"
+    ],
+    "rows": [
+     [
+      "je (my)",
+      "mon",
+      "ma",
+      "mes"
+     ],
+     [
+      "tu (your)",
+      "ton",
+      "ta",
+      "tes"
+     ],
+     [
+      "il / elle (his, her, its)",
+      "son",
+      "sa",
+      "ses"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Our, your, their",
+   "body": [
+    "Plural owners are simpler: only a singular and a plural form, no gender difference.",
+    "*votre / vos* is also the polite 'your' that goes with *vous*: *Votre nom, s'il vous plaît?*"
+   ],
+   "table": {
+    "head": [
+     "Owner",
+     "Singular noun",
+     "Plural noun"
+    ],
+    "rows": [
+     [
+      "nous (our)",
+      "notre",
+      "nos"
+     ],
+     [
+      "vous (your)",
+      "votre",
+      "vos"
+     ],
+     [
+      "ils / elles (their)",
+      "leur",
+      "leurs"
+     ]
+    ]
+   },
+   "tip": "nos‿amis, vos‿enfants, leurs‿enfants: liaison [z] before a vowel."
+  },
+  {
+   "h": "Son or sa? Look at the thing, not the owner",
+   "body": [
+    "This is the big difference from English. *Son / sa* agree with the noun owned, not with the owner. *Sa voiture* can mean his car or her car (voiture is feminine). *Son frère* can mean his brother or her brother.",
+    "If the context doesn't make it clear, add *à lui* (his) or *à elle* (hers): *C'est sa voiture à elle.*"
+   ],
+   "table": {
+    "head": [
+     "French",
+     "English"
+    ],
+    "rows": [
+     [
+      "Marc aime sa mère.",
+      "Marc loves his mother."
+     ],
+     [
+      "Julie aime son père.",
+      "Julie loves her father."
+     ],
+     [
+      "Paul cherche ses clés.",
+      "Paul is looking for his keys."
+     ],
+     [
+      "Anne cherche ses clés.",
+      "Anne is looking for her keys."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Mon before a feminine vowel",
+   "body": [
+    "Before a feminine noun starting with a vowel or silent h, *ma, ta, sa* become *mon, ton, son* to make pronunciation smooth: *mon amie* (my female friend), *ton école*, *son adresse*, *mon histoire*.",
+    "Spelling still shows the gender elsewhere: *mon amie est gentille*. To say 'mine', 'yours' with things: *C'est à moi. C'est à toi?*"
+   ],
+   "tip": "ma amie ✗ → mon amie ✓ (sounds like mon ami, but written with -e)."
+  },
+  {
+   "h": "Quebec: mon chum, ma blonde",
+   "body": [
+    "In Quebec, *mon chum* means 'my boyfriend' (or 'my husband' casually) and *ma blonde* means 'my girlfriend' (or wife), whatever her hair colour! These are the normal everyday words, used by all ages.",
+    "*Un chum* can also mean a male friend (*un chum de gars*); a female friend is *une amie* or casually *une chum (de fille)*. For official forms and formal speech: *mon conjoint / ma conjointe* (spouse or common-law partner), *mon copain / ma copine* (boyfriend / girlfriend, more France)."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Mon frère habite à Québec.",
+   "en": "My brother lives in Quebec City.",
+   "note": "mon + masculine"
+  },
+  {
+   "fr": "Ma sœur est infirmière.",
+   "en": "My sister is a nurse.",
+   "note": "ma + feminine"
+  },
+  {
+   "fr": "Mes parents sont à Toronto.",
+   "en": "My parents are in Toronto.",
+   "note": "mes + plural"
+  },
+  {
+   "fr": "C'est ton téléphone?",
+   "en": "Is this your phone?"
+  },
+  {
+   "fr": "Tes enfants sont gentils.",
+   "en": "Your children are nice.",
+   "note": "tes‿enfants [z]"
+  },
+  {
+   "fr": "Marc aime sa voiture.",
+   "en": "Marc loves his car.",
+   "note": "sa: voiture is feminine, even if the owner is a man"
+  },
+  {
+   "fr": "Julie parle avec son père.",
+   "en": "Julie is talking with her father.",
+   "note": "son: père is masculine"
+  },
+  {
+   "fr": "Mon amie Sophie habite à Laval.",
+   "en": "My friend Sophie lives in Laval.",
+   "note": "mon before a feminine vowel"
+  },
+  {
+   "fr": "Quelle est votre adresse?",
+   "en": "What is your address?",
+   "note": "votre: polite; quelle: adresse is feminine"
+  },
+  {
+   "fr": "Notre appartement est petit.",
+   "en": "Our apartment is small."
+  },
+  {
+   "fr": "Nos voisins sont fins.",
+   "en": "Our neighbours are nice.",
+   "note": "fin = nice (Quebec)"
+  },
+  {
+   "fr": "Les enfants cherchent leurs bottes.",
+   "en": "The kids are looking for their boots.",
+   "note": "leurs: several boots"
+  },
+  {
+   "fr": "C'est leur maison.",
+   "en": "It's their house.",
+   "note": "leur: one house"
+  },
+  {
+   "fr": "Je te présente mon chum, Alex.",
+   "en": "Let me introduce my boyfriend, Alex.",
+   "note": "Quebec: chum = boyfriend"
+  },
+  {
+   "fr": "Ma blonde travaille ce soir.",
+   "en": "My girlfriend is working tonight.",
+   "note": "Quebec: blonde = girlfriend"
+  }
+ ],
+ "quebec": {
+  "intro": "In Quebec, your boyfriend is mon chum and your girlfriend is ma blonde, regardless of hair colour. Formal forms use conjoint / conjointe.",
+  "items": [
+   {
+    "std": "mon copain / mon petit ami",
+    "qc": "mon chum",
+    "en": "my boyfriend",
+    "note": "everyday Quebec; also 'my husband' casually"
+   },
+   {
+    "std": "ma copine / ma petite amie",
+    "qc": "ma blonde",
+    "en": "my girlfriend",
+    "note": "everyday Quebec; also 'my wife' casually"
+   },
+   {
+    "std": "un ami",
+    "qc": "un chum (de gars)",
+    "en": "a (male) friend",
+    "note": "informal; context tells boyfriend vs friend"
+   },
+   {
+    "std": "une amie",
+    "qc": "une chum (de fille)",
+    "en": "a (female) friend",
+    "note": "informal"
+   },
+   {
+    "std": "mon époux / mon épouse",
+    "qc": "mon conjoint / ma conjointe",
+    "en": "my spouse, partner",
+    "note": "standard in Quebec forms and formal speech"
+   },
+   {
+    "std": "ma mère",
+    "qc": "ma maère",
+    "en": "my mother",
+    "note": "informal pronunciation (diphthong, lesson 2)"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "___ sœur s'appelle Julie. (my)",
+   "options": [
+    "Mon",
+    "Ma",
+    "Mes",
+    "Me"
+   ],
+   "a": 1,
+   "why": "sœur is feminine: ma."
+  },
+  {
+   "t": "mcq",
+   "q": "'Paul aime sa mère.' What does 'sa' agree with?",
+   "options": [
+    "Paul",
+    "mère",
+    "both",
+    "neither"
+   ],
+   "a": 1,
+   "why": "Possessives agree with the thing owned."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is correct?",
+   "options": [
+    "ma amie",
+    "mon amie",
+    "mes amie",
+    "mon ami Sophie (with no -e)"
+   ],
+   "a": 1,
+   "why": "ma → mon before a feminine vowel; amie keeps its -e."
+  },
+  {
+   "t": "mcq",
+   "q": "'Their children' is…",
+   "options": [
+    "leur enfants",
+    "leurs enfants",
+    "ses enfants",
+    "leurs enfant"
+   ],
+   "a": 1,
+   "why": "Plural noun: leurs."
+  },
+  {
+   "t": "mcq",
+   "q": "In Quebec, 'ma blonde' means…",
+   "options": [
+    "my blond friend",
+    "my girlfriend",
+    "my sister",
+    "my beer"
+   ],
+   "a": 1,
+   "why": "blonde = girlfriend, whatever her hair colour."
+  },
+  {
+   "t": "fill",
+   "q": "___ parents sont à Toronto. (my)",
+   "a": [
+    "Mes"
+   ],
+   "en": "My parents are in Toronto.",
+   "why": "Plural: mes."
+  },
+  {
+   "t": "fill",
+   "q": "Julie parle avec ___ père. (her)",
+   "a": [
+    "son"
+   ],
+   "en": "Julie is talking with her father.",
+   "why": "père is masculine: son."
+  },
+  {
+   "t": "fill",
+   "q": "Quelle est ___ adresse? (your, polite)",
+   "a": [
+    "votre"
+   ],
+   "en": "What is your address?",
+   "why": "Polite your: votre."
+  },
+  {
+   "t": "fill",
+   "q": "___ voisins sont fins. (our)",
+   "a": [
+    "Nos"
+   ],
+   "en": "Our neighbours are nice.",
+   "why": "Plural: nos."
+  },
+  {
+   "t": "fill",
+   "q": "C'est ___ téléphone? (your, casual)",
+   "a": [
+    "ton"
+   ],
+   "en": "Is this your phone?",
+   "why": "téléphone is masculine: ton."
+  },
+  {
+   "t": "build",
+   "en": "Marc loves his car.",
+   "a": "Marc aime sa voiture."
+  },
+  {
+   "t": "build",
+   "en": "Let me introduce my boyfriend, Alex.",
+   "a": "Je te présente mon chum, Alex."
+  },
+  {
+   "t": "translate",
+   "en": "My girlfriend is working tonight.",
+   "a": [
+    "Ma blonde travaille ce soir.",
+    "Ma copine travaille ce soir.",
+    "Ma petite amie travaille ce soir.",
+    "Ma blonde travaille à soir."
+   ],
+   "why": "Quebec: ma blonde; à soir = ce soir (informal)."
+  },
+  {
+   "t": "translate",
+   "en": "It's their house.",
+   "a": [
+    "C'est leur maison."
+   ],
+   "why": "One house: leur."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "mon / ma / mes",
+   "en": "my",
+   "ex": "Mon père, ma mère, mes parents."
+  },
+  {
+   "fr": "ton / ta / tes",
+   "en": "your (tu)",
+   "ex": "C'est ta voiture?"
+  },
+  {
+   "fr": "son / sa / ses",
+   "en": "his, her, its",
+   "ex": "Elle aime son travail."
+  },
+  {
+   "fr": "notre / nos",
+   "en": "our",
+   "ex": "Notre maison, nos enfants."
+  },
+  {
+   "fr": "votre / vos",
+   "en": "your (vous)",
+   "ex": "Votre nom, s'il vous plaît?"
+  },
+  {
+   "fr": "leur / leurs",
+   "en": "their",
+   "ex": "Leur fils, leurs filles."
+  },
+  {
+   "fr": "le frère",
+   "en": "brother",
+   "g": "m",
+   "ex": "Mon frère a vingt ans."
+  },
+  {
+   "fr": "les parents",
+   "en": "parents",
+   "g": "m",
+   "ex": "Mes parents sont gentils."
+  },
+  {
+   "fr": "le voisin / la voisine",
+   "en": "neighbour",
+   "ex": "Ma voisine est fine."
+  },
+  {
+   "fr": "le chum",
+   "en": "boyfriend; buddy (informal)",
+   "g": "m",
+   "ex": "Mon chum s'appelle Alex.",
+   "qc": true
+  },
+  {
+   "fr": "la blonde",
+   "en": "girlfriend (informal)",
+   "g": "f",
+   "ex": "Ma blonde est infirmière.",
+   "qc": true
+  },
+  {
+   "fr": "le conjoint / la conjointe",
+   "en": "spouse, partner",
+   "ex": "Nom du conjoint.",
+   "qc": true
+  },
+  {
+   "fr": "le copain / la copine",
+   "en": "boyfriend / girlfriend; pal",
+   "ex": "Ma copine est française."
+  },
+  {
+   "fr": "les bottes",
+   "en": "boots",
+   "g": "f",
+   "ex": "Où sont mes bottes?"
+  },
+  {
+   "fr": "C'est à moi.",
+   "en": "It's mine.",
+   "ex": "Le café? C'est à moi."
+  },
+  {
+   "fr": "présenter",
+   "en": "to introduce",
+   "ex": "Je te présente ma blonde."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "mon, ton, son",
+    "tip": "Nasal on: mõ, tõ, sõ."
+   },
+   {
+    "fr": "mon amie",
+    "tip": "mõ-na-MEE: liaison [n]."
+   },
+   {
+    "fr": "mes enfants",
+    "tip": "may-zahn-FAHN: liaison [z]."
+   },
+   {
+    "fr": "leur, leurs",
+    "tip": "Same sound LUR; leurs‿enfants adds [z]."
+   },
+   {
+    "fr": "notre, votre",
+    "tip": "NOTR, VOTR: open o, the final -e is silent."
+   },
+   {
+    "fr": "mon chum",
+    "tip": "mõ TCHOM: Quebecers say 'tchomme'."
+   },
+   {
+    "fr": "ma blonde",
+    "tip": "ma BLÕD."
+   }
+  ],
+  "title": "La photo de famille",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "C'est ta famille sur la photo?",
+    "en": "Is that your family in the photo?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui! Là, c'est mes parents, et là, c'est mon frère et sa blonde.",
+    "en": "Yes! There are my parents, and there's my brother and his girlfriend."
+   },
+   {
+    "s": "A",
+    "fr": "Et la fille avec les cheveux bruns?",
+    "en": "And the girl with brown hair?"
+   },
+   {
+    "s": "B",
+    "fr": "C'est ma sœur, Léa. Son chum est à côté.",
+    "en": "That's my sister, Léa. Her boyfriend is next to her."
+   },
+   {
+    "s": "A",
+    "fr": "Votre maison est belle!",
+    "en": "Your house is beautiful!"
+   },
+   {
+    "s": "B",
+    "fr": "C'est la maison de mes parents, à Sherbrooke.",
+    "en": "It's my parents' house, in Sherbrooke."
+   },
+   {
+    "s": "A",
+    "fr": "Et ton chien?",
+    "en": "And your dog?"
+   },
+   {
+    "s": "B",
+    "fr": "Ah, c'est le chien de mon frère. Il s'appelle Biscuit!",
+    "en": "Ah, that's my brother's dog. His name is Biscuit!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Who is next to Léa?",
+    "options": [
+     "Her brother",
+     "Her boyfriend",
+     "Her father"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Where is the house?",
+    "options": [
+     "Montreal",
+     "Sherbrooke",
+     "Quebec City"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Whose dog is it?",
+    "options": [
+     "B's",
+     "B's brother's",
+     "Léa's"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Present four people in your life using mon, ma, mes or leur.",
+   "model": "Mon frère s'appelle Dan. Ma mère habite à Toronto. Mes voisins sont fins. Mon chum travaille à Laval."
+  },
+  {
+   "prompt": "Introduce your partner or a friend the Quebec way.",
+   "model": "Je te présente ma blonde, Sarah. / Je te présente mon chum, Alex."
+  },
+  {
+   "prompt": "Ask a polite question about someone's name, address and phone number.",
+   "model": "Quel est votre nom? Quelle est votre adresse? Quel est votre numéro de téléphone?"
+  }
+ ],
+ "write": {
+  "prompt": "Write 6 sentences about your family or friends, using at least five different possessive adjectives.",
+  "model": "Mes parents habitent à Toronto. Mon père est professeur et ma mère est infirmière. Ma sœur a deux enfants: leurs noms sont Léo et Emma. Mon amie Sophie habite à Montréal. Son chum est très fin. Notre famille est petite, mais on est proches."
+ },
+ "quiz": [
+  {
+   "q": "'Mon / ma / mes' depend on…",
+   "options": [
+    "the owner's gender",
+    "the gender and number of the thing owned",
+    "the verb",
+    "the region"
+   ],
+   "a": 1,
+   "why": "They agree with the noun."
+  },
+  {
+   "q": "'Sa maison' can mean…",
+   "options": [
+    "only her house",
+    "only his house",
+    "his or her house",
+    "their house"
+   ],
+   "a": 2,
+   "why": "sa agrees with maison, not the owner."
+  },
+  {
+   "q": "Which is correct for 'my school' (école, f.)?",
+   "options": [
+    "ma école",
+    "mon école",
+    "mes école",
+    "m'école"
+   ],
+   "a": 1,
+   "why": "mon before a feminine noun starting with a vowel."
+  },
+  {
+   "q": "'Votre' is used with…",
+   "options": [
+    "tu",
+    "vous",
+    "nous",
+    "ils"
+   ],
+   "a": 1,
+   "why": "votre / vos = your (vous)."
+  },
+  {
+   "q": "'Leur' vs 'leurs': 'their cars' is…",
+   "options": [
+    "leur voitures",
+    "leurs voitures",
+    "leurs voiture",
+    "ses voitures"
+   ],
+   "a": 1,
+   "why": "Plural noun → leurs."
+  },
+  {
+   "q": "In Quebec, 'mon chum' usually means…",
+   "options": [
+    "my boyfriend (or buddy)",
+    "my boss",
+    "my brother",
+    "my chewing gum"
+   ],
+   "a": 0,
+   "why": "chum = boyfriend; also a male friend."
+  },
+  {
+   "q": "On an official Quebec form, 'spouse' is usually…",
+   "options": [
+    "chum",
+    "blonde",
+    "conjoint / conjointe",
+    "copain"
+   ],
+   "a": 2,
+   "why": "conjoint(e) is the formal term."
+  },
+  {
+   "q": "'Nos amis' is pronounced…",
+   "options": [
+    "no a-mee",
+    "no-za-mee",
+    "nos-a-mee",
+    "no-sa-mee"
+   ],
+   "a": 1,
+   "why": "Liaison [z]."
+  },
+  {
+   "q": "How do you say 'It's mine'?",
+   "options": [
+    "C'est mon.",
+    "C'est à moi.",
+    "C'est ma.",
+    "C'est mien."
+   ],
+   "a": 1,
+   "why": "à moi = mine."
+  }
+ ]
+}

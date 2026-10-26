@@ -1,0 +1,702 @@
+{
+ "w": 8,
+ "title": "Greetings and introducing yourself",
+ "goal": "By the end of this lesson you can greet people formally and casually, introduce yourself (name, origin, where you live), say goodbye, and handle the Montreal 'Bonjour-hi' at the counter.",
+ "learn": [
+  {
+   "h": "Saying hello",
+   "body": [
+    "*Bonjour* (good day) is the all-purpose greeting, polite with everyone, from morning to late afternoon. *Bonsoir* (good evening) is used from around supper time on.",
+    "*Salut* (hi) is casual: friends, coworkers, people your age. In Quebec, *Allô!* is also a friendly 'hi' face to face, not only on the phone."
+   ],
+   "table": {
+    "head": [
+     "French",
+     "English",
+     "Register"
+    ],
+    "rows": [
+     [
+      "Bonjour!",
+      "Hello / Good morning",
+      "polite, any time of day"
+     ],
+     [
+      "Bonsoir!",
+      "Good evening",
+      "polite, evening"
+     ],
+     [
+      "Salut!",
+      "Hi!",
+      "casual"
+     ],
+     [
+      "Allô!",
+      "Hi! / Hello (phone)",
+      "casual, very Quebec"
+     ]
+    ]
+   },
+   "tip": "Always start with Bonjour when you walk into a shop or office. Skipping it sounds rude."
+  },
+  {
+   "h": "How are you?",
+   "body": [
+    "Casual: *Ça va?* (How's it going?) — answer *Ça va bien* (good), *Ça va* (OK), *Pas pire* (not bad, very Quebec). Polite: *Comment allez-vous?* — answer *Je vais bien, merci. Et vous?*",
+    "With a friend: *Comment ça va?* or *Comment vas-tu?* — answer *Bien, et toi?*"
+   ],
+   "table": {
+    "head": [
+     "Question",
+     "Answer"
+    ],
+    "rows": [
+     [
+      "Ça va?",
+      "Oui, ça va bien. Et toi?"
+     ],
+     [
+      "Comment ça va?",
+      "Bien, merci!"
+     ],
+     [
+      "Comment allez-vous?",
+      "Très bien, merci. Et vous?"
+     ],
+     [
+      "Ça va bien?",
+      "Pas pire! (Quebec: pretty good)"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Introducing yourself",
+   "body": [
+    "Give your name with *Je m'appelle…* (or casually *Moi, c'est…*). Say where you come from with *Je viens de…* or *Je suis de…*, and where you live with *J'habite à…*.",
+    "When you meet someone: *Enchanté* (a man says it) / *Enchantée* (a woman writes it; same sound). In Quebec you will also hear *Content de te rencontrer* or simply *Allô, ça va?*"
+   ],
+   "table": {
+    "head": [
+     "French",
+     "English"
+    ],
+    "rows": [
+     [
+      "Je m'appelle Sam.",
+      "My name is Sam."
+     ],
+     [
+      "Moi, c'est Sam.",
+      "I'm Sam."
+     ],
+     [
+      "Je viens de Toronto.",
+      "I come from Toronto."
+     ],
+     [
+      "Je suis canadien / canadienne.",
+      "I'm Canadian."
+     ],
+     [
+      "J'habite à Montréal.",
+      "I live in Montreal."
+     ],
+     [
+      "Je parle un peu français.",
+      "I speak a little French."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Saying goodbye and thank you",
+   "body": [
+    "*Au revoir* is the neutral goodbye. *Bonne journée!* (have a good day) and *Bonne soirée!* (have a good evening) are what you hear at every counter. *À demain* = see you tomorrow, *À plus tard* or *À plus* = see you later, *À la prochaine* = until next time.",
+    "In Quebec, *Bye!* or *Bye-bye!* is very common in casual French, and *À tantôt* means 'see you later today'. After *merci*, Quebecers often answer *Bienvenue!* (you're welcome) as well as the standard *De rien* or *Avec plaisir*."
+   ],
+   "tip": "Quebec 'tantôt' = later today or earlier today, depending on the verb tense."
+  },
+  {
+   "h": "Quebec: 'Bonjour-hi' in Montreal",
+   "body": [
+    "In many downtown Montreal stores, staff greet you with *Bonjour-hi!* to let you choose the language. Your answer decides the language of the conversation: answer *Bonjour!* and they will continue in French.",
+    "Elsewhere in Quebec, you'll just hear *Bonjour!* — and in casual places, *Allô!* or *Salut!*"
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Bonjour, madame!",
+   "en": "Hello, ma'am!",
+   "note": "polite: always fine"
+  },
+  {
+   "fr": "Salut, Marc! Ça va?",
+   "en": "Hi Marc! How's it going?",
+   "note": "casual"
+  },
+  {
+   "fr": "Oui, ça va bien. Et toi?",
+   "en": "Yes, I'm good. And you?",
+   "note": "toi with tu; vous with vous"
+  },
+  {
+   "fr": "Comment allez-vous?",
+   "en": "How are you?",
+   "note": "polite"
+  },
+  {
+   "fr": "Je vais bien, merci. Et vous?",
+   "en": "I'm well, thank you. And you?",
+   "note": "polite answer"
+  },
+  {
+   "fr": "Je m'appelle Sam. Et toi?",
+   "en": "My name is Sam. And you?",
+   "note": "Et toi? = and you? (casual)"
+  },
+  {
+   "fr": "Enchantée!",
+   "en": "Nice to meet you!",
+   "note": "written with -e by a woman; same sound"
+  },
+  {
+   "fr": "Je viens de Toronto.",
+   "en": "I come from Toronto.",
+   "note": "venir de + city"
+  },
+  {
+   "fr": "J'habite à Montréal depuis un an.",
+   "en": "I've lived in Montreal for a year.",
+   "note": "depuis + present = for (and still)"
+  },
+  {
+   "fr": "Je parle un peu français.",
+   "en": "I speak a little French.",
+   "note": "very useful sentence"
+  },
+  {
+   "fr": "Pouvez-vous parler plus lentement?",
+   "en": "Can you speak more slowly?",
+   "note": "polite request"
+  },
+  {
+   "fr": "Bonne journée!",
+   "en": "Have a good day!",
+   "note": "the standard goodbye at a counter"
+  },
+  {
+   "fr": "À demain!",
+   "en": "See you tomorrow!"
+  },
+  {
+   "fr": "Allô! Ça va bien?",
+   "en": "Hi! Doing well?",
+   "note": "Quebec: allô as a face-to-face hello"
+  },
+  {
+   "fr": "Merci! — Bienvenue!",
+   "en": "Thanks! — You're welcome!",
+   "note": "Quebec usage of bienvenue"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebec greetings are warm and quick: Salut, ça va?, Allô!, Pas pire, Bienvenue. In downtown Montreal stores, 'Bonjour-hi' invites you to pick the language: answer in French.",
+  "items": [
+   {
+    "std": "Bonjour, comment allez-vous?",
+    "qc": "Allô, ça va?",
+    "en": "Hi, how are you?",
+    "note": "casual Quebec"
+   },
+   {
+    "std": "Ça va assez bien.",
+    "qc": "Pas pire!",
+    "en": "Not bad! / Pretty good!",
+    "note": "informal; pas pire is positive in Quebec"
+   },
+   {
+    "std": "De rien.",
+    "qc": "Bienvenue!",
+    "en": "You're welcome!",
+    "note": "very common in Quebec; avoid it in France, where it only means 'welcome'"
+   },
+   {
+    "std": "Au revoir!",
+    "qc": "Bye! / Bye-bye!",
+    "en": "Bye!",
+    "note": "informal, extremely common"
+   },
+   {
+    "std": "À plus tard!",
+    "qc": "À tantôt!",
+    "en": "See you later (today)!",
+    "note": "tantôt also exists in France but is far more common in Quebec"
+   },
+   {
+    "std": "Bonjour! (shop greeting)",
+    "qc": "Bonjour-hi!",
+    "en": "Hello! (French or English?)",
+    "note": "downtown Montreal stores; answer Bonjour! to continue in French"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "You walk into a pharmacy at 10 a.m. You say…",
+   "options": [
+    "Bonsoir!",
+    "Bonjour!",
+    "Bonne nuit!",
+    "À demain!"
+   ],
+   "a": 1,
+   "why": "Bonjour is the polite daytime greeting."
+  },
+  {
+   "t": "mcq",
+   "q": "A friend asks 'Ça va?'. A natural Quebec answer is…",
+   "options": [
+    "Bonjour!",
+    "Pas pire, toi?",
+    "Enchanté!",
+    "Bienvenue!"
+   ],
+   "a": 1,
+   "why": "Pas pire = pretty good, very Quebec."
+  },
+  {
+   "t": "mcq",
+   "q": "A Montreal cashier says 'Bonjour-hi!'. You want French. You say…",
+   "options": [
+    "Hi!",
+    "Bonjour!",
+    "Bye!",
+    "Allô?"
+   ],
+   "a": 1,
+   "why": "Answering in French keeps the conversation in French."
+  },
+  {
+   "t": "mcq",
+   "q": "In Quebec, after 'Merci!', 'Bienvenue!' means…",
+   "options": [
+    "Welcome to Quebec",
+    "You're welcome",
+    "Goodbye",
+    "Good luck"
+   ],
+   "a": 1,
+   "why": "Quebec uses bienvenue for 'you're welcome'."
+  },
+  {
+   "t": "mcq",
+   "q": "A woman meeting someone writes…",
+   "options": [
+    "Enchanté",
+    "Enchantée",
+    "Enchantés",
+    "Enchanter"
+   ],
+   "a": 1,
+   "why": "Feminine agreement: -e (same pronunciation)."
+  },
+  {
+   "t": "fill",
+   "q": "Je ___ Sam. (am called)",
+   "a": [
+    "m'appelle"
+   ],
+   "en": "My name is Sam.",
+   "why": "s'appeler: je m'appelle."
+  },
+  {
+   "t": "fill",
+   "q": "Je viens ___ Toronto. (from)",
+   "a": [
+    "de"
+   ],
+   "en": "I come from Toronto.",
+   "why": "venir de + city."
+  },
+  {
+   "t": "fill",
+   "q": "J'habite ___ Montréal. (in)",
+   "a": [
+    "à"
+   ],
+   "en": "I live in Montreal.",
+   "why": "à + city."
+  },
+  {
+   "t": "fill",
+   "q": "Bonne ___! (day)",
+   "a": [
+    "journée"
+   ],
+   "en": "Have a good day!",
+   "why": "Bonne journée is the standard counter goodbye."
+  },
+  {
+   "t": "build",
+   "en": "I speak a little French.",
+   "a": "Je parle un peu français."
+  },
+  {
+   "t": "build",
+   "en": "I'm well, thank you. And you?",
+   "a": "Je vais bien, merci. Et vous?"
+  },
+  {
+   "t": "translate",
+   "en": "See you tomorrow!",
+   "a": [
+    "À demain!",
+    "À demain."
+   ],
+   "why": "à + time expression."
+  },
+  {
+   "t": "translate",
+   "en": "How are you?",
+   "a": [
+    "Comment allez-vous?",
+    "Ça va?",
+    "Comment ça va?",
+    "Comment vas-tu?",
+    "Vous allez bien?",
+    "Tu vas bien?",
+    "Ça va bien?"
+   ],
+   "why": "Formal or casual are both fine."
+  },
+  {
+   "t": "translate",
+   "en": "I live in Montreal.",
+   "a": [
+    "J'habite à Montréal.",
+    "Je vis à Montréal.",
+    "Je demeure à Montréal.",
+    "Je reste à Montréal."
+   ],
+   "why": "J'habite is the most common; demeurer and rester are also used in Quebec."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "bonjour",
+   "en": "hello, good morning",
+   "ex": "Bonjour, monsieur!"
+  },
+  {
+   "fr": "bonsoir",
+   "en": "good evening",
+   "ex": "Bonsoir, tout le monde!"
+  },
+  {
+   "fr": "salut",
+   "en": "hi (casual)",
+   "ex": "Salut, Julie!"
+  },
+  {
+   "fr": "allô",
+   "en": "hi, hello (also on the phone)",
+   "ex": "Allô! Ça va?",
+   "qc": true
+  },
+  {
+   "fr": "Ça va?",
+   "en": "How's it going?",
+   "ex": "Salut, ça va?"
+  },
+  {
+   "fr": "pas pire",
+   "en": "not bad, pretty good",
+   "ex": "Ça va? — Pas pire!",
+   "qc": true
+  },
+  {
+   "fr": "Je m'appelle…",
+   "en": "My name is…",
+   "ex": "Je m'appelle Ryan."
+  },
+  {
+   "fr": "enchanté / enchantée",
+   "en": "nice to meet you",
+   "ex": "Enchanté, Sophie!"
+  },
+  {
+   "fr": "venir de",
+   "en": "to come from",
+   "ex": "Je viens de Calgary."
+  },
+  {
+   "fr": "habiter",
+   "en": "to live (somewhere)",
+   "ex": "J'habite à Laval."
+  },
+  {
+   "fr": "au revoir",
+   "en": "goodbye",
+   "ex": "Au revoir, madame!"
+  },
+  {
+   "fr": "bonne journée",
+   "en": "have a good day",
+   "ex": "Merci, bonne journée!"
+  },
+  {
+   "fr": "à demain",
+   "en": "see you tomorrow",
+   "ex": "Bye, à demain!"
+  },
+  {
+   "fr": "à tantôt",
+   "en": "see you later (today)",
+   "ex": "On se voit à tantôt.",
+   "qc": true
+  },
+  {
+   "fr": "bienvenue",
+   "en": "welcome; you're welcome (Quebec)",
+   "ex": "Merci! — Bienvenue!",
+   "qc": true
+  },
+  {
+   "fr": "de rien",
+   "en": "you're welcome",
+   "ex": "Merci! — De rien."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "bonjour",
+    "tip": "bõ-ZHOOR: nasal on, then zh."
+   },
+   {
+    "fr": "Ça va?",
+    "tip": "sa VA, rising at the end for a question."
+   },
+   {
+    "fr": "Je m'appelle",
+    "tip": "zhuh ma-PEL; casual: zh'ma-PEL."
+   },
+   {
+    "fr": "enchanté",
+    "tip": "ahn-shahn-TAY: two nasal ahn sounds."
+   },
+   {
+    "fr": "bonne journée",
+    "tip": "bonn zhoor-NAY: bonne is not nasal."
+   },
+   {
+    "fr": "pas pire",
+    "tip": "pa PEER, said quickly as one expression."
+   },
+   {
+    "fr": "à tantôt",
+    "tip": "a tahn-TO."
+   }
+  ],
+  "title": "Au dépanneur",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Bonjour-hi!",
+    "en": "Hello-hi!"
+   },
+   {
+    "s": "B",
+    "fr": "Bonjour! Ça va?",
+    "en": "Hello! How's it going?"
+   },
+   {
+    "s": "A",
+    "fr": "Pas pire, et vous?",
+    "en": "Pretty good, and you?"
+   },
+   {
+    "s": "B",
+    "fr": "Ça va bien, merci. Un café, s'il vous plaît.",
+    "en": "I'm good, thanks. A coffee, please."
+   },
+   {
+    "s": "A",
+    "fr": "Voilà. Vous êtes nouveau dans le quartier?",
+    "en": "Here you go. Are you new in the neighbourhood?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, je viens de Toronto. Je m'appelle Ryan.",
+    "en": "Yes, I come from Toronto. My name is Ryan."
+   },
+   {
+    "s": "A",
+    "fr": "Enchanté, Ryan! Moi, c'est Karim.",
+    "en": "Nice to meet you, Ryan! I'm Karim."
+   },
+   {
+    "s": "B",
+    "fr": "Merci, Karim! Bonne journée!",
+    "en": "Thanks, Karim! Have a good day!"
+   },
+   {
+    "s": "A",
+    "fr": "Bienvenue! Bye!",
+    "en": "You're welcome! Bye!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "How does Karim greet Ryan at first?",
+    "options": [
+     "Salut!",
+     "Bonjour-hi!",
+     "Bonsoir!"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Where does Ryan come from?",
+    "options": [
+     "Montreal",
+     "Toronto",
+     "Quebec City"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does Karim answer to 'Merci'?",
+    "options": [
+     "De rien",
+     "Bienvenue",
+     "Avec plaisir"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Introduce yourself in 3 sentences: name, where you come from, where you live.",
+   "model": "Bonjour! Je m'appelle Ryan. Je viens de Toronto. J'habite à Montréal."
+  },
+  {
+   "prompt": "Greet a friend casually and answer 'Ça va?' the Quebec way.",
+   "model": "Salut! Ça va? — Pas pire, toi?"
+  },
+  {
+   "prompt": "A cashier says 'Bonjour-hi!'. Answer, order a coffee, and say goodbye.",
+   "model": "Bonjour! Un café, s'il vous plaît. Merci, bonne journée!"
+  }
+ ],
+ "write": {
+  "prompt": "Write a short message (4–6 sentences) introducing yourself to a new French-speaking neighbour.",
+  "model": "Bonjour! Je m'appelle Ryan. Je viens de Toronto, mais j'habite à Montréal maintenant. J'habite au numéro 12. Je parle un peu français. Bonne journée!"
+ },
+ "quiz": [
+  {
+   "q": "Which greeting is casual?",
+   "options": [
+    "Bonjour",
+    "Bonsoir",
+    "Salut",
+    "Comment allez-vous?"
+   ],
+   "a": 2,
+   "why": "Salut is for friends and casual settings."
+  },
+  {
+   "q": "When do you say 'Bonsoir'?",
+   "options": [
+    "In the morning",
+    "From around supper time",
+    "Only at midnight",
+    "Only on the phone"
+   ],
+   "a": 1,
+   "why": "Bonsoir = good evening."
+  },
+  {
+   "q": "'Comment allez-vous?' is…",
+   "options": [
+    "casual",
+    "polite",
+    "Quebec slang",
+    "a goodbye"
+   ],
+   "a": 1,
+   "why": "It uses vous: polite or plural."
+  },
+  {
+   "q": "'Je viens de Calgary' means…",
+   "options": [
+    "I'm going to Calgary",
+    "I come from Calgary",
+    "I live in Calgary",
+    "I like Calgary"
+   ],
+   "a": 1,
+   "why": "venir de = to come from."
+  },
+  {
+   "q": "In Quebec, 'Allô!' can be…",
+   "options": [
+    "only a phone greeting",
+    "a face-to-face 'hi' too",
+    "a goodbye",
+    "rude"
+   ],
+   "a": 1,
+   "why": "Quebecers use allô as a friendly hello in person."
+  },
+  {
+   "q": "'À tantôt' means…",
+   "options": [
+    "see you next year",
+    "see you later today",
+    "good night",
+    "welcome"
+   ],
+   "a": 1,
+   "why": "tantôt = a bit later (or earlier) today."
+  },
+  {
+   "q": "Which is the standard goodbye at a store counter?",
+   "options": [
+    "Bonne journée!",
+    "Enchanté!",
+    "Ça va?",
+    "Pas pire!"
+   ],
+   "a": 0,
+   "why": "Have a good day!"
+  },
+  {
+   "q": "What does 'Pas pire' mean in Quebec?",
+   "options": [
+    "Very bad",
+    "Pretty good / not bad",
+    "No problem",
+    "Never mind"
+   ],
+   "a": 1,
+   "why": "It's a positive answer, like 'not bad at all'."
+  },
+  {
+   "q": "'Et toi?' is used with…",
+   "options": [
+    "tu",
+    "vous",
+    "on",
+    "ils"
+   ],
+   "a": 0,
+   "why": "Et toi? (casual) vs Et vous? (polite)."
+  }
+ ]
+}

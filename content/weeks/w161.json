@@ -1,0 +1,648 @@
+{
+ "w": 161,
+ "title": "Quebec expressions set 7",
+ "goal": "By the end of this lesson you can understand and use Quebec idioms that come from hockey and other sports, from music and from politics, and you know their international equivalents.",
+ "learn": [
+  {
+   "h": "From the rink and the ring: sports idioms",
+   "body": [
+    "Hockey, baseball and boxing have given Quebec French a rich supply of metaphors that you hear in politics, business and daily life.",
+    "*Jeter les gants* (to drop the gloves): to get ready for an open fight, to stop being polite. *Lancer la serviette* (to throw in the towel): to give up; France says *jeter l'éponge*. *Être dans les câbles* (to be on the ropes): to be in serious trouble. *Compter dans son propre filet* (to score on one's own net): to make a mistake that helps your opponent."
+   ],
+   "table": {
+    "head": [
+     "Quebec idiom",
+     "Meaning",
+     "International equivalent"
+    ],
+    "rows": [
+     [
+      "jeter les gants",
+      "go into open combat",
+      "passer à l'attaque"
+     ],
+     [
+      "lancer la serviette",
+      "give up",
+      "jeter l'éponge"
+     ],
+     [
+      "être dans les câbles",
+      "be on the ropes",
+      "être en mauvaise posture"
+     ],
+     [
+      "compter dans son propre filet",
+      "score an own goal",
+      "marquer contre son camp"
+     ],
+     [
+      "lancer une balle courbe",
+      "throw a curveball",
+      "prendre quelqu'un au dépourvu"
+     ],
+     [
+      "frapper un coup de circuit",
+      "hit a home run",
+      "remporter un franc succès"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Politics: words and deeds",
+   "body": [
+    "*Il faut que les bottines suivent les babines* (the boots must follow the lips): actions must match words. A favourite line in election campaigns.",
+    "*Un pelleteux de nuages* (a cloud-shoveller): an unrealistic dreamer. *Avoir le gros bout du bâton* (to hold the big end of the stick): to have the upper hand. *Le gros bon sens*: plain common sense, often invoked by populist politicians. *Faire du chiâlage* / *chiâler*: to complain constantly."
+   ],
+   "tip": "Les bottines suivent les babines: babines = lips (of an animal, informally a person)."
+  },
+  {
+   "h": "Music: songs and tunes",
+   "body": [
+    "*Une toune* (from English 'tune') is the everyday Quebec word for a song. *C'est toujours la même toune*: it's always the same old story. *Changer de disque*: to change the record (also used in France).",
+    "*Accorder ses violons* (to tune one's violins): to agree on a common position, a standard French idiom heard often in Quebec politics. *Chanter la pomme à quelqu'un*: to sweet-talk or flirt with someone (Quebec)."
+   ]
+  },
+  {
+   "h": "Register and use",
+   "body": [
+    "Most of these expressions are neutral-to-familiar: commentators and politicians use them on TV, and journalists put them in headlines. *Chiâler*, *toune* and *pelleteux* are clearly familiar.",
+    "In a formal text, use the international equivalent: *jeter l'éponge*, *joindre le geste à la parole*, *idéaliste*, *avoir l'avantage*."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Après la défaite, le chef a décidé de lancer la serviette.",
+   "en": "After the defeat, the leader decided to throw in the towel.",
+   "note": "lancer la serviette = give up"
+  },
+  {
+   "fr": "Pendant le débat, les deux candidats ont jeté les gants.",
+   "en": "During the debate, the two candidates took the gloves off.",
+   "note": "jeter les gants, from hockey fights"
+  },
+  {
+   "fr": "Avec ce scandale, le gouvernement est dans les câbles.",
+   "en": "With this scandal, the government is on the ropes.",
+   "note": "boxing image"
+  },
+  {
+   "fr": "En attaquant ses propres alliés, le ministre a compté dans son propre filet.",
+   "en": "By attacking his own allies, the minister scored on his own net.",
+   "note": "own goal"
+  },
+  {
+   "fr": "Le patron m'a lancé une balle courbe : il veut le rapport demain.",
+   "en": "The boss threw me a curveball: he wants the report tomorrow.",
+   "note": "from baseball"
+  },
+  {
+   "fr": "Avec son premier album, elle a frappé un coup de circuit.",
+   "en": "With her first album, she hit a home run.",
+   "note": "big success"
+  },
+  {
+   "fr": "Il faut que les bottines suivent les babines.",
+   "en": "Actions must match words.",
+   "note": "classic Quebec political line"
+  },
+  {
+   "fr": "L'opposition traite le premier ministre de pelleteux de nuages.",
+   "en": "The opposition calls the premier an unrealistic dreamer.",
+   "note": "familiar insult"
+  },
+  {
+   "fr": "Dans cette négociation, c'est le syndicat qui a le gros bout du bâton.",
+   "en": "In this negotiation, it's the union that has the upper hand.",
+   "note": "avoir le gros bout du bâton"
+  },
+  {
+   "fr": "C'est une question de gros bon sens.",
+   "en": "It's a question of plain common sense.",
+   "note": "le gros bon sens"
+  },
+  {
+   "fr": "Arrête de chiâler pis aide-moi!",
+   "en": "Stop complaining and help me!",
+   "note": "chiâler = complain (familiar)"
+  },
+  {
+   "fr": "J'ai la toune de Céline Dion dans la tête depuis ce matin.",
+   "en": "I've had that Céline Dion song in my head since this morning.",
+   "note": "toune = song (familiar)"
+  },
+  {
+   "fr": "Avec lui, c'est toujours la même toune : c'est la faute des autres.",
+   "en": "With him it's always the same old song: it's someone else's fault.",
+   "note": "familiar"
+  },
+  {
+   "fr": "Les partenaires doivent accorder leurs violons avant la conférence de presse.",
+   "en": "The partners need to get on the same page before the press conference.",
+   "note": "accorder ses violons = agree on a position"
+  },
+  {
+   "fr": "Il passe ses soirées à chanter la pomme à sa voisine.",
+   "en": "He spends his evenings sweet-talking his neighbour.",
+   "note": "chanter la pomme (Quebec)"
+  },
+  {
+   "fr": "On prend ça un match à la fois.",
+   "en": "We're taking it one game at a time.",
+   "note": "the hockey interview cliché; informally 'une game à la fois'"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebec's love of hockey, baseball and music, and its lively political scene, have produced idioms that politicians, commentators and ordinary people use every day. Each is shown with its international French equivalent.",
+  "items": [
+   {
+    "std": "Il a jeté l'éponge.",
+    "qc": "Y'a lancé la serviette.",
+    "en": "He threw in the towel.",
+    "note": "Quebec uses serviette (towel) like English; France uses éponge (sponge)"
+   },
+   {
+    "std": "Ils sont passés à l'attaque.",
+    "qc": "Y'ont jeté les gants.",
+    "en": "They took the gloves off.",
+    "note": "from hockey fights"
+   },
+   {
+    "std": "Il faut joindre le geste à la parole.",
+    "qc": "Faut que les bottines suivent les babines.",
+    "en": "You have to walk the talk.",
+    "note": "familiar but used by politicians"
+   },
+   {
+    "std": "C'est un idéaliste qui n'a pas les pieds sur terre.",
+    "qc": "C'est un pelleteux de nuages.",
+    "en": "He's a head-in-the-clouds dreamer.",
+    "note": "familiar, a bit mocking"
+   },
+   {
+    "std": "Elle a l'avantage dans ce dossier.",
+    "qc": "A l'a le gros bout du bâton.",
+    "en": "She has the upper hand.",
+    "note": "'a l'a' = elle a (very informal); 'Elle a le gros bout du bâton' in neutral speech"
+   },
+   {
+    "std": "Il se plaint sans arrêt.",
+    "qc": "Y chiâle tout le temps.",
+    "en": "He complains all the time.",
+    "note": "chiâler: familiar"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "'Lancer la serviette' means…",
+   "options": [
+    "to dry off",
+    "to give up",
+    "to start a fight",
+    "to celebrate"
+   ],
+   "a": 1,
+   "why": "= jeter l'éponge."
+  },
+  {
+   "t": "mcq",
+   "q": "'Les bottines suivent les babines' means…",
+   "options": [
+    "Boots are expensive",
+    "Actions match words",
+    "Walk slowly",
+    "Talk is cheap"
+   ],
+   "a": 1,
+   "why": "Your deeds follow your words."
+  },
+  {
+   "t": "mcq",
+   "q": "A 'pelleteux de nuages' is…",
+   "options": [
+    "a snow-removal worker",
+    "an unrealistic dreamer",
+    "a weather forecaster",
+    "a hard worker"
+   ],
+   "a": 1,
+   "why": "Someone who shovels clouds."
+  },
+  {
+   "t": "mcq",
+   "q": "'Être dans les câbles' comes from…",
+   "options": [
+    "hockey",
+    "boxing",
+    "music",
+    "fishing"
+   ],
+   "a": 1,
+   "why": "On the ropes of the boxing ring."
+  },
+  {
+   "t": "mcq",
+   "q": "'Une toune' is…",
+   "options": [
+    "a tour",
+    "a song",
+    "a tuna",
+    "a turn"
+   ],
+   "a": 1,
+   "why": "Quebec familiar word for a song."
+  },
+  {
+   "t": "fill",
+   "q": "Dans ce dossier, c'est nous qui avons le gros bout du ___.",
+   "a": [
+    "bâton"
+   ],
+   "en": "On this file, we have the upper hand.",
+   "why": "avoir le gros bout du bâton."
+  },
+  {
+   "t": "fill",
+   "q": "Avec cette erreur, il a compté dans son propre ___.",
+   "a": [
+    "filet"
+   ],
+   "en": "With that mistake, he scored on his own net.",
+   "why": "compter dans son propre filet."
+  },
+  {
+   "t": "fill",
+   "q": "Les deux partis doivent accorder leurs ___.",
+   "a": [
+    "violons"
+   ],
+   "en": "The two parties must get on the same page.",
+   "why": "accorder ses violons."
+  },
+  {
+   "t": "fill",
+   "q": "Son nouveau film? Un vrai coup de ___!",
+   "a": [
+    "circuit"
+   ],
+   "en": "Her new film? A real home run!",
+   "why": "un coup de circuit = a home run."
+  },
+  {
+   "t": "build",
+   "en": "The candidates took the gloves off.",
+   "a": "Les candidats ont jeté les gants."
+  },
+  {
+   "t": "build",
+   "en": "Stop complaining all the time!",
+   "a": "Arrête de chiâler tout le temps!"
+  },
+  {
+   "t": "build",
+   "en": "It's a question of common sense.",
+   "a": "C'est une question de gros bon sens."
+  },
+  {
+   "t": "translate",
+   "en": "He threw in the towel.",
+   "a": [
+    "Il a lancé la serviette.",
+    "Il a jeté l'éponge.",
+    "Y'a lancé la serviette.",
+    "Il a abandonné."
+   ],
+   "why": "Quebec: lancer la serviette; France: jeter l'éponge."
+  },
+  {
+   "t": "translate",
+   "en": "The boss threw me a curveball.",
+   "a": [
+    "Le patron m'a lancé une balle courbe.",
+    "Mon patron m'a lancé une balle courbe.",
+    "La patronne m'a lancé une balle courbe.",
+    "Le patron m'a pris au dépourvu."
+   ],
+   "why": "lancer une balle courbe (Quebec)."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "lancer la serviette",
+   "en": "to throw in the towel",
+   "ex": "Ne lance pas la serviette si vite!",
+   "qc": true
+  },
+  {
+   "fr": "jeter les gants",
+   "en": "to drop the gloves, start a fight",
+   "ex": "Les deux chefs ont jeté les gants.",
+   "qc": true
+  },
+  {
+   "fr": "être dans les câbles",
+   "en": "to be on the ropes",
+   "ex": "L'entreprise est dans les câbles.",
+   "qc": true
+  },
+  {
+   "fr": "la balle courbe",
+   "en": "curveball",
+   "g": "f",
+   "ex": "Cette question était une balle courbe.",
+   "qc": true
+  },
+  {
+   "fr": "le coup de circuit",
+   "en": "home run",
+   "g": "m",
+   "ex": "Ce contrat, c'est un coup de circuit!",
+   "qc": true
+  },
+  {
+   "fr": "le filet",
+   "en": "net (hockey goal)",
+   "g": "m",
+   "ex": "La rondelle est entrée dans le filet."
+  },
+  {
+   "fr": "la rondelle",
+   "en": "puck (also la puck, familiar)",
+   "g": "f",
+   "ex": "Il a perdu la rondelle à la ligne bleue.",
+   "qc": true
+  },
+  {
+   "fr": "les babines",
+   "en": "lips, chops (informal)",
+   "g": "f",
+   "ex": "Il s'en lèche les babines."
+  },
+  {
+   "fr": "le pelleteux de nuages",
+   "en": "unrealistic dreamer (familiar)",
+   "g": "m",
+   "ex": "On l'a traité de pelleteux de nuages.",
+   "qc": true
+  },
+  {
+   "fr": "le gros bon sens",
+   "en": "plain common sense",
+   "g": "m",
+   "ex": "Ça relève du gros bon sens.",
+   "qc": true
+  },
+  {
+   "fr": "chiâler",
+   "en": "to complain, gripe (familiar)",
+   "ex": "Il chiâle contre les impôts.",
+   "qc": true
+  },
+  {
+   "fr": "la toune",
+   "en": "song, tune (familiar)",
+   "g": "f",
+   "ex": "Mets une bonne toune!",
+   "qc": true
+  },
+  {
+   "fr": "accorder ses violons",
+   "en": "to get on the same page",
+   "ex": "Il faudrait accorder nos violons avant la réunion."
+  },
+  {
+   "fr": "chanter la pomme",
+   "en": "to sweet-talk, flirt",
+   "ex": "Arrête de lui chanter la pomme!",
+   "qc": true
+  },
+  {
+   "fr": "jeter l'éponge",
+   "en": "to give up (international)",
+   "ex": "Après trois échecs, il a jeté l'éponge."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "chiâler",
+    "tip": "shyâ-LÉ: the â is a long, back a typical of Quebec."
+   },
+   {
+    "fr": "pelleteux",
+    "tip": "pèl-TEU: -eux replaces -eur in familiar Quebec speech (pelleteur → pelleteux)."
+   },
+   {
+    "fr": "toune",
+    "tip": "TOON."
+   },
+   {
+    "fr": "les bottines suivent les babines",
+    "tip": "lé-bo-TINN swiv-lé-ba-BINN: a rhyme, easy to remember."
+   },
+   {
+    "fr": "coup de circuit",
+    "tip": "koo-d'sir-KUI."
+   },
+   {
+    "fr": "la balle courbe",
+    "tip": "la-bal-KOORB."
+   }
+  ],
+  "title": "Soirée électorale",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "T'as vu le débat hier? Les deux chefs ont jeté les gants dès la première minute!",
+    "en": "Did you see the debate yesterday? The two leaders took the gloves off from the first minute!"
+   },
+   {
+    "s": "B",
+    "fr": "Oui! Mais le chef de l'opposition a compté dans son propre filet avec sa promesse sur les impôts.",
+    "en": "Yes! But the opposition leader scored on his own net with his tax promise."
+   },
+   {
+    "s": "A",
+    "fr": "C'est vrai. Il promet tout, mais il faut que les bottines suivent les babines.",
+    "en": "True. He promises everything, but actions have to match words."
+   },
+   {
+    "s": "B",
+    "fr": "Ma mère dit que c'est un pelleteux de nuages.",
+    "en": "My mother says he's a head-in-the-clouds dreamer."
+   },
+   {
+    "s": "A",
+    "fr": "Pis la première ministre, elle?",
+    "en": "And the premier?"
+   },
+   {
+    "s": "B",
+    "fr": "Elle était dans les câbles au début, mais la question sur l'économie, c'était une balle courbe pour tout le monde.",
+    "en": "She was on the ropes at first, but the economy question was a curveball for everyone."
+   },
+   {
+    "s": "A",
+    "fr": "Selon les sondages, c'est elle qui a le gros bout du bâton.",
+    "en": "According to the polls, she has the upper hand."
+   },
+   {
+    "s": "B",
+    "fr": "On verra. En politique, rien n'est joué avant le soir des élections.",
+    "en": "We'll see. In politics, nothing is decided until election night."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What mistake did the opposition leader make?",
+    "options": [
+     "He was late",
+     "He made a tax promise that backfired",
+     "He insulted a journalist"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does B's mother think of him?",
+    "options": [
+     "He's a realist",
+     "He's an unrealistic dreamer",
+     "He's very honest"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Who has the upper hand according to the polls?",
+    "options": [
+     "The opposition leader",
+     "The premier",
+     "Nobody"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Describe a time you almost gave up on something, using lancer la serviette and one other sports idiom.",
+   "model": "L'an passé, j'étais dans les câbles avec mon français : je comprenais rien à la radio. J'ai failli lancer la serviette, mais j'ai continué, pis aujourd'hui je suis les débats."
+  },
+  {
+   "prompt": "Comment on a politician's promises using les bottines suivent les babines.",
+   "model": "Le maire promet des pistes cyclables depuis trois ans. C'est bien beau, mais il faudrait que les bottines suivent les babines."
+  },
+  {
+   "prompt": "Give the international French equivalents of: lancer la serviette, avoir le gros bout du bâton, pelleteux de nuages.",
+   "model": "Jeter l'éponge, avoir l'avantage, un idéaliste qui n'a pas les pieds sur terre."
+  }
+ ],
+ "write": {
+  "prompt": "Write a short sports-style commentary (6–8 sentences) on a political event or a work situation, using at least five idioms from this lesson. Add one final sentence rewritten in formal French.",
+  "model": "La campagne électorale bat son plein et les chefs ont jeté les gants. Le chef du troisième parti est dans les câbles depuis son faux pas sur les garderies. En attaquant les familles, il a compté dans son propre filet. Ses adversaires le traitent de pelleteux de nuages. La première ministre, elle, a encore le gros bout du bâton. Mais attention : une balle courbe est toujours possible d'ici le vote. Et tout le monde le répète : il faudra que les bottines suivent les babines. En langage soutenu : la première ministre conserve l'avantage, mais elle devra joindre le geste à la parole."
+ },
+ "quiz": [
+  {
+   "q": "International French equivalent of 'lancer la serviette'?",
+   "options": [
+    "jeter l'éponge",
+    "jeter la serviette au lavage",
+    "lancer la balle",
+    "perdre la face"
+   ],
+   "a": 0,
+   "why": "France says jeter l'éponge."
+  },
+  {
+   "q": "'Avoir le gros bout du bâton' means…",
+   "options": [
+    "to be violent",
+    "to have the upper hand",
+    "to be clumsy",
+    "to be the leader of a band"
+   ],
+   "a": 1,
+   "why": "= avoir l'avantage."
+  },
+  {
+   "q": "'Compter dans son propre filet' means…",
+   "options": [
+    "to count one's money",
+    "to make a mistake that helps the opponent",
+    "to win easily",
+    "to fish alone"
+   ],
+   "a": 1,
+   "why": "Score on your own net."
+  },
+  {
+   "q": "'Chiâler' means…",
+   "options": [
+    "to cry",
+    "to complain",
+    "to sing",
+    "to shout for joy"
+   ],
+   "a": 1,
+   "why": "Familiar Quebec: to grumble."
+  },
+  {
+   "q": "'Accorder ses violons' means…",
+   "options": [
+    "to tune instruments only",
+    "to agree on a common position",
+    "to start a concert",
+    "to argue"
+   ],
+   "a": 1,
+   "why": "Get on the same page."
+  },
+  {
+   "q": "'Frapper un coup de circuit' comes from…",
+   "options": [
+    "hockey",
+    "baseball",
+    "soccer",
+    "golf"
+   ],
+   "a": 1,
+   "why": "A home run in baseball."
+  },
+  {
+   "q": "'Chanter la pomme à quelqu'un' means…",
+   "options": [
+    "to sing an apple song",
+    "to sweet-talk or flirt with someone",
+    "to insult someone",
+    "to sell apples"
+   ],
+   "a": 1,
+   "why": "Quebec idiom."
+  },
+  {
+   "q": "Which expression is clearly familiar?",
+   "options": [
+    "accorder ses violons",
+    "jeter l'éponge",
+    "pelleteux de nuages",
+    "passer à l'attaque"
+   ],
+   "a": 2,
+   "why": "pelleteux: -eux ending marks familiar speech."
+  },
+  {
+   "q": "'Jeter les gants' originally refers to…",
+   "options": [
+    "a hockey fight",
+    "a cooking contest",
+    "a winter tradition",
+    "a boxing match"
+   ],
+   "a": 0,
+   "why": "Hockey players drop their gloves before fighting."
+  }
+ ]
+}

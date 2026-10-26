@@ -1,0 +1,667 @@
+{
+ "w": 47,
+ "title": "The pronoun y",
+ "goal": "By the end of this lesson you can use y to replace a place or 'à + thing', place it correctly in all the tenses you know, and use everyday expressions like on y va, vas-y and ça y est.",
+ "learn": [
+  {
+   "h": "Y replaces a place",
+   "body": [
+    "*Y* means 'there'. It replaces a place introduced by *à, en, dans, chez, sur, sous, devant…*: *Je vais* **à Québec** → *J'***y** *vais*. *Il est* **chez lui** → *Il* **y** *est*.",
+    "English often leaves 'there' out, but French needs *y*: *Tu vas au dépanneur? Oui, j'y vais.* You cannot just say *Oui, je vais*."
+   ],
+   "table": {
+    "head": [
+     "Full sentence",
+     "With y"
+    ],
+    "rows": [
+     [
+      "Je vais au gym.",
+      "J'y vais."
+     ],
+     [
+      "Elle habite en Gaspésie.",
+      "Elle y habite."
+     ],
+     [
+      "Les clés sont dans le tiroir.",
+      "Elles y sont."
+     ],
+     [
+      "On dîne chez Marc.",
+      "On y dîne."
+     ],
+     [
+      "Je suis allé au Saguenay.",
+      "J'y suis allé."
+     ]
+    ]
+   },
+   "tip": "Tu vas où? I'm going THERE = j'y vais. Never leave the sentence hanging."
+  },
+  {
+   "h": "Y replaces 'à + a thing or idea'",
+   "body": [
+    "With verbs built with *à*, *y* replaces a thing, an idea or an activity: *Je pense* **à mon voyage** → *J'***y** *pense*. *Tu joues* **au hockey**? *Oui, j'***y** *joue*.",
+    "For a **person** after *à*, use *lui / leur* (lesson 45) or *à lui / à elle* with *penser*: *Je pense* **à ma mère** → *Je pense* **à elle** (not *j'y pense*)."
+   ],
+   "table": {
+    "head": [
+     "Verb + à",
+     "Example",
+     "With y"
+    ],
+    "rows": [
+     [
+      "penser à",
+      "Je pense à l'examen.",
+      "J'y pense."
+     ],
+     [
+      "répondre à",
+      "Tu as répondu au courriel?",
+      "Tu y as répondu?"
+     ],
+     [
+      "jouer à",
+      "On joue aux cartes.",
+      "On y joue."
+     ],
+     [
+      "s'habituer à",
+      "Je m'habitue à l'hiver.",
+      "Je m'y habitue."
+     ],
+     [
+      "croire à",
+      "Tu crois aux fantômes?",
+      "Tu y crois?"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Where y goes",
+   "body": [
+    "Same place as the other object pronouns: before the conjugated verb (*j'y vais*), before the infinitive (*je vais y aller*), before *avoir / être* in the passé composé (*j'y suis allé*), and *ne…pas* around them (*je n'y vais pas*, *je n'y suis jamais allé*).",
+    "With two pronouns, *y* comes after the others: *Je* **t'y** *emmène* (I'll take you there). *Il* **m'y** *a invité*."
+   ]
+  },
+  {
+   "h": "Commands and the -s of vas-y",
+   "body": [
+    "In a positive command *y* follows the verb: *Allons-***y**! *Allez-***y**! For *tu* commands of *aller* and *-er* verbs, the lost *-s* comes back before *y* for the sound: *Va* → **Vas-y**! *Pense* → **Penses-y**!",
+    "Negative: *N'***y** *va pas!* *N'***y** *pense plus!*"
+   ]
+  },
+  {
+   "h": "Fixed expressions with y",
+   "body": [
+    "You already know *il y a*. Others are everywhere in daily life: *On y va?* (Shall we go?), *Vas-y!* (Go ahead! / Go for it!), *Ça y est!* (That's it! Done!), *J'y suis!* (I've got it!), *Je n'y peux rien* (There's nothing I can do about it).",
+    "One spelling note: with the future of *aller* (*j'irai*), French drops *y* to avoid 'y i': *J'irai* demain (not *j'y irai*)."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Tu vas au marché Jean-Talon? Oui, j'y vais samedi.",
+   "en": "Are you going to the Jean-Talon Market? Yes, I'm going (there) on Saturday.",
+   "note": "y replaces au marché"
+  },
+  {
+   "fr": "Mes parents habitent à Gatineau depuis 1990. Ils y habitent depuis longtemps.",
+   "en": "My parents have lived in Gatineau since 1990. They've lived there a long time.",
+   "note": "y replaces à Gatineau"
+  },
+  {
+   "fr": "On va y aller en métro.",
+   "en": "We're going to go there by metro.",
+   "note": "y before the infinitive"
+  },
+  {
+   "fr": "Je suis allée en Gaspésie l'été passé. J'y ai vu des baleines.",
+   "en": "I went to the Gaspé Peninsula last summer. I saw whales there.",
+   "note": "passé composé: y before avoir"
+  },
+  {
+   "fr": "Je n'y suis jamais allé.",
+   "en": "I've never been there.",
+   "note": "negative passé composé"
+  },
+  {
+   "fr": "Tu penses à tes vacances? J'y pense tout le temps!",
+   "en": "Are you thinking about your vacation? I think about it all the time!",
+   "note": "penser à + thing = y"
+  },
+  {
+   "fr": "Tu as répondu à sa question? Non, je n'y ai pas répondu.",
+   "en": "Did you answer his question? No, I didn't answer it.",
+   "note": "répondre à + thing = y"
+  },
+  {
+   "fr": "Il joue au hockey depuis l'âge de cinq ans. Il y joue tous les jours.",
+   "en": "He's played hockey since he was five. He plays it every day.",
+   "note": "jouer à + sport = y"
+  },
+  {
+   "fr": "L'hiver? Je m'y habitue tranquillement.",
+   "en": "Winter? I'm slowly getting used to it.",
+   "note": "y after a reflexive pronoun"
+  },
+  {
+   "fr": "Tu crois aux fantômes? Non, je n'y crois pas.",
+   "en": "Do you believe in ghosts? No, I don't believe in them.",
+   "note": "croire à = y"
+  },
+  {
+   "fr": "Allez, on y va!",
+   "en": "Come on, let's go!",
+   "note": "everyday expression"
+  },
+  {
+   "fr": "Tu veux essayer? Vas-y!",
+   "en": "You want to try? Go ahead!",
+   "note": "the -s of va comes back before y"
+  },
+  {
+   "fr": "Ça y est, j'ai fini mon rapport!",
+   "en": "That's it, I've finished my report!",
+   "note": "ça y est = done / here we go"
+  },
+  {
+   "fr": "Ton rendez-vous, penses-y!",
+   "en": "Your appointment, think about it! (don't forget!)",
+   "note": "penses-y: -s added before y"
+  },
+  {
+   "fr": "Je pense souvent à ma grand-mère. Je pense souvent à elle.",
+   "en": "I often think about my grandmother. I often think about her.",
+   "note": "a person after penser à: à elle, not y"
+  },
+  {
+   "fr": "Il m'y a emmené en voiture.",
+   "en": "He drove me there.",
+   "note": "two pronouns: me before y"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebecers use y even more than the textbook. 'Je vais' is very often 'j'vas', so 'j'y vais' becomes 'j'y vas'. You will also hear 'vas-y', 'envoye' and 'on y va-tu?' constantly.",
+  "items": [
+   {
+    "std": "J'y vais.",
+    "qc": "J'y vas.",
+    "en": "I'm going (there).",
+    "note": "very common informal form"
+   },
+   {
+    "std": "Je vais y aller.",
+    "qc": "J'vas y aller.",
+    "en": "I'm going to go (there).",
+    "note": "j'vas = je vais; informal"
+   },
+   {
+    "std": "On y va?",
+    "qc": "On y va-tu?",
+    "en": "Shall we go?",
+    "note": "-tu question particle; informal"
+   },
+   {
+    "std": "Je n'y pense pas.",
+    "qc": "J'y pense pas.",
+    "en": "I'm not thinking about it.",
+    "note": "ne dropped; informal"
+   },
+   {
+    "std": "Allez-y!",
+    "qc": "Envoyez!",
+    "en": "Go on! Go ahead!",
+    "note": "envoye / envoyez = go on, hurry; informal (lesson 31)"
+   },
+   {
+    "std": "Il n'y a personne.",
+    "qc": "Y'a personne.",
+    "en": "There's nobody.",
+    "note": "y'a = il y a; informal"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Replace: 'Je vais à la plage.'",
+   "options": [
+    "J'en vais.",
+    "J'y vais.",
+    "Je la vais.",
+    "Je vais y."
+   ],
+   "a": 1,
+   "why": "A place after à = y, before the verb."
+  },
+  {
+   "t": "mcq",
+   "q": "'Tu penses à ton frère?' — 'Oui, je…'",
+   "options": [
+    "y pense",
+    "pense à lui",
+    "lui pense",
+    "le pense"
+   ],
+   "a": 1,
+   "why": "With penser à + person, use à lui / à elle, not y."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is correct?",
+   "options": [
+    "Va-y!",
+    "Vas-y!",
+    "Y va!",
+    "Vas y!"
+   ],
+   "a": 1,
+   "why": "The -s returns before y, with a hyphen."
+  },
+  {
+   "t": "mcq",
+   "q": "Negative of 'J'y suis allé':",
+   "options": [
+    "Je n'y suis pas allé.",
+    "Je ne suis pas y allé.",
+    "J'y ne suis pas allé.",
+    "Je n'suis y pas allé."
+   ],
+   "a": 0,
+   "why": "Ne + y + auxiliary + pas + participle."
+  },
+  {
+   "t": "fill",
+   "q": "Le cinéma? On ___ va ce soir. (there)",
+   "a": [
+    "y"
+   ],
+   "en": "The movies? We're going tonight.",
+   "why": "Y replaces au cinéma."
+  },
+  {
+   "t": "fill",
+   "q": "Ton examen? Tu ___ penses? (about it)",
+   "a": [
+    "y"
+   ],
+   "en": "Your exam? Are you thinking about it?",
+   "why": "Penser à + thing = y."
+  },
+  {
+   "t": "fill",
+   "q": "Montréal? Nous allons ___ habiter l'an prochain. (there)",
+   "a": [
+    "y"
+   ],
+   "en": "Montreal? We're going to live there next year.",
+   "why": "Y goes before the infinitive."
+  },
+  {
+   "t": "fill",
+   "q": "Ça y ___! J'ai trouvé! (être)",
+   "a": [
+    "est"
+   ],
+   "en": "That's it! I found it!",
+   "why": "Fixed expression: ça y est."
+  },
+  {
+   "t": "build",
+   "en": "I've never been there.",
+   "a": "Je n'y suis jamais allé."
+  },
+  {
+   "t": "build",
+   "en": "We're going to go there tomorrow.",
+   "a": "On va y aller demain."
+  },
+  {
+   "t": "build",
+   "en": "I'm getting used to it.",
+   "a": "Je m'y habitue."
+  },
+  {
+   "t": "translate",
+   "en": "Let's go!",
+   "a": [
+    "Allons-y!",
+    "On y va!"
+   ],
+   "why": "Two common ways to say let's go."
+  },
+  {
+   "t": "translate",
+   "en": "Are you going there?",
+   "a": [
+    "Tu y vas?",
+    "Vous y allez?",
+    "Est-ce que tu y vas?",
+    "Est-ce que vous y allez?",
+    "Y vas-tu?",
+    "Y allez-vous?"
+   ],
+   "why": "Y before the verb."
+  },
+  {
+   "t": "translate",
+   "en": "I don't believe in it.",
+   "a": [
+    "Je n'y crois pas.",
+    "J'y crois pas."
+   ],
+   "why": "Croire à = y."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "y",
+   "en": "there; about it, to it",
+   "ex": "J'y vais."
+  },
+  {
+   "fr": "on y va",
+   "en": "let's go; shall we go?",
+   "ex": "Bon, on y va?"
+  },
+  {
+   "fr": "vas-y / allez-y",
+   "en": "go ahead, go for it",
+   "ex": "Vas-y, t'es capable!"
+  },
+  {
+   "fr": "ça y est",
+   "en": "that's it, done, here we go",
+   "ex": "Ça y est, il neige!"
+  },
+  {
+   "fr": "penser à",
+   "en": "to think about",
+   "ex": "J'y pense souvent."
+  },
+  {
+   "fr": "s'habituer à",
+   "en": "to get used to",
+   "ex": "Je m'y habitue."
+  },
+  {
+   "fr": "croire à",
+   "en": "to believe in",
+   "ex": "Tu y crois?"
+  },
+  {
+   "fr": "jouer à",
+   "en": "to play (a game, a sport)",
+   "ex": "On joue aux cartes."
+  },
+  {
+   "fr": "réfléchir à",
+   "en": "to think over",
+   "ex": "Je vais y réfléchir."
+  },
+  {
+   "fr": "emmener",
+   "en": "to take (someone somewhere)",
+   "ex": "Je t'y emmène."
+  },
+  {
+   "fr": "le tiroir",
+   "en": "drawer",
+   "g": "m",
+   "ex": "Les clés sont dans le tiroir."
+  },
+  {
+   "fr": "la plage",
+   "en": "beach",
+   "g": "f",
+   "ex": "On va à la plage."
+  },
+  {
+   "fr": "la baleine",
+   "en": "whale",
+   "g": "f",
+   "ex": "On a vu des baleines à Tadoussac."
+  },
+  {
+   "fr": "le rendez-vous",
+   "en": "appointment, date",
+   "g": "m",
+   "ex": "J'ai un rendez-vous chez le dentiste."
+  },
+  {
+   "fr": "tranquillement",
+   "en": "slowly, gradually",
+   "ex": "Je m'y habitue tranquillement.",
+   "qc": true
+  },
+  {
+   "fr": "j'y vas",
+   "en": "I'm going (there) (spoken)",
+   "ex": "Bon, j'y vas!",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "j'y vais",
+    "tip": "[ji vè], two syllables: y is just an [i] sound."
+   },
+   {
+    "fr": "il y a / y'a",
+    "tip": "Standard il-i-A; Quebec speech often [ya]."
+   },
+   {
+    "fr": "vas-y",
+    "tip": "va-ZI: the s links as [z]."
+   },
+   {
+    "fr": "allons-y",
+    "tip": "a-lon-ZI: liaison in [z]."
+   },
+   {
+    "fr": "je n'y suis jamais allé",
+    "tip": "juh-ni-swi-ja-mè-a-LÉ; casual: j'y suis jamais allé."
+   },
+   {
+    "fr": "ça y est",
+    "tip": "sa-i-È, three syllables run together."
+   }
+  ],
+  "title": "Une fin de semaine à Québec",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Tu connais Québec?",
+    "en": "Do you know Quebec City?"
+   },
+   {
+    "s": "B",
+    "fr": "Non, je n'y suis jamais allée. Toi?",
+    "en": "No, I've never been. You?"
+   },
+   {
+    "s": "A",
+    "fr": "Oui, j'y vais chaque hiver pour le Carnaval.",
+    "en": "Yes, I go every winter for the Carnival."
+   },
+   {
+    "s": "B",
+    "fr": "Il fait froid, non?",
+    "en": "It's cold, isn't it?"
+   },
+   {
+    "s": "A",
+    "fr": "Oui, mais on s'y habitue. Veux-tu venir avec moi cette année?",
+    "en": "Yes, but you get used to it. Do you want to come with me this year?"
+   },
+   {
+    "s": "B",
+    "fr": "Hmm, je vais y penser.",
+    "en": "Hmm, I'll think about it."
+   },
+   {
+    "s": "A",
+    "fr": "Penses-y vite, il reste juste quelques chambres à l'hôtel!",
+    "en": "Think about it quickly, there are only a few hotel rooms left!"
+   },
+   {
+    "s": "B",
+    "fr": "OK, ça y est, j'ai décidé: on y va!",
+    "en": "OK, that's it, I've decided: let's go!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Has B been to Quebec City?",
+    "options": [
+     "Yes, often",
+     "Once",
+     "Never"
+    ],
+    "a": 2
+   },
+   {
+    "q": "When does A go to Quebec City?",
+    "options": [
+     "Every summer",
+     "Every winter",
+     "Every spring"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Why should B decide quickly?",
+    "options": [
+     "Tickets are expensive",
+     "Few hotel rooms are left",
+     "The carnival is tomorrow"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Answer with y: 'Tu vas souvent au cinéma? Tu es déjà allé(e) à Tadoussac? Tu penses à tes vacances?'",
+   "model": "Oui, j'y vais une fois par mois. Non, je n'y suis jamais allé. Oui, j'y pense tout le temps!"
+  },
+  {
+   "prompt": "Encourage a friend who is nervous before a hockey game, using vas-y, allez and ça y est.",
+   "model": "Vas-y, t'es capable! Allez, on y va! … Ça y est, tu as marqué!"
+  },
+  {
+   "prompt": "Say 'I'm going there now' the standard way and the casual Quebec way.",
+   "model": "J'y vais maintenant. / J'y vas, là."
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences about a place you go regularly (gym, café, cottage…). Name the place once, then use y in at least four sentences, including one in the passé composé and one with the futur proche.",
+  "model": "Le samedi matin, je vais au marché Jean-Talon. J'y vais à pied parce que j'habite tout près. J'y achète des fruits et du fromage. La semaine passée, j'y ai rencontré une ancienne collègue. On va y retourner ensemble samedi prochain. J'y pense déjà!"
+ },
+ "quiz": [
+  {
+   "q": "'Y' most often means…",
+   "options": [
+    "him",
+    "there",
+    "some",
+    "them"
+   ],
+   "a": 1,
+   "why": "Y replaces a place: there."
+  },
+  {
+   "q": "Which sentence uses y correctly?",
+   "options": [
+    "Je y vais.",
+    "J'y vais.",
+    "J'vais y.",
+    "Y je vais."
+   ],
+   "a": 1,
+   "why": "Je becomes j' before y."
+  },
+  {
+   "q": "'Tu réponds à la lettre?' — 'Oui, j'___ réponds.'",
+   "options": [
+    "lui",
+    "y",
+    "la",
+    "en"
+   ],
+   "a": 1,
+   "why": "Répondre à + thing = y."
+  },
+  {
+   "q": "'Tu réponds à Paul?' — 'Oui, je ___ réponds.'",
+   "options": [
+    "y",
+    "lui",
+    "le",
+    "en"
+   ],
+   "a": 1,
+   "why": "Répondre à + person = lui."
+  },
+  {
+   "q": "Where does y go? 'Je veux ___ aller ___.'",
+   "options": [
+    "before veux",
+    "before aller",
+    "after aller",
+    "after veux"
+   ],
+   "a": 1,
+   "why": "Before the infinitive it belongs to: je veux y aller."
+  },
+  {
+   "q": "'Penses-y!' means…",
+   "options": [
+    "Think about it!",
+    "Don't think!",
+    "Go there!",
+    "Thinking of you!"
+   ],
+   "a": 0,
+   "why": "Penser à + thing → penses-y."
+  },
+  {
+   "q": "What does 'J'y vas' mean in Quebec speech?",
+   "options": [
+    "I'm going there",
+    "I saw it",
+    "I want some",
+    "I'm fine"
+   ],
+   "a": 0,
+   "why": "J'vas = je vais, so j'y vas = j'y vais."
+  },
+  {
+   "q": "Which expression means 'That's it! / Done!'?",
+   "options": [
+    "Il y a",
+    "Ça y est",
+    "Vas-y",
+    "J'y vais"
+   ],
+   "a": 1,
+   "why": "Ça y est signals something is done or has just happened."
+  },
+  {
+   "q": "Which is the standard future of 'I'll go there'?",
+   "options": [
+    "J'y irai",
+    "J'irai",
+    "Y j'irai",
+    "J'irai y"
+   ],
+   "a": 1,
+   "why": "Y is dropped before forms of aller starting with i: j'irai."
+  }
+ ]
+}

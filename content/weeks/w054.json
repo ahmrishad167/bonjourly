@@ -1,0 +1,700 @@
+{
+ "w": 54,
+ "title": "Futur simple",
+ "goal": "By the end of this lesson you can form the futur simple of regular and common irregular verbs, use it for plans, predictions and promises, and use it after quand and with si.",
+ "learn": [
+  {
+   "h": "Forming the futur simple",
+   "body": [
+    "Take the **infinitive** and add the endings *-ai, -as, -a, -ons, -ez, -ont*. Verbs in *-re* drop their final *e*: *prendre* → *prendr-*.",
+    "The endings look like the present of *avoir* (ai, as, a, (av)ons, (av)ez, ont). The key sound of the future is the **r** before the ending."
+   ],
+   "table": {
+    "head": [
+     "",
+     "parler",
+     "finir",
+     "prendre"
+    ],
+    "rows": [
+     [
+      "je",
+      "parlerai",
+      "finirai",
+      "prendrai"
+     ],
+     [
+      "tu",
+      "parleras",
+      "finiras",
+      "prendras"
+     ],
+     [
+      "il / elle / on",
+      "parlera",
+      "finira",
+      "prendra"
+     ],
+     [
+      "nous",
+      "parlerons",
+      "finirons",
+      "prendrons"
+     ],
+     [
+      "vous",
+      "parlerez",
+      "finirez",
+      "prendrez"
+     ],
+     [
+      "ils / elles",
+      "parleront",
+      "finiront",
+      "prendront"
+     ]
+    ]
+   },
+   "tip": "Hear an r right before the ending? It's the future: je parlerai, il finira."
+  },
+  {
+   "h": "Irregular stems",
+   "body": [
+    "About fifteen common verbs have an irregular stem, but the endings never change. Learn them as a list: they are the verbs you use most.",
+    "Some *-er* verbs change their spelling: *acheter* → *j'achèterai*, *appeler* → *j'appellerai*, *payer* → *je paierai* (or *payerai*)."
+   ],
+   "table": {
+    "head": [
+     "Infinitive",
+     "Stem",
+     "je …"
+    ],
+    "rows": [
+     [
+      "être",
+      "ser-",
+      "je serai"
+     ],
+     [
+      "avoir",
+      "aur-",
+      "j'aurai"
+     ],
+     [
+      "aller",
+      "ir-",
+      "j'irai"
+     ],
+     [
+      "faire",
+      "fer-",
+      "je ferai"
+     ],
+     [
+      "pouvoir",
+      "pourr-",
+      "je pourrai"
+     ],
+     [
+      "vouloir",
+      "voudr-",
+      "je voudrai"
+     ],
+     [
+      "venir",
+      "viendr-",
+      "je viendrai"
+     ],
+     [
+      "voir",
+      "verr-",
+      "je verrai"
+     ],
+     [
+      "devoir",
+      "devr-",
+      "je devrai"
+     ],
+     [
+      "savoir",
+      "saur-",
+      "je saurai"
+     ],
+     [
+      "falloir / pleuvoir",
+      "faudr- / pleuvr-",
+      "il faudra / il pleuvra"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "When to use it",
+   "body": [
+    "Predictions and the more distant or less certain future: *Il fera beau demain. Un jour, je parlerai français couramment.*",
+    "Promises and formal announcements: *Je t'appellerai ce soir. Le magasin sera fermé lundi.*",
+    "The *futur proche* (*je vais partir*) is for near, planned or certain events and is more conversational. In many sentences both are possible."
+   ]
+  },
+  {
+   "h": "Quand + futur, si + présent",
+   "body": [
+    "After **quand** (when) talking about the future, French uses the future in **both** parts, unlike English: *Quand je* **serai** *à Québec, je t'***appellerai**. (When I *am* in Quebec…)",
+    "After **si** (if), use the **present**, and the future in the other part: *S'il* **fait** *beau, on* **ira** *à la plage.* Never *si* + future."
+   ],
+   "tip": "Quand + future, si + present."
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Demain, il neigera toute la journée.",
+   "en": "Tomorrow it will snow all day.",
+   "note": "weather forecast: futur simple"
+  },
+  {
+   "fr": "Je t'appellerai ce soir, c'est promis.",
+   "en": "I'll call you tonight, I promise.",
+   "note": "appeler doubles its l"
+  },
+  {
+   "fr": "L'an prochain, nous irons en Europe.",
+   "en": "Next year, we'll go to Europe.",
+   "note": "aller → ir-"
+  },
+  {
+   "fr": "Tu seras content, j'en suis sûr.",
+   "en": "You'll be happy, I'm sure.",
+   "note": "être → ser-"
+  },
+  {
+   "fr": "Ils auront leurs résultats vendredi.",
+   "en": "They'll have their results on Friday.",
+   "note": "avoir → aur-"
+  },
+  {
+   "fr": "Qu'est-ce que tu feras après tes études?",
+   "en": "What will you do after your studies?",
+   "note": "faire → fer-"
+  },
+  {
+   "fr": "Je ne pourrai pas venir samedi.",
+   "en": "I won't be able to come on Saturday.",
+   "note": "pouvoir → pourr-"
+  },
+  {
+   "fr": "On verra!",
+   "en": "We'll see!",
+   "note": "voir → verr-; very common expression"
+  },
+  {
+   "fr": "Quand j'aurai le temps, je lirai ce livre.",
+   "en": "When I have time, I'll read this book.",
+   "note": "quand + futur in both parts"
+  },
+  {
+   "fr": "S'il pleut, on restera à la maison.",
+   "en": "If it rains, we'll stay home.",
+   "note": "si + présent, then futur"
+  },
+  {
+   "fr": "Vous viendrez à la fête?",
+   "en": "Will you come to the party?",
+   "note": "venir → viendr-"
+  },
+  {
+   "fr": "Il faudra acheter des pneus d'hiver.",
+   "en": "We'll have to buy winter tires.",
+   "note": "falloir → il faudra"
+  },
+  {
+   "fr": "Je paierai par carte.",
+   "en": "I'll pay by card.",
+   "note": "payer → paierai or payerai"
+  },
+  {
+   "fr": "Les bureaux seront fermés le 24 juin.",
+   "en": "The offices will be closed on June 24.",
+   "note": "official announcement; June 24 = Fête nationale"
+  },
+  {
+   "fr": "Un jour, tu comprendras.",
+   "en": "One day, you'll understand.",
+   "note": "-re verb: comprendr-"
+  },
+  {
+   "fr": "Je ne le ferai plus, promis!",
+   "en": "I won't do it again, promise!",
+   "note": "negative promise"
+  }
+ ],
+ "quebec": {
+  "intro": "In everyday Quebec speech, the futur proche (je vais / j'vas + infinitive) is used far more than the futur simple. Linguists have found the futur simple survives mostly in negative sentences ('j'le ferai pas') and in fixed expressions like 'on verra'. Very casual speech also has 'm'as', a Quebec contraction of 'je vais'.",
+  "items": [
+   {
+    "std": "Je partirai demain.",
+    "qc": "J'vas partir demain.",
+    "en": "I'll leave tomorrow.",
+    "note": "futur proche is the default in speech"
+   },
+   {
+    "std": "Je vais te dire une chose.",
+    "qc": "M'as te dire une affaire.",
+    "en": "I'll tell you something.",
+    "note": "m'as = je vais; very informal"
+   },
+   {
+    "std": "Je ne le ferai pas.",
+    "qc": "J'le ferai pas.",
+    "en": "I won't do it.",
+    "note": "futur simple is common in Quebec negatives"
+   },
+   {
+    "std": "Nous verrons.",
+    "qc": "On verra ben.",
+    "en": "We'll see.",
+    "note": "ben = bien, adds a shrug; informal"
+   },
+   {
+    "std": "Il pleuvra cet après-midi.",
+    "qc": "Y va mouiller c't'après-midi.",
+    "en": "It's going to rain this afternoon.",
+    "note": "mouiller = to rain in Quebec speech; informal"
+   },
+   {
+    "std": "Tu viendras avec nous?",
+    "qc": "Tu vas-tu venir avec nous autres?",
+    "en": "Will you come with us?",
+    "note": "-tu question particle; nous autres = us; informal"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Futur simple of 'nous parler':",
+   "options": [
+    "nous parlons",
+    "nous parlerons",
+    "nous parlerions",
+    "nous allons parlé"
+   ],
+   "a": 1,
+   "why": "Infinitive + -ons."
+  },
+  {
+   "t": "mcq",
+   "q": "Futur simple of 'je être':",
+   "options": [
+    "j'êterai",
+    "je serai",
+    "je sera",
+    "je suis"
+   ],
+   "a": 1,
+   "why": "Être → ser-."
+  },
+  {
+   "t": "mcq",
+   "q": "Quand tu ___ à Montréal, appelle-moi.",
+   "options": [
+    "arrives",
+    "arriveras",
+    "arrivais",
+    "es arrivé"
+   ],
+   "a": 1,
+   "why": "Quand + future → futur simple."
+  },
+  {
+   "t": "mcq",
+   "q": "Si tu ___ le temps, viens nous voir.",
+   "options": [
+    "auras",
+    "as",
+    "avais eu",
+    "aurais"
+   ],
+   "a": 1,
+   "why": "After si: present tense."
+  },
+  {
+   "t": "fill",
+   "q": "Demain, il ___ beau. (faire)",
+   "a": [
+    "fera"
+   ],
+   "en": "Tomorrow the weather will be nice.",
+   "why": "Faire → fer- + a."
+  },
+  {
+   "t": "fill",
+   "q": "Nous ___ en Gaspésie cet été. (aller)",
+   "a": [
+    "irons"
+   ],
+   "en": "We will go to the Gaspé this summer.",
+   "why": "Aller → ir- + ons."
+  },
+  {
+   "t": "fill",
+   "q": "Est-ce que vous ___ venir? (pouvoir)",
+   "a": [
+    "pourrez"
+   ],
+   "en": "Will you be able to come?",
+   "why": "Pouvoir → pourr- + ez."
+  },
+  {
+   "t": "fill",
+   "q": "Ils ___ leur maison l'an prochain. (vendre)",
+   "a": [
+    "vendront"
+   ],
+   "en": "They will sell their house next year.",
+   "why": "-re verb: drop the e, vendr- + ont."
+  },
+  {
+   "t": "build",
+   "en": "I will call you tomorrow.",
+   "a": "Je t'appellerai demain."
+  },
+  {
+   "t": "build",
+   "en": "If it snows, we'll stay home.",
+   "a": "S'il neige, on restera à la maison."
+  },
+  {
+   "t": "build",
+   "en": "We'll see!",
+   "a": "On verra bien!"
+  },
+  {
+   "t": "translate",
+   "en": "When I'm rich, I'll buy a cottage.",
+   "a": [
+    "Quand je serai riche, j'achèterai un chalet.",
+    "Quand je serai riche, je vais acheter un chalet."
+   ],
+   "why": "Quand + futur: je serai, not je suis."
+  },
+  {
+   "t": "translate",
+   "en": "She will have time.",
+   "a": [
+    "Elle aura le temps.",
+    "Elle aura du temps."
+   ],
+   "why": "Avoir → aur-."
+  },
+  {
+   "t": "translate",
+   "en": "You will see.",
+   "a": [
+    "Tu verras.",
+    "Vous verrez."
+   ],
+   "why": "Voir → verr-."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "demain",
+   "en": "tomorrow",
+   "ex": "Je partirai demain."
+  },
+  {
+   "fr": "après-demain",
+   "en": "the day after tomorrow",
+   "ex": "Il arrivera après-demain."
+  },
+  {
+   "fr": "l'an prochain / l'année prochaine",
+   "en": "next year",
+   "ex": "L'an prochain, on déménagera."
+  },
+  {
+   "fr": "un jour",
+   "en": "one day, someday",
+   "ex": "Un jour, tu comprendras."
+  },
+  {
+   "fr": "bientôt",
+   "en": "soon",
+   "ex": "On se verra bientôt."
+  },
+  {
+   "fr": "plus tard",
+   "en": "later",
+   "ex": "Je le ferai plus tard."
+  },
+  {
+   "fr": "dans deux semaines",
+   "en": "in two weeks",
+   "ex": "Je serai en vacances dans deux semaines."
+  },
+  {
+   "fr": "promettre",
+   "en": "to promise",
+   "ex": "Je te le promets."
+  },
+  {
+   "fr": "la prévision",
+   "en": "forecast",
+   "g": "f",
+   "ex": "Les prévisions annoncent de la neige."
+  },
+  {
+   "fr": "la météo",
+   "en": "weather forecast",
+   "g": "f",
+   "ex": "La météo dit qu'il pleuvra."
+  },
+  {
+   "fr": "les pneus d'hiver",
+   "en": "winter tires",
+   "g": "m",
+   "ex": "Il faudra poser les pneus d'hiver."
+  },
+  {
+   "fr": "couramment",
+   "en": "fluently",
+   "ex": "Je parlerai couramment."
+  },
+  {
+   "fr": "on verra",
+   "en": "we'll see",
+   "ex": "On verra demain."
+  },
+  {
+   "fr": "m'as",
+   "en": "I'm going to (very casual, = je vais)",
+   "ex": "M'as y aller.",
+   "qc": true
+  },
+  {
+   "fr": "mouiller",
+   "en": "to rain (Quebec speech); to wet",
+   "ex": "Y mouille à siaux!",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "je parlerai",
+    "tip": "Often said [par-lré]: the middle e drops."
+   },
+   {
+    "fr": "je serai",
+    "tip": "[suh-ré], in speech [sré]."
+   },
+   {
+    "fr": "nous irons",
+    "tip": "Liaison: nou-zi-RON."
+   },
+   {
+    "fr": "j'irai / j'aurai",
+    "tip": "[ji-ré] / [jo-ré]; don't mix them up."
+   },
+   {
+    "fr": "il faudra",
+    "tip": "il fo-DRA."
+   },
+   {
+    "fr": "m'as",
+    "tip": "Quebec very casual: [ma], as in M'as te dire."
+   }
+  ],
+  "title": "La météo de la fin de semaine",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "As-tu vu la météo pour la fin de semaine?",
+    "en": "Did you see the forecast for the weekend?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui. Samedi, il fera soleil, mais il fera très froid: moins vingt-cinq.",
+    "en": "Yes. Saturday will be sunny, but very cold: minus twenty-five."
+   },
+   {
+    "s": "A",
+    "fr": "Ouf! Et dimanche?",
+    "en": "Phew! And Sunday?"
+   },
+   {
+    "s": "B",
+    "fr": "Il neigera. Ils annoncent trente centimètres.",
+    "en": "It'll snow. They're calling for thirty centimetres."
+   },
+   {
+    "s": "A",
+    "fr": "Bon. S'il fait beau samedi, on ira patiner au lac des Castors?",
+    "en": "OK. If it's nice on Saturday, shall we go skating at Beaver Lake?"
+   },
+   {
+    "s": "B",
+    "fr": "Bonne idée! Et dimanche, quand il arrêtera de neiger, on fera un bonhomme de neige avec les enfants.",
+    "en": "Good idea! And Sunday, when it stops snowing, we'll make a snowman with the kids."
+   },
+   {
+    "s": "A",
+    "fr": "Parfait. Je t'appellerai samedi matin.",
+    "en": "Perfect. I'll call you Saturday morning."
+   },
+   {
+    "s": "B",
+    "fr": "OK, on verra ben comment il fait!",
+    "en": "OK, we'll see what the weather's like!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What will the weather be like on Saturday?",
+    "options": [
+     "Snowy",
+     "Sunny and very cold",
+     "Rainy"
+    ],
+    "a": 1
+   },
+   {
+    "q": "How much snow is forecast for Sunday?",
+    "options": [
+     "Ten centimetres",
+     "Twenty centimetres",
+     "Thirty centimetres"
+    ],
+    "a": 2
+   },
+   {
+    "q": "What will they do on Saturday if it's nice?",
+    "options": [
+     "Go skating",
+     "Go skiing",
+     "Make a snowman"
+    ],
+    "a": 0
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Describe your next vacation in 4 sentences using the futur simple (where, with whom, what you'll do).",
+   "model": "L'été prochain, j'irai en Gaspésie avec ma famille. Nous prendrons la voiture. On verra des baleines à Tadoussac. Je mangerai beaucoup de homard!"
+  },
+  {
+   "prompt": "Make three promises to a friend.",
+   "model": "Je t'appellerai plus souvent. Je viendrai à ta fête. Je ne serai plus en retard, promis!"
+  },
+  {
+   "prompt": "Say 'I'll do it tomorrow' with the futur simple, then the way most Quebecers would say it.",
+   "model": "Je le ferai demain. / J'vas l'faire demain."
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences about your life in five years. Use the futur simple with at least four different irregular verbs, plus one sentence with quand and one with si.",
+  "model": "Dans cinq ans, je parlerai français couramment. J'aurai peut-être une nouvelle job. Nous habiterons dans une maison avec une grande cour. Quand les enfants seront plus grands, on fera du camping chaque été. Si j'ai assez d'argent, j'irai au Japon. Je serai heureux, j'en suis sûr!"
+ },
+ "quiz": [
+  {
+   "q": "What is the future stem of 'avoir'?",
+   "options": [
+    "av-",
+    "aur-",
+    "avr-",
+    "ai-"
+   ],
+   "a": 1,
+   "why": "J'aurai, tu auras…"
+  },
+  {
+   "q": "What is the future stem of 'venir'?",
+   "options": [
+    "venir-",
+    "viendr-",
+    "vendr-",
+    "viens-"
+   ],
+   "a": 1,
+   "why": "Je viendrai."
+  },
+  {
+   "q": "'Ils ___ demain.' (partir)",
+   "options": [
+    "partiront",
+    "partirons",
+    "partent",
+    "partira"
+   ],
+   "a": 0,
+   "why": "Ils → -ont."
+  },
+  {
+   "q": "Which is correct?",
+   "options": [
+    "Quand je suis grand, je serai pompier.",
+    "Quand je serai grand, je serai pompier.",
+    "Quand je serai grand, je suis pompier.",
+    "Quand je serais grand, je serai pompier."
+   ],
+   "a": 1,
+   "why": "Quand + future in both clauses."
+  },
+  {
+   "q": "Which is correct?",
+   "options": [
+    "Si tu viendras, on mangera.",
+    "Si tu viens, on mangera.",
+    "Si tu viendrais, on mangera.",
+    "Si tu viens, on mangerais."
+   ],
+   "a": 1,
+   "why": "Si + present, then future."
+  },
+  {
+   "q": "Future of 'il faut':",
+   "options": [
+    "il fallera",
+    "il faudra",
+    "il faira",
+    "il fautra"
+   ],
+   "a": 1,
+   "why": "Falloir → il faudra."
+  },
+  {
+   "q": "In everyday Quebec speech, the future is most often expressed with…",
+   "options": [
+    "the futur simple",
+    "the futur proche",
+    "the passé composé",
+    "the imparfait"
+   ],
+   "a": 1,
+   "why": "Je vais / j'vas + infinitive is the default in speech."
+  },
+  {
+   "q": "'M'as te dire' means…",
+   "options": [
+    "Tell me",
+    "I'm going to tell you",
+    "My mother told you",
+    "I told you"
+   ],
+   "a": 1,
+   "why": "M'as = je vais (very casual Quebec)."
+  },
+  {
+   "q": "'J'achèterai' comes from…",
+   "options": [
+    "acheter",
+    "chercher",
+    "achever",
+    "acheminer"
+   ],
+   "a": 0,
+   "why": "Acheter adds an accent: achèterai."
+  }
+ ]
+}

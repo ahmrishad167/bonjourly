@@ -1,0 +1,668 @@
+{
+ "w": 126,
+ "title": "Writing: opinion essay",
+ "goal": "By the end of this lesson you can plan and write a structured 300-word opinion essay (texte d'opinion) in French on a Quebec topic, with a clear introduction, argued paragraphs, a conclusion, formal connectors, and a final revision checklist.",
+ "learn": [
+  {
+   "h": "The structure of a texte d'opinion",
+   "body": [
+    "A 300-word opinion essay has five paragraphs, roughly: introduction (50 words), two or three argument paragraphs (60–70 words each), and a conclusion (40–50 words).",
+    "Introduction: 1) *amener le sujet* (a general sentence that brings in the topic), 2) *poser le sujet* (the question), 3) state your position, 4) *annoncer le plan* (what your arguments will be).",
+    "Conclusion: 1) a short summary of your arguments, 2) restate your position, 3) an *ouverture*: a wider question or a call to action."
+   ],
+   "table": {
+    "head": [
+     "Part",
+     "Content",
+     "Useful phrases"
+    ],
+    "rows": [
+     [
+      "Introduction",
+      "context, question, position, plan",
+      "De nos jours… / On peut se demander si… / Je suis d'avis que…"
+     ],
+     [
+      "Argument 1",
+      "main idea + explanation + example",
+      "Tout d'abord, … En effet, … Par exemple, …"
+     ],
+     [
+      "Argument 2",
+      "main idea + explanation + example",
+      "Ensuite, … De plus, … Prenons le cas de…"
+     ],
+     [
+      "Counter-argument",
+      "concede, then refute",
+      "Certes, … Cependant, …"
+     ],
+     [
+      "Conclusion",
+      "summary, position, opening",
+      "En somme, … Pour toutes ces raisons, … Il reste à savoir si…"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Writing each argument paragraph",
+   "body": [
+    "Each paragraph develops one idea in three steps: the main idea (*idée principale*), an explanation (*En effet, …* / *Cela s'explique par…*), and a concrete example or figure (*Par exemple, …*, *Selon Statistique Canada, …*).",
+    "Use the PEE pattern: Point, Explication, Exemple. End the paragraph with a short link back to your position: *Voilà pourquoi…*"
+   ],
+   "tip": "One paragraph = one idea. If you start a new idea, start a new paragraph."
+  },
+  {
+   "h": "A formal written register",
+   "body": [
+    "Written French is more formal than speech: keep the *ne* of the negation, use *nous* rather than *on* (or *on* consistently), avoid *faque*, *pis*, *genre*, *ben* and anglicisms.",
+    "Impersonal structures sound objective: *Il est évident que…* (+ indicative), *Il est essentiel que…* (+ subjunctive), *On constate que…*, *Force est de constater que…* (One has to admit that…). Vary verbs: instead of *il y a* and *faire*, use *exister, constituer, permettre, entraîner, favoriser*."
+   ],
+   "table": {
+    "head": [
+     "Spoken",
+     "Written"
+    ],
+    "rows": [
+     [
+      "Y'a plein de monde qui…",
+      "De nombreuses personnes…"
+     ],
+     [
+      "Faque…",
+      "Par conséquent, …"
+     ],
+     [
+      "C'est pas une bonne idée.",
+      "Ce n'est pas une solution souhaitable."
+     ],
+     [
+      "Ça fait que les loyers montent.",
+      "Cela entraîne une hausse des loyers."
+     ],
+     [
+      "Je trouve que c'est important.",
+      "Il me semble essentiel que…"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Revision checklist and Quebec typography",
+   "body": [
+    "Before submitting: 1) agreements (adjectives, past participles with *être*), 2) verb endings, 3) subjunctive after *il faut que, bien que, pour que*, 4) accents, 5) one connector per paragraph at least, 6) word count.",
+    "Punctuation in Quebec (OQLF usage): a non-breaking space before the colon and inside guillemets (*« Je me souviens »*), but usually no space before *; ! ?* (France puts a space before all four). Use French quotation marks « » rather than \" \"."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "De nos jours, la question du logement préoccupe de nombreux Québécois.",
+   "en": "Nowadays, the housing issue worries many Quebecers.",
+   "note": "amener le sujet"
+  },
+  {
+   "fr": "On peut se demander s'il faut limiter les locations touristiques à court terme.",
+   "en": "One may wonder whether short-term tourist rentals should be limited.",
+   "note": "poser le sujet"
+  },
+  {
+   "fr": "Je suis d'avis qu'il faut les encadrer davantage, pour deux raisons.",
+   "en": "I am of the opinion that they must be regulated more, for two reasons.",
+   "note": "position + plan"
+  },
+  {
+   "fr": "Tout d'abord, ces locations réduisent l'offre de logements pour les résidents.",
+   "en": "First, these rentals reduce the supply of housing for residents.",
+   "note": "idée principale"
+  },
+  {
+   "fr": "En effet, chaque appartement loué aux touristes est retiré du marché locatif.",
+   "en": "Indeed, each apartment rented to tourists is removed from the rental market.",
+   "note": "explanation"
+  },
+  {
+   "fr": "Par exemple, dans certains quartiers centraux, des immeubles entiers sont devenus des hôtels déguisés.",
+   "en": "For example, in some central neighbourhoods, entire buildings have become disguised hotels.",
+   "note": "example"
+  },
+  {
+   "fr": "Cela entraîne une hausse des loyers.",
+   "en": "This leads to higher rents.",
+   "note": "entraîner instead of faire que"
+  },
+  {
+   "fr": "Certes, ce type de location permet à certains propriétaires d'arrondir leurs fins de mois.",
+   "en": "Admittedly, this kind of rental lets some owners make ends meet.",
+   "note": "concession"
+  },
+  {
+   "fr": "Cependant, l'intérêt collectif doit primer sur l'intérêt individuel.",
+   "en": "However, the collective interest must take precedence over individual interest.",
+   "note": "refutation"
+  },
+  {
+   "fr": "Il est essentiel que les municipalités fassent respecter les règles.",
+   "en": "It is essential that municipalities enforce the rules.",
+   "note": "il est essentiel que + subjunctive"
+  },
+  {
+   "fr": "Force est de constater que les mesures actuelles ne suffisent pas.",
+   "en": "One has to admit that current measures are not enough.",
+   "note": "formal impersonal"
+  },
+  {
+   "fr": "Voilà pourquoi une réglementation plus stricte me semble nécessaire.",
+   "en": "That is why stricter regulation seems necessary to me.",
+   "note": "closing a paragraph"
+  },
+  {
+   "fr": "En somme, l'accès au logement doit passer avant le tourisme.",
+   "en": "In short, access to housing must come before tourism.",
+   "note": "conclusion"
+  },
+  {
+   "fr": "Il reste à savoir si les villes auront les moyens de faire appliquer ces règles.",
+   "en": "It remains to be seen whether cities will have the means to enforce these rules.",
+   "note": "ouverture"
+  },
+  {
+   "fr": "Selon l'Institut de la statistique du Québec, la population de la province dépasse 9 millions.",
+   "en": "According to the Institut de la statistique du Québec, the province's population exceeds 9 million.",
+   "note": "citing a source"
+  }
+ ],
+ "quebec": {
+  "intro": "Turning Quebec speech into Quebec writing: the casual forms you hear every day must be replaced by formal equivalents in an opinion essay. Here's how to 'upgrade' your sentences.",
+  "items": [
+   {
+    "std": "Par conséquent, les loyers augmentent.",
+    "qc": "Faque les loyers montent.",
+    "en": "So rents go up.",
+    "note": "faque: speech only"
+   },
+   {
+    "std": "De nombreuses familles ne trouvent pas de logement.",
+    "qc": "Y'a plein de familles qui trouvent pas de logement.",
+    "en": "Lots of families can't find housing.",
+    "note": "y'a plein de and dropped ne: speech only"
+   },
+   {
+    "std": "Ce n'est pas pertinent.",
+    "qc": "Ça a pas rapport.",
+    "en": "It's irrelevant.",
+    "note": "informal"
+   },
+   {
+    "std": "C'est une solution intéressante.",
+    "qc": "C'est une solution le fun.",
+    "en": "It's an interesting solution.",
+    "note": "le fun is too informal for an essay"
+   },
+   {
+    "std": "Il faut que le gouvernement agisse.",
+    "qc": "Faut que le gouvernement bouge.",
+    "en": "The government has to act.",
+    "note": "keep il faut que in writing"
+   },
+   {
+    "std": "Cette situation est inacceptable.",
+    "qc": "Ça a pas d'allure, c't'affaire-là.",
+    "en": "This situation is unacceptable.",
+    "note": "informal"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "What is 'l'ouverture' in a conclusion?",
+   "options": [
+    "The first sentence of the essay",
+    "A wider question or call to action at the end",
+    "The title",
+    "A counter-argument"
+   ],
+   "a": 1,
+   "why": "It opens the topic beyond the essay."
+  },
+  {
+   "t": "mcq",
+   "q": "Which connector introduces an explanation?",
+   "options": [
+    "En effet",
+    "Certes",
+    "En somme",
+    "Tout d'abord"
+   ],
+   "a": 0,
+   "why": "En effet = indeed (explaining)."
+  },
+  {
+   "t": "mcq",
+   "q": "Il est essentiel que le gouvernement ___ rapidement.",
+   "options": [
+    "agit",
+    "agisse",
+    "agira",
+    "agirait"
+   ],
+   "a": 1,
+   "why": "Il est essentiel que + subjunctive."
+  },
+  {
+   "t": "mcq",
+   "q": "Which sentence fits a formal essay?",
+   "options": [
+    "Faque, c'est pas une bonne idée.",
+    "Par conséquent, ce n'est pas une solution souhaitable.",
+    "Ça a pas d'allure.",
+    "C'est genre pas bon."
+   ],
+   "a": 1,
+   "why": "Formal connector, full negation."
+  },
+  {
+   "t": "fill",
+   "q": "___ est de constater que la situation s'aggrave. (formal: one has to admit)",
+   "a": [
+    "Force"
+   ],
+   "en": "One has to admit that the situation is getting worse.",
+   "why": "Force est de constater que."
+  },
+  {
+   "t": "fill",
+   "q": "On peut se ___ s'il faut interdire ces locations. (wonder)",
+   "a": [
+    "demander"
+   ],
+   "en": "One may wonder whether these rentals should be banned.",
+   "why": "Se demander si = to wonder whether."
+  },
+  {
+   "t": "fill",
+   "q": "Cela ___ une hausse des prix. (leads to)",
+   "a": [
+    "entraîne"
+   ],
+   "en": "This leads to a rise in prices.",
+   "why": "Entraîner = to lead to, cause."
+  },
+  {
+   "t": "fill",
+   "q": "En ___, je suis convaincu que c'est nécessaire. (in short)",
+   "a": [
+    "somme",
+    "bref",
+    "conclusion",
+    "résumé"
+   ],
+   "en": "In short, I'm convinced it's necessary.",
+   "why": "En somme / en bref / en conclusion / en résumé."
+  },
+  {
+   "t": "build",
+   "en": "I am of the opinion that we must act.",
+   "a": "Je suis d'avis que nous devons agir."
+  },
+  {
+   "t": "build",
+   "en": "For all these reasons, I am against it.",
+   "a": "Pour toutes ces raisons, je suis contre."
+  },
+  {
+   "t": "build",
+   "en": "It remains to be seen whether it will work.",
+   "a": "Il reste à savoir si cela fonctionnera."
+  },
+  {
+   "t": "translate",
+   "en": "Nowadays, many people work from home.",
+   "a": [
+    "De nos jours, de nombreuses personnes travaillent de la maison.",
+    "De nos jours, beaucoup de gens travaillent de la maison.",
+    "De nos jours, de nombreuses personnes travaillent à domicile.",
+    "De nos jours, beaucoup de personnes travaillent à la maison.",
+    "Aujourd'hui, beaucoup de gens travaillent de la maison.",
+    "De nos jours, beaucoup de gens font du télétravail."
+   ],
+   "why": "A typical 'amener le sujet' opener."
+  },
+  {
+   "t": "translate",
+   "en": "However, this solution is expensive.",
+   "a": [
+    "Cependant, cette solution coûte cher.",
+    "Cependant, cette solution est coûteuse.",
+    "Toutefois, cette solution coûte cher.",
+    "Toutefois, cette solution est coûteuse.",
+    "Pourtant, cette solution coûte cher.",
+    "Néanmoins, cette solution coûte cher."
+   ],
+   "why": "Formal contrast connector."
+  },
+  {
+   "t": "translate",
+   "en": "Indeed, rents have increased.",
+   "a": [
+    "En effet, les loyers ont augmenté.",
+    "En effet, les loyers ont monté."
+   ],
+   "why": "En effet introduces an explanation."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "le texte d'opinion",
+   "en": "opinion essay",
+   "g": "m",
+   "ex": "J'écris un texte d'opinion sur le logement."
+  },
+  {
+   "fr": "la thèse",
+   "en": "thesis, position",
+   "g": "f",
+   "ex": "Ma thèse est claire."
+  },
+  {
+   "fr": "l'idée principale",
+   "en": "main idea",
+   "g": "f",
+   "ex": "Chaque paragraphe a une idée principale."
+  },
+  {
+   "fr": "être d'avis que",
+   "en": "to be of the opinion that",
+   "ex": "Je suis d'avis qu'il faut agir."
+  },
+  {
+   "fr": "en effet",
+   "en": "indeed (explaining)",
+   "ex": "En effet, les chiffres le montrent."
+  },
+  {
+   "fr": "en somme",
+   "en": "in short, all in all",
+   "ex": "En somme, c'est une bonne idée."
+  },
+  {
+   "fr": "force est de constater que",
+   "en": "one has to admit that",
+   "ex": "Force est de constater que rien n'a changé."
+  },
+  {
+   "fr": "entraîner",
+   "en": "to lead to, to cause",
+   "ex": "Cette décision entraîne des coûts."
+  },
+  {
+   "fr": "favoriser",
+   "en": "to promote, to encourage",
+   "ex": "Le télétravail favorise la conciliation travail-famille."
+  },
+  {
+   "fr": "constituer",
+   "en": "to constitute, to be",
+   "ex": "Cela constitue un problème majeur."
+  },
+  {
+   "fr": "primer sur",
+   "en": "to take precedence over",
+   "ex": "La sécurité prime sur tout."
+  },
+  {
+   "fr": "encadrer",
+   "en": "to regulate, to supervise",
+   "ex": "Il faut mieux encadrer ces pratiques."
+  },
+  {
+   "fr": "la hausse",
+   "en": "increase, rise",
+   "g": "f",
+   "ex": "On note une hausse des loyers."
+  },
+  {
+   "fr": "le marché locatif",
+   "en": "rental market",
+   "g": "m",
+   "ex": "Le marché locatif est saturé."
+  },
+  {
+   "fr": "la conciliation travail-famille",
+   "en": "work-life balance",
+   "g": "f",
+   "ex": "La conciliation travail-famille est essentielle.",
+   "qc": true
+  },
+  {
+   "fr": "il reste à savoir si",
+   "en": "it remains to be seen whether",
+   "ex": "Il reste à savoir si le projet sera financé."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "force est de constater",
+    "tip": "fors-è-duh kon-sta-TÉ: a single formal unit."
+   },
+   {
+    "fr": "je suis d'avis",
+    "tip": "zhuh swi da-VI."
+   },
+   {
+    "fr": "en effet",
+    "tip": "a-né-FÈ: liaison in [n]."
+   },
+   {
+    "fr": "entraîner",
+    "tip": "an-trè-NÉ."
+   },
+   {
+    "fr": "conciliation",
+    "tip": "kon-si-lya-SYON."
+   },
+   {
+    "fr": "il reste à savoir",
+    "tip": "il rès-ta sa-VWAR."
+   }
+  ],
+  "title": "La rétroaction de la prof",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Madame, j'ai fini mon texte d'opinion sur le transport en commun gratuit.",
+    "en": "Ma'am, I've finished my opinion essay on free public transit."
+   },
+   {
+    "s": "B",
+    "fr": "Bravo. Ta thèse est claire, mais ton introduction n'annonce pas ton plan.",
+    "en": "Good job. Your thesis is clear, but your introduction doesn't announce your plan."
+   },
+   {
+    "s": "A",
+    "fr": "Ah oui. Je devrais écrire mes deux arguments à la fin de l'introduction?",
+    "en": "Oh right. Should I write my two arguments at the end of the introduction?"
+   },
+   {
+    "s": "B",
+    "fr": "Exactement. Et dans ton deuxième paragraphe, il manque un exemple concret.",
+    "en": "Exactly. And in your second paragraph, a concrete example is missing."
+   },
+   {
+    "s": "A",
+    "fr": "Je pourrais citer une ville où le transport est déjà gratuit.",
+    "en": "I could mention a city where transit is already free."
+   },
+   {
+    "s": "B",
+    "fr": "Parfait. Attention aussi au registre : tu as écrit « faque » et « y'a plein de monde ».",
+    "en": "Perfect. Watch the register too: you wrote 'faque' and 'y'a plein de monde'."
+   },
+   {
+    "s": "A",
+    "fr": "Oups! « Par conséquent » et « de nombreuses personnes », alors.",
+    "en": "Oops! 'Par conséquent' and 'de nombreuses personnes', then."
+   },
+   {
+    "s": "B",
+    "fr": "C'est ça. Et vérifie le subjonctif après « il faut que ». Sinon, c'est un très bon texte!",
+    "en": "That's it. And check the subjunctive after 'il faut que'. Otherwise, it's a very good essay!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What is missing from the introduction?",
+    "options": [
+     "The thesis",
+     "The plan",
+     "The title"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does the second paragraph need?",
+    "options": [
+     "A concrete example",
+     "More connectors",
+     "A shorter sentence"
+    ],
+    "a": 0
+   },
+   {
+    "q": "What register problem does the teacher point out?",
+    "options": [
+     "Too formal",
+     "Informal words like faque",
+     "English spelling"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Present the plan of your essay orally in four sentences (question, position, two arguments).",
+   "model": "On peut se demander si le transport en commun devrait être gratuit à Montréal. Je suis d'avis que oui. D'abord, cela réduirait la circulation automobile. Ensuite, cela aiderait les familles à faible revenu."
+  },
+  {
+   "prompt": "Turn these spoken sentences into written French: 'Y'a plein de monde qui prend son char. Faque y'a du trafic.'",
+   "model": "De nombreuses personnes utilisent leur voiture. Par conséquent, la circulation est très dense."
+  },
+  {
+   "prompt": "Give one counter-argument to your own position and refute it.",
+   "model": "Certes, la gratuité coûterait des centaines de millions de dollars. Cependant, ces coûts seraient en partie compensés par la baisse de la pollution et des dépenses en santé."
+  },
+  {
+   "prompt": "Say your conclusion with an ouverture.",
+   "model": "En somme, la gratuité du transport en commun est un investissement pour l'avenir. Il reste à savoir si le gouvernement aura le courage de la financer."
+  }
+ ],
+ "write": {
+  "prompt": "Write a 300-word opinion essay on a Quebec topic. Suggested: 'Le transport en commun devrait-il être gratuit au Québec?', 'Faut-il abolir le changement d'heure?' or 'Faut-il limiter les locations touristiques à court terme?'. Follow the five-paragraph structure, use at least eight connectors, one concession, two subjunctives, and a formal register. Then check it with the revision checklist.",
+  "model": "De nos jours, la congestion routière et les changements climatiques préoccupent de nombreux Québécois. On peut donc se demander si le transport en commun devrait être gratuit au Québec. Je suis d'avis que oui, pour deux raisons principales : l'environnement et la justice sociale.\n\nTout d'abord, la gratuité inciterait davantage de personnes à laisser leur voiture à la maison. En effet, le prix du billet constitue souvent un frein pour les familles et les travailleurs. Par exemple, à Tallinn, en Estonie, la gratuité a entraîné une hausse de la fréquentation dès la première année. Moins de voitures sur les routes signifie moins de pollution et moins de bouchons.\n\nEnsuite, la gratuité favoriserait l'égalité des chances. Les étudiants, les aînés et les personnes à faible revenu pourraient se déplacer librement pour travailler, étudier ou se soigner. Il est essentiel que tous les citoyens aient accès à la ville, peu importe leur revenu.\n\nCertes, une telle mesure coûterait cher, et certains craignent qu'elle ne soit financée par une hausse des impôts. Cependant, force est de constater que la congestion coûte déjà des milliards de dollars chaque année à l'économie québécoise. De plus, il faudrait que l'offre de service augmente en même temps, sans quoi les autobus seraient bondés.\n\nEn somme, la gratuité du transport en commun serait bénéfique à la fois pour l'environnement et pour la société. Pour toutes ces raisons, je pense que le gouvernement devrait l'expérimenter, d'abord dans une grande ville. Il reste à savoir si nos élus auront le courage d'investir dans cette solution d'avenir."
+ },
+ "quiz": [
+  {
+   "q": "How many main parts does a texte d'opinion have?",
+   "options": [
+    "Two",
+    "Three (introduction, development, conclusion)",
+    "Six",
+    "One"
+   ],
+   "a": 1,
+   "why": "Introduction, développement (2–3 paragraphs), conclusion."
+  },
+  {
+   "q": "What does 'annoncer le plan' mean?",
+   "options": [
+    "Give the title",
+    "Say what your arguments will be",
+    "Write the conclusion first",
+    "Cite a source"
+   ],
+   "a": 1,
+   "why": "Done at the end of the introduction."
+  },
+  {
+   "q": "Which is the best formal replacement for 'faque'?",
+   "options": [
+    "pis",
+    "par conséquent",
+    "genre",
+    "ben"
+   ],
+   "a": 1,
+   "why": "Par conséquent / donc."
+  },
+  {
+   "q": "Which structure needs the subjunctive?",
+   "options": [
+    "Il est évident que",
+    "Il est essentiel que",
+    "On constate que",
+    "Je pense que"
+   ],
+   "a": 1,
+   "why": "Necessity → subjunctive."
+  },
+  {
+   "q": "In Quebec typography (OQLF), before '?' you usually put…",
+   "options": [
+    "a space",
+    "no space",
+    "a hyphen",
+    "a comma"
+   ],
+   "a": 1,
+   "why": "Unlike France, Quebec usually puts no space before ? ! ;"
+  },
+  {
+   "q": "Which quotation marks are preferred in French?",
+   "options": [
+    "\" \"",
+    "« »",
+    "' '",
+    "< >"
+   ],
+   "a": 1,
+   "why": "Guillemets français."
+  },
+  {
+   "q": "What are the three steps of an argument paragraph?",
+   "options": [
+    "Title, list, question",
+    "Idea, explanation, example",
+    "Question, answer, joke",
+    "Plan, summary, opening"
+   ],
+   "a": 1,
+   "why": "Point, explication, exemple."
+  },
+  {
+   "q": "'Force est de constater que' means…",
+   "options": [
+    "By force, we note…",
+    "One has to admit that…",
+    "It is forbidden to say…",
+    "Strength is needed to…"
+   ],
+   "a": 1,
+   "why": "A formal impersonal phrase."
+  },
+  {
+   "q": "'Certes…, cependant…' is used to…",
+   "options": [
+    "give an example",
+    "concede then refute",
+    "conclude",
+    "introduce the topic"
+   ],
+   "a": 1,
+   "why": "Concession + refutation."
+  }
+ ]
+}

@@ -1,0 +1,677 @@
+{
+ "w": 101,
+ "title": "Nominalization",
+ "goal": "By the end of this lesson you can turn verbs and adjectives into nouns with the common suffixes, predict their gender, and decode compact news headlines like those in La Presse and Le Devoir.",
+ "learn": [
+  {
+   "h": "What nominalization is and why it matters",
+   "body": [
+    "Nominalization means expressing an action or quality with a noun instead of a verb or adjective: *Les prix augmentent.* → *l'augmentation des prix*.",
+    "Formal French, especially news, administration and academic writing, uses it constantly. Headlines are almost entirely built from nouns: *Fermeture du pont Jacques-Cartier ce week-end* = The Jacques Cartier Bridge will be closed this weekend.",
+    "Learning the patterns helps you read faster and write in a more formal register."
+   ]
+  },
+  {
+   "h": "From verbs: the main suffixes",
+   "body": [
+    "Each suffix tends to carry a gender, which is a big help.",
+    "Some nouns are short or irregular and must be memorized: *vendre* → *la vente*, *choisir* → *le choix*, *partir* → *le départ*, *hausser* → *la hausse*, *baisser* → *la baisse*, *reprendre* → *la reprise*, *élire* → *l'élection*, *mourir* → *la mort*."
+   ],
+   "table": {
+    "head": [
+     "Suffix",
+     "Gender",
+     "Examples"
+    ],
+    "rows": [
+     [
+      "-tion / -sion",
+      "f",
+      "augmenter → l'augmentation, réduire → la réduction, décider → la décision"
+     ],
+     [
+      "-ment",
+      "m",
+      "licencier → le licenciement, déménager → le déménagement, changer → le changement"
+     ],
+     [
+      "-age",
+      "m",
+      "nettoyer → le nettoyage, laver → le lavage, freiner → le freinage"
+     ],
+     [
+      "-ure",
+      "f",
+      "ouvrir → l'ouverture, fermer → la fermeture, signer → la signature"
+     ],
+     [
+      "-ée",
+      "f",
+      "arriver → l'arrivée, entrer → l'entrée, monter → la montée"
+     ],
+     [
+      "-ance / -ence",
+      "f",
+      "naître → la naissance, préférer → la préférence"
+     ]
+    ]
+   },
+   "tip": "-tion, -ure, -ée, -ance are feminine; -ment and -age are masculine."
+  },
+  {
+   "h": "From adjectives",
+   "body": [
+    "Qualities also become nouns: *-té* (f): *beau* → *la beauté*, *rapide* → *la rapidité*, *propre* → *la propreté*; *-eur* (f): *long* → *la longueur*, *chaud* → *la chaleur*, *lent* → *la lenteur*; *-esse* (f): *faible* → *la faiblesse*, *riche* → *la richesse*; *-ise* (f): *franc* → *la franchise*; *-ité* (f): *responsable* → *la responsabilité*.",
+    "Exceptions to remember: *le bonheur*, *le malheur*, *l'honneur* are masculine."
+   ]
+  },
+  {
+   "h": "Building and unpacking noun phrases",
+   "body": [
+    "When you nominalize, the subject or object of the verb follows with *de*: *Le ministre démissionne* → *la démission du ministre*. *On construit un hôpital* → *la construction d'un hôpital*.",
+    "Adverbs become adjectives: *Les prix augmentent fortement* → *une forte augmentation des prix*.",
+    "To understand a headline, unpack it into a sentence: *Report de la rentrée scolaire à Montréal* → *La rentrée scolaire est reportée à Montréal.*"
+   ],
+   "table": {
+    "head": [
+     "Sentence",
+     "Nominalized"
+    ],
+    "rows": [
+     [
+      "Le prix de l'essence augmente.",
+      "Hausse du prix de l'essence"
+     ],
+     [
+      "L'autoroute 20 est fermée.",
+      "Fermeture de l'autoroute 20"
+     ],
+     [
+      "Les infirmières font la grève.",
+      "Grève des infirmières"
+     ],
+     [
+      "On a arrêté un suspect.",
+      "Arrestation d'un suspect"
+     ],
+     [
+      "Le maire a démissionné.",
+      "Démission du maire"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Quebec: reading headlines in La Presse and Le Devoir",
+   "body": [
+    "Quebec newspapers and Radio-Canada use typical nominal headlines about local life: *Hausse des loyers*, *Grève dans le secteur public*, *Avis d'ébullition préventif à Laval* (boil-water advisory), *Bris d'aqueduc rue Sherbrooke* (water main break), *Opération de déneigement*, *Rentrée parlementaire à l'Assemblée nationale*.",
+    "Practice: read a headline, say the full sentence aloud, then read the first paragraph to check. Spoken Quebec French almost never nominalizes like this; it's a reading and writing skill."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Hausse du prix de l'essence au Québec",
+   "en": "Gas prices rise in Quebec",
+   "note": "hausser → la hausse"
+  },
+  {
+   "fr": "Fermeture complète du tunnel ce week-end",
+   "en": "The tunnel is completely closed this weekend",
+   "note": "fermer → la fermeture (f)"
+  },
+  {
+   "fr": "Démission surprise de la ministre de la Santé",
+   "en": "The health minister resigns unexpectedly",
+   "note": "démissionner → la démission"
+  },
+  {
+   "fr": "L'augmentation des loyers inquiète les locataires.",
+   "en": "The rent increase worries tenants.",
+   "note": "augmenter → l'augmentation (f)"
+  },
+  {
+   "fr": "Le déménagement est prévu pour le 1er juillet.",
+   "en": "The move is planned for July 1st.",
+   "note": "déménager → le déménagement (m)"
+  },
+  {
+   "fr": "Après l'arrivée des invités, on a servi le repas.",
+   "en": "After the guests arrived, we served the meal.",
+   "note": "noun instead of après que + verb"
+  },
+  {
+   "fr": "Le nettoyage des rues commence en avril.",
+   "en": "Street cleaning starts in April.",
+   "note": "nettoyer → le nettoyage (m)"
+  },
+  {
+   "fr": "Grève des chauffeurs d'autobus à Québec",
+   "en": "Bus drivers on strike in Quebec City",
+   "note": "la grève = strike"
+  },
+  {
+   "fr": "Arrestation d'un suspect à Longueuil",
+   "en": "Suspect arrested in Longueuil",
+   "note": "arrêter → l'arrestation"
+  },
+  {
+   "fr": "Forte baisse des ventes de maisons",
+   "en": "Home sales drop sharply",
+   "note": "fortement → forte (adverb → adjective)"
+  },
+  {
+   "fr": "Ouverture d'une nouvelle station du REM",
+   "en": "A new REM station opens",
+   "note": "ouvrir → l'ouverture"
+  },
+  {
+   "fr": "La lenteur du service est inacceptable.",
+   "en": "The slowness of the service is unacceptable.",
+   "note": "lent → la lenteur (f)"
+  },
+  {
+   "fr": "La sécurité des piétons est une priorité.",
+   "en": "Pedestrian safety is a priority.",
+   "note": "-té nouns are feminine"
+  },
+  {
+   "fr": "Report de la rentrée scolaire en raison de la chaleur",
+   "en": "Back-to-school postponed because of the heat",
+   "note": "reporter → le report; chaud → la chaleur"
+  },
+  {
+   "fr": "Construction d'un nouvel hôpital à Vaudreuil",
+   "en": "New hospital to be built in Vaudreuil",
+   "note": "construire → la construction"
+  },
+  {
+   "fr": "Avis d'ébullition préventif dans trois quartiers",
+   "en": "Precautionary boil-water advisory in three neighbourhoods",
+   "note": "bouillir → l'ébullition; common Quebec news item"
+  }
+ ],
+ "quebec": {
+  "intro": "This lesson's Quebec layer is reading: headlines in La Presse, Le Devoir and on Radio-Canada are built almost entirely from nouns. Each item shows the everyday sentence and the headline version.",
+  "items": [
+   {
+    "std": "Les loyers augmentent encore à Montréal.",
+    "qc": "Nouvelle hausse des loyers à Montréal",
+    "en": "Rents go up again in Montreal",
+    "note": "headline style: hausse (f) + de"
+   },
+   {
+    "std": "Il faut faire bouillir l'eau avant de la boire à Laval.",
+    "qc": "Avis d'ébullition à Laval",
+    "en": "Boil-water advisory in Laval",
+    "note": "avis d'ébullition: typical Quebec municipal news"
+   },
+   {
+    "std": "Un tuyau d'aqueduc s'est brisé sur la rue Sherbrooke.",
+    "qc": "Bris d'aqueduc rue Sherbrooke",
+    "en": "Water main break on Sherbrooke Street",
+    "note": "bris = breakage, very common in Quebec news"
+   },
+   {
+    "std": "La ville commence à enlever la neige ce soir.",
+    "qc": "Début des opérations de déneigement ce soir",
+    "en": "Snow removal starts tonight",
+    "note": "déneiger → le déneigement"
+   },
+   {
+    "std": "Les députés reviennent à l'Assemblée nationale.",
+    "qc": "Rentrée parlementaire à l'Assemblée nationale",
+    "en": "The National Assembly resumes sitting",
+    "note": "la rentrée = return after a break"
+   },
+   {
+    "std": "Les employés du secteur public font la grève.",
+    "qc": "Grève dans le secteur public",
+    "en": "Public sector strike",
+    "note": "faire la grève → la grève"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "What is the noun from 'fermer'?",
+   "options": [
+    "le fermement",
+    "la fermeture",
+    "la fermage",
+    "la fermée"
+   ],
+   "a": 1,
+   "why": "Fermer → la fermeture (like ouvrir → l'ouverture)."
+  },
+  {
+   "t": "mcq",
+   "q": "Nouns ending in -ment are usually…",
+   "options": [
+    "masculine",
+    "feminine",
+    "plural",
+    "adjectives"
+   ],
+   "a": 0,
+   "why": "Le changement, le déménagement, le licenciement."
+  },
+  {
+   "t": "mcq",
+   "q": "'Démission du maire' means…",
+   "options": [
+    "The mayor is elected",
+    "The mayor resigns",
+    "The mayor is arrested",
+    "The mayor visits"
+   ],
+   "a": 1,
+   "why": "Démissionner → la démission."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is masculine?",
+   "options": [
+    "la chaleur",
+    "le bonheur",
+    "la longueur",
+    "la lenteur"
+   ],
+   "a": 1,
+   "why": "Bonheur, malheur and honneur are masculine exceptions."
+  },
+  {
+   "t": "fill",
+   "q": "augmenter → l'___ des prix",
+   "a": [
+    "augmentation"
+   ],
+   "en": "the increase in prices",
+   "why": "-tion, feminine."
+  },
+  {
+   "t": "fill",
+   "q": "arriver → l'___ du train",
+   "a": [
+    "arrivée"
+   ],
+   "en": "the arrival of the train",
+   "why": "-ée, feminine."
+  },
+  {
+   "t": "fill",
+   "q": "nettoyer → le ___ des rues",
+   "a": [
+    "nettoyage"
+   ],
+   "en": "street cleaning",
+   "why": "-age, masculine."
+  },
+  {
+   "t": "fill",
+   "q": "vendre → la ___ de la maison",
+   "a": [
+    "vente"
+   ],
+   "en": "the sale of the house",
+   "why": "Irregular: la vente."
+  },
+  {
+   "t": "fill",
+   "q": "Les prix baissent fortement → une ___ baisse des prix",
+   "a": [
+    "forte"
+   ],
+   "en": "a sharp drop in prices",
+   "why": "Adverb fortement → adjective forte."
+  },
+  {
+   "t": "build",
+   "en": "The rent increase worries tenants.",
+   "a": "L'augmentation des loyers inquiète les locataires."
+  },
+  {
+   "t": "build",
+   "en": "After the guests arrived, we ate.",
+   "a": "Après l'arrivée des invités, on a mangé."
+  },
+  {
+   "t": "build",
+   "en": "Pedestrian safety is a priority.",
+   "a": "La sécurité des piétons est une priorité."
+  },
+  {
+   "t": "translate",
+   "en": "Closure of the bridge",
+   "a": [
+    "Fermeture du pont",
+    "La fermeture du pont"
+   ],
+   "why": "Fermer → la fermeture; de + le = du."
+  },
+  {
+   "t": "translate",
+   "en": "Bus drivers' strike",
+   "a": [
+    "Grève des chauffeurs d'autobus",
+    "La grève des chauffeurs d'autobus",
+    "Grève des chauffeurs de bus"
+   ],
+   "why": "La grève + des."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "la hausse",
+   "en": "rise, increase",
+   "g": "f",
+   "ex": "une hausse des taxes"
+  },
+  {
+   "fr": "la baisse",
+   "en": "drop, decrease",
+   "g": "f",
+   "ex": "une baisse de température"
+  },
+  {
+   "fr": "la fermeture",
+   "en": "closure",
+   "g": "f",
+   "ex": "la fermeture de l'usine"
+  },
+  {
+   "fr": "l'ouverture",
+   "en": "opening",
+   "g": "f",
+   "ex": "l'ouverture du magasin"
+  },
+  {
+   "fr": "la démission",
+   "en": "resignation",
+   "g": "f",
+   "ex": "la démission du ministre"
+  },
+  {
+   "fr": "la grève",
+   "en": "strike",
+   "g": "f",
+   "ex": "Les profs sont en grève."
+  },
+  {
+   "fr": "l'arrestation",
+   "en": "arrest",
+   "g": "f",
+   "ex": "l'arrestation d'un suspect"
+  },
+  {
+   "fr": "le licenciement",
+   "en": "layoff, dismissal",
+   "g": "m",
+   "ex": "des licenciements massifs"
+  },
+  {
+   "fr": "le report",
+   "en": "postponement",
+   "g": "m",
+   "ex": "le report du match"
+  },
+  {
+   "fr": "la rentrée",
+   "en": "back to school / work, return",
+   "g": "f",
+   "ex": "la rentrée scolaire"
+  },
+  {
+   "fr": "le locataire / la locataire",
+   "en": "tenant",
+   "ex": "Les locataires sont inquiets."
+  },
+  {
+   "fr": "le déneigement",
+   "en": "snow removal",
+   "g": "m",
+   "ex": "le déneigement des rues",
+   "qc": true
+  },
+  {
+   "fr": "l'avis d'ébullition",
+   "en": "boil-water advisory",
+   "g": "m",
+   "ex": "Un avis d'ébullition est en vigueur.",
+   "qc": true
+  },
+  {
+   "fr": "le bris d'aqueduc",
+   "en": "water main break",
+   "g": "m",
+   "ex": "Un bris d'aqueduc a inondé la rue.",
+   "qc": true
+  },
+  {
+   "fr": "le chantier",
+   "en": "construction site, roadwork",
+   "g": "m",
+   "ex": "Encore un chantier sur le boulevard!"
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "l'augmentation",
+    "tip": "log-man-ta-SYON: -tion is [sjɔ̃], not 'shun'."
+   },
+   {
+    "fr": "la fermeture",
+    "tip": "la-fèr-muh-TÜR."
+   },
+   {
+    "fr": "le licenciement",
+    "tip": "luh-lee-san-see-MAN."
+   },
+   {
+    "fr": "l'ébullition",
+    "tip": "lé-bü-lee-SYON."
+   },
+   {
+    "fr": "le déneigement",
+    "tip": "luh-dé-nèzh-MAN."
+   },
+   {
+    "fr": "la grève",
+    "tip": "la-GRÈV: open è, Quebec may diphthongize slightly [grajv]."
+   }
+  ],
+  "title": "Les manchettes du matin",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "As-tu lu les manchettes ce matin?",
+    "en": "Did you read the headlines this morning?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui: « Fermeture du pont Jacques-Cartier en fin de semaine ».",
+    "en": "Yes: 'Jacques Cartier Bridge closed this weekend'."
+   },
+   {
+    "s": "A",
+    "fr": "Encore? Ça veut dire qu'il va y avoir du trafic partout.",
+    "en": "Again? That means there'll be traffic everywhere."
+   },
+   {
+    "s": "B",
+    "fr": "Il y a aussi « Hausse des tarifs de transport en commun en janvier ».",
+    "en": "There's also 'Public transit fares rise in January'."
+   },
+   {
+    "s": "A",
+    "fr": "Ouf. Pis l'autre article, sur la grève?",
+    "en": "Ugh. And the other article, about the strike?"
+   },
+   {
+    "s": "B",
+    "fr": "« Report de la grève des enseignants ». Donc les écoles restent ouvertes.",
+    "en": "'Teachers' strike postponed'. So the schools stay open."
+   },
+   {
+    "s": "A",
+    "fr": "Bonne nouvelle. Rien sur la neige?",
+    "en": "Good news. Nothing about the snow?"
+   },
+   {
+    "s": "B",
+    "fr": "Si: « Début des opérations de déneigement ce soir ». Déplace ton auto!",
+    "en": "Yes: 'Snow removal begins tonight'. Move your car!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What will be closed this weekend?",
+    "options": [
+     "A tunnel",
+     "The Jacques Cartier Bridge",
+     "A metro line"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What happens to the teachers' strike?",
+    "options": [
+     "It starts today",
+     "It is postponed",
+     "It is cancelled for good"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Why should A move the car?",
+    "options": [
+     "Street cleaning",
+     "Snow removal",
+     "Roadwork"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Unpack these headlines into full sentences: 'Ouverture d'une nouvelle bibliothèque' and 'Baisse du chômage au Québec'.",
+   "model": "Une nouvelle bibliothèque ouvre. Le chômage baisse au Québec."
+  },
+  {
+   "prompt": "Turn these sentences into headlines: 'Le maire démissionne.' 'On construit un nouveau stade.'",
+   "model": "Démission du maire. Construction d'un nouveau stade."
+  },
+  {
+   "prompt": "Read a real headline from La Presse, Le Devoir or Radio-Canada today and explain it in a full sentence.",
+   "model": "« Hausse des loyers » : ça veut dire que les loyers augmentent."
+  }
+ ],
+ "write": {
+  "prompt": "Write five news headlines about your neighbourhood using nominalization, then write one full sentence explaining each.",
+  "model": "1. Ouverture d'un marché public rue Masson – Un marché public ouvre sur la rue Masson. 2. Fermeture temporaire de la piscine – La piscine est fermée pour quelque temps. 3. Hausse des vols de vélos – Il y a de plus en plus de vols de vélos. 4. Arrivée d'une nouvelle ligne d'autobus – Une nouvelle ligne d'autobus arrive. 5. Report du festival de quartier – Le festival du quartier est reporté."
+ },
+ "quiz": [
+  {
+   "q": "Nouns ending in -ure (fermeture, ouverture) are…",
+   "options": [
+    "masculine",
+    "feminine",
+    "both",
+    "always plural"
+   ],
+   "a": 1,
+   "why": "La fermeture, la signature."
+  },
+  {
+   "q": "What is the noun from 'choisir'?",
+   "options": [
+    "la choisissance",
+    "le choix",
+    "le choisissement",
+    "la choisie"
+   ],
+   "a": 1,
+   "why": "Irregular: le choix."
+  },
+  {
+   "q": "'Report du match' means…",
+   "options": [
+    "Match report",
+    "The game is postponed",
+    "The game is reported to police",
+    "The game is won"
+   ],
+   "a": 1,
+   "why": "Reporter = to postpone → le report."
+  },
+  {
+   "q": "In nominalization, the subject of the verb is introduced by…",
+   "options": [
+    "à",
+    "de",
+    "par",
+    "pour"
+   ],
+   "a": 1,
+   "why": "Le ministre démissionne → la démission du ministre."
+  },
+  {
+   "q": "'Avis d'ébullition' means…",
+   "options": [
+    "Heat warning",
+    "Boil-water advisory",
+    "Election notice",
+    "Storm warning"
+   ],
+   "a": 1,
+   "why": "Common Quebec municipal notice."
+  },
+  {
+   "q": "chaud → ?",
+   "options": [
+    "la chauderie",
+    "la chaleur",
+    "le chaudement",
+    "la chaudité"
+   ],
+   "a": 1,
+   "why": "-eur, feminine: la chaleur."
+  },
+  {
+   "q": "Which sentence matches 'Forte hausse des prix'?",
+   "options": [
+    "Prices rise sharply.",
+    "Prices drop slightly.",
+    "Prices are strong.",
+    "Prices are high."
+   ],
+   "a": 0,
+   "why": "Forte = sharp; hausse = rise."
+  },
+  {
+   "q": "Why learn nominalization?",
+   "options": [
+    "It's common in casual speech",
+    "It's essential for reading news and formal writing",
+    "It replaces the subjunctive",
+    "It's only used in France"
+   ],
+   "a": 1,
+   "why": "Headlines and formal texts are full of it."
+  },
+  {
+   "q": "le déménagement comes from…",
+   "options": [
+    "démanger",
+    "déménager",
+    "ménager",
+    "mener"
+   ],
+   "a": 1,
+   "why": "Déménager = to move house."
+  }
+ ]
+}

@@ -1,0 +1,640 @@
+{
+ "w": 89,
+ "title": "Subordinating conjunctions: parce que, quand, si",
+ "goal": "By the end of this lesson you can build complex sentences with parce que, puisque, comme, quand, lorsque, si and même si, using the right tense after each one.",
+ "learn": [
+  {
+   "h": "Giving a reason: parce que, puisque, comme",
+   "body": [
+    "*Parce que* gives new information about a cause and answers *pourquoi*: *— Pourquoi tu pars? — Parce que je suis fatigué.*",
+    "*Puisque* (since) gives a cause the listener already knows or accepts: *Puisque tu es là, aide-moi.*",
+    "*Comme* (as, since) also gives a cause but goes at the start of the sentence: *Comme il pleuvait, on est restés chez nous.*",
+    "Don't confuse *parce que* (conjunction + clause) with *à cause de* (preposition + noun): *à cause de la neige* but *parce qu'il neige*."
+   ],
+   "table": {
+    "head": [
+     "Conjunction",
+     "Position",
+     "Example"
+    ],
+    "rows": [
+     [
+      "parce que",
+      "after the main clause",
+      "Je reste parce qu'il neige."
+     ],
+     [
+      "puisque",
+      "either",
+      "Puisque tu insistes, je viens."
+     ],
+     [
+      "comme",
+      "start of the sentence",
+      "Comme il neige, je reste."
+     ],
+     [
+      "à cause de + noun",
+      "either",
+      "Je reste à cause de la neige."
+     ]
+    ]
+   },
+   "tip": "Parce que and puisque elide before a vowel: parce qu'il, puisqu'elle."
+  },
+  {
+   "h": "Time: quand and lorsque",
+   "body": [
+    "*Quand* and the more formal *lorsque* mean 'when'. They take the indicative.",
+    "Big difference from English: when the action is in the future, French uses the FUTURE after *quand*: *Quand j'arriverai, je t'appellerai.* (When I arrive, I'll call you.) English uses the present; French does not.",
+    "For habits, use the present or imparfait: *Quand il fait beau, je marche.* / *Quand j'étais petit, je jouais dehors.*"
+   ],
+   "tip": "Future in the main clause → future after quand too."
+  },
+  {
+   "h": "Si: 'if' and 'whether'",
+   "body": [
+    "Conditional *si* (if) takes the present for real conditions and never the future or the conditional: *Si tu viens, on ira au cinéma.* (Not *si tu viendras*.)",
+    "*Si* also means 'whether' in indirect questions, and then any tense is fine: *Je ne sais pas s'il viendra.*",
+    "*Si* elides only before *il* and *ils*: *s'il, s'ils*, but *si elle, si on*.",
+    "*Même si* (even if) also takes the indicative: *Je sors, même s'il fait froid.*"
+   ]
+  },
+  {
+   "h": "Repeating a conjunction with que",
+   "body": [
+    "When two subordinate clauses share the same conjunction, French replaces the second one with *que*: *Quand il fait beau et qu'il ne fait pas trop chaud, je marche.* / *Comme il était tard et que j'étais fatigué, je suis rentré.*",
+    "With *si*, the second clause uses *que* + subjunctive in formal writing, but repeating *si* is perfectly fine and more common: *Si tu viens et si tu as le temps…*"
+   ]
+  },
+  {
+   "h": "Quebec: à cause que, pasque, mettons que",
+   "body": [
+    "In casual Quebec speech you will hear *à cause que* used like *parce que*: *J'suis en retard à cause que le métro était en panne.* It is an old form, still alive in the spoken language, but considered incorrect in writing; write *parce que*.",
+    "*Parce que* itself is often pronounced *pasque* [paskə]. *Mettons que* (let's say that) is a very common informal way to set up a hypothesis: *Mettons qu'on part à huit heures…*"
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Je suis en retard parce que le métro était en panne.",
+   "en": "I'm late because the metro was broken down.",
+   "note": "parce que + new information"
+  },
+  {
+   "fr": "Puisque tu es là, tu peux m'aider à déplacer le sofa.",
+   "en": "Since you're here, you can help me move the sofa.",
+   "note": "puisque: a known cause"
+  },
+  {
+   "fr": "Comme il faisait beau, on a mangé sur la terrasse.",
+   "en": "As the weather was nice, we ate on the patio.",
+   "note": "comme at the start of the sentence"
+  },
+  {
+   "fr": "Les vols sont annulés à cause de la tempête.",
+   "en": "The flights are cancelled because of the storm.",
+   "note": "à cause de + noun"
+  },
+  {
+   "fr": "Quand j'arriverai à Québec, je t'appellerai.",
+   "en": "When I get to Quebec City, I'll call you.",
+   "note": "future after quand"
+  },
+  {
+   "fr": "Quand il neige, je prends le métro.",
+   "en": "When it snows, I take the metro.",
+   "note": "habit → present"
+  },
+  {
+   "fr": "Lorsque la réunion a commencé, tout le monde était là.",
+   "en": "When the meeting started, everyone was there.",
+   "note": "lorsque = formal quand"
+  },
+  {
+   "fr": "Si tu finis tôt, on ira au cinéma.",
+   "en": "If you finish early, we'll go to the movies.",
+   "note": "si + present → future"
+  },
+  {
+   "fr": "S'il pleut demain, on restera à la maison.",
+   "en": "If it rains tomorrow, we'll stay home.",
+   "note": "si + il → s'il"
+  },
+  {
+   "fr": "Je ne sais pas si elle viendra.",
+   "en": "I don't know whether she'll come.",
+   "note": "si = whether: the future is allowed"
+  },
+  {
+   "fr": "Je vais courir même s'il fait moins quinze.",
+   "en": "I'm going running even if it's minus fifteen.",
+   "note": "même si + indicative"
+  },
+  {
+   "fr": "Comme il était tard et que j'étais fatigué, je suis rentré.",
+   "en": "As it was late and I was tired, I went home.",
+   "note": "que replaces the second comme"
+  },
+  {
+   "fr": "Puisqu'on a le temps, prenons un café.",
+   "en": "Since we have time, let's have a coffee.",
+   "note": "puisque elides before on"
+  },
+  {
+   "fr": "Quand tu auras fini, envoie-moi le fichier.",
+   "en": "When you've finished, send me the file.",
+   "note": "futur antérieur after quand (preview)"
+  },
+  {
+   "fr": "Il ne vient pas parce qu'il est malade.",
+   "en": "He's not coming because he's sick.",
+   "note": "parce qu'il: elision"
+  },
+  {
+   "fr": "Si on part maintenant, on va éviter le trafic.",
+   "en": "If we leave now, we'll avoid the traffic.",
+   "note": "si + present → futur proche, very common in speech"
+  }
+ ],
+ "quebec": {
+  "intro": "In relaxed Quebec speech, 'à cause que' is often used where standard French says 'parce que', and 'parce que' itself shrinks to 'pasque'. Recognize them; write 'parce que'.",
+  "items": [
+   {
+    "std": "Je suis en retard parce que le bus n'est pas passé.",
+    "qc": "Chu en retard à cause que l'autobus est pas passé.",
+    "en": "I'm late because the bus didn't come.",
+    "note": "à cause que: old popular form; incorrect in writing"
+   },
+   {
+    "std": "Je ne viens pas parce que je suis malade.",
+    "qc": "J'viens pas pasque chu malade.",
+    "en": "I'm not coming because I'm sick.",
+    "note": "pasque = parce que, fast speech"
+   },
+   {
+    "std": "Disons qu'on part à huit heures.",
+    "qc": "Mettons qu'on part à huit heures.",
+    "en": "Let's say we leave at eight.",
+    "note": "mettons que: informal, very common"
+   },
+   {
+    "std": "Quand on est arrivés, il pleuvait.",
+    "qc": "Quand qu'on est arrivés, y mouillait.",
+    "en": "When we arrived, it was raining.",
+    "note": "quand que is non-standard; standard is quand"
+   },
+   {
+    "std": "S'il fait beau, on ira à la plage.",
+    "qc": "Si y fait beau, on va aller à plage.",
+    "en": "If the weather's nice, we'll go to the beach.",
+    "note": "si y = s'il in speech; à plage = à la plage"
+   },
+   {
+    "std": "Pourquoi est-il parti?",
+    "qc": "Comment ça se fait qu'y est parti?",
+    "en": "How come he left?",
+    "note": "comment ça se fait que = how come; common everywhere"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Quand je ___ à Paris, je visiterai le Louvre.",
+   "options": [
+    "suis",
+    "serai",
+    "sois",
+    "serais"
+   ],
+   "a": 1,
+   "why": "Future meaning → future after quand."
+  },
+  {
+   "t": "mcq",
+   "q": "Si tu ___ le temps, appelle-moi.",
+   "options": [
+    "auras",
+    "aurais",
+    "as",
+    "aies"
+   ],
+   "a": 2,
+   "why": "Si (if) + present; never future or conditional."
+  },
+  {
+   "t": "mcq",
+   "q": "Which goes at the start of the sentence to give a cause?",
+   "options": [
+    "parce que",
+    "comme",
+    "car",
+    "à cause de"
+   ],
+   "a": 1,
+   "why": "Comme is placed first: Comme il pleut, …"
+  },
+  {
+   "t": "mcq",
+   "q": "Je reste à la maison ___ la neige.",
+   "options": [
+    "parce que",
+    "à cause de",
+    "puisque",
+    "comme"
+   ],
+   "a": 1,
+   "why": "Before a noun, use the preposition à cause de."
+  },
+  {
+   "t": "fill",
+   "q": "Je ne sais pas ___ elle viendra. (whether)",
+   "a": [
+    "si"
+   ],
+   "en": "I don't know whether she'll come.",
+   "why": "Si = whether; no elision before elle."
+  },
+  {
+   "t": "fill",
+   "q": "___ tu es là, aide-moi. (since)",
+   "a": [
+    "Puisque",
+    "Comme"
+   ],
+   "en": "Since you're here, help me.",
+   "why": "Puisque or comme for a known cause at the start."
+  },
+  {
+   "t": "fill",
+   "q": "Quand il ___ beau, je marche au travail. (faire)",
+   "a": [
+    "fait"
+   ],
+   "en": "When the weather's nice, I walk to work.",
+   "why": "Habit → present."
+  },
+  {
+   "t": "fill",
+   "q": "Je sors même s'il ___ froid. (faire)",
+   "a": [
+    "fait"
+   ],
+   "en": "I'm going out even if it's cold.",
+   "why": "Même si + indicative."
+  },
+  {
+   "t": "fill",
+   "q": "Comme il était tard et ___ j'étais fatigué, je suis parti.",
+   "a": [
+    "que"
+   ],
+   "en": "As it was late and I was tired, I left.",
+   "why": "Que replaces the repeated conjunction."
+  },
+  {
+   "t": "build",
+   "en": "When I arrive, I'll call you.",
+   "a": "Quand j'arriverai, je t'appellerai."
+  },
+  {
+   "t": "build",
+   "en": "If it rains, we'll stay home.",
+   "a": "S'il pleut, on restera à la maison."
+  },
+  {
+   "t": "build",
+   "en": "I'm late because the metro broke down.",
+   "a": "Je suis en retard parce que le métro est tombé en panne."
+  },
+  {
+   "t": "translate",
+   "en": "I'm not coming because I'm sick.",
+   "a": [
+    "Je ne viens pas parce que je suis malade.",
+    "Je viens pas parce que je suis malade."
+   ],
+   "why": "Parce que + clause."
+  },
+  {
+   "t": "translate",
+   "en": "When I'm in Montreal, I'll visit you.",
+   "a": [
+    "Quand je serai à Montréal, je te rendrai visite.",
+    "Quand je serai à Montréal, je vous rendrai visite.",
+    "Quand je serai à Montréal, j'irai te voir.",
+    "Quand je serai à Montréal, j'irai vous voir.",
+    "Lorsque je serai à Montréal, je te rendrai visite.",
+    "Lorsque je serai à Montréal, j'irai te voir."
+   ],
+   "why": "Future after quand when the meaning is future."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "parce que",
+   "en": "because",
+   "ex": "Je reste parce qu'il pleut."
+  },
+  {
+   "fr": "puisque",
+   "en": "since (known cause)",
+   "ex": "Puisque tu insistes, d'accord."
+  },
+  {
+   "fr": "comme",
+   "en": "as, since (at the start)",
+   "ex": "Comme il est tard, je pars."
+  },
+  {
+   "fr": "à cause de",
+   "en": "because of",
+   "ex": "À cause du trafic, je suis en retard."
+  },
+  {
+   "fr": "lorsque",
+   "en": "when (formal)",
+   "ex": "Lorsqu'il est arrivé, on a commencé."
+  },
+  {
+   "fr": "même si",
+   "en": "even if",
+   "ex": "Je viens même s'il neige."
+  },
+  {
+   "fr": "être en panne",
+   "en": "to be broken down",
+   "ex": "Le métro est en panne."
+  },
+  {
+   "fr": "la tempête",
+   "en": "storm",
+   "g": "f",
+   "ex": "Il y a une tempête de neige."
+  },
+  {
+   "fr": "éviter",
+   "en": "to avoid",
+   "ex": "On part tôt pour éviter le trafic."
+  },
+  {
+   "fr": "la terrasse",
+   "en": "patio, terrace",
+   "g": "f",
+   "ex": "On mange sur la terrasse."
+  },
+  {
+   "fr": "le fichier",
+   "en": "file (computer)",
+   "g": "m",
+   "ex": "Envoie-moi le fichier."
+  },
+  {
+   "fr": "à cause que",
+   "en": "because (popular, non-standard)",
+   "ex": "J'suis parti à cause que j'étais tanné.",
+   "qc": true
+  },
+  {
+   "fr": "mettons que",
+   "en": "let's say that",
+   "ex": "Mettons qu'on se voit à midi.",
+   "qc": true
+  },
+  {
+   "fr": "comment ça se fait que",
+   "en": "how come",
+   "ex": "Comment ça se fait que t'es pas venu?"
+  },
+  {
+   "fr": "tanné / tannée",
+   "en": "fed up",
+   "ex": "Chu tanné de l'hiver.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "parce que",
+    "tip": "Careful: par-suh-KUH; casual: PASK."
+   },
+   {
+    "fr": "puisqu'il",
+    "tip": "pwees-KEEL: the e disappears."
+   },
+   {
+    "fr": "s'il pleut",
+    "tip": "seel-PLEU: elision of si before il."
+   },
+   {
+    "fr": "si elle",
+    "tip": "No elision: see-ÈL."
+   },
+   {
+    "fr": "lorsque",
+    "tip": "LORSS-kuh: two consonants, both pronounced."
+   },
+   {
+    "fr": "mettons que",
+    "tip": "mè-TON-kuh."
+   },
+   {
+    "fr": "à cause que",
+    "tip": "a-kôz-KUH: the Quebec long ô in cause."
+   }
+  ],
+  "title": "Un retard au bureau",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "T'arrives tard! Qu'est-ce qui s'est passé?",
+    "en": "You're late! What happened?"
+   },
+   {
+    "s": "B",
+    "fr": "Désolée, je suis en retard parce que la ligne orange était en panne.",
+    "en": "Sorry, I'm late because the orange line was down."
+   },
+   {
+    "s": "A",
+    "fr": "Encore? Comme c'est la troisième fois ce mois-ci, tu devrais prendre l'autobus.",
+    "en": "Again? Since it's the third time this month, you should take the bus."
+   },
+   {
+    "s": "B",
+    "fr": "Si je prends l'autobus, je vais mettre une heure!",
+    "en": "If I take the bus, it'll take me an hour!"
+   },
+   {
+    "s": "A",
+    "fr": "Mettons. Puisque t'es là, peux-tu regarder le rapport?",
+    "en": "Fair enough. Since you're here, can you look at the report?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui. Quand j'aurai fini mon café, je m'en occupe.",
+    "en": "Yes. When I've finished my coffee, I'll take care of it."
+   },
+   {
+    "s": "A",
+    "fr": "Parfait. Je ne sais pas si le client va appeler ce matin.",
+    "en": "Perfect. I don't know whether the client will call this morning."
+   },
+   {
+    "s": "B",
+    "fr": "Même s'il appelle, on va être prêts.",
+    "en": "Even if he calls, we'll be ready."
+   }
+  ],
+  "questions": [
+   {
+    "q": "Why was B late?",
+    "options": [
+     "Traffic",
+     "The metro line was down",
+     "She overslept"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Why doesn't B want to take the bus?",
+    "options": [
+     "It's too expensive",
+     "It takes an hour",
+     "It's too cold"
+    ],
+    "a": 1
+   },
+   {
+    "q": "When will B look at the report?",
+    "options": [
+     "After lunch",
+     "After her coffee",
+     "Tomorrow"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Explain why you're learning French, using parce que and comme.",
+   "model": "J'apprends le français parce que j'habite au Québec. Comme je travaille avec des francophones, c'est essentiel."
+  },
+  {
+   "prompt": "Make two plans with 'si' and 'quand' about next weekend.",
+   "model": "S'il fait beau samedi, on ira faire du vélo. Quand on rentrera, on fera un barbecue."
+  },
+  {
+   "prompt": "Turn this casual sentence into standard French: 'Chu parti à cause que j'étais tanné.'",
+   "model": "Je suis parti parce que j'en avais assez."
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences about your plans for next summer. Use quand (with the future), si, parce que, puisque and même si.",
+  "model": "Quand les vacances arriveront, je partirai en Gaspésie. Je veux y aller parce que je n'ai jamais vu le rocher Percé. S'il fait beau, je camperai au bord de la mer. Puisque mon ami a une voiture, on partagera l'essence. Même s'il pleut quelques jours, je suis sûr qu'on va bien s'amuser."
+ },
+ "quiz": [
+  {
+   "q": "Which is correct?",
+   "options": [
+    "Si tu viendras, on mangera.",
+    "Si tu viens, on mangera.",
+    "Si tu viendrais, on mangera.",
+    "Si tu viennes, on mangera."
+   ],
+   "a": 1,
+   "why": "Si (if) + present for a real condition."
+  },
+  {
+   "q": "Which is correct?",
+   "options": [
+    "Quand je suis vieux, j'habiterai à la campagne.",
+    "Quand je serai vieux, j'habiterai à la campagne.",
+    "Quand je sois vieux, j'habiterai à la campagne.",
+    "Quand je serais vieux, j'habiterai à la campagne."
+   ],
+   "a": 1,
+   "why": "Future meaning → future after quand."
+  },
+  {
+   "q": "'Puisque' gives a cause that is…",
+   "options": [
+    "new to the listener",
+    "already known or obvious",
+    "false",
+    "in the future"
+   ],
+   "a": 1,
+   "why": "Puisque presents a cause both people accept."
+  },
+  {
+   "q": "Which form elides?",
+   "options": [
+    "si elle → s'elle",
+    "si il → s'il",
+    "si on → s'on",
+    "si un → s'un"
+   ],
+   "a": 1,
+   "why": "Si elides only before il and ils."
+  },
+  {
+   "q": "'À cause que' is…",
+   "options": [
+    "the standard form",
+    "a popular spoken form of parce que",
+    "a France-only form",
+    "a preposition"
+   ],
+   "a": 1,
+   "why": "It's heard in casual Quebec speech but not used in writing."
+  },
+  {
+   "q": "Je ne sais pas s'il ___ demain.",
+   "options": [
+    "vienne",
+    "viendra",
+    "viendrait",
+    "venir"
+   ],
+   "a": 1,
+   "why": "Si = whether: the future is allowed."
+  },
+  {
+   "q": "'Mettons que' means…",
+   "options": [
+    "Let's put that",
+    "Let's say that",
+    "Because",
+    "Even if"
+   ],
+   "a": 1,
+   "why": "Informal Quebec way to set up a hypothesis."
+  },
+  {
+   "q": "Même si takes…",
+   "options": [
+    "the subjunctive",
+    "the indicative",
+    "the conditional",
+    "the infinitive"
+   ],
+   "a": 1,
+   "why": "Même s'il pleut = even if it rains."
+  },
+  {
+   "q": "Quand il pleut et ___ fait froid, je reste chez moi.",
+   "options": [
+    "quand il",
+    "qu'il",
+    "si il",
+    "comme il"
+   ],
+   "a": 1,
+   "why": "Que replaces the repeated quand, elided before il: qu'il."
+  }
+ ]
+}

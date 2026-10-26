@@ -1,0 +1,669 @@
+{
+ "w": 143,
+ "title": "Suffixes",
+ "goal": "By the end of this lesson you can use common noun, adjective and verb suffixes to recognise and build words (-tion, -ment, -age, -eur, -erie, -té, -eux, -able, -iser, -ette…), and recognise Quebec diminutives and the colourful Quebec -eux adjectives.",
+ "learn": [
+  {
+   "h": "Suffixes change the word's job",
+   "body": [
+    "A suffix sits at the end of a word and usually tells you its category and gender. *Changer* (verb) → *le changement* (noun) → *changeant* (adjective). *Chance* (noun) → *chanceux* (adjective).",
+    "Suffixes are also a gender cheat sheet: *-ment, -age, -isme, -eau* are almost always masculine; *-tion, -sion, -té, -ure, -ette, -ise, -ude, -erie* are almost always feminine."
+   ],
+   "table": {
+    "head": [
+     "Suffix",
+     "Gives",
+     "Gender",
+     "Examples"
+    ],
+    "rows": [
+     [
+      "-tion / -sion",
+      "action, result",
+      "f",
+      "la réparation, la décision"
+     ],
+     [
+      "-ment",
+      "action, result",
+      "m",
+      "le déménagement, le paiement"
+     ],
+     [
+      "-age",
+      "action, process",
+      "m",
+      "le nettoyage, le magasinage"
+     ],
+     [
+      "-té",
+      "quality",
+      "f",
+      "la sécurité, la liberté"
+     ],
+     [
+      "-eur / -euse",
+      "person or machine doing",
+      "m / f",
+      "le chauffeur, la déneigeuse"
+     ],
+     [
+      "-ier / -ière",
+      "trade; fruit tree",
+      "m / f",
+      "le plombier, le pommier"
+     ],
+     [
+      "-erie",
+      "shop, place",
+      "f",
+      "la boulangerie, la quincaillerie"
+     ],
+     [
+      "-isme / -iste",
+      "doctrine / person",
+      "m / m-f",
+      "le tourisme, un touriste"
+     ]
+    ]
+   },
+   "tip": "Exceptions exist (la page, la plage, l'image, la cage), but -age words you build yourself are masculine."
+  },
+  {
+   "h": "Adjective and verb suffixes",
+   "body": [
+    "*-able / -ible* = can be: *lavable, lisible, prévisible*. *-eux / -euse* = full of, having: *courageux, dangereux, chanceux, peureux*. *-if / -ive*: *actif, sportif*. *-al*: *national, normal*. *-ique*: *économique, touristique*.",
+    "Verbs: *-iser* (make): *moderniser, organiser*; *-ifier*: *simplifier, clarifier*; *-ir* from adjectives (become): *rougir, grandir, vieillir, maigrir*. Adverbs: feminine adjective + *-ment*: *lente → lentement*."
+   ]
+  },
+  {
+   "h": "Diminutives and pejoratives",
+   "body": [
+    "Diminutive suffixes make something small or cute: *-et / -ette* (*un sachet, une maisonnette, une fillette*), *-on* (*un chaton, un ourson*), *-eau* (*un louveteau*), *-ot* (*un îlot*).",
+    "Pejorative suffixes add a negative judgement: *-ard* (*un chauffard*, a reckless driver; *vantard*, boastful), *-âtre* (*verdâtre*, greenish, unpleasantly), *-asse* (*la paperasse*, red tape)."
+   ]
+  },
+  {
+   "h": "Quebec word-building",
+   "body": [
+    "The OQLF has coined many standard words with suffixes and blends: *le magasinage* (shopping, from *magasiner*), *le clavardage* (chatting online, from *clavier* + *bavarder*), *le courriel* (*courrier électronique*), *le pourriel* (spam, *poubelle* + *courriel*), *le covoiturage*.",
+    "Informal Quebec speech also uses the suffix *-eux* very productively to describe people's habits, often with a teasing tone: *niaiseux* (silly), *chialeux* (always complaining), *téteux* (suck-up), *senteux* (nosy)."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Le déménagement est prévu le 1er juillet.",
+   "en": "The move is scheduled for July 1.",
+   "note": "déménager → déménagement (m)"
+  },
+  {
+   "fr": "La réparation a pris trois jours.",
+   "en": "The repair took three days.",
+   "note": "réparer → réparation (f)"
+  },
+  {
+   "fr": "On a fait le grand nettoyage du printemps.",
+   "en": "We did the big spring cleaning.",
+   "note": "nettoyer → nettoyage (m)"
+  },
+  {
+   "fr": "J'ai passé l'après-midi à faire du magasinage.",
+   "en": "I spent the afternoon shopping.",
+   "note": "magasiner → magasinage, standard in Quebec"
+  },
+  {
+   "fr": "La sécurité des piétons est une priorité.",
+   "en": "Pedestrian safety is a priority.",
+   "note": "sûr → sécurité (f)"
+  },
+  {
+   "fr": "Le plombier arrive à midi.",
+   "en": "The plumber is coming at noon.",
+   "note": "plomb + -ier = trade"
+  },
+  {
+   "fr": "Il y a une fromagerie à côté de la quincaillerie.",
+   "en": "There's a cheese shop next to the hardware store.",
+   "note": "-erie = shop"
+  },
+  {
+   "fr": "Ce chandail est lavable à la machine.",
+   "en": "This sweater is machine washable.",
+   "note": "-able = can be"
+  },
+  {
+   "fr": "Tu as gagné encore? Tu es vraiment chanceux!",
+   "en": "You won again? You're really lucky!",
+   "note": "chance + -eux"
+  },
+  {
+   "fr": "Il faut simplifier ce formulaire.",
+   "en": "This form needs to be simplified.",
+   "note": "simple + -ifier"
+  },
+  {
+   "fr": "Les enfants grandissent tellement vite.",
+   "en": "Children grow up so fast.",
+   "note": "grand + -ir = become big"
+  },
+  {
+   "fr": "Les voisins ont adopté un petit chaton gris.",
+   "en": "The neighbours adopted a little grey kitten.",
+   "note": "chat + -on = diminutive"
+  },
+  {
+   "fr": "Un chauffard a brûlé le feu rouge.",
+   "en": "A reckless driver ran the red light.",
+   "note": "chauffeur vs chauffard: -ard is pejorative"
+  },
+  {
+   "fr": "Je suis noyé dans la paperasse.",
+   "en": "I'm drowning in paperwork.",
+   "note": "-asse = pejorative"
+  },
+  {
+   "fr": "Mon fils clavarde avec ses amis tous les soirs.",
+   "en": "My son chats online with his friends every night.",
+   "note": "clavarder: OQLF coinage"
+  },
+  {
+   "fr": "Ma boîte de réception est pleine de pourriels.",
+   "en": "My inbox is full of spam.",
+   "note": "pourriel = poubelle + courriel"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebec French loves diminutives in -ou and -oune (minou, pitou, toutou, minoune) and informal -eux adjectives that describe someone by their habit (niaiseux, chialeux, téteux, senteux). They are informal and often teasing: great to recognise, use with care.",
+  "items": [
+   {
+    "std": "un chat",
+    "qc": "un minou",
+    "en": "a cat, kitty",
+    "note": "minou is the everyday Quebec word for a cat; informal"
+   },
+   {
+    "std": "un chien",
+    "qc": "un pitou",
+    "en": "a dog, doggy",
+    "note": "informal, affectionate"
+   },
+   {
+    "std": "une peluche",
+    "qc": "un toutou",
+    "en": "a stuffed animal",
+    "note": "standard everyday Quebec word"
+   },
+   {
+    "std": "une vieille voiture",
+    "qc": "une minoune",
+    "en": "an old beat-up car",
+    "note": "informal"
+   },
+   {
+    "std": "Il est bête / Il dit des bêtises.",
+    "qc": "Y'est niaiseux.",
+    "en": "He's silly / dumb.",
+    "note": "niaiser = to fool around, to tease; informal"
+   },
+   {
+    "std": "Elle se plaint tout le temps.",
+    "qc": "C't'une chialeuse.",
+    "en": "She's always complaining.",
+    "note": "chialer = to complain; informal"
+   },
+   {
+    "std": "un fayot / un lèche-bottes",
+    "qc": "un téteux",
+    "en": "a suck-up",
+    "note": "informal and pejorative"
+   },
+   {
+    "std": "Il est curieux, indiscret.",
+    "qc": "Y'est senteux.",
+    "en": "He's nosy.",
+    "note": "from sentir = to sniff around; informal"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Which suffix usually gives a feminine noun?",
+   "options": [
+    "-ment",
+    "-age",
+    "-tion",
+    "-isme"
+   ],
+   "a": 2,
+   "why": "-tion nouns are feminine: la réparation."
+  },
+  {
+   "t": "mcq",
+   "q": "'Lavable' means…",
+   "options": [
+    "dirty",
+    "washable",
+    "washing",
+    "washer"
+   ],
+   "a": 1,
+   "why": "-able = can be."
+  },
+  {
+   "t": "mcq",
+   "q": "'Un chauffard' is…",
+   "options": [
+    "a chauffeur",
+    "a heater",
+    "a reckless driver",
+    "a mechanic"
+   ],
+   "a": 2,
+   "why": "-ard is pejorative."
+  },
+  {
+   "t": "mcq",
+   "q": "'Le pourriel' is…",
+   "options": [
+    "rotten food",
+    "spam email",
+    "a mailbox",
+    "a poor man"
+   ],
+   "a": 1,
+   "why": "Poubelle + courriel, OQLF coinage."
+  },
+  {
+   "t": "mcq",
+   "q": "In Quebec, 'un toutou' is…",
+   "options": [
+    "a dog",
+    "a stuffed animal",
+    "a cough",
+    "a toy car"
+   ],
+   "a": 1,
+   "why": "Toutou = stuffed animal (pitou = dog)."
+  },
+  {
+   "t": "fill",
+   "q": "Le ___ commence lundi. (nettoyer → noun)",
+   "a": [
+    "nettoyage"
+   ],
+   "en": "The cleaning starts Monday.",
+   "why": "Nettoyer + -age."
+  },
+  {
+   "t": "fill",
+   "q": "Ce chemin est ___ en hiver. (danger → adjective)",
+   "a": [
+    "dangereux"
+   ],
+   "en": "This path is dangerous in winter.",
+   "why": "Danger + -eux."
+  },
+  {
+   "t": "fill",
+   "q": "Il faut ___ le processus. (simple → verb)",
+   "a": [
+    "simplifier"
+   ],
+   "en": "The process must be simplified.",
+   "why": "Simple + -ifier."
+  },
+  {
+   "t": "fill",
+   "q": "On achète le pain à la ___. (shop)",
+   "a": [
+    "boulangerie"
+   ],
+   "en": "We buy bread at the bakery.",
+   "why": "Boulanger + -erie."
+  },
+  {
+   "t": "fill",
+   "q": "Elle a beaucoup de ___. (courageux → noun)",
+   "a": [
+    "courage"
+   ],
+   "en": "She has a lot of courage.",
+   "why": "Courageux comes from courage."
+  },
+  {
+   "t": "build",
+   "en": "The move is scheduled for July 1.",
+   "a": "Le déménagement est prévu le 1er juillet."
+  },
+  {
+   "t": "build",
+   "en": "You're really lucky!",
+   "a": "Tu es vraiment chanceux!"
+  },
+  {
+   "t": "translate",
+   "en": "safety",
+   "a": [
+    "la sécurité",
+    "sécurité"
+   ],
+   "why": "Sûr + -té."
+  },
+  {
+   "t": "translate",
+   "en": "I went shopping.",
+   "a": [
+    "J'ai fait du magasinage.",
+    "J'ai magasiné.",
+    "Je suis allé magasiner.",
+    "Je suis allée magasiner.",
+    "J'ai fait les magasins.",
+    "J'ai fait du shopping."
+   ],
+   "why": "Magasiner / magasinage is standard in Quebec."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "le déménagement",
+   "en": "move (house)",
+   "g": "m",
+   "ex": "Le déménagement m'a épuisé."
+  },
+  {
+   "fr": "la réparation",
+   "en": "repair",
+   "g": "f",
+   "ex": "La réparation est garantie."
+  },
+  {
+   "fr": "le nettoyage",
+   "en": "cleaning",
+   "g": "m",
+   "ex": "Le nettoyage du printemps."
+  },
+  {
+   "fr": "le magasinage",
+   "en": "shopping",
+   "g": "m",
+   "ex": "Le magasinage des Fêtes commence tôt.",
+   "qc": true
+  },
+  {
+   "fr": "la quincaillerie",
+   "en": "hardware store",
+   "g": "f",
+   "ex": "J'ai acheté des vis à la quincaillerie."
+  },
+  {
+   "fr": "le plombier / la plombière",
+   "en": "plumber",
+   "ex": "Le plombier a réparé la fuite."
+  },
+  {
+   "fr": "lavable",
+   "en": "washable",
+   "ex": "Le tapis est lavable."
+  },
+  {
+   "fr": "chanceux / chanceuse",
+   "en": "lucky",
+   "ex": "T'es chanceux!"
+  },
+  {
+   "fr": "simplifier",
+   "en": "to simplify",
+   "ex": "Simplifions les choses."
+  },
+  {
+   "fr": "le chauffard",
+   "en": "reckless driver",
+   "g": "m",
+   "ex": "Un chauffard a causé l'accident."
+  },
+  {
+   "fr": "la paperasse",
+   "en": "paperwork, red tape",
+   "g": "f",
+   "ex": "Trop de paperasse!"
+  },
+  {
+   "fr": "le pourriel",
+   "en": "spam",
+   "g": "m",
+   "ex": "Ce courriel est allé dans les pourriels.",
+   "qc": true
+  },
+  {
+   "fr": "le minou",
+   "en": "cat, kitty (informal)",
+   "g": "m",
+   "ex": "Le minou dort sur le divan.",
+   "qc": true
+  },
+  {
+   "fr": "le toutou",
+   "en": "stuffed animal",
+   "g": "m",
+   "ex": "Ma fille dort avec son toutou.",
+   "qc": true
+  },
+  {
+   "fr": "niaiseux / niaiseuse",
+   "en": "silly, dumb (informal)",
+   "ex": "Arrête de faire le niaiseux!",
+   "qc": true
+  },
+  {
+   "fr": "chialer",
+   "en": "to complain, whine (informal)",
+   "ex": "Il chiale contre la météo.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "-tion",
+    "tip": "[syon]: réparation [ré-pa-ra-SYON]."
+   },
+   {
+    "fr": "-age",
+    "tip": "[aj]: nettoyage [nè-twa-YAJ]."
+   },
+   {
+    "fr": "-eux / -euse",
+    "tip": "[eu] closed / [euz]: chanceux, chanceuse."
+   },
+   {
+    "fr": "quincaillerie",
+    "tip": "[kin-kay-RI]."
+   },
+   {
+    "fr": "niaiseux",
+    "tip": "Quebec: [nyè-ZEU]."
+   },
+   {
+    "fr": "minou, pitou, toutou",
+    "tip": "Stress the final [ou]: mi-NOU, pi-TOU, tou-TOU."
+   }
+  ],
+  "title": "Le déménagement",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Pis, le déménagement? Tout est réglé?",
+    "en": "So, the move? Is everything sorted?"
+   },
+   {
+    "s": "B",
+    "fr": "Presque. Il reste le nettoyage de l'ancien appart pis la paperasse pour Hydro.",
+    "en": "Almost. There's still the cleaning of the old apartment and the paperwork for Hydro."
+   },
+   {
+    "s": "A",
+    "fr": "Et ton minou, il s'adapte?",
+    "en": "And your cat, is he adjusting?"
+   },
+   {
+    "s": "B",
+    "fr": "Il se cache sous le lit avec le toutou de ma fille.",
+    "en": "He's hiding under the bed with my daughter's stuffed animal."
+   },
+   {
+    "s": "A",
+    "fr": "Pauvre petit! Le mien était peureux aussi.",
+    "en": "Poor thing! Mine was fearful too."
+   },
+   {
+    "s": "B",
+    "fr": "Pis le voisin est un peu senteux. Il me demande tout le temps ce que je fais.",
+    "en": "And the neighbour is a bit nosy. He's always asking what I'm doing."
+   },
+   {
+    "s": "A",
+    "fr": "Ha! Au moins, t'as été chanceux avec le prix du loyer.",
+    "en": "Ha! At least you were lucky with the rent price."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What tasks are left?",
+    "options": [
+     "Packing and painting",
+     "Cleaning and paperwork",
+     "Buying furniture"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Where is the cat hiding?",
+    "options": [
+     "In the closet",
+     "Under the bed",
+     "In a box"
+    ],
+    "a": 1
+   },
+   {
+    "q": "How is the neighbour described?",
+    "options": [
+     "Nosy",
+     "Lazy",
+     "Noisy"
+    ],
+    "a": 0
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Turn these verbs into nouns and use each in a sentence: déménager, réparer, nettoyer, payer.",
+   "model": "Le déménagement est en juillet. La réparation coûte cher. Le nettoyage prend du temps. Le paiement est dû vendredi."
+  },
+  {
+   "prompt": "Describe three people you know using -eux adjectives (standard or Quebec).",
+   "model": "Ma sœur est très chanceuse. Mon collègue est un peu chialeux le lundi. Mon fils est peureux dans le noir."
+  },
+  {
+   "prompt": "Explain the OQLF words courriel, pourriel and clavarder: what are they made of?",
+   "model": "Courriel vient de courrier électronique. Pourriel, c'est poubelle et courriel. Clavarder, c'est clavier et bavarder."
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences about your neighbourhood's shops and services, using at least six suffixed words (-erie, -ier, -age, -ment, -eux…).",
+  "model": "Mon quartier est très pratique. Il y a une boulangerie, une fromagerie et une quincaillerie sur la même rue. Le cordonnier répare mes bottes chaque automne. Le stationnement est difficile, mais le covoiturage est populaire. Le samedi, je fais mon magasinage au marché. Les commerçants sont chaleureux et toujours de bonne humeur."
+ },
+ "quiz": [
+  {
+   "q": "Nouns ending in -ment are usually…",
+   "options": [
+    "feminine",
+    "masculine",
+    "plural",
+    "adjectives"
+   ],
+   "a": 1,
+   "why": "Le changement, le paiement."
+  },
+  {
+   "q": "'-ier' after a fruit gives…",
+   "options": [
+    "a shop",
+    "the tree",
+    "a person who eats it",
+    "a dish"
+   ],
+   "a": 1,
+   "why": "Pomme → pommier, poire → poirier."
+  },
+  {
+   "q": "'Rougir' means…",
+   "options": [
+    "to be red",
+    "to blush, turn red",
+    "to paint red",
+    "redness"
+   ],
+   "a": 1,
+   "why": "Adjective + -ir = to become."
+  },
+  {
+   "q": "'Une maisonnette' is…",
+   "options": [
+    "a big house",
+    "a small house",
+    "a housekeeper",
+    "a dollhouse only"
+   ],
+   "a": 1,
+   "why": "-ette is a diminutive."
+  },
+  {
+   "q": "'Clavarder' combines…",
+   "options": [
+    "clavier + bavarder",
+    "clé + garder",
+    "classe + parler",
+    "clavier + regarder"
+   ],
+   "a": 0,
+   "why": "OQLF coinage for online chatting."
+  },
+  {
+   "q": "In Quebec, 'une minoune' is…",
+   "options": [
+    "a female cat",
+    "an old beat-up car",
+    "a little girl",
+    "a snack"
+   ],
+   "a": 1,
+   "why": "Minoune = jalopy, informal."
+  },
+  {
+   "q": "'Téteux' describes someone who…",
+   "options": [
+    "is stubborn",
+    "sucks up to people",
+    "is lazy",
+    "is nosy"
+   ],
+   "a": 1,
+   "why": "Informal and pejorative."
+  },
+  {
+   "q": "Which suffix is pejorative?",
+   "options": [
+    "-ette",
+    "-ard",
+    "-ier",
+    "-tion"
+   ],
+   "a": 1,
+   "why": "Chauffard, vantard, froussard."
+  }
+ ]
+}

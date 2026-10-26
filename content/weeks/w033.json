@@ -1,0 +1,638 @@
+{
+ "w": 33,
+ "title": "Quebec expressions set 1",
+ "goal": "By the end of this lesson you can understand and use a first set of everyday Quebec expressions (c'est correct, pantoute, tiguidou, magasiner, être tanné, c'est plate, jaser…), know their standard equivalents, and judge when each one fits.",
+ "learn": [
+  {
+   "h": "Saying OK: c'est correct and tiguidou",
+   "body": [
+    "*C'est correct* is the Quebec 'it's OK / that's fine / no problem'. It's neutral and used everywhere: *Je suis en retard. — C'est correct!* In France it would be *Ce n'est pas grave* or *D'accord*. It does not mean 'that's right' (which is *C'est ça* or *Exact*).",
+    "*Tiguidou* means 'perfect, all good'. It's playful, a bit old-fashioned, and always friendly: *On se voit à huit heures? — Tiguidou!*",
+    "*Ça marche* and *Parfait* are neutral and work everywhere too."
+   ],
+   "table": {
+    "head": [
+     "Quebec",
+     "Standard",
+     "English"
+    ],
+    "rows": [
+     [
+      "C'est correct.",
+      "D'accord. / Ce n'est pas grave.",
+      "It's OK. / No problem."
+     ],
+     [
+      "Es-tu correct?",
+      "Ça va?",
+      "Are you OK?"
+     ],
+     [
+      "Tiguidou!",
+      "Parfait!",
+      "All good! Perfect!"
+     ],
+     [
+      "Ça marche!",
+      "Ça marche!",
+      "Sounds good!"
+     ]
+    ]
+   },
+   "tip": "C'est correct = it's fine, not 'that's correct'."
+  },
+  {
+   "h": "Not at all: pantoute",
+   "body": [
+    "*Pantoute* is the Quebec form of *pas du tout* (not at all). It's informal and strong: *T'es fâché? — Pantoute!* (Mad? Not at all!) *J'comprends pantoute.* (I don't understand at all.)",
+    "It can stand alone as an answer or follow a verb, just like *pas du tout*."
+   ]
+  },
+  {
+   "h": "Feelings: être tanné, c'est plate, avoir hâte",
+   "body": [
+    "*Être tanné (de)* = to be fed up (with): *Je suis tanné de l'hiver!* Standard: *en avoir assez*, *en avoir marre* (France).",
+    "*C'est plate* = it's boring, it's too bad: *Le film est plate.* *C'est plate, il pleut.* Standard: *C'est ennuyeux. / C'est dommage.*",
+    "*Avoir hâte (à / de)* = to look forward to, can't wait: *J'ai hâte aux vacances!* This one is standard French too (France prefers *avoir hâte de*)."
+   ],
+   "table": {
+    "head": [
+     "Quebec",
+     "Standard",
+     "English"
+    ],
+    "rows": [
+     [
+      "Je suis tanné.",
+      "J'en ai assez.",
+      "I'm fed up."
+     ],
+     [
+      "C'est plate.",
+      "C'est ennuyeux. / C'est dommage.",
+      "It's boring. / Too bad."
+     ],
+     [
+      "J'ai hâte!",
+      "J'ai hâte!",
+      "I can't wait!"
+     ],
+     [
+      "Je suis brûlé.",
+      "Je suis épuisé.",
+      "I'm exhausted."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Doing things: magasiner, jaser, avoir de la misère",
+   "body": [
+    "*Magasiner* = to go shopping (from *magasin*). It's a regular -er verb and fully accepted in Quebec, even in ads: *On magasine samedi?* France says *faire du shopping* or *faire les magasins*.",
+    "*Jaser* = to chat: *On jase!* (We're just chatting.) *Avoir de la misère (à)* = to have a hard time: *J'ai de la misère à comprendre.* (standard: *J'ai du mal à…*)"
+   ]
+  },
+  {
+   "h": "Register: when to use them",
+   "body": [
+    "*C'est correct*, *magasiner*, *jaser* and *avoir hâte* are fine with almost anyone, even at work. *Pantoute*, *tanné*, *plate*, *brûlé* and *avoir de la misère* are informal: perfect with friends, colleagues and neighbours, less so in a job interview or formal email.",
+    "Using them well makes you sound local; overusing them in formal settings sounds odd. The standard equivalents always work."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Je suis en retard, désolé! — C'est correct.",
+   "en": "I'm late, sorry! — It's fine."
+  },
+  {
+   "fr": "Es-tu correct? Tu as l'air fatigué.",
+   "en": "Are you OK? You look tired."
+  },
+  {
+   "fr": "On se voit à huit heures? — Tiguidou!",
+   "en": "See you at eight? — Perfect!"
+  },
+  {
+   "fr": "Je ne comprends pas du tout. / J'comprends pantoute.",
+   "en": "I don't understand at all.",
+   "note": "standard vs informal Quebec"
+  },
+  {
+   "fr": "T'es fâché? — Pantoute!",
+   "en": "Are you mad? — Not at all!"
+  },
+  {
+   "fr": "Je suis tanné de l'hiver!",
+   "en": "I'm fed up with winter!"
+  },
+  {
+   "fr": "Les enfants sont tannés d'attendre.",
+   "en": "The kids are tired of waiting."
+  },
+  {
+   "fr": "Ce film est plate.",
+   "en": "This movie is boring."
+  },
+  {
+   "fr": "C'est plate, il pleut pour la fête.",
+   "en": "It's too bad, it's raining for the party."
+  },
+  {
+   "fr": "J'ai hâte aux vacances!",
+   "en": "I can't wait for the holidays!"
+  },
+  {
+   "fr": "On magasine samedi?",
+   "en": "Shall we go shopping on Saturday?"
+  },
+  {
+   "fr": "Elle magasine une nouvelle voiture.",
+   "en": "She's shopping around for a new car.",
+   "note": "magasiner also = compare prices"
+  },
+  {
+   "fr": "On jase au café après le travail.",
+   "en": "We chat at the café after work."
+  },
+  {
+   "fr": "J'ai de la misère à me lever le matin.",
+   "en": "I have a hard time getting up in the morning."
+  },
+  {
+   "fr": "Je suis brûlé après la semaine.",
+   "en": "I'm exhausted after the week."
+  },
+  {
+   "fr": "Pas de problème, ça marche!",
+   "en": "No problem, sounds good!"
+  }
+ ],
+ "quebec": {
+  "intro": "This lesson IS the Quebec layer: c'est correct, pantoute, tiguidou, magasiner and être tanné, plus a few close cousins. Learn each one with its standard equivalent so you can switch registers.",
+  "items": [
+   {
+    "std": "D'accord, ce n'est pas grave.",
+    "qc": "C'est correct.",
+    "en": "It's OK. No problem.",
+    "note": "neutral, used by everyone"
+   },
+   {
+    "std": "Pas du tout.",
+    "qc": "Pantoute.",
+    "en": "Not at all.",
+    "note": "informal"
+   },
+   {
+    "std": "Parfait!",
+    "qc": "Tiguidou!",
+    "en": "All good! Perfect!",
+    "note": "friendly, a bit old-fashioned and playful"
+   },
+   {
+    "std": "faire du shopping / faire les magasins",
+    "qc": "magasiner",
+    "en": "to go shopping",
+    "note": "neutral in Quebec"
+   },
+   {
+    "std": "J'en ai assez.",
+    "qc": "Chu tanné.",
+    "en": "I'm fed up.",
+    "note": "informal; chu = je suis"
+   },
+   {
+    "std": "C'est ennuyeux.",
+    "qc": "C'est plate.",
+    "en": "It's boring.",
+    "note": "informal; plate also = too bad"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "'C'est correct' usually means…",
+   "options": [
+    "That's the right answer",
+    "It's OK / no problem",
+    "It's correct grammar",
+    "It's fair"
+   ],
+   "a": 1,
+   "why": "In Quebec, c'est correct = it's fine."
+  },
+  {
+   "t": "mcq",
+   "q": "'Pantoute' is the Quebec version of…",
+   "options": [
+    "partout",
+    "pas du tout",
+    "pas encore",
+    "partir"
+   ],
+   "a": 1,
+   "why": "Pantoute = pas du tout."
+  },
+  {
+   "t": "mcq",
+   "q": "'Je suis tanné' means…",
+   "options": [
+    "I'm tanned",
+    "I'm fed up",
+    "I'm tired of nothing",
+    "I'm happy"
+   ],
+   "a": 1,
+   "why": "Être tanné = to be fed up."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is fine in a formal email?",
+   "options": [
+    "Pantoute",
+    "Je suis tanné",
+    "J'ai hâte de vous rencontrer",
+    "C'est plate"
+   ],
+   "a": 2,
+   "why": "Avoir hâte de is standard French."
+  },
+  {
+   "t": "fill",
+   "q": "On ___ samedi? (go shopping, on)",
+   "a": [
+    "magasine"
+   ],
+   "en": "Shall we go shopping on Saturday?",
+   "why": "magasiner is a regular -er verb: on magasine."
+  },
+  {
+   "t": "fill",
+   "q": "J'ai ___ aux vacances!",
+   "a": [
+    "hâte"
+   ],
+   "en": "I can't wait for the holidays!",
+   "why": "avoir hâte à (Quebec) / de."
+  },
+  {
+   "t": "fill",
+   "q": "J'ai de la ___ à comprendre.",
+   "a": [
+    "misère"
+   ],
+   "en": "I have a hard time understanding.",
+   "why": "avoir de la misère à = to have trouble."
+  },
+  {
+   "t": "fill",
+   "q": "Ce film est ___ . (boring, Quebec)",
+   "a": [
+    "plate"
+   ],
+   "en": "This movie is boring.",
+   "why": "plate = boring, informal Quebec."
+  },
+  {
+   "t": "build",
+   "en": "I'm fed up with winter!",
+   "a": "Je suis tanné de l'hiver!"
+  },
+  {
+   "t": "build",
+   "en": "We chat after work.",
+   "a": "On jase après le travail."
+  },
+  {
+   "t": "build",
+   "en": "Are you OK?",
+   "a": "Es-tu correct?"
+  },
+  {
+   "t": "translate",
+   "en": "Not at all!",
+   "a": [
+    "Pas du tout!",
+    "Pantoute!"
+   ],
+   "why": "Standard and Quebec both work."
+  },
+  {
+   "t": "translate",
+   "en": "It's OK, no problem.",
+   "a": [
+    "C'est correct, pas de problème.",
+    "C'est correct, y a pas de problème.",
+    "Ce n'est pas grave, pas de problème.",
+    "C'est pas grave, pas de problème."
+   ],
+   "why": "c'est correct is the Quebec go-to."
+  },
+  {
+   "t": "translate",
+   "en": "I can't wait!",
+   "a": [
+    "J'ai hâte!"
+   ],
+   "why": "avoir hâte."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "c'est correct",
+   "en": "it's OK, it's fine",
+   "ex": "Pas de stress, c'est correct.",
+   "qc": true
+  },
+  {
+   "fr": "être correct",
+   "en": "to be OK, to be alright",
+   "ex": "Es-tu correct?",
+   "qc": true
+  },
+  {
+   "fr": "pantoute",
+   "en": "not at all (informal)",
+   "ex": "J'ai pas faim pantoute.",
+   "qc": true
+  },
+  {
+   "fr": "tiguidou",
+   "en": "all good, perfect",
+   "ex": "Tiguidou, à demain!",
+   "qc": true
+  },
+  {
+   "fr": "magasiner",
+   "en": "to go shopping; to shop around",
+   "ex": "J'aime magasiner.",
+   "qc": true
+  },
+  {
+   "fr": "le magasinage",
+   "en": "shopping",
+   "g": "m",
+   "ex": "Le magasinage des Fêtes.",
+   "qc": true
+  },
+  {
+   "fr": "être tanné (de)",
+   "en": "to be fed up (with)",
+   "ex": "Je suis tanné du trafic.",
+   "qc": true
+  },
+  {
+   "fr": "plate",
+   "en": "boring; too bad (informal)",
+   "ex": "C'est plate!",
+   "qc": true
+  },
+  {
+   "fr": "avoir hâte (à / de)",
+   "en": "to look forward to, can't wait",
+   "ex": "J'ai hâte à vendredi."
+  },
+  {
+   "fr": "jaser",
+   "en": "to chat",
+   "ex": "On jase un peu?",
+   "qc": true
+  },
+  {
+   "fr": "avoir de la misère (à)",
+   "en": "to have a hard time (doing)",
+   "ex": "J'ai de la misère à dormir.",
+   "qc": true
+  },
+  {
+   "fr": "être brûlé",
+   "en": "to be exhausted (informal)",
+   "ex": "Chu brûlé à soir.",
+   "qc": true
+  },
+  {
+   "fr": "ça marche",
+   "en": "sounds good, OK",
+   "ex": "Huit heures? Ça marche."
+  },
+  {
+   "fr": "pas du tout",
+   "en": "not at all",
+   "ex": "Je ne suis pas du tout fatigué."
+  },
+  {
+   "fr": "d'accord",
+   "en": "OK, agreed",
+   "ex": "D'accord, on y va."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "c'est correct",
+    "tip": "say-ko-RÈKT; Quebecers often say it fast: s'correct."
+   },
+   {
+    "fr": "pantoute",
+    "tip": "pahn-TOUTT: the final t is pronounced."
+   },
+   {
+    "fr": "tiguidou",
+    "tip": "tee-ghee-DOO; hard g, with Quebec ts-like t."
+   },
+   {
+    "fr": "tanné",
+    "tip": "ta-NÉ."
+   },
+   {
+    "fr": "plate",
+    "tip": "PLATT: the t is pronounced."
+   },
+   {
+    "fr": "magasiner",
+    "tip": "ma-ga-zee-NÉ."
+   }
+  ],
+  "title": "Une journée de magasinage",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Salut! On magasine samedi? Il y a des soldes au centre-ville.",
+    "en": "Hi! Shall we go shopping Saturday? There are sales downtown."
+   },
+   {
+    "s": "B",
+    "fr": "Bonne idée! J'ai besoin d'un manteau, je suis tanné de mon vieux.",
+    "en": "Good idea! I need a coat, I'm fed up with my old one."
+   },
+   {
+    "s": "A",
+    "fr": "On se rejoint à dix heures au métro?",
+    "en": "Meet at ten at the metro?"
+   },
+   {
+    "s": "B",
+    "fr": "Tiguidou! Mais je vais être un peu en retard, désolé.",
+    "en": "Perfect! But I'm going to be a bit late, sorry."
+   },
+   {
+    "s": "A",
+    "fr": "C'est correct. Après, on jase au café?",
+    "en": "That's fine. After, we chat at the café?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui! J'ai hâte. La semaine est tellement plate.",
+    "en": "Yes! I can't wait. The week is so boring."
+   },
+   {
+    "s": "A",
+    "fr": "T'es fâché contre ton boss?",
+    "en": "Are you mad at your boss?"
+   },
+   {
+    "s": "B",
+    "fr": "Pantoute! Je suis juste brûlé.",
+    "en": "Not at all! I'm just exhausted."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What does B want to buy?",
+    "options": [
+     "Boots",
+     "A coat",
+     "A toque"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does A say when B will be late?",
+    "options": [
+     "Tiguidou",
+     "C'est correct",
+     "Pantoute"
+    ],
+    "a": 1
+   },
+   {
+    "q": "How does B feel?",
+    "options": [
+     "Angry at the boss",
+     "Exhausted",
+     "Sick"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "React to three situations: a friend is late, a friend asks if you're mad, a friend proposes a plan.",
+   "model": "C'est correct! / Pantoute! / Tiguidou, on fait ça!"
+  },
+  {
+   "prompt": "Say what you're fed up with and what you can't wait for.",
+   "model": "Je suis tanné de la neige. J'ai hâte à l'été!"
+  },
+  {
+   "prompt": "Say 'I'm going shopping on Saturday' in Quebec French, then the France way.",
+   "model": "Je vais magasiner samedi. / Je vais faire du shopping samedi."
+  }
+ ],
+ "write": {
+  "prompt": "Write a 5–6 line text message to a friend proposing a shopping trip, using at least four Quebec expressions from this lesson.",
+  "model": "Salut! Je suis tanné de mes vieilles bottes. On magasine samedi? Il y a des soldes au centre-ville. Si t'es en retard, c'est correct. Après, on jase au café. J'ai hâte! Tiguidou?"
+ },
+ "quiz": [
+  {
+   "q": "'Tiguidou' means…",
+   "options": [
+    "Goodbye",
+    "All good / perfect",
+    "Not at all",
+    "Hurry"
+   ],
+   "a": 1,
+   "why": "Tiguidou = everything's fine, perfect."
+  },
+  {
+   "q": "France equivalent of 'magasiner'?",
+   "options": [
+    "faire du shopping",
+    "faire la magie",
+    "magasin",
+    "acheter le magasin"
+   ],
+   "a": 0,
+   "why": "France: faire du shopping / les magasins."
+  },
+  {
+   "q": "'C'est plate' can mean…",
+   "options": [
+    "It's flat only",
+    "It's boring / too bad",
+    "It's a plate",
+    "It's delicious"
+   ],
+   "a": 1,
+   "why": "Plate = boring or too bad (informal)."
+  },
+  {
+   "q": "'J'ai de la misère à dormir' means…",
+   "options": [
+    "I'm sad when I sleep",
+    "I have trouble sleeping",
+    "I sleep in misery",
+    "I don't want to sleep"
+   ],
+   "a": 1,
+   "why": "avoir de la misère à = to have a hard time."
+  },
+  {
+   "q": "Which expression is the MOST informal?",
+   "options": [
+    "c'est correct",
+    "pantoute",
+    "avoir hâte",
+    "magasiner"
+   ],
+   "a": 1,
+   "why": "Pantoute is clearly informal; the others are neutral in Quebec."
+  },
+  {
+   "q": "'Es-tu correct?' means…",
+   "options": [
+    "Are you right?",
+    "Are you OK?",
+    "Are you sure?",
+    "Are you finished?"
+   ],
+   "a": 1,
+   "why": "Être correct = to be OK."
+  },
+  {
+   "q": "'Jaser' means…",
+   "options": [
+    "to joke",
+    "to chat",
+    "to shout",
+    "to play jazz"
+   ],
+   "a": 1,
+   "why": "Jaser = to chat."
+  },
+  {
+   "q": "'Chu brûlé' means…",
+   "options": [
+    "I'm burned (literally only)",
+    "I'm exhausted",
+    "I'm angry",
+    "I'm late"
+   ],
+   "a": 1,
+   "why": "Être brûlé = to be worn out; chu = je suis."
+  }
+ ]
+}

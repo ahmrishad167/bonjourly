@@ -1,0 +1,614 @@
+{
+ "w": 51,
+ "title": "Demonstrative adjectives",
+ "goal": "By the end of this lesson you can point things out with ce, cet, cette and ces, choose the right form before a vowel, and use -ci and -là to contrast 'this one here' and 'that one there'.",
+ "learn": [
+  {
+   "h": "Four forms: ce, cet, cette, ces",
+   "body": [
+    "Demonstrative adjectives mean 'this', 'that', 'these' or 'those'. They replace the article and agree with the noun: **ce** *livre*, **cette** *maison*, **ces** *enfants*.",
+    "French does not usually distinguish 'this' and 'that': *ce film* can mean this movie or that movie. Context decides."
+   ],
+   "table": {
+    "head": [
+     "",
+     "Singular",
+     "Plural"
+    ],
+    "rows": [
+     [
+      "Masculine",
+      "ce (cet before a vowel / silent h)",
+      "ces"
+     ],
+     [
+      "Feminine",
+      "cette",
+      "ces"
+     ],
+     [
+      "Examples",
+      "ce chien, cet ami, cet hôtel, cette rue",
+      "ces chiens, ces amies"
+     ]
+    ]
+   },
+   "tip": "Cet and cette sound the same: [sèt]. Only spelling tells them apart."
+  },
+  {
+   "h": "Cet: the masculine before a vowel",
+   "body": [
+    "Before a masculine noun starting with a vowel or a silent *h*, *ce* becomes **cet** so the words link smoothly: *cet arbre*, *cet homme*, *cet hiver*, *cet été*.",
+    "This also applies when an adjective comes first: *cet autre livre*, *cet ancien collègue*. And with *ces*, make the liaison in [z]: *ces‿enfants*, *ces‿hôtels*."
+   ]
+  },
+  {
+   "h": "Time expressions with ce",
+   "body": [
+    "Demonstratives are everywhere in time expressions: *ce matin* (this morning), *cet après-midi*, *ce soir* (tonight), *cette semaine*, *ce week-end / cette fin de semaine*, *cet été*, *cette année*.",
+    "To say 'that' time in the past, add *-là*: *ce jour-là* (that day), *cette année-là* (that year), *à ce moment-là* (at that moment)."
+   ]
+  },
+  {
+   "h": "This one vs that one: -ci and -là",
+   "body": [
+    "To contrast two things, attach **-ci** (here, closer) or **-là** (there, farther) to the noun with a hyphen: *Je préfère* **cette robe-ci**, *pas* **cette robe-là**.",
+    "In everyday speech *-là* is far more common than *-ci*, and it often just adds emphasis: *Ce gars-là est vraiment gentil.* (That guy is really nice.)"
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Ce café est trop chaud.",
+   "en": "This coffee is too hot.",
+   "note": "masculine singular: ce"
+  },
+  {
+   "fr": "Cette rue est toujours en construction.",
+   "en": "This street is always under construction.",
+   "note": "feminine: cette"
+  },
+  {
+   "fr": "Cet hôtel est près du Vieux-Port.",
+   "en": "This hotel is near the Old Port.",
+   "note": "silent h: cet"
+  },
+  {
+   "fr": "Ces bottes sont parfaites pour l'hiver.",
+   "en": "These boots are perfect for winter.",
+   "note": "plural: ces"
+  },
+  {
+   "fr": "Tu connais cet homme?",
+   "en": "Do you know that man?",
+   "note": "cet homme: [sè-tom]"
+  },
+  {
+   "fr": "Qu'est-ce que tu fais ce soir?",
+   "en": "What are you doing tonight?",
+   "note": "ce soir = tonight"
+  },
+  {
+   "fr": "Cet été, on va en Gaspésie.",
+   "en": "This summer, we're going to the Gaspé.",
+   "note": "été is masculine: cet"
+  },
+  {
+   "fr": "Cette année, j'apprends le français.",
+   "en": "This year, I'm learning French.",
+   "note": "année is feminine"
+  },
+  {
+   "fr": "Ce jour-là, il neigeait beaucoup.",
+   "en": "That day, it was snowing a lot.",
+   "note": "-là for a past time"
+  },
+  {
+   "fr": "Je préfère ce chandail-ci.",
+   "en": "I prefer this sweater (here).",
+   "note": "-ci = this one here"
+  },
+  {
+   "fr": "Cette chemise-là est trop chère.",
+   "en": "That shirt (there) is too expensive.",
+   "note": "-là = that one there"
+  },
+  {
+   "fr": "Ces enfants jouent dehors tous les jours.",
+   "en": "Those children play outside every day.",
+   "note": "liaison: ces‿enfants"
+  },
+  {
+   "fr": "Cet autre restaurant est meilleur.",
+   "en": "This other restaurant is better.",
+   "note": "cet before autre (vowel)"
+  },
+  {
+   "fr": "Je n'aime pas ces idées-là.",
+   "en": "I don't like those ideas.",
+   "note": "-là for emphasis"
+  },
+  {
+   "fr": "Cette fin de semaine, il va faire beau.",
+   "en": "This weekend, the weather is going to be nice.",
+   "note": "fin de semaine: Quebec usage"
+  },
+  {
+   "fr": "C'est ce livre-là que je cherchais!",
+   "en": "That's the book I was looking for!",
+   "note": "emphasis with -là"
+  }
+ ],
+ "quebec": {
+  "intro": "In Quebec speech, ce and cette are often squeezed into 'c'te' (said [st]), and almost every demonstrative gets a '-là' tag: 'c'te gars-là', 'c'te femme-là'. The -là tag even attaches to nouns with le or la: 'le gars-là'. Write the standard forms.",
+  "items": [
+   {
+    "std": "Ce gars est drôle.",
+    "qc": "C'te gars-là est drôle.",
+    "en": "That guy is funny.",
+    "note": "c'te + -là; informal"
+   },
+   {
+    "std": "Cette fille parle trop.",
+    "qc": "C'te fille-là parle trop.",
+    "en": "That girl talks too much.",
+    "note": "informal"
+   },
+   {
+    "std": "Cette année, je travaille beaucoup.",
+    "qc": "C't'année, j'travaille en masse.",
+    "en": "This year, I'm working a lot.",
+    "note": "c't'année said [stannée]; informal"
+   },
+   {
+    "std": "Ces affaires sont à moi.",
+    "qc": "Ces affaires-là sont à moi.",
+    "en": "Those things are mine.",
+    "note": "affaires = things, stuff; -là for emphasis"
+   },
+   {
+    "std": "Ce soir, on sort.",
+    "qc": "À soir, on sort.",
+    "en": "Tonight, we're going out.",
+    "note": "à soir / à matin = ce soir / ce matin; informal"
+   },
+   {
+    "std": "Ce film est excellent.",
+    "qc": "Le film-là, y'est malade!",
+    "en": "That movie is amazing!",
+    "note": "-là on a definite noun; malade = awesome (slang)"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "___ arbre est très vieux.",
+   "options": [
+    "Ce",
+    "Cet",
+    "Cette",
+    "Ces"
+   ],
+   "a": 1,
+   "why": "Arbre is masculine and starts with a vowel: cet."
+  },
+  {
+   "t": "mcq",
+   "q": "___ voiture est à toi?",
+   "options": [
+    "Ce",
+    "Cet",
+    "Cette",
+    "Ces"
+   ],
+   "a": 2,
+   "why": "Voiture is feminine: cette."
+  },
+  {
+   "t": "mcq",
+   "q": "___ hiver, il a beaucoup neigé.",
+   "options": [
+    "Ce",
+    "Cet",
+    "Cette",
+    "C'"
+   ],
+   "a": 1,
+   "why": "Hiver is masculine with a silent h: cet."
+  },
+  {
+   "t": "mcq",
+   "q": "Which pair is correct?",
+   "options": [
+    "ce amie / cette amie",
+    "cet ami / cette amie",
+    "ce ami / cet amie",
+    "cet ami / cet amie"
+   ],
+   "a": 1,
+   "why": "Masculine before a vowel: cet; feminine: cette."
+  },
+  {
+   "t": "fill",
+   "q": "___ chaussures sont trop petites. (these)",
+   "a": [
+    "Ces"
+   ],
+   "en": "These shoes are too small.",
+   "why": "Plural: ces."
+  },
+  {
+   "t": "fill",
+   "q": "Tu viens ___ après-midi? (this)",
+   "a": [
+    "cet"
+   ],
+   "en": "Are you coming this afternoon?",
+   "why": "Après-midi is masculine and starts with a vowel: cet."
+  },
+  {
+   "t": "fill",
+   "q": "Ce jour-___, j'étais malade. (that)",
+   "a": [
+    "là"
+   ],
+   "en": "That day, I was sick.",
+   "why": "-là for a time in the past."
+  },
+  {
+   "t": "fill",
+   "q": "Je prends ___ gâteau-ci. (this)",
+   "a": [
+    "ce"
+   ],
+   "en": "I'll take this cake.",
+   "why": "Gâteau is masculine and starts with a consonant: ce."
+  },
+  {
+   "t": "build",
+   "en": "This hotel is too expensive.",
+   "a": "Cet hôtel est trop cher."
+  },
+  {
+   "t": "build",
+   "en": "I prefer that dress.",
+   "a": "Je préfère cette robe-là."
+  },
+  {
+   "t": "build",
+   "en": "What are you doing this weekend?",
+   "a": "Qu'est-ce que tu fais cette fin de semaine?"
+  },
+  {
+   "t": "translate",
+   "en": "These children are tired.",
+   "a": [
+    "Ces enfants sont fatigués.",
+    "Ces enfants-là sont fatigués."
+   ],
+   "why": "Ces + liaison in [z]."
+  },
+  {
+   "t": "translate",
+   "en": "This morning, I worked.",
+   "a": [
+    "Ce matin, j'ai travaillé.",
+    "J'ai travaillé ce matin."
+   ],
+   "why": "Ce matin = this morning."
+  },
+  {
+   "t": "translate",
+   "en": "That year, we lived in Laval.",
+   "a": [
+    "Cette année-là, nous habitions à Laval.",
+    "Cette année-là, on habitait à Laval.",
+    "Cette année-là, nous vivions à Laval.",
+    "Cette année-là, on vivait à Laval."
+   ],
+   "why": "Cette année-là + imparfait for a past situation."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "ce / cet",
+   "en": "this, that (masculine)",
+   "ex": "Ce livre, cet ami."
+  },
+  {
+   "fr": "cette",
+   "en": "this, that (feminine)",
+   "ex": "Cette maison."
+  },
+  {
+   "fr": "ces",
+   "en": "these, those",
+   "ex": "Ces gens-là."
+  },
+  {
+   "fr": "-ci",
+   "en": "here (this one)",
+   "ex": "Ce modèle-ci."
+  },
+  {
+   "fr": "-là",
+   "en": "there (that one)",
+   "ex": "Ce jour-là."
+  },
+  {
+   "fr": "ce soir",
+   "en": "tonight",
+   "ex": "On se voit ce soir?"
+  },
+  {
+   "fr": "cet après-midi",
+   "en": "this afternoon",
+   "ex": "Je suis libre cet après-midi."
+  },
+  {
+   "fr": "l'arbre",
+   "en": "tree",
+   "g": "m",
+   "ex": "Cet arbre est un érable."
+  },
+  {
+   "fr": "l'érable",
+   "en": "maple",
+   "g": "m",
+   "ex": "Le sirop d'érable."
+  },
+  {
+   "fr": "la robe",
+   "en": "dress",
+   "g": "f",
+   "ex": "Cette robe-là est belle."
+  },
+  {
+   "fr": "les bottes",
+   "en": "boots",
+   "g": "f",
+   "ex": "Ces bottes sont chaudes."
+  },
+  {
+   "fr": "le gars",
+   "en": "guy",
+   "g": "m",
+   "ex": "Ce gars-là est drôle.",
+   "qc": true
+  },
+  {
+   "fr": "les affaires",
+   "en": "things, stuff, belongings",
+   "g": "f",
+   "ex": "Ramasse tes affaires!",
+   "qc": true
+  },
+  {
+   "fr": "c'te",
+   "en": "this, that (spoken ce / cette)",
+   "ex": "C'te fille-là.",
+   "qc": true
+  },
+  {
+   "fr": "à soir",
+   "en": "tonight (spoken)",
+   "ex": "On sort-tu à soir?",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "ce / ces",
+    "tip": "[suh] vs [sé]: the vowel tells you singular or plural."
+   },
+   {
+    "fr": "cet / cette",
+    "tip": "Both [sèt]. You can't hear the difference."
+   },
+   {
+    "fr": "cet hôtel",
+    "tip": "sè-to-TÈL: the t links."
+   },
+   {
+    "fr": "ces enfants",
+    "tip": "sé-zahn-FAHN: liaison in [z]."
+   },
+   {
+    "fr": "c'te gars-là",
+    "tip": "Quebec: [st' gâ la], the â is long and back."
+   },
+   {
+    "fr": "à soir",
+    "tip": "Quebec: [a swar], sometimes [a swèr] in rural speech."
+   }
+  ],
+  "title": "Au magasin de vêtements",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Bonjour! Je cherche des bottes pour l'hiver.",
+    "en": "Hello! I'm looking for winter boots."
+   },
+   {
+    "s": "B",
+    "fr": "Ces bottes-ci sont très chaudes. Elles sont bonnes jusqu'à moins quarante.",
+    "en": "These boots here are very warm. They're good to minus forty."
+   },
+   {
+    "s": "A",
+    "fr": "Et ces bottes-là, à côté?",
+    "en": "And those boots, next to them?"
+   },
+   {
+    "s": "B",
+    "fr": "Elles sont plus belles, mais moins chaudes.",
+    "en": "They're nicer, but not as warm."
+   },
+   {
+    "s": "A",
+    "fr": "Hmm. Cet hiver, je vais beaucoup marcher. Je prends ces bottes-ci.",
+    "en": "Hmm. This winter, I'm going to walk a lot. I'll take these boots."
+   },
+   {
+    "s": "B",
+    "fr": "Bon choix! Vous voulez aussi cette tuque-là? Elle est en solde.",
+    "en": "Good choice! Would you also like that toque? It's on sale."
+   },
+   {
+    "s": "A",
+    "fr": "Ah oui, c'te tuque-là est vraiment belle. Je la prends!",
+    "en": "Oh yes, that toque is really nice. I'll take it!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Why does A choose the first pair of boots?",
+    "options": [
+     "They're cheaper",
+     "They're warmer",
+     "They're nicer"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does A plan to do this winter?",
+    "options": [
+     "Ski a lot",
+     "Walk a lot",
+     "Travel"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What else does A buy?",
+    "options": [
+     "Mittens",
+     "A scarf",
+     "A toque"
+    ],
+    "a": 2
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Look around the room and point out 4 objects with ce, cet, cette and ces.",
+   "model": "Ce téléphone est vieux. Cet ordinateur est lent. Cette lampe est belle. Ces livres sont à moi."
+  },
+  {
+   "prompt": "You're shopping. Compare two items with -ci and -là and choose one.",
+   "model": "Ce manteau-ci est chaud, mais ce manteau-là est plus beau. Je prends ce manteau-là!"
+  },
+  {
+   "prompt": "Say 'That guy is funny' and 'Tonight we're going out' in standard French, then Quebec style.",
+   "model": "Ce gars est drôle. Ce soir, on sort. / C'te gars-là est drôle. À soir, on sort."
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences about your plans and things around you, using at least five demonstratives (including one cet, one time expression, and one -là).",
+  "model": "Cette semaine, je suis très occupé. Ce matin, j'ai travaillé à la maison. Cet après-midi, je vais au gym. Ce soir, je soupe avec des amis dans ce nouveau restaurant libanais. Cette fin de semaine, je vais me reposer. Ces vacances-là, je les attends depuis longtemps!"
+ },
+ "quiz": [
+  {
+   "q": "Which form goes before 'ordinateur' (m)?",
+   "options": [
+    "ce",
+    "cet",
+    "cette",
+    "ces"
+   ],
+   "a": 1,
+   "why": "Masculine + vowel: cet ordinateur."
+  },
+  {
+   "q": "Which form goes before 'histoire' (f)?",
+   "options": [
+    "ce",
+    "cet",
+    "cette",
+    "c'"
+   ],
+   "a": 2,
+   "why": "Feminine: always cette, even before a vowel."
+  },
+  {
+   "q": "'Ce soir' means…",
+   "options": [
+    "this evening, tonight",
+    "that night (past)",
+    "every evening",
+    "last night"
+   ],
+   "a": 0,
+   "why": "Ce soir = tonight."
+  },
+  {
+   "q": "'Ce jour-là' means…",
+   "options": [
+    "today",
+    "that day",
+    "every day",
+    "this day here"
+   ],
+   "a": 1,
+   "why": "-là places it at another time."
+  },
+  {
+   "q": "Which is correct?",
+   "options": [
+    "cet femme",
+    "cette homme",
+    "cet homme",
+    "ce homme"
+   ],
+   "a": 2,
+   "why": "Homme is masculine with silent h: cet."
+  },
+  {
+   "q": "What is the plural of 'cette idée'?",
+   "options": [
+    "cettes idées",
+    "ces idées",
+    "ce idées",
+    "cets idées"
+   ],
+   "a": 1,
+   "why": "Ces for all plurals."
+  },
+  {
+   "q": "In Quebec speech, 'c'te gars-là' means…",
+   "options": [
+    "that guy",
+    "the guy over there only",
+    "this guy's thing",
+    "the guys"
+   ],
+   "a": 0,
+   "why": "C'te = ce/cette; -là adds emphasis."
+  },
+  {
+   "q": "'À soir' is the spoken Quebec form of…",
+   "options": [
+    "à ce soir!",
+    "ce soir",
+    "le soir",
+    "hier soir"
+   ],
+   "a": 1,
+   "why": "On sort à soir = on sort ce soir."
+  },
+  {
+   "q": "Which -ci / -là sentence is correct?",
+   "options": [
+    "Je veux ce-ci livre.",
+    "Je veux ce livre-ci.",
+    "Je veux cet livre-ci.",
+    "Je veux ce livre ci."
+   ],
+   "a": 1,
+   "why": "Noun + hyphen + ci."
+  }
+ ]
+}

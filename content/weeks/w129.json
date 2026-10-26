@@ -1,0 +1,688 @@
+{
+ "w": 129,
+ "title": "C'est vs il est",
+ "goal": "By the end of this lesson you can choose correctly between c'est and il/elle est with nouns, professions, adjectives and impersonal expressions, in both formal writing and everyday speech.",
+ "learn": [
+  {
+   "h": "The basic rule: what comes next?",
+   "body": [
+    "Look at the word right after the verb. If it is a determiner + noun (*un, une, le, mon, ce…*), a proper name or a stressed pronoun, use *c'est*: *C'est un bon gars. C'est Julie. C'est moi.*",
+    "If it is an adjective alone that describes a specific person or thing already mentioned, use *il est / elle est*: *Mon frère? Il est gentil. Ta voiture? Elle est neuve.*"
+   ],
+   "table": {
+    "head": [
+     "Next word",
+     "Use",
+     "Example"
+    ],
+    "rows": [
+     [
+      "determiner + noun",
+      "c'est / ce sont",
+      "C'est un ingénieur. Ce sont mes voisins."
+     ],
+     [
+      "proper noun",
+      "c'est",
+      "C'est Marc."
+     ],
+     [
+      "stressed pronoun",
+      "c'est",
+      "C'est lui. C'est nous."
+     ],
+     [
+      "adjective (specific person/thing)",
+      "il/elle est, ils/elles sont",
+      "Elle est fatiguée."
+     ],
+     [
+      "adjective (general idea)",
+      "c'est (always masculine)",
+      "Le ski, c'est génial."
+     ]
+    ]
+   },
+   "tip": "Article after the verb → c'est. No article → il est."
+  },
+  {
+   "h": "Professions, nationalities, religions",
+   "body": [
+    "With a bare profession, nationality, religion or political affiliation, French treats the noun like an adjective: no article, and *il/elle est*: *Il est ingénieur. Elle est québécoise. Il est bouddhiste.*",
+    "As soon as you add an article or an adjective, it becomes a real noun phrase and you need *c'est*: *C'est un ingénieur. C'est une Québécoise. C'est un excellent ingénieur.*",
+    "Note the capital: *elle est québécoise* (adjective, lowercase) vs *c'est une Québécoise* (noun, capital)."
+   ],
+   "table": {
+    "head": [
+     "Bare (il/elle est)",
+     "With article (c'est)"
+    ],
+    "rows": [
+     [
+      "Il est médecin.",
+      "C'est un médecin. / C'est un bon médecin."
+     ],
+     [
+      "Elle est avocate.",
+      "C'est une avocate très respectée."
+     ],
+     [
+      "Il est français.",
+      "C'est un Français."
+     ],
+     [
+      "Elle est catholique.",
+      "C'est une catholique pratiquante."
+     ]
+    ]
+   },
+   "tip": "Never say 'Il est un ingénieur' — it's a classic English-speaker error."
+  },
+  {
+   "h": "C'est + adjective: ideas, situations, things in general",
+   "body": [
+    "When the adjective comments on an idea, an activity or a whole situation rather than a specific noun, use *c'est* + masculine adjective: *Le hockey, c'est excitant. Vivre ici, c'est agréable. Ah, c'est gentil!*",
+    "Compare: *Cette pizza? Elle est délicieuse.* (this specific pizza) vs *La pizza, c'est délicieux.* (pizza in general — note the masculine *délicieux*)."
+   ]
+  },
+  {
+   "h": "Impersonal: il est / c'est + adjective + de / à",
+   "body": [
+    "To introduce an infinitive that comes after, formal French uses *il est* + adjective + *de*: *Il est difficile de trouver un logement.* Everyday French uses *c'est*: *C'est difficile de trouver un logement.* Both are correct; *il est* is more formal.",
+    "When the thing has already been mentioned and the infinitive has no object, use *c'est* + adjective + *à*: *Un logement? C'est difficile à trouver.*",
+    "*Il est* is also fixed for time and some expressions: *Il est trois heures. Il est temps de partir. Il est vrai que…* (formal)."
+   ],
+   "table": {
+    "head": [
+     "Structure",
+     "Register",
+     "Example"
+    ],
+    "rows": [
+     [
+      "Il est + adj + de + inf.",
+      "formal",
+      "Il est important de voter."
+     ],
+     [
+      "C'est + adj + de + inf.",
+      "everyday",
+      "C'est important de voter."
+     ],
+     [
+      "C'est + adj + à + inf.",
+      "all",
+      "Ce texte est facile à lire. / C'est facile à lire."
+     ],
+     [
+      "Il est + time",
+      "all",
+      "Il est midi."
+     ]
+    ]
+   }
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Mon beau-frère? C'est un bon gars.",
+   "en": "My brother-in-law? He's a good guy.",
+   "note": "un + noun → c'est"
+  },
+  {
+   "fr": "Il est ingénieur chez Hydro-Québec.",
+   "en": "He's an engineer at Hydro-Québec.",
+   "note": "bare profession → il est"
+  },
+  {
+   "fr": "C'est un ingénieur très compétent.",
+   "en": "He's a very competent engineer.",
+   "note": "article + adjective → c'est"
+  },
+  {
+   "fr": "Elle est infirmière depuis dix ans.",
+   "en": "She has been a nurse for ten years.",
+   "note": "no article after est"
+  },
+  {
+   "fr": "C'est une infirmière qui adore son métier.",
+   "en": "She's a nurse who loves her job.",
+   "note": "une + relative clause → c'est"
+  },
+  {
+   "fr": "Qui a appelé? — C'est ta mère.",
+   "en": "Who called? — It's your mother.",
+   "note": "identification → c'est"
+  },
+  {
+   "fr": "C'est moi qui ai fait le gâteau.",
+   "en": "I'm the one who made the cake.",
+   "note": "c'est + stressed pronoun; verb agrees with moi"
+  },
+  {
+   "fr": "Ce sont mes voisins d'en haut.",
+   "en": "They're my upstairs neighbours.",
+   "note": "plural noun → ce sont in careful French"
+  },
+  {
+   "fr": "Ton appartement? Il est très lumineux.",
+   "en": "Your apartment? It's very bright.",
+   "note": "specific thing + adjective → il est"
+  },
+  {
+   "fr": "Le camping en hiver, c'est spécial.",
+   "en": "Winter camping is something else.",
+   "note": "activity in general → c'est"
+  },
+  {
+   "fr": "La poutine, c'est bon, mais c'est lourd.",
+   "en": "Poutine is good, but it's heavy.",
+   "note": "general comment: masculine bon and lourd"
+  },
+  {
+   "fr": "Il est difficile de trouver un logement abordable.",
+   "en": "It's difficult to find affordable housing.",
+   "note": "formal impersonal il est + de"
+  },
+  {
+   "fr": "C'est difficile de trouver un logement abordable.",
+   "en": "It's hard to find affordable housing.",
+   "note": "same meaning, everyday register"
+  },
+  {
+   "fr": "Ce formulaire? C'est compliqué à remplir.",
+   "en": "That form? It's complicated to fill out.",
+   "note": "c'est + adj + à when the object is already known"
+  },
+  {
+   "fr": "Il est temps de partir.",
+   "en": "It's time to leave.",
+   "note": "fixed expression with il est"
+  },
+  {
+   "fr": "Elle est québécoise, mais c'est une Montréalaise de cœur.",
+   "en": "She's Québécoise, but she's a Montrealer at heart.",
+   "note": "adjective lowercase / noun with capital"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebec speech follows the same rule, but in fast speech il est becomes y'est / y'é and elle est becomes a'l'est or 'est. C'est also replaces ce sont almost everywhere, and many common adjectives are local.",
+  "items": [
+   {
+    "std": "C'est un bon gars.",
+    "qc": "C't'un bon gars.",
+    "en": "He's a good guy.",
+    "note": "c'est un is often squeezed to c't'un; informal"
+   },
+   {
+    "std": "Il est ingénieur.",
+    "qc": "Y'é ingénieur.",
+    "en": "He's an engineer.",
+    "note": "y'é = il est in fast speech"
+   },
+   {
+    "std": "Il est très gentil.",
+    "qc": "Y'est ben fin.",
+    "en": "He's really nice.",
+    "note": "fin = gentil in Quebec; ben = bien/très; informal"
+   },
+   {
+    "std": "Elle est fatiguée.",
+    "qc": "A'l'est fatiguée. / 'Est fatiguée.",
+    "en": "She's tired.",
+    "note": "elle → a or a'l; very informal"
+   },
+   {
+    "std": "Ce sont mes amis.",
+    "qc": "C'est mes chums.",
+    "en": "They're my friends.",
+    "note": "c'est + plural is normal in speech everywhere; chum = friend, informal"
+   },
+   {
+    "std": "C'est ennuyeux.",
+    "qc": "C'est plate.",
+    "en": "It's boring.",
+    "note": "plate = boring; informal Quebec"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Choose: ___ médecin à l'hôpital Sainte-Justine.",
+   "options": [
+    "C'est",
+    "Elle est",
+    "C'est une",
+    "Elle est une"
+   ],
+   "a": 1,
+   "why": "A bare profession takes il/elle est, no article."
+  },
+  {
+   "t": "mcq",
+   "q": "Choose: ___ excellent médecin.",
+   "options": [
+    "Il est",
+    "Il est un",
+    "C'est un",
+    "C'est"
+   ],
+   "a": 2,
+   "why": "Adjective + profession requires an article: c'est un."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is correct for skiing in general?",
+   "options": [
+    "Le ski, il est génial.",
+    "Le ski, c'est génial.",
+    "Le ski, elle est géniale.",
+    "Le ski, c'est géniale."
+   ],
+   "a": 1,
+   "why": "A general activity takes c'est + masculine adjective."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is the most formal?",
+   "options": [
+    "C'est important de voter.",
+    "Il est important de voter.",
+    "C'est important à voter.",
+    "Voter, c'est important."
+   ],
+   "a": 1,
+   "why": "Il est + adj + de + infinitive belongs to formal writing."
+  },
+  {
+   "t": "mcq",
+   "q": "'Y'é ben fin' means…",
+   "options": [
+    "He's very thin",
+    "He's really nice",
+    "It's the end",
+    "He's finished"
+   ],
+   "a": 1,
+   "why": "In Quebec, fin means kind/nice."
+  },
+  {
+   "t": "fill",
+   "q": "Qui est là? — ___ moi! (It's)",
+   "a": [
+    "C'est"
+   ],
+   "en": "Who's there? — It's me!",
+   "why": "C'est + stressed pronoun."
+  },
+  {
+   "t": "fill",
+   "q": "Ta nouvelle voisine? ___ très sympathique. (She is)",
+   "a": [
+    "Elle est"
+   ],
+   "en": "Your new neighbour? She's very friendly.",
+   "why": "Specific person + adjective → elle est."
+  },
+  {
+   "t": "fill",
+   "q": "Ce texte? C'est facile ___ comprendre.",
+   "a": [
+    "à"
+   ],
+   "en": "This text? It's easy to understand.",
+   "why": "C'est + adjective + à when the object is already known."
+  },
+  {
+   "t": "fill",
+   "q": "Il est ___ de partir. (time)",
+   "a": [
+    "temps"
+   ],
+   "en": "It's time to leave.",
+   "why": "Il est temps de is a fixed expression."
+  },
+  {
+   "t": "build",
+   "en": "He's a very good engineer.",
+   "a": "C'est un très bon ingénieur."
+  },
+  {
+   "t": "build",
+   "en": "She's a lawyer in Quebec City.",
+   "a": "Elle est avocate à Québec."
+  },
+  {
+   "t": "build",
+   "en": "They're my upstairs neighbours.",
+   "a": "Ce sont mes voisins d'en haut."
+  },
+  {
+   "t": "translate",
+   "en": "He's a nurse.",
+   "a": [
+    "Il est infirmier.",
+    "C'est un infirmier."
+   ],
+   "why": "Both work: bare profession with il est, or c'est un + noun."
+  },
+  {
+   "t": "translate",
+   "en": "It's hard to find a parking spot.",
+   "a": [
+    "C'est difficile de trouver une place de stationnement.",
+    "Il est difficile de trouver une place de stationnement.",
+    "C'est difficile de trouver un stationnement.",
+    "Il est difficile de trouver un stationnement.",
+    "C'est difficile de trouver une place.",
+    "Il est difficile de trouver une place."
+   ],
+   "why": "C'est (everyday) or il est (formal) + adj + de + infinitive."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "le gars",
+   "en": "guy",
+   "g": "m",
+   "ex": "C'est un bon gars."
+  },
+  {
+   "fr": "le métier",
+   "en": "trade, occupation",
+   "g": "m",
+   "ex": "Elle aime son métier."
+  },
+  {
+   "fr": "l'ingénieur / l'ingénieure",
+   "en": "engineer",
+   "ex": "Il est ingénieur civil."
+  },
+  {
+   "fr": "l'infirmier / l'infirmière",
+   "en": "nurse",
+   "ex": "Elle est infirmière de nuit."
+  },
+  {
+   "fr": "l'avocat / l'avocate",
+   "en": "lawyer",
+   "ex": "C'est une avocate redoutable."
+  },
+  {
+   "fr": "compétent / compétente",
+   "en": "competent, skilled",
+   "ex": "C'est un employé compétent."
+  },
+  {
+   "fr": "lumineux / lumineuse",
+   "en": "bright, full of light",
+   "ex": "Le salon est lumineux."
+  },
+  {
+   "fr": "abordable",
+   "en": "affordable",
+   "ex": "Il est difficile de trouver un logement abordable."
+  },
+  {
+   "fr": "redoutable",
+   "en": "formidable",
+   "ex": "C'est une adversaire redoutable."
+  },
+  {
+   "fr": "le beau-frère",
+   "en": "brother-in-law",
+   "g": "m",
+   "ex": "Mon beau-frère est électricien."
+  },
+  {
+   "fr": "de cœur",
+   "en": "at heart",
+   "ex": "C'est une Montréalaise de cœur."
+  },
+  {
+   "fr": "fin / fine",
+   "en": "kind, nice (Quebec)",
+   "ex": "Ta sœur est ben fine.",
+   "qc": true
+  },
+  {
+   "fr": "plate",
+   "en": "boring (informal)",
+   "ex": "Ce film-là, c'est plate.",
+   "qc": true
+  },
+  {
+   "fr": "le chum",
+   "en": "friend; boyfriend (informal)",
+   "g": "m",
+   "ex": "C'est mon chum de hockey.",
+   "qc": true
+  },
+  {
+   "fr": "smatte",
+   "en": "nice, kind; clever (informal)",
+   "ex": "C'est une fille smatte.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "c'est un",
+    "tip": "Liaison in [t]: [sè-TUN]."
+   },
+   {
+    "fr": "il est ingénieur",
+    "tip": "Liaison: [i-lè-TIN-jé-nyeur]."
+   },
+   {
+    "fr": "y'é ingénieur",
+    "tip": "Quebec fast speech: [yé in-jé-nyeur]."
+   },
+   {
+    "fr": "ce sont",
+    "tip": "[suh SON]; in casual speech the e drops: [s'son]."
+   },
+   {
+    "fr": "c't'un bon gars",
+    "tip": "Quebec: [stun bon GA]; gars rhymes with pas."
+   },
+   {
+    "fr": "elle est / a'l'est",
+    "tip": "Standard [è-LÈ]; informal Quebec [a-LÈ] or just [È]."
+   }
+  ],
+  "title": "Le nouveau collègue",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "As-tu rencontré le nouveau? C'est qui, au juste?",
+    "en": "Have you met the new guy? Who is he, exactly?"
+   },
+   {
+    "s": "B",
+    "fr": "C'est Karim. Il est ingénieur, il arrive de Sherbrooke.",
+    "en": "It's Karim. He's an engineer, he's coming from Sherbrooke."
+   },
+   {
+    "s": "A",
+    "fr": "Ah oui? Il est comment?",
+    "en": "Oh yeah? What's he like?"
+   },
+   {
+    "s": "B",
+    "fr": "Il est très calme. C'est un gars qui écoute avant de parler.",
+    "en": "He's very calm. He's a guy who listens before speaking."
+   },
+   {
+    "s": "A",
+    "fr": "C'est rare, ça! Et sa conjointe, elle travaille ici aussi?",
+    "en": "That's rare! And his partner, does she work here too?"
+   },
+   {
+    "s": "B",
+    "fr": "Non, elle est infirmière. C'est une infirmière de nuit à l'hôpital.",
+    "en": "No, she's a nurse. She's a night nurse at the hospital."
+   },
+   {
+    "s": "A",
+    "fr": "Travailler de nuit, c'est dur.",
+    "en": "Working nights is hard."
+   },
+   {
+    "s": "B",
+    "fr": "Oui, mais il paraît qu'elle adore ça.",
+    "en": "Yes, but apparently she loves it."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What is Karim's profession?",
+    "options": [
+     "Nurse",
+     "Engineer",
+     "Lawyer"
+    ],
+    "a": 1
+   },
+   {
+    "q": "How is Karim described?",
+    "options": [
+     "Talkative",
+     "Calm, a good listener",
+     "Shy and nervous"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Where does his partner work?",
+    "options": [
+     "In the same office",
+     "At a hospital, at night",
+     "In Sherbrooke"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Describe three people you know: profession with il/elle est, then a c'est un/une sentence about each.",
+   "model": "Ma sœur est comptable. C'est une femme très organisée. Mon voisin est retraité. C'est un gars qui connaît tout le monde. Mon patron est français. C'est un patron exigeant mais juste."
+  },
+  {
+   "prompt": "Give your opinion on three activities using c'est + adjective.",
+   "model": "Le ski de fond, c'est relaxant. Faire l'épicerie le samedi, c'est stressant. Apprendre le français, c'est long, mais c'est passionnant."
+  },
+  {
+   "prompt": "Say 'He's a good guy, he's really nice' in standard French, then the casual Quebec way.",
+   "model": "C'est un bon gars, il est très gentil. / C't'un bon gars, y'est ben fin."
+  }
+ ],
+ "write": {
+  "prompt": "Write a short profile (5–6 sentences) of a colleague for the company newsletter. Mix il/elle est + profession, c'est un/une + noun, and one il est + adj + de structure.",
+  "model": "Voici Sophie Lavoie. Elle est technicienne en informatique depuis huit ans. C'est une personne patiente qui ne perd jamais son calme. Elle est originaire de Rimouski, mais c'est une Montréalaise d'adoption. Selon ses collègues, il est impossible de lui poser une question à laquelle elle n'a pas de réponse. Bienvenue dans l'équipe, Sophie!"
+ },
+ "quiz": [
+  {
+   "q": "Which is correct?",
+   "options": [
+    "Il est un professeur.",
+    "C'est professeur.",
+    "Il est professeur.",
+    "Elle est une professeure."
+   ],
+   "a": 2,
+   "why": "A bare profession takes il est with no article; with an article you need c'est un professeur."
+  },
+  {
+   "q": "Why 'C'est un bon gars' and not 'Il est un bon gars'?",
+   "options": [
+    "Because gars is masculine",
+    "Because there's an article",
+    "Because it's Quebec French",
+    "Because bon is short"
+   ],
+   "a": 1,
+   "why": "Determiner + noun after être → c'est."
+  },
+  {
+   "q": "'Les épinards, c'est ___.'",
+   "options": [
+    "bonne",
+    "bons",
+    "bon",
+    "bonnes"
+   ],
+   "a": 2,
+   "why": "General statements with c'est take a masculine singular adjective."
+  },
+  {
+   "q": "Which refers to one specific cake?",
+   "options": [
+    "Le gâteau, c'est sucré.",
+    "Ce gâteau? Il est trop sucré.",
+    "C'est sucré, le gâteau en général.",
+    "Le sucre, c'est mauvais."
+   ],
+   "a": 1,
+   "why": "Il est refers back to a specific noun."
+  },
+  {
+   "q": "Which is correct?",
+   "options": [
+    "Elle est une Québécoise.",
+    "C'est une québécoise.",
+    "C'est une Québécoise.",
+    "Elle est Québécoise."
+   ],
+   "a": 2,
+   "why": "As a noun with an article it takes a capital and c'est."
+  },
+  {
+   "q": "'Il est vrai que…' belongs to which register?",
+   "options": [
+    "Slang",
+    "Formal / written",
+    "Only Quebec",
+    "Children's speech"
+   ],
+   "a": 1,
+   "why": "Speech prefers c'est vrai que."
+  },
+  {
+   "q": "'Ces chaussures? ___ trop petites.'",
+   "options": [
+    "C'est",
+    "Elles sont",
+    "Ce sont",
+    "Il est"
+   ],
+   "a": 1,
+   "why": "Specific plural noun + adjective → elles sont."
+  },
+  {
+   "q": "'C'est plate' in Quebec means…",
+   "options": [
+    "It's flat",
+    "It's boring",
+    "It's a plate",
+    "It's cheap"
+   ],
+   "a": 1,
+   "why": "Plate = boring, a pity; informal."
+  },
+  {
+   "q": "'Ce problème? C'est difficile ___ résoudre.'",
+   "options": [
+    "de",
+    "à",
+    "pour",
+    "en"
+   ],
+   "a": 1,
+   "why": "Object already known → c'est + adjective + à."
+  }
+ ]
+}

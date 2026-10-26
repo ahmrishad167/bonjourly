@@ -1,0 +1,676 @@
+{
+ "w": 71,
+ "title": "Conditionnel présent and politeness",
+ "goal": "By the end of this lesson you can form the conditionnel présent and use it to make polite requests, express wishes and give advice, including the Quebec favourites 'j'aimerais ça' and 'pourrais-tu'.",
+ "learn": [
+  {
+   "h": "Formation: future stem + imparfait endings",
+   "body": [
+    "The conditionnel uses the same stem as the futur simple (usually the infinitive; drop the final *-e* of *-re* verbs) plus the imparfait endings *-ais, -ais, -ait, -ions, -iez, -aient*.",
+    "*parler* → *je parlerais*; *finir* → *je finirais*; *prendre* → *je prendrais*. If you know the futur (lesson 54), you already know the stem: *je parlerai* (future) / *je parlerais* (conditional)."
+   ],
+   "table": {
+    "head": [
+     "Person",
+     "aimer",
+     "Ending"
+    ],
+    "rows": [
+     [
+      "je / j'",
+      "j'aimerais",
+      "-ais"
+     ],
+     [
+      "tu",
+      "tu aimerais",
+      "-ais"
+     ],
+     [
+      "il / elle / on",
+      "il aimerait",
+      "-ait"
+     ],
+     [
+      "nous",
+      "nous aimerions",
+      "-ions"
+     ],
+     [
+      "vous",
+      "vous aimeriez",
+      "-iez"
+     ],
+     [
+      "ils / elles",
+      "ils aimeraient",
+      "-aient"
+     ]
+    ]
+   },
+   "tip": "Future stem + imparfait endings = conditionnel."
+  },
+  {
+   "h": "Irregular stems",
+   "body": [
+    "Irregular verbs keep their irregular future stem. These are the ones you will use most for politeness."
+   ],
+   "table": {
+    "head": [
+     "Verb",
+     "Stem",
+     "Conditional (je)"
+    ],
+    "rows": [
+     [
+      "vouloir",
+      "voudr-",
+      "je voudrais"
+     ],
+     [
+      "pouvoir",
+      "pourr-",
+      "je pourrais"
+     ],
+     [
+      "devoir",
+      "devr-",
+      "je devrais"
+     ],
+     [
+      "être",
+      "ser-",
+      "je serais"
+     ],
+     [
+      "avoir",
+      "aur-",
+      "j'aurais"
+     ],
+     [
+      "aller",
+      "ir-",
+      "j'irais"
+     ],
+     [
+      "faire",
+      "fer-",
+      "je ferais"
+     ],
+     [
+      "venir",
+      "viendr-",
+      "je viendrais"
+     ],
+     [
+      "falloir",
+      "faudr-",
+      "il faudrait"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Politeness: softening requests",
+   "body": [
+    "The conditionnel makes requests softer and more polite. Compare *Je veux un café* (I want a coffee; blunt) with *Je voudrais un café* (I would like a coffee).",
+    "Asking someone to do something: *Pourriez-vous m'aider?* (Could you help me?), *Pourrais-tu fermer la porte?* (Could you close the door?), *Est-ce que ce serait possible de…?* (Would it be possible to…?), *Ça vous dérangerait de…?* (Would you mind…?)."
+   ]
+  },
+  {
+   "h": "Wishes and advice",
+   "body": [
+    "Wishes: *J'aimerais voyager au Japon* (I'd like to travel to Japan), *Ce serait le fun* (That would be fun).",
+    "Advice with *devoir* and *falloir*: *Tu devrais te reposer* (You should rest), *Vous devriez appeler le 811* (You should call 811), *Il faudrait partir tôt* (We ought to leave early).",
+    "Don't confuse *je parlerai* (future, -ai, 'I will') with *je parlerais* (conditional, -ais, 'I would'). In careful speech the final vowel is different: [é] vs [è]."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Je voudrais un café, s'il vous plaît.",
+   "en": "I'd like a coffee, please.",
+   "note": "softer than je veux"
+  },
+  {
+   "fr": "Pourriez-vous parler plus lentement?",
+   "en": "Could you speak more slowly?"
+  },
+  {
+   "fr": "Pourrais-tu m'aider avec mes boîtes?",
+   "en": "Could you help me with my boxes?"
+  },
+  {
+   "fr": "J'aimerais visiter la Gaspésie cet été.",
+   "en": "I'd like to visit the Gaspé Peninsula this summer."
+  },
+  {
+   "fr": "Tu devrais te reposer un peu.",
+   "en": "You should rest a little.",
+   "note": "advice with devoir"
+  },
+  {
+   "fr": "Vous devriez prendre rendez-vous au CLSC.",
+   "en": "You should make an appointment at the CLSC."
+  },
+  {
+   "fr": "Ce serait le fun d'aller au chalet ensemble.",
+   "en": "It would be fun to go to the cottage together.",
+   "note": "le fun: very common Quebec expression"
+  },
+  {
+   "fr": "Est-ce que ce serait possible de changer la date?",
+   "en": "Would it be possible to change the date?"
+  },
+  {
+   "fr": "Ça vous dérangerait de fermer la fenêtre?",
+   "en": "Would you mind closing the window?"
+  },
+  {
+   "fr": "Il faudrait partir avant le trafic.",
+   "en": "We ought to leave before the traffic."
+  },
+  {
+   "fr": "On pourrait souper au resto ce soir.",
+   "en": "We could have supper at a restaurant tonight.",
+   "note": "suggestion"
+  },
+  {
+   "fr": "À ta place, j'irais voir un médecin.",
+   "en": "If I were you, I'd go see a doctor.",
+   "note": "à ta place = in your place"
+  },
+  {
+   "fr": "Nous aimerions réserver une table pour six.",
+   "en": "We would like to book a table for six."
+  },
+  {
+   "fr": "Est-ce que tu aurais cinq minutes?",
+   "en": "Would you have five minutes?"
+  },
+  {
+   "fr": "Ils viendraient avec plaisir, mais ils travaillent.",
+   "en": "They would gladly come, but they're working."
+  }
+ ],
+ "quebec": {
+  "intro": "Quebecers use the conditionnel constantly for politeness. Two habits stand out: 'j'aimerais ça' (adding ça when aimer has no object) and the casual question 'tu pourrais-tu…?' with the spoken question marker -tu.",
+  "items": [
+   {
+    "std": "J'aimerais bien.",
+    "qc": "J'aimerais ça.",
+    "en": "I'd like that.",
+    "note": "Quebec adds ça after aimer when nothing else follows; correct but very Quebec"
+   },
+   {
+    "std": "Pourrais-tu m'aider?",
+    "qc": "Tu pourrais-tu m'aider?",
+    "en": "Could you help me?",
+    "note": "Informal: -tu turns a statement into a yes/no question"
+   },
+   {
+    "std": "Ce serait amusant.",
+    "qc": "Ça serait le fun.",
+    "en": "That would be fun.",
+    "note": "ça serait is the usual spoken form; le fun is informal Quebec"
+   },
+   {
+    "std": "Je voudrais une poutine.",
+    "qc": "J'prendrais une poutine.",
+    "en": "I'll have a poutine.",
+    "note": "Ordering with prendre in the conditional is very common"
+   },
+   {
+    "std": "Est-ce que je pourrais avoir de l'eau?",
+    "qc": "J'pourrais-tu avoir de l'eau?",
+    "en": "Could I have some water?",
+    "note": "Informal: the -tu question marker works with any subject, even je"
+   },
+   {
+    "std": "Ça me plairait.",
+    "qc": "J'haïrais pas ça.",
+    "en": "I wouldn't mind that (= I'd like that).",
+    "note": "Informal understatement: 'I wouldn't hate that'"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "What is the conditional of 'je peux'?",
+   "options": [
+    "je pourrai",
+    "je pourrais",
+    "je pouvais",
+    "je puisse"
+   ],
+   "a": 1,
+   "why": "Stem pourr- + -ais."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is the most polite?",
+   "options": [
+    "Je veux l'addition.",
+    "Donnez-moi l'addition.",
+    "Je voudrais l'addition, s'il vous plaît.",
+    "L'addition!"
+   ],
+   "a": 2,
+   "why": "The conditionnel softens the request."
+  },
+  {
+   "t": "mcq",
+   "q": "'Tu devrais te reposer' is…",
+   "options": [
+    "an order",
+    "advice",
+    "a future fact",
+    "a question"
+   ],
+   "a": 1,
+   "why": "Devoir in the conditional = should."
+  },
+  {
+   "t": "mcq",
+   "q": "'J'aimerais ça' means…",
+   "options": [
+    "I liked that.",
+    "I'd like that.",
+    "I will like that.",
+    "I like it."
+   ],
+   "a": 1,
+   "why": "Conditional of aimer + ça, typical Quebec."
+  },
+  {
+   "t": "fill",
+   "q": "Nous ___ réserver une table. (aimer)",
+   "a": [
+    "aimerions"
+   ],
+   "en": "We would like to book a table.",
+   "why": "nous → -ions."
+  },
+  {
+   "t": "fill",
+   "q": "Ce ___ le fun! (être)",
+   "a": [
+    "serait"
+   ],
+   "en": "That would be fun!",
+   "why": "être → ser- + -ait."
+  },
+  {
+   "t": "fill",
+   "q": "Vous ___ appeler le 811. (devoir)",
+   "a": [
+    "devriez"
+   ],
+   "en": "You should call 811.",
+   "why": "devr- + -iez."
+  },
+  {
+   "t": "fill",
+   "q": "À ta place, j'___ chez le médecin. (aller)",
+   "a": [
+    "irais"
+   ],
+   "en": "If I were you, I'd go to the doctor.",
+   "why": "aller → ir- + -ais."
+  },
+  {
+   "t": "build",
+   "en": "Could you speak more slowly?",
+   "a": "Pourriez-vous parler plus lentement?"
+  },
+  {
+   "t": "build",
+   "en": "We could go to the cottage.",
+   "a": "On pourrait aller au chalet."
+  },
+  {
+   "t": "build",
+   "en": "Would it be possible to change the date?",
+   "a": "Est-ce que ce serait possible de changer la date?"
+  },
+  {
+   "t": "translate",
+   "en": "I'd like a coffee, please.",
+   "a": [
+    "Je voudrais un café, s'il vous plaît.",
+    "J'aimerais un café, s'il vous plaît.",
+    "Je prendrais un café, s'il vous plaît.",
+    "Je voudrais un café, s'il te plaît.",
+    "J'aimerais un café, s'il te plaît.",
+    "Je prendrais un café, s'il te plaît."
+   ],
+   "why": "Conditional of vouloir, aimer or prendre."
+  },
+  {
+   "t": "translate",
+   "en": "Could you help me?",
+   "a": [
+    "Pourriez-vous m'aider?",
+    "Pourrais-tu m'aider?",
+    "Vous pourriez m'aider?",
+    "Tu pourrais m'aider?",
+    "Est-ce que vous pourriez m'aider?",
+    "Est-ce que tu pourrais m'aider?"
+   ],
+   "why": "Pouvoir in the conditional."
+  },
+  {
+   "t": "translate",
+   "en": "You should rest.",
+   "a": [
+    "Tu devrais te reposer.",
+    "Vous devriez vous reposer."
+   ],
+   "why": "Devoir in the conditional + reflexive."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "je voudrais",
+   "en": "I would like",
+   "ex": "Je voudrais deux billets."
+  },
+  {
+   "fr": "j'aimerais",
+   "en": "I would like / love",
+   "ex": "J'aimerais apprendre à patiner."
+  },
+  {
+   "fr": "je pourrais / pourriez-vous",
+   "en": "I could / could you",
+   "ex": "Pourriez-vous répéter?"
+  },
+  {
+   "fr": "tu devrais",
+   "en": "you should",
+   "ex": "Tu devrais dormir plus."
+  },
+  {
+   "fr": "il faudrait",
+   "en": "we/one ought to",
+   "ex": "Il faudrait réserver."
+  },
+  {
+   "fr": "ce serait / ça serait",
+   "en": "it would be",
+   "ex": "Ça serait parfait."
+  },
+  {
+   "fr": "déranger",
+   "en": "to bother, to disturb",
+   "ex": "Ça vous dérangerait d'attendre?"
+  },
+  {
+   "fr": "à ta place / à votre place",
+   "en": "if I were you",
+   "ex": "À votre place, je partirais tôt."
+  },
+  {
+   "fr": "avec plaisir",
+   "en": "with pleasure, gladly",
+   "ex": "Je viendrais avec plaisir."
+  },
+  {
+   "fr": "le fun",
+   "en": "fun (informal)",
+   "ex": "C'était le fun!",
+   "qc": true
+  },
+  {
+   "fr": "j'aimerais ça",
+   "en": "I'd like that",
+   "ex": "Un souper chez vous? J'aimerais ça!",
+   "qc": true
+  },
+  {
+   "fr": "possible",
+   "en": "possible",
+   "ex": "Ce serait possible demain?"
+  },
+  {
+   "fr": "lentement",
+   "en": "slowly",
+   "ex": "Parlez plus lentement, s'il vous plaît."
+  },
+  {
+   "fr": "le service",
+   "en": "favour, service",
+   "g": "m",
+   "ex": "Tu pourrais me rendre un service?"
+  },
+  {
+   "fr": "rendre service",
+   "en": "to do a favour",
+   "ex": "Merci de m'avoir rendu service."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "je parlerai / je parlerais",
+    "tip": "Future ends in [é], conditional in [è]: par-luh-RAY vs par-luh-RÈ."
+   },
+   {
+    "fr": "nous aimerions",
+    "tip": "noo-zè-muh-RYON."
+   },
+   {
+    "fr": "vous voudriez",
+    "tip": "voo voo-dree-YAY."
+   },
+   {
+    "fr": "ils pourraient",
+    "tip": "eel poo-RÈ: -aient sounds like ais."
+   },
+   {
+    "fr": "ça serait",
+    "tip": "sa suh-RÈ; Quebec: sa s'rè."
+   },
+   {
+    "fr": "tu pourrais-tu",
+    "tip": "Quebec: tsu poo-rè-TSU."
+   }
+  ],
+  "title": "Un petit service",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Salut Sophie! Est-ce que je pourrais te demander un service?",
+    "en": "Hi Sophie! Could I ask you a favour?"
+   },
+   {
+    "s": "B",
+    "fr": "Bien sûr, qu'est-ce qu'il y a?",
+    "en": "Of course, what's up?"
+   },
+   {
+    "s": "A",
+    "fr": "Je déménage samedi. Tu pourrais-tu m'aider avec les boîtes?",
+    "en": "I'm moving Saturday. Could you help me with the boxes?"
+   },
+   {
+    "s": "B",
+    "fr": "J'aimerais ça, mais je travaille le matin. Je pourrais venir à deux heures.",
+    "en": "I'd like to, but I work in the morning. I could come at two o'clock."
+   },
+   {
+    "s": "A",
+    "fr": "Ce serait parfait! Je vais commander de la pizza.",
+    "en": "That would be perfect! I'll order pizza."
+   },
+   {
+    "s": "B",
+    "fr": "Tu devrais aussi demander à Marc. Il a un camion.",
+    "en": "You should also ask Marc. He has a truck."
+   },
+   {
+    "s": "A",
+    "fr": "Bonne idée! Ça serait vraiment plus facile.",
+    "en": "Good idea! That would be much easier."
+   },
+   {
+    "s": "B",
+    "fr": "Parfait, on se voit samedi!",
+    "en": "Perfect, see you Saturday!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What favour does A ask?",
+    "options": [
+     "To lend a car",
+     "To help with moving boxes",
+     "To make supper"
+    ],
+    "a": 1
+   },
+   {
+    "q": "When can Sophie come?",
+    "options": [
+     "In the morning",
+     "At two o'clock",
+     "Sunday"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Why should A ask Marc?",
+    "options": [
+     "He's strong",
+     "He has a truck",
+     "He lives nearby"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Order a meal politely in a restaurant using two different conditional verbs.",
+   "model": "Je voudrais la soupe du jour, et ensuite je prendrais le poulet, s'il vous plaît."
+  },
+  {
+   "prompt": "Give a friend who is always tired three pieces of advice.",
+   "model": "Tu devrais dormir plus. Tu pourrais faire du sport. Il faudrait aussi boire moins de café."
+  },
+  {
+   "prompt": "Say three things you would like to do this year, using j'aimerais.",
+   "model": "J'aimerais aller en Gaspésie, j'aimerais apprendre à faire du ski et j'aimerais parler français au travail."
+  },
+  {
+   "prompt": "Ask a colleague for a favour, first formally, then casually the Quebec way.",
+   "model": "Pourriez-vous m'aider avec ce rapport? / Tu pourrais-tu m'aider avec ça?"
+  }
+ ],
+ "write": {
+  "prompt": "Write a polite email (5–6 sentences) to your landlord asking for a repair and suggesting times. Use the conditionnel at least four times.",
+  "model": "Bonjour Monsieur Gagnon, je vous écris parce que le chauffe-eau ne fonctionne plus. Est-ce que ce serait possible d'envoyer quelqu'un cette semaine? Je serais disponible mardi ou jeudi après 17 h. Si ce n'est pas possible, je pourrais aussi être là samedi matin. Pourriez-vous me confirmer la date? Merci beaucoup et bonne journée."
+ },
+ "quiz": [
+  {
+   "q": "The conditionnel endings are the same as the…",
+   "options": [
+    "present",
+    "imparfait",
+    "passé composé",
+    "futur"
+   ],
+   "a": 1,
+   "why": "-ais, -ais, -ait, -ions, -iez, -aient."
+  },
+  {
+   "q": "What is the conditional of 'faire' (je)?",
+   "options": [
+    "je ferais",
+    "je faisais",
+    "je fairais",
+    "je ferai"
+   ],
+   "a": 0,
+   "why": "Stem fer- + -ais."
+  },
+  {
+   "q": "'Je parlerai' vs 'je parlerais': which means 'I would speak'?",
+   "options": [
+    "je parlerai",
+    "je parlerais",
+    "both",
+    "neither"
+   ],
+   "a": 1,
+   "why": "-ais = conditional; -ai = future."
+  },
+  {
+   "q": "'Ça vous dérangerait de…?' means…",
+   "options": [
+    "Would you mind…?",
+    "Did it bother you…?",
+    "Do you want to…?",
+    "Can you arrange…?"
+   ],
+   "a": 0,
+   "why": "A polite way to ask."
+  },
+  {
+   "q": "'À ta place, je partirais' means…",
+   "options": [
+    "At your place, I left.",
+    "If I were you, I'd leave.",
+    "In your seat, I'll leave.",
+    "I'm leaving your place."
+   ],
+   "a": 1,
+   "why": "À ta place = if I were you."
+  },
+  {
+   "q": "'J'haïrais pas ça' in Quebec means…",
+   "options": [
+    "I'd hate that.",
+    "I wouldn't mind that at all.",
+    "I don't hate you.",
+    "I hated that."
+   ],
+   "a": 1,
+   "why": "An informal understatement meaning 'I'd like that'."
+  },
+  {
+   "q": "Conditional of 'venir' with ils:",
+   "options": [
+    "ils venaient",
+    "ils viendraient",
+    "ils viendront",
+    "ils veniraient"
+   ],
+   "a": 1,
+   "why": "Stem viendr- + -aient."
+  },
+  {
+   "q": "'Il faudrait' is the conditional of…",
+   "options": [
+    "faire",
+    "falloir",
+    "faillir",
+    "fâcher"
+   ],
+   "a": 1,
+   "why": "falloir → il faudrait."
+  },
+  {
+   "q": "In 'Tu pourrais-tu venir?', what does the second 'tu' do?",
+   "options": [
+    "It's a mistake",
+    "It marks a yes/no question in Quebec speech",
+    "It means 'you too'",
+    "It's the object"
+   ],
+   "a": 1,
+   "why": "The spoken -tu particle turns the sentence into a question."
+  }
+ ]
+}

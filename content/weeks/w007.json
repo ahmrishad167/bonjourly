@@ -1,0 +1,695 @@
+{
+ "w": 7,
+ "title": "Subject pronouns, tu vs vous",
+ "goal": "By the end of this lesson you can use all the French subject pronouns, choose between tu and vous in real Quebec situations, and use on the way people actually speak.",
+ "learn": [
+  {
+   "h": "The subject pronouns",
+   "body": [
+    "Subject pronouns tell you who does the action. French has nine of them. *je* becomes *j'* before a vowel or silent h: *j'aime*, *j'habite*.",
+    "*il* and *elle* replace any masculine or feminine noun, including things: *Le café? Il est chaud.* (The coffee? It's hot.) There is no separate word for 'it'."
+   ],
+   "table": {
+    "head": [
+     "Singular",
+     "English",
+     "Plural",
+     "English"
+    ],
+    "rows": [
+     [
+      "je (j')",
+      "I",
+      "nous",
+      "we"
+     ],
+     [
+      "tu",
+      "you (one person, familiar)",
+      "vous",
+      "you (plural, or polite)"
+     ],
+     [
+      "il",
+      "he, it (m)",
+      "ils",
+      "they (m or mixed)"
+     ],
+     [
+      "elle",
+      "she, it (f)",
+      "elles",
+      "they (all f)"
+     ],
+     [
+      "on",
+      "we, one, people",
+      "",
+      ""
+     ]
+    ]
+   },
+   "tip": "One man in a group of 100 women: ils."
+  },
+  {
+   "h": "Tu or vous?",
+   "body": [
+    "*tu* is for one person you know well: friends, family, children, classmates, people your age in casual settings. *vous* is for one person you want to be polite with, and for any group of two or more people.",
+    "Quebec uses *tu* much more than France does: with coworkers, often with your boss, with younger shop staff, and between strangers of the same age. But *vous* is still expected with older people, in formal service (bank, doctor, government offices) and with anyone you don't know in a formal setting."
+   ],
+   "table": {
+    "head": [
+     "Situation (Quebec)",
+     "Usual choice"
+    ],
+    "rows": [
+     [
+      "A friend, family, a child",
+      "tu"
+     ],
+     [
+      "A coworker your age",
+      "tu"
+     ],
+     [
+      "A cashier at the dépanneur",
+      "often tu, vous is always safe"
+     ],
+     [
+      "An older neighbour",
+      "vous (until invited to say tu)"
+     ],
+     [
+      "A doctor, a government agent",
+      "vous"
+     ],
+     [
+      "Two or more people",
+      "vous"
+     ]
+    ]
+   },
+   "tip": "When unsure, start with vous. If they answer with tu, follow them."
+  },
+  {
+   "h": "On: the everyday 'we'",
+   "body": [
+    "In spoken French, *on* almost always replaces *nous* for 'we': *On est à Montréal* = We're in Montreal. *Nous* is used in writing and formal speech.",
+    "*On* takes the same verb form as *il* / *elle*: *on est*, *on a*, *on aime*. It can also mean 'people / you in general': *Au Québec, on parle français.*"
+   ],
+   "table": {
+    "head": [
+     "Formal / written",
+     "Spoken (everywhere)"
+    ],
+    "rows": [
+     [
+      "Nous sommes prêts.",
+      "On est prêts."
+     ],
+     [
+      "Nous avons un chat.",
+      "On a un chat."
+     ],
+     [
+      "Nous aimons le café.",
+      "On aime le café."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Quebec: nous autres, vous autres, eux autres",
+   "body": [
+    "In Quebec speech, plural pronouns are often reinforced with *autres* to stress the group: *nous autres* (us), *vous autres* (you guys), *eux autres* (them). Typical sentence: *Nous autres, on est de Québec.*",
+    "You will also hear *vous autres* as a casual 'you all' in questions: *Vous autres, ça va?* These forms are informal but used by everyone in conversation.",
+    "Casual pronunciation also shortens pronouns: *tu es* → *t'es*, *il* → *y*, *elle* → *a* or *è*. You will study these with être next weeks."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Je suis à Montréal.",
+   "en": "I'm in Montreal.",
+   "note": "je + suis"
+  },
+  {
+   "fr": "J'habite à Laval.",
+   "en": "I live in Laval.",
+   "note": "je → j' before a vowel or silent h"
+  },
+  {
+   "fr": "Tu es étudiant?",
+   "en": "Are you a student?",
+   "note": "tu: to a friend or someone your age"
+  },
+  {
+   "fr": "Vous êtes madame Tremblay?",
+   "en": "Are you Mrs. Tremblay?",
+   "note": "vous: polite, one person"
+  },
+  {
+   "fr": "Vous êtes prêts, les enfants?",
+   "en": "Are you ready, kids?",
+   "note": "vous: more than one person"
+  },
+  {
+   "fr": "Il est gentil.",
+   "en": "He is nice.",
+   "note": "il = he"
+  },
+  {
+   "fr": "La maison? Elle est grande.",
+   "en": "The house? It's big.",
+   "note": "elle = it, for a feminine noun"
+  },
+  {
+   "fr": "Le café? Il est chaud.",
+   "en": "The coffee? It's hot.",
+   "note": "il = it, for a masculine noun"
+  },
+  {
+   "fr": "On est à la maison.",
+   "en": "We're at home.",
+   "note": "on = we in speech"
+  },
+  {
+   "fr": "Nous sommes à la maison.",
+   "en": "We are at home.",
+   "note": "nous = we in writing or formal speech"
+  },
+  {
+   "fr": "Au Québec, on parle français.",
+   "en": "In Quebec, people speak French.",
+   "note": "on = people in general"
+  },
+  {
+   "fr": "Ils sont à l'école.",
+   "en": "They are at school.",
+   "note": "ils: masculine or mixed group"
+  },
+  {
+   "fr": "Elles sont sœurs.",
+   "en": "They are sisters.",
+   "note": "elles: all feminine"
+  },
+  {
+   "fr": "Nous autres, on est de Québec.",
+   "en": "We're from Quebec City.",
+   "note": "Quebec casual: nous autres for emphasis"
+  },
+  {
+   "fr": "Vous autres, ça va?",
+   "en": "How are you guys doing?",
+   "note": "Quebec casual 'you guys'"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebecers use on for 'we' and tu with far more people than in France. But vous is still expected with older people and in formal service, so the roadmap's 'tu is the default' needs nuance: tu is very common, vous is always safe.",
+  "items": [
+   {
+    "std": "Nous sommes en retard.",
+    "qc": "On est en r'tard.",
+    "en": "We're late.",
+    "note": "on for nous is normal spoken French everywhere"
+   },
+   {
+    "std": "Nous, nous sommes de Montréal.",
+    "qc": "Nous autres, on est de Montréal.",
+    "en": "We're from Montreal.",
+    "note": "informal, very common"
+   },
+   {
+    "std": "Vous allez bien?",
+    "qc": "Vous autres, ça va?",
+    "en": "How are you guys?",
+    "note": "informal: vous autres = you guys"
+   },
+   {
+    "std": "Eux, ils sont gentils.",
+    "qc": "Eux autres, y sont fins.",
+    "en": "They're nice.",
+    "note": "informal: y = ils, fin = nice (Quebec)"
+   },
+   {
+    "std": "Tu es prête?",
+    "qc": "T'es prête?",
+    "en": "Are you ready?",
+    "note": "tu es → t'es in casual speech"
+   },
+   {
+    "std": "Vous êtes monsieur Gagnon?",
+    "qc": "Vous êtes monsieur Gagnon?",
+    "en": "Are you Mr. Gagnon?",
+    "note": "no change: vous stays with an older stranger in Quebec too"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Which pronoun do you use with your best friend?",
+   "options": [
+    "tu",
+    "vous",
+    "on",
+    "il"
+   ],
+   "a": 0,
+   "why": "tu is for people you know well."
+  },
+  {
+   "t": "mcq",
+   "q": "Which pronoun do you use to speak to three friends?",
+   "options": [
+    "tu",
+    "vous",
+    "ils",
+    "nous"
+   ],
+   "a": 1,
+   "why": "vous is always used for two or more people."
+  },
+  {
+   "t": "mcq",
+   "q": "'Le livre? ___ est petit.'",
+   "options": [
+    "Elle",
+    "Il",
+    "On",
+    "Tu"
+   ],
+   "a": 1,
+   "why": "livre is masculine, so it = il."
+  },
+  {
+   "t": "mcq",
+   "q": "What does 'on' most often mean in spoken French?",
+   "options": [
+    "I",
+    "they",
+    "we",
+    "you (polite)"
+   ],
+   "a": 2,
+   "why": "On replaces nous in everyday speech."
+  },
+  {
+   "t": "mcq",
+   "q": "You meet your elderly neighbour for the first time in Quebec. You say…",
+   "options": [
+    "Tu es madame Roy?",
+    "Vous êtes madame Roy?",
+    "On est madame Roy?",
+    "T'es madame Roy?"
+   ],
+   "a": 1,
+   "why": "With an older stranger, use vous until invited to say tu."
+  },
+  {
+   "t": "fill",
+   "q": "___ habite à Laval. (I)",
+   "a": [
+    "J'"
+   ],
+   "en": "I live in Laval.",
+   "why": "je → j' before a vowel or silent h."
+  },
+  {
+   "t": "fill",
+   "q": "Marie et Julie? ___ sont à l'école. (they)",
+   "a": [
+    "Elles"
+   ],
+   "en": "Marie and Julie? They're at school.",
+   "why": "All feminine: elles."
+  },
+  {
+   "t": "fill",
+   "q": "Paul et Julie? ___ sont à Québec. (they)",
+   "a": [
+    "Ils"
+   ],
+   "en": "Paul and Julie? They're in Quebec City.",
+   "why": "A mixed group takes ils."
+  },
+  {
+   "t": "fill",
+   "q": "La maison? ___ est grande. (it)",
+   "a": [
+    "Elle"
+   ],
+   "en": "The house? It's big.",
+   "why": "maison is feminine, so it = elle."
+  },
+  {
+   "t": "build",
+   "en": "We're at home.",
+   "a": "On est à la maison."
+  },
+  {
+   "t": "build",
+   "en": "In Quebec, people speak French.",
+   "a": "Au Québec, on parle français."
+  },
+  {
+   "t": "translate",
+   "en": "Are you a student?",
+   "a": [
+    "Tu es étudiant?",
+    "Tu es étudiante?",
+    "Vous êtes étudiant?",
+    "Vous êtes étudiante?",
+    "Es-tu étudiant?",
+    "Es-tu étudiante?",
+    "Êtes-vous étudiant?",
+    "Êtes-vous étudiante?",
+    "T'es étudiant?",
+    "T'es étudiante?"
+   ],
+   "why": "tu or vous, masculine or feminine."
+  },
+  {
+   "t": "translate",
+   "en": "We are in Montreal.",
+   "a": [
+    "On est à Montréal.",
+    "Nous sommes à Montréal."
+   ],
+   "why": "On est in speech, nous sommes in writing."
+  },
+  {
+   "t": "translate",
+   "en": "He is nice.",
+   "a": [
+    "Il est gentil.",
+    "Il est fin.",
+    "Il est sympathique.",
+    "Il est sympa."
+   ],
+   "why": "fin is the everyday Quebec word for nice."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "je / j'",
+   "en": "I",
+   "ex": "Je suis ici. J'habite ici."
+  },
+  {
+   "fr": "tu",
+   "en": "you (familiar, one person)",
+   "ex": "Tu es prêt?"
+  },
+  {
+   "fr": "vous",
+   "en": "you (polite or plural)",
+   "ex": "Vous êtes prêts?"
+  },
+  {
+   "fr": "il / elle",
+   "en": "he / she, it",
+   "ex": "Il est là. Elle est là."
+  },
+  {
+   "fr": "on",
+   "en": "we (spoken), people, one",
+   "ex": "On est en retard."
+  },
+  {
+   "fr": "nous",
+   "en": "we (written, formal)",
+   "ex": "Nous sommes ici."
+  },
+  {
+   "fr": "ils / elles",
+   "en": "they",
+   "ex": "Ils sont à l'école."
+  },
+  {
+   "fr": "nous autres",
+   "en": "us, we (emphatic, informal)",
+   "ex": "Nous autres, on est fatigués.",
+   "qc": true
+  },
+  {
+   "fr": "vous autres",
+   "en": "you guys (informal)",
+   "ex": "Vous autres, ça va?",
+   "qc": true
+  },
+  {
+   "fr": "eux autres",
+   "en": "them (emphatic, informal)",
+   "ex": "Eux autres, y sont en retard.",
+   "qc": true
+  },
+  {
+   "fr": "tutoyer",
+   "en": "to say tu to someone",
+   "ex": "On peut se tutoyer?"
+  },
+  {
+   "fr": "vouvoyer",
+   "en": "to say vous to someone",
+   "ex": "Je vouvoie mon médecin."
+  },
+  {
+   "fr": "monsieur",
+   "en": "sir, Mr.",
+   "g": "m",
+   "ex": "Bonjour, monsieur."
+  },
+  {
+   "fr": "madame",
+   "en": "madam, Mrs., Ms.",
+   "g": "f",
+   "ex": "Merci, madame."
+  },
+  {
+   "fr": "fin / fine",
+   "en": "nice, kind",
+   "ex": "Elle est fine.",
+   "qc": true
+  },
+  {
+   "fr": "la sœur",
+   "en": "sister",
+   "g": "f",
+   "ex": "Elles sont sœurs."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "je, j'habite",
+    "tip": "zhuh; before a vowel just zh: zha-BEET."
+   },
+   {
+    "fr": "tu",
+    "tip": "Rounded ü; in Quebec, [tsü]."
+   },
+   {
+    "fr": "il, ils",
+    "tip": "Same sound [eel]: listen to the verb to tell them apart."
+   },
+   {
+    "fr": "vous êtes",
+    "tip": "voo-ZET: liaison in [z]."
+   },
+   {
+    "fr": "ils sont, ils ont",
+    "tip": "eel SÕ (are) vs eel ZÕ (have): the liaison changes the meaning."
+   },
+   {
+    "fr": "nous autres",
+    "tip": "noo-ZOTR: liaison in [z]. Casual: nou-zautes."
+   }
+  ],
+  "title": "Tu ou vous?",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Bonjour, madame. Vous êtes la nouvelle voisine?",
+    "en": "Hello, ma'am. Are you the new neighbour?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui! Mais on peut se tutoyer. Je m'appelle Sophie.",
+    "en": "Yes! But we can say tu. My name is Sophie."
+   },
+   {
+    "s": "A",
+    "fr": "D'accord! Moi, c'est Daniel. Tu es de Montréal?",
+    "en": "OK! I'm Daniel. Are you from Montreal?"
+   },
+   {
+    "s": "B",
+    "fr": "Non, nous autres, on est de Québec.",
+    "en": "No, we're from Quebec City."
+   },
+   {
+    "s": "A",
+    "fr": "Vous êtes combien?",
+    "en": "How many of you are there?"
+   },
+   {
+    "s": "B",
+    "fr": "On est trois: mon mari, ma fille et moi.",
+    "en": "There are three of us: my husband, my daughter and me."
+   },
+   {
+    "s": "A",
+    "fr": "Bienvenue dans la rue!",
+    "en": "Welcome to the street!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Why does Daniel switch from vous to tu?",
+    "options": [
+     "Sophie is a child",
+     "Sophie invites him to say tu",
+     "He forgets"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Where is Sophie's family from?",
+    "options": [
+     "Montreal",
+     "Quebec City",
+     "Laval"
+    ],
+    "a": 1
+   },
+   {
+    "q": "In 'Vous êtes combien?', why vous?",
+    "options": [
+     "To be polite to Sophie",
+     "He means the whole family",
+     "It's a mistake"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Say 'Are you ready?' to a friend, to your boss (formal), and to a group.",
+   "model": "Tu es prêt? / Vous êtes prêt? / Vous êtes prêts?"
+  },
+  {
+   "prompt": "Say where you and your family or friends are, using on.",
+   "model": "On est à Montréal. On est à la maison."
+  },
+  {
+   "prompt": "Ask someone politely if you can say tu.",
+   "model": "On peut se tutoyer?"
+  }
+ ],
+ "write": {
+  "prompt": "Write 5 short sentences, each with a different subject pronoun (je, tu, il/elle, on, vous, ils/elles), about people you know.",
+  "model": "Je suis à Laval. Tu es à Montréal. Ma sœur est gentille: elle est professeure. On est à la maison. Mes amis? Ils sont à l'école."
+ },
+ "quiz": [
+  {
+   "q": "What is 'it' for a feminine noun?",
+   "options": [
+    "il",
+    "elle",
+    "on",
+    "ça only"
+   ],
+   "a": 1,
+   "why": "Pronouns follow grammatical gender: la table → elle."
+  },
+  {
+   "q": "Which verb form goes with 'on'?",
+   "options": [
+    "the nous form",
+    "the il/elle form",
+    "the vous form",
+    "the ils form"
+   ],
+   "a": 1,
+   "why": "on est, on a: like il / elle."
+  },
+  {
+   "q": "What does 'vous' NEVER mean?",
+   "options": [
+    "you (polite, one person)",
+    "you (several people)",
+    "we"
+   ],
+   "a": 2,
+   "why": "vous = you, never we."
+  },
+  {
+   "q": "A group of four women and one man is…",
+   "options": [
+    "elles",
+    "ils",
+    "on",
+    "vous"
+   ],
+   "a": 1,
+   "why": "Any masculine member makes the group ils."
+  },
+  {
+   "q": "In Quebec, 'nous autres' is…",
+   "options": [
+    "formal written French",
+    "an emphatic, informal 'we / us'",
+    "a mistake",
+    "plural of 'autre'"
+   ],
+   "a": 1,
+   "why": "Nous autres, on… is common in conversation."
+  },
+  {
+   "q": "'Tutoyer' means…",
+   "options": [
+    "to say tu to someone",
+    "to say vous",
+    "to whistle",
+    "to teach"
+   ],
+   "a": 0,
+   "why": "tutoyer = use tu; vouvoyer = use vous."
+  },
+  {
+   "q": "With a doctor or a government agent in Quebec, use…",
+   "options": [
+    "tu",
+    "vous",
+    "on",
+    "nothing"
+   ],
+   "a": 1,
+   "why": "Formal service situations take vous."
+  },
+  {
+   "q": "'T'es prête?' is a casual form of…",
+   "options": [
+    "Tu es prête?",
+    "Tu as prête?",
+    "Elle est prête?",
+    "Vous êtes prête?"
+   ],
+   "a": 0,
+   "why": "tu es → t'es in speech."
+  },
+  {
+   "q": "Which is written, formal French?",
+   "options": [
+    "On est là.",
+    "Nous sommes là.",
+    "Nous autres, on est là.",
+    "On est là, nous autres."
+   ],
+   "a": 1,
+   "why": "Writing and formal speech use nous."
+  }
+ ]
+}

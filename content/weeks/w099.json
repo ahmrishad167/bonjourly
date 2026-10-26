@@ -1,0 +1,688 @@
+{
+ "w": 99,
+ "title": "Indirect speech, past and tense agreement",
+ "goal": "By the end of this lesson you can report what someone said in the past, shifting tenses and time expressions correctly (il m'a dit qu'il viendrait le lendemain), and retell a phone call naturally.",
+ "learn": [
+  {
+   "h": "Past reporting verb → tenses shift back",
+   "body": [
+    "When the reporting verb is in a past tense (*il a dit, elle m'a demandé, ils expliquaient*), the reported verbs move one step into the past. This is called *la concordance des temps*.",
+    "*« Je suis fatigué »* → *Il a dit qu'il était fatigué.* The present becomes the imparfait. English does the same thing ('He said he was tired')."
+   ],
+   "table": {
+    "head": [
+     "Direct speech",
+     "→ Reported (past)",
+     "Example"
+    ],
+    "rows": [
+     [
+      "présent",
+      "imparfait",
+      "« J'ai faim » → il a dit qu'il avait faim"
+     ],
+     [
+      "passé composé",
+      "plus-que-parfait",
+      "« J'ai fini » → il a dit qu'il avait fini"
+     ],
+     [
+      "futur simple",
+      "conditionnel présent",
+      "« Je viendrai » → il a dit qu'il viendrait"
+     ],
+     [
+      "futur proche (va + inf.)",
+      "allait + inf.",
+      "« Je vais partir » → il a dit qu'il allait partir"
+     ],
+     [
+      "futur antérieur",
+      "conditionnel passé",
+      "« J'aurai fini » → il a dit qu'il aurait fini"
+     ],
+     [
+      "imparfait / plus-que-parfait / conditionnel",
+      "no change",
+      "« J'étais malade » → il a dit qu'il était malade"
+     ],
+     [
+      "impératif",
+      "de + infinitive",
+      "« Viens! » → il m'a dit de venir"
+     ]
+    ]
+   },
+   "tip": "Future → conditional is the shift learners forget: il a dit qu'il viendrait."
+  },
+  {
+   "h": "Time and place expressions shift too",
+   "body": [
+    "If the report happens later, words anchored to 'now' must change, because 'tomorrow' for the speaker is not tomorrow for you.",
+    "In conversation, if the time is still valid (you report on the same day), people keep *demain*, *ce soir*: *Il m'a dit ce matin qu'il viendrait ce soir.*"
+   ],
+   "table": {
+    "head": [
+     "Original",
+     "Reported later"
+    ],
+    "rows": [
+     [
+      "aujourd'hui",
+      "ce jour-là"
+     ],
+     [
+      "hier",
+      "la veille"
+     ],
+     [
+      "demain",
+      "le lendemain"
+     ],
+     [
+      "la semaine prochaine",
+      "la semaine suivante"
+     ],
+     [
+      "la semaine dernière",
+      "la semaine précédente"
+     ],
+     [
+      "maintenant",
+      "à ce moment-là"
+     ],
+     [
+      "il y a deux jours",
+      "deux jours plus tôt"
+     ],
+     [
+      "ici",
+      "là"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Questions and commands in the past",
+   "body": [
+    "Questions follow the same tense shift: *« Tu viendras? »* → *Elle m'a demandé si je viendrais.* *« Qu'est-ce que tu as fait? »* → *Il m'a demandé ce que j'avais fait.*",
+    "Commands stay as *de* + infinitive, with no tense change: *« Rappelle-moi! »* → *Elle m'a dit de la rappeler.*"
+   ]
+  },
+  {
+   "h": "When you don't shift",
+   "body": [
+    "General truths and facts still true now can keep the present: *Le prof a dit que la Terre tourne autour du Soleil.* *Elle m'a dit qu'elle habite à Laval* (she still does).",
+    "In everyday speech the rules are applied more loosely, but in writing, follow the concordance."
+   ]
+  },
+  {
+   "h": "Quebec: retelling a phone call",
+   "body": [
+    "Quebec storytelling has its own rhythm: *Pis là, y m'a dit que…*, *Faque j'y ai dit que…*, *A m'a demandé si…*. *Pis là* (and then) and *faque* (so) move the story along.",
+    "*J'y ai dit* is the informal Quebec form of *je lui ai dit* (I told him / her); *y* replaces *lui* in casual speech. Recognize it; write *je lui ai dit*."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Il m'a dit qu'il était malade.",
+   "en": "He told me he was sick.",
+   "note": "présent → imparfait"
+  },
+  {
+   "fr": "Elle a dit qu'elle avait perdu ses clés.",
+   "en": "She said she had lost her keys.",
+   "note": "passé composé → plus-que-parfait"
+  },
+  {
+   "fr": "Ils ont promis qu'ils viendraient nous aider.",
+   "en": "They promised they would come and help us.",
+   "note": "futur → conditionnel"
+  },
+  {
+   "fr": "Le technicien a dit qu'il allait passer vers dix heures.",
+   "en": "The technician said he was going to come by around ten.",
+   "note": "futur proche → allait + infinitive"
+  },
+  {
+   "fr": "Elle m'a demandé si je viendrais à son mariage.",
+   "en": "She asked me if I would come to her wedding."
+  },
+  {
+   "fr": "Il m'a demandé ce que j'avais fait pendant la fin de semaine.",
+   "en": "He asked me what I had done over the weekend."
+  },
+  {
+   "fr": "Ma mère m'a dit de l'appeler en arrivant.",
+   "en": "My mother told me to call her when I arrived.",
+   "note": "command → de + infinitive"
+  },
+  {
+   "fr": "Il a expliqué qu'il avait raté l'autobus la veille.",
+   "en": "He explained that he had missed the bus the day before.",
+   "note": "hier → la veille"
+  },
+  {
+   "fr": "Elle a dit qu'elle partirait le lendemain.",
+   "en": "She said she would leave the next day.",
+   "note": "demain → le lendemain"
+  },
+  {
+   "fr": "Ils m'ont demandé où j'habitais.",
+   "en": "They asked me where I lived."
+  },
+  {
+   "fr": "Le propriétaire a annoncé que le loyer augmenterait en juillet.",
+   "en": "The landlord announced that the rent would go up in July."
+  },
+  {
+   "fr": "Je pensais que tu étais déjà parti.",
+   "en": "I thought you had already left.",
+   "note": "penser in the past also triggers the shift"
+  },
+  {
+   "fr": "Elle m'a dit qu'elle aurait fini avant midi.",
+   "en": "She told me she would have finished before noon.",
+   "note": "futur antérieur → conditionnel passé"
+  },
+  {
+   "fr": "Le prof a rappelé que le Saint-Laurent se jette dans l'Atlantique.",
+   "en": "The teacher reminded us that the St. Lawrence flows into the Atlantic.",
+   "note": "general fact: present kept"
+  },
+  {
+   "fr": "Il voulait savoir pourquoi je n'étais pas venu.",
+   "en": "He wanted to know why I hadn't come."
+  },
+  {
+   "fr": "Pis là, y m'a dit qu'y pouvait pas venir.",
+   "en": "And then he told me he couldn't come.",
+   "note": "casual Quebec storytelling"
+  }
+ ],
+ "quebec": {
+  "intro": "Retelling a phone call in Quebec sounds like: 'Pis là, y m'a dit que…, faque j'y ai dit que…'. The tense shifts are the same as in standard French; the connectors and pronouns are casual.",
+  "items": [
+   {
+    "std": "Alors il m'a dit qu'il serait en retard.",
+    "qc": "Pis là, y m'a dit qu'y serait en retard.",
+    "en": "And then he told me he'd be late.",
+    "note": "pis là = and then; y = il"
+   },
+   {
+    "std": "Donc je lui ai dit que ce n'était pas grave.",
+    "qc": "Faque j'y ai dit que c'tait pas grave.",
+    "en": "So I told him it was no big deal.",
+    "note": "j'y ai dit = je lui ai dit, informal"
+   },
+   {
+    "std": "Elle m'a demandé si j'allais venir.",
+    "qc": "A m'a demandé si j'allais venir.",
+    "en": "She asked me if I was going to come.",
+    "note": "a = elle"
+   },
+   {
+    "std": "Il m'a demandé quel était mon numéro.",
+    "qc": "Y m'a demandé c'était quoi mon numéro.",
+    "en": "He asked me what my number was.",
+    "note": "c'était quoi in a reported question: informal"
+   },
+   {
+    "std": "Elle m'a dit de la rappeler.",
+    "qc": "A m'a dit d'la rappeler.",
+    "en": "She told me to call her back."
+   },
+   {
+    "std": "Il m'a dit que ça irait.",
+    "qc": "Y m'a dit que ça allait être correct.",
+    "en": "He told me it would be OK.",
+    "note": "correct = OK, fine (Quebec)"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "« Je viendrai. » → Il a dit qu'il ___.",
+   "options": [
+    "viendra",
+    "viendrait",
+    "venait",
+    "vienne"
+   ],
+   "a": 1,
+   "why": "Futur → conditionnel présent."
+  },
+  {
+   "t": "mcq",
+   "q": "« J'ai fini. » → Elle a dit qu'elle ___ fini.",
+   "options": [
+    "a",
+    "avait",
+    "aurait",
+    "ait"
+   ],
+   "a": 1,
+   "why": "Passé composé → plus-que-parfait."
+  },
+  {
+   "t": "mcq",
+   "q": "'Demain', reported a week later, becomes…",
+   "options": [
+    "la veille",
+    "le lendemain",
+    "aujourd'hui",
+    "ce jour-là"
+   ],
+   "a": 1,
+   "why": "Demain → le lendemain."
+  },
+  {
+   "t": "mcq",
+   "q": "'J'y ai dit' in standard French is…",
+   "options": [
+    "J'y suis allé.",
+    "Je lui ai dit.",
+    "Je l'ai dit.",
+    "J'ai dit là."
+   ],
+   "a": 1,
+   "why": "Informal Quebec y = lui."
+  },
+  {
+   "t": "fill",
+   "q": "« Je suis fatiguée. » → Elle a dit qu'elle ___ fatiguée.",
+   "a": [
+    "était"
+   ],
+   "en": "She said she was tired.",
+   "why": "Présent → imparfait."
+  },
+  {
+   "t": "fill",
+   "q": "« Je vais déménager. » → Il a dit qu'il ___ déménager.",
+   "a": [
+    "allait"
+   ],
+   "en": "He said he was going to move.",
+   "why": "Va + inf → allait + inf."
+  },
+  {
+   "t": "fill",
+   "q": "« Tu viendras? » → Elle m'a demandé ___ je viendrais.",
+   "a": [
+    "si"
+   ],
+   "en": "She asked me if I would come.",
+   "why": "Yes/no question → si."
+  },
+  {
+   "t": "fill",
+   "q": "« Rappelle-moi! » → Il m'a dit ___ le rappeler.",
+   "a": [
+    "de"
+   ],
+   "en": "He told me to call him back.",
+   "why": "Command → de + infinitive."
+  },
+  {
+   "t": "fill",
+   "q": "« Hier, j'étais malade. » → Il a dit que la ___, il était malade.",
+   "a": [
+    "veille"
+   ],
+   "en": "He said that the day before, he had been sick.",
+   "why": "Hier → la veille."
+  },
+  {
+   "t": "build",
+   "en": "He told me he was sick.",
+   "a": "Il m'a dit qu'il était malade."
+  },
+  {
+   "t": "build",
+   "en": "She asked me where I lived.",
+   "a": "Elle m'a demandé où j'habitais."
+  },
+  {
+   "t": "build",
+   "en": "They said they would come the next day.",
+   "a": "Ils ont dit qu'ils viendraient le lendemain."
+  },
+  {
+   "t": "translate",
+   "en": "She said she had lost her keys.",
+   "a": [
+    "Elle a dit qu'elle avait perdu ses clés.",
+    "Elle m'a dit qu'elle avait perdu ses clés."
+   ],
+   "why": "Passé composé → plus-que-parfait."
+  },
+  {
+   "t": "translate",
+   "en": "He asked me what I had done.",
+   "a": [
+    "Il m'a demandé ce que j'avais fait.",
+    "Il m'a demandé qu'est-ce que j'avais fait."
+   ],
+   "why": "Ce que + plus-que-parfait (the second form is informal speech)."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "la concordance des temps",
+   "en": "sequence of tenses",
+   "g": "f",
+   "ex": "Attention à la concordance des temps."
+  },
+  {
+   "fr": "la veille",
+   "en": "the day before",
+   "g": "f",
+   "ex": "Il était arrivé la veille."
+  },
+  {
+   "fr": "le lendemain",
+   "en": "the next day",
+   "g": "m",
+   "ex": "Elle est partie le lendemain."
+  },
+  {
+   "fr": "ce jour-là",
+   "en": "that day",
+   "ex": "Ce jour-là, il neigeait."
+  },
+  {
+   "fr": "suivant / suivante",
+   "en": "following, next",
+   "ex": "la semaine suivante"
+  },
+  {
+   "fr": "précédent / précédente",
+   "en": "previous",
+   "ex": "le mois précédent"
+  },
+  {
+   "fr": "promettre",
+   "en": "to promise",
+   "ex": "Il a promis qu'il viendrait."
+  },
+  {
+   "fr": "rappeler",
+   "en": "to call back; to remind",
+   "ex": "Rappelle-moi ce soir."
+  },
+  {
+   "fr": "raccrocher",
+   "en": "to hang up",
+   "ex": "Elle a raccroché sans dire au revoir."
+  },
+  {
+   "fr": "le technicien / la technicienne",
+   "en": "technician",
+   "ex": "Le technicien de Vidéotron passe à dix heures."
+  },
+  {
+   "fr": "rater",
+   "en": "to miss (a bus, an exam)",
+   "ex": "J'ai raté l'autobus."
+  },
+  {
+   "fr": "augmenter",
+   "en": "to increase",
+   "ex": "Le loyer va augmenter."
+  },
+  {
+   "fr": "pis là",
+   "en": "and then (storytelling)",
+   "ex": "Pis là, y m'a appelé.",
+   "qc": true
+  },
+  {
+   "fr": "correct",
+   "en": "OK, fine",
+   "ex": "C'est correct, inquiète-toi pas.",
+   "qc": true
+  },
+  {
+   "fr": "j'y ai dit",
+   "en": "I told him / her (= je lui ai dit)",
+   "ex": "J'y ai dit de venir.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "il viendrait",
+    "tip": "eel-vyin-DRÈ: conditional ending [ɛ]."
+   },
+   {
+    "fr": "il viendra",
+    "tip": "eel-vyin-DRA: compare with viendrait."
+   },
+   {
+    "fr": "qu'elle avait",
+    "tip": "kè-la-VÈ."
+   },
+   {
+    "fr": "le lendemain",
+    "tip": "luh-land-MIN."
+   },
+   {
+    "fr": "la veille",
+    "tip": "la-VÈY."
+   },
+   {
+    "fr": "Pis là, y m'a dit",
+    "tip": "pee-LA, ee-ma-DZEE."
+   },
+   {
+    "fr": "j'y ai dit",
+    "tip": "zhee-é-DZEE."
+   }
+  ],
+  "title": "L'appel de Martin",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Pis, qu'est-ce que Martin voulait?",
+    "en": "So, what did Martin want?"
+   },
+   {
+    "s": "B",
+    "fr": "Y m'a dit qu'il avait eu un accident hier soir.",
+    "en": "He told me he'd had an accident last night."
+   },
+   {
+    "s": "A",
+    "fr": "Quoi? Est-ce qu'il est blessé?",
+    "en": "What? Is he hurt?"
+   },
+   {
+    "s": "B",
+    "fr": "Non, il m'a dit que tout le monde allait bien, mais que son auto était finie.",
+    "en": "No, he told me everyone was fine, but that his car was a write-off."
+   },
+   {
+    "s": "A",
+    "fr": "Pauvre lui. Il t'a demandé quelque chose?",
+    "en": "Poor guy. Did he ask you for anything?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, il m'a demandé si je pourrais le conduire au travail demain.",
+    "en": "Yes, he asked me if I could drive him to work tomorrow."
+   },
+   {
+    "s": "A",
+    "fr": "Pis, qu'est-ce que tu lui as dit?",
+    "en": "And what did you tell him?"
+   },
+   {
+    "s": "B",
+    "fr": "J'y ai dit que c'était correct et qu'il devait être prêt à sept heures.",
+    "en": "I told him it was fine and that he had to be ready at seven."
+   },
+   {
+    "s": "A",
+    "fr": "T'es fine. Il a dit combien de temps ça allait durer?",
+    "en": "You're kind. Did he say how long it would last?"
+   },
+   {
+    "s": "B",
+    "fr": "Il a dit que l'assurance lui prêterait une auto la semaine suivante.",
+    "en": "He said the insurance would lend him a car the following week."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What happened to Martin?",
+    "options": [
+     "He lost his job",
+     "He had a car accident",
+     "He moved"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What did Martin ask B?",
+    "options": [
+     "To lend him money",
+     "To drive him to work",
+     "To call the insurance"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What will the insurance company do?",
+    "options": [
+     "Lend him a car",
+     "Pay for a taxi",
+     "Fix the car in a day"
+    ],
+    "a": 0
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Report a recent phone call: what the person said (2 statements), asked (1 question) and told you to do (1 command).",
+   "model": "Ma sœur m'a appelé hier. Elle m'a dit qu'elle avait trouvé un nouvel emploi et qu'elle commencerait en janvier. Elle m'a demandé si je voulais souper avec elle samedi. Elle m'a dit d'apporter du vin."
+  },
+  {
+   "prompt": "Report these words from last month: « Je partirai demain et je reviendrai la semaine prochaine. »",
+   "model": "Il a dit qu'il partirait le lendemain et qu'il reviendrait la semaine suivante."
+  },
+  {
+   "prompt": "Retell the same call casually, Quebec style, with 'pis là' and 'j'y ai dit'.",
+   "model": "Pis là, a m'a dit qu'a commençait une nouvelle job, faque j'y ai dit que j'étais ben contente pour elle."
+  }
+ ],
+ "write": {
+  "prompt": "Write a short email (5–6 sentences) to a colleague reporting what a client said on the phone yesterday. Shift all tenses and time expressions correctly.",
+  "model": "Bonjour Isabelle, le client de Québec m'a appelé hier après-midi. Il m'a dit qu'il n'avait pas reçu la commande. Il a expliqué que le livreur était passé la veille, mais que personne n'avait répondu. Il m'a demandé si nous pourrions la livrer de nouveau le lendemain. Je lui ai dit que tu t'en occuperais. Peux-tu le rappeler ce matin? Merci!"
+ },
+ "quiz": [
+  {
+   "q": "What is the 'concordance des temps'?",
+   "options": [
+    "Matching tenses after a past reporting verb",
+    "Using the subjunctive after que",
+    "Agreeing past participles",
+    "Using the same tense everywhere"
+   ],
+   "a": 0,
+   "why": "Reported verbs shift back after a past reporting verb."
+  },
+  {
+   "q": "« J'aurai fini à midi. » → Elle a dit qu'elle ___ fini à midi.",
+   "options": [
+    "aura",
+    "aurait",
+    "avait",
+    "ait"
+   ],
+   "a": 1,
+   "why": "Futur antérieur → conditionnel passé."
+  },
+  {
+   "q": "« J'étais malade. » → Il a dit qu'il ___ malade.",
+   "options": [
+    "avait été",
+    "était",
+    "serait",
+    "est"
+   ],
+   "a": 1,
+   "why": "The imparfait doesn't change."
+  },
+  {
+   "q": "'La semaine prochaine', reported later →",
+   "options": [
+    "la semaine dernière",
+    "la semaine suivante",
+    "la semaine précédente",
+    "cette semaine"
+   ],
+   "a": 1,
+   "why": "Prochaine → suivante."
+  },
+  {
+   "q": "« Qu'est-ce que tu veux? » → Il m'a demandé…",
+   "options": [
+    "ce que je voulais.",
+    "ce que je veux.",
+    "qu'est-ce que je voulais.",
+    "si je voulais."
+   ],
+   "a": 0,
+   "why": "Ce que + présent → imparfait."
+  },
+  {
+   "q": "« Ne sors pas! » → Elle m'a dit…",
+   "options": [
+    "que je ne sortais pas.",
+    "de ne pas sortir.",
+    "ne pas sortir.",
+    "de ne sortais pas."
+   ],
+   "a": 1,
+   "why": "Commands → de ne pas + infinitive."
+  },
+  {
+   "q": "'Pis là, y m'a dit…' is…",
+   "options": [
+    "formal written French",
+    "casual Quebec storytelling",
+    "a subjunctive form",
+    "France slang"
+   ],
+   "a": 1,
+   "why": "Pis là = and then; y = il."
+  },
+  {
+   "q": "Which can stay in the present after 'il a dit que'?",
+   "options": [
+    "A personal plan for tomorrow",
+    "A general truth",
+    "Any verb",
+    "A command"
+   ],
+   "a": 1,
+   "why": "General truths can keep the present."
+  },
+  {
+   "q": "'C'est correct' in Quebec means…",
+   "options": [
+    "It's grammatically correct",
+    "It's OK / fine",
+    "It's corrected",
+    "It's exact"
+   ],
+   "a": 1,
+   "why": "Correct = OK in Quebec speech."
+  }
+ ]
+}

@@ -1,0 +1,658 @@
+{
+ "w": 42,
+ "title": "Passé composé vs imparfait",
+ "goal": "By the end of this lesson you can choose between the passé composé and the imparfait in a story: background vs events, habits vs single moments, and interrupted actions, and you can tell a short 'quand j'étais p'tit' story with Quebec storytelling words.",
+ "learn": [
+  {
+   "h": "Background vs events",
+   "body": [
+    "Think of a story as a film. The imparfait is the scenery and the situation: what was going on, what things were like. The passé composé is the action: what happened, step by step.",
+    "*Il faisait beau. Les enfants jouaient dans le parc.* (background) *Soudain, un chien est arrivé.* (event)"
+   ],
+   "table": {
+    "head": [
+     "Imparfait (background)",
+     "Passé composé (event)"
+    ],
+    "rows": [
+     [
+      "Il neigeait.",
+      "Je suis tombé."
+     ],
+     [
+      "J'étais fatigué.",
+      "Je suis rentré."
+     ],
+     [
+      "Il y avait du monde.",
+      "On a trouvé une table."
+     ],
+     [
+      "Elle avait faim.",
+      "Elle a commandé une poutine."
+     ]
+    ]
+   },
+   "tip": "Imparfait = the stage. Passé composé = what happens on the stage."
+  },
+  {
+   "h": "Interrupted actions: imparfait + quand + passé composé",
+   "body": [
+    "An action in progress (imparfait) is interrupted by a sudden event (passé composé): *Je regardais la télé quand le téléphone a sonné.* (I was watching TV when the phone rang.)",
+    "*Pendant que* (while) introduces the background action: *Pendant que je cuisinais, les enfants ont joué dehors.*"
+   ],
+   "table": {
+    "head": [
+     "In progress (imparfait)",
+     "Interruption (passé composé)"
+    ],
+    "rows": [
+     [
+      "Je dormais",
+      "quand mon réveil a sonné."
+     ],
+     [
+      "On mangeait",
+      "quand Paul est arrivé."
+     ],
+     [
+      "Elle marchait sur la glace",
+      "quand elle est tombée."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Habit vs one time",
+   "body": [
+    "Repeated or habitual past = imparfait: *Tous les samedis, j'allais au marché.* A single occurrence, or a fixed number of times = passé composé: *Samedi, je suis allé au marché.* *Je suis allé trois fois à Québec.*",
+    "Signal words help: *tous les jours, d'habitude, souvent, le samedi, toujours* → imparfait. *Un jour, soudain, tout à coup, hier, une fois, trois fois, ce jour-là* → passé composé."
+   ],
+   "table": {
+    "head": [
+     "Imparfait signals",
+     "Passé composé signals"
+    ],
+    "rows": [
+     [
+      "d'habitude, souvent, toujours",
+      "un jour, une fois, soudain"
+     ],
+     [
+      "tous les jours, le lundi",
+      "hier, lundi passé, ce jour-là"
+     ],
+     [
+      "pendant que",
+      "tout à coup, quand + event"
+     ]
+    ]
+   },
+   "tip": "Could you add 'used to' or 'was …-ing' in English? Then it's imparfait."
+  },
+  {
+   "h": "Duration and states",
+   "body": [
+    "A state with no clear end (feelings, age, weather) is imparfait: *J'avais peur.* *Il faisait chaud.* But a limited, completed period takes the passé composé: *J'ai habité à Toronto pendant dix ans.* (and it's over). *Il a plu toute la journée.*"
+   ]
+  },
+  {
+   "h": "Quebec: telling a 'quand j'tais p'tit' story",
+   "body": [
+    "Quebec stories have their own rhythm words: *Une fois…* (One time…), *Pis là…* (And then…), *Faque…* (So…), *Tout d'un coup…* (All of a sudden…), *C'est là que…* (That's when…).",
+    "*Pis là* and *faque* move the action forward, so they usually come with the passé composé: *Faque chu sorti, pis là, j'ai vu l'orignal!* Background still takes the imparfait: *Y faisait noir, pis j'avais peur.*"
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Il faisait beau quand nous sommes arrivés au chalet.",
+   "en": "The weather was nice when we arrived at the cottage."
+  },
+  {
+   "fr": "Je regardais la télé quand le téléphone a sonné.",
+   "en": "I was watching TV when the phone rang.",
+   "note": "interrupted action"
+  },
+  {
+   "fr": "Elle marchait sur la glace quand elle est tombée.",
+   "en": "She was walking on the ice when she fell."
+  },
+  {
+   "fr": "Quand j'étais petit, je jouais au hockey tous les samedis.",
+   "en": "When I was little, I played hockey every Saturday.",
+   "note": "habit"
+  },
+  {
+   "fr": "Un samedi, j'ai compté trois buts!",
+   "en": "One Saturday, I scored three goals!",
+   "note": "single event"
+  },
+  {
+   "fr": "On mangeait quand Paul est arrivé.",
+   "en": "We were eating when Paul arrived."
+  },
+  {
+   "fr": "Pendant que je cuisinais, les enfants ont joué dehors.",
+   "en": "While I was cooking, the kids played outside."
+  },
+  {
+   "fr": "J'avais peur, alors j'ai appelé ma mère.",
+   "en": "I was scared, so I called my mother."
+  },
+  {
+   "fr": "Il y avait beaucoup de monde, mais on a trouvé une table.",
+   "en": "There were lots of people, but we found a table."
+  },
+  {
+   "fr": "D'habitude, je prenais le métro, mais ce jour-là, j'ai pris un taxi.",
+   "en": "Usually I took the metro, but that day I took a taxi."
+  },
+  {
+   "fr": "J'ai habité à Toronto pendant dix ans.",
+   "en": "I lived in Toronto for ten years.",
+   "note": "completed period → passé composé"
+  },
+  {
+   "fr": "Il neigeait depuis deux jours quand on est partis.",
+   "en": "It had been snowing for two days when we left."
+  },
+  {
+   "fr": "Tout à coup, la lumière s'est éteinte.",
+   "en": "All of a sudden, the light went out."
+  },
+  {
+   "fr": "Je dormais quand mon réveil a sonné.",
+   "en": "I was sleeping when my alarm went off."
+  },
+  {
+   "fr": "Une fois, j'tais au chalet, pis là, j'ai vu un orignal!",
+   "en": "One time I was at the cottage, and then I saw a moose!",
+   "note": "informal Quebec storytelling"
+  },
+  {
+   "fr": "Y faisait noir, faque chu rentré vite.",
+   "en": "It was dark, so I went back in fast.",
+   "note": "informal Quebec"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebecers love a good story, and they tell it with 'une fois', 'pis là', 'faque' and 'tout d'un coup'. These words move the plot forward with the passé composé, while the imparfait sets the scene.",
+  "items": [
+   {
+    "std": "Un jour, j'étais au chalet…",
+    "qc": "Une fois, j'tais au chalet…",
+    "en": "One time I was at the cottage…",
+    "note": "une fois = classic story opener"
+   },
+   {
+    "std": "Et ensuite, j'ai vu un ours.",
+    "qc": "Pis là, j'ai vu un ours.",
+    "en": "And then I saw a bear.",
+    "note": "pis là moves the action forward"
+   },
+   {
+    "std": "Donc je suis parti.",
+    "qc": "Faque chu parti.",
+    "en": "So I left.",
+    "note": "faque + passé composé"
+   },
+   {
+    "std": "Soudain, il a commencé à neiger.",
+    "qc": "Tout d'un coup, y'a commencé à neiger.",
+    "en": "All of a sudden, it started snowing.",
+    "note": "tout d'un coup is also standard"
+   },
+   {
+    "std": "C'est à ce moment-là que j'ai compris.",
+    "qc": "C'est là que j'ai compris.",
+    "en": "That's when I understood.",
+    "note": "neutral and common"
+   },
+   {
+    "std": "Quand j'étais petit, il n'y avait pas de cellulaires.",
+    "qc": "Quand j'tais p'tit, y'avait pas de cell.",
+    "en": "When I was a kid, there were no cellphones.",
+    "note": "cell = cellphone (Quebec)"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Je ___ la télé quand tu as appelé.",
+   "options": [
+    "ai regardé",
+    "regardais",
+    "regarde",
+    "vais regarder"
+   ],
+   "a": 1,
+   "why": "Action in progress, interrupted → imparfait."
+  },
+  {
+   "t": "mcq",
+   "q": "Hier, je ___ au cinéma.",
+   "options": [
+    "allais",
+    "suis allé",
+    "vais",
+    "allé"
+   ],
+   "a": 1,
+   "why": "Single completed event → passé composé."
+  },
+  {
+   "t": "mcq",
+   "q": "Tous les étés, nous ___ au lac.",
+   "options": [
+    "sommes allés",
+    "allions",
+    "allons aller",
+    "irions"
+   ],
+   "a": 1,
+   "why": "Habit → imparfait."
+  },
+  {
+   "t": "mcq",
+   "q": "Which signal word usually goes with the passé composé?",
+   "options": [
+    "d'habitude",
+    "souvent",
+    "tout à coup",
+    "tous les jours"
+   ],
+   "a": 2,
+   "why": "Sudden events → passé composé."
+  },
+  {
+   "t": "fill",
+   "q": "Il ___ beau quand nous sommes arrivés. (faire)",
+   "a": [
+    "faisait"
+   ],
+   "en": "The weather was nice when we arrived.",
+   "why": "Weather background → imparfait."
+  },
+  {
+   "t": "fill",
+   "q": "Elle marchait quand elle est ___ . (tomber)",
+   "a": [
+    "tombée"
+   ],
+   "en": "She was walking when she fell.",
+   "why": "Event → passé composé with être, feminine agreement."
+  },
+  {
+   "t": "fill",
+   "q": "On ___ quand Paul est arrivé. (manger)",
+   "a": [
+    "mangeait"
+   ],
+   "en": "We were eating when Paul arrived.",
+   "why": "In progress → imparfait."
+  },
+  {
+   "t": "fill",
+   "q": "J'___ à Toronto pendant dix ans. (habiter)",
+   "a": [
+    "ai habité"
+   ],
+   "en": "I lived in Toronto for ten years.",
+   "why": "Completed, limited period → passé composé."
+  },
+  {
+   "t": "fill",
+   "q": "J'avais peur, alors j'___ ma mère. (appeler)",
+   "a": [
+    "ai appelé"
+   ],
+   "en": "I was scared, so I called my mother.",
+   "why": "Reaction/event → passé composé."
+  },
+  {
+   "t": "build",
+   "en": "I was sleeping when the alarm rang.",
+   "a": "Je dormais quand le réveil a sonné."
+  },
+  {
+   "t": "build",
+   "en": "All of a sudden, the light went out.",
+   "a": "Tout à coup, la lumière s'est éteinte."
+  },
+  {
+   "t": "translate",
+   "en": "When I was little, I played outside.",
+   "a": [
+    "Quand j'étais petit, je jouais dehors.",
+    "Quand j'étais petite, je jouais dehors.",
+    "Quand j'étais jeune, je jouais dehors."
+   ],
+   "why": "Description + habit → imparfait."
+  },
+  {
+   "t": "translate",
+   "en": "It was snowing, so I took the bus.",
+   "a": [
+    "Il neigeait, donc j'ai pris l'autobus.",
+    "Il neigeait, alors j'ai pris l'autobus.",
+    "Il neigeait, faque j'ai pris l'autobus.",
+    "Il neigeait, donc j'ai pris le bus.",
+    "Il neigeait, alors j'ai pris le bus."
+   ],
+   "why": "Background (imparfait) + event (passé composé)."
+  },
+  {
+   "t": "translate",
+   "en": "We were eating when she arrived.",
+   "a": [
+    "Nous mangions quand elle est arrivée.",
+    "On mangeait quand elle est arrivée."
+   ],
+   "why": "Interrupted action pattern."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "soudain",
+   "en": "suddenly",
+   "ex": "Soudain, j'ai entendu un bruit."
+  },
+  {
+   "fr": "tout à coup / tout d'un coup",
+   "en": "all of a sudden",
+   "ex": "Tout à coup, il a commencé à pleuvoir."
+  },
+  {
+   "fr": "un jour",
+   "en": "one day",
+   "ex": "Un jour, j'ai rencontré ma blonde."
+  },
+  {
+   "fr": "une fois",
+   "en": "once, one time",
+   "ex": "Une fois, on s'est perdus en forêt."
+  },
+  {
+   "fr": "pendant que",
+   "en": "while",
+   "ex": "Pendant que je dormais, il a neigé."
+  },
+  {
+   "fr": "pendant (+ duration)",
+   "en": "for, during",
+   "ex": "J'ai attendu pendant une heure."
+  },
+  {
+   "fr": "ce jour-là",
+   "en": "that day",
+   "ex": "Ce jour-là, il faisait très froid."
+  },
+  {
+   "fr": "sonner",
+   "en": "to ring",
+   "ex": "Le téléphone a sonné."
+  },
+  {
+   "fr": "le réveil",
+   "en": "alarm clock",
+   "g": "m",
+   "ex": "Mon réveil sonne à six heures."
+  },
+  {
+   "fr": "avoir peur",
+   "en": "to be afraid",
+   "ex": "J'avais peur du noir."
+  },
+  {
+   "fr": "l'orignal",
+   "en": "moose",
+   "g": "m",
+   "ex": "On a vu un orignal sur la route.",
+   "qc": true
+  },
+  {
+   "fr": "le cell",
+   "en": "cellphone (informal)",
+   "g": "m",
+   "ex": "Mon cell est mort.",
+   "qc": true
+  },
+  {
+   "fr": "pis là",
+   "en": "and then (storytelling)",
+   "ex": "Pis là, y'est parti!",
+   "qc": true
+  },
+  {
+   "fr": "c'est là que",
+   "en": "that's when",
+   "ex": "C'est là que j'ai compris."
+  },
+  {
+   "fr": "raconter",
+   "en": "to tell (a story)",
+   "ex": "Raconte-moi ta fin de semaine!"
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "je regardais / j'ai regardé",
+    "tip": "ruh-gar-DÈ vs ruh-gar-DÉ: open è for the imparfait, closed é for the participle."
+   },
+   {
+    "fr": "il a sonné",
+    "tip": "ee-la-so-NÉ."
+   },
+   {
+    "fr": "elle est tombée",
+    "tip": "è-lè-ton-BÉ."
+   },
+   {
+    "fr": "tout à coup",
+    "tip": "too-ta-KOO: liaison in [t]."
+   },
+   {
+    "fr": "pis là",
+    "tip": "Quebec: pee-LÂ, with the back Quebec â."
+   },
+   {
+    "fr": "un orignal",
+    "tip": "uh-no-ree-NYAL."
+   }
+  ],
+  "title": "L'orignal",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Raconte-moi ton voyage dans le Nord!",
+    "en": "Tell me about your trip up north!"
+   },
+   {
+    "s": "B",
+    "fr": "Ben, une fois, on était sur la route vers le chalet. Il faisait noir pis il neigeait.",
+    "en": "Well, one time we were on the road to the cottage. It was dark and it was snowing."
+   },
+   {
+    "s": "A",
+    "fr": "Oh non...",
+    "en": "Oh no..."
+   },
+   {
+    "s": "B",
+    "fr": "Mon chum conduisait lentement. Tout d'un coup, un orignal a traversé la route!",
+    "en": "My boyfriend was driving slowly. All of a sudden, a moose crossed the road!"
+   },
+   {
+    "s": "A",
+    "fr": "Pis qu'est-ce que vous avez fait?",
+    "en": "And what did you do?"
+   },
+   {
+    "s": "B",
+    "fr": "Il a freiné, pis là, l'orignal s'est arrêté devant le char. Il regardait les phares!",
+    "en": "He braked, and then the moose stopped in front of the car. It was staring at the headlights!"
+   },
+   {
+    "s": "A",
+    "fr": "T'avais peur?",
+    "en": "Were you scared?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui! Mais après deux minutes, il est parti dans le bois. Faque on est arrivés au chalet, pis on a ri!",
+    "en": "Yes! But after two minutes, it left into the woods. So we got to the cottage, and we laughed!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What was the weather like?",
+    "options": [
+     "Sunny",
+     "Dark and snowing",
+     "Rainy"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What crossed the road?",
+    "options": [
+     "A bear",
+     "A deer",
+     "A moose"
+    ],
+    "a": 2
+   },
+   {
+    "q": "What did the moose do?",
+    "options": [
+     "Hit the car",
+     "Stopped in front of the car",
+     "Ran away immediately"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Finish these sentences with an interruption: 'Je dormais quand…', 'Il pleuvait quand…'.",
+   "model": "Je dormais quand mon chat a sauté sur le lit. Il pleuvait quand je suis sorti du métro."
+  },
+  {
+   "prompt": "Compare a childhood habit and one special day: 'D'habitude… mais un jour…'.",
+   "model": "D'habitude, je marchais à l'école, mais un jour, j'ai pris l'autobus tout seul."
+  },
+  {
+   "prompt": "Tell a 4–5 sentence 'quand j'tais p'tit' story using une fois, pis là and faque.",
+   "model": "Quand j'tais p'tit, on allait au lac tous les étés. Une fois, j'nageais avec mon frère. Pis là, j'ai vu un gros poisson! Faque j'ai crié pis chu sorti de l'eau. Tout le monde a ri!"
+  }
+ ],
+ "write": {
+  "prompt": "Write a 7–8 sentence story about a memorable moment from your childhood. Set the scene in the imparfait, then tell the events in the passé composé.",
+  "model": "Quand j'avais huit ans, j'habitais à Toronto. C'était l'hiver et il faisait très froid. Un samedi, mon père et moi, nous sommes allés à la patinoire. Il y avait beaucoup de monde. Je patinais lentement parce que j'avais peur. Tout à coup, un grand garçon est tombé devant moi. Je suis tombé aussi! Mais nous avons ri, et ce jour-là, j'ai appris à patiner."
+ },
+ "quiz": [
+  {
+   "q": "In a story, the imparfait usually gives…",
+   "options": [
+    "the main events",
+    "the background and description",
+    "the future",
+    "orders"
+   ],
+   "a": 1,
+   "why": "Imparfait sets the scene."
+  },
+  {
+   "q": "Which sentence shows an interrupted action?",
+   "options": [
+    "J'ai mangé et je suis parti.",
+    "Je mangeais quand il est arrivé.",
+    "Je mangeais et je regardais la télé.",
+    "J'ai mangé quand j'avais faim."
+   ],
+   "a": 1,
+   "why": "Imparfait (in progress) + quand + passé composé (interruption)."
+  },
+  {
+   "q": "'Le samedi, j'allais au marché' means…",
+   "options": [
+    "Last Saturday I went to the market",
+    "I used to go to the market on Saturdays",
+    "I'm going to the market Saturday",
+    "I was going to the market once"
+   ],
+   "a": 1,
+   "why": "Le + day + imparfait = habit."
+  },
+  {
+   "q": "'J'ai habité à Laval pendant cinq ans' uses the passé composé because…",
+   "options": [
+    "it's a habit",
+    "it's a completed, limited period",
+    "it's a description",
+    "habiter takes être"
+   ],
+   "a": 1,
+   "why": "A finished period with a set length → passé composé."
+  },
+  {
+   "q": "Which goes with the imparfait?",
+   "options": [
+    "soudain",
+    "un jour",
+    "d'habitude",
+    "tout à coup"
+   ],
+   "a": 2,
+   "why": "D'habitude signals a habit."
+  },
+  {
+   "q": "'Pis là' in a Quebec story…",
+   "options": [
+    "sets the background",
+    "moves the action forward (and then…)",
+    "ends the story",
+    "asks a question"
+   ],
+   "a": 1,
+   "why": "Pis là = and then; usually followed by an event."
+  },
+  {
+   "q": "'J'avais faim, alors j'___ un sandwich.'",
+   "options": [
+    "mangeais",
+    "ai mangé",
+    "mange",
+    "vais manger"
+   ],
+   "a": 1,
+   "why": "State (imparfait) then action (passé composé)."
+  },
+  {
+   "q": "'Il ___ quand je suis sorti.' (pleuvoir)",
+   "options": [
+    "a plu",
+    "pleuvait",
+    "pleut",
+    "plu"
+   ],
+   "a": 1,
+   "why": "Ongoing weather in the background → il pleuvait."
+  },
+  {
+   "q": "'Une fois' as a Quebec story opener means…",
+   "options": [
+    "once upon a time only in fairy tales",
+    "one time",
+    "one more time",
+    "never"
+   ],
+   "a": 1,
+   "why": "Une fois, j'tais… = One time, I was…"
+  }
+ ]
+}

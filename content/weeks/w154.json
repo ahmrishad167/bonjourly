@@ -1,0 +1,644 @@
+{
+ "w": 154,
+ "title": "Listening: talk radio and long interviews",
+ "goal": "By the end of this lesson you can follow fast, overlapping speech on talk radio and in long interviews: you recognise interruption and turn-taking phrases, fillers and reductions, and you can extract the main points and the speakers' positions.",
+ "learn": [
+  {
+   "h": "What makes talk radio hard",
+   "body": [
+    "On talk radio (*la radio parlée*) and in long-form interviews, people speak fast, interrupt each other, change direction mid-sentence and use lots of fillers. Words merge: *je suis* becomes *chu*, *il y a* becomes *y'a*, *tu sais* becomes *tsé*.",
+    "In Quebec, listen to Radio-Canada's *Ici Première* for neutral, well-paced discussion, and to commercial stations like 98.5 FM in Montreal for faster, more opinionated talk. In Quebec City, some popular talk stations are nicknamed *radio-poubelle* (trash radio) by their critics for their provocative tone."
+   ]
+  },
+  {
+   "h": "Fillers and discourse markers",
+   "body": [
+    "Fillers buy time and carry no content: *euh*, *ben*, *tsé*, *là*, *genre*, *comme*, *fait que* (so), *en tout cas*, *t'sais veux dire*. Learn to filter them out.",
+    "Discourse markers, on the other hand, signal structure: *bon* (OK, moving on), *alors* / *fait que* (so), *mais là* (but now), *en fait* (actually), *bref* (anyway, in short), *écoutez* (listen; used to take or hold the floor)."
+   ],
+   "table": {
+    "head": [
+     "Marker",
+     "Function",
+     "Standard equivalent"
+    ],
+    "rows": [
+     [
+      "fait que",
+      "consequence: so",
+      "donc, alors"
+     ],
+     [
+      "tsé",
+      "checking agreement",
+      "tu sais"
+     ],
+     [
+      "mais là",
+      "objection, new turn",
+      "mais maintenant / attendez"
+     ],
+     [
+      "en tout cas",
+      "closing a topic",
+      "quoi qu'il en soit"
+     ],
+     [
+      "écoutez",
+      "taking the floor",
+      "écoutez / permettez-moi"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Turn-taking: interrupting and holding the floor",
+   "body": [
+    "Interrupting: *Si je peux me permettre…*, *Attendez, attendez…*, *Juste une seconde…*, *Je vous arrête tout de suite…*, *Laissez-moi finir!* (let me finish!).",
+    "Holding the floor: *Je termine…*, *Deux secondes…*, *Juste pour compléter…*. The host redirects: *On y reviendra*, *Restons sur le sujet*, *On doit prendre une pause*, *On se retrouve après la pause*."
+   ]
+  },
+  {
+   "h": "Listening strategy for long audio",
+   "body": [
+    "Before: read the show description and predict the topic and vocabulary. During: note who is speaking and their position, not every word. Listen for structure markers (*premièrement*, *mais*, *en fait*, *bref*).",
+    "After: summarise in two sentences per speaker: *L'invité soutient que…; l'animateur, lui, pense que…*. Replay difficult passages at 0.75 speed, then at normal speed again."
+   ],
+   "tip": "Track positions, not words: who thinks what, and why?"
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Si je peux me permettre, ce n'est pas tout à fait ce que l'étude dit.",
+   "en": "If I may, that's not quite what the study says.",
+   "note": "polite interruption"
+  },
+  {
+   "fr": "Attendez, attendez, laissez-moi finir!",
+   "en": "Wait, wait, let me finish!",
+   "note": "holding the floor"
+  },
+  {
+   "fr": "Je vous arrête tout de suite : c'est faux.",
+   "en": "Let me stop you right there: that's false.",
+   "note": "strong interruption"
+  },
+  {
+   "fr": "On y reviendra après la pause.",
+   "en": "We'll come back to that after the break.",
+   "note": "host redirecting"
+  },
+  {
+   "fr": "Restons sur le sujet, s'il vous plaît.",
+   "en": "Let's stay on topic, please.",
+   "note": "host controlling the discussion"
+  },
+  {
+   "fr": "Fait que là, le gouvernement recule.",
+   "en": "So now the government is backing down.",
+   "note": "fait que = so; là = now (informal)"
+  },
+  {
+   "fr": "Bon, en tout cas, on verra bien.",
+   "en": "Well, anyway, we'll see.",
+   "note": "closing a topic"
+  },
+  {
+   "fr": "En fait, le problème est ailleurs.",
+   "en": "Actually, the problem lies elsewhere.",
+   "note": "en fait introduces a correction"
+  },
+  {
+   "fr": "Écoutez, je comprends votre colère, mais…",
+   "en": "Listen, I understand your anger, but…",
+   "note": "écoutez: taking the floor"
+  },
+  {
+   "fr": "Juste pour compléter ce que disait mon collègue…",
+   "en": "Just to add to what my colleague was saying…",
+   "note": "joining in politely"
+  },
+  {
+   "fr": "Vous n'avez pas répondu à ma question.",
+   "en": "You didn't answer my question.",
+   "note": "typical host pressure"
+  },
+  {
+   "fr": "On a un auditeur en ligne. Bonjour, vous êtes en ondes!",
+   "en": "We have a listener on the line. Hello, you're on the air!",
+   "note": "être en ondes = on the air (used in Quebec; France: à l'antenne)"
+  },
+  {
+   "fr": "Je ne dis pas ça, je dis simplement que…",
+   "en": "I'm not saying that, I'm simply saying that…",
+   "note": "correcting a misrepresentation"
+  },
+  {
+   "fr": "Là-dessus, je vous donne entièrement raison.",
+   "en": "On that point, I completely agree with you.",
+   "note": "donner raison à quelqu'un"
+  },
+  {
+   "fr": "Bref, pour résumer votre position…",
+   "en": "So, to sum up your position…",
+   "note": "host summarising"
+  },
+  {
+   "fr": "Merci d'avoir été avec nous ce matin.",
+   "en": "Thank you for being with us this morning.",
+   "note": "closing an interview"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebec talk radio is fast, with speakers overlapping and interrupting. The words below are reduced or replaced in fast Quebec speech; recognising them is half the battle. They are informal and you don't need to produce them.",
+  "items": [
+   {
+    "std": "Alors, tu sais, il y a un problème.",
+    "qc": "Fait que, tsé, y'a un problème.",
+    "en": "So, you know, there's a problem.",
+    "note": "fait que [fak], tsé, y'a: all very frequent"
+   },
+   {
+    "std": "Je ne suis pas d'accord avec vous.",
+    "qc": "Chu pas d'accord avec vous.",
+    "en": "I don't agree with you.",
+    "note": "chu = je suis, ne dropped"
+   },
+   {
+    "std": "Attends, laisse-moi parler.",
+    "qc": "Woh, woh, laisse-moi parler, là!",
+    "en": "Whoa, let me talk!",
+    "note": "woh = whoa; là adds emphasis"
+   },
+   {
+    "std": "Il est en train de dire n'importe quoi.",
+    "qc": "Y'est en train de dire n'importe quoi.",
+    "en": "He's talking nonsense.",
+    "note": "y'est = il est"
+   },
+   {
+    "std": "Je vais te dire une chose.",
+    "qc": "M'as te dire une affaire.",
+    "en": "I'll tell you one thing.",
+    "note": "m'as = je vais (very informal Quebec); affaire = thing"
+   },
+   {
+    "std": "Elle a raison, quand même.",
+    "qc": "A l'a raison, pareil.",
+    "en": "She's right, all the same.",
+    "note": "a l'a = elle a; pareil = quand même (informal)"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "On air, 'Je vous arrête tout de suite' is used to…",
+   "options": [
+    "arrest someone",
+    "interrupt firmly",
+    "end the show",
+    "thank a guest"
+   ],
+   "a": 1,
+   "why": "A strong interruption formula."
+  },
+  {
+   "t": "mcq",
+   "q": "In fast Quebec speech, 'fait que' means…",
+   "options": [
+    "the fact that",
+    "so",
+    "made that",
+    "although"
+   ],
+   "a": 1,
+   "why": "fait que [fak] = donc, alors."
+  },
+  {
+   "t": "mcq",
+   "q": "'M'as te dire' means…",
+   "options": [
+    "Tell me",
+    "I'm going to tell you",
+    "My aunt told me",
+    "Let me say no"
+   ],
+   "a": 1,
+   "why": "m'as = je vais, very informal Quebec."
+  },
+  {
+   "t": "mcq",
+   "q": "'Vous êtes en ondes' means…",
+   "options": [
+    "You're in the water",
+    "You're on the air",
+    "You're on hold",
+    "You're disconnected"
+   ],
+   "a": 1,
+   "why": "en ondes = on the air (Quebec usage)."
+  },
+  {
+   "t": "mcq",
+   "q": "Which filler carries no content?",
+   "options": [
+    "en fait",
+    "tsé",
+    "pourtant",
+    "parce que"
+   ],
+   "a": 1,
+   "why": "tsé (tu sais) is a pure filler."
+  },
+  {
+   "t": "fill",
+   "q": "Laissez-moi ___!",
+   "a": [
+    "finir",
+    "terminer",
+    "parler"
+   ],
+   "en": "Let me finish!",
+   "why": "laisser + infinitive."
+  },
+  {
+   "t": "fill",
+   "q": "On y ___ après la pause.",
+   "a": [
+    "reviendra",
+    "revient"
+   ],
+   "en": "We'll come back to it after the break.",
+   "why": "revenir à quelque chose → y revenir."
+  },
+  {
+   "t": "fill",
+   "q": "Si je peux me ___, ce n'est pas exact.",
+   "a": [
+    "permettre"
+   ],
+   "en": "If I may, that's not accurate.",
+   "why": "si je peux me permettre = if I may."
+  },
+  {
+   "t": "fill",
+   "q": "Là-dessus, je vous donne entièrement ___.",
+   "a": [
+    "raison"
+   ],
+   "en": "On that, I fully agree with you.",
+   "why": "donner raison à quelqu'un."
+  },
+  {
+   "t": "build",
+   "en": "You didn't answer my question.",
+   "a": "Vous n'avez pas répondu à ma question."
+  },
+  {
+   "t": "build",
+   "en": "Let's stay on topic.",
+   "a": "Restons sur le sujet."
+  },
+  {
+   "t": "build",
+   "en": "Actually, the problem is elsewhere.",
+   "a": "En fait, le problème est ailleurs."
+  },
+  {
+   "t": "translate",
+   "en": "Wait, let me finish!",
+   "a": [
+    "Attendez, laissez-moi finir!",
+    "Attends, laisse-moi finir!",
+    "Attendez, laissez-moi terminer!",
+    "Attends, laisse-moi terminer!"
+   ],
+   "why": "laisser + infinitive; tu or vous."
+  },
+  {
+   "t": "translate",
+   "en": "So there's a problem.",
+   "a": [
+    "Donc, il y a un problème.",
+    "Alors, il y a un problème.",
+    "Fait que y'a un problème.",
+    "Il y a donc un problème."
+   ],
+   "why": "fait que is the informal Quebec 'so'."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "la radio parlée",
+   "en": "talk radio",
+   "g": "f",
+   "ex": "Il écoute la radio parlée dans son char.",
+   "qc": false
+  },
+  {
+   "fr": "l'animateur / l'animatrice",
+   "en": "host (radio, TV)",
+   "ex": "L'animatrice a coupé la parole à l'invité."
+  },
+  {
+   "fr": "l'invité / l'invitée",
+   "en": "guest",
+   "ex": "Notre invité est économiste."
+  },
+  {
+   "fr": "l'auditeur / l'auditrice",
+   "en": "listener",
+   "ex": "Un auditeur nous appelle de Laval."
+  },
+  {
+   "fr": "en ondes",
+   "en": "on the air",
+   "ex": "Vous êtes en ondes!",
+   "qc": true
+  },
+  {
+   "fr": "couper la parole à",
+   "en": "to interrupt (someone)",
+   "ex": "Arrêtez de me couper la parole!"
+  },
+  {
+   "fr": "la tribune téléphonique",
+   "en": "phone-in show",
+   "g": "f",
+   "ex": "La tribune téléphonique a reçu cent appels."
+  },
+  {
+   "fr": "fait que",
+   "en": "so (informal)",
+   "ex": "Fait que j'ai appelé la station.",
+   "qc": true
+  },
+  {
+   "fr": "tsé",
+   "en": "you know (informal)",
+   "ex": "C'est compliqué, tsé.",
+   "qc": true
+  },
+  {
+   "fr": "la radio-poubelle",
+   "en": "'trash radio' (pejorative)",
+   "g": "f",
+   "ex": "Ses critiques parlent de radio-poubelle.",
+   "qc": true
+  },
+  {
+   "fr": "l'entrevue",
+   "en": "interview",
+   "g": "f",
+   "ex": "L'entrevue a duré une heure.",
+   "qc": true
+  },
+  {
+   "fr": "donner raison à",
+   "en": "to agree that (someone) is right",
+   "ex": "Les faits lui donnent raison."
+  },
+  {
+   "fr": "revenir sur",
+   "en": "to come back to (a point)",
+   "ex": "J'aimerais revenir sur ce que vous avez dit."
+  },
+  {
+   "fr": "la pause publicitaire",
+   "en": "commercial break",
+   "g": "f",
+   "ex": "On se retrouve après la pause publicitaire."
+  },
+  {
+   "fr": "le chevauchement",
+   "en": "overlap",
+   "g": "m",
+   "ex": "Il y a beaucoup de chevauchements dans ce débat."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "fait que",
+    "tip": "Reduced to [fak] in Quebec speech."
+   },
+   {
+    "fr": "tsé",
+    "tip": "[tsé]: tu sais with the u dropped and the t affricated."
+   },
+   {
+    "fr": "m'as",
+    "tip": "[ma]: je vais in very informal Quebec speech."
+   },
+   {
+    "fr": "y'a",
+    "tip": "[ya]: il y a."
+   },
+   {
+    "fr": "laissez-moi finir",
+    "tip": "lè-sé-mwa-fi-NIR: stress the last syllable when insisting."
+   },
+   {
+    "fr": "en ondes",
+    "tip": "an-NOND: liaison in [n]."
+   }
+  ],
+  "title": "Tribune téléphonique",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Bonjour, vous êtes en ondes. On parle du prix de l'essence.",
+    "en": "Hello, you're on the air. We're talking about gas prices."
+   },
+   {
+    "s": "B",
+    "fr": "Oui, bonjour. Ben, fait que moi, je fais deux heures de route par jour, tsé…",
+    "en": "Yes, hello. Well, so I drive two hours a day, you know…"
+   },
+   {
+    "s": "A",
+    "fr": "Vous habitez où?",
+    "en": "Where do you live?"
+   },
+   {
+    "s": "B",
+    "fr": "À Saint-Jérôme. Pis là, avec les prix, chu rendu à cent piasses par semaine.",
+    "en": "In Saint-Jérôme. And now, with prices, I'm up to a hundred bucks a week."
+   },
+   {
+    "s": "A",
+    "fr": "Si je peux me permettre, il y a le train de banlieue…",
+    "en": "If I may, there's the commuter train…"
+   },
+   {
+    "s": "B",
+    "fr": "Woh, laissez-moi finir! Le train passe pas aux heures que j'ai besoin.",
+    "en": "Whoa, let me finish! The train doesn't run at the times I need."
+   },
+   {
+    "s": "A",
+    "fr": "D'accord. Et qu'est-ce que vous demandez au gouvernement?",
+    "en": "OK. And what are you asking of the government?"
+   },
+   {
+    "s": "B",
+    "fr": "M'as vous dire une affaire : qu'ils baissent la taxe sur l'essence.",
+    "en": "I'll tell you one thing: they should lower the gas tax."
+   },
+   {
+    "s": "A",
+    "fr": "Merci de votre appel. On prend une pause et on revient.",
+    "en": "Thanks for your call. We'll take a break and be right back."
+   }
+  ],
+  "questions": [
+   {
+    "q": "How much does the caller spend on gas?",
+    "options": [
+     "$50 a week",
+     "$100 a week",
+     "$100 a month"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Why doesn't the caller take the commuter train?",
+    "options": [
+     "It's too expensive",
+     "The schedule doesn't fit",
+     "There's no station nearby"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does the caller want?",
+    "options": [
+     "More trains",
+     "A lower gas tax",
+     "Free parking"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Role-play: you're a radio guest and the host interrupts you. Hold the floor politely.",
+   "model": "Permettez-moi de terminer, s'il vous plaît. Je disais donc que le problème n'est pas le prix, mais l'accès au transport en commun."
+  },
+  {
+   "prompt": "Interrupt someone politely to correct a fact.",
+   "model": "Si je peux me permettre, ce n'est pas tout à fait exact : l'étude parle de 15 %, pas de 50 %."
+  },
+  {
+   "prompt": "Listen to five minutes of a French talk show and summarise the two main positions aloud.",
+   "model": "L'invitée soutient que le télétravail améliore la productivité. L'animateur, lui, pense qu'il nuit à l'esprit d'équipe."
+  }
+ ],
+ "write": {
+  "prompt": "Write a summary (6–8 sentences) of a radio debate you listened to (or of the phone-in dialogue above): topic, each speaker's position, one key argument each, and your own reaction.",
+  "model": "L'émission portait sur le prix de l'essence. Un auditeur de Saint-Jérôme a expliqué qu'il dépense cent dollars par semaine pour se rendre au travail. Selon lui, le gouvernement devrait baisser la taxe sur l'essence. L'animateur lui a suggéré de prendre le train de banlieue. L'auditeur a répondu que les horaires ne correspondent pas à ses besoins. À mon avis, les deux ont en partie raison : il faudrait améliorer le service de train plutôt que de baisser les taxes."
+ },
+ "quiz": [
+  {
+   "q": "'Restons sur le sujet' is said by a host to…",
+   "options": [
+    "end the show",
+    "keep the discussion on topic",
+    "change the subject",
+    "start an interview"
+   ],
+   "a": 1,
+   "why": "It redirects a wandering discussion."
+  },
+  {
+   "q": "'Tsé' stands for…",
+   "options": [
+    "tu es",
+    "tu sais",
+    "t'es sûr",
+    "c'est"
+   ],
+   "a": 1,
+   "why": "tu sais → tsé."
+  },
+  {
+   "q": "What's the best strategy for long audio?",
+   "options": [
+    "Transcribe every word",
+    "Track who thinks what and why",
+    "Only listen to the host",
+    "Stop at every unknown word"
+   ],
+   "a": 1,
+   "why": "Focus on positions and structure."
+  },
+  {
+   "q": "'Couper la parole à quelqu'un' means…",
+   "options": [
+    "to cut someone's phone line",
+    "to interrupt someone",
+    "to give someone the floor",
+    "to censor someone"
+   ],
+   "a": 1,
+   "why": "Literally to cut their speech."
+  },
+  {
+   "q": "'Chu rendu à cent piasses' means…",
+   "options": [
+    "I returned a hundred dollars",
+    "I'm up to a hundred bucks",
+    "I owe a hundred bucks",
+    "I gave up a hundred bucks"
+   ],
+   "a": 1,
+   "why": "être rendu à = to have reached (informal Quebec)."
+  },
+  {
+   "q": "Radio-Canada's main talk/news radio network is…",
+   "options": [
+    "Ici Première",
+    "Ici Musique",
+    "98.5 FM",
+    "CBC Radio One"
+   ],
+   "a": 0,
+   "why": "Ici Première is the French-language talk/news network."
+  },
+  {
+   "q": "'En fait' usually introduces…",
+   "options": [
+    "a filler only",
+    "a correction or clarification",
+    "a question",
+    "a goodbye"
+   ],
+   "a": 1,
+   "why": "en fait = actually."
+  },
+  {
+   "q": "Which phrase helps you join a discussion politely?",
+   "options": [
+    "Taisez-vous!",
+    "Juste pour compléter…",
+    "N'importe quoi!",
+    "C'est fini."
+   ],
+   "a": 1,
+   "why": "It adds to what someone said without confrontation."
+  },
+  {
+   "q": "'Une entrevue' in Quebec French is…",
+   "options": [
+    "a meeting by chance",
+    "an interview",
+    "a sneak peek",
+    "an appointment"
+   ],
+   "a": 1,
+   "why": "Quebec uses entrevue; France tends to say entretien or interview."
+  }
+ ]
+}

@@ -1,0 +1,654 @@
+{
+ "w": 119,
+ "title": "Quebec culture and history",
+ "goal": "By the end of this lesson you can talk in French about key moments of Quebec history (New France, the Quiet Revolution, Bill 101, the referendums), explain the Fête nationale, and understand the cultural references Quebecers make every day.",
+ "learn": [
+  {
+   "h": "From New France to the Conquest",
+   "body": [
+    "In 1608, Samuel de Champlain founded Quebec City, the heart of *la Nouvelle-France*. French settlers, the *colons*, farmed along the St. Lawrence River, and missionaries and fur traders travelled inland, in contact (and in conflict) with First Nations.",
+    "In 1759, the British won the battle of the Plains of Abraham (*la bataille des plaines d'Abraham*), and in 1763 France gave up New France by the Treaty of Paris. For two centuries afterwards, French-speaking Quebecers kept their language and Catholic faith largely through the Church, the family and rural life."
+   ]
+  },
+  {
+   "h": "The Quiet Revolution (1960s)",
+   "body": [
+    "Before 1960, under Premier Maurice Duplessis, the Church controlled schools and hospitals, and the English-speaking minority dominated business. Critics call this period *la Grande Noirceur* (the Great Darkness).",
+    "In 1960, Jean Lesage's Liberals were elected, and *la Révolution tranquille* began. The government created a Ministry of Education (1964), took schools and hospitals out of Church control, created the CEGEPs (1967), and nationalized private electricity companies into Hydro-Québec (1963), with the slogan *Maîtres chez nous* (Masters in our own house).",
+    "In a few years, Quebec society changed deeply: it became secular, modern, and much more confident in its French identity."
+   ],
+   "table": {
+    "head": [
+     "Year",
+     "Event"
+    ],
+    "rows": [
+     [
+      "1960",
+      "Élection de Jean Lesage, début de la Révolution tranquille"
+     ],
+     [
+      "1963",
+      "Nationalisation de l'électricité: Hydro-Québec s'agrandit"
+     ],
+     [
+      "1964",
+      "Création du ministère de l'Éducation"
+     ],
+     [
+      "1967",
+      "Expo 67 à Montréal; création des cégeps"
+     ],
+     [
+      "1976",
+      "Élection du Parti québécois de René Lévesque"
+     ],
+     [
+      "1977",
+      "Adoption de la Charte de la langue française (loi 101)"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Bill 101 and the referendums",
+   "body": [
+    "On August 26, 1977, the Parti Québécois government adopted the *Charte de la langue française*, known as *la loi 101*. It made French the official language of Quebec: the language of government, work, business and signage. It also requires most children of immigrants to attend French schools.",
+    "Quebec held two referendums on sovereignty: in 1980 (about 60% voted No) and in 1995 (the No side won with only 50.6%). The debate shaped Quebec politics for decades. In 2022, *la loi 96* strengthened the Charter again."
+   ]
+  },
+  {
+   "h": "The Fête nationale, June 24",
+   "body": [
+    "June 24 is the feast of Saint John the Baptist (*la Saint-Jean-Baptiste*), the patron saint of French Canadians. Since 1977 it has officially been *la Fête nationale du Québec*, a public holiday. Most people still call it *la Saint-Jean*.",
+    "Celebrations include outdoor concerts, bonfires (*feux de joie*), the blue-and-white flag (*le fleurdelisé*, adopted in 1948), and Gilles Vigneault's song *Gens du pays*, which Quebecers also sing for birthdays: *Mon cher (prénom), c'est à ton tour de te laisser parler d'amour.*"
+   ],
+   "tip": "June 24 = la Saint-Jean; July 1 = Canada Day, but in Quebec, mostly moving day!"
+  },
+  {
+   "h": "Je me souviens",
+   "body": [
+    "Quebec's motto, *Je me souviens* (I remember), appears on the coat of arms and on every licence plate. It reminds Quebecers of their history and identity. Its exact original meaning is debated, which makes it a great conversation topic.",
+    "For narrating history, use the passé composé for events (*Champlain a fondé Québec*), the imparfait for the context (*L'Église contrôlait les écoles*), and the passive (*La loi 101 a été adoptée en 1977*). You may also read the passé simple in history books: *Champlain fonda Québec en 1608.*"
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Samuel de Champlain a fondé la ville de Québec en 1608.",
+   "en": "Samuel de Champlain founded Quebec City in 1608.",
+   "note": "passé composé for a historical event"
+  },
+  {
+   "fr": "Les colons cultivaient la terre le long du fleuve Saint-Laurent.",
+   "en": "The settlers farmed the land along the St. Lawrence River.",
+   "note": "imparfait for a long-term situation"
+  },
+  {
+   "fr": "En 1763, la France a cédé la Nouvelle-France à la Grande-Bretagne.",
+   "en": "In 1763, France ceded New France to Great Britain.",
+   "note": "céder = to give up"
+  },
+  {
+   "fr": "Avant 1960, l'Église catholique contrôlait l'éducation et la santé.",
+   "en": "Before 1960, the Catholic Church controlled education and health care.",
+   "note": "context in the imparfait"
+  },
+  {
+   "fr": "La Révolution tranquille a profondément transformé la société québécoise.",
+   "en": "The Quiet Revolution deeply transformed Quebec society.",
+   "note": "adverb between auxiliary and participle"
+  },
+  {
+   "fr": "Le ministère de l'Éducation a été créé en 1964.",
+   "en": "The Ministry of Education was created in 1964.",
+   "note": "passive voice for history"
+  },
+  {
+   "fr": "« Maîtres chez nous » était le slogan des libéraux en 1962.",
+   "en": "'Masters in our own house' was the Liberals' slogan in 1962.",
+   "note": "the famous slogan"
+  },
+  {
+   "fr": "La loi 101 a fait du français la langue officielle du Québec.",
+   "en": "Bill 101 made French the official language of Quebec.",
+   "note": "faire de X Y = to make X into Y"
+  },
+  {
+   "fr": "Grâce à la loi 101, la plupart des enfants d'immigrants vont à l'école en français.",
+   "en": "Thanks to Bill 101, most children of immigrants go to school in French.",
+   "note": "grâce à = thanks to"
+  },
+  {
+   "fr": "Lors du référendum de 1995, le Non l'a emporté de justesse.",
+   "en": "In the 1995 referendum, the No side narrowly won.",
+   "note": "l'emporter = to win; de justesse = narrowly"
+  },
+  {
+   "fr": "La Fête nationale est célébrée le 24 juin.",
+   "en": "The Fête nationale is celebrated on June 24.",
+   "note": "passive in the present"
+  },
+  {
+   "fr": "On allume des feux de joie le soir de la Saint-Jean.",
+   "en": "People light bonfires on Saint-Jean night.",
+   "note": "feux de joie = bonfires"
+  },
+  {
+   "fr": "Le fleurdelisé est le drapeau du Québec depuis 1948.",
+   "en": "The fleurdelisé has been Quebec's flag since 1948.",
+   "note": "depuis + present"
+  },
+  {
+   "fr": "La devise du Québec, « Je me souviens », est inscrite sur les plaques d'immatriculation.",
+   "en": "Quebec's motto, 'I remember', is written on licence plates.",
+   "note": "plaque d'immatriculation = licence plate"
+  },
+  {
+   "fr": "Pour mon anniversaire, mes amis m'ont chanté « Gens du pays ».",
+   "en": "For my birthday, my friends sang me 'Gens du pays'.",
+   "note": "the Quebec birthday song"
+  },
+  {
+   "fr": "Champlain fonda Québec en 1608.",
+   "en": "Champlain founded Quebec in 1608.",
+   "note": "passé simple: you'll read it in history books"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebecers refer to their history and holidays with everyday names: la Saint-Jean, la loi 101, la Révolution tranquille, le fleurdelisé. Knowing these references helps you follow conversations, news and jokes.",
+  "items": [
+   {
+    "std": "la Fête nationale du Québec",
+    "qc": "la Saint-Jean",
+    "en": "Quebec's national holiday (June 24)",
+    "note": "the everyday name; Bonne Saint-Jean! is the usual greeting"
+   },
+   {
+    "std": "la Charte de la langue française",
+    "qc": "la loi 101",
+    "en": "the Charter of the French Language",
+    "note": "always called la loi 101 in conversation"
+   },
+   {
+    "std": "le drapeau du Québec",
+    "qc": "le fleurdelisé",
+    "en": "the Quebec flag",
+    "note": "named for its four fleurs-de-lis"
+   },
+   {
+    "std": "le 1er juillet, fête du Canada",
+    "qc": "le jour du déménagement",
+    "en": "July 1, Canada Day / moving day",
+    "note": "most leases end June 30, so thousands of people move on July 1"
+   },
+   {
+    "std": "Joyeux anniversaire!",
+    "qc": "Mon cher Marc, c'est à ton tour de te laisser parler d'amour…",
+    "en": "Happy birthday! (the song)",
+    "note": "chorus of Gens du pays, sung at Quebec birthdays"
+   },
+   {
+    "std": "les anglophones / les francophones",
+    "qc": "les anglos / les francos",
+    "en": "English speakers / French speakers",
+    "note": "informal shortenings; also les allophones for speakers of other languages"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Who founded Quebec City in 1608?",
+   "options": [
+    "Jacques Cartier",
+    "Samuel de Champlain",
+    "René Lévesque",
+    "Jean Lesage"
+   ],
+   "a": 1,
+   "why": "Champlain founded Quebec in 1608."
+  },
+  {
+   "t": "mcq",
+   "q": "What was the slogan of the Quiet Revolution?",
+   "options": [
+    "Je me souviens",
+    "Vive le Québec libre",
+    "Maîtres chez nous",
+    "Gens du pays"
+   ],
+   "a": 2,
+   "why": "Maîtres chez nous, Liberal slogan of 1962."
+  },
+  {
+   "t": "mcq",
+   "q": "Bill 101 was adopted in…",
+   "options": [
+    "1960",
+    "1967",
+    "1977",
+    "1995"
+   ],
+   "a": 2,
+   "why": "August 26, 1977."
+  },
+  {
+   "t": "mcq",
+   "q": "Avant 1960, l'Église ___ les écoles.",
+   "options": [
+    "a contrôlé",
+    "contrôlait",
+    "contrôlera",
+    "contrôle"
+   ],
+   "a": 1,
+   "why": "A long-term situation → imparfait."
+  },
+  {
+   "t": "fill",
+   "q": "Le ministère de l'Éducation a été ___ en 1964. (créer)",
+   "a": [
+    "créé"
+   ],
+   "en": "The Ministry of Education was created in 1964.",
+   "why": "Passive: a été + participle agreeing with ministère (m. sg.)."
+  },
+  {
+   "t": "fill",
+   "q": "La loi 101 a été ___ en 1977. (adopter)",
+   "a": [
+    "adoptée"
+   ],
+   "en": "Bill 101 was adopted in 1977.",
+   "why": "Agreement with la loi (f. sg.)."
+  },
+  {
+   "t": "fill",
+   "q": "On allume des feux de ___ à la Saint-Jean. (joy)",
+   "a": [
+    "joie"
+   ],
+   "en": "People light bonfires on Saint-Jean.",
+   "why": "Feu de joie = bonfire."
+  },
+  {
+   "t": "fill",
+   "q": "En 1995, le Non l'a emporté de ___. (narrowly)",
+   "a": [
+    "justesse"
+   ],
+   "en": "In 1995, the No side narrowly won.",
+   "why": "De justesse = narrowly."
+  },
+  {
+   "t": "build",
+   "en": "Quebec's motto is 'I remember'.",
+   "a": "La devise du Québec est « Je me souviens »."
+  },
+  {
+   "t": "build",
+   "en": "The Fête nationale is on June 24.",
+   "a": "La Fête nationale est le 24 juin."
+  },
+  {
+   "t": "build",
+   "en": "The Quiet Revolution began in 1960.",
+   "a": "La Révolution tranquille a commencé en 1960."
+  },
+  {
+   "t": "translate",
+   "en": "Happy Saint-Jean!",
+   "a": [
+    "Bonne Saint-Jean!",
+    "Bonne Fête nationale!",
+    "Joyeuse Saint-Jean!"
+   ],
+   "why": "Bonne Saint-Jean is the usual greeting."
+  },
+  {
+   "t": "translate",
+   "en": "French is the official language of Quebec.",
+   "a": [
+    "Le français est la langue officielle du Québec.",
+    "La langue officielle du Québec est le français."
+   ],
+   "why": "Since the loi 101 (1977)."
+  },
+  {
+   "t": "translate",
+   "en": "The Church controlled the hospitals.",
+   "a": [
+    "L'Église contrôlait les hôpitaux.",
+    "L'Église gérait les hôpitaux."
+   ],
+   "why": "Long-term situation → imparfait."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "la Nouvelle-France",
+   "en": "New France",
+   "g": "f",
+   "ex": "La Nouvelle-France a existé de 1534 à 1763."
+  },
+  {
+   "fr": "le colon",
+   "en": "settler, colonist",
+   "g": "m",
+   "ex": "Les colons venaient surtout de l'ouest de la France."
+  },
+  {
+   "fr": "la Conquête",
+   "en": "the (British) Conquest",
+   "g": "f",
+   "ex": "Après la Conquête, le Québec est devenu britannique."
+  },
+  {
+   "fr": "la Révolution tranquille",
+   "en": "the Quiet Revolution",
+   "g": "f",
+   "ex": "La Révolution tranquille a modernisé le Québec."
+  },
+  {
+   "fr": "la Grande Noirceur",
+   "en": "the Great Darkness (Duplessis era)",
+   "g": "f",
+   "ex": "On associe la Grande Noirceur à Duplessis."
+  },
+  {
+   "fr": "la loi",
+   "en": "law, bill (act)",
+   "g": "f",
+   "ex": "La loi 101 protège le français."
+  },
+  {
+   "fr": "le référendum",
+   "en": "referendum",
+   "g": "m",
+   "ex": "Le référendum de 1995 a été très serré."
+  },
+  {
+   "fr": "la souveraineté",
+   "en": "sovereignty",
+   "g": "f",
+   "ex": "Le débat sur la souveraineté continue."
+  },
+  {
+   "fr": "la Fête nationale",
+   "en": "Quebec's national holiday",
+   "g": "f",
+   "ex": "La Fête nationale a lieu le 24 juin."
+  },
+  {
+   "fr": "le fleurdelisé",
+   "en": "the Quebec flag",
+   "g": "m",
+   "ex": "Le fleurdelisé flotte sur le parlement.",
+   "qc": true
+  },
+  {
+   "fr": "la devise",
+   "en": "motto; currency",
+   "g": "f",
+   "ex": "Notre devise, c'est « Je me souviens »."
+  },
+  {
+   "fr": "le feu de joie",
+   "en": "bonfire",
+   "g": "m",
+   "ex": "On a fait un feu de joie au parc."
+  },
+  {
+   "fr": "fonder",
+   "en": "to found",
+   "ex": "Montréal a été fondée en 1642."
+  },
+  {
+   "fr": "l'emporter",
+   "en": "to win, to prevail",
+   "ex": "Le Non l'a emporté."
+  },
+  {
+   "fr": "le cégep",
+   "en": "Quebec college (between high school and university)",
+   "g": "m",
+   "ex": "J'ai étudié au cégep de Sherbrooke.",
+   "qc": true
+  },
+  {
+   "fr": "l'allophone",
+   "en": "person whose first language is neither French nor English",
+   "ex": "Montréal compte beaucoup d'allophones.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "la Révolution tranquille",
+    "tip": "ré-vo-lu-SYON tran-KEEL: in tranquille the ll is an 'l', not a 'y' as in fille."
+   },
+   {
+    "fr": "le fleurdelisé",
+    "tip": "fleur-duh-li-ZÉ."
+   },
+   {
+    "fr": "Je me souviens",
+    "tip": "zhuh muh soo-VYIN."
+   },
+   {
+    "fr": "la Saint-Jean-Baptiste",
+    "tip": "sin-zhan ba-TEEST: the p is silent."
+   },
+   {
+    "fr": "la souveraineté",
+    "tip": "soo-vrèn-TÉ: the e after v often drops."
+   },
+   {
+    "fr": "le cégep",
+    "tip": "sé-ZHÈP: stress on the last syllable."
+   }
+  ],
+  "title": "Le 24 juin",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Qu'est-ce que tu fais pour la Saint-Jean?",
+    "en": "What are you doing for Saint-Jean?"
+   },
+   {
+    "s": "B",
+    "fr": "Je ne sais pas encore. C'est ma première au Québec. C'est quoi, exactement?",
+    "en": "I don't know yet. It's my first one in Quebec. What is it exactly?"
+   },
+   {
+    "s": "A",
+    "fr": "C'est la Fête nationale du Québec. Il y a des spectacles partout, des feux de joie, et tout le monde sort le fleurdelisé.",
+    "en": "It's Quebec's national holiday. There are shows everywhere, bonfires, and everyone brings out the fleurdelisé."
+   },
+   {
+    "s": "B",
+    "fr": "Et pourquoi le 24 juin?",
+    "en": "And why June 24?"
+   },
+   {
+    "s": "A",
+    "fr": "C'est la fête de saint Jean-Baptiste, le patron des Canadiens français. Depuis 1977, c'est officiellement la Fête nationale.",
+    "en": "It's the feast of Saint John the Baptist, patron of French Canadians. Since 1977, it's officially the Fête nationale."
+   },
+   {
+    "s": "B",
+    "fr": "1977… comme la loi 101?",
+    "en": "1977… like Bill 101?"
+   },
+   {
+    "s": "A",
+    "fr": "Exactement! C'était le gouvernement de René Lévesque. Viens avec nous au parc Maisonneuve, il y a un gros show.",
+    "en": "Exactly! It was René Lévesque's government. Come with us to Maisonneuve Park, there's a big show."
+   },
+   {
+    "s": "B",
+    "fr": "Avec plaisir! Pis le 1er juillet, on fête aussi?",
+    "en": "With pleasure! And July 1, do we celebrate too?"
+   },
+   {
+    "s": "A",
+    "fr": "Le 1er juillet, ici, la moitié de la ville déménage! Tu vas voir des camions partout.",
+    "en": "On July 1 here, half the city moves! You'll see trucks everywhere."
+   }
+  ],
+  "questions": [
+   {
+    "q": "Why is June 24 celebrated?",
+    "options": [
+     "It's the anniversary of Bill 101",
+     "It's the feast of Saint John the Baptist, patron of French Canadians",
+     "It's the founding of Montreal"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Since when has it officially been the Fête nationale?",
+    "options": [
+     "1948",
+     "1960",
+     "1977"
+    ],
+    "a": 2
+   },
+   {
+    "q": "What happens on July 1 in Quebec, according to A?",
+    "options": [
+     "Big fireworks",
+     "Many people move",
+     "Everything is closed"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Explain the Quiet Revolution in four sentences (context in the imparfait, changes in the passé composé).",
+   "model": "Avant 1960, l'Église contrôlait les écoles et les hôpitaux. En 1960, Jean Lesage a été élu. Son gouvernement a créé le ministère de l'Éducation et a nationalisé l'électricité. La société québécoise est devenue plus moderne et plus laïque."
+  },
+  {
+   "prompt": "Explain to a newcomer what la loi 101 does.",
+   "model": "La loi 101 fait du français la langue officielle du Québec. Elle protège le français au travail, dans l'affichage et à l'école : la plupart des enfants d'immigrants vont à l'école en français."
+  },
+  {
+   "prompt": "Describe how people celebrate the Saint-Jean.",
+   "model": "Le 24 juin, il y a des spectacles dans tous les parcs. Les gens font des feux de joie, mangent avec des amis et chantent « Gens du pays ». On voit des drapeaux bleus et blancs partout."
+  },
+  {
+   "prompt": "What does 'Je me souviens' mean to you? Give a personal answer in two or three sentences.",
+   "model": "Pour moi, « Je me souviens », c'est se rappeler que le français a survécu ici malgré tout. Comme nouvel arrivant, ça m'aide à comprendre pourquoi la langue est si importante pour les Québécois."
+  }
+ ],
+ "write": {
+  "prompt": "Write a short text (8–10 sentences) titled 'Trois moments qui ont façonné le Québec'. Choose three events, give dates, and use the passé composé, the imparfait and the passive voice.",
+  "model": "Le premier moment, c'est la fondation de Québec par Samuel de Champlain en 1608. À cette époque, la Nouvelle-France comptait seulement quelques centaines de colons. Le deuxième moment, c'est la Révolution tranquille. Avant 1960, l'Église contrôlait l'éducation, mais le gouvernement de Jean Lesage a tout changé : le ministère de l'Éducation a été créé et l'électricité a été nationalisée. Le troisième moment, c'est l'adoption de la loi 101 en 1977. Grâce à cette loi, le français est devenu la langue normale du travail et de l'affichage. Ces trois événements expliquent pourquoi les Québécois sont si attachés à leur langue. Comme le dit la devise : « Je me souviens »."
+ },
+ "quiz": [
+  {
+   "q": "What does 'la Grande Noirceur' refer to?",
+   "options": [
+    "The 1998 ice storm blackout",
+    "The Duplessis era before 1960",
+    "The winter solstice",
+    "The Conquest of 1759"
+   ],
+   "a": 1,
+   "why": "Critics' name for the Duplessis years."
+  },
+  {
+   "q": "Which of these was a Quiet Revolution reform?",
+   "options": [
+    "The founding of Quebec City",
+    "Creating the Ministry of Education",
+    "The 1995 referendum",
+    "The Treaty of Paris"
+   ],
+   "a": 1,
+   "why": "1964."
+  },
+  {
+   "q": "What does la loi 101 require for most children of immigrants?",
+   "options": [
+    "Bilingual schooling",
+    "Attending French schools",
+    "Learning Latin",
+    "Private schooling"
+   ],
+   "a": 1,
+   "why": "French-language schooling, with some exceptions."
+  },
+  {
+   "q": "What was the result of the 1995 referendum?",
+   "options": [
+    "Yes won easily",
+    "No won narrowly",
+    "No won with 80%",
+    "It was cancelled"
+   ],
+   "a": 1,
+   "why": "About 50.6% No."
+  },
+  {
+   "q": "'Le fleurdelisé' is…",
+   "options": [
+    "a flower festival",
+    "the Quebec flag",
+    "a pastry",
+    "a song"
+   ],
+   "a": 1,
+   "why": "Blue and white with four fleurs-de-lis, adopted in 1948."
+  },
+  {
+   "q": "Which tense is used for the background in a history text? 'Les colons ___ la terre.'",
+   "options": [
+    "ont cultivé",
+    "cultivaient",
+    "cultiveront",
+    "cultiveraient"
+   ],
+   "a": 1,
+   "why": "Ongoing situation → imparfait."
+  },
+  {
+   "q": "What is 'Gens du pays' used for in Quebec?",
+   "options": [
+    "The national anthem of Canada",
+    "Birthday celebrations and the Fête nationale",
+    "Hockey games only",
+    "Christmas"
+   ],
+   "a": 1,
+   "why": "Gilles Vigneault's song, also the birthday song."
+  },
+  {
+   "q": "'Champlain fonda Québec' — fonda is…",
+   "options": [
+    "imparfait",
+    "passé simple",
+    "futur",
+    "a typo"
+   ],
+   "a": 1,
+   "why": "Passé simple, used in written history."
+  },
+  {
+   "q": "What does 'Maîtres chez nous' mean?",
+   "options": [
+    "Teachers at home",
+    "Masters in our own house",
+    "Our masters are home",
+    "Master of the house"
+   ],
+   "a": 1,
+   "why": "The 1962 Liberal slogan about economic control."
+  }
+ ]
+}

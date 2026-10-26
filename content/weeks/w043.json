@@ -1,0 +1,684 @@
+{
+ "w": 43,
+ "title": "Storytelling with mixed past tenses",
+ "goal": "By the end of this lesson you can tell a short story in the past, using the imparfait for the background and the passé composé for the events, linked with time connectors.",
+ "learn": [
+  {
+   "h": "Two tenses, two jobs",
+   "body": [
+    "A story in the past is built like a film. The *imparfait* paints the scene: the weather, the time, how people felt, what was going on. The *passé composé* moves the plot forward: one event, then the next.",
+    "*Il faisait froid et j'étais fatigué.* (scene) *Tout à coup, le téléphone a sonné.* (event)"
+   ],
+   "table": {
+    "head": [
+     "Imparfait (background)",
+     "Passé composé (events)"
+    ],
+    "rows": [
+     [
+      "Il pleuvait.",
+      "Je suis sorti."
+     ],
+     [
+      "J'avais faim.",
+      "J'ai mangé une poutine."
+     ],
+     [
+      "Elle dormait.",
+      "Le chien a jappé."
+     ],
+     [
+      "Il était minuit.",
+      "Quelqu'un a frappé à la porte."
+     ]
+    ]
+   },
+   "tip": "Ask yourself: is it the set (imparfait) or the action on the set (passé composé)?"
+  },
+  {
+   "h": "Opening a story",
+   "body": [
+    "Stories usually start in the *imparfait*, to set the scene: *C'était un samedi soir. Il neigeait. J'étais chez moi avec mon chum.*",
+    "Useful openers: *Un jour…* (one day), *L'hiver dernier…* (last winter), *Quand j'étais petit…* (when I was little), *Il y a deux ans…* (two years ago)."
+   ]
+  },
+  {
+   "h": "Moving the plot: time connectors",
+   "body": [
+    "These words push the story forward and are almost always followed by the *passé composé*.",
+    "*Pendant que* (while) usually introduces a background action in the *imparfait*: *Pendant que je dormais, le chat a mangé mon sandwich.*"
+   ],
+   "table": {
+    "head": [
+     "Connector",
+     "Meaning",
+     "Example"
+    ],
+    "rows": [
+     [
+      "d'abord",
+      "first",
+      "D'abord, je suis allé au dépanneur."
+     ],
+     [
+      "ensuite / puis",
+      "then, next",
+      "Ensuite, j'ai pris l'autobus."
+     ],
+     [
+      "tout à coup / soudain",
+      "suddenly",
+      "Tout à coup, la lumière s'est éteinte."
+     ],
+     [
+      "à ce moment-là",
+      "at that moment",
+      "À ce moment-là, j'ai compris."
+     ],
+     [
+      "finalement / enfin",
+      "finally",
+      "Finalement, on est rentrés."
+     ],
+     [
+      "pendant que",
+      "while",
+      "Pendant que je cuisinais, il a appelé."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Interrupted actions",
+   "body": [
+    "The classic pattern: something was going on (*imparfait*) when something happened (*passé composé*). The word *quand* links them.",
+    "*Je regardais la télé quand mon frère est arrivé.* I was watching TV when my brother arrived.",
+    "*J'étais en train de manger quand tu as appelé.* *Être en train de* + infinitive stresses 'right in the middle of'."
+   ]
+  },
+  {
+   "h": "Ending a story",
+   "body": [
+    "Close with the result (*passé composé*) and a comment, often in the *imparfait* or present: *Finalement, on a ri. C'était vraiment drôle!*",
+    "Handy closers: *C'était incroyable* (it was incredible), *Quelle soirée!* (what an evening!), *C'était une belle journée* (it was a beautiful day), *On a eu de la chance* (we were lucky)."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "C'était un dimanche matin et il faisait beau.",
+   "en": "It was a Sunday morning and the weather was nice.",
+   "note": "scene-setting: imparfait"
+  },
+  {
+   "fr": "Je dormais quand le téléphone a sonné.",
+   "en": "I was sleeping when the phone rang.",
+   "note": "interrupted action: imparfait + quand + passé composé"
+  },
+  {
+   "fr": "D'abord, j'ai pris un café.",
+   "en": "First, I had a coffee.",
+   "note": "connector + passé composé"
+  },
+  {
+   "fr": "Ensuite, je suis allé au parc avec mon chien.",
+   "en": "Then I went to the park with my dog.",
+   "note": "aller takes être"
+  },
+  {
+   "fr": "Il y avait beaucoup de monde.",
+   "en": "There were a lot of people.",
+   "note": "il y avait = background description"
+  },
+  {
+   "fr": "Tout à coup, mon chien est parti en courant.",
+   "en": "Suddenly, my dog ran off.",
+   "note": "tout à coup signals a sudden event"
+  },
+  {
+   "fr": "Pendant que je le cherchais, il a commencé à pleuvoir.",
+   "en": "While I was looking for him, it started to rain.",
+   "note": "pendant que + imparfait"
+  },
+  {
+   "fr": "J'avais froid et j'étais inquiet.",
+   "en": "I was cold and I was worried.",
+   "note": "feelings and states: imparfait"
+  },
+  {
+   "fr": "À ce moment-là, une petite fille m'a appelé.",
+   "en": "At that moment, a little girl called out to me.",
+   "note": "a single event"
+  },
+  {
+   "fr": "Elle tenait mon chien dans ses bras.",
+   "en": "She was holding my dog in her arms.",
+   "note": "description of what was going on"
+  },
+  {
+   "fr": "Finalement, on est rentrés à la maison.",
+   "en": "Finally, we went back home.",
+   "note": "on = nous; agreement rentrés is common in writing"
+  },
+  {
+   "fr": "C'était une drôle de journée!",
+   "en": "It was a funny day!",
+   "note": "closing comment in the imparfait"
+  },
+  {
+   "fr": "Quand j'étais petit, on allait au chalet chaque été.",
+   "en": "When I was little, we used to go to the cottage every summer.",
+   "note": "habit in the past: imparfait"
+  },
+  {
+   "fr": "Un été, on a vu un orignal près du lac.",
+   "en": "One summer, we saw a moose near the lake.",
+   "note": "un été = one specific time: passé composé"
+  },
+  {
+   "fr": "J'étais en train de cuisiner quand tu es arrivée.",
+   "en": "I was in the middle of cooking when you arrived.",
+   "note": "être en train de in the imparfait"
+  },
+  {
+   "fr": "Soudain, toutes les lumières se sont éteintes.",
+   "en": "Suddenly, all the lights went out.",
+   "note": "reflexive verb in the passé composé takes être"
+  }
+ ],
+ "quebec": {
+  "intro": "This lesson's listening is a Quebec anecdote. When Quebecers tell a story, the grammar is the same, but the glue words change: 'pis là', 'faque', 'toute' and contracted forms like 'j'tais' and 'y'avait' come up in every sentence.",
+  "items": [
+   {
+    "std": "Et puis, il est arrivé.",
+    "qc": "Pis là, y'est arrivé.",
+    "en": "And then he showed up.",
+    "note": "'pis là' (and then) is the number-one storytelling connector; informal"
+   },
+   {
+    "std": "Alors je suis parti.",
+    "qc": "Faque chu parti.",
+    "en": "So I left.",
+    "note": "faque = ça fait que (so); chu = je suis; informal"
+   },
+   {
+    "std": "J'étais tellement fatigué.",
+    "qc": "J'tais tellement fatigué.",
+    "en": "I was so tired.",
+    "note": "j'étais shortened in fast speech"
+   },
+   {
+    "std": "Il y avait du monde partout.",
+    "qc": "Y'avait du monde partout.",
+    "en": "There were people everywhere.",
+    "note": "y'avait = il y avait; 'du monde' = people"
+   },
+   {
+    "std": "Tout d'un coup, elle m'a dit…",
+    "qc": "Toute d'un coup, a m'a dit…",
+    "en": "All of a sudden, she told me…",
+    "note": "toute for tout, a for elle; informal"
+   },
+   {
+    "std": "C'était vraiment drôle.",
+    "qc": "C'tait ben drôle.",
+    "en": "It was really funny.",
+    "note": "ben = bien (really); informal"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Which tense sets the scene in a story?",
+   "options": [
+    "passé composé",
+    "imparfait",
+    "futur proche",
+    "présent"
+   ],
+   "a": 1,
+   "why": "The imparfait describes the background: weather, time, feelings, ongoing actions."
+  },
+  {
+   "t": "mcq",
+   "q": "Je lisais ___ mon amie est arrivée.",
+   "options": [
+    "pendant",
+    "quand",
+    "d'abord",
+    "puis"
+   ],
+   "a": 1,
+   "why": "Quand links the ongoing action (lisais) to the interrupting event (est arrivée)."
+  },
+  {
+   "t": "mcq",
+   "q": "Which connector usually introduces a background action in the imparfait?",
+   "options": [
+    "tout à coup",
+    "ensuite",
+    "pendant que",
+    "finalement"
+   ],
+   "a": 2,
+   "why": "Pendant que + imparfait: pendant que je dormais…"
+  },
+  {
+   "t": "mcq",
+   "q": "Choose the correct form: 'Tout à coup, la porte ___.'",
+   "options": [
+    "s'ouvrait",
+    "s'est ouverte",
+    "s'ouvre",
+    "ouvrait"
+   ],
+   "a": 1,
+   "why": "Tout à coup announces a single sudden event: passé composé."
+  },
+  {
+   "t": "fill",
+   "q": "Il ___ très froid ce soir-là. (faire)",
+   "a": [
+    "faisait"
+   ],
+   "en": "It was very cold that evening.",
+   "why": "Weather is background: imparfait."
+  },
+  {
+   "t": "fill",
+   "q": "Je dormais quand le chien ___ jappé. (avoir)",
+   "a": [
+    "a"
+   ],
+   "en": "I was sleeping when the dog barked.",
+   "why": "The interrupting event is in the passé composé: a jappé."
+  },
+  {
+   "t": "fill",
+   "q": "Quand j'___ petit, j'habitais à Québec. (être)",
+   "a": [
+    "étais"
+   ],
+   "en": "When I was little, I lived in Quebec City.",
+   "why": "Age and childhood states: imparfait."
+  },
+  {
+   "t": "fill",
+   "q": "Finalement, nous ___ rentrés à minuit. (être)",
+   "a": [
+    "sommes"
+   ],
+   "en": "Finally, we came home at midnight.",
+   "why": "Rentrer takes être in the passé composé."
+  },
+  {
+   "t": "build",
+   "en": "It was raining when I left.",
+   "a": "Il pleuvait quand je suis parti."
+  },
+  {
+   "t": "build",
+   "en": "Suddenly, the lights went out.",
+   "a": "Tout à coup, les lumières se sont éteintes."
+  },
+  {
+   "t": "build",
+   "en": "First, I had a coffee.",
+   "a": "D'abord, j'ai pris un café."
+  },
+  {
+   "t": "translate",
+   "en": "I was watching TV when you called.",
+   "a": [
+    "Je regardais la télé quand tu as appelé.",
+    "Je regardais la télé quand vous avez appelé.",
+    "Je regardais la télévision quand tu as appelé.",
+    "Je regardais la télévision quand vous avez appelé."
+   ],
+   "why": "Ongoing action (imparfait) interrupted by an event (passé composé)."
+  },
+  {
+   "t": "translate",
+   "en": "There were a lot of people.",
+   "a": [
+    "Il y avait beaucoup de monde.",
+    "Il y avait beaucoup de gens."
+   ],
+   "why": "Il y avait describes the scene."
+  },
+  {
+   "t": "translate",
+   "en": "Then we went home.",
+   "a": [
+    "Ensuite, nous sommes rentrés à la maison.",
+    "Ensuite, on est rentrés à la maison.",
+    "Puis nous sommes rentrés à la maison.",
+    "Puis on est rentrés à la maison.",
+    "Ensuite, on est rentré à la maison.",
+    "Ensuite, nous sommes rentrés chez nous.",
+    "Ensuite, on est rentrés chez nous.",
+    "Ensuite, nous sommes rentrées à la maison.",
+    "Ensuite, on est rentrées à la maison."
+   ],
+   "why": "A step in the story: connector + passé composé."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "d'abord",
+   "en": "first, at first",
+   "ex": "D'abord, j'ai mangé."
+  },
+  {
+   "fr": "ensuite",
+   "en": "then, next",
+   "ex": "Ensuite, on est sortis."
+  },
+  {
+   "fr": "puis",
+   "en": "then",
+   "ex": "Puis il est parti."
+  },
+  {
+   "fr": "tout à coup",
+   "en": "suddenly",
+   "ex": "Tout à coup, il a crié."
+  },
+  {
+   "fr": "soudain",
+   "en": "suddenly",
+   "ex": "Soudain, le chat a sauté."
+  },
+  {
+   "fr": "à ce moment-là",
+   "en": "at that moment",
+   "ex": "À ce moment-là, j'ai compris."
+  },
+  {
+   "fr": "pendant que",
+   "en": "while",
+   "ex": "Pendant que je lisais, il dormait."
+  },
+  {
+   "fr": "finalement",
+   "en": "finally, in the end",
+   "ex": "Finalement, tout a bien fini."
+  },
+  {
+   "fr": "un jour",
+   "en": "one day",
+   "ex": "Un jour, j'ai vu un orignal."
+  },
+  {
+   "fr": "l'histoire",
+   "en": "story, history",
+   "g": "f",
+   "ex": "C'est une drôle d'histoire."
+  },
+  {
+   "fr": "l'anecdote",
+   "en": "anecdote, little story",
+   "g": "f",
+   "ex": "Je vais te raconter une anecdote."
+  },
+  {
+   "fr": "raconter",
+   "en": "to tell (a story)",
+   "ex": "Raconte-moi ta fin de semaine."
+  },
+  {
+   "fr": "être en train de",
+   "en": "to be in the middle of (doing)",
+   "ex": "J'étais en train de cuisiner."
+  },
+  {
+   "fr": "pis là",
+   "en": "and then (spoken)",
+   "ex": "Pis là, y'est arrivé.",
+   "qc": true
+  },
+  {
+   "fr": "faque",
+   "en": "so (from ça fait que)",
+   "ex": "Faque on est partis.",
+   "qc": true
+  },
+  {
+   "fr": "le chalet",
+   "en": "cottage, cabin",
+   "g": "m",
+   "ex": "On allait au chalet chaque été.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "j'étais / j'ai été",
+    "tip": "Imparfait [jé-té] vs passé composé [jé é-té]: listen for the extra syllable."
+   },
+   {
+    "fr": "je mangeais / j'ai mangé",
+    "tip": "In Quebec, -ais sounds more open [è] and é is closed [é]; the 'j'ai' is the real clue."
+   },
+   {
+    "fr": "tout à coup",
+    "tip": "Liaison in [t]: tou-ta-KOU."
+   },
+   {
+    "fr": "pendant que",
+    "tip": "Two nasal 'an' sounds: pahn-dahn kuh."
+   },
+   {
+    "fr": "pis là",
+    "tip": "Quebec: [pi la], said quickly, almost one word."
+   },
+   {
+    "fr": "faque",
+    "tip": "Quebec: [fak], one syllable, from ça fait que."
+   }
+  ],
+  "title": "L'histoire du chien perdu",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Pis, ta fin de semaine?",
+    "en": "So, how was your weekend?"
+   },
+   {
+    "s": "B",
+    "fr": "Ah, laisse-moi te raconter! Samedi, il faisait beau, faque je suis allé au parc avec Biscuit.",
+    "en": "Oh, let me tell you! Saturday the weather was nice, so I went to the park with Biscuit."
+   },
+   {
+    "s": "A",
+    "fr": "Ton chien?",
+    "en": "Your dog?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui. Y'avait plein de monde. Pis là, tout d'un coup, il a vu un écureuil et il est parti en courant!",
+    "en": "Yes. There were tons of people. And then all of a sudden, he saw a squirrel and ran off!"
+   },
+   {
+    "s": "A",
+    "fr": "Non! Qu'est-ce que t'as fait?",
+    "en": "No! What did you do?"
+   },
+   {
+    "s": "B",
+    "fr": "Je l'ai cherché pendant une heure. J'tais vraiment inquiet, pis il commençait à pleuvoir.",
+    "en": "I looked for him for an hour. I was really worried, and it was starting to rain."
+   },
+   {
+    "s": "A",
+    "fr": "Pis? Tu l'as trouvé?",
+    "en": "And? Did you find him?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui! Une petite fille l'avait dans ses bras près du chalet des patineurs.",
+    "en": "Yes! A little girl had him in her arms near the skaters' chalet."
+   },
+   {
+    "s": "A",
+    "fr": "Ouf! Une chance!",
+    "en": "Phew! Lucky!"
+   },
+   {
+    "s": "B",
+    "fr": "Faque on est rentrés, mouillés mais contents. C'tait toute une journée!",
+    "en": "So we went home, wet but happy. What a day!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Why did the dog run away?",
+    "options": [
+     "He was scared of the rain",
+     "He saw a squirrel",
+     "He followed a little girl"
+    ],
+    "a": 1
+   },
+   {
+    "q": "How long did B look for the dog?",
+    "options": [
+     "Ten minutes",
+     "An hour",
+     "All afternoon"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What was the weather like at the end?",
+    "options": [
+     "Sunny",
+     "Snowing",
+     "Raining"
+    ],
+    "a": 2
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Set the scene of a memory in 3 sentences, using only the imparfait (time, weather, how you felt).",
+   "model": "C'était un samedi soir. Il neigeait beaucoup. J'étais à la maison et j'étais un peu fatigué."
+  },
+  {
+   "prompt": "Continue the story with 3 events using d'abord, ensuite and tout à coup.",
+   "model": "D'abord, j'ai fait du chocolat chaud. Ensuite, j'ai regardé un film. Tout à coup, quelqu'un a frappé à la porte."
+  },
+  {
+   "prompt": "Tell the same ending twice: once in standard French, once in casual Quebec style.",
+   "model": "Et puis, mon ami est entré. Alors on a ri. / Pis là, mon chum est rentré. Faque on a ri."
+  }
+ ],
+ "write": {
+  "prompt": "Write a 6–8 sentence anecdote about something surprising that happened to you. Start with the scene (imparfait), give at least three events (passé composé) with connectors, and end with a comment.",
+  "model": "L'hiver dernier, j'étais à Montréal chez une amie. Il faisait très froid et il neigeait. D'abord, on a mangé une poutine. Ensuite, on a pris le métro pour aller au centre-ville. Pendant qu'on marchait sur la rue Sainte-Catherine, un homme nous a arrêtées. C'était un vieil ami du secondaire! Finalement, on a passé la soirée ensemble. C'était une belle surprise."
+ },
+ "quiz": [
+  {
+   "q": "Which sentence describes the background?",
+   "options": [
+    "Il a neigé.",
+    "Il neigeait.",
+    "Il va neiger.",
+    "Il est sorti."
+   ],
+   "a": 1,
+   "why": "Weather as a backdrop is in the imparfait."
+  },
+  {
+   "q": "'Je cuisinais quand Marc ___.'",
+   "options": [
+    "arrivait",
+    "est arrivé",
+    "arrive",
+    "était arrivé"
+   ],
+   "a": 1,
+   "why": "The arrival interrupts the cooking: passé composé."
+  },
+  {
+   "q": "Which connector means 'at that moment'?",
+   "options": [
+    "à ce moment-là",
+    "d'abord",
+    "pendant que",
+    "un jour"
+   ],
+   "a": 0,
+   "why": "À ce moment-là = at that moment."
+  },
+  {
+   "q": "'Quand j'étais petit, je ___ au hockey tous les samedis.'",
+   "options": [
+    "ai joué",
+    "jouais",
+    "joue",
+    "suis joué"
+   ],
+   "a": 1,
+   "why": "A repeated habit in the past (tous les samedis): imparfait."
+  },
+  {
+   "q": "'Un samedi, je ___ au hockey avec Wayne.'",
+   "options": [
+    "jouais",
+    "ai joué",
+    "joue",
+    "jouerais"
+   ],
+   "a": 1,
+   "why": "Un samedi = one specific time: passé composé."
+  },
+  {
+   "q": "In a Quebec story, 'faque' means…",
+   "options": [
+    "fake",
+    "so",
+    "but",
+    "because"
+   ],
+   "a": 1,
+   "why": "Faque comes from ça fait que: so, therefore."
+  },
+  {
+   "q": "What does 'pis là' usually mean in a Quebec anecdote?",
+   "options": [
+    "and then",
+    "over there",
+    "maybe",
+    "worse"
+   ],
+   "a": 0,
+   "why": "Pis (puis) + là: and then."
+  },
+  {
+   "q": "Which sentence is correct?",
+   "options": [
+    "Pendant que je dormais, le chat a mangé mon sandwich.",
+    "Pendant que j'ai dormi, le chat mangeait mon sandwich.",
+    "Pendant que je dors, le chat a mangé mon sandwich.",
+    "Pendant que j'ai dormi, le chat a mangé mon sandwich."
+   ],
+   "a": 0,
+   "why": "Background (imparfait) after pendant que, event (passé composé) in the main clause."
+  },
+  {
+   "q": "'J'étais en train de manger' means…",
+   "options": [
+    "I was on the train eating",
+    "I was in the middle of eating",
+    "I had just eaten",
+    "I was going to eat"
+   ],
+   "a": 1,
+   "why": "Être en train de + infinitive = to be busy doing."
+  }
+ ]
+}

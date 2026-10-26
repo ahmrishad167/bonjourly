@@ -1,0 +1,696 @@
+{
+ "w": 30,
+ "title": "Reflexive verbs and daily routine",
+ "goal": "By the end of this lesson you can describe your daily routine with reflexive verbs (se lever, s'habiller, se coucher…), place the reflexive pronoun correctly in negatives and the futur proche, and recognise Quebec verbs like se grouiller.",
+ "learn": [
+  {
+   "h": "What is a reflexive verb?",
+   "body": [
+    "A reflexive verb has an extra pronoun that refers back to the subject: the action is done to yourself. *Je lave la voiture* (I wash the car) vs *Je me lave* (I wash myself / I get washed).",
+    "In the dictionary, they appear with *se*: *se lever* (to get up), *se laver* (to wash), *s'habiller* (to get dressed). You already know one: *Je m'appelle…* (literally 'I call myself')."
+   ],
+   "table": {
+    "head": [
+     "Pronoun",
+     "Reflexive",
+     "se lever",
+     "s'habiller"
+    ],
+    "rows": [
+     [
+      "je",
+      "me / m'",
+      "je me lève",
+      "je m'habille"
+     ],
+     [
+      "tu",
+      "te / t'",
+      "tu te lèves",
+      "tu t'habilles"
+     ],
+     [
+      "il / elle / on",
+      "se / s'",
+      "il se lève",
+      "elle s'habille"
+     ],
+     [
+      "nous",
+      "nous",
+      "nous nous levons",
+      "nous nous habillons"
+     ],
+     [
+      "vous",
+      "vous",
+      "vous vous levez",
+      "vous vous habillez"
+     ],
+     [
+      "ils / elles",
+      "se / s'",
+      "ils se lèvent",
+      "elles s'habillent"
+     ]
+    ]
+   },
+   "tip": "me, te, se become m', t', s' before a vowel or silent h."
+  },
+  {
+   "h": "The daily routine verbs",
+   "body": [
+    "Most of these are regular -er verbs: just add the pronoun. Watch *se lever*: it takes a grave accent when the ending is silent (*je me lève*, *ils se lèvent*) but not in *nous nous levons*, *vous vous levez*.",
+    "With body parts, French uses *le / la / les*, not 'my': *Je me brosse les dents.* (I brush my teeth.) *Elle se lave les mains.*"
+   ],
+   "table": {
+    "head": [
+     "Verb",
+     "Meaning"
+    ],
+    "rows": [
+     [
+      "se réveiller",
+      "to wake up"
+     ],
+     [
+      "se lever",
+      "to get up"
+     ],
+     [
+      "se laver / se doucher",
+      "to wash / to shower"
+     ],
+     [
+      "se brosser les dents",
+      "to brush one's teeth"
+     ],
+     [
+      "s'habiller",
+      "to get dressed"
+     ],
+     [
+      "se préparer",
+      "to get ready"
+     ],
+     [
+      "se dépêcher",
+      "to hurry"
+     ],
+     [
+      "se reposer",
+      "to rest"
+     ],
+     [
+      "se coucher",
+      "to go to bed"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Negatives, questions and the futur proche",
+   "body": [
+    "In the negative, *ne* goes before the reflexive pronoun and *pas* after the verb: *Je ne me lève pas tôt.* *Il ne se rase pas.*",
+    "In the futur proche, the pronoun goes before the infinitive and matches the subject: *Je vais me coucher.* *Tu vas te lever?* *On va se reposer.*",
+    "Questions: *Tu te lèves à quelle heure?* *Est-ce que vous vous couchez tard?* *À quelle heure est-ce qu'il se lève?*"
+   ],
+   "table": {
+    "head": [
+     "Form",
+     "Example"
+    ],
+    "rows": [
+     [
+      "Affirmative",
+      "Je me couche à onze heures."
+     ],
+     [
+      "Negative",
+      "Je ne me couche pas tard."
+     ],
+     [
+      "Futur proche",
+      "Je vais me coucher."
+     ],
+     [
+      "Futur proche negative",
+      "Je ne vais pas me coucher."
+     ],
+     [
+      "Question",
+      "Tu te couches à quelle heure?"
+     ]
+    ]
+   },
+   "tip": "The pronoun sticks to the verb it belongs to: vais + me coucher."
+  },
+  {
+   "h": "Quebec: se grouiller and friends",
+   "body": [
+    "*Se grouiller* means to hurry up, to get moving: *Grouille-toi, on est en retard!* It's informal and very common in Quebec (France knows it too, as familiar slang). The neutral word is *se dépêcher*.",
+    "In speech, the pronouns lose their vowel: *j'me lève*, *tu t'couches*, *on s'habille*. Also listen for *se garrocher* (to rush, to throw yourself at something) and *de bonne heure* for 'early'."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Je me réveille à six heures.",
+   "en": "I wake up at six."
+  },
+  {
+   "fr": "Je me lève tout de suite.",
+   "en": "I get up right away."
+  },
+  {
+   "fr": "Tu te douches le matin ou le soir?",
+   "en": "Do you shower in the morning or at night?"
+  },
+  {
+   "fr": "Il se rase tous les jours.",
+   "en": "He shaves every day."
+  },
+  {
+   "fr": "Elle s'habille vite.",
+   "en": "She gets dressed quickly.",
+   "note": "s' before a vowel"
+  },
+  {
+   "fr": "On se brosse les dents après le déjeuner.",
+   "en": "We brush our teeth after breakfast.",
+   "note": "les dents, not nos dents; déjeuner = breakfast in Quebec"
+  },
+  {
+   "fr": "Nous nous préparons pour le travail.",
+   "en": "We're getting ready for work."
+  },
+  {
+   "fr": "Vous vous couchez tard?",
+   "en": "Do you go to bed late?"
+  },
+  {
+   "fr": "Les enfants se couchent à huit heures.",
+   "en": "The kids go to bed at eight."
+  },
+  {
+   "fr": "Je ne me lève pas tôt le dimanche.",
+   "en": "I don't get up early on Sundays.",
+   "note": "ne + pronoun + verb + pas"
+  },
+  {
+   "fr": "Je vais me reposer ce soir.",
+   "en": "I'm going to rest tonight.",
+   "note": "futur proche: me before the infinitive"
+  },
+  {
+   "fr": "Tu vas te coucher?",
+   "en": "Are you going to bed?"
+  },
+  {
+   "fr": "Dépêche-toi, l'autobus arrive!",
+   "en": "Hurry up, the bus is coming!"
+  },
+  {
+   "fr": "Grouille-toi, on est en retard!",
+   "en": "Get a move on, we're late!",
+   "note": "informal, very Quebec"
+  },
+  {
+   "fr": "Je m'appelle Rishad et je me lève de bonne heure.",
+   "en": "My name is Rishad and I get up early."
+  },
+  {
+   "fr": "Elle se lave les mains avant de manger.",
+   "en": "She washes her hands before eating."
+  }
+ ],
+ "quebec": {
+  "intro": "Morning routines in Quebec come with a push: 'Grouille-toi!' (get moving!). In speech, reflexive pronouns shrink to j'me, tu t', on s'.",
+  "items": [
+   {
+    "std": "Dépêche-toi!",
+    "qc": "Grouille-toi!",
+    "en": "Hurry up!",
+    "note": "informal; used with kids, friends, family"
+   },
+   {
+    "std": "Je me lève.",
+    "qc": "J'me lève.",
+    "en": "I'm getting up.",
+    "note": "casual pronunciation"
+   },
+   {
+    "std": "Tu te couches tard.",
+    "qc": "Tu t'couches tard.",
+    "en": "You go to bed late.",
+    "note": "casual pronunciation"
+   },
+   {
+    "std": "Il se précipite au magasin.",
+    "qc": "Y se garroche au magasin.",
+    "en": "He rushes to the store.",
+    "note": "se garrocher = to rush, informal Quebec"
+   },
+   {
+    "std": "Je me lève tôt.",
+    "qc": "J'me lève de bonne heure.",
+    "en": "I get up early.",
+    "note": "de bonne heure is neutral and very common in Quebec"
+   },
+   {
+    "std": "Habille-toi chaudement.",
+    "qc": "Habille-toi chaudement, y fait frette!",
+    "en": "Dress warmly, it's freezing!",
+    "note": "a Quebec winter classic"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Je ___ lève à sept heures.",
+   "options": [
+    "se",
+    "me",
+    "te",
+    "m'"
+   ],
+   "a": 1,
+   "why": "je → me."
+  },
+  {
+   "t": "mcq",
+   "q": "Elle ___ habille.",
+   "options": [
+    "se",
+    "s'",
+    "me",
+    "t'"
+   ],
+   "a": 1,
+   "why": "se → s' before a vowel."
+  },
+  {
+   "t": "mcq",
+   "q": "Which negative is correct?",
+   "options": [
+    "Je me ne lève pas.",
+    "Je ne me lève pas.",
+    "Je ne lève me pas.",
+    "Ne je me lève pas."
+   ],
+   "a": 1,
+   "why": "ne + pronoun + verb + pas."
+  },
+  {
+   "t": "mcq",
+   "q": "'Grouille-toi!' means…",
+   "options": [
+    "Calm down!",
+    "Hurry up!",
+    "Get dressed!",
+    "Go to bed!"
+   ],
+   "a": 1,
+   "why": "Se grouiller = to hurry, informal."
+  },
+  {
+   "t": "fill",
+   "q": "Nous ___ levons tôt.",
+   "a": [
+    "nous"
+   ],
+   "en": "We get up early.",
+   "why": "nous nous levons: the pronoun repeats."
+  },
+  {
+   "t": "fill",
+   "q": "Tu ___ couches à quelle heure?",
+   "a": [
+    "te"
+   ],
+   "en": "What time do you go to bed?",
+   "why": "tu → te."
+  },
+  {
+   "t": "fill",
+   "q": "Je vais ___ reposer.",
+   "a": [
+    "me"
+   ],
+   "en": "I'm going to rest.",
+   "why": "The pronoun matches je, even before the infinitive."
+  },
+  {
+   "t": "fill",
+   "q": "Ils se ___ à six heures. (se lever)",
+   "a": [
+    "lèvent"
+   ],
+   "en": "They get up at six.",
+   "why": "Silent ending → grave accent: lèvent."
+  },
+  {
+   "t": "build",
+   "en": "I brush my teeth.",
+   "a": "Je me brosse les dents."
+  },
+  {
+   "t": "build",
+   "en": "The kids go to bed at eight.",
+   "a": "Les enfants se couchent à huit heures."
+  },
+  {
+   "t": "build",
+   "en": "I don't get up early.",
+   "a": "Je ne me lève pas tôt."
+  },
+  {
+   "t": "translate",
+   "en": "What time do you get up?",
+   "a": [
+    "Tu te lèves à quelle heure?",
+    "Vous vous levez à quelle heure?",
+    "À quelle heure tu te lèves?",
+    "À quelle heure vous vous levez?",
+    "À quelle heure est-ce que tu te lèves?",
+    "À quelle heure est-ce que vous vous levez?",
+    "À quelle heure te lèves-tu?",
+    "À quelle heure vous levez-vous?"
+   ],
+   "why": "se lever: tu te lèves / vous vous levez."
+  },
+  {
+   "t": "translate",
+   "en": "I'm going to go to bed.",
+   "a": [
+    "Je vais me coucher.",
+    "Je vais aller me coucher."
+   ],
+   "why": "Futur proche: vais + me coucher."
+  },
+  {
+   "t": "translate",
+   "en": "She gets dressed.",
+   "a": [
+    "Elle s'habille."
+   ],
+   "why": "se → s' before habille."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "se réveiller",
+   "en": "to wake up",
+   "ex": "Je me réveille à six heures."
+  },
+  {
+   "fr": "se lever",
+   "en": "to get up",
+   "ex": "Il se lève tôt."
+  },
+  {
+   "fr": "se doucher",
+   "en": "to shower",
+   "ex": "Je me douche le matin."
+  },
+  {
+   "fr": "se laver",
+   "en": "to wash (oneself)",
+   "ex": "Lave-toi les mains!"
+  },
+  {
+   "fr": "se brosser les dents",
+   "en": "to brush one's teeth",
+   "ex": "Brosse-toi les dents."
+  },
+  {
+   "fr": "se raser",
+   "en": "to shave",
+   "ex": "Il se rase."
+  },
+  {
+   "fr": "s'habiller",
+   "en": "to get dressed",
+   "ex": "Je m'habille vite."
+  },
+  {
+   "fr": "se préparer",
+   "en": "to get ready",
+   "ex": "On se prépare pour la fête."
+  },
+  {
+   "fr": "se dépêcher",
+   "en": "to hurry",
+   "ex": "Dépêche-toi!"
+  },
+  {
+   "fr": "se reposer",
+   "en": "to rest",
+   "ex": "Je me repose le dimanche."
+  },
+  {
+   "fr": "se coucher",
+   "en": "to go to bed",
+   "ex": "Je me couche à onze heures."
+  },
+  {
+   "fr": "le déjeuner",
+   "en": "breakfast (in Quebec)",
+   "g": "m",
+   "ex": "Le déjeuner est prêt!",
+   "qc": true
+  },
+  {
+   "fr": "se grouiller",
+   "en": "to hurry up (informal)",
+   "ex": "Grouille-toi!",
+   "qc": true
+  },
+  {
+   "fr": "se garrocher",
+   "en": "to rush (informal)",
+   "ex": "Tout le monde se garroche au magasin.",
+   "qc": true
+  },
+  {
+   "fr": "de bonne heure",
+   "en": "early",
+   "ex": "Je me lève de bonne heure."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "je me lève",
+    "tip": "zhuh-muh-LÈV; in speech: zhm'LÈV."
+   },
+   {
+    "fr": "nous nous levons",
+    "tip": "noo-noo-luh-VON."
+   },
+   {
+    "fr": "elle s'habille",
+    "tip": "èl-sa-BEE-y."
+   },
+   {
+    "fr": "ils s'habillent",
+    "tip": "Liaison-free: eel-sa-BEE-y; the -ent is silent."
+   },
+   {
+    "fr": "se réveiller",
+    "tip": "suh-ré-vè-YÉ."
+   },
+   {
+    "fr": "Grouille-toi!",
+    "tip": "grou-y'-TWA."
+   }
+  ],
+  "title": "Le matin chez les Tremblay",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Léa, tu te lèves? Il est sept heures!",
+    "en": "Léa, are you getting up? It's seven o'clock!"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, oui, je me lève... Je me douche et je m'habille.",
+    "en": "Yes, yes, I'm getting up... I'm showering and getting dressed."
+   },
+   {
+    "s": "A",
+    "fr": "Et brosse-toi les dents après le déjeuner!",
+    "en": "And brush your teeth after breakfast!"
+   },
+   {
+    "s": "B",
+    "fr": "Maman, pourquoi on se lève toujours de bonne heure?",
+    "en": "Mom, why do we always get up early?"
+   },
+   {
+    "s": "A",
+    "fr": "Parce que l'autobus passe à sept heures et demie. Grouille-toi!",
+    "en": "Because the bus comes at seven thirty. Get a move on!"
+   },
+   {
+    "s": "B",
+    "fr": "Samedi, je ne me lève pas avant dix heures!",
+    "en": "Saturday, I'm not getting up before ten!"
+   },
+   {
+    "s": "A",
+    "fr": "Samedi, on va tous se reposer. Promis.",
+    "en": "Saturday, we're all going to rest. Promise."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What time is it at the start?",
+    "options": [
+     "6:00",
+     "7:00",
+     "7:30"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Why must Léa hurry?",
+    "options": [
+     "School starts at 7",
+     "The bus comes at 7:30",
+     "Breakfast is cold"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does Léa plan for Saturday?",
+    "options": [
+     "Get up early",
+     "Not get up before 10",
+     "Go to school"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Describe your weekday morning in 4 sentences with reflexive verbs.",
+   "model": "Je me réveille à six heures et demie. Je me lève tout de suite. Je me douche et je m'habille. Je pars à sept heures et demie."
+  },
+  {
+   "prompt": "Say two things you are going to do tonight with the futur proche.",
+   "model": "Ce soir, je vais me reposer et je vais me coucher tôt."
+  },
+  {
+   "prompt": "Tell someone to hurry up, neutral and Quebec-informal.",
+   "model": "Dépêche-toi! / Grouille-toi!"
+  }
+ ],
+ "write": {
+  "prompt": "Write 6 sentences describing a typical day from waking up to going to bed.",
+  "model": "Je me réveille à six heures. Je me lève, je me douche et je m'habille. Je prends mon déjeuner et je me brosse les dents. Je travaille de neuf heures à cinq heures. Le soir, je me repose devant la télé. Je me couche vers onze heures."
+ },
+ "quiz": [
+  {
+   "q": "'Je m'appelle' is…",
+   "options": [
+    "a reflexive verb",
+    "an -ir verb",
+    "a futur proche",
+    "a negative"
+   ],
+   "a": 0,
+   "why": "s'appeler is reflexive: I call myself."
+  },
+  {
+   "q": "Nous ___ habillons.",
+   "options": [
+    "se",
+    "nous",
+    "vous",
+    "s'"
+   ],
+   "a": 1,
+   "why": "nous nous habillons."
+  },
+  {
+   "q": "'Je me brosse ___ dents.'",
+   "options": [
+    "mes",
+    "les",
+    "des",
+    "ses"
+   ],
+   "a": 1,
+   "why": "Body parts use the definite article with reflexives."
+  },
+  {
+   "q": "In 'Tu vas te coucher', the pronoun goes…",
+   "options": [
+    "before vas",
+    "before coucher",
+    "after coucher",
+    "nowhere"
+   ],
+   "a": 1,
+   "why": "The reflexive pronoun goes before the infinitive."
+  },
+  {
+   "q": "'Se reposer' means…",
+   "options": [
+    "to repeat",
+    "to rest",
+    "to put back",
+    "to respond"
+   ],
+   "a": 1,
+   "why": "Se reposer = to rest."
+  },
+  {
+   "q": "In Quebec, 'le déjeuner' is…",
+   "options": [
+    "lunch",
+    "breakfast",
+    "dinner",
+    "a snack"
+   ],
+   "a": 1,
+   "why": "Quebec: déjeuner (breakfast), dîner (lunch), souper (supper)."
+  },
+  {
+   "q": "Which is correct?",
+   "options": [
+    "Vous vous levez.",
+    "Vous se levez.",
+    "Vous vous lèvez.",
+    "Vous levez-vous se."
+   ],
+   "a": 0,
+   "why": "vous vous levez: no grave accent when -ez is pronounced."
+  },
+  {
+   "q": "'Se garrocher' means…",
+   "options": [
+    "to rush",
+    "to garden",
+    "to shave",
+    "to rest"
+   ],
+   "a": 0,
+   "why": "Informal Quebec: to rush, to hurl oneself."
+  },
+  {
+   "q": "'De bonne heure' means…",
+   "options": [
+    "on time",
+    "early",
+    "happily",
+    "late"
+   ],
+   "a": 1,
+   "why": "De bonne heure = early."
+  }
+ ]
+}

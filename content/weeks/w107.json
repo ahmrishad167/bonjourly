@@ -1,0 +1,655 @@
+{
+ "w": 107,
+ "title": "Futur antérieur",
+ "goal": "By the end of this lesson you can say what will have happened by a certain point (J'aurai fini à midi), use the futur antérieur after quand, dès que and une fois que, and guess about the past (Il aura oublié).",
+ "learn": [
+  {
+   "h": "What the futur antérieur does",
+   "body": [
+    "The futur antérieur is the 'future perfect': an action that will be finished before another moment in the future. English: 'I will have finished by noon.' French: *J'aurai fini à midi.*",
+    "It is built like the passé composé, but the auxiliary is in the simple future: *j'aurai fini*, *je serai parti*. Same choice of *avoir* or *être*, same agreement rules."
+   ],
+   "table": {
+    "head": [
+     "Person",
+     "with avoir (finir)",
+     "with être (partir)"
+    ],
+    "rows": [
+     [
+      "je",
+      "j'aurai fini",
+      "je serai parti(e)"
+     ],
+     [
+      "tu",
+      "tu auras fini",
+      "tu seras parti(e)"
+     ],
+     [
+      "il / elle / on",
+      "il aura fini",
+      "elle sera partie"
+     ],
+     [
+      "nous",
+      "nous aurons fini",
+      "nous serons parti(e)s"
+     ],
+     [
+      "vous",
+      "vous aurez fini",
+      "vous serez parti(e)(s)"
+     ],
+     [
+      "ils / elles",
+      "ils auront fini",
+      "elles seront parties"
+     ]
+    ]
+   },
+   "tip": "Futur antérieur = future of avoir/être + past participle."
+  },
+  {
+   "h": "After quand, dès que, une fois que: French uses the future",
+   "body": [
+    "English says 'when you have finished, call me', with a present perfect. French is logical: the finishing is in the future, so it uses the futur antérieur: *Quand tu auras fini, appelle-moi.*",
+    "This happens after time conjunctions: *quand*, *lorsque*, *dès que*, *aussitôt que*, *une fois que*, *après que*. The main clause is usually in the futur simple or the imperative."
+   ],
+   "table": {
+    "head": [
+     "English",
+     "French"
+    ],
+    "rows": [
+     [
+      "When I have eaten, I'll leave.",
+      "Quand j'aurai mangé, je partirai."
+     ],
+     [
+      "As soon as she has arrived, we'll start.",
+      "Dès qu'elle sera arrivée, on commencera."
+     ],
+     [
+      "Once you have read it, give it back to me.",
+      "Une fois que tu l'auras lu, rends-le-moi."
+     ],
+     [
+      "After they have left, we'll clean up.",
+      "Après qu'ils seront partis, on fera le ménage."
+     ]
+    ]
+   },
+   "tip": "Never use the present after quand for a future action: not 'quand j'ai fini' but 'quand j'aurai fini'."
+  },
+  {
+   "h": "Deadlines: by then, by the time",
+   "body": [
+    "With time expressions like *d'ici (à) demain*, *avant la fin du mois*, *dans deux ans* or *à ce moment-là*, the futur antérieur says something will be completed by that point.",
+    "*D'ici vendredi, j'aurai terminé le rapport.* (By Friday, I will have finished the report.) *Dans cinq ans, nous aurons remboursé l'hypothèque.*"
+   ]
+  },
+  {
+   "h": "Guessing about the past",
+   "body": [
+    "The futur antérieur can also express a probable explanation for something that already happened, like English 'must have'. *Il n'est pas là? Il aura oublié.* (He's not here? He must have forgotten.)",
+    "This use is common in both speech and writing: *Elle aura raté son autobus.* *Ils se seront trompés d'adresse.*"
+   ]
+  },
+  {
+   "h": "Quebec speech: the near-future version",
+   "body": [
+    "In everyday Quebec speech, people often replace the futur antérieur with a 'near future perfect': *quand tu vas avoir fini* instead of *quand tu auras fini*. It means exactly the same thing and is very natural in conversation.",
+    "In writing, keep the standard futur antérieur. In speech, *tu auras* also shrinks to *t'auras*: *Quand t'auras fini, appelle-moi.*"
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "J'aurai fini mes devoirs avant le souper.",
+   "en": "I'll have finished my homework before supper.",
+   "note": "souper = evening meal in Quebec"
+  },
+  {
+   "fr": "Quand tu auras fini, appelle-moi.",
+   "en": "When you've finished, call me.",
+   "note": "futur antérieur after quand + imperative"
+  },
+  {
+   "fr": "Dès qu'elle sera arrivée, on passera à table.",
+   "en": "As soon as she's arrived, we'll sit down to eat.",
+   "note": "arriver takes être: sera arrivée"
+  },
+  {
+   "fr": "Une fois que vous aurez rempli le formulaire, envoyez-le par courriel.",
+   "en": "Once you've filled out the form, send it by email.",
+   "note": "very common in instructions"
+  },
+  {
+   "fr": "D'ici la fin du mois, nous aurons déménagé.",
+   "en": "By the end of the month, we will have moved.",
+   "note": "deadline with d'ici"
+  },
+  {
+   "fr": "Dans dix ans, les enfants seront partis de la maison.",
+   "en": "In ten years, the kids will have left home.",
+   "note": "partir takes être"
+  },
+  {
+   "fr": "Il n'est pas encore là? Il aura raté son autobus.",
+   "en": "He's not here yet? He must have missed his bus.",
+   "note": "guessing about the past"
+  },
+  {
+   "fr": "Lorsque j'aurai économisé assez d'argent, j'achèterai un char électrique.",
+   "en": "When I've saved enough money, I'll buy an electric car.",
+   "note": "char = car, informal Quebec"
+  },
+  {
+   "fr": "Aussitôt que la neige aura fondu, on sortira les vélos.",
+   "en": "As soon as the snow has melted, we'll take out the bikes.",
+   "note": "aussitôt que = dès que"
+  },
+  {
+   "fr": "Après que tout le monde sera parti, on fera la vaisselle.",
+   "en": "After everyone has left, we'll do the dishes.",
+   "note": "après que takes the indicative"
+  },
+  {
+   "fr": "À midi, j'aurai déjà répondu à tous mes courriels.",
+   "en": "By noon, I'll already have answered all my emails.",
+   "note": "déjà goes between auxiliary and participle"
+  },
+  {
+   "fr": "Elles se seront trompées de date.",
+   "en": "They must have got the date wrong.",
+   "note": "pronominal verb with être, feminine plural agreement"
+  },
+  {
+   "fr": "Tu me diras quand tu auras lu le livre.",
+   "en": "Tell me when you've read the book.",
+   "note": "futur simple in the main clause"
+  },
+  {
+   "fr": "Quand on aura vendu le condo, on partira en voyage.",
+   "en": "When we've sold the condo, we'll go on a trip.",
+   "note": "on + futur antérieur"
+  },
+  {
+   "fr": "Je ne serai pas rentré avant minuit.",
+   "en": "I won't have gotten home before midnight.",
+   "note": "negation around the auxiliary"
+  }
+ ],
+ "quebec": {
+  "intro": "In casual Quebec speech, 'tu auras' becomes 't'auras', and the futur antérieur is very often replaced by the near-future form 'quand tu vas avoir fini'. Both are normal in conversation; the standard futur antérieur is what you write.",
+  "items": [
+   {
+    "std": "Quand tu auras fini, appelle-moi.",
+    "qc": "Quand t'auras fini, appelle-moi.",
+    "en": "When you're done, call me.",
+    "note": "tu → t' before a vowel, informal"
+   },
+   {
+    "std": "Quand tu auras fini, appelle-moi.",
+    "qc": "Quand tu vas avoir fini, appelle-moi.",
+    "en": "When you're done, call me.",
+    "note": "aller + avoir + participle: very common in Quebec speech"
+   },
+   {
+    "std": "Dès qu'il sera arrivé, on partira.",
+    "qc": "Dès qu'y va être arrivé, on va partir.",
+    "en": "As soon as he's here, we'll go.",
+    "note": "il → y, and the near future in both clauses"
+   },
+   {
+    "std": "Il aura oublié.",
+    "qc": "Y'a dû oublier.",
+    "en": "He must have forgotten.",
+    "note": "in speech, devoir is more common than the futur antérieur for guesses"
+   },
+   {
+    "std": "Une fois que j'aurai mangé, je viendrai.",
+    "qc": "Une fois que j'vas avoir mangé, j'vas v'nir.",
+    "en": "Once I've eaten, I'll come.",
+    "note": "j'vas = je vais, very informal Quebec"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Quand tu ___, appelle-moi.",
+   "options": [
+    "as fini",
+    "auras fini",
+    "finis",
+    "aurais fini"
+   ],
+   "a": 1,
+   "why": "After quand, a future completed action takes the futur antérieur."
+  },
+  {
+   "t": "mcq",
+   "q": "Which auxiliary does 'partir' use? Dès qu'ils ___ partis, on rangera.",
+   "options": [
+    "auront",
+    "seront",
+    "sont",
+    "seraient"
+   ],
+   "a": 1,
+   "why": "Partir takes être: ils seront partis."
+  },
+  {
+   "t": "mcq",
+   "q": "'Elle n'est pas venue? Elle aura oublié.' means…",
+   "options": [
+    "She will forget.",
+    "She must have forgotten.",
+    "She would have forgotten.",
+    "She had forgotten."
+   ],
+   "a": 1,
+   "why": "The futur antérieur can express a guess about the past."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is the casual Quebec equivalent of 'quand tu auras fini'?",
+   "options": [
+    "quand tu vas avoir fini",
+    "quand tu finissais",
+    "quand tu as fini",
+    "quand tu finirais"
+   ],
+   "a": 0,
+   "why": "Quebec speech often uses aller + avoir + participle."
+  },
+  {
+   "t": "fill",
+   "q": "D'ici vendredi, j'___ terminé le rapport. (avoir)",
+   "a": [
+    "aurai"
+   ],
+   "en": "By Friday, I'll have finished the report.",
+   "why": "Je form of avoir in the future: aurai."
+  },
+  {
+   "t": "fill",
+   "q": "Une fois que vous ___ rempli le formulaire, envoyez-le. (avoir)",
+   "a": [
+    "aurez"
+   ],
+   "en": "Once you've filled out the form, send it.",
+   "why": "Vous form: aurez."
+  },
+  {
+   "t": "fill",
+   "q": "Dès que la neige ___ fondu, on sortira les vélos. (avoir)",
+   "a": [
+    "aura"
+   ],
+   "en": "As soon as the snow has melted, we'll take out the bikes.",
+   "why": "Fondre takes avoir: aura fondu."
+  },
+  {
+   "t": "fill",
+   "q": "Quand nous ___ rentrés, nous mangerons. (être)",
+   "a": [
+    "serons"
+   ],
+   "en": "When we've gotten home, we'll eat.",
+   "why": "Rentrer takes être: nous serons rentrés."
+  },
+  {
+   "t": "build",
+   "en": "I will have finished before noon.",
+   "a": "J'aurai fini avant midi."
+  },
+  {
+   "t": "build",
+   "en": "When you've finished, call me.",
+   "a": "Quand tu auras fini, appelle-moi."
+  },
+  {
+   "t": "build",
+   "en": "He must have missed his bus.",
+   "a": "Il aura raté son autobus."
+  },
+  {
+   "t": "translate",
+   "en": "As soon as she has arrived, we'll eat.",
+   "a": [
+    "Dès qu'elle sera arrivée, nous mangerons.",
+    "Dès qu'elle sera arrivée, on mangera.",
+    "Aussitôt qu'elle sera arrivée, nous mangerons.",
+    "Aussitôt qu'elle sera arrivée, on mangera."
+   ],
+   "why": "Futur antérieur after dès que, futur simple in the main clause."
+  },
+  {
+   "t": "translate",
+   "en": "By then, we will have moved.",
+   "a": [
+    "D'ici là, nous aurons déménagé.",
+    "D'ici là, on aura déménagé."
+   ],
+   "why": "Deadline + futur antérieur."
+  },
+  {
+   "t": "translate",
+   "en": "They must have forgotten.",
+   "a": [
+    "Ils auront oublié.",
+    "Elles auront oublié.",
+    "Ils ont dû oublier.",
+    "Elles ont dû oublier."
+   ],
+   "why": "Futur antérieur (or devoir) for a guess about the past."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "d'ici (à)",
+   "en": "by, between now and",
+   "ex": "D'ici demain, j'aurai fini."
+  },
+  {
+   "fr": "d'ici là",
+   "en": "by then, in the meantime",
+   "ex": "D'ici là, repose-toi."
+  },
+  {
+   "fr": "dès que",
+   "en": "as soon as",
+   "ex": "Dès que j'aurai la réponse, je t'écris."
+  },
+  {
+   "fr": "aussitôt que",
+   "en": "as soon as",
+   "ex": "Aussitôt qu'il sera arrivé, on partira."
+  },
+  {
+   "fr": "une fois que",
+   "en": "once",
+   "ex": "Une fois que tu auras signé, c'est final."
+  },
+  {
+   "fr": "lorsque",
+   "en": "when (more formal than quand)",
+   "ex": "Lorsque j'aurai terminé, je vous écrirai."
+  },
+  {
+   "fr": "terminer",
+   "en": "to finish, to complete",
+   "ex": "J'aurai terminé avant cinq heures."
+  },
+  {
+   "fr": "déménager",
+   "en": "to move (house)",
+   "ex": "On déménage le 1er juillet."
+  },
+  {
+   "fr": "économiser",
+   "en": "to save (money)",
+   "ex": "J'économise pour un voyage."
+  },
+  {
+   "fr": "rembourser",
+   "en": "to pay back, to refund",
+   "ex": "Je te rembourserai demain."
+  },
+  {
+   "fr": "l'hypothèque",
+   "en": "mortgage",
+   "g": "f",
+   "ex": "Nous aurons remboursé l'hypothèque en 2040."
+  },
+  {
+   "fr": "fondre",
+   "en": "to melt",
+   "ex": "La neige fond en avril."
+  },
+  {
+   "fr": "la date limite",
+   "en": "deadline",
+   "g": "f",
+   "ex": "La date limite, c'est vendredi."
+  },
+  {
+   "fr": "le souper",
+   "en": "supper, dinner (evening meal)",
+   "g": "m",
+   "ex": "On mange le souper à six heures.",
+   "qc": true
+  },
+  {
+   "fr": "se tromper de",
+   "en": "to get the wrong (thing)",
+   "ex": "Il s'est trompé d'adresse."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "j'aurai fini",
+    "tip": "zho-RÉ fi-NI: aurai ends in a closed 'é'."
+   },
+   {
+    "fr": "tu auras / t'auras",
+    "tip": "Standard tu-o-RA; casual Quebec to-RA."
+   },
+   {
+    "fr": "nous aurons",
+    "tip": "Liaison in [z]: noo-zo-RON."
+   },
+   {
+    "fr": "dès qu'elle sera arrivée",
+    "tip": "dè-kèl sra-ri-VÉ: the e of sera often drops."
+   },
+   {
+    "fr": "quand on aura",
+    "tip": "Liaison in [t]: kan-to-no-RA."
+   },
+   {
+    "fr": "quand tu vas avoir fini",
+    "tip": "Quebec casual: kan tu va-za-vwar fi-NI, often 'kan t'va avoir'."
+   }
+  ],
+  "title": "Le déménagement",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Pis, le déménagement, c'est quand?",
+    "en": "So, when's the move?"
+   },
+   {
+    "s": "B",
+    "fr": "Le 1er juillet, comme tout le monde! D'ici là, j'aurai tout emballé, j'espère.",
+    "en": "July 1st, like everyone! By then, I'll have packed everything, I hope."
+   },
+   {
+    "s": "A",
+    "fr": "Tu as besoin d'aide?",
+    "en": "Do you need help?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui! Quand j'aurai fini les boîtes de la cuisine, peux-tu m'aider avec le salon?",
+    "en": "Yes! When I've finished the kitchen boxes, can you help me with the living room?"
+   },
+   {
+    "s": "A",
+    "fr": "Pas de problème. Et le camion?",
+    "en": "No problem. And the truck?"
+   },
+   {
+    "s": "B",
+    "fr": "Mon frère devait le réserver, mais il ne m'a pas rappelé. Il aura oublié…",
+    "en": "My brother was supposed to book it, but he didn't call me back. He must have forgotten…"
+   },
+   {
+    "s": "A",
+    "fr": "Appelle-le ce soir. Dès qu'il t'aura confirmé, écris-moi.",
+    "en": "Call him tonight. As soon as he's confirmed, text me."
+   },
+   {
+    "s": "B",
+    "fr": "D'accord. Une fois qu'on aura tout déménagé, je t'invite à souper!",
+    "en": "OK. Once we've moved everything, I'll take you out for dinner!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "When is B moving?",
+    "options": [
+     "June 24",
+     "July 1",
+     "At the end of August"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does B think happened with the truck?",
+    "options": [
+     "It's too expensive",
+     "His brother must have forgotten to book it",
+     "It broke down"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What will B do once everything is moved?",
+    "options": [
+     "Invite A to dinner",
+     "Go on a trip",
+     "Return the boxes"
+    ],
+    "a": 0
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Say three things you will have done by the end of this year. Start with 'D'ici la fin de l'année…'.",
+   "model": "D'ici la fin de l'année, j'aurai terminé ce cours, j'aurai lu deux romans en français et j'aurai visité Québec."
+  },
+  {
+   "prompt": "Give a friend instructions for after work: two sentences with quand / dès que + futur antérieur.",
+   "model": "Quand tu auras fini ta journée, viens chez nous. Dès que tu seras arrivé, on commandera de la pizza."
+  },
+  {
+   "prompt": "Your colleague is late for a meeting. Make two guesses using the futur antérieur.",
+   "model": "Il aura raté son métro. Ou bien il se sera trompé de salle."
+  },
+  {
+   "prompt": "Say 'When you're done, call me' three ways: standard, with t'auras, and with the Quebec near future.",
+   "model": "Quand tu auras fini, appelle-moi. / Quand t'auras fini, appelle-moi. / Quand tu vas avoir fini, appelle-moi."
+  }
+ ],
+ "write": {
+  "prompt": "Write 6–8 sentences about your plans for the next five years. Use the futur antérieur at least four times (after quand / dès que / une fois que, and with deadlines).",
+  "model": "Dans cinq ans, ma vie aura beaucoup changé. D'ici deux ans, j'aurai atteint un bon niveau en français. Une fois que j'aurai réussi mon examen, je chercherai un emploi en français. Quand nous aurons économisé assez d'argent, nous achèterons une maison à Sherbrooke. Dès que nous aurons déménagé, j'adopterai un chien. D'ici là, je continuerai à étudier un peu chaque jour."
+ },
+ "quiz": [
+  {
+   "q": "How is the futur antérieur formed?",
+   "options": [
+    "Imparfait of avoir/être + participle",
+    "Futur of avoir/être + participle",
+    "Conditionnel of avoir/être + participle",
+    "Présent of aller + infinitive"
+   ],
+   "a": 1,
+   "why": "J'aurai fini, je serai parti."
+  },
+  {
+   "q": "Complete: Dès qu'elle ___, on partira.",
+   "options": [
+    "est arrivée",
+    "sera arrivée",
+    "aura arrivé",
+    "arrivait"
+   ],
+   "a": 1,
+   "why": "Arriver takes être; after dès que use the futur antérieur."
+  },
+  {
+   "q": "'D'ici 2030, nous aurons remboursé la maison' means…",
+   "options": [
+    "We paid off the house in 2030.",
+    "By 2030, we will have paid off the house.",
+    "We would have paid off the house in 2030.",
+    "We are paying off the house until 2030."
+   ],
+   "a": 1,
+   "why": "Deadline + futur antérieur."
+  },
+  {
+   "q": "Why is 'Quand j'ai fini, je partirai' wrong?",
+   "options": [
+    "Quand never takes a past tense",
+    "The finishing is in the future, so it needs the futur antérieur",
+    "Partir needs the conditional",
+    "It needs the subjunctive"
+   ],
+   "a": 1,
+   "why": "French uses the future after quand for future actions."
+  },
+  {
+   "q": "'Ils se seront trompés de route' most likely means…",
+   "options": [
+    "They will get lost.",
+    "They must have taken the wrong road.",
+    "They would have taken the wrong road.",
+    "They had taken the wrong road."
+   ],
+   "a": 1,
+   "why": "A guess about the past."
+  },
+  {
+   "q": "Which conjunction does NOT usually trigger the futur antérieur here? '___ tu auras mangé, on sortira.'",
+   "options": [
+    "Quand",
+    "Une fois que",
+    "Dès que",
+    "Parce que"
+   ],
+   "a": 3,
+   "why": "Parce que expresses cause, not a time sequence."
+  },
+  {
+   "q": "'Quand tu vas avoir fini' is…",
+   "options": [
+    "incorrect French",
+    "a common Quebec spoken equivalent of quand tu auras fini",
+    "the passé composé",
+    "only used in France"
+   ],
+   "a": 1,
+   "why": "Aller + avoir + participle is a natural spoken form in Quebec."
+  },
+  {
+   "q": "Where does 'déjà' go? 'À midi, j'aurai ___ mangé.'",
+   "options": [
+    "Before j'",
+    "Between aurai and mangé",
+    "After mangé",
+    "At the end of the sentence only"
+   ],
+   "a": 1,
+   "why": "Short adverbs go between the auxiliary and the participle."
+  },
+  {
+   "q": "Which is correct?",
+   "options": [
+    "Après qu'ils seront partis, on rangera.",
+    "Après qu'ils soient partis, on rangera.",
+    "Après qu'ils partiront partis, on rangera.",
+    "Après qu'ils auront partis, on rangera."
+   ],
+   "a": 0,
+   "why": "Après que takes the indicative, and partir takes être."
+  }
+ ]
+}

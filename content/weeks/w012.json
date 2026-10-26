@@ -1,0 +1,694 @@
+{
+ "w": 12,
+ "title": "Negation: ne…pas",
+ "goal": "By the end of this lesson you can make any present-tense sentence negative with ne…pas, use ne…jamais, ne…plus and ne…rien, change un/une/des to de after a negative, and understand the Quebec habit of dropping ne: j'sais pas.",
+ "learn": [
+  {
+   "h": "Ne … pas goes around the verb",
+   "body": [
+    "To make a sentence negative, put *ne* before the conjugated verb and *pas* after it: *Je parle* → *Je ne parle pas*. Think of it as a sandwich: the verb is the filling.",
+    "Before a vowel or silent h, *ne* becomes *n'*: *Je n'aime pas*, *Il n'habite pas ici*, *Ce n'est pas grave*."
+   ],
+   "table": {
+    "head": [
+     "Positive",
+     "Negative"
+    ],
+    "rows": [
+     [
+      "Je parle anglais.",
+      "Je ne parle pas anglais."
+     ],
+     [
+      "Tu es fatigué.",
+      "Tu n'es pas fatigué."
+     ],
+     [
+      "Il aime le café.",
+      "Il n'aime pas le café."
+     ],
+     [
+      "C'est grave.",
+      "Ce n'est pas grave."
+     ]
+    ]
+   },
+   "tip": "ne + verb + pas. Before a vowel: n' + verb + pas."
+  },
+  {
+   "h": "With an infinitive",
+   "body": [
+    "With *vouloir, pouvoir, aller* + infinitive, the sandwich goes around the first (conjugated) verb only: *Je ne veux pas manger. Je ne peux pas venir. Je ne vais pas travailler.*"
+   ],
+   "table": {
+    "head": [
+     "Positive",
+     "Negative"
+    ],
+    "rows": [
+     [
+      "Je veux manger.",
+      "Je ne veux pas manger."
+     ],
+     [
+      "On peut venir.",
+      "On ne peut pas venir."
+     ],
+     [
+      "Il va travailler.",
+      "Il ne va pas travailler."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Un, une, des become de",
+   "body": [
+    "After a negative, *un, une* and *des* become *de* (or *d'* before a vowel): *J'ai un chat* → *Je n'ai pas de chat*. *Il y a des enfants* → *Il n'y a pas d'enfants*.",
+    "*le, la, les* do NOT change: *J'aime le café* → *Je n'aime pas le café*. And after *être*, nothing changes: *C'est un chat* → *Ce n'est pas un chat*."
+   ],
+   "table": {
+    "head": [
+     "Positive",
+     "Negative"
+    ],
+    "rows": [
+     [
+      "J'ai une voiture.",
+      "Je n'ai pas de voiture."
+     ],
+     [
+      "Il y a des enfants.",
+      "Il n'y a pas d'enfants."
+     ],
+     [
+      "J'aime les chats.",
+      "Je n'aime pas les chats."
+     ],
+     [
+      "C'est une école.",
+      "Ce n'est pas une école."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Other negatives",
+   "body": [
+    "Replace *pas* with another word to change the meaning: *ne … jamais* (never), *ne … plus* (no longer, not anymore), *ne … rien* (nothing).",
+    "*Rien* can also stand alone: *Qu'est-ce que tu fais? — Rien.* (What are you doing? — Nothing.)"
+   ],
+   "table": {
+    "head": [
+     "Negative",
+     "Meaning",
+     "Example"
+    ],
+    "rows": [
+     [
+      "ne … pas",
+      "not",
+      "Je ne travaille pas."
+     ],
+     [
+      "ne … jamais",
+      "never",
+      "Je ne mange jamais de viande."
+     ],
+     [
+      "ne … plus",
+      "no longer, not anymore",
+      "Il n'habite plus ici."
+     ],
+     [
+      "ne … rien",
+      "nothing",
+      "Je ne fais rien."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Quebec: ne disappears",
+   "body": [
+    "In everyday spoken French, especially in Quebec, *ne* is almost always dropped. *Pas* alone carries the negation: *Je sais pas* (often *j'sais pas*, sounding like 'ché pas'), *C'est pas grave*, *J'veux pas*.",
+    "In writing and formal speech, keep *ne*. But if you always say *ne* in a casual Quebec conversation, you will sound like a textbook. Quebecers also add *pantoute* for emphasis: *pas pantoute* = not at all."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Je ne parle pas espagnol.",
+   "en": "I don't speak Spanish."
+  },
+  {
+   "fr": "Il n'habite pas à Montréal.",
+   "en": "He doesn't live in Montreal.",
+   "note": "ne → n' before a vowel or h"
+  },
+  {
+   "fr": "Ce n'est pas grave.",
+   "en": "It's no big deal.",
+   "note": "very useful phrase"
+  },
+  {
+   "fr": "Nous ne sommes pas en retard.",
+   "en": "We're not late."
+  },
+  {
+   "fr": "Je n'ai pas de voiture.",
+   "en": "I don't have a car.",
+   "note": "une → de after a negative"
+  },
+  {
+   "fr": "Il n'y a pas d'enfants ici.",
+   "en": "There are no children here.",
+   "note": "des → d'"
+  },
+  {
+   "fr": "Je n'aime pas le fromage.",
+   "en": "I don't like cheese.",
+   "note": "le does not change"
+  },
+  {
+   "fr": "Je ne veux pas manger.",
+   "en": "I don't want to eat.",
+   "note": "sandwich around veux only"
+  },
+  {
+   "fr": "On ne peut pas venir demain.",
+   "en": "We can't come tomorrow."
+  },
+  {
+   "fr": "Elle ne mange jamais de viande.",
+   "en": "She never eats meat.",
+   "note": "ne … jamais"
+  },
+  {
+   "fr": "Je n'habite plus à Toronto.",
+   "en": "I don't live in Toronto anymore.",
+   "note": "ne … plus"
+  },
+  {
+   "fr": "Je ne fais rien ce soir.",
+   "en": "I'm not doing anything tonight.",
+   "note": "ne … rien"
+  },
+  {
+   "fr": "J'sais pas.",
+   "en": "I don't know.",
+   "note": "casual: ne dropped, sounds like 'ché pas'"
+  },
+  {
+   "fr": "C'est pas grave!",
+   "en": "No big deal!",
+   "note": "casual: ne dropped"
+  },
+  {
+   "fr": "J'aime pas ça pantoute.",
+   "en": "I don't like that at all.",
+   "note": "Quebec informal: pantoute = at all"
+  }
+ ],
+ "quebec": {
+  "intro": "In spoken Quebec French, ne is almost always dropped: pas does the job alone. J'sais pas, c'est pas grave, j'veux pas. Keep ne in writing.",
+  "items": [
+   {
+    "std": "Je ne sais pas.",
+    "qc": "J'sais pas. (ché pas)",
+    "en": "I don't know.",
+    "note": "informal, extremely common"
+   },
+   {
+    "std": "Ce n'est pas grave.",
+    "qc": "C'est pas grave.",
+    "en": "It's no big deal.",
+    "note": "informal; used by everyone"
+   },
+   {
+    "std": "Je ne veux pas.",
+    "qc": "J'veux pas.",
+    "en": "I don't want to.",
+    "note": "informal"
+   },
+   {
+    "std": "Il n'est pas là.",
+    "qc": "Y'est pas là.",
+    "en": "He's not here.",
+    "note": "informal: il → y"
+   },
+   {
+    "std": "Je n'aime pas ça du tout.",
+    "qc": "J'aime pas ça pantoute.",
+    "en": "I don't like that at all.",
+    "note": "informal; pantoute = du tout"
+   },
+   {
+    "std": "Je n'ai plus d'argent.",
+    "qc": "J'ai pu d'argent.",
+    "en": "I don't have any money left.",
+    "note": "informal: plus often sounds like 'pu'"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Make it negative: 'Je travaille.'",
+   "options": [
+    "Je pas travaille.",
+    "Je ne travaille pas.",
+    "Je ne pas travaille.",
+    "Ne je travaille pas."
+   ],
+   "a": 1,
+   "why": "ne + verb + pas."
+  },
+  {
+   "t": "mcq",
+   "q": "'J'ai un chien' in the negative is…",
+   "options": [
+    "Je n'ai pas un chien.",
+    "Je n'ai pas de chien.",
+    "Je n'ai pas le chien.",
+    "Je ai pas chien."
+   ],
+   "a": 1,
+   "why": "un → de after a negative."
+  },
+  {
+   "t": "mcq",
+   "q": "'J'aime le café' in the negative is…",
+   "options": [
+    "Je n'aime pas de café.",
+    "Je n'aime pas le café.",
+    "Je n'aime pas café.",
+    "Je ne aime pas le café."
+   ],
+   "a": 1,
+   "why": "le, la, les do not change."
+  },
+  {
+   "t": "mcq",
+   "q": "'Il n'habite plus ici' means…",
+   "options": [
+    "He lives here more",
+    "He doesn't live here anymore",
+    "He never lived here",
+    "He lives nowhere"
+   ],
+   "a": 1,
+   "why": "ne … plus = no longer."
+  },
+  {
+   "t": "mcq",
+   "q": "In casual Quebec speech, 'Je ne sais pas' usually becomes…",
+   "options": [
+    "Je sais.",
+    "J'sais pas.",
+    "Je ne sais.",
+    "Sais pas je."
+   ],
+   "a": 1,
+   "why": "ne is dropped in speech."
+  },
+  {
+   "t": "fill",
+   "q": "Je ne veux ___ manger. (not)",
+   "a": [
+    "pas"
+   ],
+   "en": "I don't want to eat.",
+   "why": "pas after the conjugated verb."
+  },
+  {
+   "t": "fill",
+   "q": "Il ___ a pas d'enfants ici. (there is not)",
+   "a": [
+    "n'y"
+   ],
+   "en": "There are no children here.",
+   "why": "il y a → il n'y a pas."
+  },
+  {
+   "t": "fill",
+   "q": "Elle ne mange ___ de viande. (never)",
+   "a": [
+    "jamais"
+   ],
+   "en": "She never eats meat.",
+   "why": "ne … jamais."
+  },
+  {
+   "t": "fill",
+   "q": "Je ne fais ___ ce soir. (nothing)",
+   "a": [
+    "rien"
+   ],
+   "en": "I'm doing nothing tonight.",
+   "why": "ne … rien."
+  },
+  {
+   "t": "build",
+   "en": "It's no big deal.",
+   "a": "Ce n'est pas grave."
+  },
+  {
+   "t": "build",
+   "en": "We can't come tomorrow.",
+   "a": "On ne peut pas venir demain."
+  },
+  {
+   "t": "translate",
+   "en": "I don't have a car.",
+   "a": [
+    "Je n'ai pas de voiture.",
+    "Je n'ai pas d'auto.",
+    "J'ai pas de voiture.",
+    "J'ai pas d'auto.",
+    "Je n'ai pas de char.",
+    "J'ai pas de char."
+   ],
+   "why": "une → de after pas."
+  },
+  {
+   "t": "translate",
+   "en": "I don't know.",
+   "a": [
+    "Je ne sais pas.",
+    "Je sais pas.",
+    "J'sais pas."
+   ],
+   "why": "Standard: je ne sais pas. Spoken: j'sais pas."
+  },
+  {
+   "t": "translate",
+   "en": "He is not tired.",
+   "a": [
+    "Il n'est pas fatigué.",
+    "Il est pas fatigué."
+   ],
+   "why": "n' before est."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "ne … pas",
+   "en": "not",
+   "ex": "Je ne travaille pas."
+  },
+  {
+   "fr": "ne … jamais",
+   "en": "never",
+   "ex": "Il ne mange jamais ici."
+  },
+  {
+   "fr": "ne … plus",
+   "en": "no longer, not anymore",
+   "ex": "Je n'ai plus faim."
+  },
+  {
+   "fr": "ne … rien",
+   "en": "nothing, not anything",
+   "ex": "Je ne vois rien."
+  },
+  {
+   "fr": "Ce n'est pas grave.",
+   "en": "It's no big deal.",
+   "ex": "Pardon! — Ce n'est pas grave."
+  },
+  {
+   "fr": "savoir",
+   "en": "to know (a fact)",
+   "ex": "Je ne sais pas."
+  },
+  {
+   "fr": "pantoute",
+   "en": "at all (informal)",
+   "ex": "Pas pantoute!",
+   "qc": true
+  },
+  {
+   "fr": "du tout",
+   "en": "at all",
+   "ex": "Pas du tout!"
+  },
+  {
+   "fr": "la viande",
+   "en": "meat",
+   "g": "f",
+   "ex": "Je ne mange pas de viande."
+  },
+  {
+   "fr": "l'argent",
+   "en": "money",
+   "g": "m",
+   "ex": "Je n'ai pas d'argent."
+  },
+  {
+   "fr": "espagnol",
+   "en": "Spanish (language)",
+   "g": "m",
+   "ex": "Je ne parle pas espagnol."
+  },
+  {
+   "fr": "ici",
+   "en": "here",
+   "ex": "Il n'habite pas ici."
+  },
+  {
+   "fr": "là",
+   "en": "there, here (present)",
+   "ex": "Il n'est pas là."
+  },
+  {
+   "fr": "non",
+   "en": "no",
+   "ex": "Non, merci."
+  },
+  {
+   "fr": "pas encore",
+   "en": "not yet",
+   "ex": "Je ne suis pas encore prêt."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "je ne parle pas",
+    "tip": "Careful: zhuh nuh PARL pa. Casual: zh'parl PA."
+   },
+   {
+    "fr": "je n'ai pas",
+    "tip": "zhuh nay PA."
+   },
+   {
+    "fr": "ce n'est pas",
+    "tip": "suh nay PA; casual: say PA (c'est pas)."
+   },
+   {
+    "fr": "je sais pas",
+    "tip": "Casual: 'ché pa'."
+   },
+   {
+    "fr": "jamais",
+    "tip": "zha-MAY."
+   },
+   {
+    "fr": "pantoute",
+    "tip": "pahn-TOOT, the t is pronounced."
+   }
+  ],
+  "title": "Pas ce soir",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Tu veux aller au cinéma ce soir?",
+    "en": "Do you want to go to the movies tonight?"
+   },
+   {
+    "s": "B",
+    "fr": "Non, j'peux pas. J'ai pas d'argent.",
+    "en": "No, I can't. I don't have any money."
+   },
+   {
+    "s": "A",
+    "fr": "C'est pas grave, c'est moi qui paie!",
+    "en": "No big deal, I'm paying!"
+   },
+   {
+    "s": "B",
+    "fr": "T'es fin, mais chu fatigué aussi.",
+    "en": "You're nice, but I'm tired too."
+   },
+   {
+    "s": "A",
+    "fr": "Et demain?",
+    "en": "And tomorrow?"
+   },
+   {
+    "s": "B",
+    "fr": "Demain, je travaille pas. Oui, demain!",
+    "en": "Tomorrow I'm not working. Yes, tomorrow!"
+   },
+   {
+    "s": "A",
+    "fr": "Parfait. Tu aimes les films d'horreur?",
+    "en": "Perfect. Do you like horror movies?"
+   },
+   {
+    "s": "B",
+    "fr": "Non, pas pantoute!",
+    "en": "No, not at all!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Why can't B go tonight at first?",
+    "options": [
+     "No money",
+     "No car",
+     "Has to work"
+    ],
+    "a": 0
+   },
+   {
+    "q": "When will they go?",
+    "options": [
+     "Tonight",
+     "Tomorrow",
+     "Saturday"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Does B like horror movies?",
+    "options": [
+     "Yes, a lot",
+     "A little",
+     "Not at all"
+    ],
+    "a": 2
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Say three things you don't do or don't have.",
+   "model": "Je ne parle pas espagnol. Je n'ai pas de chat. Je ne mange jamais de viande."
+  },
+  {
+   "prompt": "Say the same three sentences the casual way, dropping ne.",
+   "model": "J'parle pas espagnol. J'ai pas de chat. J'mange jamais de viande."
+  },
+  {
+   "prompt": "Someone bumps into you and says 'Pardon!'. Answer kindly.",
+   "model": "C'est pas grave!"
+  }
+ ],
+ "write": {
+  "prompt": "Write 5 sentences about things you don't do, don't like or don't have, using at least two different negatives (pas, jamais, plus, rien). Use the written form with ne.",
+  "model": "Je ne fume pas. Je n'aime pas le fromage bleu. Je n'ai pas de voiture. Je ne regarde jamais la télé le matin. Je n'habite plus à Toronto."
+ },
+ "quiz": [
+  {
+   "q": "Where do ne and pas go?",
+   "options": [
+    "Both before the verb",
+    "ne before, pas after the conjugated verb",
+    "Both after",
+    "pas before, ne after"
+   ],
+   "a": 1,
+   "why": "The negation surrounds the conjugated verb."
+  },
+  {
+   "q": "Which is correct?",
+   "options": [
+    "Je ne ai pas faim.",
+    "Je n'ai pas faim.",
+    "Je n'ai faim pas.",
+    "J'ai ne pas faim."
+   ],
+   "a": 1,
+   "why": "ne → n' before a vowel."
+  },
+  {
+   "q": "'Il y a des chaises' becomes…",
+   "options": [
+    "Il n'y a pas des chaises.",
+    "Il n'y a pas de chaises.",
+    "Il y a pas les chaises.",
+    "Il n'y a pas chaises."
+   ],
+   "a": 1,
+   "why": "des → de after a negative."
+  },
+  {
+   "q": "'C'est un problème' in the negative is…",
+   "options": [
+    "Ce n'est pas de problème.",
+    "Ce n'est pas un problème.",
+    "C'est pas de problème.",
+    "Ce n'est un pas problème."
+   ],
+   "a": 1,
+   "why": "After être, un does not change."
+  },
+  {
+   "q": "'Je ne fais rien' means…",
+   "options": [
+    "I do nothing",
+    "I never do it",
+    "I don't do it anymore",
+    "I do everything"
+   ],
+   "a": 0,
+   "why": "ne … rien = nothing."
+  },
+  {
+   "q": "'Ne … jamais' means…",
+   "options": [
+    "not yet",
+    "never",
+    "nothing",
+    "no one"
+   ],
+   "a": 1,
+   "why": "jamais = never."
+  },
+  {
+   "q": "In spoken Quebec French, which part of the negation is usually dropped?",
+   "options": [
+    "pas",
+    "ne",
+    "both",
+    "neither"
+   ],
+   "a": 1,
+   "why": "Pas alone carries the meaning in speech."
+  },
+  {
+   "q": "'Pas pantoute' means…",
+   "options": [
+    "not at all",
+    "not yet",
+    "no problem",
+    "not anymore"
+   ],
+   "a": 0,
+   "why": "Quebec informal for pas du tout."
+  },
+  {
+   "q": "Negative of 'Je vais travailler':",
+   "options": [
+    "Je vais ne pas travailler.",
+    "Je ne vais pas travailler.",
+    "Je ne vais travailler pas.",
+    "Je vais travailler pas."
+   ],
+   "a": 1,
+   "why": "Surround the conjugated verb vais."
+  }
+ ]
+}

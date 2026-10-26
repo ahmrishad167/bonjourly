@@ -1,0 +1,683 @@
+{
+ "w": 65,
+ "title": "Food and restaurants",
+ "goal": "By the end of this lesson you can name Quebec meals and dishes, order politely in a restaurant, ask for the bill, and understand the Quebec meal names déjeuner, dîner and souper.",
+ "learn": [
+  {
+   "h": "Meal names: Quebec vs France",
+   "body": [
+    "Quebec keeps the older French meal names. In Quebec, *le déjeuner* is breakfast, *le dîner* is lunch, and *le souper* is supper. In France, *le petit-déjeuner* is breakfast, *le déjeuner* is lunch and *le dîner* is supper.",
+    "So if a Quebec colleague says *On dîne à midi?*, they mean lunch. The verbs follow the same pattern: *déjeuner* (to have breakfast), *dîner* (to have lunch), *souper* (to have supper)."
+   ],
+   "table": {
+    "head": [
+     "Meal",
+     "Quebec",
+     "France"
+    ],
+    "rows": [
+     [
+      "breakfast",
+      "le déjeuner",
+      "le petit-déjeuner"
+     ],
+     [
+      "lunch",
+      "le dîner",
+      "le déjeuner"
+     ],
+     [
+      "supper / dinner",
+      "le souper",
+      "le dîner"
+     ]
+    ]
+   },
+   "tip": "In Quebec: déjeuner, dîner, souper = morning, noon, evening."
+  },
+  {
+   "h": "Ordering in a restaurant",
+   "body": [
+    "Polite ordering uses *je voudrais* (I would like), *je vais prendre* (I'll have), or simply *Pour moi, …* The server may ask *Qu'est-ce que je vous sers?* or *Avez-vous choisi?*",
+    "Courses: *l'entrée* (the starter; in North American English 'entrée' means the main course, but in French it is the first course), *le plat principal* (main course), *le dessert*. Drinks are *les boissons*.",
+    "Partitive articles are essential here: *du pain*, *de la soupe*, *de l'eau*, *des frites*. After a negative they become *de*: *Je ne veux pas de sel.*"
+   ],
+   "table": {
+    "head": [
+     "Situation",
+     "Phrase"
+    ],
+    "rows": [
+     [
+      "Table for two",
+      "Une table pour deux, s'il vous plaît."
+     ],
+     [
+      "Ordering",
+      "Je vais prendre la soupe du jour."
+     ],
+     [
+      "Asking",
+      "Qu'est-ce que vous me conseillez?"
+     ],
+     [
+      "Allergy",
+      "Est-ce qu'il y a des noix dans ce plat?"
+     ],
+     [
+      "The bill",
+      "L'addition, s'il vous plaît. / La facture, s'il vous plaît."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Paying and tipping",
+   "body": [
+    "To ask for the bill, standard French says *l'addition*; in Quebec you will very often hear *la facture*. Both are understood everywhere in Quebec.",
+    "Tipping (*le pourboire*) is expected in Quebec, usually 15 to 20 percent. The server brings the card machine and asks *Ensemble ou séparé?* (Together or separate?).",
+    "For takeout, Quebec says *pour emporter*; France usually says *à emporter*. A counter clerk will ask *Pour ici ou pour emporter?*"
+   ]
+  },
+  {
+   "h": "Quebec dishes",
+   "body": [
+    "*La poutine*: fries, cheese curds (*le fromage en grains*) and gravy (*la sauce brune*). *La tourtière*: a meat pie eaten especially at Christmas. *Le pâté chinois*: Quebec's version of shepherd's pie (beef, corn and mashed potatoes).",
+    "*La cabane à sucre* (sugar shack) is a spring tradition: you eat ham, beans, pancakes and *la tire sur la neige* (maple taffy on snow), all with maple syrup (*le sirop d'érable*)."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "On dîne ensemble à midi?",
+   "en": "Shall we have lunch together at noon?",
+   "note": "dîner = lunch in Quebec"
+  },
+  {
+   "fr": "Qu'est-ce que tu as mangé pour déjeuner?",
+   "en": "What did you have for breakfast?",
+   "note": "déjeuner = breakfast in Quebec"
+  },
+  {
+   "fr": "Ce soir, on soupe chez mes parents.",
+   "en": "Tonight, we're having supper at my parents'.",
+   "note": "souper is also a verb"
+  },
+  {
+   "fr": "Une table pour quatre, s'il vous plaît.",
+   "en": "A table for four, please."
+  },
+  {
+   "fr": "Je voudrais la soupe du jour comme entrée.",
+   "en": "I'd like the soup of the day as a starter.",
+   "note": "l'entrée = starter, not main course"
+  },
+  {
+   "fr": "Pour moi, le saumon avec des légumes.",
+   "en": "For me, the salmon with vegetables."
+  },
+  {
+   "fr": "Est-ce qu'il y a des arachides dans ce dessert?",
+   "en": "Are there peanuts in this dessert?"
+  },
+  {
+   "fr": "Je ne mange pas de viande.",
+   "en": "I don't eat meat.",
+   "note": "de after a negative"
+  },
+  {
+   "fr": "Qu'est-ce que vous me conseillez?",
+   "en": "What do you recommend?"
+  },
+  {
+   "fr": "La facture, s'il vous plaît.",
+   "en": "The bill, please.",
+   "note": "Very common in Quebec; l'addition also works"
+  },
+  {
+   "fr": "On paie ensemble ou séparément?",
+   "en": "Are we paying together or separately?"
+  },
+  {
+   "fr": "C'est pour emporter.",
+   "en": "It's to go.",
+   "note": "Quebec usage; à emporter in France"
+  },
+  {
+   "fr": "La poutine, c'est des frites, du fromage en grains et de la sauce brune.",
+   "en": "Poutine is fries, cheese curds and gravy."
+  },
+  {
+   "fr": "Ma grand-mère fait une tourtière chaque Noël.",
+   "en": "My grandmother makes a meat pie every Christmas."
+  },
+  {
+   "fr": "Au printemps, on va à la cabane à sucre.",
+   "en": "In spring, we go to the sugar shack."
+  },
+  {
+   "fr": "J'ai laissé un pourboire de quinze pour cent.",
+   "en": "I left a fifteen percent tip."
+  }
+ ],
+ "quebec": {
+  "intro": "Quebec uses déjeuner, dîner and souper for breakfast, lunch and supper, and has its own food culture: poutine, tourtière, pâté chinois and the spring cabane à sucre.",
+  "items": [
+   {
+    "std": "le petit-déjeuner",
+    "qc": "le déjeuner",
+    "en": "breakfast",
+    "note": "Standard in Quebec at every level"
+   },
+   {
+    "std": "le déjeuner (midi)",
+    "qc": "le dîner",
+    "en": "lunch",
+    "note": "A 'dîner' at noon; the 'heure du dîner' is lunch break"
+   },
+   {
+    "std": "le dîner (soir)",
+    "qc": "le souper",
+    "en": "supper",
+    "note": "Souper is standard Quebec French, not slang"
+   },
+   {
+    "std": "L'addition, s'il vous plaît.",
+    "qc": "La facture, s'il vous plaît.",
+    "en": "The bill, please."
+   },
+   {
+    "std": "à emporter",
+    "qc": "pour emporter",
+    "en": "to go, takeout"
+   },
+   {
+    "std": "une boisson gazeuse",
+    "qc": "une liqueur",
+    "en": "a soft drink",
+    "note": "Informal Quebec; liqueur does not mean alcohol here"
+   },
+   {
+    "std": "du maïs",
+    "qc": "du blé d'Inde",
+    "en": "corn",
+    "note": "Very common in Quebec speech: épluchette de blé d'Inde = corn roast"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "In Quebec, 'le dîner' is…",
+   "options": [
+    "breakfast",
+    "lunch",
+    "supper",
+    "a snack"
+   ],
+   "a": 1,
+   "why": "Quebec: déjeuner, dîner, souper = breakfast, lunch, supper."
+  },
+  {
+   "t": "mcq",
+   "q": "What is 'l'entrée' on a French menu?",
+   "options": [
+    "The main course",
+    "The starter",
+    "The dessert",
+    "The drink"
+   ],
+   "a": 1,
+   "why": "L'entrée is the first course; the main course is le plat principal."
+  },
+  {
+   "t": "mcq",
+   "q": "What are the three ingredients of poutine?",
+   "options": [
+    "Fries, cheese curds, gravy",
+    "Bread, ham, maple syrup",
+    "Beef, corn, potatoes",
+    "Pastry, pork, spices"
+   ],
+   "a": 0,
+   "why": "Frites, fromage en grains, sauce brune."
+  },
+  {
+   "t": "mcq",
+   "q": "Which sentence is correct?",
+   "options": [
+    "Je ne mange pas du pain.",
+    "Je ne mange pas de pain.",
+    "Je ne mange pas le pain de.",
+    "Je ne mange de pain pas."
+   ],
+   "a": 1,
+   "why": "After a negative, du/de la/des become de."
+  },
+  {
+   "t": "fill",
+   "q": "Je voudrais ___ eau, s'il vous plaît. (some)",
+   "a": [
+    "de l'"
+   ],
+   "en": "I'd like some water, please.",
+   "why": "Partitive before a vowel: de l'."
+  },
+  {
+   "t": "fill",
+   "q": "Ce soir, on ___ chez ma sœur. (to have supper, on form)",
+   "a": [
+    "soupe"
+   ],
+   "en": "Tonight we're having supper at my sister's.",
+   "why": "Souper is a regular -er verb: on soupe."
+  },
+  {
+   "t": "fill",
+   "q": "C'est pour ici ou pour ___? (to take away)",
+   "a": [
+    "emporter"
+   ],
+   "en": "Is it for here or to go?",
+   "why": "Pour emporter = to go."
+  },
+  {
+   "t": "fill",
+   "q": "On a laissé un ___ de 15 %. (tip)",
+   "a": [
+    "pourboire"
+   ],
+   "en": "We left a 15% tip.",
+   "why": "Le pourboire = tip."
+  },
+  {
+   "t": "build",
+   "en": "A table for two, please.",
+   "a": "Une table pour deux, s'il vous plaît."
+  },
+  {
+   "t": "build",
+   "en": "What do you recommend?",
+   "a": "Qu'est-ce que vous me conseillez?"
+  },
+  {
+   "t": "build",
+   "en": "I'll have the soup of the day.",
+   "a": "Je vais prendre la soupe du jour."
+  },
+  {
+   "t": "translate",
+   "en": "The bill, please.",
+   "a": [
+    "L'addition, s'il vous plaît.",
+    "La facture, s'il vous plaît.",
+    "L'addition, s'il te plaît.",
+    "La facture, s'il te plaît."
+   ],
+   "why": "Both l'addition and la facture are used in Quebec."
+  },
+  {
+   "t": "translate",
+   "en": "We have lunch at noon.",
+   "a": [
+    "On dîne à midi.",
+    "Nous dînons à midi.",
+    "On mange à midi.",
+    "Nous mangeons à midi."
+   ],
+   "why": "Dîner = to have lunch in Quebec."
+  },
+  {
+   "t": "translate",
+   "en": "I don't eat meat.",
+   "a": [
+    "Je ne mange pas de viande.",
+    "Je mange pas de viande."
+   ],
+   "why": "de after a negative."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "le déjeuner",
+   "en": "breakfast (Quebec)",
+   "g": "m",
+   "ex": "Le déjeuner est servi à 8 h.",
+   "qc": true
+  },
+  {
+   "fr": "le dîner",
+   "en": "lunch (Quebec)",
+   "g": "m",
+   "ex": "J'ai une heure pour le dîner.",
+   "qc": true
+  },
+  {
+   "fr": "le souper",
+   "en": "supper",
+   "g": "m",
+   "ex": "Le souper est prêt!",
+   "qc": true
+  },
+  {
+   "fr": "l'entrée",
+   "en": "starter, first course",
+   "g": "f",
+   "ex": "Comme entrée, je prends la salade."
+  },
+  {
+   "fr": "le plat principal",
+   "en": "main course",
+   "g": "m",
+   "ex": "Le plat principal, c'est du poulet."
+  },
+  {
+   "fr": "l'addition / la facture",
+   "en": "the bill, the check",
+   "g": "f",
+   "ex": "La facture, s'il vous plaît."
+  },
+  {
+   "fr": "le pourboire",
+   "en": "tip",
+   "g": "m",
+   "ex": "Le pourboire n'est pas inclus."
+  },
+  {
+   "fr": "pour emporter",
+   "en": "to go, takeout",
+   "ex": "Un café pour emporter, s'il vous plaît.",
+   "qc": true
+  },
+  {
+   "fr": "conseiller",
+   "en": "to recommend, to advise",
+   "ex": "Qu'est-ce que vous me conseillez?"
+  },
+  {
+   "fr": "la poutine",
+   "en": "poutine",
+   "g": "f",
+   "ex": "On mange une poutine après le match.",
+   "qc": true
+  },
+  {
+   "fr": "le fromage en grains",
+   "en": "cheese curds",
+   "g": "m",
+   "ex": "Le fromage en grains fait 'squick squick'.",
+   "qc": true
+  },
+  {
+   "fr": "la tourtière",
+   "en": "meat pie",
+   "g": "f",
+   "ex": "On mange de la tourtière à Noël.",
+   "qc": true
+  },
+  {
+   "fr": "le pâté chinois",
+   "en": "Quebec shepherd's pie",
+   "g": "m",
+   "ex": "Le pâté chinois, c'est steak, blé d'Inde, patates.",
+   "qc": true
+  },
+  {
+   "fr": "la cabane à sucre",
+   "en": "sugar shack",
+   "g": "f",
+   "ex": "On va à la cabane à sucre en mars.",
+   "qc": true
+  },
+  {
+   "fr": "le sirop d'érable",
+   "en": "maple syrup",
+   "g": "m",
+   "ex": "Je mets du sirop d'érable sur mes crêpes."
+  },
+  {
+   "fr": "le blé d'Inde",
+   "en": "corn",
+   "g": "m",
+   "ex": "J'aime le blé d'Inde en août.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "le déjeuner",
+    "tip": "day-zhuh-NAY; the r is silent."
+   },
+   {
+    "fr": "le souper",
+    "tip": "soo-PAY; silent r."
+   },
+   {
+    "fr": "la poutine",
+    "tip": "poo-TSIN in Quebec: t before i becomes [ts]."
+   },
+   {
+    "fr": "la tourtière",
+    "tip": "toor-TSYAIR in Quebec speech."
+   },
+   {
+    "fr": "le pourboire",
+    "tip": "poor-BWAR."
+   },
+   {
+    "fr": "le blé d'Inde",
+    "tip": "blay DANDE; nasal in."
+   },
+   {
+    "fr": "l'addition",
+    "tip": "la-dee-SYON; in Quebec often la-dzi-SYON."
+   }
+  ],
+  "title": "Au resto",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Bonsoir! Avez-vous choisi?",
+    "en": "Good evening! Have you decided?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui. Comme entrée, je vais prendre la soupe aux pois.",
+    "en": "Yes. As a starter, I'll have the pea soup."
+   },
+   {
+    "s": "A",
+    "fr": "Très bien. Et comme plat principal?",
+    "en": "Very good. And as a main course?"
+   },
+   {
+    "s": "B",
+    "fr": "Qu'est-ce que vous me conseillez?",
+    "en": "What do you recommend?"
+   },
+   {
+    "s": "A",
+    "fr": "Le pâté chinois est excellent ce soir. Sinon, on a de la tourtière.",
+    "en": "The shepherd's pie is excellent tonight. Otherwise, we have meat pie."
+   },
+   {
+    "s": "B",
+    "fr": "Je vais prendre le pâté chinois. Et une liqueur, s'il vous plaît.",
+    "en": "I'll have the shepherd's pie. And a soft drink, please."
+   },
+   {
+    "s": "A",
+    "fr": "Parfait. Je reviens tout de suite.",
+    "en": "Perfect. I'll be right back."
+   },
+   {
+    "s": "B",
+    "fr": "Excusez-moi, est-ce que je peux avoir la facture?",
+    "en": "Excuse me, can I have the bill?"
+   },
+   {
+    "s": "A",
+    "fr": "Bien sûr. Vous payez par carte?",
+    "en": "Of course. Are you paying by card?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui. C'était délicieux, merci!",
+    "en": "Yes. It was delicious, thanks!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What does the customer order as a starter?",
+    "options": [
+     "Salad",
+     "Pea soup",
+     "Poutine"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What main course does the customer choose?",
+    "options": [
+     "Meat pie",
+     "Shepherd's pie",
+     "Salmon"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does 'une liqueur' mean in this dialogue?",
+    "options": [
+     "A liqueur",
+     "A soft drink",
+     "A coffee"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Order a starter, a main course and a drink in a restaurant.",
+   "model": "Comme entrée, je voudrais la salade. Ensuite, je vais prendre le poulet. Et de l'eau, s'il vous plaît."
+  },
+  {
+   "prompt": "Tell a Quebec friend what you usually eat for déjeuner, dîner and souper.",
+   "model": "Pour déjeuner, je mange des rôties. Pour dîner, je prends un sandwich. Pour souper, je fais des pâtes."
+  },
+  {
+   "prompt": "Explain a food allergy to the server and ask a question about a dish.",
+   "model": "Je suis allergique aux noix. Est-ce qu'il y a des noix dans ce dessert?"
+  },
+  {
+   "prompt": "Ask for the bill and say you are paying separately.",
+   "model": "La facture, s'il vous plaît. On va payer séparément."
+  }
+ ],
+ "write": {
+  "prompt": "Write a short review (5–6 sentences) of a restaurant you went to: what you ate, how it was, the service and the price.",
+  "model": "Samedi, je suis allé dans un petit resto à Québec. Comme entrée, j'ai pris une soupe à l'oignon. Ensuite, j'ai mangé une tourtière avec des patates. C'était délicieux! Le serveur était très gentil et rapide. Ça a coûté environ trente dollars avec le pourboire. Je vais y retourner."
+ },
+ "quiz": [
+  {
+   "q": "A Quebec friend invites you 'à souper'. When should you come?",
+   "options": [
+    "In the morning",
+    "At noon",
+    "In the evening",
+    "At midnight"
+   ],
+   "a": 2,
+   "why": "Le souper is the evening meal."
+  },
+  {
+   "q": "In France, 'le déjeuner' is…",
+   "options": [
+    "breakfast",
+    "lunch",
+    "supper",
+    "a snack"
+   ],
+   "a": 1,
+   "why": "In France: petit-déjeuner, déjeuner, dîner."
+  },
+  {
+   "q": "What is 'la tire sur la neige'?",
+   "options": [
+    "Snow tires",
+    "Maple taffy on snow",
+    "A ski trail",
+    "Frozen juice"
+   ],
+   "a": 1,
+   "why": "A sugar-shack treat: hot maple taffy poured on snow."
+  },
+  {
+   "q": "Which phrase is a polite way to order?",
+   "options": [
+    "Donne-moi un café.",
+    "Je voudrais un café.",
+    "Je veux café.",
+    "Un café maintenant."
+   ],
+   "a": 1,
+   "why": "Je voudrais = I would like."
+  },
+  {
+   "q": "'Le pâté chinois' is…",
+   "options": [
+    "Chinese food",
+    "A Quebec shepherd's pie",
+    "A pâté spread",
+    "A dumpling"
+   ],
+   "a": 1,
+   "why": "Beef, corn and mashed potatoes in layers."
+  },
+  {
+   "q": "Which is the usual Quebec word for 'tip'?",
+   "options": [
+    "le bonus",
+    "le pourboire",
+    "la monnaie",
+    "la facture"
+   ],
+   "a": 1,
+   "why": "Le pourboire (informally 'le tip')."
+  },
+  {
+   "q": "'Une liqueur' in Quebec speech usually means…",
+   "options": [
+    "a strong alcohol",
+    "a soft drink",
+    "a juice",
+    "a coffee"
+   ],
+   "a": 1,
+   "why": "Informal Quebec for boisson gazeuse."
+  },
+  {
+   "q": "Complete: 'Je voudrais ___ frites.'",
+   "options": [
+    "du",
+    "de la",
+    "des",
+    "de l'"
+   ],
+   "a": 2,
+   "why": "Frites is plural: des."
+  },
+  {
+   "q": "'Pour ici ou pour emporter?' means…",
+   "options": [
+    "Cash or card?",
+    "For here or to go?",
+    "Table or counter?",
+    "Small or large?"
+   ],
+   "a": 1,
+   "why": "Pour emporter = to go."
+  }
+ ]
+}

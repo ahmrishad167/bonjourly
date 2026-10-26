@@ -1,0 +1,655 @@
+{
+ "w": 135,
+ "title": "Irregular plurals",
+ "goal": "By the end of this lesson you can form the irregular plurals of nouns in -al, -ail, -eu, -au, -ou, the special plurals (yeux, cieux, messieurs), compound nouns and borrowed words, following current Quebec usage.",
+ "learn": [
+  {
+   "h": "Families of endings",
+   "body": [
+    "The default plural is *-s*. Nouns already ending in *-s, -x, -z* don't change: *le prix / les prix, le nez / les nez*. The other irregular plurals come in families: learn the rule, then the short list of exceptions.",
+    "In speech, most plurals sound the same as the singular: the article (*le/les*) carries the plural. Irregular plurals like *-al → -aux* are the exception: you hear them."
+   ],
+   "table": {
+    "head": [
+     "Ending",
+     "Rule",
+     "Exceptions"
+    ],
+    "rows": [
+     [
+      "-al",
+      "→ -aux: un journal, des journaux",
+      "-als: bals, carnavals, festivals, récitals, régals, chacals"
+     ],
+     [
+      "-ail",
+      "→ -ails: des détails, des rails",
+      "-aux: travaux, vitraux, coraux, émaux, baux, soupiraux"
+     ],
+     [
+      "-eau, -au, -eu",
+      "→ -x: des bateaux, des tuyaux, des jeux",
+      "-s: pneus, bleus, landaus, sarraus, émeus"
+     ],
+     [
+      "-ou",
+      "→ -s: des trous, des fous",
+      "-x: bijoux, cailloux, choux, genoux, hiboux, joujoux, poux"
+     ]
+    ]
+   },
+   "tip": "The -oux club: bijou, caillou, chou, genou, hibou, joujou, pou — 'Viens, mon chou, mon bijou, mon joujou, sur mes genoux, et jette des cailloux à ce hibou plein de poux.'"
+  },
+  {
+   "h": "Truly special plurals",
+   "body": [
+    "Some plurals are completely different words or change pronunciation. *Un œil / des yeux* (eye/eyes). *Le ciel / les cieux* (heavens, poetic or religious) but *les ciels* for skies in paintings or weather. *Monsieur / messieurs, madame / mesdames, mademoiselle / mesdemoiselles*.",
+    "Pronunciation changes: *un œuf* [œf] / *des œufs* [ø]; *un bœuf* [bœf] / *des bœufs* [bø]; *un os* [ɔs] / *des os* [o] (many speakers keep [ɔs] in the plural too)."
+   ],
+   "table": {
+    "head": [
+     "Singular",
+     "Plural",
+     "Note"
+    ],
+    "rows": [
+     [
+      "un œil",
+      "des yeux",
+      "liaison: des‿yeux [dé-ZYEU]"
+     ],
+     [
+      "le ciel",
+      "les cieux / les ciels",
+      "cieux = heavens; ciels = skies (art, weather)"
+     ],
+     [
+      "monsieur",
+      "messieurs",
+      "Mesdames et messieurs…"
+     ],
+     [
+      "un œuf",
+      "des œufs",
+      "final f silent in the plural"
+     ],
+     [
+      "un travail",
+      "des travaux",
+      "travaux = roadwork, renovations"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Compound nouns",
+   "body": [
+    "Only nouns and adjectives can take the plural; verbs, adverbs and prepositions never do. *Un grand-père / des grands-pères. Un chou-fleur / des choux-fleurs. Un arc-en-ciel / des arcs-en-ciel* (only arc is pluralised; *ciel* is linked by a preposition).",
+    "Verb + noun: since the 1990 spelling reform (recommended by the OQLF and taught in Quebec schools), the noun takes *-s* in the plural only: *un tire-bouchon / des tire-bouchons, un gratte-ciel / des gratte-ciels, un porte-monnaie / des porte-monnaies*. Older texts write *des gratte-ciel*.",
+    "Family names don't take an *-s*: *les Tremblay, les Gagnon*."
+   ]
+  },
+  {
+   "h": "Borrowed words",
+   "body": [
+    "Words borrowed from other languages now follow the normal French rule: one *-s*, no foreign plural. *Des sandwichs, des matchs, des scénarios, des maximums, des graffitis, des spaghettis.* Older forms like *des matches* or *des maxima* are still seen but no longer recommended.",
+    "The OQLF also recommends French equivalents where they exist: *une fin de semaine* rather than *un weekend*, *un courriel* rather than *un email*."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Les journaux annoncent des travaux sur le pont Jacques-Cartier.",
+   "en": "The newspapers announce roadwork on the Jacques-Cartier Bridge.",
+   "note": "journal → journaux; travail → travaux"
+  },
+  {
+   "fr": "Montréal accueille plusieurs festivals chaque été.",
+   "en": "Montreal hosts several festivals every summer.",
+   "note": "festival is an exception: festivals"
+  },
+  {
+   "fr": "Le carnaval de Québec est l'un des plus grands carnavals d'hiver.",
+   "en": "The Quebec Winter Carnival is one of the biggest winter carnivals.",
+   "note": "carnaval → carnavals"
+  },
+  {
+   "fr": "Les hôpitaux manquent de personnel.",
+   "en": "Hospitals are short-staffed.",
+   "note": "hôpital → hôpitaux"
+  },
+  {
+   "fr": "Donnez-moi tous les détails.",
+   "en": "Give me all the details.",
+   "note": "-ail → -ails (regular)"
+  },
+  {
+   "fr": "Les vitraux de la basilique Notre-Dame sont magnifiques.",
+   "en": "The stained-glass windows of Notre-Dame Basilica are magnificent.",
+   "note": "vitrail → vitraux"
+  },
+  {
+   "fr": "Il faut changer les pneus avant le 1er décembre.",
+   "en": "The tires must be changed before December 1.",
+   "note": "pneu → pneus (exception)"
+  },
+  {
+   "fr": "Les tuyaux ont gelé pendant la nuit.",
+   "en": "The pipes froze during the night.",
+   "note": "tuyau → tuyaux"
+  },
+  {
+   "fr": "Les enfants jettent des cailloux dans le lac.",
+   "en": "The children are throwing pebbles into the lake.",
+   "note": "caillou → cailloux"
+  },
+  {
+   "fr": "J'ai mal aux genoux après le déneigement.",
+   "en": "My knees hurt after clearing the snow.",
+   "note": "genou → genoux"
+  },
+  {
+   "fr": "Elle a les yeux bleus.",
+   "en": "She has blue eyes.",
+   "note": "œil → yeux; bleu → bleus"
+  },
+  {
+   "fr": "Mesdames et messieurs, bonsoir.",
+   "en": "Ladies and gentlemen, good evening.",
+   "note": "madame → mesdames; monsieur → messieurs"
+  },
+  {
+   "fr": "Mes deux grands-mères habitaient à Trois-Rivières.",
+   "en": "Both my grandmothers lived in Trois-Rivières.",
+   "note": "compound: grands-mères"
+  },
+  {
+   "fr": "On a vu deux arcs-en-ciel après l'orage.",
+   "en": "We saw two rainbows after the storm.",
+   "note": "only arc takes the plural"
+  },
+  {
+   "fr": "Les gratte-ciels du centre-ville brillent la nuit.",
+   "en": "The downtown skyscrapers shine at night.",
+   "note": "reformed spelling; traditional: gratte-ciel"
+  },
+  {
+   "fr": "On a mangé des sandwichs en regardant les matchs.",
+   "en": "We ate sandwiches while watching the games.",
+   "note": "borrowed words take a simple -s"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebec follows the OQLF line on borrowed words: they take a regular French -s, and French equivalents are preferred where they exist. In speech, many English borrowings are used with a French gender and an invisible plural -s.",
+  "items": [
+   {
+    "std": "des sandwichs",
+    "qc": "des sandwichs",
+    "en": "sandwiches",
+    "note": "not sandwiches; the s is silent"
+   },
+   {
+    "std": "des matchs de hockey",
+    "qc": "des games de hockey",
+    "en": "hockey games",
+    "note": "game (f) is an informal anglicism: une game"
+   },
+   {
+    "std": "des fêtes",
+    "qc": "des partys",
+    "en": "parties",
+    "note": "party (m) is widely used; OQLF-recommended plural: partys"
+   },
+   {
+    "std": "des emplois",
+    "qc": "des jobs",
+    "en": "jobs",
+    "note": "in Quebec, job is feminine: une bonne job; informal"
+   },
+   {
+    "std": "des amis / des copains",
+    "qc": "des chums",
+    "en": "friends",
+    "note": "chum: friend or boyfriend; informal"
+   },
+   {
+    "std": "les fins de semaine",
+    "qc": "les fins de semaine",
+    "en": "weekends",
+    "note": "Quebec prefers fin de semaine over weekend, even in speech"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Plural of 'un festival'?",
+   "options": [
+    "des festivaux",
+    "des festivals",
+    "des festivales",
+    "des festival"
+   ],
+   "a": 1,
+   "why": "Festival is one of the -als exceptions."
+  },
+  {
+   "t": "mcq",
+   "q": "Plural of 'un travail'?",
+   "options": [
+    "des travails",
+    "des travaux",
+    "des travailes",
+    "des travaus"
+   ],
+   "a": 1,
+   "why": "Travail is an -aux exception."
+  },
+  {
+   "t": "mcq",
+   "q": "Plural of 'un pneu'?",
+   "options": [
+    "des pneux",
+    "des pneus",
+    "des pneaux",
+    "des pneu"
+   ],
+   "a": 1,
+   "why": "Pneu is an exception to -eu → -eux."
+  },
+  {
+   "t": "mcq",
+   "q": "Which plural is correct?",
+   "options": [
+    "des choux",
+    "des troux",
+    "des foux",
+    "des cloux"
+   ],
+   "a": 0,
+   "why": "Chou belongs to the seven -oux nouns."
+  },
+  {
+   "t": "mcq",
+   "q": "Recommended plural of 'un match'?",
+   "options": [
+    "des matches",
+    "des matchs",
+    "des match",
+    "des matchies"
+   ],
+   "a": 1,
+   "why": "Borrowed words take a simple -s: des matchs."
+  },
+  {
+   "t": "fill",
+   "q": "Elle a de beaux ___ verts. (œil, plural)",
+   "a": [
+    "yeux"
+   ],
+   "en": "She has beautiful green eyes.",
+   "why": "Œil → yeux."
+  },
+  {
+   "t": "fill",
+   "q": "Les ___ annoncent une tempête. (journal, plural)",
+   "a": [
+    "journaux"
+   ],
+   "en": "The newspapers are announcing a storm.",
+   "why": "-al → -aux."
+  },
+  {
+   "t": "fill",
+   "q": "Il a mal aux ___. (genou, plural)",
+   "a": [
+    "genoux"
+   ],
+   "en": "His knees hurt.",
+   "why": "Genou → genoux."
+  },
+  {
+   "t": "fill",
+   "q": "Mes deux ___ sont nés en Abitibi. (grand-père, plural)",
+   "a": [
+    "grands-pères"
+   ],
+   "en": "My two grandfathers were born in Abitibi.",
+   "why": "Both noun and adjective take the plural."
+  },
+  {
+   "t": "fill",
+   "q": "Les ___ viennent souper dimanche. (the Tremblay family)",
+   "a": [
+    "Tremblay"
+   ],
+   "en": "The Tremblays are coming to supper on Sunday.",
+   "why": "Family names don't take -s."
+  },
+  {
+   "t": "build",
+   "en": "Ladies and gentlemen, welcome.",
+   "a": "Mesdames et messieurs, bienvenue."
+  },
+  {
+   "t": "build",
+   "en": "The hospitals are full.",
+   "a": "Les hôpitaux sont pleins."
+  },
+  {
+   "t": "translate",
+   "en": "the stained-glass windows",
+   "a": [
+    "les vitraux"
+   ],
+   "why": "Vitrail → vitraux."
+  },
+  {
+   "t": "translate",
+   "en": "The pipes froze.",
+   "a": [
+    "Les tuyaux ont gelé.",
+    "Les tuyaux sont gelés."
+   ],
+   "why": "Tuyau → tuyaux."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "le journal (les journaux)",
+   "en": "newspaper",
+   "g": "m",
+   "ex": "Je lis les journaux le matin."
+  },
+  {
+   "fr": "l'hôpital (les hôpitaux)",
+   "en": "hospital",
+   "g": "m",
+   "ex": "Les hôpitaux sont débordés."
+  },
+  {
+   "fr": "le travail (les travaux)",
+   "en": "work; (pl.) roadwork, renovations",
+   "g": "m",
+   "ex": "Il y a des travaux sur la 40."
+  },
+  {
+   "fr": "le vitrail (les vitraux)",
+   "en": "stained-glass window",
+   "g": "m",
+   "ex": "Les vitraux sont anciens."
+  },
+  {
+   "fr": "le bail (les baux)",
+   "en": "lease",
+   "g": "m",
+   "ex": "Les baux se renouvellent le 1er juillet."
+  },
+  {
+   "fr": "le pneu (les pneus)",
+   "en": "tire",
+   "g": "m",
+   "ex": "J'ai fait poser mes pneus d'hiver."
+  },
+  {
+   "fr": "le tuyau (les tuyaux)",
+   "en": "pipe, hose; tip (informal)",
+   "g": "m",
+   "ex": "Les tuyaux sont gelés."
+  },
+  {
+   "fr": "le caillou (les cailloux)",
+   "en": "pebble",
+   "g": "m",
+   "ex": "Ne lance pas de cailloux!"
+  },
+  {
+   "fr": "le genou (les genoux)",
+   "en": "knee",
+   "g": "m",
+   "ex": "Il est tombé à genoux."
+  },
+  {
+   "fr": "le bijou (les bijoux)",
+   "en": "jewel, piece of jewellery",
+   "g": "m",
+   "ex": "Elle porte peu de bijoux."
+  },
+  {
+   "fr": "l'œil (les yeux)",
+   "en": "eye",
+   "g": "m",
+   "ex": "J'ai les yeux fatigués."
+  },
+  {
+   "fr": "le gratte-ciel (les gratte-ciels)",
+   "en": "skyscraper",
+   "g": "m",
+   "ex": "Montréal a peu de gratte-ciels."
+  },
+  {
+   "fr": "l'arc-en-ciel (les arcs-en-ciel)",
+   "en": "rainbow",
+   "g": "m",
+   "ex": "Regarde, un arc-en-ciel!"
+  },
+  {
+   "fr": "le carnaval (les carnavals)",
+   "en": "carnival",
+   "g": "m",
+   "ex": "Le carnaval de Québec a lieu en février."
+  },
+  {
+   "fr": "le party (les partys)",
+   "en": "party (informal)",
+   "g": "m",
+   "ex": "On fait un party samedi.",
+   "qc": true
+  },
+  {
+   "fr": "la job (les jobs)",
+   "en": "job (informal)",
+   "g": "f",
+   "ex": "J'ai trouvé une bonne job.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "un journal / des journaux",
+    "tip": "[jour-NAL] / [jour-NO]: you hear the plural."
+   },
+   {
+    "fr": "un œil / des yeux",
+    "tip": "[un-NEUY] / [dé-ZYEU]."
+   },
+   {
+    "fr": "un œuf / des œufs",
+    "tip": "[un-NEUF] / [dé-ZEU]: the f disappears in the plural."
+   },
+   {
+    "fr": "un bœuf / des bœufs",
+    "tip": "[BEUF] / [BEU]."
+   },
+   {
+    "fr": "monsieur / messieurs",
+    "tip": "[muh-SYEU] / [mé-SYEU]."
+   },
+   {
+    "fr": "des sandwichs",
+    "tip": "[sand-WITCH] in Quebec; the plural s is silent."
+   }
+  ],
+  "title": "Les travaux de la rue",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "As-tu vu les journaux? Ils annoncent des travaux sur notre rue tout l'été.",
+    "en": "Did you see the papers? They're announcing roadwork on our street all summer."
+   },
+   {
+    "s": "B",
+    "fr": "Encore? Ils viennent de changer les tuyaux l'an dernier!",
+    "en": "Again? They just changed the pipes last year!"
+   },
+   {
+    "s": "A",
+    "fr": "Cette fois, c'est les égouts et les trottoirs.",
+    "en": "This time it's the sewers and the sidewalks."
+   },
+   {
+    "s": "B",
+    "fr": "Bon. Au moins, les festivals vont continuer au centre-ville.",
+    "en": "Well. At least the festivals will go on downtown."
+   },
+   {
+    "s": "A",
+    "fr": "Oui. Pis les Tremblay organisent un party de ruelle en juillet.",
+    "en": "Yes. And the Tremblays are organising an alley party in July."
+   },
+   {
+    "s": "B",
+    "fr": "Parfait. J'apporterai des sandwichs pis des œufs farcis.",
+    "en": "Perfect. I'll bring sandwiches and devilled eggs."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What is being repaired this time?",
+    "options": [
+     "The pipes",
+     "The sewers and sidewalks",
+     "The traffic lights"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Who is organising a party?",
+    "options": [
+     "The city",
+     "The Tremblays",
+     "Speaker B"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What will speaker B bring?",
+    "options": [
+     "Cake and juice",
+     "Sandwiches and devilled eggs",
+     "Nothing"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Say the singular and plural aloud: journal, travail, œil, œuf, genou, monsieur.",
+   "model": "un journal, des journaux; un travail, des travaux; un œil, des yeux; un œuf, des œufs; un genou, des genoux; monsieur, messieurs."
+  },
+  {
+   "prompt": "Describe the roadwork and festivals in your city this summer, using at least four irregular plurals.",
+   "model": "Cet été, il y a des travaux partout. Les journaux en parlent tous les jours. Heureusement, les festivals continuent, et les carnavals d'hiver reviendront en février."
+  },
+  {
+   "prompt": "Start a formal speech for a community event.",
+   "model": "Mesdames et messieurs, chers voisins, bienvenue à notre fête de quartier!"
+  }
+ ],
+ "write": {
+  "prompt": "Write a short notice (5–6 sentences) for your building about upcoming renovations. Use at least six irregular plurals.",
+  "model": "Mesdames et messieurs les locataires, des travaux auront lieu dans l'immeuble à partir du 3 mai. Les ouvriers remplaceront les tuyaux et les vitraux de l'entrée. Les journaux et les colis seront déposés au bureau. Veuillez ne pas laisser vos bijoux ou objets de valeur sans surveillance. Les baux ne seront pas modifiés. Merci de votre patience."
+ },
+ "quiz": [
+  {
+   "q": "Which -al noun takes -als?",
+   "options": [
+    "cheval",
+    "journal",
+    "bal",
+    "animal"
+   ],
+   "a": 2,
+   "why": "Bal, carnaval, festival, récital, régal, chacal → -als."
+  },
+  {
+   "q": "Plural of 'un bail'?",
+   "options": [
+    "des bails",
+    "des baux",
+    "des bailes",
+    "des baus"
+   ],
+   "a": 1,
+   "why": "Bail is an -aux exception: des baux."
+  },
+  {
+   "q": "How many -ou nouns take -x?",
+   "options": [
+    "Three",
+    "Five",
+    "Seven",
+    "None"
+   ],
+   "a": 2,
+   "why": "Bijou, caillou, chou, genou, hibou, joujou, pou."
+  },
+  {
+   "q": "Plural of 'un arc-en-ciel'?",
+   "options": [
+    "des arc-en-ciels",
+    "des arcs-en-ciels",
+    "des arcs-en-ciel",
+    "des arc-en-ciel"
+   ],
+   "a": 2,
+   "why": "Only the first noun takes the plural; en-ciel is a prepositional phrase."
+  },
+  {
+   "q": "'Les cieux' is used mainly…",
+   "options": [
+    "in weather reports",
+    "in poetic or religious language",
+    "in painting",
+    "in Quebec slang"
+   ],
+   "a": 1,
+   "why": "Weather and painting use les ciels."
+  },
+  {
+   "q": "Under the 1990 spelling reform, plural of 'un porte-monnaie'?",
+   "options": [
+    "des porte-monnaies",
+    "des portes-monnaies",
+    "des portes-monnaie",
+    "des porte-monnaie only"
+   ],
+   "a": 0,
+   "why": "Verb + noun: only the noun takes -s."
+  },
+  {
+   "q": "How is 'des œufs' pronounced?",
+   "options": [
+    "[dé-zeuf]",
+    "[dé-zeu]",
+    "[dé-zoo]",
+    "[dé-zof]"
+   ],
+   "a": 1,
+   "why": "The f is silent in the plural."
+  },
+  {
+   "q": "In Quebec, 'job' is usually…",
+   "options": [
+    "masculine",
+    "feminine",
+    "neuter",
+    "never used"
+   ],
+   "a": 1,
+   "why": "Une job, une bonne job (informal); France says un job."
+  }
+ ]
+}

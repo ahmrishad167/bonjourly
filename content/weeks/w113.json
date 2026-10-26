@@ -1,0 +1,643 @@
+{
+ "w": 113,
+ "title": "Giving opinions, agreeing and disagreeing",
+ "goal": "By the end of this lesson you can give your opinion with nuance (à mon avis, je trouve que), agree and disagree politely or casually, use the subjunctive after negative opinions, and react like a Quebecer (C'est sûr! Voyons donc! Ça a pas d'allure!).",
+ "learn": [
+  {
+   "h": "Giving your opinion",
+   "body": [
+    "The basic verbs are *penser que*, *croire que* and *trouver que*. *Trouver que* is very common for personal judgments: *Je trouve que ce film est trop long.*",
+    "Introductory phrases: *à mon avis*, *selon moi*, *d'après moi*, *pour moi* (in my opinion), *il me semble que* (it seems to me), *j'ai l'impression que* (I get the feeling that)."
+   ],
+   "table": {
+    "head": [
+     "Phrase",
+     "Register",
+     "Example"
+    ],
+    "rows": [
+     [
+      "Je pense que / Je crois que",
+      "neutral",
+      "Je pense que c'est une bonne idée."
+     ],
+     [
+      "Je trouve que",
+      "neutral, personal",
+      "Je trouve que c'est cher."
+     ],
+     [
+      "À mon avis / Selon moi",
+      "neutral to formal",
+      "À mon avis, il a raison."
+     ],
+     [
+      "Il me semble que",
+      "softer",
+      "Il me semble que c'était mieux avant."
+     ],
+     [
+      "Je suis convaincu(e) que",
+      "strong",
+      "Je suis convaincue que ça va marcher."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Indicative or subjunctive?",
+   "body": [
+    "Affirmative opinion verbs take the indicative: *Je pense qu'il a raison.* *Je crois que c'est vrai.*",
+    "Negative (and inverted question) forms usually take the subjunctive, because they express doubt: *Je ne pense pas qu'il ait raison.* *Je ne crois pas que ce soit vrai.* *Crois-tu que ce soit possible?*",
+    "Expressions of doubt always take the subjunctive: *Je doute que…*, *Ça m'étonnerait que…* (I'd be surprised if…)."
+   ],
+   "tip": "Je pense que + indicative; je ne pense pas que + subjunctive."
+  },
+  {
+   "h": "Agreeing",
+   "body": [
+    "Full agreement: *Je suis d'accord (avec toi / vous).* *Tout à fait.* *Exactement.* *Absolument.* *Tu as raison / Vous avez raison.* *C'est clair.*",
+    "Partial agreement: *Oui, mais…*, *Je vois ce que tu veux dire, mais…*, *Jusqu'à un certain point.*, *C'est vrai, cela dit…*, *Dans un sens, oui.*"
+   ]
+  },
+  {
+   "h": "Disagreeing politely and firmly",
+   "body": [
+    "Polite: *Je ne suis pas tout à fait d'accord.* *Je ne vois pas les choses comme ça.* *Je ne suis pas sûr(e) que ce soit la meilleure solution.* *Permettez-moi de ne pas être d'accord.*",
+    "Firm: *Je ne suis pas du tout d'accord.* *Pas du tout!* *Au contraire!* *C'est faux.* *Tu as tort.*",
+    "Note: 'I agree' is *je suis d'accord*, never *j'agrée*. And 'You're right' uses *avoir*: *tu as raison* (not *tu es raison*)."
+   ]
+  },
+  {
+   "h": "Quebec reactions",
+   "body": [
+    "In Quebec conversation, *C'est sûr!* is a very frequent way of agreeing (Sure! Definitely!). *Ben oui* and *ben non* soften or reinforce. *J'suis d'accord* is the casual pronunciation of *je suis d'accord*, often 'chu d'accord'.",
+    "To reject an idea: *Voyons donc!* (Come on! No way!), *Pas pantoute!* (Not at all!), *Ça a pas d'allure!* (That makes no sense / That's ridiculous!). All are informal."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "À mon avis, le transport en commun devrait être gratuit.",
+   "en": "In my opinion, public transit should be free.",
+   "note": "à mon avis to open"
+  },
+  {
+   "fr": "Je trouve que les loyers sont trop chers à Montréal.",
+   "en": "I find rents are too expensive in Montreal.",
+   "note": "trouver que = personal judgment"
+  },
+  {
+   "fr": "Je ne pense pas que ce soit une bonne idée.",
+   "en": "I don't think it's a good idea.",
+   "note": "negative → subjunctive"
+  },
+  {
+   "fr": "Il me semble que l'hiver a été plus court cette année.",
+   "en": "It seems to me winter was shorter this year.",
+   "note": "il me semble que + indicative"
+  },
+  {
+   "fr": "Je suis tout à fait d'accord avec vous.",
+   "en": "I completely agree with you.",
+   "note": "full agreement, polite"
+  },
+  {
+   "fr": "Tu as raison, je n'y avais pas pensé.",
+   "en": "You're right, I hadn't thought of that.",
+   "note": "avoir raison"
+  },
+  {
+   "fr": "Je vois ce que tu veux dire, mais je ne suis pas convaincu.",
+   "en": "I see what you mean, but I'm not convinced.",
+   "note": "partial agreement"
+  },
+  {
+   "fr": "Jusqu'à un certain point, oui.",
+   "en": "Up to a point, yes.",
+   "note": "nuanced agreement"
+  },
+  {
+   "fr": "Je ne suis pas du tout d'accord.",
+   "en": "I don't agree at all.",
+   "note": "firm disagreement"
+  },
+  {
+   "fr": "Au contraire, je pense que ça va aider tout le monde.",
+   "en": "On the contrary, I think it'll help everyone.",
+   "note": "au contraire"
+  },
+  {
+   "fr": "Ça m'étonnerait qu'il vienne.",
+   "en": "I'd be surprised if he came.",
+   "note": "ça m'étonnerait que + subjunctive"
+  },
+  {
+   "fr": "Crois-tu vraiment que ce soit possible?",
+   "en": "Do you really think it's possible?",
+   "note": "inverted question → subjunctive possible"
+  },
+  {
+   "fr": "D'après moi, il faut investir dans les écoles.",
+   "en": "In my view, we need to invest in schools.",
+   "note": "d'après moi"
+  },
+  {
+   "fr": "— Il fait froid, hein? — C'est sûr!",
+   "en": "\"It's cold, eh?\" \"For sure!\"",
+   "note": "C'est sûr: typical Quebec agreement"
+  },
+  {
+   "fr": "Voyons donc, ça n'a aucun sens!",
+   "en": "Come on, that makes no sense!",
+   "note": "voyons donc = disbelief, informal"
+  },
+  {
+   "fr": "Je ne suis pas sûre que ce soit la meilleure solution.",
+   "en": "I'm not sure it's the best solution.",
+   "note": "polite disagreement + subjunctive"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebecers agree with 'C'est sûr!' or 'J'suis d'accord' and reject ideas with 'Voyons donc!', 'Pas pantoute!' or 'Ça a pas d'allure!'. These are informal but everywhere in conversation.",
+  "items": [
+   {
+    "std": "Je suis d'accord.",
+    "qc": "J'suis d'accord. / Chu d'accord.",
+    "en": "I agree.",
+    "note": "casual pronunciation"
+   },
+   {
+    "std": "Bien sûr! / Certainement!",
+    "qc": "C'est sûr!",
+    "en": "For sure! Definitely!",
+    "note": "extremely common in Quebec, neutral to informal"
+   },
+   {
+    "std": "Allons donc! Ce n'est pas possible!",
+    "qc": "Voyons donc! Ça se peut pas!",
+    "en": "Come on! No way!",
+    "note": "voyons donc = disbelief; ça se peut pas = that's impossible; informal"
+   },
+   {
+    "std": "Pas du tout.",
+    "qc": "Pas pantoute.",
+    "en": "Not at all.",
+    "note": "pantoute (from pas en tout) is informal Quebec"
+   },
+   {
+    "std": "C'est absurde!",
+    "qc": "Ça a pas d'allure!",
+    "en": "That's ridiculous! That makes no sense!",
+    "note": "avoir de l'allure = to make sense, to look decent; informal"
+   },
+   {
+    "std": "Tu as bien raison.",
+    "qc": "T'as ben raison.",
+    "en": "You're so right.",
+    "note": "t'as and ben, informal"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Je ne pense pas qu'il ___ raison.",
+   "options": [
+    "a",
+    "ait",
+    "aura",
+    "avait"
+   ],
+   "a": 1,
+   "why": "Negative opinion → subjunctive: qu'il ait."
+  },
+  {
+   "t": "mcq",
+   "q": "Je pense qu'elle ___ raison.",
+   "options": [
+    "ait",
+    "a",
+    "aie",
+    "avoir"
+   ],
+   "a": 1,
+   "why": "Affirmative opinion → indicative."
+  },
+  {
+   "t": "mcq",
+   "q": "Which phrase shows partial agreement?",
+   "options": [
+    "Pas du tout.",
+    "Jusqu'à un certain point.",
+    "Tu as tort.",
+    "Voyons donc!"
+   ],
+   "a": 1,
+   "why": "Up to a point = partial."
+  },
+  {
+   "t": "mcq",
+   "q": "'Ça a pas d'allure!' means…",
+   "options": [
+    "That has no speed!",
+    "That's ridiculous!",
+    "That looks great!",
+    "That's not allowed!"
+   ],
+   "a": 1,
+   "why": "Informal Quebec: it makes no sense."
+  },
+  {
+   "t": "fill",
+   "q": "Tu as ___, je n'y avais pas pensé. (right)",
+   "a": [
+    "raison"
+   ],
+   "en": "You're right, I hadn't thought of that.",
+   "why": "Avoir raison = to be right."
+  },
+  {
+   "t": "fill",
+   "q": "Ça m'étonnerait qu'il ___. (venir)",
+   "a": [
+    "vienne"
+   ],
+   "en": "I'd be surprised if he came.",
+   "why": "Ça m'étonnerait que + subjunctive."
+  },
+  {
+   "t": "fill",
+   "q": "Je ne suis pas ___ d'accord. (at all)",
+   "a": [
+    "du tout"
+   ],
+   "en": "I don't agree at all.",
+   "why": "Pas du tout = not at all."
+  },
+  {
+   "t": "fill",
+   "q": "Je ne crois pas que ce ___ possible. (être)",
+   "a": [
+    "soit"
+   ],
+   "en": "I don't think it's possible.",
+   "why": "Negative opinion → subjunctive of être: soit."
+  },
+  {
+   "t": "build",
+   "en": "I completely agree with you.",
+   "a": "Je suis tout à fait d'accord avec toi."
+  },
+  {
+   "t": "build",
+   "en": "In my opinion, it's too expensive.",
+   "a": "À mon avis, c'est trop cher."
+  },
+  {
+   "t": "build",
+   "en": "I see what you mean, but…",
+   "a": "Je vois ce que tu veux dire, mais…"
+  },
+  {
+   "t": "translate",
+   "en": "I don't think it's a good idea.",
+   "a": [
+    "Je ne pense pas que ce soit une bonne idée.",
+    "Je ne crois pas que ce soit une bonne idée.",
+    "Je pense que ce n'est pas une bonne idée."
+   ],
+   "why": "Negative opinion verb + subjunctive."
+  },
+  {
+   "t": "translate",
+   "en": "You're wrong.",
+   "a": [
+    "Tu as tort.",
+    "Vous avez tort.",
+    "T'as tort."
+   ],
+   "why": "Avoir tort = to be wrong."
+  },
+  {
+   "t": "translate",
+   "en": "Not at all!",
+   "a": [
+    "Pas du tout!",
+    "Pas pantoute!",
+    "Absolument pas!"
+   ],
+   "why": "Pantoute is the informal Quebec version."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "à mon avis",
+   "en": "in my opinion",
+   "ex": "À mon avis, c'est trop risqué."
+  },
+  {
+   "fr": "selon moi / d'après moi",
+   "en": "in my view",
+   "ex": "Selon moi, il a tort."
+  },
+  {
+   "fr": "trouver que",
+   "en": "to find that, to think that",
+   "ex": "Je trouve que tu travailles trop."
+  },
+  {
+   "fr": "il me semble que",
+   "en": "it seems to me that",
+   "ex": "Il me semble qu'il était là."
+  },
+  {
+   "fr": "avoir raison",
+   "en": "to be right",
+   "ex": "Vous avez raison."
+  },
+  {
+   "fr": "avoir tort",
+   "en": "to be wrong",
+   "ex": "J'avais tort."
+  },
+  {
+   "fr": "être d'accord (avec)",
+   "en": "to agree (with)",
+   "ex": "Je suis d'accord avec ta sœur."
+  },
+  {
+   "fr": "tout à fait",
+   "en": "absolutely, exactly",
+   "ex": "Tout à fait, c'est ça."
+  },
+  {
+   "fr": "au contraire",
+   "en": "on the contrary",
+   "ex": "Au contraire, c'est une chance."
+  },
+  {
+   "fr": "jusqu'à un certain point",
+   "en": "up to a point",
+   "ex": "Je suis d'accord jusqu'à un certain point."
+  },
+  {
+   "fr": "ça m'étonnerait",
+   "en": "I doubt it, I'd be surprised",
+   "ex": "Ça m'étonnerait qu'il neige en mai."
+  },
+  {
+   "fr": "c'est sûr",
+   "en": "for sure, definitely",
+   "ex": "C'est sûr que je viens!",
+   "qc": true
+  },
+  {
+   "fr": "voyons donc",
+   "en": "come on!, no way!",
+   "ex": "Voyons donc, c'est impossible!",
+   "qc": true
+  },
+  {
+   "fr": "pantoute",
+   "en": "(not) at all",
+   "ex": "J'ai pas aimé ça pantoute.",
+   "qc": true
+  },
+  {
+   "fr": "avoir de l'allure",
+   "en": "to make sense; to look decent",
+   "ex": "Ton plan a de l'allure.",
+   "qc": true
+  },
+  {
+   "fr": "le point de vue",
+   "en": "point of view",
+   "g": "m",
+   "ex": "Je respecte ton point de vue."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "à mon avis",
+    "tip": "a-mo-na-VI: liaison in [n]."
+   },
+   {
+    "fr": "tout à fait",
+    "tip": "too-ta-FÈ: liaison in [t]."
+   },
+   {
+    "fr": "je suis d'accord",
+    "tip": "Careful: zhuh swi da-KOR; casual: shu da-KOR."
+   },
+   {
+    "fr": "pantoute",
+    "tip": "pan-TOOT: final t pronounced."
+   },
+   {
+    "fr": "voyons donc",
+    "tip": "vwa-yon DON(K), with an exasperated rise."
+   },
+   {
+    "fr": "ça a pas d'allure",
+    "tip": "sa-a pa da-LUR: two a's in a row, often merged."
+   }
+  ],
+  "title": "L'autoroute",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "As-tu vu la nouvelle? Ils veulent encore élargir l'autoroute.",
+    "en": "Did you see the news? They want to widen the highway again."
+   },
+   {
+    "s": "B",
+    "fr": "Oui. À mon avis, c'est une perte d'argent. Il faudrait plutôt investir dans le transport en commun.",
+    "en": "Yes. In my opinion, it's a waste of money. They should invest in public transit instead."
+   },
+   {
+    "s": "A",
+    "fr": "Je vois ce que tu veux dire, mais en banlieue, on n'a pas vraiment le choix.",
+    "en": "I see what you mean, but in the suburbs, we don't really have a choice."
+   },
+   {
+    "s": "B",
+    "fr": "C'est vrai jusqu'à un certain point. Mais je ne pense pas qu'une voie de plus règle le trafic.",
+    "en": "That's true up to a point. But I don't think one more lane will fix traffic."
+   },
+   {
+    "s": "A",
+    "fr": "Voyons donc! Ça va aider, c'est sûr.",
+    "en": "Come on! It'll help, for sure."
+   },
+   {
+    "s": "B",
+    "fr": "Pas pantoute! Dans deux ans, ça va être aussi bouché qu'avant.",
+    "en": "Not at all! In two years, it'll be just as jammed as before."
+   },
+   {
+    "s": "A",
+    "fr": "Bon, on n'est pas d'accord. Mais on est d'accord que le pont est un désastre?",
+    "en": "Well, we don't agree. But we agree the bridge is a disaster?"
+   },
+   {
+    "s": "B",
+    "fr": "Ça, oui! T'as ben raison.",
+    "en": "That, yes! You're so right."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What does B think of widening the highway?",
+    "options": [
+     "It's a great idea",
+     "It's a waste of money",
+     "It's urgent"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What argument does A give?",
+    "options": [
+     "Suburbs have no real choice",
+     "Transit is too expensive",
+     "The bridge is new"
+    ],
+    "a": 0
+   },
+   {
+    "q": "What do they finally agree on?",
+    "options": [
+     "Public transit",
+     "The highway",
+     "The bridge is a disaster"
+    ],
+    "a": 2
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Give your opinion on remote work in three sentences, using three different opinion phrases.",
+   "model": "À mon avis, le télétravail est très pratique. Je trouve qu'on est plus productif à la maison. Par contre, il me semble qu'on perd le contact avec les collègues."
+  },
+  {
+   "prompt": "Someone says 'L'hiver au Québec, c'est la meilleure saison.' Agree partially, then disagree on one point.",
+   "model": "Je vois ce que tu veux dire : le ski, c'est extraordinaire. Mais je ne pense pas que ce soit la meilleure saison; janvier est vraiment trop froid."
+  },
+  {
+   "prompt": "React casually to an absurd claim ('Le métro va être gratuit demain!').",
+   "model": "Voyons donc! Ça a pas d'allure. Ça m'étonnerait que ce soit vrai."
+  },
+  {
+   "prompt": "Disagree politely with your boss's idea.",
+   "model": "Je comprends votre point de vue, mais je ne suis pas certain que ce soit la meilleure solution. Est-ce qu'on pourrait envisager une autre option?"
+  }
+ ],
+ "write": {
+  "prompt": "Write a short comment (6–8 sentences) responding to the online question 'Faut-il interdire les voitures au centre-ville de Montréal?'. Give your opinion, acknowledge the other side, and conclude.",
+  "model": "À mon avis, il ne faut pas interdire complètement les voitures au centre-ville, mais il faut les limiter. Je trouve que les rues piétonnes rendent le quartier plus agréable. Certains commerçants pensent que ça fait fuir les clients. Je vois ce qu'ils veulent dire, mais je ne crois pas que ce soit vrai à long terme. D'ailleurs, les rues piétonnes de l'été sont toujours pleines de monde. Par contre, il faut penser aux personnes âgées et aux livraisons. Bref, je suis d'accord avec une réduction, pas avec une interdiction totale."
+ },
+ "quiz": [
+  {
+   "q": "Which is correct?",
+   "options": [
+    "Je ne crois pas qu'il vient.",
+    "Je ne crois pas qu'il vienne.",
+    "Je ne crois pas qu'il viendrait venir.",
+    "Je ne crois qu'il vienne pas."
+   ],
+   "a": 1,
+   "why": "Negative opinion → subjunctive."
+  },
+  {
+   "q": "How do you say 'I agree'?",
+   "options": [
+    "J'agrée.",
+    "Je suis d'accord.",
+    "J'ai d'accord.",
+    "Je suis agréé."
+   ],
+   "a": 1,
+   "why": "Être d'accord."
+  },
+  {
+   "q": "'C'est sûr!' in Quebec usually means…",
+   "options": [
+    "It's safe!",
+    "For sure! / Definitely!",
+    "It's sour!",
+    "I'm not sure."
+   ],
+   "a": 1,
+   "why": "A very common agreement."
+  },
+  {
+   "q": "Which is a polite disagreement?",
+   "options": [
+    "Voyons donc!",
+    "Tu as tort.",
+    "Je ne vois pas les choses comme ça.",
+    "Pas pantoute!"
+   ],
+   "a": 2,
+   "why": "Soft and neutral."
+  },
+  {
+   "q": "'Il me semble que' is followed by…",
+   "options": [
+    "the subjunctive",
+    "the indicative",
+    "an infinitive",
+    "nothing"
+   ],
+   "a": 1,
+   "why": "Il me semble que c'était mieux."
+  },
+  {
+   "q": "What does 'pantoute' mean?",
+   "options": [
+    "everything",
+    "not at all",
+    "often",
+    "always"
+   ],
+   "a": 1,
+   "why": "Pas pantoute = pas du tout."
+  },
+  {
+   "q": "'Tu as tort' means…",
+   "options": [
+    "You're twisted.",
+    "You're wrong.",
+    "You're right.",
+    "You're late."
+   ],
+   "a": 1,
+   "why": "Avoir tort."
+  },
+  {
+   "q": "Which expression = 'I'd be surprised if…'?",
+   "options": [
+    "Ça m'étonnerait que",
+    "Je suis sûr que",
+    "Il est clair que",
+    "Je trouve que"
+   ],
+   "a": 0,
+   "why": "Followed by the subjunctive."
+  },
+  {
+   "q": "'Voyons donc!' expresses…",
+   "options": [
+    "agreement",
+    "disbelief / 'come on!'",
+    "an invitation to look",
+    "a goodbye"
+   ],
+   "a": 1,
+   "why": "Informal disbelief or rejection."
+  }
+ ]
+}

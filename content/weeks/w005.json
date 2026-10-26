@@ -1,0 +1,674 @@
+{
+ "w": 5,
+ "title": "Definite and indefinite articles",
+ "goal": "By the end of this lesson you can choose between le, la, l', les and un, une, des, use the article to show a noun's gender and number, and recognise the gender Quebecers give to common English borrowings like une job.",
+ "learn": [
+  {
+   "h": "Every French noun has a gender",
+   "body": [
+    "In French, every noun is either masculine or feminine, even objects: *le livre* (the book) is masculine, *la table* (the table) is feminine. The gender is not logical, so learn every noun together with its article.",
+    "The article is usually the only thing that tells you the gender and number of a noun when you hear it, because the plural *-s* is silent: *le livre* and *les livres* sound different only in the article."
+   ],
+   "tip": "Never learn 'livre = book'. Learn 'un livre = a book'."
+  },
+  {
+   "h": "The definite article: the",
+   "body": [
+    "*le* goes before a masculine noun, *la* before a feminine noun, and *les* before any plural noun.",
+    "Before a vowel or a silent h, *le* and *la* both become *l'*: *l'ami*, *l'école*, *l'hôtel*. In *les*, the s links to a vowel with a [z] sound: *les‿amis*."
+   ],
+   "table": {
+    "head": [
+     "",
+     "Masculine",
+     "Feminine",
+     "Before a vowel / h"
+    ],
+    "rows": [
+     [
+      "Singular",
+      "le livre",
+      "la table",
+      "l'ami, l'école"
+     ],
+     [
+      "Plural",
+      "les livres",
+      "les tables",
+      "les amis [z], les écoles [z]"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "The indefinite article: a, an, some",
+   "body": [
+    "*un* goes before a masculine noun, *une* before a feminine noun, and *des* before any plural noun. *Des* means 'some', but English often leaves it out: *J'ai des amis* = I have (some) friends.",
+    "*un* and *des* make a liaison before a vowel: *un‿ami* [n], *des‿amis* [z]. *Une* never changes."
+   ],
+   "table": {
+    "head": [
+     "",
+     "Masculine",
+     "Feminine"
+    ],
+    "rows": [
+     [
+      "Singular",
+      "un livre",
+      "une table"
+     ],
+     [
+      "Plural",
+      "des livres",
+      "des tables"
+     ]
+    ]
+   },
+   "tip": "French almost never drops the article. 'I have friends' must be 'J'ai des amis'."
+  },
+  {
+   "h": "Which one do I use?",
+   "body": [
+    "Use *un / une / des* for something new or not specific: *Il y a un chat* (there's a cat). Use *le / la / les* for something specific or already mentioned: *Le chat est noir* (the cat is black).",
+    "French also uses *le / la / les* for things in general, where English uses no article: *J'aime le café* (I like coffee), *Les chats sont gentils* (cats are nice)."
+   ],
+   "table": {
+    "head": [
+     "English",
+     "French"
+    ],
+    "rows": [
+     [
+      "I have a cat.",
+      "J'ai un chat."
+     ],
+     [
+      "The cat is small.",
+      "Le chat est petit."
+     ],
+     [
+      "I like coffee.",
+      "J'aime le café."
+     ],
+     [
+      "I have (some) books.",
+      "J'ai des livres."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Quebec: English words get a gender too",
+   "body": [
+    "Quebec French borrows English words in casual speech, and each one gets a gender. Some differ from France: Quebecers say *une job* (feminine), while France says *un job*. You will also hear *une game* (a game, a match), *un party* and *une toune* (a song, from 'tune').",
+    "Note: *un char* (a car) is often called an anglicism, but it isn't. *Char* is an old French word for a cart or carriage, kept in Quebec for 'car'. It is informal; the standard word is *une voiture* (also *une auto*, very common in Quebec)."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "J'ai un chat.",
+   "en": "I have a cat.",
+   "note": "un: masculine, not specific"
+  },
+  {
+   "fr": "Le chat est petit.",
+   "en": "The cat is small.",
+   "note": "le: the cat we just mentioned"
+  },
+  {
+   "fr": "C'est une maison.",
+   "en": "It's a house.",
+   "note": "une: maison is feminine"
+  },
+  {
+   "fr": "La maison est grande.",
+   "en": "The house is big.",
+   "note": "la + feminine adjective grande"
+  },
+  {
+   "fr": "J'ai des amis à Montréal.",
+   "en": "I have friends in Montreal.",
+   "note": "des cannot be left out; liaison des‿amis [z]"
+  },
+  {
+   "fr": "Les amis de Marc sont gentils.",
+   "en": "Marc's friends are nice.",
+   "note": "les‿amis [z]"
+  },
+  {
+   "fr": "L'école est à Laval.",
+   "en": "The school is in Laval.",
+   "note": "la → l' before a vowel"
+  },
+  {
+   "fr": "L'hôtel est grand.",
+   "en": "The hotel is big.",
+   "note": "le → l' before a silent h"
+  },
+  {
+   "fr": "J'aime le café.",
+   "en": "I like coffee.",
+   "note": "general taste: le, not un"
+  },
+  {
+   "fr": "Les enfants aiment la neige.",
+   "en": "Children like snow.",
+   "note": "general statement: les and la"
+  },
+  {
+   "fr": "C'est un ami.",
+   "en": "He's a friend.",
+   "note": "un‿ami: liaison in [n]"
+  },
+  {
+   "fr": "Il y a des livres sur la table.",
+   "en": "There are books on the table.",
+   "note": "des = some; la table = specific"
+  },
+  {
+   "fr": "J'ai une nouvelle job.",
+   "en": "I have a new job.",
+   "note": "Quebec casual: une job (feminine); standard: un emploi, un travail"
+  },
+  {
+   "fr": "Mon char est dans la rue.",
+   "en": "My car is in the street.",
+   "note": "Quebec informal; standard: ma voiture"
+  },
+  {
+   "fr": "C'est une bonne toune!",
+   "en": "It's a good song!",
+   "note": "Quebec informal, from English 'tune'; standard: une chanson"
+  }
+ ],
+ "quebec": {
+  "intro": "Casual Quebec French uses many English loanwords, and each gets a gender, sometimes different from France: une job. Un char (car) looks like one but is actually an old French word.",
+  "items": [
+   {
+    "std": "J'ai un nouveau travail.",
+    "qc": "J'ai une nouvelle job.",
+    "en": "I have a new job.",
+    "note": "informal; feminine in Quebec, masculine (un job) in France"
+   },
+   {
+    "std": "Ma voiture est là.",
+    "qc": "Mon char est là.",
+    "en": "My car is there.",
+    "note": "informal; char is old French, not English"
+   },
+   {
+    "std": "On regarde le match.",
+    "qc": "On r'garde la game.",
+    "en": "We're watching the game.",
+    "note": "informal; une game (feminine)"
+   },
+   {
+    "std": "C'est une belle chanson.",
+    "qc": "C't'une belle toune.",
+    "en": "It's a nice song.",
+    "note": "informal; une toune"
+   },
+   {
+    "std": "Il y a une fête samedi.",
+    "qc": "Y'a un party samedi.",
+    "en": "There's a party on Saturday.",
+    "note": "informal but very common; un party is masculine"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Which article goes with 'école' (feminine)?",
+   "options": [
+    "le",
+    "la",
+    "l'",
+    "un"
+   ],
+   "a": 2,
+   "why": "Before a vowel, le and la both become l'."
+  },
+  {
+   "t": "mcq",
+   "q": "'I have friends' in French is…",
+   "options": [
+    "J'ai amis.",
+    "J'ai des amis.",
+    "J'ai les amis.",
+    "J'ai un amis."
+   ],
+   "a": 1,
+   "why": "French needs an article; des = some."
+  },
+  {
+   "t": "mcq",
+   "q": "'I like coffee' in French is…",
+   "options": [
+    "J'aime café.",
+    "J'aime un café.",
+    "J'aime le café.",
+    "J'aime des cafés."
+   ],
+   "a": 2,
+   "why": "General likes use the definite article."
+  },
+  {
+   "t": "mcq",
+   "q": "In Quebec, 'job' is usually…",
+   "options": [
+    "masculine: un job",
+    "feminine: une job",
+    "it has no gender",
+    "plural only"
+   ],
+   "a": 1,
+   "why": "Quebec says une job; France says un job."
+  },
+  {
+   "t": "mcq",
+   "q": "Where does the word 'char' (car) come from?",
+   "options": [
+    "English 'car'",
+    "Old French 'char', a cart",
+    "Spanish",
+    "Indigenous languages"
+   ],
+   "a": 1,
+   "why": "It's an old French word kept in Quebec, not an anglicism."
+  },
+  {
+   "t": "fill",
+   "q": "___ maison est grande. (the)",
+   "a": [
+    "La"
+   ],
+   "en": "The house is big.",
+   "why": "maison is feminine: la maison."
+  },
+  {
+   "t": "fill",
+   "q": "C'est ___ livre. (a)",
+   "a": [
+    "un"
+   ],
+   "en": "It's a book.",
+   "why": "livre is masculine: un livre."
+  },
+  {
+   "t": "fill",
+   "q": "___ enfants sont à l'école. (the)",
+   "a": [
+    "Les"
+   ],
+   "en": "The children are at school.",
+   "why": "Plural: les, with liaison les‿enfants."
+  },
+  {
+   "t": "fill",
+   "q": "Il y a ___ livres sur la table. (some)",
+   "a": [
+    "des"
+   ],
+   "en": "There are books on the table.",
+   "why": "des is the plural of un/une."
+  },
+  {
+   "t": "build",
+   "en": "The hotel is big.",
+   "a": "L'hôtel est grand."
+  },
+  {
+   "t": "build",
+   "en": "I have a cat and a house.",
+   "a": "J'ai un chat et une maison."
+  },
+  {
+   "t": "translate",
+   "en": "Children like snow.",
+   "a": [
+    "Les enfants aiment la neige."
+   ],
+   "why": "General statements use le, la, les."
+  },
+  {
+   "t": "translate",
+   "en": "It's a school.",
+   "a": [
+    "C'est une école."
+   ],
+   "why": "école is feminine: une école."
+  },
+  {
+   "t": "translate",
+   "en": "I have a new job.",
+   "a": [
+    "J'ai un nouveau travail.",
+    "J'ai un nouvel emploi.",
+    "J'ai une nouvelle job.",
+    "J'ai un nouveau job."
+   ],
+   "why": "Standard: un travail, un emploi. Quebec casual: une job."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "le livre",
+   "en": "book",
+   "g": "m",
+   "ex": "Le livre est sur la table."
+  },
+  {
+   "fr": "la table",
+   "en": "table",
+   "g": "f",
+   "ex": "C'est une grande table."
+  },
+  {
+   "fr": "la maison",
+   "en": "house, home",
+   "g": "f",
+   "ex": "La maison est petite."
+  },
+  {
+   "fr": "l'ami / l'amie",
+   "en": "friend",
+   "ex": "C'est un ami. C'est une amie."
+  },
+  {
+   "fr": "l'école",
+   "en": "school",
+   "g": "f",
+   "ex": "L'école est à Laval."
+  },
+  {
+   "fr": "la rue",
+   "en": "street",
+   "g": "f",
+   "ex": "La rue est grande."
+  },
+  {
+   "fr": "le travail",
+   "en": "work, job",
+   "g": "m",
+   "ex": "Le travail est intéressant."
+  },
+  {
+   "fr": "l'emploi",
+   "en": "job, employment",
+   "g": "m",
+   "ex": "J'ai un emploi à Montréal."
+  },
+  {
+   "fr": "la job",
+   "en": "job",
+   "g": "f",
+   "ex": "C'est une bonne job.",
+   "qc": true
+  },
+  {
+   "fr": "la voiture",
+   "en": "car",
+   "g": "f",
+   "ex": "La voiture est rouge."
+  },
+  {
+   "fr": "le char",
+   "en": "car (informal)",
+   "g": "m",
+   "ex": "Mon char est vieux.",
+   "qc": true
+  },
+  {
+   "fr": "la chanson",
+   "en": "song",
+   "g": "f",
+   "ex": "C'est une belle chanson."
+  },
+  {
+   "fr": "la toune",
+   "en": "song, tune (informal)",
+   "g": "f",
+   "ex": "J'aime cette toune.",
+   "qc": true
+  },
+  {
+   "fr": "le party",
+   "en": "party (informal)",
+   "g": "m",
+   "ex": "Il y a un party samedi.",
+   "qc": true
+  },
+  {
+   "fr": "aimer",
+   "en": "to like, to love",
+   "ex": "J'aime le café."
+  },
+  {
+   "fr": "il y a",
+   "en": "there is, there are",
+   "ex": "Il y a un chat."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "le, la, les",
+    "tip": "luh, la, lay. Le vs les is the only clue to singular vs plural."
+   },
+   {
+    "fr": "un, une",
+    "tip": "Nasal [uhn] vs ün (n pronounced)."
+   },
+   {
+    "fr": "les amis",
+    "tip": "lay-za-MEE: liaison in [z]."
+   },
+   {
+    "fr": "un ami",
+    "tip": "uh-na-MEE: liaison in [n]."
+   },
+   {
+    "fr": "l'école",
+    "tip": "One word to the ear: lay-KOL."
+   },
+   {
+    "fr": "des enfants",
+    "tip": "day-zahn-FAHN."
+   }
+  ],
+  "title": "La nouvelle job",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Salut! Ça va?",
+    "en": "Hi! How are you?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui! J'ai une nouvelle job.",
+    "en": "Yes! I have a new job."
+   },
+   {
+    "s": "A",
+    "fr": "Bravo! C'est où?",
+    "en": "Congratulations! Where is it?"
+   },
+   {
+    "s": "B",
+    "fr": "C'est une école, à Laval.",
+    "en": "It's a school, in Laval."
+   },
+   {
+    "s": "A",
+    "fr": "L'école est grande?",
+    "en": "Is the school big?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, et les enfants sont gentils.",
+    "en": "Yes, and the children are nice."
+   },
+   {
+    "s": "A",
+    "fr": "Il y a un party samedi. Tu viens?",
+    "en": "There's a party on Saturday. Are you coming?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, avec mon char!",
+    "en": "Yes, with my car!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What is B's news?",
+    "options": [
+     "A new car",
+     "A new job",
+     "A new house"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Where does B work?",
+    "options": [
+     "In a school",
+     "In a hotel",
+     "In a café"
+    ],
+    "a": 0
+   },
+   {
+    "q": "What is happening on Saturday?",
+    "options": [
+     "A game",
+     "A party",
+     "A class"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Name five objects around you with un or une.",
+   "model": "Un livre, une table, une chaise, un téléphone, une lampe."
+  },
+  {
+   "prompt": "Now say something about each one with le or la.",
+   "model": "Le livre est petit. La table est grande. La lampe est blanche."
+  },
+  {
+   "prompt": "Say three things you like, using le, la or les.",
+   "model": "J'aime le café, la neige et les chats."
+  }
+ ],
+ "write": {
+  "prompt": "Write 4–6 sentences about your street or your home: what there is (un, une, des) and what it is like (le, la, les).",
+  "model": "J'habite dans une petite rue. Il y a une école et un café. L'école est grande. Le café est très bon. Il y a des enfants dans la rue. J'aime la rue."
+ },
+ "quiz": [
+  {
+   "q": "What is the plural of 'le livre'?",
+   "options": [
+    "le livres",
+    "les livre",
+    "les livres",
+    "des livre"
+   ],
+   "a": 2,
+   "why": "les + noun with -s."
+  },
+  {
+   "q": "Why 'l'hôtel' and not 'le hôtel'?",
+   "options": [
+    "hôtel is feminine",
+    "hôtel starts with a silent h",
+    "it's Quebec French",
+    "it's plural"
+   ],
+   "a": 1,
+   "why": "Le and la shorten to l' before a vowel or silent h."
+  },
+  {
+   "q": "What does 'des' mean?",
+   "options": [
+    "the",
+    "some / (plural of a)",
+    "of the only",
+    "this"
+   ],
+   "a": 1,
+   "why": "des is the plural of un/une."
+  },
+  {
+   "q": "Which is correct for a general statement?",
+   "options": [
+    "J'aime chats.",
+    "J'aime des chats.",
+    "J'aime les chats.",
+    "J'aime un chat."
+   ],
+   "a": 2,
+   "why": "General likes: le, la, les."
+  },
+  {
+   "q": "How do you best learn the gender of a noun?",
+   "options": [
+    "By its meaning",
+    "Always learn it with un/une or le/la",
+    "All objects are masculine",
+    "Words ending in -e are always feminine"
+   ],
+   "a": 1,
+   "why": "Gender is often arbitrary; learn the article with the noun."
+  },
+  {
+   "q": "'Un party' in Quebec is…",
+   "options": [
+    "masculine",
+    "feminine",
+    "plural",
+    "never used"
+   ],
+   "a": 0,
+   "why": "Quebecers say un party (informal for une fête)."
+  },
+  {
+   "q": "What's the standard word for 'car'?",
+   "options": [
+    "le char",
+    "la voiture",
+    "la toune",
+    "la job"
+   ],
+   "a": 1,
+   "why": "une voiture (also une auto); char is informal Quebec."
+  },
+  {
+   "q": "In 'des amis', the s of des is…",
+   "options": [
+    "silent",
+    "pronounced [s]",
+    "pronounced [z]",
+    "pronounced [t]"
+   ],
+   "a": 2,
+   "why": "Liaison in [z]: day-za-mee."
+  },
+  {
+   "q": "'Une toune' means…",
+   "options": [
+    "a tooth",
+    "a song",
+    "a town",
+    "a turn"
+   ],
+   "a": 1,
+   "why": "From English 'tune'. Informal; standard: une chanson."
+  }
+ ]
+}

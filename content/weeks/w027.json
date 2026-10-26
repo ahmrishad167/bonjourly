@@ -1,0 +1,665 @@
+{
+ "w": 27,
+ "title": "Family members",
+ "goal": "By the end of this lesson you can name your family members, describe your family with possessives and adjectives, and recognise Quebec family words like mononcle, matante and grand-maman.",
+ "learn": [
+  {
+   "h": "The core family",
+   "body": [
+    "Most family words come in masculine / feminine pairs: *le père / la mère* (father / mother), *le frère / la sœur* (brother / sister), *le fils / la fille* (son / daughter), *le mari / la femme* (husband / wife).",
+    "Plurals often group both: *les parents* (parents, also relatives), *les enfants* (children), *les grands-parents* (grandparents). Note that *fils* is pronounced [fiss]."
+   ],
+   "table": {
+    "head": [
+     "Masculine",
+     "Feminine",
+     "English"
+    ],
+    "rows": [
+     [
+      "le père",
+      "la mère",
+      "father / mother"
+     ],
+     [
+      "le frère",
+      "la sœur",
+      "brother / sister"
+     ],
+     [
+      "le fils",
+      "la fille",
+      "son / daughter"
+     ],
+     [
+      "le mari",
+      "la femme",
+      "husband / wife"
+     ],
+     [
+      "le grand-père",
+      "la grand-mère",
+      "grandfather / grandmother"
+     ],
+     [
+      "le petit-fils",
+      "la petite-fille",
+      "grandson / granddaughter"
+     ]
+    ]
+   },
+   "tip": "La fille = the daughter AND the girl; la femme = the wife AND the woman."
+  },
+  {
+   "h": "The extended family",
+   "body": [
+    "*L'oncle / la tante* (uncle / aunt), *le cousin / la cousine* (cousin), *le neveu / la nièce* (nephew / niece).",
+    "The prefix *beau- / belle-* means 'in-law' or 'step-': *le beau-père* (father-in-law or stepfather), *la belle-mère*, *le beau-frère*, *la belle-sœur*, *les beaux-parents*."
+   ],
+   "table": {
+    "head": [
+     "Masculine",
+     "Feminine",
+     "English"
+    ],
+    "rows": [
+     [
+      "l'oncle",
+      "la tante",
+      "uncle / aunt"
+     ],
+     [
+      "le cousin",
+      "la cousine",
+      "cousin"
+     ],
+     [
+      "le neveu",
+      "la nièce",
+      "nephew / niece"
+     ],
+     [
+      "le beau-frère",
+      "la belle-sœur",
+      "brother-in-law / sister-in-law"
+     ],
+     [
+      "le beau-père",
+      "la belle-mère",
+      "father-in-law, stepfather / mother-in-law, stepmother"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Talking about your family",
+   "body": [
+    "Combine what you know: possessives (*mon frère, ma sœur, mes parents*), *avoir* for counting (*J'ai deux frères.*), *être* + adjectives for describing (*Ma sœur est grande.*) and *s'appeler* for names (*Il s'appelle Luc.*).",
+    "Ask: *Tu as des frères et sœurs?* (Do you have siblings?) *Comment s'appelle ta mère?* *Quel âge a ton fils?* Answer in the negative with *de*: *Je n'ai pas de frère.*",
+    "Remember *mon* before a feminine word starting with a vowel: *mon amie*, *mon arrière-grand-mère*. *Fils unique / fille unique* = only child."
+   ]
+  },
+  {
+   "h": "Quebec family words",
+   "body": [
+    "In Quebec speech, *mon oncle* and *ma tante* fuse into *mononcle* and *matante*, used like titles: *Mononcle Gilles*, *matante Lise*. They are affectionate and informal; write *mon oncle* and *ma tante* in formal texts.",
+    "Grandparents are usually *grand-maman* and *grand-papa* (France prefers *mamie* and *papi*). In casual pronunciation, the è of *mère*, *père* and *frère* can stretch into a glide: *ma mère* → [ma maère]."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "J'ai deux frères et une sœur.",
+   "en": "I have two brothers and a sister."
+  },
+  {
+   "fr": "Ma mère s'appelle Hélène.",
+   "en": "My mother's name is Hélène."
+  },
+  {
+   "fr": "Mon père est ingénieur.",
+   "en": "My father is an engineer.",
+   "note": "no article before a profession"
+  },
+  {
+   "fr": "Mes parents habitent à Trois-Rivières.",
+   "en": "My parents live in Trois-Rivières."
+  },
+  {
+   "fr": "Nous avons un fils et une fille.",
+   "en": "We have a son and a daughter."
+  },
+  {
+   "fr": "Mon fils a six ans.",
+   "en": "My son is six.",
+   "note": "fils is pronounced [fiss]"
+  },
+  {
+   "fr": "Je suis fille unique.",
+   "en": "I'm an only child.",
+   "note": "a man says fils unique"
+  },
+  {
+   "fr": "Je n'ai pas de cousins.",
+   "en": "I don't have any cousins.",
+   "note": "pas de"
+  },
+  {
+   "fr": "Ma tante est très drôle.",
+   "en": "My aunt is very funny."
+  },
+  {
+   "fr": "Mes grands-parents sont à la retraite.",
+   "en": "My grandparents are retired."
+  },
+  {
+   "fr": "Ma belle-sœur vient de Rimouski.",
+   "en": "My sister-in-law is from Rimouski."
+  },
+  {
+   "fr": "Tu as des frères et sœurs?",
+   "en": "Do you have brothers and sisters?"
+  },
+  {
+   "fr": "Quel âge a ta nièce?",
+   "en": "How old is your niece?"
+  },
+  {
+   "fr": "On va chez mes beaux-parents dimanche.",
+   "en": "We're going to my in-laws' on Sunday."
+  },
+  {
+   "fr": "Mononcle Gilles fait le meilleur barbecue.",
+   "en": "Uncle Gilles makes the best barbecue.",
+   "note": "informal Quebec"
+  },
+  {
+   "fr": "Grand-maman habite avec nous.",
+   "en": "Grandma lives with us.",
+   "note": "Quebec: grand-maman"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebec family talk is warm and informal: uncles and aunts become 'mononcle' and 'matante', grandparents are 'grand-maman' and 'grand-papa', and the è in mère or frère often stretches into a glide.",
+  "items": [
+   {
+    "std": "mon oncle Gilles",
+    "qc": "mononcle Gilles",
+    "en": "Uncle Gilles",
+    "note": "spoken as one word; informal and affectionate"
+   },
+   {
+    "std": "ma tante Lise",
+    "qc": "matante Lise",
+    "en": "Aunt Lise",
+    "note": "informal; can also mean any older woman, jokingly"
+   },
+   {
+    "std": "mamie, papi",
+    "qc": "grand-maman, grand-papa",
+    "en": "grandma, grandpa",
+    "note": "neutral in Quebec, used by everyone"
+   },
+   {
+    "std": "maman, papa",
+    "qc": "moman, popa",
+    "en": "mom, dad",
+    "note": "informal pronunciation, especially in the regions"
+   },
+   {
+    "std": "Ma mère est là.",
+    "qc": "Ma maère est là.",
+    "en": "My mother is here.",
+    "note": "the long è glides in casual speech; same for père, frère"
+   },
+   {
+    "std": "J'ai deux frères.",
+    "qc": "J'ai deux fraères.",
+    "en": "I have two brothers.",
+    "note": "same diphthong; don't force it, just recognise it"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Your mother's sister is your…",
+   "options": [
+    "cousine",
+    "nièce",
+    "tante",
+    "belle-sœur"
+   ],
+   "a": 2,
+   "why": "Ta tante = your aunt."
+  },
+  {
+   "t": "mcq",
+   "q": "'Le beau-frère' means…",
+   "options": [
+    "the handsome brother",
+    "the brother-in-law",
+    "the older brother",
+    "the cousin"
+   ],
+   "a": 1,
+   "why": "beau- / belle- = in-law or step-."
+  },
+  {
+   "t": "mcq",
+   "q": "How is 'fils' pronounced?",
+   "options": [
+    "[fil]",
+    "[fiss]",
+    "[fee]",
+    "[fils]"
+   ],
+   "a": 1,
+   "why": "The l is silent, the s is pronounced: [fiss]."
+  },
+  {
+   "t": "mcq",
+   "q": "'Matante' is…",
+   "options": [
+    "formal written French",
+    "informal Quebec for ma tante",
+    "a type of cake",
+    "a grandmother"
+   ],
+   "a": 1,
+   "why": "Mononcle and matante are informal Quebec forms."
+  },
+  {
+   "t": "fill",
+   "q": "J'ai deux ___ et une sœur. (brothers)",
+   "a": [
+    "frères"
+   ],
+   "en": "I have two brothers and a sister.",
+   "why": "frère → frères in the plural."
+  },
+  {
+   "t": "fill",
+   "q": "___ mère s'appelle Hélène. (my)",
+   "a": [
+    "Ma"
+   ],
+   "en": "My mother's name is Hélène.",
+   "why": "Mère is feminine: ma."
+  },
+  {
+   "t": "fill",
+   "q": "Je n'ai pas ___ cousins.",
+   "a": [
+    "de"
+   ],
+   "en": "I don't have any cousins.",
+   "why": "After pas, des → de."
+  },
+  {
+   "t": "fill",
+   "q": "Mes ___ sont à la retraite. (grandparents)",
+   "a": [
+    "grands-parents"
+   ],
+   "en": "My grandparents are retired.",
+   "why": "Plural: grands-parents, with an s on both parts."
+  },
+  {
+   "t": "build",
+   "en": "We have a son and a daughter.",
+   "a": "Nous avons un fils et une fille."
+  },
+  {
+   "t": "build",
+   "en": "My parents live in Trois-Rivières.",
+   "a": "Mes parents habitent à Trois-Rivières."
+  },
+  {
+   "t": "build",
+   "en": "How old is your niece?",
+   "a": "Quel âge a ta nièce?"
+  },
+  {
+   "t": "translate",
+   "en": "Do you have brothers and sisters?",
+   "a": [
+    "Tu as des frères et sœurs?",
+    "Vous avez des frères et sœurs?",
+    "As-tu des frères et sœurs?",
+    "Avez-vous des frères et sœurs?",
+    "Est-ce que tu as des frères et sœurs?",
+    "Est-ce que vous avez des frères et sœurs?",
+    "T'as des frères et sœurs?"
+   ],
+   "why": "des frères et sœurs = siblings."
+  },
+  {
+   "t": "translate",
+   "en": "I'm an only child.",
+   "a": [
+    "Je suis fils unique.",
+    "Je suis fille unique.",
+    "Je suis enfant unique."
+   ],
+   "why": "fils / fille / enfant unique."
+  },
+  {
+   "t": "translate",
+   "en": "My father is an engineer.",
+   "a": [
+    "Mon père est ingénieur."
+   ],
+   "why": "No article before a profession after être."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "le père / la mère",
+   "en": "father / mother",
+   "ex": "Mon père et ma mère sont gentils."
+  },
+  {
+   "fr": "le frère / la sœur",
+   "en": "brother / sister",
+   "ex": "J'ai une sœur."
+  },
+  {
+   "fr": "le fils / la fille",
+   "en": "son / daughter",
+   "ex": "Leur fils a dix ans."
+  },
+  {
+   "fr": "le mari / la femme",
+   "en": "husband / wife",
+   "ex": "Mon mari travaille en ville."
+  },
+  {
+   "fr": "les parents",
+   "en": "parents; relatives",
+   "g": "m",
+   "ex": "Mes parents habitent à Québec."
+  },
+  {
+   "fr": "les grands-parents",
+   "en": "grandparents",
+   "g": "m",
+   "ex": "Mes grands-parents ont quatre-vingts ans."
+  },
+  {
+   "fr": "l'oncle / la tante",
+   "en": "uncle / aunt",
+   "ex": "Ma tante habite en Gaspésie."
+  },
+  {
+   "fr": "le cousin / la cousine",
+   "en": "cousin",
+   "ex": "Ma cousine s'appelle Julie."
+  },
+  {
+   "fr": "le neveu / la nièce",
+   "en": "nephew / niece",
+   "ex": "Mon neveu joue au hockey."
+  },
+  {
+   "fr": "les beaux-parents",
+   "en": "in-laws",
+   "g": "m",
+   "ex": "On soupe chez mes beaux-parents."
+  },
+  {
+   "fr": "enfant unique",
+   "en": "only child",
+   "ex": "Je suis enfant unique."
+  },
+  {
+   "fr": "mononcle",
+   "en": "uncle (informal)",
+   "g": "m",
+   "ex": "Mononcle Réjean arrive!",
+   "qc": true
+  },
+  {
+   "fr": "matante",
+   "en": "auntie (informal)",
+   "g": "f",
+   "ex": "Matante Lise fait des tartes.",
+   "qc": true
+  },
+  {
+   "fr": "grand-maman / grand-papa",
+   "en": "grandma / grandpa",
+   "ex": "Grand-maman a quatre-vingt-cinq ans.",
+   "qc": true
+  },
+  {
+   "fr": "la famille",
+   "en": "family",
+   "g": "f",
+   "ex": "Ma famille est grande."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "le fils",
+    "tip": "luh-FISS: silent l, pronounced s."
+   },
+   {
+    "fr": "la fille",
+    "tip": "la-FEE-y: ill sounds like 'y'."
+   },
+   {
+    "fr": "la sœur",
+    "tip": "la-SUHR: lips rounded, like 'sir' with round lips."
+   },
+   {
+    "fr": "le neveu",
+    "tip": "nuh-VUH; final eu like in 'deux'."
+   },
+   {
+    "fr": "les grands-parents",
+    "tip": "lay-grahn-pa-RAHN: the s and d are silent."
+   },
+   {
+    "fr": "mononcle",
+    "tip": "mo-NONKL, one word in Quebec speech."
+   },
+   {
+    "fr": "ma mère (Quebec)",
+    "tip": "Casual: ma-MAÈR, the è glides."
+   }
+  ],
+  "title": "La photo de famille",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "C'est qui, sur la photo?",
+    "en": "Who's in the photo?"
+   },
+   {
+    "s": "B",
+    "fr": "C'est ma famille à Noël. Ici, c'est ma mère et mon père.",
+    "en": "It's my family at Christmas. Here, it's my mother and my father."
+   },
+   {
+    "s": "A",
+    "fr": "Et le grand monsieur avec la tuque?",
+    "en": "And the tall man with the toque?"
+   },
+   {
+    "s": "B",
+    "fr": "C'est mononcle Gilles, le frère de ma mère. Il est tellement drôle!",
+    "en": "That's Uncle Gilles, my mother's brother. He's so funny!"
+   },
+   {
+    "s": "A",
+    "fr": "Tu as des frères et sœurs?",
+    "en": "Do you have brothers and sisters?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, une sœur. Elle est à côté de grand-maman.",
+    "en": "Yes, a sister. She's next to Grandma."
+   },
+   {
+    "s": "A",
+    "fr": "Et les enfants?",
+    "en": "And the kids?"
+   },
+   {
+    "s": "B",
+    "fr": "Ce sont mes neveux, les fils de ma sœur. Ils ont trois et cinq ans.",
+    "en": "They're my nephews, my sister's sons. They're three and five."
+   }
+  ],
+  "questions": [
+   {
+    "q": "Who is Gilles?",
+    "options": [
+     "B's father",
+     "B's uncle",
+     "B's brother-in-law"
+    ],
+    "a": 1
+   },
+   {
+    "q": "How many sisters does B have?",
+    "options": [
+     "None",
+     "One",
+     "Two"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Who are the children in the photo?",
+    "options": [
+     "B's sons",
+     "B's cousins",
+     "B's nephews"
+    ],
+    "a": 2
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Describe your immediate family in 3–4 sentences: who, names, ages.",
+   "model": "Dans ma famille, il y a quatre personnes. Ma femme s'appelle Sara. Nous avons deux enfants: un fils de huit ans et une fille de cinq ans."
+  },
+  {
+   "prompt": "Talk about one relative you like and why.",
+   "model": "J'adore ma tante Lise. Elle est drôle et très gentille. Elle habite à Sherbrooke."
+  },
+  {
+   "prompt": "Say 'my uncle and my aunt are coming' the standard way, then the Quebec family way.",
+   "model": "Mon oncle et ma tante viennent. / Mononcle pis matante s'en viennent."
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences describing a family photo (real or imaginary): who is there, where they live, what they are like.",
+  "model": "Sur la photo, il y a toute ma famille. Mes parents sont au milieu. Mon frère est à côté de ma mère; il habite à Ottawa. Ma sœur et son mari sont derrière. Leurs enfants sont devant grand-papa. Mononcle Gilles a une tuque rouge, comme toujours!"
+ },
+ "quiz": [
+  {
+   "q": "Your father's father is your…",
+   "options": [
+    "oncle",
+    "grand-père",
+    "beau-père",
+    "petit-fils"
+   ],
+   "a": 1,
+   "why": "Le grand-père = grandfather."
+  },
+  {
+   "q": "'La petite-fille' means…",
+   "options": [
+    "the little girl only",
+    "the granddaughter (or little girl)",
+    "the niece",
+    "the stepdaughter"
+   ],
+   "a": 1,
+   "why": "Petite-fille with a hyphen = granddaughter."
+  },
+  {
+   "q": "'Mes beaux-parents' are my…",
+   "options": [
+    "handsome parents",
+    "grandparents",
+    "in-laws",
+    "godparents"
+   ],
+   "a": 2,
+   "why": "beaux-parents = parents-in-law."
+  },
+  {
+   "q": "Which is correct?",
+   "options": [
+    "Ma père",
+    "Mon mère",
+    "Mon père",
+    "Mes père"
+   ],
+   "a": 2,
+   "why": "Père is masculine singular: mon père."
+  },
+  {
+   "q": "In Quebec, 'grand-maman' is…",
+   "options": [
+    "very formal",
+    "the normal word for grandma",
+    "a great-grandmother",
+    "a godmother"
+   ],
+   "a": 1,
+   "why": "Quebecers say grand-maman / grand-papa."
+  },
+  {
+   "q": "'Je n'ai pas ___ sœur.'",
+   "options": [
+    "une",
+    "de",
+    "la",
+    "des"
+   ],
+   "a": 1,
+   "why": "After pas: de."
+  },
+  {
+   "q": "'La femme de mon frère' is my…",
+   "options": [
+    "belle-sœur",
+    "cousine",
+    "tante",
+    "nièce"
+   ],
+   "a": 0,
+   "why": "My brother's wife = my sister-in-law."
+  },
+  {
+   "q": "'Mononcle' is best used…",
+   "options": [
+    "in formal letters",
+    "in casual family talk",
+    "only for great-uncles",
+    "only in France"
+   ],
+   "a": 1,
+   "why": "It's informal, affectionate Quebec speech."
+  },
+  {
+   "q": "The son of your sister is your…",
+   "options": [
+    "cousin",
+    "neveu",
+    "petit-fils",
+    "beau-frère"
+   ],
+   "a": 1,
+   "why": "Le neveu = nephew."
+  }
+ ]
+}

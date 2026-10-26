@@ -1,0 +1,647 @@
+{
+ "w": 163,
+ "title": "Mock assessment 1",
+ "goal": "By the end of this lesson you have completed a full four-skill B2 mock test (listening, reading, writing, speaking) covering the whole B2 phase, and you know which skill and which grammar points need targeted work next week.",
+ "learn": [
+  {
+   "h": "How the mock works",
+   "body": [
+    "This lesson simulates a B2 exam in four parts, modelled on the format of tests like the DELF B2 and the TEFAQ/TCF Québec used for immigration: *compréhension de l'oral*, *compréhension des écrits*, *production écrite*, *production orale*.",
+    "Day 1: read the strategies below. Days 2–3: do the drills and the reading/vocabulary sections under time pressure. Day 4: listening. Day 5: speaking and writing tasks, timed. Day 6: the quiz. Score yourself honestly; next week targets your weakest skill."
+   ],
+   "table": {
+    "head": [
+     "Part",
+     "Task",
+     "Suggested time"
+    ],
+    "rows": [
+     [
+      "Compréhension de l'oral",
+      "dialogue + questions (Day 4)",
+      "15 min"
+     ],
+     [
+      "Compréhension des écrits",
+      "examples, drills, quiz",
+      "30 min"
+     ],
+     [
+      "Production écrite",
+      "argued text, 180–220 words",
+      "45 min"
+     ],
+     [
+      "Production orale",
+      "monologue + interaction",
+      "20 min (+ 10 min prep)"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Grammar checklist for the whole B2 phase",
+   "body": [
+    "*C'est* vs *il est* (*C'est un bon ingénieur* / *Il est ingénieur*). Relative pronouns (*dont, auquel, duquel, lequel*). Subjunctive after *bien que, pour que, avant que, il faut que, à condition que*. Concession (*même si* + indicative). Pronouns *y* and *en* and their order (*Je lui en ai parlé*). Adjective position changing meaning (*un ancien collègue* / *un bâtiment ancien*).",
+    "In the writing and speaking tasks, examiners at B2 look for: a clear structure, connectors, nuance (hedging, concession), precise vocabulary and a controlled range of tenses and moods."
+   ]
+  },
+  {
+   "h": "Exam strategies",
+   "body": [
+    "Listening: read the questions before listening; note keywords; don't panic over one missed word. Reading: skim first for the overall idea, then scan for answers; underline connectors.",
+    "Writing: spend five minutes on a plan (introduction, two or three arguments, concession, conclusion); leave five minutes to proofread for gender, agreement and accents.",
+    "Speaking: announce your structure (*Je vais d'abord…, ensuite…*), give examples from your life in Quebec, and if you don't know a word, paraphrase (*c'est une sorte de…, c'est ce qu'on utilise pour…*)."
+   ],
+   "tip": "Proofread with a checklist: gender, agreement, accents, subjunctive triggers, prepositions."
+  }
+ ],
+ "examples": [
+  {
+   "fr": "C'est une excellente gestionnaire; elle est d'ailleurs très appréciée.",
+   "en": "She's an excellent manager; she's also very well liked.",
+   "note": "c'est + determiner + noun / il-elle est + adjective (w129)"
+  },
+  {
+   "fr": "Le projet dont je vous ai parlé a été approuvé.",
+   "en": "The project I told you about has been approved.",
+   "note": "dont with parler de (w138)"
+  },
+  {
+   "fr": "La conférence à laquelle j'ai assisté était passionnante.",
+   "en": "The conference I attended was fascinating.",
+   "note": "laquelle with assister à (w136)"
+  },
+  {
+   "fr": "Avant qu'il ne parte, j'aimerais lui parler.",
+   "en": "Before he leaves, I'd like to talk to him.",
+   "note": "expletive ne in formal style (w131)"
+  },
+  {
+   "fr": "Je lui en ai parlé hier.",
+   "en": "I talked to him about it yesterday.",
+   "note": "pronoun order: lui before en (w140)"
+  },
+  {
+   "fr": "Un ancien collègue m'a contacté au sujet d'un bâtiment ancien.",
+   "en": "A former colleague contacted me about an old building.",
+   "note": "adjective position changes meaning (w134)"
+  },
+  {
+   "fr": "Dès réception de votre dossier, nous l'étudierons.",
+   "en": "As soon as we receive your file, we'll review it.",
+   "note": "dès + noun, administrative style (w133)"
+  },
+  {
+   "fr": "Bien que la tâche soit difficile, nous la terminerons à temps.",
+   "en": "Although the task is difficult, we'll finish it on time.",
+   "note": "bien que + subjunctive (w150)"
+  },
+  {
+   "fr": "Il se peut que les résultats soient publiés demain.",
+   "en": "The results may be published tomorrow.",
+   "note": "hedging + subjunctive (w151)"
+  },
+  {
+   "fr": "Cela dit, il faut rester prudent.",
+   "en": "That said, we must remain cautious.",
+   "note": "cela in writing (w141)"
+  },
+  {
+   "fr": "Il s'en est bien sorti malgré la pression.",
+   "en": "He managed well despite the pressure.",
+   "note": "s'en sortir (w144)"
+  },
+  {
+   "fr": "Ce texte est rédigé dans un français soutenu, contrairement aux dialogues.",
+   "en": "This text is written in formal French, unlike the dialogue.",
+   "note": "register (w149)"
+  },
+  {
+   "fr": "Force est de constater que la situation s'est améliorée.",
+   "en": "One has to admit the situation has improved.",
+   "note": "editorial style (w153)"
+  },
+  {
+   "fr": "Je vous accorde ce point, mais ma conclusion reste la même.",
+   "en": "I'll grant you that point, but my conclusion stays the same.",
+   "note": "debate (w159)"
+  },
+  {
+   "fr": "Les deux articles divergent quant aux causes de la crise.",
+   "en": "The two articles differ as to the causes of the crisis.",
+   "note": "synthesis (w158)"
+  }
+ ],
+ "quebec": {
+  "intro": "The listening part of a Quebec-oriented test (such as the TEFAQ) uses Quebec voices, from neutral Radio-Canada style to everyday speech. Check that you understand these typical spoken forms before Day 4.",
+  "items": [
+   {
+    "std": "Il n'y a pas de problème.",
+    "qc": "Y'a pas de trouble.",
+    "en": "There's no problem.",
+    "note": "informal, very common"
+   },
+   {
+    "std": "Je vais te rappeler tantôt.",
+    "qc": "M'as te rappeler tantôt.",
+    "en": "I'll call you back in a bit.",
+    "note": "m'as = je vais (very informal); tantôt = in a while / a while ago (Quebec)"
+   },
+   {
+    "std": "Est-ce que tu viens ce soir?",
+    "qc": "Tu viens-tu à soir?",
+    "en": "Are you coming tonight?",
+    "note": "-tu question particle, à soir = ce soir"
+   },
+   {
+    "std": "Il fait très froid ce matin.",
+    "qc": "Y fait frette à matin.",
+    "en": "It's freezing this morning.",
+    "note": "frette, à matin: informal"
+   },
+   {
+    "std": "C'est vraiment ennuyeux.",
+    "qc": "C'est ben plate.",
+    "en": "It's really boring.",
+    "note": "plate = boring (Quebec)"
+   },
+   {
+    "std": "Dans le fond, il a raison.",
+    "qc": "Dans le fond, y'a raison.",
+    "en": "Basically, he's right.",
+    "note": "y'a = il a"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "___ est un excellent médecin.",
+   "options": [
+    "Il",
+    "C'",
+    "Elle",
+    "Ce"
+   ],
+   "a": 1,
+   "why": "c'est + article + noun."
+  },
+  {
+   "t": "mcq",
+   "q": "Le livre ___ j'ai besoin est épuisé.",
+   "options": [
+    "que",
+    "dont",
+    "duquel",
+    "lequel"
+   ],
+   "a": 1,
+   "why": "avoir besoin de → dont."
+  },
+  {
+   "t": "mcq",
+   "q": "Je ___ ai parlé. (to her, about it)",
+   "options": [
+    "en lui",
+    "lui en",
+    "y lui",
+    "la en"
+   ],
+   "a": 1,
+   "why": "Order: lui before en."
+  },
+  {
+   "t": "mcq",
+   "q": "Même s'il ___ tard, on finira ce soir.",
+   "options": [
+    "soit",
+    "est",
+    "sera",
+    "serait"
+   ],
+   "a": 1,
+   "why": "même si + indicative."
+  },
+  {
+   "t": "mcq",
+   "q": "'Un ancien collègue' means…",
+   "options": [
+    "an old (elderly) colleague",
+    "a former colleague",
+    "an antique colleague",
+    "a senior colleague"
+   ],
+   "a": 1,
+   "why": "ancien before the noun = former."
+  },
+  {
+   "t": "fill",
+   "q": "Il faut que vous ___ ce formulaire. (remplir)",
+   "a": [
+    "remplissiez"
+   ],
+   "en": "You need to fill out this form.",
+   "why": "il faut que + subjunctive."
+  },
+  {
+   "t": "fill",
+   "q": "La réunion à ___ j'ai participé était longue.",
+   "a": [
+    "laquelle"
+   ],
+   "en": "The meeting I took part in was long.",
+   "why": "participer à + la réunion → à laquelle."
+  },
+  {
+   "t": "fill",
+   "q": "Des pommes? J'___ ai acheté trois kilos.",
+   "a": [
+    "en"
+   ],
+   "en": "Apples? I bought three kilos of them.",
+   "why": "en replaces de + noun with a quantity."
+  },
+  {
+   "t": "fill",
+   "q": "Pour qu'il ___ comprendre, parle lentement. (pouvoir)",
+   "a": [
+    "puisse"
+   ],
+   "en": "So that he can understand, speak slowly.",
+   "why": "pour que + subjunctive."
+  },
+  {
+   "t": "build",
+   "en": "The project I told you about was approved.",
+   "a": "Le projet dont je t'ai parlé a été approuvé."
+  },
+  {
+   "t": "build",
+   "en": "He managed well.",
+   "a": "Il s'en est bien sorti."
+  },
+  {
+   "t": "build",
+   "en": "Although it's expensive, it's worth it.",
+   "a": "Bien que ce soit cher, ça vaut la peine."
+  },
+  {
+   "t": "translate",
+   "en": "I talked to him about it.",
+   "a": [
+    "Je lui en ai parlé.",
+    "Je lui ai parlé de ça.",
+    "Je lui ai parlé de cela."
+   ],
+   "why": "lui + en, in that order."
+  },
+  {
+   "t": "translate",
+   "en": "It's possible that he's sick.",
+   "a": [
+    "Il est possible qu'il soit malade.",
+    "Il se peut qu'il soit malade.",
+    "C'est possible qu'il soit malade.",
+    "Il est peut-être malade."
+   ],
+   "why": "possibility → subjunctive."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "l'épreuve",
+   "en": "test, exam section",
+   "g": "f",
+   "ex": "L'épreuve écrite dure une heure."
+  },
+  {
+   "fr": "la compréhension de l'oral",
+   "en": "listening comprehension",
+   "g": "f",
+   "ex": "La compréhension de l'oral vient en premier."
+  },
+  {
+   "fr": "la production écrite",
+   "en": "writing task",
+   "g": "f",
+   "ex": "La production écrite demande 200 mots."
+  },
+  {
+   "fr": "la production orale",
+   "en": "speaking task",
+   "g": "f",
+   "ex": "La production orale se fait devant un examinateur."
+  },
+  {
+   "fr": "la consigne",
+   "en": "instructions (for a task)",
+   "g": "f",
+   "ex": "Lis bien la consigne avant de commencer."
+  },
+  {
+   "fr": "le temps de préparation",
+   "en": "preparation time",
+   "g": "m",
+   "ex": "Vous avez dix minutes de temps de préparation."
+  },
+  {
+   "fr": "relire",
+   "en": "to proofread, reread",
+   "ex": "Garde cinq minutes pour relire ton texte."
+  },
+  {
+   "fr": "paraphraser",
+   "en": "to paraphrase",
+   "ex": "Si tu oublies un mot, paraphrase."
+  },
+  {
+   "fr": "la grille d'évaluation",
+   "en": "marking grid, rubric",
+   "g": "f",
+   "ex": "La grille d'évaluation compte cinq critères."
+  },
+  {
+   "fr": "le barème",
+   "en": "scoring scale",
+   "g": "m",
+   "ex": "Selon le barème, il faut 50 sur 100."
+  },
+  {
+   "fr": "dès réception de",
+   "en": "upon receipt of",
+   "ex": "Dès réception du paiement, nous expédions la commande."
+  },
+  {
+   "fr": "plate",
+   "en": "boring (familiar)",
+   "ex": "Le film était plate.",
+   "qc": true
+  },
+  {
+   "fr": "tantôt",
+   "en": "in a while; a while ago (Quebec)",
+   "ex": "Je t'appelle tantôt.",
+   "qc": true
+  },
+  {
+   "fr": "réussir un examen",
+   "en": "to pass an exam",
+   "ex": "Elle a réussi son examen du premier coup."
+  },
+  {
+   "fr": "passer un examen",
+   "en": "to take (sit) an exam",
+   "ex": "Je passe l'examen samedi."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "Tu viens-tu?",
+    "tip": "tu-vyin-TU: the particle -tu is unstressed but clear."
+   },
+   {
+    "fr": "tantôt",
+    "tip": "tan-TÔ: two nasal-plus-o syllables."
+   },
+   {
+    "fr": "plate",
+    "tip": "PLATT: the t is pronounced."
+   },
+   {
+    "fr": "épreuve",
+    "tip": "é-PREUV."
+   },
+   {
+    "fr": "il se peut qu'il soit",
+    "tip": "is-peu-kil-SWA in fast speech."
+   },
+   {
+    "fr": "je lui en ai parlé",
+    "tip": "juh-lui-an-né-par-LÉ: liaison en‿ai."
+   }
+  ],
+  "title": "Compréhension de l'oral : un nouvel emploi",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Salut Sophie! Pis, ton nouvel emploi à Québec?",
+    "en": "Hi Sophie! So, your new job in Quebec City?"
+   },
+   {
+    "s": "B",
+    "fr": "Ben, j'ai commencé lundi. L'équipe est super fine, mais le transport, c'est autre chose.",
+    "en": "Well, I started Monday. The team is really nice, but the commute is another story."
+   },
+   {
+    "s": "A",
+    "fr": "Tu prends pas l'autobus?",
+    "en": "Don't you take the bus?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, mais il passe aux trente minutes. Si je le manque, j'arrive en retard.",
+    "en": "Yes, but it comes every thirty minutes. If I miss it, I'm late."
+   },
+   {
+    "s": "A",
+    "fr": "Pourquoi tu t'achètes pas une auto usagée?",
+    "en": "Why don't you buy a used car?"
+   },
+   {
+    "s": "B",
+    "fr": "J'y ai pensé, mais bien que ce soit pratique, ça coûte cher : l'assurance, l'essence, le stationnement…",
+    "en": "I've thought about it, but although it's convenient, it's expensive: insurance, gas, parking…"
+   },
+   {
+    "s": "A",
+    "fr": "Et le covoiturage?",
+    "en": "And carpooling?"
+   },
+   {
+    "s": "B",
+    "fr": "Justement, une collègue dont le mari travaille près du bureau m'a proposé de m'emmener.",
+    "en": "Actually, a colleague whose husband works near the office offered to drive me."
+   },
+   {
+    "s": "A",
+    "fr": "C'est parfait, ça!",
+    "en": "That's perfect!"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, à condition que je paie ma part de l'essence. Je lui en ai parlé hier, on commence la semaine prochaine.",
+    "en": "Yes, provided I pay my share of the gas. I talked to her about it yesterday; we start next week."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What is Sophie's problem with her new job?",
+    "options": [
+     "Her team",
+     "Her salary",
+     "Getting to work"
+    ],
+    "a": 2
+   },
+   {
+    "q": "Why doesn't she buy a car?",
+    "options": [
+     "She can't drive",
+     "It's too expensive overall",
+     "There's no parking at all"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What is the carpooling condition?",
+    "options": [
+     "She drives on Fridays",
+     "She pays her share of the gas",
+     "She brings coffee"
+    ],
+    "a": 1
+   },
+   {
+    "q": "When does the carpooling start?",
+    "options": [
+     "Tomorrow",
+     "Next week",
+     "Next month"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Monologue (3 minutes, 10 min prep): 'Le télétravail devrait-il devenir la norme au Québec?' Give a clear position, two arguments with examples, a concession and a conclusion.",
+   "model": "Je vais d'abord présenter les avantages du télétravail, puis ses limites, avant de donner ma position. D'abord, le télétravail réduit le temps de transport : à Montréal, certains passent deux heures par jour dans le trafic. Ensuite, il permet de mieux concilier travail et famille. Certes, il peut isoler les employés et nuire à l'esprit d'équipe. C'est pourquoi je pense qu'un modèle hybride, deux ou trois jours au bureau, serait la meilleure solution."
+  },
+  {
+   "prompt": "Interaction (role-play): you call your landlord because the heating has broken down in January. Explain, insist politely, and agree on a solution.",
+   "model": "Bonjour Monsieur Tremblay, je vous appelle parce que le chauffage ne fonctionne plus depuis hier soir. Il fait 14 degrés dans l'appartement. Je comprends que ce soit difficile un dimanche, mais il faudrait qu'un technicien vienne aujourd'hui. Est-ce qu'on peut s'entendre pour 15 h au plus tard?"
+  },
+  {
+   "prompt": "Paraphrase three words you might forget during the exam: 'le déneigement', 'un dépanneur', 'le covoiturage'.",
+   "model": "Le déneigement, c'est quand la ville enlève la neige des rues. Un dépanneur, c'est un petit magasin de quartier ouvert tard. Le covoiturage, c'est quand plusieurs personnes partagent une voiture pour aller au même endroit."
+  }
+ ],
+ "write": {
+  "prompt": "Production écrite (45 minutes, 180–220 words): Your city wants to replace a park with a parking lot. Write a letter to the local newspaper giving your argued opinion.",
+  "model": "Madame, Monsieur, C'est avec inquiétude que j'ai appris le projet de la Ville de remplacer le parc des Érables par un stationnement. Je souhaite exprimer mon désaccord. D'abord, ce parc est l'un des rares espaces verts du quartier. Les familles, dont beaucoup vivent dans de petits logements, y trouvent un lieu de détente indispensable. De plus, les arbres contribuent à réduire la chaleur en été, un enjeu de plus en plus important avec les changements climatiques. Certes, le manque de stationnement est un problème réel pour les commerçants. Toutefois, il existe d'autres solutions : améliorer le transport en commun, créer des stationnements souterrains ou encourager le vélo. Il serait regrettable que la Ville sacrifie un bien collectif pour une solution à court terme. Bien que je comprenne les contraintes budgétaires, je demande aux élus de reconsidérer leur décision et de consulter les citoyens avant d'aller de l'avant. Veuillez agréer, Madame, Monsieur, l'expression de mes salutations distinguées. Rishad, résident du quartier"
+ },
+ "quiz": [
+  {
+   "q": "Which relative pronoun completes: 'L'outil ___ je me sers est cassé'?",
+   "options": [
+    "que",
+    "dont",
+    "auquel",
+    "lequel"
+   ],
+   "a": 1,
+   "why": "se servir de → dont."
+  },
+  {
+   "q": "'Bien que' requires…",
+   "options": [
+    "the indicative",
+    "the subjunctive",
+    "the conditional",
+    "the infinitive"
+   ],
+   "a": 1,
+   "why": "bien que + subjunctive."
+  },
+  {
+   "q": "'Il est ingénieur' vs 'C'est un ingénieur': which is correct?",
+   "options": [
+    "Only the first",
+    "Only the second",
+    "Both",
+    "Neither"
+   ],
+   "a": 2,
+   "why": "Il est + profession without article; c'est + article + noun."
+  },
+  {
+   "q": "'Tantôt' in Quebec usually means…",
+   "options": [
+    "sometimes",
+    "in a while / a while ago",
+    "too late",
+    "always"
+   ],
+   "a": 1,
+   "why": "Quebec usage: earlier today or later today."
+  },
+  {
+   "q": "Which is a good speaking-exam strategy if you forget a word?",
+   "options": [
+    "Stop talking",
+    "Switch to English",
+    "Paraphrase it",
+    "Ask for the answer"
+   ],
+   "a": 2,
+   "why": "C'est une sorte de… / c'est ce qu'on utilise pour…"
+  },
+  {
+   "q": "'Je lui en ai donné' — what does 'en' stand for?",
+   "options": [
+    "the person",
+    "a quantity / some of something",
+    "a place",
+    "the time"
+   ],
+   "a": 1,
+   "why": "en replaces de + noun."
+  },
+  {
+   "q": "'Un bâtiment ancien' means…",
+   "options": [
+    "a former building",
+    "an old building",
+    "a famous building",
+    "a rebuilt building"
+   ],
+   "a": 1,
+   "why": "ancien after the noun = old."
+  },
+  {
+   "q": "Expletive ne appears in…",
+   "options": [
+    "Avant qu'il ne parte",
+    "Il ne part pas",
+    "Ne partez pas",
+    "Il n'est jamais parti"
+   ],
+   "a": 0,
+   "why": "Optional, formal ne after avant que, without negative meaning."
+  },
+  {
+   "q": "In a formal letter, the best closing is…",
+   "options": [
+    "À plus!",
+    "Bye!",
+    "Veuillez agréer l'expression de mes salutations distinguées.",
+    "Bonne journée, là!"
+   ],
+   "a": 2,
+   "why": "Standard formal closing formula."
+  },
+  {
+   "q": "'C'est plate' means…",
+   "options": [
+    "It's flat",
+    "It's boring",
+    "It's cheap",
+    "It's simple"
+   ],
+   "a": 1,
+   "why": "Quebec familiar: plate = boring."
+  }
+ ]
+}

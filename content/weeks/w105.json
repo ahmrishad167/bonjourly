@@ -1,0 +1,671 @@
+{
+ "w": 105,
+ "title": "Conditionnel passé",
+ "goal": "By the end of this lesson you can form the conditionnel passé and use it to express regrets, reproaches, missed possibilities and unconfirmed news, especially with j'aurais dû, j'aurais pu and j'aurais aimé.",
+ "learn": [
+  {
+   "h": "Formation: conditional of avoir/être + past participle",
+   "body": [
+    "The conditionnel passé is a compound tense: the conditionnel présent of *avoir* or *être* + the past participle. It means 'would have done'.",
+    "Use *être* with the same verbs as in the passé composé (movement verbs like *aller, venir, partir, arriver*, and all pronominal verbs), with the same agreement rules: *Elle serait venue. Nous nous serions amusés.*"
+   ],
+   "table": {
+    "head": [
+     "",
+     "parler (avoir)",
+     "partir (être)",
+     "se lever (être)"
+    ],
+    "rows": [
+     [
+      "je",
+      "j'aurais parlé",
+      "je serais parti(e)",
+      "je me serais levé(e)"
+     ],
+     [
+      "tu",
+      "tu aurais parlé",
+      "tu serais parti(e)",
+      "tu te serais levé(e)"
+     ],
+     [
+      "il / elle / on",
+      "il aurait parlé",
+      "elle serait partie",
+      "il se serait levé"
+     ],
+     [
+      "nous",
+      "nous aurions parlé",
+      "nous serions parti(e)s",
+      "nous nous serions levé(e)s"
+     ],
+     [
+      "vous",
+      "vous auriez parlé",
+      "vous seriez parti(e)(s)",
+      "vous vous seriez levé(e)(s)"
+     ],
+     [
+      "ils / elles",
+      "ils auraient parlé",
+      "elles seraient parties",
+      "ils se seraient levés"
+     ]
+    ]
+   },
+   "tip": "Passé composé with the auxiliary in the conditional: j'ai parlé → j'aurais parlé."
+  },
+  {
+   "h": "Should have, could have, would have liked",
+   "body": [
+    "Three combinations are extremely common and worth learning as chunks:",
+    "*J'aurais dû* + infinitive = I should have: *J'aurais dû partir plus tôt.*",
+    "*J'aurais pu* + infinitive = I could have / might have: *Tu aurais pu m'appeler!* (reproach) *Ça aurait pu être pire.*",
+    "*J'aurais aimé / voulu* + infinitive or *que* + subjunctive = I would have liked: *J'aurais aimé te voir. J'aurais voulu que tu sois là.*"
+   ],
+   "table": {
+    "head": [
+     "French",
+     "English",
+     "Function"
+    ],
+    "rows": [
+     [
+      "J'aurais dû étudier.",
+      "I should have studied.",
+      "regret"
+     ],
+     [
+      "Tu aurais pu me le dire!",
+      "You could have told me!",
+      "reproach"
+     ],
+     [
+      "On aurait pu gagner.",
+      "We could have won.",
+      "missed possibility"
+     ],
+     [
+      "J'aurais aimé venir.",
+      "I would have liked to come.",
+      "unfulfilled wish"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Unreal past and si clauses",
+   "body": [
+    "The conditionnel passé describes what would have happened if things had been different: *Sans ton aide, j'aurais abandonné.* (Without your help, I would have given up.) *À ta place, je serais resté.* (In your shoes, I would have stayed.)",
+    "With *si*, it pairs with the plus-que-parfait (type 3, next week): *Si j'avais su, je serais venu.* Never put the conditional after *si*."
+   ]
+  },
+  {
+   "h": "Unconfirmed information in the news",
+   "body": [
+    "Journalists use the conditionnel passé for past facts that are not yet confirmed: *Selon la police, le suspect aurait pris la fuite vers les États-Unis.* = According to police, the suspect reportedly fled to the U.S.",
+    "In English this is 'reportedly', 'allegedly', 'is said to have'. It's a key reading skill for Radio-Canada and La Presse.",
+    "It is also the 'future in the past' for completed actions in reported speech: *Il a dit qu'il aurait fini avant midi.*"
+   ]
+  },
+  {
+   "h": "Quebec: j'aurais dû, t'aurais pu, and a famous movie line",
+   "body": [
+    "In casual Quebec speech, *tu aurais* contracts to *t'aurais* and *ça aurait* to *ç'aurait* [sɔrɛ]: *T'aurais pu m'avertir!* *Ç'aurait été le fun!* (*le fun* = fun, enjoyable).",
+    "Every Quebecer knows the line *« Si j'aurais su, j'aurais pas venu »* from the 1984 film *La Guerre des tuques*. It's quoted as a joke precisely because it contains two classic errors: *si j'aurais* (standard: *si j'avais*) and *j'aurais venu* (standard: *je serais venu*). The correct sentence: *Si j'avais su, je ne serais pas venu.*"
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "J'aurais dû partir plus tôt, il y avait un bouchon sur la 40.",
+   "en": "I should have left earlier, there was a traffic jam on the 40.",
+   "note": "aurais dû = should have"
+  },
+  {
+   "fr": "Tu aurais pu m'appeler!",
+   "en": "You could have called me!",
+   "note": "reproach"
+  },
+  {
+   "fr": "Ça aurait pu être pire.",
+   "en": "It could have been worse."
+  },
+  {
+   "fr": "J'aurais aimé te présenter mes parents.",
+   "en": "I would have liked to introduce you to my parents.",
+   "note": "unfulfilled wish"
+  },
+  {
+   "fr": "Elle serait venue, mais elle était malade.",
+   "en": "She would have come, but she was sick.",
+   "note": "être + agreement: venue"
+  },
+  {
+   "fr": "Sans ton aide, j'aurais abandonné.",
+   "en": "Without your help, I would have given up.",
+   "note": "unreal past"
+  },
+  {
+   "fr": "À ta place, je serais resté à la maison.",
+   "en": "In your shoes, I would have stayed home.",
+   "note": "advice about the past"
+  },
+  {
+   "fr": "Nous nous serions bien amusés avec vous.",
+   "en": "We would have had a great time with you.",
+   "note": "pronominal verb: être + agreement"
+  },
+  {
+   "fr": "Selon la police, le suspect aurait pris la fuite.",
+   "en": "According to police, the suspect reportedly fled.",
+   "note": "unconfirmed news"
+  },
+  {
+   "fr": "L'incendie aurait été causé par une cigarette.",
+   "en": "The fire was reportedly caused by a cigarette.",
+   "note": "conditionnel passé + passive"
+  },
+  {
+   "fr": "Si j'avais su, je serais venu plus tôt.",
+   "en": "If I had known, I would have come earlier.",
+   "note": "type 3 preview: si + plus-que-parfait"
+  },
+  {
+   "fr": "Vous auriez dû réserver: c'est complet.",
+   "en": "You should have booked: it's full."
+  },
+  {
+   "fr": "Ils auraient voulu acheter une maison, mais les prix ont trop augmenté.",
+   "en": "They would have liked to buy a house, but prices went up too much."
+  },
+  {
+   "fr": "J'aurais voulu que tu sois là.",
+   "en": "I wish you had been there.",
+   "note": "aurais voulu que + subjunctive"
+  },
+  {
+   "fr": "Il a promis qu'il aurait terminé avant vendredi.",
+   "en": "He promised he would have finished before Friday.",
+   "note": "future perfect in the past"
+  },
+  {
+   "fr": "Ç'aurait été le fun de faire du ski ensemble.",
+   "en": "It would have been fun to go skiing together.",
+   "note": "casual Quebec: ç'aurait, le fun"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebecers use 'j'aurais dû' and 't'aurais pu' constantly, with contracted pronouns. And everyone quotes the playful error 'Si j'aurais su, j'aurais pas venu' from La Guerre des tuques; know why it's wrong.",
+  "items": [
+   {
+    "std": "Tu aurais pu m'avertir!",
+    "qc": "T'aurais pu m'avertir!",
+    "en": "You could have warned me!",
+    "note": "tu aurais → t'aurais in casual speech"
+   },
+   {
+    "std": "J'aurais dû y penser.",
+    "qc": "J'aurais dû y penser.",
+    "en": "I should have thought of it.",
+    "note": "identical, just faster: zhô-rè-DÜ"
+   },
+   {
+    "std": "Cela aurait été amusant.",
+    "qc": "Ç'aurait été le fun.",
+    "en": "It would have been fun.",
+    "note": "le fun = fun, informal Quebec"
+   },
+   {
+    "std": "Si j'avais su, je ne serais pas venu.",
+    "qc": "Si j'aurais su, j'aurais pas venu.",
+    "en": "If I'd known, I wouldn't have come.",
+    "note": "famous joke line from La Guerre des tuques (1984): two deliberate errors"
+   },
+   {
+    "std": "J'aurais aimé venir.",
+    "qc": "J'aurais aimé ça venir.",
+    "en": "I would have liked to come.",
+    "note": "aimer ça: typical Quebec"
+   },
+   {
+    "std": "On aurait dû partir avant.",
+    "qc": "On aurait dû partir avant, là.",
+    "en": "We should have left earlier.",
+    "note": "là as a filler at the end, very Quebec"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "'I should have studied' →",
+   "options": [
+    "J'ai dû étudier.",
+    "J'aurais dû étudier.",
+    "Je devrais étudier.",
+    "J'avais dû étudier."
+   ],
+   "a": 1,
+   "why": "Should have = aurais dû + infinitive."
+  },
+  {
+   "t": "mcq",
+   "q": "Elle ___ venue, mais elle travaillait.",
+   "options": [
+    "aurait",
+    "serait",
+    "aurais",
+    "serais"
+   ],
+   "a": 1,
+   "why": "Venir takes être: elle serait venue."
+  },
+  {
+   "t": "mcq",
+   "q": "'Le suspect aurait fui' in a news report means…",
+   "options": [
+    "The suspect would flee",
+    "The suspect reportedly fled",
+    "The suspect should have fled",
+    "The suspect had fled"
+   ],
+   "a": 1,
+   "why": "Journalistic conditional = unconfirmed information."
+  },
+  {
+   "t": "mcq",
+   "q": "What's wrong with 'Si j'aurais su, j'aurais pas venu'?",
+   "options": [
+    "Nothing",
+    "Si takes the plus-que-parfait, and venir takes être",
+    "Su is the wrong participle",
+    "Pas is in the wrong place"
+   ],
+   "a": 1,
+   "why": "Standard: Si j'avais su, je ne serais pas venu."
+  },
+  {
+   "t": "fill",
+   "q": "Tu ___ pu me le dire! (avoir)",
+   "a": [
+    "aurais"
+   ],
+   "en": "You could have told me!",
+   "why": "Tu aurais pu = reproach."
+  },
+  {
+   "t": "fill",
+   "q": "Nous ___ aimé vous voir. (avoir)",
+   "a": [
+    "aurions"
+   ],
+   "en": "We would have liked to see you.",
+   "why": "Nous aurions."
+  },
+  {
+   "t": "fill",
+   "q": "Ils se ___ levés plus tôt. (être)",
+   "a": [
+    "seraient"
+   ],
+   "en": "They would have gotten up earlier.",
+   "why": "Pronominal verb → être: ils se seraient levés."
+  },
+  {
+   "t": "fill",
+   "q": "Sans toi, j'aurais ___. (abandonner)",
+   "a": [
+    "abandonné"
+   ],
+   "en": "Without you, I would have given up.",
+   "why": "Past participle of abandonner."
+  },
+  {
+   "t": "fill",
+   "q": "Vous auriez ___ réserver. (devoir)",
+   "a": [
+    "dû"
+   ],
+   "en": "You should have booked.",
+   "why": "Past participle of devoir: dû."
+  },
+  {
+   "t": "build",
+   "en": "It could have been worse.",
+   "a": "Ça aurait pu être pire."
+  },
+  {
+   "t": "build",
+   "en": "I would have liked to come.",
+   "a": "J'aurais aimé venir."
+  },
+  {
+   "t": "build",
+   "en": "In your place, I would have stayed.",
+   "a": "À ta place, je serais resté."
+  },
+  {
+   "t": "translate",
+   "en": "You should have called me.",
+   "a": [
+    "Tu aurais dû m'appeler.",
+    "Vous auriez dû m'appeler.",
+    "T'aurais dû m'appeler."
+   ],
+   "why": "Aurais dû + infinitive."
+  },
+  {
+   "t": "translate",
+   "en": "If I had known, I would have come.",
+   "a": [
+    "Si j'avais su, je serais venu.",
+    "Si j'avais su, je serais venue."
+   ],
+   "why": "Si + plus-que-parfait, conditionnel passé."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "j'aurais dû",
+   "en": "I should have",
+   "ex": "J'aurais dû t'écouter."
+  },
+  {
+   "fr": "j'aurais pu",
+   "en": "I could have",
+   "ex": "J'aurais pu gagner."
+  },
+  {
+   "fr": "j'aurais aimé",
+   "en": "I would have liked",
+   "ex": "J'aurais aimé le voir."
+  },
+  {
+   "fr": "le regret",
+   "en": "regret",
+   "g": "m",
+   "ex": "Je n'ai aucun regret."
+  },
+  {
+   "fr": "le reproche",
+   "en": "reproach",
+   "g": "m",
+   "ex": "Il m'a fait des reproches."
+  },
+  {
+   "fr": "à ta place",
+   "en": "in your shoes, if I were you",
+   "ex": "À ta place, j'aurais refusé."
+  },
+  {
+   "fr": "abandonner",
+   "en": "to give up",
+   "ex": "N'abandonne pas!"
+  },
+  {
+   "fr": "avertir",
+   "en": "to warn",
+   "ex": "Tu aurais pu m'avertir."
+  },
+  {
+   "fr": "prendre la fuite",
+   "en": "to flee",
+   "ex": "Le conducteur aurait pris la fuite."
+  },
+  {
+   "fr": "le bouchon",
+   "en": "traffic jam; cork",
+   "g": "m",
+   "ex": "Il y a un bouchon sur le pont."
+  },
+  {
+   "fr": "complet / complète",
+   "en": "full, sold out",
+   "ex": "L'hôtel est complet."
+  },
+  {
+   "fr": "pire",
+   "en": "worse",
+   "ex": "Ça aurait pu être pire."
+  },
+  {
+   "fr": "le fun",
+   "en": "fun (informal)",
+   "ex": "C'était le fun!",
+   "qc": true
+  },
+  {
+   "fr": "t'aurais",
+   "en": "you would have (= tu aurais, informal)",
+   "ex": "T'aurais pu le dire!",
+   "qc": true
+  },
+  {
+   "fr": "si j'avais su",
+   "en": "if I had known",
+   "ex": "Si j'avais su, je serais resté."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "j'aurais",
+    "tip": "zhô-RÈ, open è [ɛ]; the future j'aurai ends in a closed [e], a difference Quebec speakers keep clear."
+   },
+   {
+    "fr": "j'aurais dû",
+    "tip": "zhô-rè-DÜ."
+   },
+   {
+    "fr": "t'aurais pu",
+    "tip": "tô-rè-PÜ."
+   },
+   {
+    "fr": "ç'aurait été",
+    "tip": "sô-rè-té-TÉ: liaison in aurait‿été."
+   },
+   {
+    "fr": "elle serait venue",
+    "tip": "èl-suh-rè-vuh-NÜ; fast: èl-srè-vnü."
+   },
+   {
+    "fr": "nous aurions",
+    "tip": "noo-zô-RYON: liaison [z]."
+   }
+  ],
+  "title": "Le party manqué",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "T'étais où samedi? On t'a attendu au party!",
+    "en": "Where were you on Saturday? We waited for you at the party!"
+   },
+   {
+    "s": "B",
+    "fr": "Je sais, désolé. J'aurais dû t'écrire. Mon auto est tombée en panne.",
+    "en": "I know, sorry. I should have texted you. My car broke down."
+   },
+   {
+    "s": "A",
+    "fr": "T'aurais pu prendre un taxi!",
+    "en": "You could have taken a taxi!"
+   },
+   {
+    "s": "B",
+    "fr": "J'y ai pensé, mais ça aurait coûté soixante piasses.",
+    "en": "I thought about it, but it would have cost sixty bucks."
+   },
+   {
+    "s": "A",
+    "fr": "Dommage. Ç'aurait été le fun, tout le monde était là.",
+    "en": "Too bad. It would have been fun, everyone was there."
+   },
+   {
+    "s": "B",
+    "fr": "J'aurais vraiment aimé voir Julie. Elle est repartie en France?",
+    "en": "I'd really have liked to see Julie. Has she gone back to France?"
+   },
+   {
+    "s": "A",
+    "fr": "Oui, hier. Elle aurait voulu te dire au revoir.",
+    "en": "Yes, yesterday. She would have liked to say goodbye to you."
+   },
+   {
+    "s": "B",
+    "fr": "Si j'avais su, je serais venu en autobus!",
+    "en": "If I'd known, I would have come by bus!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Why didn't B come?",
+    "options": [
+     "He was sick",
+     "His car broke down",
+     "He forgot"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Why didn't B take a taxi?",
+    "options": [
+     "No taxis available",
+     "It would have been too expensive",
+     "He doesn't like taxis"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Where did Julie go?",
+    "options": [
+     "To Toronto",
+     "Back to France",
+     "To Quebec City"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Name three regrets about the past year using j'aurais dû, j'aurais pu and j'aurais aimé.",
+   "model": "J'aurais dû faire plus de sport. J'aurais pu voyager en Gaspésie. J'aurais aimé passer plus de temps avec mes amis."
+  },
+  {
+   "prompt": "Gently reproach a friend who didn't tell you something important.",
+   "model": "Voyons, t'aurais pu me le dire! Je t'aurais aidé."
+  },
+  {
+   "prompt": "Correct the famous line and explain the two errors: 'Si j'aurais su, j'aurais pas venu.'",
+   "model": "Si j'avais su, je ne serais pas venu. Après si, on met le plus-que-parfait, et venir se conjugue avec être."
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences about a day that went wrong (missed flight, forgotten appointment…). Say what you should have done, could have done, and what would have happened otherwise.",
+  "model": "Mardi, j'ai raté mon avion pour Vancouver. J'aurais dû partir de chez moi deux heures avant, mais je suis parti trop tard. J'aurais pu prendre le 747, l'autobus de l'aéroport, mais j'ai choisi l'auto. Il y avait un bouchon énorme sur l'autoroute 20. Si j'étais parti plus tôt, je serais arrivé à temps. Ça m'aurait évité de payer un nouveau billet!"
+ },
+ "quiz": [
+  {
+   "q": "The conditionnel passé is formed with…",
+   "options": [
+    "the future of avoir/être + participle",
+    "the conditional of avoir/être + participle",
+    "the imparfait of avoir/être + participle",
+    "the infinitive + -rait"
+   ],
+   "a": 1,
+   "why": "J'aurais parlé, je serais parti."
+  },
+  {
+   "q": "'Tu aurais pu m'appeler!' expresses…",
+   "options": [
+    "a polite request",
+    "a reproach",
+    "a future plan",
+    "a fact"
+   ],
+   "a": 1,
+   "why": "You could have called me (but didn't)."
+  },
+  {
+   "q": "Nous ___ partis plus tôt.",
+   "options": [
+    "aurions",
+    "serions",
+    "serons",
+    "aurons"
+   ],
+   "a": 1,
+   "why": "Partir takes être."
+  },
+  {
+   "q": "'L'accident aurait fait deux blessés' in the news means…",
+   "options": [
+    "The accident will injure two people",
+    "The accident reportedly injured two people",
+    "The accident should have injured two people",
+    "Two people caused the accident"
+   ],
+   "a": 1,
+   "why": "Conditional of unconfirmed information."
+  },
+  {
+   "q": "Which is correct?",
+   "options": [
+    "Si j'aurais su, je serais venu.",
+    "Si j'avais su, je serais venu.",
+    "Si j'avais su, j'aurais venu.",
+    "Si je saurais, je viendrais."
+   ],
+   "a": 1,
+   "why": "Si + plus-que-parfait → conditionnel passé."
+  },
+  {
+   "q": "'J'aurais voulu que tu ___ là.'",
+   "options": [
+    "es",
+    "sois",
+    "serais",
+    "étais"
+   ],
+   "a": 1,
+   "why": "Vouloir que + subjunctive."
+  },
+  {
+   "q": "'Ç'aurait été le fun' means…",
+   "options": [
+    "It was fun",
+    "It would have been fun",
+    "It will be fun",
+    "It's never fun"
+   ],
+   "a": 1,
+   "why": "Ç'aurait été = cela aurait été; le fun = fun."
+  },
+  {
+   "q": "Past participle of devoir is…",
+   "options": [
+    "du",
+    "dû",
+    "dut",
+    "devu"
+   ],
+   "a": 1,
+   "why": "Dû, with a circumflex to distinguish it from du."
+  },
+  {
+   "q": "'À ta place, je ___ refusé.'",
+   "options": [
+    "serais",
+    "aurais",
+    "avais",
+    "aurai"
+   ],
+   "a": 1,
+   "why": "Refuser takes avoir: j'aurais refusé."
+  }
+ ]
+}

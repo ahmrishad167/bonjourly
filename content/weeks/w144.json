@@ -1,0 +1,710 @@
+{
+ "w": 144,
+ "title": "Verbs with s'en: s'en aller, s'en sortir, s'en vouloir",
+ "goal": "By the end of this lesson you can conjugate and use the main pronominal verbs with en (s'en aller, s'en sortir, s'en vouloir, s'en faire, s'en prendre à, s'en remettre, s'en douter…) in all tenses and in the imperative, and recognise their casual Quebec forms.",
+ "learn": [
+  {
+   "h": "Two pronouns that travel together",
+   "body": [
+    "These verbs carry two pronouns: the reflexive (*me, te, se, nous, vous, se*) and *en*. They always appear in that order, right before the verb: *Je m'en vais. Tu t'en sors? Elle s'en veut.*",
+    "The *en* often no longer refers to anything specific: it is frozen into the verb, and the meaning of the whole expression is idiomatic. *S'en aller* is not 'to go from it' but simply 'to leave'."
+   ],
+   "table": {
+    "head": [
+     "Person",
+     "s'en aller (present)",
+     "s'en sortir (present)"
+    ],
+    "rows": [
+     [
+      "je",
+      "je m'en vais",
+      "je m'en sors"
+     ],
+     [
+      "tu",
+      "tu t'en vas",
+      "tu t'en sors"
+     ],
+     [
+      "il / elle / on",
+      "il s'en va",
+      "elle s'en sort"
+     ],
+     [
+      "nous",
+      "nous nous en allons",
+      "nous nous en sortons"
+     ],
+     [
+      "vous",
+      "vous vous en allez",
+      "vous vous en sortez"
+     ],
+     [
+      "ils / elles",
+      "ils s'en vont",
+      "elles s'en sortent"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "The key verbs",
+   "body": [
+    "Learn each one as a unit, with an example sentence."
+   ],
+   "table": {
+    "head": [
+     "Verb",
+     "Meaning",
+     "Example"
+    ],
+    "rows": [
+     [
+      "s'en aller",
+      "to leave, go away",
+      "Il est tard, je m'en vais."
+     ],
+     [
+      "s'en sortir",
+      "to cope, get through, manage",
+      "Avec deux emplois, elle s'en sort."
+     ],
+     [
+      "s'en vouloir",
+      "to blame oneself, feel bad",
+      "Je m'en veux de t'avoir menti."
+     ],
+     [
+      "s'en faire",
+      "to worry",
+      "Ne t'en fais pas."
+     ],
+     [
+      "s'en prendre à",
+      "to attack, take it out on",
+      "Ne t'en prends pas à lui!"
+     ],
+     [
+      "s'en tirer",
+      "to get off, escape, manage",
+      "Il s'en est tiré avec une amende."
+     ],
+     [
+      "s'en remettre",
+      "to recover from (de); rely on (à)",
+      "Elle ne s'en est jamais remise."
+     ],
+     [
+      "s'en douter",
+      "to suspect, expect so",
+      "Il a démissionné? Je m'en doutais."
+     ],
+     [
+      "s'en ficher / s'en moquer",
+      "not to care",
+      "Je m'en fiche complètement."
+     ]
+    ]
+   },
+   "tip": "Je m'en veux = I'm mad at myself. Je t'en veux = I'm mad at you (en vouloir à qqn)."
+  },
+  {
+   "h": "Compound tenses",
+   "body": [
+    "All pronominal verbs take *être*: *Je m'en suis allé. Nous nous en sommes sortis. Ils s'en sont tirés.*",
+    "Agreement follows the usual rule for pronominal verbs: the participle agrees with *se* when *se* is the direct object. *Elle s'en est allée, elle s'en est sortie* (agreement). But in *s'en vouloir*, *se* is indirect (*vouloir à soi*), so no agreement: *Elle s'en est voulu.* By contrast, *s'en remettre* does agree: *Elle s'en est remise.*"
+   ],
+   "table": {
+    "head": [
+     "Verb",
+     "Passé composé (elle)",
+     "Agreement?"
+    ],
+    "rows": [
+     [
+      "s'en aller",
+      "elle s'en est allée",
+      "yes"
+     ],
+     [
+      "s'en sortir",
+      "elle s'en est sortie",
+      "yes"
+     ],
+     [
+      "s'en remettre",
+      "elle s'en est remise",
+      "yes"
+     ],
+     [
+      "s'en vouloir",
+      "elle s'en est voulu",
+      "no (se is indirect)"
+     ],
+     [
+      "s'en douter",
+      "elle s'en est doutée",
+      "yes (by convention)"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Imperative and negation",
+   "body": [
+    "Affirmative imperative: pronouns follow with hyphens, *te* becomes *t'*: *Va-t'en! Allez-vous-en! Allons-nous-en!*",
+    "Negative imperative: pronouns go back before the verb: *Ne t'en va pas! Ne vous en faites pas! Ne t'en prends pas à elle!* In negative sentences, *ne* goes before both pronouns: *Je ne m'en souviens pas. Il ne s'en sort pas.*"
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Il est déjà minuit, je m'en vais.",
+   "en": "It's already midnight, I'm leaving.",
+   "note": "s'en aller, present"
+  },
+  {
+   "fr": "Les touristes s'en vont à la fin d'août.",
+   "en": "The tourists leave at the end of August.",
+   "note": "ils s'en vont"
+  },
+  {
+   "fr": "Va-t'en, je ne veux plus te voir!",
+   "en": "Go away, I don't want to see you anymore!",
+   "note": "imperative"
+  },
+  {
+   "fr": "Ne t'en va pas tout de suite, reste pour le dessert.",
+   "en": "Don't leave right away, stay for dessert.",
+   "note": "negative imperative"
+  },
+  {
+   "fr": "Avec la hausse des loyers, beaucoup de familles ont du mal à s'en sortir.",
+   "en": "With rising rents, many families are struggling to get by.",
+   "note": "s'en sortir = cope financially"
+  },
+  {
+   "fr": "L'examen était difficile, mais je m'en suis bien sorti.",
+   "en": "The exam was hard, but I did well.",
+   "note": "passé composé with être"
+  },
+  {
+   "fr": "Je m'en veux d'avoir oublié ton anniversaire.",
+   "en": "I feel terrible for forgetting your birthday.",
+   "note": "s'en vouloir de + past infinitive"
+  },
+  {
+   "fr": "Elle s'en est voulu pendant des années.",
+   "en": "She blamed herself for years.",
+   "note": "no agreement: voulu"
+  },
+  {
+   "fr": "Ne vous en faites pas, tout est réglé.",
+   "en": "Don't worry, everything's taken care of.",
+   "note": "s'en faire, negative imperative"
+  },
+  {
+   "fr": "Pourquoi tu t'en prends toujours à ton frère?",
+   "en": "Why do you always pick on your brother?",
+   "note": "s'en prendre à"
+  },
+  {
+   "fr": "Le conducteur s'en est tiré avec quelques égratignures.",
+   "en": "The driver escaped with a few scratches.",
+   "note": "s'en tirer"
+  },
+  {
+   "fr": "Après son accident, il a mis un an à s'en remettre.",
+   "en": "After his accident, he took a year to recover.",
+   "note": "s'en remettre = recover"
+  },
+  {
+   "fr": "Je m'en remets à votre jugement.",
+   "en": "I'll leave it to your judgment.",
+   "note": "s'en remettre à = rely on"
+  },
+  {
+   "fr": "Elle a eu la promotion? Je m'en doutais!",
+   "en": "She got the promotion? I thought so!",
+   "note": "s'en douter = to suspect"
+  },
+  {
+   "fr": "Il s'en fiche de ce que pensent les autres.",
+   "en": "He doesn't care what others think.",
+   "note": "s'en ficher, informal but neutral"
+  },
+  {
+   "fr": "Nous nous en sommes allés avant la tempête.",
+   "en": "We left before the storm.",
+   "note": "formal nous form; speech: on s'en est allés"
+  }
+ ],
+ "quebec": {
+  "intro": "In Quebec speech, je m'en vais is usually 'j'm'en vas' — vas for vais is an old form that survived in Quebec. 'J'm'en sacre' (I don't give a damn) comes from sacrer, to swear: it's informal and a bit rude, so recognise it before you use it. Its harsher cousins built on sacres (j'm'en câlisse, j'm'en crisse) are vulgar: recognition only.",
+  "items": [
+   {
+    "std": "Je m'en vais.",
+    "qc": "J'm'en vas.",
+    "en": "I'm leaving.",
+    "note": "vas for vais; informal but universal in Quebec speech"
+   },
+   {
+    "std": "Je m'en fiche.",
+    "qc": "J'm'en sacre.",
+    "en": "I don't give a damn.",
+    "note": "informal, mildly rude"
+   },
+   {
+    "std": "Je m'en fiche complètement.",
+    "qc": "J'm'en câlisse.",
+    "en": "I don't give a f***.",
+    "note": "vulgar; recognition only"
+   },
+   {
+    "std": "Ne t'en fais pas.",
+    "qc": "T'en fais pas. / Inquiète-toi pas.",
+    "en": "Don't worry.",
+    "note": "ne dropped; informal"
+   },
+   {
+    "std": "On s'en sort.",
+    "qc": "On s'en sort, tant bien que mal.",
+    "en": "We're getting by, more or less.",
+    "note": "tant bien que mal = as best we can; standard"
+   },
+   {
+    "std": "Allez-vous-en!",
+    "qc": "Décrissez! (vulgar) / Sacrez votre camp!",
+    "en": "Get out of here!",
+    "note": "both rude; recognition only"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Nous ___ allons demain matin.",
+   "options": [
+    "nous en",
+    "en nous",
+    "nous y",
+    "s'en"
+   ],
+   "a": 0,
+   "why": "Reflexive pronoun before en: nous nous en allons."
+  },
+  {
+   "t": "mcq",
+   "q": "'Je m'en veux' means…",
+   "options": [
+    "I want some.",
+    "I blame myself.",
+    "I'm leaving.",
+    "I don't care."
+   ],
+   "a": 1,
+   "why": "S'en vouloir = to blame oneself."
+  },
+  {
+   "t": "mcq",
+   "q": "Elle s'en est ___ de ne pas avoir appelé.",
+   "options": [
+    "voulue",
+    "voulu",
+    "voulus",
+    "vouloir"
+   ],
+   "a": 1,
+   "why": "Se is indirect with s'en vouloir: no agreement."
+  },
+  {
+   "t": "mcq",
+   "q": "Negative imperative of 'Va-t'en!'",
+   "options": [
+    "Va-t'en pas!",
+    "Ne t'en va pas!",
+    "Ne va-t'en pas!",
+    "Ne te va pas!"
+   ],
+   "a": 1,
+   "why": "Pronouns move back before the verb."
+  },
+  {
+   "t": "mcq",
+   "q": "'J'm'en vas' is…",
+   "options": [
+    "a spelling mistake",
+    "the informal Quebec form of je m'en vais",
+    "a France slang form",
+    "a future tense"
+   ],
+   "a": 1,
+   "why": "Vas for vais is typical of Quebec speech."
+  },
+  {
+   "t": "fill",
+   "q": "Elle s'en est bien ___. (sortir)",
+   "a": [
+    "sortie"
+   ],
+   "en": "She managed well.",
+   "why": "Être + agreement with elle."
+  },
+  {
+   "t": "fill",
+   "q": "Ne vous en ___ pas, on s'occupe de tout. (faire)",
+   "a": [
+    "faites"
+   ],
+   "en": "Don't worry, we'll take care of everything.",
+   "why": "Negative imperative, vous form."
+  },
+  {
+   "t": "fill",
+   "q": "Il a démissionné? Je m'en ___! (douter, imparfait)",
+   "a": [
+    "doutais"
+   ],
+   "en": "He resigned? I thought so!",
+   "why": "S'en douter in the imparfait."
+  },
+  {
+   "t": "fill",
+   "q": "Ne t'en ___ pas à lui, ce n'est pas sa faute. (prendre)",
+   "a": [
+    "prends"
+   ],
+   "en": "Don't take it out on him, it's not his fault.",
+   "why": "S'en prendre à."
+  },
+  {
+   "t": "fill",
+   "q": "Il a mis six mois à s'en ___. (recover)",
+   "a": [
+    "remettre"
+   ],
+   "en": "It took him six months to recover.",
+   "why": "S'en remettre = to recover."
+  },
+  {
+   "t": "build",
+   "en": "It's late, I'm leaving.",
+   "a": "Il est tard, je m'en vais."
+  },
+  {
+   "t": "build",
+   "en": "We got through it.",
+   "a": "Nous nous en sommes sortis."
+  },
+  {
+   "t": "translate",
+   "en": "Go away!",
+   "a": [
+    "Va-t'en!",
+    "Allez-vous-en!",
+    "Va-t'en.",
+    "Allez-vous-en."
+   ],
+   "why": "Imperative of s'en aller."
+  },
+  {
+   "t": "translate",
+   "en": "Don't worry.",
+   "a": [
+    "Ne t'en fais pas.",
+    "Ne vous en faites pas.",
+    "T'en fais pas.",
+    "Inquiète-toi pas.",
+    "Ne t'inquiète pas.",
+    "Ne vous inquiétez pas."
+   ],
+   "why": "S'en faire or s'inquiéter."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "s'en aller",
+   "en": "to leave, go away",
+   "ex": "On s'en va à la mer."
+  },
+  {
+   "fr": "s'en sortir",
+   "en": "to cope, get by, manage",
+   "ex": "Tu t'en sors avec ton projet?"
+  },
+  {
+   "fr": "s'en vouloir",
+   "en": "to blame oneself",
+   "ex": "Ne t'en veux pas, ce n'est pas grave."
+  },
+  {
+   "fr": "s'en faire",
+   "en": "to worry",
+   "ex": "Elle s'en fait pour rien."
+  },
+  {
+   "fr": "s'en prendre à",
+   "en": "to attack, blame, pick on",
+   "ex": "Il s'en prend toujours aux plus faibles."
+  },
+  {
+   "fr": "s'en tirer",
+   "en": "to escape, get off, manage",
+   "ex": "Il s'en tire toujours."
+  },
+  {
+   "fr": "s'en remettre (de)",
+   "en": "to recover (from)",
+   "ex": "Elle s'en remet lentement."
+  },
+  {
+   "fr": "s'en remettre à",
+   "en": "to rely on, leave it to",
+   "ex": "Je m'en remets à toi."
+  },
+  {
+   "fr": "s'en douter",
+   "en": "to suspect, figure",
+   "ex": "Je m'en doutais un peu."
+  },
+  {
+   "fr": "s'en ficher",
+   "en": "not to care (informal)",
+   "ex": "Je m'en fiche, du hockey."
+  },
+  {
+   "fr": "tant bien que mal",
+   "en": "as best one can, somehow",
+   "ex": "On s'en sort tant bien que mal."
+  },
+  {
+   "fr": "l'égratignure",
+   "en": "scratch",
+   "g": "f",
+   "ex": "Juste quelques égratignures."
+  },
+  {
+   "fr": "l'amende",
+   "en": "fine (penalty)",
+   "g": "f",
+   "ex": "Il a reçu une amende de 150 $."
+  },
+  {
+   "fr": "s'en sacrer",
+   "en": "not to give a damn (informal, rude)",
+   "ex": "Y s'en sacre ben.",
+   "qc": true
+  },
+  {
+   "fr": "sacrer son camp",
+   "en": "to clear off, leave (informal, rude)",
+   "ex": "Il a sacré son camp sans rien dire.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "je m'en vais",
+    "tip": "[juh man VÈ]; fast: [jman-VÈ]."
+   },
+   {
+    "fr": "j'm'en vas",
+    "tip": "Quebec: [jman VA], often with a long back a: [VÂ]."
+   },
+   {
+    "fr": "va-t'en",
+    "tip": "[va-TAN]."
+   },
+   {
+    "fr": "allez-vous-en",
+    "tip": "[a-lé-vou-ZAN]."
+   },
+   {
+    "fr": "nous nous en sommes sortis",
+    "tip": "[nou-nou-zan som sor-TI]: liaison in [z]."
+   },
+   {
+    "fr": "je m'en veux",
+    "tip": "[jman VEU]."
+   }
+  ],
+  "title": "Une mauvaise semaine",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "T'as l'air fatigué. Ça va?",
+    "en": "You look tired. Are you OK?"
+   },
+   {
+    "s": "B",
+    "fr": "Bof. J'ai oublié la réunion avec le client lundi. Je m'en veux encore.",
+    "en": "Meh. I forgot the meeting with the client on Monday. I still feel bad about it."
+   },
+   {
+    "s": "A",
+    "fr": "Ben voyons, t'en fais pas. Le client s'en est remis, non?",
+    "en": "Come on, don't worry. The client got over it, didn't he?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, mais le patron s'en est pris à moi devant tout le monde.",
+    "en": "Yes, but the boss went after me in front of everyone."
+   },
+   {
+    "s": "A",
+    "fr": "Je m'en doutais. Il fait toujours ça. Tu t'en es bien sorti quand même.",
+    "en": "I figured. He always does that. You still handled it well."
+   },
+   {
+    "s": "B",
+    "fr": "Merci. Bon, il est cinq heures, j'm'en vas.",
+    "en": "Thanks. Well, it's five o'clock, I'm out of here."
+   },
+   {
+    "s": "A",
+    "fr": "Va-t'en, repose-toi. On se voit demain!",
+    "en": "Go, get some rest. See you tomorrow!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What did B forget?",
+    "options": [
+     "A deadline",
+     "A meeting with a client",
+     "A colleague's birthday"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What did the boss do?",
+    "options": [
+     "Fired B",
+     "Criticised B in front of everyone",
+     "Ignored the problem"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does 'j'm'en vas' mean here?",
+    "options": [
+     "I'm going to work",
+     "I'm leaving",
+     "I don't care"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Tell about a difficult situation you got through, using s'en sortir, s'en faire and s'en vouloir.",
+   "model": "L'an dernier, j'ai perdu mon emploi. Au début, je m'en faisais beaucoup et je m'en voulais d'avoir refusé une autre offre. Finalement, je m'en suis sorti : j'ai trouvé un meilleur poste trois mois plus tard."
+  },
+  {
+   "prompt": "Reassure a friend in three sentences using the imperative.",
+   "model": "Ne t'en fais pas. Ne t'en veux pas, ce n'était pas ta faute. Et ne t'en prends pas à toi-même!"
+  },
+  {
+   "prompt": "Say 'I'm leaving' and 'I don't care' formally, then the Quebec way.",
+   "model": "Je m'en vais. Je m'en fiche. / J'm'en vas. J'm'en sacre."
+  }
+ ],
+ "write": {
+  "prompt": "Write a short journal entry (5–6 sentences) about a stressful week, using at least five s'en verbs in different tenses.",
+  "model": "Quelle semaine! Lundi, ma voiture est tombée en panne, et je m'en voulais de ne pas l'avoir fait vérifier. Mardi, ma patronne s'en est prise à toute l'équipe à cause d'un retard. Je m'en doutais : le projet était mal planifié. Heureusement, on s'en est sortis vendredi en remettant le rapport à temps. Maintenant, je m'en vais au chalet et je ne veux plus m'en faire pour rien."
+ },
+ "quiz": [
+  {
+   "q": "Order of pronouns in 'Je ___ vais.'",
+   "options": [
+    "en me",
+    "m'en",
+    "me y",
+    "en m'"
+   ],
+   "a": 1,
+   "why": "Reflexive pronoun, then en."
+  },
+  {
+   "q": "Auxiliary for all s'en verbs in the passé composé:",
+   "options": [
+    "avoir",
+    "être",
+    "aller",
+    "faire"
+   ],
+   "a": 1,
+   "why": "All pronominal verbs take être."
+  },
+  {
+   "q": "'Il s'en est tiré' means…",
+   "options": [
+    "He shot himself.",
+    "He got off / escaped.",
+    "He pulled it.",
+    "He went away."
+   ],
+   "a": 1,
+   "why": "S'en tirer = to get away with it, manage."
+  },
+  {
+   "q": "'Je m'en remets à vous' means…",
+   "options": [
+    "I'm recovering.",
+    "I leave it to you.",
+    "I'm putting it back.",
+    "I'm giving up."
+   ],
+   "a": 1,
+   "why": "S'en remettre à = to rely on."
+  },
+  {
+   "q": "'Allons-nous-en' means…",
+   "options": [
+    "Let's go there.",
+    "Let's leave.",
+    "Let's not go.",
+    "We went."
+   ],
+   "a": 1,
+   "why": "Imperative nous form of s'en aller."
+  },
+  {
+   "q": "Which participle is correct? 'Elles s'en sont ___.' (s'en vouloir)",
+   "options": [
+    "voulues",
+    "voulu",
+    "voulus",
+    "voulue"
+   ],
+   "a": 1,
+   "why": "Se is indirect: no agreement."
+  },
+  {
+   "q": "'J'm'en sacre' is…",
+   "options": [
+    "polite",
+    "informal and a bit rude",
+    "religious",
+    "formal"
+   ],
+   "a": 1,
+   "why": "It derives from sacrer (to swear)."
+  },
+  {
+   "q": "'S'en douter' means…",
+   "options": [
+    "to doubt it",
+    "to suspect / figure so",
+    "to fear it",
+    "to forget it"
+   ],
+   "a": 1,
+   "why": "Je m'en doutais = I thought as much (a false friend with doubt)."
+  }
+ ]
+}

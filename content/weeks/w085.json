@@ -1,0 +1,803 @@
+{
+ "w": 85,
+ "title": "Subjonctif présent: formation",
+ "goal": "By the end of this lesson you can build the present subjunctive of regular, two-stem and irregular verbs and use it after 'il faut que'.",
+ "learn": [
+  {
+   "h": "What the subjunctive is",
+   "body": [
+    "The subjunctive (*le subjonctif*) is not a tense but a mood. The indicative states facts; the subjunctive presents an action as wanted, needed, feared or felt about, not simply as a fact.",
+    "It almost always appears in a second clause introduced by *que*. The easiest trigger, and the one you will use most, is *il faut que* (it is necessary that / someone has to): *Il faut que je parte.* = I have to leave.",
+    "This lesson focuses on building the forms. Next week covers the full list of triggers."
+   ],
+   "tip": "Think of 'il faut que' as your subjunctive practice machine: put any verb after it."
+  },
+  {
+   "h": "Regular formation: the ils stem + endings",
+   "body": [
+    "Take the *ils/elles* form of the present indicative, drop *-ent*, and add the endings *-e, -es, -e, -ions, -iez, -ent*.",
+    "For *-er* verbs, the je, tu, il and ils forms look and sound exactly like the present indicative: *que je parle*, *qu'ils parlent*. The difference only shows with *nous* and *vous*: *que nous parlions*, *que vous parliez*.",
+    "For *-ir* verbs like *finir* (ils finissent) and *-re* verbs like *vendre* (ils vendent), the subjunctive sounds different from the indicative in the singular: *que je finisse*, *que je vende*."
+   ],
+   "table": {
+    "head": [
+     "",
+     "parler (ils parlent)",
+     "finir (ils finissent)",
+     "vendre (ils vendent)",
+     "partir (ils partent)"
+    ],
+    "rows": [
+     [
+      "que je",
+      "parle",
+      "finisse",
+      "vende",
+      "parte"
+     ],
+     [
+      "que tu",
+      "parles",
+      "finisses",
+      "vendes",
+      "partes"
+     ],
+     [
+      "qu'il / elle / on",
+      "parle",
+      "finisse",
+      "vende",
+      "parte"
+     ],
+     [
+      "que nous",
+      "parlions",
+      "finissions",
+      "vendions",
+      "partions"
+     ],
+     [
+      "que vous",
+      "parliez",
+      "finissiez",
+      "vendiez",
+      "partiez"
+     ],
+     [
+      "qu'ils / elles",
+      "parlent",
+      "finissent",
+      "vendent",
+      "partent"
+     ]
+    ]
+   },
+   "tip": "Nous and vous in the subjunctive look like the imparfait: que nous parlions, que vous parliez."
+  },
+  {
+   "h": "Two-stem verbs",
+   "body": [
+    "Verbs that change their stem in the present keep that change in the subjunctive. The *je, tu, il, ils* forms use the *ils* stem; the *nous* and *vous* forms use the *nous* stem.",
+    "So *venir* gives *que je vienne* (from ils viennent) but *que nous venions* (from nous venons)."
+   ],
+   "table": {
+    "head": [
+     "Verb",
+     "que je / qu'ils",
+     "que nous / que vous"
+    ],
+    "rows": [
+     [
+      "venir",
+      "vienne / viennent",
+      "venions / veniez"
+     ],
+     [
+      "prendre",
+      "prenne / prennent",
+      "prenions / preniez"
+     ],
+     [
+      "boire",
+      "boive / boivent",
+      "buvions / buviez"
+     ],
+     [
+      "devoir",
+      "doive / doivent",
+      "devions / deviez"
+     ],
+     [
+      "recevoir",
+      "reçoive / reçoivent",
+      "recevions / receviez"
+     ],
+     [
+      "voir",
+      "voie / voient",
+      "voyions / voyiez"
+     ],
+     [
+      "croire",
+      "croie / croient",
+      "croyions / croyiez"
+     ],
+     [
+      "appeler",
+      "appelle / appellent",
+      "appelions / appeliez"
+     ],
+     [
+      "acheter",
+      "achète / achètent",
+      "achetions / achetiez"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "The irregular verbs to memorize",
+   "body": [
+    "A handful of very common verbs have their own subjunctive stems. *Être* and *avoir* are completely irregular. *Aller* and *vouloir* have two stems. *Faire*, *pouvoir* and *savoir* have one special stem for all persons.",
+    "Impersonal verbs have only one form: *qu'il faille* (falloir), *qu'il pleuve* (pleuvoir)."
+   ],
+   "table": {
+    "head": [
+     "Verb",
+     "je",
+     "tu",
+     "il",
+     "nous",
+     "vous",
+     "ils"
+    ],
+    "rows": [
+     [
+      "être",
+      "sois",
+      "sois",
+      "soit",
+      "soyons",
+      "soyez",
+      "soient"
+     ],
+     [
+      "avoir",
+      "aie",
+      "aies",
+      "ait",
+      "ayons",
+      "ayez",
+      "aient"
+     ],
+     [
+      "aller",
+      "aille",
+      "ailles",
+      "aille",
+      "allions",
+      "alliez",
+      "aillent"
+     ],
+     [
+      "vouloir",
+      "veuille",
+      "veuilles",
+      "veuille",
+      "voulions",
+      "vouliez",
+      "veuillent"
+     ],
+     [
+      "faire",
+      "fasse",
+      "fasses",
+      "fasse",
+      "fassions",
+      "fassiez",
+      "fassent"
+     ],
+     [
+      "pouvoir",
+      "puisse",
+      "puisses",
+      "puisse",
+      "puissions",
+      "puissiez",
+      "puissent"
+     ],
+     [
+      "savoir",
+      "sache",
+      "saches",
+      "sache",
+      "sachions",
+      "sachiez",
+      "sachent"
+     ]
+    ]
+   },
+   "tip": "No y after soy- and ay-: que nous soyons, que nous ayons (never soyions or ayions)."
+  },
+  {
+   "h": "Quebec: forms you will hear but should not write",
+   "body": [
+    "In casual Quebec speech, *il* often disappears from *il faut que*: *Faut que j'parte.* That is normal spoken French everywhere.",
+    "You will also hear non-standard subjunctive forms built on the regular pattern: *que j'alle* instead of *que j'aille*, *qu'il soye* instead of *qu'il soit*, *que j'aye* instead of *que j'aie*. They are common in relaxed speech but are considered errors in writing and formal speech. Recognize them; use the standard forms yourself."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Il faut que je parte tout de suite.",
+   "en": "I have to leave right away.",
+   "note": "partir → ils partent → que je parte"
+  },
+  {
+   "fr": "Il faut que tu finisses ton rapport avant vendredi.",
+   "en": "You have to finish your report before Friday.",
+   "note": "-ir verb: ils finissent → que tu finisses"
+  },
+  {
+   "fr": "Il faut qu'on parle de la facture.",
+   "en": "We need to talk about the bill.",
+   "note": "-er verb: sounds like the indicative"
+  },
+  {
+   "fr": "Il faut que nous parlions au propriétaire.",
+   "en": "We have to talk to the landlord.",
+   "note": "nous form: parlions, like the imparfait"
+  },
+  {
+   "fr": "Il faut que vous preniez le métro.",
+   "en": "You have to take the metro.",
+   "note": "two stems: prenne / preniez"
+  },
+  {
+   "fr": "Il faut qu'elle vienne demain.",
+   "en": "She has to come tomorrow.",
+   "note": "venir → ils viennent → qu'elle vienne"
+  },
+  {
+   "fr": "Il faut que vous veniez avec nous.",
+   "en": "You have to come with us.",
+   "note": "nous stem for vous: venons → veniez"
+  },
+  {
+   "fr": "Il faut que je sois à l'heure.",
+   "en": "I have to be on time.",
+   "note": "être: que je sois"
+  },
+  {
+   "fr": "Il faut que tu aies ton passeport.",
+   "en": "You need to have your passport.",
+   "note": "avoir: que tu aies"
+  },
+  {
+   "fr": "Il faut que j'aille chez le médecin.",
+   "en": "I have to go to the doctor.",
+   "note": "aller: que j'aille (the standard form)"
+  },
+  {
+   "fr": "Il faut qu'ils fassent l'épicerie.",
+   "en": "They have to do the groceries.",
+   "note": "faire: qu'ils fassent; faire l'épicerie is the usual Quebec expression"
+  },
+  {
+   "fr": "Il faut que tu saches la vérité.",
+   "en": "You need to know the truth.",
+   "note": "savoir: que tu saches"
+  },
+  {
+   "fr": "Il faut que nous puissions entrer.",
+   "en": "We need to be able to get in.",
+   "note": "pouvoir: que nous puissions"
+  },
+  {
+   "fr": "Il faut que vous buviez beaucoup d'eau.",
+   "en": "You have to drink a lot of water.",
+   "note": "boire: buvions / buviez with nous and vous"
+  },
+  {
+   "fr": "Il faut que je t'appelle ce soir.",
+   "en": "I have to call you tonight.",
+   "note": "appeler doubles the l: que j'appelle"
+  },
+  {
+   "fr": "Il faut que nous soyons patients.",
+   "en": "We have to be patient.",
+   "note": "soyons, no i after the y"
+  }
+ ],
+ "quebec": {
+  "intro": "In relaxed Quebec speech, 'il faut que' shrinks to 'faut que', and some subjunctives are regularized: 'faut que j'alle' for 'faut que j'aille', 'qu'il soye' for 'qu'il soit'. These are heard daily but are non-standard; write and say the standard forms.",
+  "items": [
+   {
+    "std": "Il faut que j'aille au dépanneur.",
+    "qc": "Faut que j'alle au dépanneur.",
+    "en": "I have to go to the convenience store.",
+    "note": "j'alle is non-standard; the standard form is j'aille"
+   },
+   {
+    "std": "Il faut que tu ailles voir ça.",
+    "qc": "Faut que t'alles voir ça.",
+    "en": "You've got to go see that.",
+    "note": "informal; t'alles = tu ailles"
+   },
+   {
+    "std": "Il faut qu'il soit là à huit heures.",
+    "qc": "Faut qu'y soye là à huit heures.",
+    "en": "He has to be there at eight.",
+    "note": "soye is non-standard; y = il in fast speech"
+   },
+   {
+    "std": "Il faut que j'aie mon permis.",
+    "qc": "Faut que j'aye mon permis.",
+    "en": "I have to have my licence.",
+    "note": "aye [ɛj] is heard for aie; avoid in writing"
+   },
+   {
+    "std": "Il faut que je parte.",
+    "qc": "Faut que j'parte.",
+    "en": "I've got to go.",
+    "note": "dropping il and the e of je is normal casual speech"
+   },
+   {
+    "std": "Il faut qu'on fasse le ménage.",
+    "qc": "Faut qu'on fasse le ménage.",
+    "en": "We have to clean up.",
+    "note": "fasse stays standard even in casual speech"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Which form is used to build the regular subjunctive stem?",
+   "options": [
+    "the infinitive",
+    "the ils/elles present form",
+    "the je present form",
+    "the past participle"
+   ],
+   "a": 1,
+   "why": "Take ils finissent, drop -ent: finiss- + endings."
+  },
+  {
+   "t": "mcq",
+   "q": "Il faut que nous ___ (être) prêts.",
+   "options": [
+    "sommes",
+    "soyions",
+    "soyons",
+    "soient"
+   ],
+   "a": 2,
+   "why": "Être: que nous soyons, with no i after the y."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is the standard subjunctive of 'aller' with je?",
+   "options": [
+    "que j'alle",
+    "que j'aille",
+    "que je vais",
+    "que j'allais"
+   ],
+   "a": 1,
+   "why": "Que j'aille is standard; j'alle is a non-standard spoken form."
+  },
+  {
+   "t": "mcq",
+   "q": "Il faut que vous ___ (venir) à la réunion.",
+   "options": [
+    "veniez",
+    "viennez",
+    "venez",
+    "viendrez"
+   ],
+   "a": 0,
+   "why": "Two-stem verb: vous uses the nous stem (venons) → que vous veniez."
+  },
+  {
+   "t": "fill",
+   "q": "Il faut que tu ___ ton rapport. (finir)",
+   "a": [
+    "finisses"
+   ],
+   "en": "You have to finish your report.",
+   "why": "ils finissent → finiss- + -es."
+  },
+  {
+   "t": "fill",
+   "q": "Il faut qu'elle ___ le bus. (prendre)",
+   "a": [
+    "prenne"
+   ],
+   "en": "She has to take the bus.",
+   "why": "ils prennent → qu'elle prenne."
+  },
+  {
+   "t": "fill",
+   "q": "Il faut que je ___ la vaisselle. (faire)",
+   "a": [
+    "fasse"
+   ],
+   "en": "I have to do the dishes.",
+   "why": "Faire has the special stem fass-."
+  },
+  {
+   "t": "fill",
+   "q": "Il faut que vous ___ patients. (être)",
+   "a": [
+    "soyez"
+   ],
+   "en": "You have to be patient.",
+   "why": "Être: que vous soyez."
+  },
+  {
+   "t": "fill",
+   "q": "Il faut qu'ils ___ la réponse. (savoir)",
+   "a": [
+    "sachent"
+   ],
+   "en": "They need to know the answer.",
+   "why": "Savoir has the stem sach-."
+  },
+  {
+   "t": "build",
+   "en": "I have to go to the doctor.",
+   "a": "Il faut que j'aille chez le médecin."
+  },
+  {
+   "t": "build",
+   "en": "We have to take the metro.",
+   "a": "Il faut que nous prenions le métro."
+  },
+  {
+   "t": "build",
+   "en": "You need to have your passport.",
+   "a": "Il faut que tu aies ton passeport."
+  },
+  {
+   "t": "translate",
+   "en": "I have to leave.",
+   "a": [
+    "Il faut que je parte.",
+    "Faut que je parte.",
+    "Il faut que je m'en aille.",
+    "Je dois partir."
+   ],
+   "why": "partir → que je parte."
+  },
+  {
+   "t": "translate",
+   "en": "She has to come tomorrow.",
+   "a": [
+    "Il faut qu'elle vienne demain.",
+    "Elle doit venir demain."
+   ],
+   "why": "venir → qu'elle vienne."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "le subjonctif",
+   "en": "the subjunctive",
+   "g": "m",
+   "ex": "Après « il faut que », on met le subjonctif."
+  },
+  {
+   "fr": "il faut que",
+   "en": "it is necessary that, (someone) has to",
+   "ex": "Il faut que je travaille."
+  },
+  {
+   "fr": "le rapport",
+   "en": "report",
+   "g": "m",
+   "ex": "Il faut que tu finisses ton rapport."
+  },
+  {
+   "fr": "le propriétaire / la propriétaire",
+   "en": "landlord, owner",
+   "ex": "Il faut appeler le propriétaire."
+  },
+  {
+   "fr": "à l'heure",
+   "en": "on time",
+   "ex": "Il faut que je sois à l'heure."
+  },
+  {
+   "fr": "tout de suite",
+   "en": "right away",
+   "ex": "Il faut qu'il parte tout de suite."
+  },
+  {
+   "fr": "le permis de conduire",
+   "en": "driver's licence",
+   "g": "m",
+   "ex": "Il faut que tu aies ton permis de conduire."
+  },
+  {
+   "fr": "le passeport",
+   "en": "passport",
+   "g": "m",
+   "ex": "N'oublie pas ton passeport."
+  },
+  {
+   "fr": "faire l'épicerie",
+   "en": "to do the grocery shopping",
+   "ex": "Il faut qu'on fasse l'épicerie samedi.",
+   "qc": true
+  },
+  {
+   "fr": "faire le ménage",
+   "en": "to clean (the house)",
+   "ex": "Il faut que je fasse le ménage."
+  },
+  {
+   "fr": "le dépanneur",
+   "en": "convenience store",
+   "g": "m",
+   "ex": "Je vais au dépanneur.",
+   "qc": true
+  },
+  {
+   "fr": "la facture",
+   "en": "bill, invoice",
+   "g": "f",
+   "ex": "Il faut que nous payions la facture."
+  },
+  {
+   "fr": "la vérité",
+   "en": "truth",
+   "g": "f",
+   "ex": "Il faut que tu saches la vérité."
+  },
+  {
+   "fr": "le rendez-vous",
+   "en": "appointment",
+   "g": "m",
+   "ex": "Il faut que j'aille à mon rendez-vous."
+  },
+  {
+   "fr": "patient / patiente",
+   "en": "patient",
+   "ex": "Il faut être patient."
+  },
+  {
+   "fr": "prêt / prête",
+   "en": "ready",
+   "ex": "Il faut que nous soyons prêts."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "que je parle / que nous parlions",
+    "tip": "The singular sounds like the present; nous adds [jɔ̃]: par-LYON."
+   },
+   {
+    "fr": "que j'aille",
+    "tip": "Rhymes with English 'eye' [aj]: kuh-ZHY."
+   },
+   {
+    "fr": "que je sois",
+    "tip": "Same sound as 'soit' and 'soient': SWA."
+   },
+   {
+    "fr": "que j'aie",
+    "tip": "Sounds exactly like j'ai: [ʒɛ]."
+   },
+   {
+    "fr": "que nous soyons",
+    "tip": "swa-YON: only one y sound, no extra i."
+   },
+   {
+    "fr": "que je fasse",
+    "tip": "FASS, with a clear s sound."
+   },
+   {
+    "fr": "Faut que j'parte",
+    "tip": "Quebec casual: fo-kuh-ZHPART, il and the e of je disappear."
+   }
+  ],
+  "title": "La veille du départ",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "On part demain matin. Il faut qu'on soit prêts ce soir.",
+    "en": "We leave tomorrow morning. We have to be ready tonight."
+   },
+   {
+    "s": "B",
+    "fr": "Oui. Il faut que je fasse ma valise et que j'aille à la pharmacie.",
+    "en": "Yes. I have to pack my suitcase and go to the pharmacy."
+   },
+   {
+    "s": "A",
+    "fr": "Et il faut que tu appelles ta mère pour le chat.",
+    "en": "And you have to call your mother about the cat."
+   },
+   {
+    "s": "B",
+    "fr": "C'est vrai. Il faut qu'elle vienne le nourrir deux fois par jour.",
+    "en": "That's right. She has to come and feed him twice a day."
+   },
+   {
+    "s": "A",
+    "fr": "Moi, il faut que je finisse mon rapport avant de partir.",
+    "en": "Me, I have to finish my report before leaving."
+   },
+   {
+    "s": "B",
+    "fr": "As-tu ton passeport?",
+    "en": "Do you have your passport?"
+   },
+   {
+    "s": "A",
+    "fr": "Oui, mais il faut que nous ayons aussi les billets imprimés.",
+    "en": "Yes, but we also need to have the printed tickets."
+   },
+   {
+    "s": "B",
+    "fr": "Pas de problème, je m'en occupe. Bon, faut que j'y alle!",
+    "en": "No problem, I'll take care of it. OK, I've got to go!"
+   },
+   {
+    "s": "A",
+    "fr": "« Que j'y aille », tu veux dire! Allez, à tantôt.",
+    "en": "'Que j'y aille', you mean! Go on, see you later."
+   }
+  ],
+  "questions": [
+   {
+    "q": "Where does speaker B have to go?",
+    "options": [
+     "To the bank",
+     "To the pharmacy",
+     "To the airport"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Who will feed the cat?",
+    "options": [
+     "A neighbour",
+     "B's mother",
+     "A's brother"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does A correct at the end?",
+    "options": [
+     "A non-standard subjunctive",
+     "A wrong time",
+     "A wrong address"
+    ],
+    "a": 0
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Say three things you have to do this lesson, each starting with 'Il faut que je…'.",
+   "model": "Il faut que je fasse l'épicerie. Il faut que j'aille chez le dentiste. Il faut que je finisse mon projet."
+  },
+  {
+   "prompt": "Tell a friend two things they have to do before a trip, using tu.",
+   "model": "Il faut que tu aies ton passeport et que tu prennes un taxi pour l'aéroport."
+  },
+  {
+   "prompt": "Say 'I've got to go' casually the Quebec way, then in standard French.",
+   "model": "Faut que j'parte! / Il faut que je parte."
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences about everything that has to happen before a party at your place. Use 'il faut que' with at least five different verbs, including two irregular ones.",
+  "model": "Samedi, on fait une fête chez nous. Il faut que je fasse le ménage vendredi soir. Il faut que mon conjoint aille à la SAQ et qu'il achète du vin. Il faut que nous préparions des bouchées. Il faut aussi que les invités sachent l'adresse, donc il faut que je leur envoie un texto. Enfin, il faut que tout soit prêt à sept heures."
+ },
+ "quiz": [
+  {
+   "q": "What is the subjunctive of 'avoir' with tu?",
+   "options": [
+    "que tu as",
+    "que tu aies",
+    "que tu ayes",
+    "que tu aie"
+   ],
+   "a": 1,
+   "why": "Avoir: que j'aie, que tu aies, qu'il ait."
+  },
+  {
+   "q": "Why does 'que je parle' look like the present indicative?",
+   "options": [
+    "It's a mistake",
+    "-er verbs have the same singular forms in both moods",
+    "Parler has no subjunctive",
+    "Because of que"
+   ],
+   "a": 1,
+   "why": "For -er verbs, je, tu, il and ils forms are identical; only nous and vous differ."
+  },
+  {
+   "q": "Which is correct?",
+   "options": [
+    "que nous ayions",
+    "que nous ayons",
+    "que nous avions",
+    "que nous aions"
+   ],
+   "a": 1,
+   "why": "Avoir and être have no i after y: ayons, soyons."
+  },
+  {
+   "q": "The subjunctive of 'pouvoir' with il is…",
+   "options": [
+    "qu'il peut",
+    "qu'il puisse",
+    "qu'il pouve",
+    "qu'il pourrait"
+   ],
+   "a": 1,
+   "why": "Pouvoir has the special stem puiss-."
+  },
+  {
+   "q": "Que vous ___ (boire) de l'eau.",
+   "options": [
+    "boiviez",
+    "buviez",
+    "buvez",
+    "boivez"
+   ],
+   "a": 1,
+   "why": "Nous and vous use the nous stem: nous buvons → que vous buviez."
+  },
+  {
+   "q": "What is the subjunctive of 'pleuvoir'?",
+   "options": [
+    "qu'il pleut",
+    "qu'il pleuve",
+    "qu'il pleuvoie",
+    "qu'il pluie"
+   ],
+   "a": 1,
+   "why": "Impersonal verb with one form: qu'il pleuve."
+  },
+  {
+   "q": "'Faut que j'alle' is…",
+   "options": [
+    "the standard form",
+    "a non-standard spoken form of 'il faut que j'aille'",
+    "the future tense",
+    "a France-only form"
+   ],
+   "a": 1,
+   "why": "Heard in casual speech; the standard is que j'aille."
+  },
+  {
+   "q": "Which verb has the subjunctive stem 'veuill-' for je, tu, il and ils?",
+   "options": [
+    "venir",
+    "voir",
+    "vouloir",
+    "valoir"
+   ],
+   "a": 2,
+   "why": "Vouloir: que je veuille, but que nous voulions."
+  },
+  {
+   "q": "What does 'Il faut qu'on parle' mean?",
+   "options": [
+    "We talked",
+    "We need to talk",
+    "We will talk",
+    "We are talking"
+   ],
+   "a": 1,
+   "why": "Il faut que + subjunctive expresses necessity."
+  }
+ ]
+}

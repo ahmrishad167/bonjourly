@@ -1,0 +1,631 @@
+{
+ "w": 60,
+ "title": "Quebec expressions set 2",
+ "goal": "By the end of this lesson you can understand and use a second set of everyday Quebec expressions (avoir de la misère, niaiser, c'est plate, bon matin, avoir hâte, jaser, chialer, capoter and more), and know their standard equivalents.",
+ "learn": [
+  {
+   "h": "How to use this lesson",
+   "body": [
+    "These expressions are part of everyday spoken Quebec French, used by everyone from teenagers to grandparents. Most are **informal**: perfect with friends, colleagues and neighbours, but in a formal letter or job interview, use the standard equivalent.",
+    "Each one fits into grammar you already know: you can conjugate them, put them in the passé composé, use them with pronouns."
+   ]
+  },
+  {
+   "h": "Difficulty and frustration",
+   "body": [
+    "**Avoir de la misère (à + infinitive)** = to have a hard time (doing something). Standard: *avoir du mal à*. *J'ai de la misère à me lever le matin.*",
+    "**C'est plate** = it's boring, or that's too bad. Standard: *c'est ennuyant / ennuyeux* (boring), *c'est dommage* (too bad). *Le film était plate.* *Tu ne viens pas? C'est plate!*",
+    "**Être écœuré (de)** = to be fed up (with). Standard: *en avoir assez*. **Chialer** = to complain, whine. Standard: *se plaindre*."
+   ],
+   "table": {
+    "head": [
+     "Quebec",
+     "Standard",
+     "Meaning"
+    ],
+    "rows": [
+     [
+      "avoir de la misère à",
+      "avoir du mal à",
+      "to have trouble (doing)"
+     ],
+     [
+      "c'est plate",
+      "c'est ennuyant / c'est dommage",
+      "it's boring / too bad"
+     ],
+     [
+      "être écœuré",
+      "en avoir assez",
+      "to be fed up"
+     ],
+     [
+      "chialer",
+      "se plaindre",
+      "to complain"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Teasing, chatting, freaking out",
+   "body": [
+    "**Niaiser** = to kid around, tease, or waste time. *Arrête de niaiser!* (Stop fooling around!) *Tu me niaises?* (Are you kidding me?) *Se faire niaiser* = to get fooled / be made fun of. Related: *niaiseux* = silly, dumb.",
+    "**Jaser** = to chat (standard: *bavarder, discuter*): *On a jasé toute la soirée.*",
+    "**Capoter** = to freak out, go crazy (with stress or excitement): *J'ai capoté quand j'ai vu le prix!* *Capoter sur* = to be crazy about: *Je capote sur ce groupe.*",
+    "**Achaler** = to bother, pester (standard: *déranger, embêter*): *Arrête de m'achaler!*"
+   ]
+  },
+  {
+   "h": "Good wishes and feelings",
+   "body": [
+    "**Bon matin!** = Good morning! Common in Quebec as a cheerful greeting (in France you'd just say *bonjour*). It's widely used and accepted.",
+    "**Avoir hâte (de / que)** = to look forward to, can't wait. It's standard French, but Quebecers use it constantly: *J'ai hâte aux vacances! J'ai hâte de te voir!* Note the Quebec *avoir hâte à + noun*.",
+    "**Ça a pas d'allure!** = That's ridiculous / that makes no sense. Standard: *ça n'a pas de sens, c'est ridicule*."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "J'ai de la misère à comprendre mon nouveau voisin.",
+   "en": "I have trouble understanding my new neighbour.",
+   "note": "avoir de la misère à + infinitive"
+  },
+  {
+   "fr": "Elle a eu de la misère à trouver un stationnement.",
+   "en": "She had a hard time finding a parking spot.",
+   "note": "passé composé: a eu de la misère"
+  },
+  {
+   "fr": "Le cours était plate, je me suis endormi.",
+   "en": "The class was boring, I fell asleep.",
+   "note": "plate = boring"
+  },
+  {
+   "fr": "C'est plate, il pleut encore!",
+   "en": "Too bad, it's raining again!",
+   "note": "plate = too bad"
+  },
+  {
+   "fr": "Arrête de niaiser, on est en retard!",
+   "en": "Stop fooling around, we're late!",
+   "note": "niaiser = waste time, fool around"
+  },
+  {
+   "fr": "Tu me niaises? Tu as gagné à la loterie?",
+   "en": "Are you kidding me? You won the lottery?",
+   "note": "niaiser quelqu'un = to kid someone"
+  },
+  {
+   "fr": "Bon matin! As-tu bien dormi?",
+   "en": "Good morning! Did you sleep well?",
+   "note": "cheerful morning greeting"
+  },
+  {
+   "fr": "J'ai tellement hâte à l'été!",
+   "en": "I can't wait for summer!",
+   "note": "avoir hâte à + noun (Quebec usage)"
+  },
+  {
+   "fr": "On a jasé pendant deux heures au téléphone.",
+   "en": "We chatted for two hours on the phone.",
+   "note": "jaser = to chat"
+  },
+  {
+   "fr": "Il chiale toujours contre la météo.",
+   "en": "He's always complaining about the weather.",
+   "note": "chialer contre = to complain about"
+  },
+  {
+   "fr": "Je suis écœuré de la neige!",
+   "en": "I'm fed up with the snow!",
+   "note": "être écœuré de"
+  },
+  {
+   "fr": "Mes enfants capotent sur ce jeu vidéo.",
+   "en": "My kids are crazy about this video game.",
+   "note": "capoter sur = to love"
+  },
+  {
+   "fr": "J'ai capoté quand j'ai vu la facture.",
+   "en": "I freaked out when I saw the bill.",
+   "note": "capoter = to freak out"
+  },
+  {
+   "fr": "Arrête de m'achaler, je travaille!",
+   "en": "Stop bugging me, I'm working!",
+   "note": "achaler = to bother"
+  },
+  {
+   "fr": "Trois heures d'attente? Ça a pas d'allure!",
+   "en": "A three-hour wait? That's ridiculous!",
+   "note": "informal: the ne is dropped"
+  },
+  {
+   "fr": "Fais pas le niaiseux!",
+   "en": "Don't act dumb! / Don't be silly!",
+   "note": "niaiseux / niaiseuse = silly"
+  }
+ ],
+ "quebec": {
+  "intro": "This whole week is the Quebec layer. Here are the four headline expressions from the roadmap side by side with their standard equivalents. All four are informal except 'bon matin', which is perfectly polite.",
+  "items": [
+   {
+    "std": "J'ai du mal à dormir.",
+    "qc": "J'ai de la misère à dormir.",
+    "en": "I have trouble sleeping.",
+    "note": "informal; very common at every age"
+   },
+   {
+    "std": "Arrête de faire l'idiot! / Tu plaisantes?",
+    "qc": "Arrête de niaiser! / Tu me niaises?",
+    "en": "Stop fooling around! / Are you kidding me?",
+    "note": "informal"
+   },
+   {
+    "std": "Bonjour! (le matin)",
+    "qc": "Bon matin!",
+    "en": "Good morning!",
+    "note": "polite and common in Quebec; unusual in France"
+   },
+   {
+    "std": "C'est ennuyant. / C'est dommage.",
+    "qc": "C'est plate.",
+    "en": "It's boring. / That's too bad.",
+    "note": "informal; plate rhymes with 'pat'"
+   },
+   {
+    "std": "J'en ai assez de l'hiver.",
+    "qc": "Chu écœuré de l'hiver.",
+    "en": "I'm fed up with winter.",
+    "note": "chu = je suis; informal"
+   },
+   {
+    "std": "Ça n'a pas de sens!",
+    "qc": "Ça a pas d'allure!",
+    "en": "That's ridiculous!",
+    "note": "informal"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "'J'ai de la misère à me concentrer' means…",
+   "options": [
+    "I'm miserable",
+    "I have trouble concentrating",
+    "I love concentrating",
+    "I'm poor"
+   ],
+   "a": 1,
+   "why": "Avoir de la misère à = avoir du mal à."
+  },
+  {
+   "t": "mcq",
+   "q": "'C'est plate' can mean…",
+   "options": [
+    "It's flat only",
+    "It's boring / that's too bad",
+    "It's delicious",
+    "It's empty"
+   ],
+   "a": 1,
+   "why": "Plate = boring, or too bad."
+  },
+  {
+   "t": "mcq",
+   "q": "'Arrête de niaiser!' means…",
+   "options": [
+    "Stop crying!",
+    "Stop fooling around!",
+    "Stop eating!",
+    "Stop driving!"
+   ],
+   "a": 1,
+   "why": "Niaiser = to fool around, waste time."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is the standard equivalent of 'jaser'?",
+   "options": [
+    "bavarder",
+    "crier",
+    "se plaindre",
+    "dormir"
+   ],
+   "a": 0,
+   "why": "Jaser = to chat."
+  },
+  {
+   "t": "fill",
+   "q": "J'ai ___ de te voir! (look forward)",
+   "a": [
+    "hâte"
+   ],
+   "en": "I can't wait to see you!",
+   "why": "Avoir hâte de + infinitive."
+  },
+  {
+   "t": "fill",
+   "q": "Il a eu de la ___ à trouver un appartement. (trouble)",
+   "a": [
+    "misère"
+   ],
+   "en": "He had trouble finding an apartment.",
+   "why": "Avoir de la misère à."
+  },
+  {
+   "t": "fill",
+   "q": "Arrête de m'___, je suis occupé! (bother)",
+   "a": [
+    "achaler"
+   ],
+   "en": "Stop bugging me, I'm busy!",
+   "why": "Achaler = to bother."
+  },
+  {
+   "t": "fill",
+   "q": "Il ___ toujours contre son patron. (complain)",
+   "a": [
+    "chiale"
+   ],
+   "en": "He's always complaining about his boss.",
+   "why": "Chialer contre."
+  },
+  {
+   "t": "build",
+   "en": "I can't wait for the holidays!",
+   "a": "J'ai hâte aux vacances!"
+  },
+  {
+   "t": "build",
+   "en": "We chatted all evening.",
+   "a": "On a jasé toute la soirée."
+  },
+  {
+   "t": "build",
+   "en": "I'm fed up with the snow.",
+   "a": "Je suis écœuré de la neige."
+  },
+  {
+   "t": "translate",
+   "en": "Are you kidding me?",
+   "a": [
+    "Tu me niaises?",
+    "Vous me niaisez?",
+    "Tu plaisantes?",
+    "Vous plaisantez?",
+    "Tu me niaises-tu?"
+   ],
+   "why": "Niaiser quelqu'un = to kid someone."
+  },
+  {
+   "t": "translate",
+   "en": "The movie was boring.",
+   "a": [
+    "Le film était plate.",
+    "Le film était ennuyant.",
+    "Le film était ennuyeux.",
+    "Le film a été plate."
+   ],
+   "why": "Plate (Quebec) or ennuyant/ennuyeux."
+  },
+  {
+   "t": "translate",
+   "en": "I freaked out!",
+   "a": [
+    "J'ai capoté!",
+    "J'ai paniqué!"
+   ],
+   "why": "Capoter = to freak out."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "avoir de la misère à",
+   "en": "to have trouble (doing)",
+   "ex": "J'ai de la misère à dormir.",
+   "qc": true
+  },
+  {
+   "fr": "niaiser",
+   "en": "to fool around, kid, tease, waste time",
+   "ex": "Arrête de niaiser!",
+   "qc": true
+  },
+  {
+   "fr": "niaiseux / niaiseuse",
+   "en": "silly, dumb",
+   "ex": "C'est une question niaiseuse.",
+   "qc": true
+  },
+  {
+   "fr": "bon matin",
+   "en": "good morning",
+   "ex": "Bon matin, tout le monde!",
+   "qc": true
+  },
+  {
+   "fr": "plate",
+   "en": "boring; too bad",
+   "ex": "C'est plate.",
+   "qc": true
+  },
+  {
+   "fr": "avoir hâte (à / de)",
+   "en": "to look forward to, can't wait",
+   "ex": "J'ai hâte à Noël!"
+  },
+  {
+   "fr": "jaser",
+   "en": "to chat",
+   "ex": "On jase un peu?",
+   "qc": true
+  },
+  {
+   "fr": "chialer",
+   "en": "to complain, whine",
+   "ex": "Arrête de chialer!",
+   "qc": true
+  },
+  {
+   "fr": "être écœuré (de)",
+   "en": "to be fed up (with)",
+   "ex": "Chu écœuré du trafic.",
+   "qc": true
+  },
+  {
+   "fr": "capoter",
+   "en": "to freak out; (sur) to be crazy about",
+   "ex": "Je capote sur cette chanson!",
+   "qc": true
+  },
+  {
+   "fr": "achaler",
+   "en": "to bother, pester",
+   "ex": "Il m'achale tout le temps.",
+   "qc": true
+  },
+  {
+   "fr": "ça a pas d'allure",
+   "en": "that's ridiculous, makes no sense",
+   "ex": "Ce prix-là, ça a pas d'allure!",
+   "qc": true
+  },
+  {
+   "fr": "avoir du mal à",
+   "en": "to have trouble (standard)",
+   "ex": "J'ai du mal à comprendre."
+  },
+  {
+   "fr": "ennuyant / ennuyeux",
+   "en": "boring (standard)",
+   "ex": "Ce livre est ennuyant."
+  },
+  {
+   "fr": "se plaindre",
+   "en": "to complain (standard)",
+   "ex": "Il se plaint souvent."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "misère",
+    "tip": "mi-ZÈR; in Quebec the è is often long and open: [mi-zaèr]."
+   },
+   {
+    "fr": "niaiser",
+    "tip": "nyè-ZÉ, two syllables."
+   },
+   {
+    "fr": "plate",
+    "tip": "[plat], rhymes with 'pat': the final t is pronounced."
+   },
+   {
+    "fr": "écœuré",
+    "tip": "é-keu-RÉ."
+   },
+   {
+    "fr": "Ça a pas d'allure",
+    "tip": "sa-a-pâ-da-LUR, the two a's are both said."
+   },
+   {
+    "fr": "J'ai hâte",
+    "tip": "jé-ÂT, long back â; the h is silent."
+   }
+  ],
+  "title": "Un lundi matin au bureau",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Bon matin, Julie! Ça va?",
+    "en": "Good morning, Julie! How's it going?"
+   },
+   {
+    "s": "B",
+    "fr": "Bof. J'ai eu de la misère à me lever. Pis le métro était en panne.",
+    "en": "Meh. I had trouble getting up. And the metro was broken down."
+   },
+   {
+    "s": "A",
+    "fr": "Ah non, c'est plate! Encore?",
+    "en": "Oh no, that's too bad! Again?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, chu écœurée. Une heure pour venir ici, ça a pas d'allure!",
+    "en": "Yes, I'm fed up. An hour to get here, that's ridiculous!"
+   },
+   {
+    "s": "A",
+    "fr": "Je te comprends. Mais j'ai une bonne nouvelle: le party de bureau est vendredi!",
+    "en": "I get it. But I have good news: the office party is Friday!"
+   },
+   {
+    "s": "B",
+    "fr": "Tu me niaises? Je pensais que c'était annulé!",
+    "en": "Are you kidding me? I thought it was cancelled!"
+   },
+   {
+    "s": "A",
+    "fr": "Non, non. Et il y aura un karaoké.",
+    "en": "No, no. And there will be karaoke."
+   },
+   {
+    "s": "B",
+    "fr": "Je capote! J'ai tellement hâte!",
+    "en": "I'm so excited! I can't wait!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Why was Julie late?",
+    "options": [
+     "Her car broke down",
+     "The metro was broken down",
+     "She missed the bus"
+    ],
+    "a": 1
+   },
+   {
+    "q": "When is the office party?",
+    "options": [
+     "Tonight",
+     "Friday",
+     "Next month"
+    ],
+    "a": 1
+   },
+   {
+    "q": "How does Julie feel at the end?",
+    "options": [
+     "Bored",
+     "Fed up",
+     "Excited"
+    ],
+    "a": 2
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Say three things you have trouble doing in French, using avoir de la misère à.",
+   "model": "J'ai de la misère à comprendre les films. J'ai de la misère à parler vite. J'ai de la misère à rouler mes r."
+  },
+  {
+   "prompt": "Greet a colleague on Monday Quebec style, complain about something, then say what you're looking forward to.",
+   "model": "Bon matin! Chu écœuré du trafic, c'est plate. Mais j'ai hâte à la fin de semaine!"
+  },
+  {
+   "prompt": "A friend tells you surprising news. React with two Quebec expressions.",
+   "model": "Tu me niaises? Je capote!"
+  }
+ ],
+ "write": {
+  "prompt": "Write a 5–6 sentence text message to a Quebec friend about your week, using at least five expressions from this lesson. Then rewrite one sentence in standard French.",
+  "model": "Salut! Ma semaine était pas mal plate. J'ai eu de la misère à finir mon projet, pis mon boss m'a achalé tous les jours. Chu écœuré! Mais samedi, on va jaser autour d'un feu au chalet. J'ai tellement hâte! (Standard: J'ai eu du mal à finir mon projet.)"
+ },
+ "quiz": [
+  {
+   "q": "Standard French for 'avoir de la misère à' is…",
+   "options": [
+    "être pauvre",
+    "avoir du mal à",
+    "avoir peur de",
+    "avoir envie de"
+   ],
+   "a": 1,
+   "why": "Both mean to have trouble doing something."
+  },
+  {
+   "q": "'Bon matin!' is…",
+   "options": [
+    "rude",
+    "a common, polite Quebec greeting",
+    "only for evenings",
+    "a French-from-France expression"
+   ],
+   "a": 1,
+   "why": "Widely used in Quebec; in France people say bonjour."
+  },
+  {
+   "q": "'Je capote sur cette série' means…",
+   "options": [
+    "I hate this series",
+    "I'm crazy about this series",
+    "I fell asleep watching it",
+    "I've finished it"
+   ],
+   "a": 1,
+   "why": "Capoter sur = to be crazy about."
+  },
+  {
+   "q": "'Il chiale tout le temps' means…",
+   "options": [
+    "He sings all the time",
+    "He complains all the time",
+    "He chats all the time",
+    "He laughs all the time"
+   ],
+   "a": 1,
+   "why": "Chialer = to complain."
+  },
+  {
+   "q": "'Niaiseux' means…",
+   "options": [
+    "nice",
+    "silly",
+    "angry",
+    "nervous"
+   ],
+   "a": 1,
+   "why": "Niaiseux = silly, dumb."
+  },
+  {
+   "q": "'Ça a pas d'allure!' means…",
+   "options": [
+    "It's not allowed",
+    "That's ridiculous",
+    "It's not fast",
+    "It's not pretty"
+   ],
+   "a": 1,
+   "why": "No sense, ridiculous."
+  },
+  {
+   "q": "Which expression would you avoid in a job interview?",
+   "options": [
+    "J'ai hâte de commencer.",
+    "Bonjour.",
+    "Chu écœuré de mon ancienne job.",
+    "Merci beaucoup."
+   ],
+   "a": 2,
+   "why": "Chu écœuré is very informal (and negative!)."
+  },
+  {
+   "q": "'J'ai hâte à Noël' means…",
+   "options": [
+    "I'm in a hurry for Christmas",
+    "I can't wait for Christmas",
+    "I hate Christmas",
+    "I'm late for Christmas"
+   ],
+   "a": 1,
+   "why": "Avoir hâte à + noun = look forward to."
+  },
+  {
+   "q": "'Arrête de m'achaler' means…",
+   "options": [
+    "Stop bugging me",
+    "Stop calling me",
+    "Stop buying me things",
+    "Stop following me"
+   ],
+   "a": 0,
+   "why": "Achaler = to bother."
+  }
+ ]
+}

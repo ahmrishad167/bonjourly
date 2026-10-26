@@ -1,0 +1,688 @@
+{
+ "w": 45,
+ "title": "Indirect object pronouns: lui, leur",
+ "goal": "By the end of this lesson you can replace 'à + person' with lui or leur, recognise the verbs that need them, and tell direct from indirect objects.",
+ "learn": [
+  {
+   "h": "Indirect objects: à + a person",
+   "body": [
+    "An indirect object is a person linked to the verb by *à*: *Je parle* **à Marie**. *J'écris* **à mes parents**. *Je donne un cadeau* **à mon frère**.",
+    "To replace it, use *lui* (to him or to her) or *leur* (to them). *Lui* is used for both men and women: *Je* **lui** *parle* can mean 'I talk to him' or 'I talk to her'."
+   ],
+   "table": {
+    "head": [
+     "Person",
+     "Pronoun",
+     "Example"
+    ],
+    "rows": [
+     [
+      "à Paul",
+      "lui",
+      "Je lui téléphone."
+     ],
+     [
+      "à Sophie",
+      "lui",
+      "Je lui téléphone."
+     ],
+     [
+      "à mes amis",
+      "leur",
+      "Je leur téléphone."
+     ],
+     [
+      "à moi / à toi",
+      "me / te",
+      "Il me téléphone. Il te téléphone."
+     ],
+     [
+      "à nous / à vous",
+      "nous / vous",
+      "Elle nous téléphone."
+     ]
+    ]
+   },
+   "tip": "Lui = him OR her. Leur = them. Never add -s to the pronoun leur."
+  },
+  {
+   "h": "Verbs that take à + person",
+   "body": [
+    "Learn these verbs with their *à*. Many are verbs of communication and giving: you speak *to* someone, give something *to* someone.",
+    "Watch out: some verbs that take a direct object in English take *à* in French (*téléphoner à*, *répondre à*, *ressembler à*), and some do the opposite (*attendre*, *écouter*, *regarder*, *chercher* take a direct object)."
+   ],
+   "table": {
+    "head": [
+     "Verb",
+     "Meaning",
+     "Example"
+    ],
+    "rows": [
+     [
+      "parler à",
+      "to speak to",
+      "Je lui parle."
+     ],
+     [
+      "dire à",
+      "to tell, say to",
+      "Dis-lui bonjour!"
+     ],
+     [
+      "donner à",
+      "to give to",
+      "Je leur donne des bonbons."
+     ],
+     [
+      "demander à",
+      "to ask",
+      "Je lui demande l'heure."
+     ],
+     [
+      "répondre à",
+      "to answer",
+      "Elle ne me répond pas."
+     ],
+     [
+      "téléphoner à",
+      "to phone",
+      "On leur téléphone ce soir."
+     ],
+     [
+      "écrire / envoyer à",
+      "to write / send to",
+      "Je lui envoie un texto."
+     ],
+     [
+      "ressembler à",
+      "to look like",
+      "Tu lui ressembles!"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Placement: same rules as le, la, les",
+   "body": [
+    "The pronoun goes before the conjugated verb: *Je* **lui** *parle*. Negative: *Je ne* **lui** *parle pas*.",
+    "With an infinitive it goes before the infinitive: *Je vais* **leur** *écrire*. In the passé composé it goes before *avoir*: *Je* **lui** *ai dit la vérité*.",
+    "Important difference: there is **no** agreement of the past participle with an indirect object. *Je leur ai parlé* (no -s)."
+   ]
+  },
+  {
+   "h": "Direct or indirect? The à test",
+   "body": [
+    "Ask: is there an *à* before the person? *J'aide Marie* (no à) → *Je l'aide*. *Je parle à Marie* (à) → *Je lui parle*.",
+    "*Lui* and *leur* are for people (and animals). For things after *à*, French uses *y*, which we will see in lesson 47: *Je pense à mon voyage* → *J'y pense*."
+   ]
+  },
+  {
+   "h": "Commands",
+   "body": [
+    "In a positive command, the pronoun follows the verb: *Parle-***lui**! *Répondez-***leur**! *Donne-***moi** *ça!* (me becomes *moi* at the end).",
+    "In a negative command, it goes back in front: *Ne* **lui** *dis pas!* *Ne* **leur** *réponds pas!*"
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Tu parles à ta mère? Oui, je lui parle tous les jours.",
+   "en": "Do you talk to your mother? Yes, I talk to her every day.",
+   "note": "lui = to her"
+  },
+  {
+   "fr": "Je lui ai donné mon numéro.",
+   "en": "I gave him / her my number.",
+   "note": "lui before avoir, no agreement"
+  },
+  {
+   "fr": "Mes grands-parents? Je leur écris une carte.",
+   "en": "My grandparents? I'm writing them a card.",
+   "note": "leur = to them"
+  },
+  {
+   "fr": "Il ne me répond pas.",
+   "en": "He's not answering me.",
+   "note": "répondre à: indirect object"
+  },
+  {
+   "fr": "Je vais leur téléphoner demain.",
+   "en": "I'm going to call them tomorrow.",
+   "note": "téléphoner à: indirect in French"
+  },
+  {
+   "fr": "Tu lui ressembles beaucoup.",
+   "en": "You look a lot like him / her.",
+   "note": "ressembler à"
+  },
+  {
+   "fr": "Qu'est-ce que tu lui as dit?",
+   "en": "What did you tell him / her?",
+   "note": "dire à quelqu'un"
+  },
+  {
+   "fr": "Je leur ai demandé de venir à six heures.",
+   "en": "I asked them to come at six.",
+   "note": "demander à quelqu'un de faire quelque chose"
+  },
+  {
+   "fr": "Envoie-moi un texto quand tu arrives.",
+   "en": "Send me a text when you get there.",
+   "note": "positive command: me becomes moi"
+  },
+  {
+   "fr": "Ne lui dis pas mon secret!",
+   "en": "Don't tell him / her my secret!",
+   "note": "negative command: pronoun before the verb"
+  },
+  {
+   "fr": "Le prof nous explique la règle.",
+   "en": "The teacher explains the rule to us.",
+   "note": "nous = to us"
+  },
+  {
+   "fr": "Je vous souhaite une bonne journée.",
+   "en": "I wish you a good day.",
+   "note": "souhaiter à quelqu'un"
+  },
+  {
+   "fr": "Ce film ne leur plaît pas.",
+   "en": "They don't like this movie.",
+   "note": "plaire à: literally 'this movie doesn't please them'"
+  },
+  {
+   "fr": "Mes voisins? Je les aide et je leur parle souvent.",
+   "en": "My neighbours? I help them and I often talk to them.",
+   "note": "aider (direct: les) vs parler à (indirect: leur)"
+  },
+  {
+   "fr": "On lui a offert un chandail pour sa fête.",
+   "en": "We gave him / her a sweater for his / her birthday.",
+   "note": "offrir à; chandail = sweater in Quebec"
+  },
+  {
+   "fr": "Ça te dit d'aller au cinéma?",
+   "en": "Do you feel like going to the movies?",
+   "note": "fixed expression: ça te dit?"
+  }
+ ],
+ "quebec": {
+  "intro": "In casual Quebec speech, 'lui' is very often replaced by 'y' (pronounced [i]): 'je lui ai dit' becomes 'j'y ai dit'. You will hear it constantly; in writing and formal speech always use lui. Leur usually stays leur.",
+  "items": [
+   {
+    "std": "Je lui ai dit.",
+    "qc": "J'y ai dit.",
+    "en": "I told him / her.",
+    "note": "informal; y = lui"
+   },
+   {
+    "std": "Dis-lui de venir.",
+    "qc": "Dis-y de venir.",
+    "en": "Tell him / her to come.",
+    "note": "informal command"
+   },
+   {
+    "std": "Je vais lui parler.",
+    "qc": "J'vas y parler.",
+    "en": "I'm going to talk to him / her.",
+    "note": "j'vas = je vais; informal"
+   },
+   {
+    "std": "Donne-lui ça.",
+    "qc": "Donne-y ça.",
+    "en": "Give him / her that.",
+    "note": "informal"
+   },
+   {
+    "std": "Je ne lui ai pas répondu.",
+    "qc": "J'y ai pas répondu.",
+    "en": "I didn't answer him / her.",
+    "note": "ne dropped, y for lui; informal"
+   },
+   {
+    "std": "Je leur ai demandé.",
+    "qc": "J'leur ai demandé.",
+    "en": "I asked them.",
+    "note": "leur is kept; only je shortens"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Replace: 'Je parle à mon père.'",
+   "options": [
+    "Je le parle.",
+    "Je lui parle.",
+    "Je leur parle.",
+    "Je parle lui."
+   ],
+   "a": 1,
+   "why": "Parler à + one person = lui."
+  },
+  {
+   "t": "mcq",
+   "q": "Replace: 'J'écris à mes cousins.'",
+   "options": [
+    "Je les écris.",
+    "Je leurs écris.",
+    "Je leur écris.",
+    "Je lui écris."
+   ],
+   "a": 2,
+   "why": "À + several people = leur, which never takes -s."
+  },
+  {
+   "t": "mcq",
+   "q": "Which verb takes a DIRECT object in French?",
+   "options": [
+    "téléphoner",
+    "répondre",
+    "attendre",
+    "parler"
+   ],
+   "a": 2,
+   "why": "Attendre quelqu'un: je l'attends."
+  },
+  {
+   "t": "mcq",
+   "q": "'Je ___ ai parlé hier.' (à Julie)",
+   "options": [
+    "l'",
+    "la",
+    "lui",
+    "leur"
+   ],
+   "a": 2,
+   "why": "Parler à = indirect; Julie is one person: lui."
+  },
+  {
+   "t": "fill",
+   "q": "Mes parents? Je ___ téléphone le dimanche. (them)",
+   "a": [
+    "leur"
+   ],
+   "en": "My parents? I call them on Sundays.",
+   "why": "Téléphoner à + plural: leur."
+  },
+  {
+   "t": "fill",
+   "q": "Ta sœur? Je ___ ai envoyé un message. (to her)",
+   "a": [
+    "lui"
+   ],
+   "en": "Your sister? I sent her a message.",
+   "why": "Envoyer à quelqu'un: lui for her."
+  },
+  {
+   "t": "fill",
+   "q": "Il ne ___ répond jamais. (to me)",
+   "a": [
+    "me"
+   ],
+   "en": "He never answers me.",
+   "why": "Me before the verb in the negative."
+  },
+  {
+   "t": "fill",
+   "q": "Dis-___ la vérité! (to him)",
+   "a": [
+    "lui"
+   ],
+   "en": "Tell him the truth!",
+   "why": "Positive command: verb-lui."
+  },
+  {
+   "t": "build",
+   "en": "I'm going to talk to her.",
+   "a": "Je vais lui parler."
+  },
+  {
+   "t": "build",
+   "en": "Don't tell them!",
+   "a": "Ne leur dis pas!"
+  },
+  {
+   "t": "build",
+   "en": "We gave him a gift.",
+   "a": "Nous lui avons donné un cadeau."
+  },
+  {
+   "t": "translate",
+   "en": "I called her yesterday.",
+   "a": [
+    "Je lui ai téléphoné hier.",
+    "Hier, je lui ai téléphoné.",
+    "Je l'ai appelée hier.",
+    "Hier, je l'ai appelée."
+   ],
+   "why": "Téléphoner à = indirect (lui); appeler = direct (l')."
+  },
+  {
+   "t": "translate",
+   "en": "Send me a photo.",
+   "a": [
+    "Envoie-moi une photo.",
+    "Envoyez-moi une photo."
+   ],
+   "why": "Positive command: me becomes moi."
+  },
+  {
+   "t": "translate",
+   "en": "You look like him.",
+   "a": [
+    "Tu lui ressembles.",
+    "Vous lui ressemblez."
+   ],
+   "why": "Ressembler à takes an indirect object."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "lui",
+   "en": "to him, to her",
+   "ex": "Je lui parle."
+  },
+  {
+   "fr": "leur",
+   "en": "to them",
+   "ex": "Je leur écris."
+  },
+  {
+   "fr": "parler à",
+   "en": "to speak to",
+   "ex": "Tu lui as parlé?"
+  },
+  {
+   "fr": "dire à",
+   "en": "to tell",
+   "ex": "Dis-lui merci."
+  },
+  {
+   "fr": "demander à",
+   "en": "to ask",
+   "ex": "Demande-leur l'heure."
+  },
+  {
+   "fr": "répondre à",
+   "en": "to answer, reply to",
+   "ex": "Réponds-moi!"
+  },
+  {
+   "fr": "téléphoner à",
+   "en": "to phone",
+   "ex": "Je leur téléphone ce soir."
+  },
+  {
+   "fr": "envoyer à",
+   "en": "to send to",
+   "ex": "Je lui envoie un courriel."
+  },
+  {
+   "fr": "offrir à",
+   "en": "to give (as a gift) to",
+   "ex": "On lui offre des fleurs."
+  },
+  {
+   "fr": "ressembler à",
+   "en": "to look like",
+   "ex": "Il ressemble à son père."
+  },
+  {
+   "fr": "plaire à",
+   "en": "to please, be liked by",
+   "ex": "Ça te plaît?"
+  },
+  {
+   "fr": "le cadeau",
+   "en": "gift, present",
+   "g": "m",
+   "ex": "Un cadeau pour toi."
+  },
+  {
+   "fr": "le texto",
+   "en": "text message",
+   "g": "m",
+   "ex": "Envoie-moi un texto."
+  },
+  {
+   "fr": "le secret",
+   "en": "secret",
+   "g": "m",
+   "ex": "C'est un secret."
+  },
+  {
+   "fr": "le chandail",
+   "en": "sweater, top",
+   "g": "m",
+   "ex": "Un chandail de hockey.",
+   "qc": true
+  },
+  {
+   "fr": "la fête",
+   "en": "birthday; party",
+   "g": "f",
+   "ex": "C'est ma fête demain!",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "lui",
+    "tip": "One syllable [lwi], glide quickly from u to i. Not 'loo-ee'."
+   },
+   {
+    "fr": "leur",
+    "tip": "[lœr], like 'lur' with rounded lips; leur and leurs sound the same."
+   },
+   {
+    "fr": "je lui ai dit",
+    "tip": "juh-lwi-é-DI, four quick syllables."
+   },
+   {
+    "fr": "J'y ai dit",
+    "tip": "Quebec casual: [jié di]."
+   },
+   {
+    "fr": "envoie-moi",
+    "tip": "ahn-vwa-MWA, stress on moi."
+   },
+   {
+    "fr": "Ne leur dis pas!",
+    "tip": "In speech often 'leur dis pas!' with ne dropped."
+   }
+  ],
+  "title": "La fête de grand-maman",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "C'est la fête de grand-maman dimanche. Qu'est-ce qu'on lui offre?",
+    "en": "It's Grandma's birthday on Sunday. What are we giving her?"
+   },
+   {
+    "s": "B",
+    "fr": "On peut lui offrir un beau foulard.",
+    "en": "We can give her a nice scarf."
+   },
+   {
+    "s": "A",
+    "fr": "Bonne idée. As-tu parlé à tes cousins?",
+    "en": "Good idea. Have you talked to your cousins?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, je leur ai envoyé un texto hier, mais ils ne m'ont pas répondu.",
+    "en": "Yes, I sent them a text yesterday, but they haven't answered me."
+   },
+   {
+    "s": "A",
+    "fr": "Téléphone-leur ce soir. Pis matante Lise?",
+    "en": "Call them tonight. And Aunt Lise?"
+   },
+   {
+    "s": "B",
+    "fr": "J'y ai dit de venir à cinq heures.",
+    "en": "I told her to come at five."
+   },
+   {
+    "s": "A",
+    "fr": "Parfait. Mais surtout, ne dis rien à grand-maman!",
+    "en": "Perfect. But above all, don't say anything to Grandma!"
+   },
+   {
+    "s": "B",
+    "fr": "Promis, je ne lui dis rien.",
+    "en": "Promise, I won't tell her anything."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What gift do they plan to give?",
+    "options": [
+     "Flowers",
+     "A scarf",
+     "A sweater"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Why should A's sibling call the cousins?",
+    "options": [
+     "They didn't answer the text",
+     "They forgot the date",
+     "They are sick"
+    ],
+    "a": 0
+   },
+   {
+    "q": "What time is Aunt Lise coming?",
+    "options": [
+     "Four o'clock",
+     "Five o'clock",
+     "Six o'clock"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Answer with lui or leur: 'Tu parles souvent à ta mère? Tu écris à tes amis? Tu as répondu à ton patron?'",
+   "model": "Oui, je lui parle souvent. Non, je ne leur écris pas, je leur envoie des textos. Oui, je lui ai répondu ce matin."
+  },
+  {
+   "prompt": "Give three commands to a friend about someone else: tell him, call them, don't answer her.",
+   "model": "Dis-lui bonjour! Téléphone-leur ce soir! Ne lui réponds pas!"
+  },
+  {
+   "prompt": "Say 'I told him to wait' in standard French, then in casual Quebec style.",
+   "model": "Je lui ai dit d'attendre. / J'y ai dit d'attendre."
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences about how you stay in touch with family and friends. Use lui and leur at least four times.",
+  "model": "Ma mère habite à Sherbrooke. Je lui téléphone tous les dimanches. Mes frères habitent en Ontario, alors je leur envoie souvent des textos. Pour la fête de mon père, je lui ai offert un livre. Mes amis me manquent, mais je leur parle sur Internet. Je vais leur rendre visite cet été."
+ },
+ "quiz": [
+  {
+   "q": "'Lui' can mean…",
+   "options": [
+    "to him only",
+    "to her only",
+    "to him or to her",
+    "to them"
+   ],
+   "a": 2,
+   "why": "Lui is used for both masculine and feminine indirect objects."
+  },
+  {
+   "q": "Which is correct?",
+   "options": [
+    "Je leurs parle.",
+    "Je leur parle.",
+    "Je les parle.",
+    "Je parle leur."
+   ],
+   "a": 1,
+   "why": "Parler à → leur, always without -s."
+  },
+  {
+   "q": "'J'aide mon voisin' becomes…",
+   "options": [
+    "Je lui aide.",
+    "Je l'aide.",
+    "Je leur aide.",
+    "J'y aide."
+   ],
+   "a": 1,
+   "why": "Aider takes a direct object: je l'aide."
+  },
+  {
+   "q": "'Je leur ai ___.' (parler)",
+   "options": [
+    "parlé",
+    "parlés",
+    "parlée",
+    "parlées"
+   ],
+   "a": 0,
+   "why": "No agreement with an indirect object."
+  },
+  {
+   "q": "Positive command: 'Tell me!'",
+   "options": [
+    "Me dis!",
+    "Dis-me!",
+    "Dis-moi!",
+    "Moi dis!"
+   ],
+   "a": 2,
+   "why": "At the end of a positive command, me becomes moi."
+  },
+  {
+   "q": "'Ça te plaît?' means…",
+   "options": [
+    "Does it hurt you?",
+    "Do you like it?",
+    "Is it your place?",
+    "Are you pleased with me?"
+   ],
+   "a": 1,
+   "why": "Plaire à: literally 'does it please you?'"
+  },
+  {
+   "q": "In Quebec speech, 'J'y ai dit' usually means…",
+   "options": [
+    "I went there",
+    "I told him / her",
+    "I said yes",
+    "I told them"
+   ],
+   "a": 1,
+   "why": "Informal y replaces lui."
+  },
+  {
+   "q": "Which verb needs 'à' before a person in French?",
+   "options": [
+    "regarder",
+    "écouter",
+    "répondre",
+    "chercher"
+   ],
+   "a": 2,
+   "why": "Répondre à quelqu'un."
+  },
+  {
+   "q": "'Je vais ___ écrire.' (à mes amis)",
+   "options": [
+    "les",
+    "leur",
+    "lui",
+    "leurs"
+   ],
+   "a": 1,
+   "why": "Écrire à + plural: leur, before the infinitive."
+  }
+ ]
+}

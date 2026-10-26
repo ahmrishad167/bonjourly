@@ -1,0 +1,667 @@
+{
+ "w": 31,
+ "title": "Imperative",
+ "goal": "By the end of this lesson you can give instructions, advice and encouragement with the imperative (tu, nous and vous forms), make negative commands, and understand Quebec favourites like Envoye! and Lâche pas!",
+ "learn": [
+  {
+   "h": "Three forms, no subject",
+   "body": [
+    "The imperative is for orders, instructions and suggestions. It has only three forms (tu, nous, vous) and you drop the subject pronoun: *Tu manges.* → *Mange!* *Vous écoutez.* → *Écoutez!*",
+    "The *nous* form means 'let's': *Allons au parc!* (Let's go to the park!)",
+    "Key rule: -er verbs (and *aller*) lose the *s* in the *tu* form: *tu parles → Parle!*, *tu vas → Va!* Other verbs keep it: *tu finis → Finis!*, *tu prends → Prends!*"
+   ],
+   "table": {
+    "head": [
+     "Verb",
+     "tu",
+     "nous",
+     "vous"
+    ],
+    "rows": [
+     [
+      "parler",
+      "parle",
+      "parlons",
+      "parlez"
+     ],
+     [
+      "aller",
+      "va",
+      "allons",
+      "allez"
+     ],
+     [
+      "finir",
+      "finis",
+      "finissons",
+      "finissez"
+     ],
+     [
+      "prendre",
+      "prends",
+      "prenons",
+      "prenez"
+     ],
+     [
+      "venir",
+      "viens",
+      "venons",
+      "venez"
+     ],
+     [
+      "faire",
+      "fais",
+      "faisons",
+      "faites"
+     ]
+    ]
+   },
+   "tip": "-er verbs: no s in the tu command. Mange! Écoute! Va!"
+  },
+  {
+   "h": "The irregular ones: être, avoir, savoir",
+   "body": [
+    "Three common verbs have special imperative forms. You'll mostly see them in set phrases: *Sois sage!* (Be good!), *Soyez prudents!* (Be careful!), *N'aie pas peur!* (Don't be afraid!)"
+   ],
+   "table": {
+    "head": [
+     "Verb",
+     "tu",
+     "nous",
+     "vous"
+    ],
+    "rows": [
+     [
+      "être",
+      "sois",
+      "soyons",
+      "soyez"
+     ],
+     [
+      "avoir",
+      "aie",
+      "ayons",
+      "ayez"
+     ],
+     [
+      "savoir",
+      "sache",
+      "sachons",
+      "sachez"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Negative commands and reflexive verbs",
+   "body": [
+    "For a negative command, put *ne … pas* around the verb: *Ne parle pas!* *Ne mangez pas ça!* *N'oublie pas!*",
+    "Reflexive verbs put the pronoun AFTER the verb with a hyphen in the affirmative; *te* becomes *toi*: *Lève-toi!* *Dépêchez-vous!* *Asseyons-nous.* In the negative, the pronoun goes back before the verb: *Ne te lève pas!* *Ne vous inquiétez pas.*"
+   ],
+   "table": {
+    "head": [
+     "Affirmative",
+     "Negative"
+    ],
+    "rows": [
+     [
+      "Lève-toi!",
+      "Ne te lève pas!"
+     ],
+     [
+      "Dépêchez-vous!",
+      "Ne vous dépêchez pas!"
+     ],
+     [
+      "Couchons-nous.",
+      "Ne nous couchons pas."
+     ]
+    ]
+   },
+   "tip": "Affirmative: verb-toi. Negative: ne te verb pas."
+  },
+  {
+   "h": "Softening a command",
+   "body": [
+    "A bare imperative can sound abrupt with strangers. Add *s'il te plaît / s'il vous plaît*: *Fermez la porte, s'il vous plaît.*",
+    "A question is even softer: *Tu peux fermer la porte?* *Pouvez-vous répéter?* On signs and forms you'll see the formal *Veuillez* + infinitive: *Veuillez patienter.* (Please wait.)"
+   ]
+  },
+  {
+   "h": "Quebec: Envoye! and Lâche pas!",
+   "body": [
+    "*Envoye!* (from *envoyer*, often said 'enweille') is the all-purpose Quebec push: Go on! Come on! Hurry up! Do it! *Envoye, on part!*",
+    "*Lâche pas!* means 'Don't give up! Hang in there!' — the most encouraging thing you'll hear. Notice the *ne* is dropped, as usual in speech. Other everyday ones: *Arrête donc!* (Come on, stop it! / No way!), *Voyons donc!* (Come on now!), *Fais attention!*"
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Écoute bien!",
+   "en": "Listen carefully!",
+   "note": "-er verb: no s"
+  },
+  {
+   "fr": "Va au dépanneur, s'il te plaît.",
+   "en": "Go to the corner store, please.",
+   "note": "aller: va"
+  },
+  {
+   "fr": "Prends ton manteau!",
+   "en": "Take your coat!"
+  },
+  {
+   "fr": "Finis tes légumes!",
+   "en": "Finish your vegetables!"
+  },
+  {
+   "fr": "Allons au cinéma ce soir!",
+   "en": "Let's go to the movies tonight!",
+   "note": "nous form = let's"
+  },
+  {
+   "fr": "Fermez la porte, s'il vous plaît.",
+   "en": "Close the door, please."
+  },
+  {
+   "fr": "Faites attention, c'est glissant!",
+   "en": "Be careful, it's slippery!",
+   "note": "faire → faites"
+  },
+  {
+   "fr": "Ne mange pas ça!",
+   "en": "Don't eat that!"
+  },
+  {
+   "fr": "N'oubliez pas vos clés.",
+   "en": "Don't forget your keys."
+  },
+  {
+   "fr": "Lève-toi, il est sept heures!",
+   "en": "Get up, it's seven o'clock!"
+  },
+  {
+   "fr": "Ne t'inquiète pas.",
+   "en": "Don't worry.",
+   "note": "negative reflexive: pronoun before the verb"
+  },
+  {
+   "fr": "Sois prudent sur la route.",
+   "en": "Be careful on the road."
+  },
+  {
+   "fr": "Veuillez patienter.",
+   "en": "Please wait.",
+   "note": "formal, on signs and phone lines"
+  },
+  {
+   "fr": "Envoye, on va être en retard!",
+   "en": "Come on, we're going to be late!",
+   "note": "informal Quebec"
+  },
+  {
+   "fr": "Lâche pas, t'es capable!",
+   "en": "Don't give up, you can do it!",
+   "note": "informal Quebec encouragement"
+  },
+  {
+   "fr": "Viens ici!",
+   "en": "Come here!"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebec has two imperatives you'll hear daily: 'Envoye!' to push someone to go or act, and 'Lâche pas!' to encourage them. Both drop the 'ne' and both are friendly and informal.",
+  "items": [
+   {
+    "std": "Allez, vas-y!",
+    "qc": "Envoye!",
+    "en": "Go on! Come on!",
+    "note": "pronounced 'enweille'; informal"
+   },
+   {
+    "std": "Ne lâche pas! / Courage!",
+    "qc": "Lâche pas!",
+    "en": "Don't give up! Hang in there!",
+    "note": "ne dropped; extremely common"
+   },
+   {
+    "std": "Arrête!",
+    "qc": "Arrête donc!",
+    "en": "Stop it! / No way!",
+    "note": "donc softens or adds emphasis; also expresses surprise"
+   },
+   {
+    "std": "Allons, sois raisonnable!",
+    "qc": "Voyons donc!",
+    "en": "Come on now!",
+    "note": "disbelief or mild reproach"
+   },
+   {
+    "std": "Regarde ça!",
+    "qc": "Check ça!",
+    "en": "Check this out!",
+    "note": "anglicism, informal speech only"
+   },
+   {
+    "std": "Dépêche-toi!",
+    "qc": "Envoye, grouille!",
+    "en": "Come on, hurry!",
+    "note": "grouille = grouille-toi, informal"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Tu form of 'parler':",
+   "options": [
+    "Parles!",
+    "Parle!",
+    "Parlez!",
+    "Parlons!"
+   ],
+   "a": 1,
+   "why": "-er verbs drop the s in the tu imperative."
+  },
+  {
+   "t": "mcq",
+   "q": "'Let's eat!' is…",
+   "options": [
+    "Mange!",
+    "Mangez!",
+    "Mangeons!",
+    "On mange!"
+   ],
+   "a": 2,
+   "why": "The nous form means let's. (On mange! also works in speech, but it isn't the imperative.)"
+  },
+  {
+   "t": "mcq",
+   "q": "Which negative command is correct?",
+   "options": [
+    "Ne lève-toi pas!",
+    "Ne te lève pas!",
+    "Te ne lève pas!",
+    "Lève-toi ne pas!"
+   ],
+   "a": 1,
+   "why": "In the negative, the pronoun returns before the verb."
+  },
+  {
+   "t": "mcq",
+   "q": "'Lâche pas!' means…",
+   "options": [
+    "Let go!",
+    "Don't give up!",
+    "Don't be lazy!",
+    "Leave!"
+   ],
+   "a": 1,
+   "why": "Quebec encouragement: hang in there."
+  },
+  {
+   "t": "fill",
+   "q": "___ au dépanneur! (aller, tu)",
+   "a": [
+    "Va"
+   ],
+   "en": "Go to the corner store!",
+   "why": "tu vas → Va! (no s)."
+  },
+  {
+   "t": "fill",
+   "q": "___ attention! (faire, vous)",
+   "a": [
+    "Faites"
+   ],
+   "en": "Be careful!",
+   "why": "vous faites → Faites!"
+  },
+  {
+   "t": "fill",
+   "q": "___ sage! (être, tu)",
+   "a": [
+    "Sois"
+   ],
+   "en": "Be good!",
+   "why": "être: sois, soyons, soyez."
+  },
+  {
+   "t": "fill",
+   "q": "Dépêchez-___!",
+   "a": [
+    "vous"
+   ],
+   "en": "Hurry up!",
+   "why": "Affirmative reflexive: verb + hyphen + vous."
+  },
+  {
+   "t": "build",
+   "en": "Don't forget your keys.",
+   "a": "N'oubliez pas vos clés."
+  },
+  {
+   "t": "build",
+   "en": "Get up, it's seven o'clock!",
+   "a": "Lève-toi, il est sept heures!"
+  },
+  {
+   "t": "build",
+   "en": "Let's go to the movies!",
+   "a": "Allons au cinéma!"
+  },
+  {
+   "t": "translate",
+   "en": "Close the door, please.",
+   "a": [
+    "Ferme la porte, s'il te plaît.",
+    "Fermez la porte, s'il vous plaît."
+   ],
+   "why": "Ferme (tu, no s) / Fermez (vous)."
+  },
+  {
+   "t": "translate",
+   "en": "Don't worry.",
+   "a": [
+    "Ne t'inquiète pas.",
+    "Ne vous inquiétez pas.",
+    "T'inquiète pas.",
+    "Inquiète-toi pas."
+   ],
+   "why": "Negative reflexive: ne + pronoun + verb + pas. In speech, ne drops (and Quebecers often say Inquiète-toi pas)."
+  },
+  {
+   "t": "translate",
+   "en": "Take your coat!",
+   "a": [
+    "Prends ton manteau!",
+    "Prenez votre manteau!",
+    "Prenez vos manteaux!"
+   ],
+   "why": "prendre keeps its s: Prends!"
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "écouter",
+   "en": "to listen",
+   "ex": "Écoutez bien!"
+  },
+  {
+   "fr": "fermer",
+   "en": "to close",
+   "ex": "Ferme la porte."
+  },
+  {
+   "fr": "ouvrir",
+   "en": "to open",
+   "ex": "Ouvrez vos livres."
+  },
+  {
+   "fr": "oublier",
+   "en": "to forget",
+   "ex": "N'oublie pas!"
+  },
+  {
+   "fr": "attendre",
+   "en": "to wait (for)",
+   "ex": "Attends-moi!"
+  },
+  {
+   "fr": "faire attention",
+   "en": "to be careful, to pay attention",
+   "ex": "Fais attention!"
+  },
+  {
+   "fr": "s'inquiéter",
+   "en": "to worry",
+   "ex": "Ne t'inquiète pas."
+  },
+  {
+   "fr": "s'asseoir",
+   "en": "to sit down",
+   "ex": "Assieds-toi. (Quebec speech: Assis-toi.)"
+  },
+  {
+   "fr": "s'il te plaît / s'il vous plaît",
+   "en": "please",
+   "ex": "Aide-moi, s'il te plaît."
+  },
+  {
+   "fr": "veuillez",
+   "en": "please (formal, written)",
+   "ex": "Veuillez patienter."
+  },
+  {
+   "fr": "sage",
+   "en": "well-behaved, wise",
+   "ex": "Sois sage!"
+  },
+  {
+   "fr": "prudent / prudente",
+   "en": "careful",
+   "ex": "Soyez prudents!"
+  },
+  {
+   "fr": "Envoye!",
+   "en": "Go on! Come on!",
+   "ex": "Envoye, on y va!",
+   "qc": true
+  },
+  {
+   "fr": "Lâche pas!",
+   "en": "Don't give up!",
+   "ex": "Lâche pas, t'es capable!",
+   "qc": true
+  },
+  {
+   "fr": "Voyons donc!",
+   "en": "Come on now!",
+   "ex": "Voyons donc, c'est pas vrai!",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "Écoute! / Écoutez!",
+    "tip": "é-KOOT / é-koo-TÉ."
+   },
+   {
+    "fr": "Faites!",
+    "tip": "FÈT: one syllable, not 'fai-tes'."
+   },
+   {
+    "fr": "Sois! / Soyez!",
+    "tip": "SWA / swa-YÉ."
+   },
+   {
+    "fr": "Lève-toi!",
+    "tip": "lèv-TWA."
+   },
+   {
+    "fr": "Envoye!",
+    "tip": "Quebec: ahn-WÈY, often written enweille."
+   },
+   {
+    "fr": "Lâche pas!",
+    "tip": "LÂSH-pâ, with the long, back Quebec â."
+   }
+  ],
+  "title": "Le premier match",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Envoye, mets tes patins! Le match commence!",
+    "en": "Come on, put on your skates! The game is starting!"
+   },
+   {
+    "s": "B",
+    "fr": "J'ai peur, papa. Les autres joueurs sont grands.",
+    "en": "I'm scared, Dad. The other players are big."
+   },
+   {
+    "s": "A",
+    "fr": "N'aie pas peur. Écoute ton coach et amuse-toi!",
+    "en": "Don't be afraid. Listen to your coach and have fun!"
+   },
+   {
+    "s": "B",
+    "fr": "Et si je tombe?",
+    "en": "And if I fall?"
+   },
+   {
+    "s": "A",
+    "fr": "Relève-toi et continue. Lâche pas!",
+    "en": "Get back up and keep going. Don't give up!"
+   },
+   {
+    "s": "B",
+    "fr": "OK. Viens me voir après!",
+    "en": "OK. Come see me after!"
+   },
+   {
+    "s": "A",
+    "fr": "Promis. Allez, va! Et fais attention à la rondelle!",
+    "en": "Promise. Go on, go! And watch the puck!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Why is B scared?",
+    "options": [
+     "The ice is thin",
+     "The other players are big",
+     "B can't skate"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What should B do after falling?",
+    "options": [
+     "Stop playing",
+     "Get up and keep going",
+     "Call Dad"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does 'Lâche pas' mean here?",
+    "options": [
+     "Let go of the stick",
+     "Don't give up",
+     "Don't be late"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Give a friend three instructions to get to your place (go, take, turn…).",
+   "model": "Prends le métro jusqu'à Jean-Talon. Sors à droite. Marche deux minutes et sonne au 4520."
+  },
+  {
+   "prompt": "Give two negative commands to a child.",
+   "model": "Ne mange pas de bonbons avant le souper! Ne te couche pas trop tard!"
+  },
+  {
+   "prompt": "Encourage a friend before an exam, Quebec style.",
+   "model": "Lâche pas! T'es capable! Envoye, tu vas réussir!"
+  }
+ ],
+ "write": {
+  "prompt": "Write 6 tips for a newcomer surviving their first Quebec winter, using the imperative (tu or vous).",
+  "model": "Achetez une bonne tuque et des mitaines. Habillez-vous chaudement. Ne sortez pas sans vos bottes. Faites attention à la glace sur les trottoirs. Allez patiner au parc, c'est le fun! Et surtout, lâchez pas: le printemps arrive!"
+ },
+ "quiz": [
+  {
+   "q": "How many imperative forms are there?",
+   "options": [
+    "Two",
+    "Three",
+    "Six",
+    "One"
+   ],
+   "a": 1,
+   "why": "tu, nous, vous."
+  },
+  {
+   "q": "Tu imperative of 'finir':",
+   "options": [
+    "Fini!",
+    "Finis!",
+    "Finit!",
+    "Finisse!"
+   ],
+   "a": 1,
+   "why": "Only -er verbs and aller drop the s."
+  },
+  {
+   "q": "'Soyez' comes from…",
+   "options": [
+    "savoir",
+    "être",
+    "avoir",
+    "sortir"
+   ],
+   "a": 1,
+   "why": "être: sois, soyons, soyez."
+  },
+  {
+   "q": "In 'Lève-toi', why toi and not te?",
+   "options": [
+    "It's Quebec French",
+    "Te becomes toi after the verb in affirmative commands",
+    "It's a mistake",
+    "Toi is plural"
+   ],
+   "a": 1,
+   "why": "Affirmative commands use the stressed pronoun after the verb."
+  },
+  {
+   "q": "'Veuillez patienter' is…",
+   "options": [
+    "casual speech",
+    "formal: please wait",
+    "a question",
+    "Quebec slang"
+   ],
+   "a": 1,
+   "why": "Veuillez + infinitive is formal written politeness."
+  },
+  {
+   "q": "'Envoye!' is used to…",
+   "options": [
+    "send a letter",
+    "push someone to go or act",
+    "say goodbye",
+    "apologise"
+   ],
+   "a": 1,
+   "why": "Quebec: Go on! Come on!"
+  },
+  {
+   "q": "'Faites' is the vous imperative of…",
+   "options": [
+    "faire",
+    "finir",
+    "falloir",
+    "fêter"
+   ],
+   "a": 0,
+   "why": "vous faites → Faites!"
+  },
+  {
+   "q": "Which is the most polite way to ask a stranger?",
+   "options": [
+    "Répète!",
+    "Pouvez-vous répéter, s'il vous plaît?",
+    "Envoye, répète!",
+    "Répétons!"
+   ],
+   "a": 1,
+   "why": "A question with pouvez-vous and s'il vous plaît is softest."
+  }
+ ]
+}

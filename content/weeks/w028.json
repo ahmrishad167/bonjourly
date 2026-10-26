@@ -1,0 +1,679 @@
+{
+ "w": 28,
+ "title": "Weather and seasons",
+ "goal": "By the end of this lesson you can describe the weather and temperature, talk about the four seasons, and survive a Quebec winter conversation about frette, slush and poudrerie.",
+ "learn": [
+  {
+   "h": "Il fait…: the weather pattern",
+   "body": [
+    "Most weather descriptions use *il fait* + adjective: *Il fait beau.* (It's nice.) *Il fait chaud.* (It's hot.) *Il fait froid.* (It's cold.) The *il* is impersonal, like 'it' in English.",
+    "Temperatures also use *il fait*: *Il fait vingt degrés.* *Il fait moins quinze.* (It's minus fifteen.)"
+   ],
+   "table": {
+    "head": [
+     "French",
+     "English"
+    ],
+    "rows": [
+     [
+      "Il fait beau.",
+      "It's nice out."
+     ],
+     [
+      "Il fait mauvais.",
+      "The weather's bad."
+     ],
+     [
+      "Il fait chaud / froid.",
+      "It's hot / cold."
+     ],
+     [
+      "Il fait doux.",
+      "It's mild."
+     ],
+     [
+      "Il fait humide.",
+      "It's humid."
+     ],
+     [
+      "Il fait soleil.",
+      "It's sunny. (common in Quebec; also Il y a du soleil.)"
+     ]
+    ]
+   },
+   "tip": "Il fait + adjective. Never 'il est froid' for the weather: that means 'he is cold (to the touch)'."
+  },
+  {
+   "h": "Weather verbs and il y a",
+   "body": [
+    "Some weather has its own verb, used only with *il*: *Il pleut.* (It's raining, from *pleuvoir*.) *Il neige.* (It's snowing.) *Il vente.* (It's windy.) *Il grêle.* (It's hailing.)",
+    "Others use *il y a* + partitive: *Il y a du vent.* *Il y a du soleil.* *Il y a des nuages.* *Il y a du brouillard.* (fog)",
+    "For the future: *Il va pleuvoir.* *Il va faire beau.* *Il va neiger demain.*"
+   ],
+   "table": {
+    "head": [
+     "Verb / phrase",
+     "English"
+    ],
+    "rows": [
+     [
+      "Il pleut.",
+      "It's raining."
+     ],
+     [
+      "Il neige.",
+      "It's snowing."
+     ],
+     [
+      "Il vente. / Il y a du vent.",
+      "It's windy."
+     ],
+     [
+      "Il y a des nuages.",
+      "It's cloudy."
+     ],
+     [
+      "Il y a de l'orage.",
+      "There's a thunderstorm."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "The seasons",
+   "body": [
+    "All four seasons are masculine: *le printemps, l'été, l'automne, l'hiver*.",
+    "To say 'in' a season: *au printemps*, but *en été*, *en automne*, *en hiver* (the three that start with a vowel)."
+   ],
+   "table": {
+    "head": [
+     "Season",
+     "'In …'",
+     "Example"
+    ],
+    "rows": [
+     [
+      "le printemps",
+      "au printemps",
+      "Au printemps, il pleut souvent."
+     ],
+     [
+      "l'été",
+      "en été",
+      "En été, il fait chaud et humide."
+     ],
+     [
+      "l'automne",
+      "en automne",
+      "En automne, il fait frais."
+     ],
+     [
+      "l'hiver",
+      "en hiver",
+      "En hiver, il neige beaucoup."
+     ]
+    ]
+   },
+   "tip": "Only printemps takes au: it's the only season starting with a consonant."
+  },
+  {
+   "h": "Quebec: winter words",
+   "body": [
+    "*Il fait frette* is the informal Quebec way to say *il fait très froid*: it's freezing. Use it with friends, not in an essay.",
+    "*La slush* (also spelled *sloche*) is the slushy brown snow in the streets. *La poudrerie* is snow blown by the wind; it's a neutral Quebec word you'll hear on weather reports. Also: *il mouille* (informal: it's raining), *une tempête de neige*, and *le facteur vent* (windchill)."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Il fait beau aujourd'hui.",
+   "en": "It's nice out today."
+  },
+  {
+   "fr": "Il fait moins vingt ce matin.",
+   "en": "It's minus twenty this morning."
+  },
+  {
+   "fr": "Il pleut depuis deux jours.",
+   "en": "It's been raining for two days."
+  },
+  {
+   "fr": "Il neige beaucoup en janvier.",
+   "en": "It snows a lot in January."
+  },
+  {
+   "fr": "Il y a du vent sur le pont.",
+   "en": "It's windy on the bridge."
+  },
+  {
+   "fr": "Il y a des nuages, mais il fait chaud.",
+   "en": "It's cloudy, but it's hot."
+  },
+  {
+   "fr": "En été, il fait chaud et humide à Montréal.",
+   "en": "In summer, it's hot and humid in Montreal."
+  },
+  {
+   "fr": "Au printemps, la neige fond.",
+   "en": "In spring, the snow melts."
+  },
+  {
+   "fr": "En automne, les feuilles sont rouges et jaunes.",
+   "en": "In the fall, the leaves are red and yellow."
+  },
+  {
+   "fr": "Quel temps fait-il?",
+   "en": "What's the weather like?",
+   "note": "the standard weather question"
+  },
+  {
+   "fr": "Il va neiger demain soir.",
+   "en": "It's going to snow tomorrow night."
+  },
+  {
+   "fr": "Il ne fait pas froid, il fait doux.",
+   "en": "It's not cold, it's mild."
+  },
+  {
+   "fr": "Mets ta tuque, il fait frette!",
+   "en": "Put on your toque, it's freezing!",
+   "note": "frette: informal Quebec"
+  },
+  {
+   "fr": "Il y a de la slush partout.",
+   "en": "There's slush everywhere."
+  },
+  {
+   "fr": "Attention, il y a de la poudrerie sur l'autoroute.",
+   "en": "Careful, there's blowing snow on the highway."
+  },
+  {
+   "fr": "Ma saison préférée, c'est l'automne.",
+   "en": "My favourite season is fall."
+  }
+ ],
+ "quebec": {
+  "intro": "Winter is the national topic of conversation in Quebec, and it has its own vocabulary: frette for very cold, slush for dirty melting snow, and poudrerie for snow whipped up by the wind.",
+  "items": [
+   {
+    "std": "Il fait très froid.",
+    "qc": "Il fait frette!",
+    "en": "It's freezing!",
+    "note": "informal; frette is stronger than froid"
+   },
+   {
+    "std": "de la neige fondante, de la gadoue",
+    "qc": "de la slush / de la sloche",
+    "en": "slush",
+    "note": "informal, but everyone says it"
+   },
+   {
+    "std": "de la neige soulevée par le vent",
+    "qc": "de la poudrerie",
+    "en": "blowing snow",
+    "note": "neutral Quebec term, used on the news"
+   },
+   {
+    "std": "Il pleut.",
+    "qc": "Il mouille.",
+    "en": "It's raining.",
+    "note": "informal Quebec speech"
+   },
+   {
+    "std": "la température ressentie",
+    "qc": "le facteur vent / le refroidissement éolien",
+    "en": "windchill",
+    "note": "both heard on Quebec weather reports"
+   },
+   {
+    "std": "Il fait très chaud et humide.",
+    "qc": "Il fait chaud en malade!",
+    "en": "It's crazy hot!",
+    "note": "en malade = really, extremely; very informal"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "'It's cold' is…",
+   "options": [
+    "Il est froid.",
+    "Il fait froid.",
+    "Il a froid.",
+    "C'est fait froid."
+   ],
+   "a": 1,
+   "why": "Weather uses il fait + adjective."
+  },
+  {
+   "t": "mcq",
+   "q": "'In spring' is…",
+   "options": [
+    "en printemps",
+    "au printemps",
+    "à printemps",
+    "dans printemps"
+   ],
+   "a": 1,
+   "why": "Printemps starts with a consonant: au printemps."
+  },
+  {
+   "t": "mcq",
+   "q": "'La poudrerie' is…",
+   "options": [
+    "a gunpowder factory",
+    "blowing snow",
+    "icy rain",
+    "a snowplow"
+   ],
+   "a": 1,
+   "why": "In Quebec, poudrerie = snow blown by the wind."
+  },
+  {
+   "t": "mcq",
+   "q": "'Il mouille' in Quebec means…",
+   "options": [
+    "It's wet inside",
+    "It's raining",
+    "It's foggy",
+    "It's melting"
+   ],
+   "a": 1,
+   "why": "Informal Quebec for il pleut."
+  },
+  {
+   "t": "fill",
+   "q": "Il ___ beaucoup en janvier. (to snow)",
+   "a": [
+    "neige"
+   ],
+   "en": "It snows a lot in January.",
+   "why": "neiger → il neige."
+  },
+  {
+   "t": "fill",
+   "q": "Il ___ depuis deux jours. (to rain)",
+   "a": [
+    "pleut"
+   ],
+   "en": "It's been raining for two days.",
+   "why": "pleuvoir → il pleut."
+  },
+  {
+   "t": "fill",
+   "q": "Il y a ___ vent.",
+   "a": [
+    "du"
+   ],
+   "en": "It's windy.",
+   "why": "il y a + partitive: du vent."
+  },
+  {
+   "t": "fill",
+   "q": "___ hiver, il fait froid.",
+   "a": [
+    "En"
+   ],
+   "en": "In winter, it's cold.",
+   "why": "Hiver starts with a vowel: en hiver."
+  },
+  {
+   "t": "build",
+   "en": "What's the weather like?",
+   "a": "Quel temps fait-il?"
+  },
+  {
+   "t": "build",
+   "en": "It's going to snow tomorrow.",
+   "a": "Il va neiger demain."
+  },
+  {
+   "t": "build",
+   "en": "In summer, it's hot and humid.",
+   "a": "En été, il fait chaud et humide."
+  },
+  {
+   "t": "translate",
+   "en": "It's nice out today.",
+   "a": [
+    "Il fait beau aujourd'hui.",
+    "Aujourd'hui, il fait beau."
+   ],
+   "why": "il fait beau."
+  },
+  {
+   "t": "translate",
+   "en": "It's minus ten.",
+   "a": [
+    "Il fait moins dix.",
+    "Il fait moins dix degrés."
+   ],
+   "why": "Temperatures use il fait."
+  },
+  {
+   "t": "translate",
+   "en": "It's not cold.",
+   "a": [
+    "Il ne fait pas froid.",
+    "Il fait pas froid."
+   ],
+   "why": "ne … pas around fait."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "le temps",
+   "en": "weather (also time)",
+   "g": "m",
+   "ex": "Quel temps fait-il?"
+  },
+  {
+   "fr": "la météo",
+   "en": "weather forecast",
+   "g": "f",
+   "ex": "Je regarde la météo."
+  },
+  {
+   "fr": "il fait beau / mauvais",
+   "en": "it's nice / bad out",
+   "ex": "Il fait beau ce matin."
+  },
+  {
+   "fr": "il pleut",
+   "en": "it's raining",
+   "ex": "Il pleut encore!"
+  },
+  {
+   "fr": "il neige",
+   "en": "it's snowing",
+   "ex": "Il neige depuis ce matin."
+  },
+  {
+   "fr": "le vent",
+   "en": "wind",
+   "g": "m",
+   "ex": "Il y a beaucoup de vent."
+  },
+  {
+   "fr": "le nuage",
+   "en": "cloud",
+   "g": "m",
+   "ex": "Il y a des nuages."
+  },
+  {
+   "fr": "le degré",
+   "en": "degree",
+   "g": "m",
+   "ex": "Il fait trente degrés."
+  },
+  {
+   "fr": "le printemps",
+   "en": "spring",
+   "g": "m",
+   "ex": "Au printemps, tout est vert."
+  },
+  {
+   "fr": "l'été",
+   "en": "summer",
+   "g": "m",
+   "ex": "En été, on va au chalet."
+  },
+  {
+   "fr": "l'automne",
+   "en": "fall, autumn",
+   "g": "m",
+   "ex": "En automne, il fait frais."
+  },
+  {
+   "fr": "l'hiver",
+   "en": "winter",
+   "g": "m",
+   "ex": "L'hiver est long au Québec."
+  },
+  {
+   "fr": "la tempête",
+   "en": "storm",
+   "g": "f",
+   "ex": "Une tempête de neige arrive."
+  },
+  {
+   "fr": "frette",
+   "en": "freezing cold (informal)",
+   "ex": "Il fait frette à matin!",
+   "qc": true
+  },
+  {
+   "fr": "la slush",
+   "en": "slush",
+   "g": "f",
+   "ex": "Mes bottes sont pleines de slush.",
+   "qc": true
+  },
+  {
+   "fr": "la poudrerie",
+   "en": "blowing snow",
+   "g": "f",
+   "ex": "La poudrerie réduit la visibilité.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "il fait",
+    "tip": "eel-FÈ; the t is silent."
+   },
+   {
+    "fr": "il pleut",
+    "tip": "eel-PLUH, like 'pleu' with rounded lips."
+   },
+   {
+    "fr": "l'hiver",
+    "tip": "lee-VÈR; the h is silent, the r is pronounced."
+   },
+   {
+    "fr": "l'automne",
+    "tip": "lo-TONN; the m is silent."
+   },
+   {
+    "fr": "le printemps",
+    "tip": "luh-prin-TAHN; p and s are silent at the end."
+   },
+   {
+    "fr": "frette",
+    "tip": "FRÈTT, a short sharp vowel."
+   },
+   {
+    "fr": "poudrerie",
+    "tip": "pou-druh-REE."
+   }
+  ],
+  "title": "La météo de demain",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Quel temps fait-il demain?",
+    "en": "What's the weather tomorrow?"
+   },
+   {
+    "s": "B",
+    "fr": "Le matin, il va faire moins vingt-cinq avec le facteur vent.",
+    "en": "In the morning, it's going to be minus twenty-five with the windchill."
+   },
+   {
+    "s": "A",
+    "fr": "Ouf! Il fait frette!",
+    "en": "Ugh! It's freezing!"
+   },
+   {
+    "s": "B",
+    "fr": "Et l'après-midi, il va neiger. Il va y avoir de la poudrerie sur la 20.",
+    "en": "And in the afternoon, it's going to snow. There's going to be blowing snow on Highway 20."
+   },
+   {
+    "s": "A",
+    "fr": "Bon, je prends l'autobus. Et dimanche?",
+    "en": "OK, I'm taking the bus. And Sunday?"
+   },
+   {
+    "s": "B",
+    "fr": "Dimanche, il va faire doux, plus deux. Mais avec la slush partout...",
+    "en": "On Sunday, it's going to be mild, plus two. But with slush everywhere..."
+   },
+   {
+    "s": "A",
+    "fr": "J'ai hâte au printemps!",
+    "en": "I can't wait for spring!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "How cold will it feel tomorrow morning?",
+    "options": [
+     "-15",
+     "-20",
+     "-25"
+    ],
+    "a": 2
+   },
+   {
+    "q": "What will happen tomorrow afternoon?",
+    "options": [
+     "Rain",
+     "Snow and blowing snow",
+     "Sunshine"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What's the weather on Sunday?",
+    "options": [
+     "Mild with slush",
+     "Very cold",
+     "Hot and humid"
+    ],
+    "a": 0
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Describe today's weather in 2–3 sentences.",
+   "model": "Aujourd'hui, il fait froid. Il fait moins douze et il y a du vent. Il ne neige pas."
+  },
+  {
+   "prompt": "Describe each season where you live in one sentence.",
+   "model": "Au printemps, il pleut. En été, il fait chaud et humide. En automne, il fait frais. En hiver, il neige beaucoup."
+  },
+  {
+   "prompt": "Complain about the winter like a Quebecer, using frette and slush.",
+   "model": "Il fait frette à matin, pis y a de la slush partout!"
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences about your favourite and least favourite season and the weather in each.",
+  "model": "Ma saison préférée, c'est l'été. En été, il fait chaud et il y a du soleil. On va au parc et à la plage. Je n'aime pas le mois de mars. Il fait gris, il y a de la slush et il vente beaucoup. Mais au moins, le printemps arrive bientôt!"
+ },
+ "quiz": [
+  {
+   "q": "Which season takes 'au'?",
+   "options": [
+    "été",
+    "automne",
+    "hiver",
+    "printemps"
+   ],
+   "a": 3,
+   "why": "Au printemps; en été / automne / hiver."
+  },
+  {
+   "q": "'Il y a des nuages' means…",
+   "options": [
+    "It's foggy",
+    "It's cloudy",
+    "It's stormy",
+    "It's windy"
+   ],
+   "a": 1,
+   "why": "Nuage = cloud."
+  },
+  {
+   "q": "'Il fait doux' means…",
+   "options": [
+    "It's sweet",
+    "It's mild",
+    "It's humid",
+    "It's soft snow"
+   ],
+   "a": 1,
+   "why": "Doux for weather = mild."
+  },
+  {
+   "q": "Which is a weather verb used only with 'il'?",
+   "options": [
+    "faire",
+    "pleuvoir",
+    "avoir",
+    "aller"
+   ],
+   "a": 1,
+   "why": "Pleuvoir only exists as il pleut, il va pleuvoir, etc."
+  },
+  {
+   "q": "'Il fait frette' is…",
+   "options": [
+    "standard written French",
+    "informal Quebec for very cold",
+    "a weather warning",
+    "an insult"
+   ],
+   "a": 1,
+   "why": "Frette = very cold, informal."
+  },
+  {
+   "q": "Seasons are…",
+   "options": [
+    "all feminine",
+    "all masculine",
+    "mixed",
+    "neuter"
+   ],
+   "a": 1,
+   "why": "le printemps, l'été, l'automne, l'hiver: all masculine."
+  },
+  {
+   "q": "'La slush' is…",
+   "options": [
+    "a frozen drink only",
+    "slushy melting snow",
+    "freezing rain",
+    "black ice"
+   ],
+   "a": 1,
+   "why": "Slush (sloche) = wet, dirty melting snow."
+  },
+  {
+   "q": "'It's thirty degrees' is…",
+   "options": [
+    "Il est trente degrés.",
+    "Il fait trente degrés.",
+    "Il a trente degrés.",
+    "C'est trente degrés fait."
+   ],
+   "a": 1,
+   "why": "Temperatures use il fait."
+  },
+  {
+   "q": "'J'ai hâte au printemps' means…",
+   "options": [
+    "I hate spring",
+    "I can't wait for spring",
+    "I'm in a hurry in spring",
+    "Spring is late"
+   ],
+   "a": 1,
+   "why": "Avoir hâte = to look forward to; 'avoir hâte à' is the Quebec construction."
+  }
+ ]
+}

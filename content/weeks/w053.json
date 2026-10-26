@@ -1,0 +1,640 @@
+{
+ "w": 53,
+ "title": "Relative pronouns: qui and que",
+ "goal": "By the end of this lesson you can join two sentences with qui and que, choose between them correctly, and recognise où and dont, the two other common relative pronouns.",
+ "learn": [
+  {
+   "h": "Joining sentences",
+   "body": [
+    "Relative pronouns join two sentences that share a noun: *J'ai un ami. Mon ami habite à Laval.* → *J'ai un ami* **qui** *habite à Laval.*",
+    "English uses who, which, that, or nothing at all ('the book I read'). French always needs the pronoun: *le livre* **que** *j'ai lu*."
+   ]
+  },
+  {
+   "h": "Qui = subject",
+   "body": [
+    "Use **qui** when the noun is the **subject** of the next verb. *Qui* is followed directly by a verb (or by object pronouns + verb): *la femme* **qui parle**, *le bus* **qui arrive**, *l'ami* **qui m'***appelle*.",
+    "*Qui* is used for people **and** things. It never shortens: *l'homme qui est là* (never qu'est)."
+   ],
+   "table": {
+    "head": [
+     "Two sentences",
+     "One sentence"
+    ],
+    "rows": [
+     [
+      "J'ai une voisine. Elle a trois chats.",
+      "J'ai une voisine qui a trois chats."
+     ],
+     [
+      "C'est un film. Il fait peur.",
+      "C'est un film qui fait peur."
+     ],
+     [
+      "Le bus arrive. Il va au centre-ville.",
+      "Le bus qui arrive va au centre-ville."
+     ]
+    ]
+   },
+   "tip": "Qui + verb. If a verb comes right after, it's qui."
+  },
+  {
+   "h": "Que = object",
+   "body": [
+    "Use **que** when the noun is the **object** of the next verb. *Que* is followed by a subject + verb: *le livre* **que je lis**, *la femme* **que tu connais**.",
+    "*Que* becomes **qu'** before a vowel: *le film* **qu'***on a vu*, *la robe* **qu'***elle porte*."
+   ],
+   "table": {
+    "head": [
+     "Two sentences",
+     "One sentence"
+    ],
+    "rows": [
+     [
+      "C'est un film. J'adore ce film.",
+      "C'est un film que j'adore."
+     ],
+     [
+      "Voici le gâteau. Ma mère a fait le gâteau.",
+      "Voici le gâteau que ma mère a fait."
+     ],
+     [
+      "La fille est ma sœur. Tu vois la fille.",
+      "La fille que tu vois est ma sœur."
+     ]
+    ]
+   },
+   "tip": "Que + subject + verb. If a subject (je, tu, Marie…) comes next, it's que."
+  },
+  {
+   "h": "Que and agreement in the passé composé",
+   "body": [
+    "Remember lesson 46: a direct object placed before *avoir* makes the participle agree. *Que* is a direct object placed before, so: *la lettre* **que** *j'ai écrit***e**, *les photos* **que** *tu as pris***es**.",
+    "Most of the time you won't hear it (*les chansons que j'ai aimées*), but you will with participles like *mis, pris, fait, écrit, ouvert*."
+   ]
+  },
+  {
+   "h": "Two more: où and dont",
+   "body": [
+    "**Où** = where, and also 'when' after a time word: *la ville* **où** *j'habite*, *le jour* **où** *on s'est rencontrés*.",
+    "**Dont** replaces *de* + noun: *J'ai besoin* **de ce livre** → *le livre* **dont** *j'ai besoin*. *Tu parles* **de la fille** → *la fille* **dont** *tu parles*. You will practise *dont* more at B1; for now, learn to recognise it."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "J'ai un collègue qui parle cinq langues.",
+   "en": "I have a colleague who speaks five languages.",
+   "note": "qui + verb"
+  },
+  {
+   "fr": "C'est le bus qui va au centre-ville.",
+   "en": "That's the bus that goes downtown.",
+   "note": "qui for a thing"
+  },
+  {
+   "fr": "La femme qui m'a aidé était très gentille.",
+   "en": "The woman who helped me was very kind.",
+   "note": "qui + pronoun + verb"
+  },
+  {
+   "fr": "Le film que j'ai vu hier était super.",
+   "en": "The movie I saw yesterday was great.",
+   "note": "que + subject + verb"
+  },
+  {
+   "fr": "C'est la chanson qu'on écoute toujours.",
+   "en": "It's the song we always listen to.",
+   "note": "que becomes qu' before on"
+  },
+  {
+   "fr": "Les amis que j'ai invités sont arrivés.",
+   "en": "The friends I invited have arrived.",
+   "note": "invités agrees with que = les amis"
+  },
+  {
+   "fr": "Voici la tarte que ma grand-mère a faite.",
+   "en": "Here's the pie my grandmother made.",
+   "note": "faite: audible agreement"
+  },
+  {
+   "fr": "C'est quelqu'un que je connais depuis longtemps.",
+   "en": "It's someone I've known for a long time.",
+   "note": "que for a person (object)"
+  },
+  {
+   "fr": "Il y a un restaurant qui est ouvert jusqu'à minuit.",
+   "en": "There's a restaurant that's open until midnight.",
+   "note": "qui + est"
+  },
+  {
+   "fr": "Ce que je veux, c'est dormir.",
+   "en": "What I want is to sleep.",
+   "note": "ce que = what (object)"
+  },
+  {
+   "fr": "Ce qui me dérange, c'est le bruit.",
+   "en": "What bothers me is the noise.",
+   "note": "ce qui = what (subject)"
+  },
+  {
+   "fr": "Montréal, c'est la ville où je suis né.",
+   "en": "Montreal is the city where I was born.",
+   "note": "où = where"
+  },
+  {
+   "fr": "Je me souviens du jour où on s'est rencontrés.",
+   "en": "I remember the day we met.",
+   "note": "où after a time word = when"
+  },
+  {
+   "fr": "C'est le livre dont j'ai besoin.",
+   "en": "That's the book I need.",
+   "note": "avoir besoin de → dont"
+  },
+  {
+   "fr": "La fille dont je te parlais habite ici.",
+   "en": "The girl I was telling you about lives here.",
+   "note": "parler de → dont"
+  },
+  {
+   "fr": "Les questions qu'il pose sont difficiles.",
+   "en": "The questions he asks are difficult.",
+   "note": "qu' before il"
+  }
+ ],
+ "quebec": {
+  "intro": "In relaxed Quebec speech, 'que' often does all the work: it replaces dont, où and even à qui. 'La fille que j'te parlais' (the girl I was telling you about) is heard everywhere, but the standard is 'la fille dont je te parlais'. Use dont and où in writing and formal speech.",
+  "items": [
+   {
+    "std": "La fille dont je te parlais.",
+    "qc": "La fille que j'te parlais.",
+    "en": "The girl I was telling you about.",
+    "note": "que for dont; informal"
+   },
+   {
+    "std": "C'est ce dont j'ai besoin.",
+    "qc": "C'est ça que j'ai besoin.",
+    "en": "That's what I need.",
+    "note": "que for dont; informal"
+   },
+   {
+    "std": "La ville où j'habite.",
+    "qc": "La place que je reste.",
+    "en": "The place where I live.",
+    "note": "rester = to live (Quebec); que for où; informal"
+   },
+   {
+    "std": "Le gars à qui j'ai parlé.",
+    "qc": "Le gars que j'ai parlé.",
+    "en": "The guy I talked to.",
+    "note": "que for à qui; informal"
+   },
+   {
+    "std": "C'est lui qui l'a fait.",
+    "qc": "C'est lui qui l'a faite.",
+    "en": "He's the one who did it.",
+    "note": "faite for fait, even for a masculine object, is common in speech (lesson 35)"
+   },
+   {
+    "std": "Ce que je veux, c'est partir.",
+    "qc": "C'que j'veux, c'est partir.",
+    "en": "What I want is to leave.",
+    "note": "said [skuh] or [ske]; informal"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "J'ai un chien ___ s'appelle Max.",
+   "options": [
+    "qui",
+    "que",
+    "qu'",
+    "dont"
+   ],
+   "a": 0,
+   "why": "The dog is the subject of s'appelle: qui."
+  },
+  {
+   "t": "mcq",
+   "q": "C'est le chien ___ j'ai adopté.",
+   "options": [
+    "qui",
+    "que",
+    "où",
+    "dont"
+   ],
+   "a": 1,
+   "why": "J' is the subject; the dog is the object: que."
+  },
+  {
+   "t": "mcq",
+   "q": "La maison ___ j'habite est vieille.",
+   "options": [
+    "qui",
+    "que",
+    "où",
+    "dont"
+   ],
+   "a": 2,
+   "why": "Habiter + place: où."
+  },
+  {
+   "t": "mcq",
+   "q": "Which sentence is correct?",
+   "options": [
+    "L'homme qu'est là est mon père.",
+    "L'homme qui est là est mon père.",
+    "L'homme que est là est mon père.",
+    "L'homme dont est là est mon père."
+   ],
+   "a": 1,
+   "why": "Qui never shortens to qu'."
+  },
+  {
+   "t": "fill",
+   "q": "Le café ___ tu fais est délicieux. (that)",
+   "a": [
+    "que"
+   ],
+   "en": "The coffee you make is delicious.",
+   "why": "Tu is the subject: que."
+  },
+  {
+   "t": "fill",
+   "q": "C'est une auto ___ consomme peu. (that)",
+   "a": [
+    "qui"
+   ],
+   "en": "It's a car that uses little gas.",
+   "why": "Followed by a verb: qui."
+  },
+  {
+   "t": "fill",
+   "q": "La lettre qu'il a ___ était longue. (écrire)",
+   "a": [
+    "écrite"
+   ],
+   "en": "The letter he wrote was long.",
+   "why": "Que (la lettre) comes before avoir: écrite."
+  },
+  {
+   "t": "fill",
+   "q": "Le film ___ elle parle est sorti hier. (about which)",
+   "a": [
+    "dont"
+   ],
+   "en": "The movie she's talking about came out yesterday.",
+   "why": "Parler de → dont."
+  },
+  {
+   "t": "build",
+   "en": "I have a sister who lives in Quebec City.",
+   "a": "J'ai une sœur qui habite à Québec."
+  },
+  {
+   "t": "build",
+   "en": "The book I'm reading is long.",
+   "a": "Le livre que je lis est long."
+  },
+  {
+   "t": "build",
+   "en": "It's the city where I was born.",
+   "a": "C'est la ville où je suis né."
+  },
+  {
+   "t": "translate",
+   "en": "The man who is talking is my boss.",
+   "a": [
+    "L'homme qui parle est mon patron.",
+    "L'homme qui parle est mon boss.",
+    "L'homme qui parle, c'est mon patron.",
+    "L'homme qui parle est ma patronne."
+   ],
+   "why": "Qui + verb."
+  },
+  {
+   "t": "translate",
+   "en": "The song we love.",
+   "a": [
+    "La chanson qu'on aime.",
+    "La chanson que nous aimons.",
+    "La chanson qu'on adore.",
+    "La chanson que nous adorons."
+   ],
+   "why": "Que + subject + verb; qu' before on."
+  },
+  {
+   "t": "translate",
+   "en": "What I want is a coffee.",
+   "a": [
+    "Ce que je veux, c'est un café.",
+    "Ce que je veux est un café."
+   ],
+   "why": "Ce que = what (object)."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "qui",
+   "en": "who, which, that (subject)",
+   "ex": "L'ami qui vient."
+  },
+  {
+   "fr": "que / qu'",
+   "en": "whom, which, that (object)",
+   "ex": "L'ami que j'attends."
+  },
+  {
+   "fr": "où",
+   "en": "where; when (after a time word)",
+   "ex": "Le jour où il est arrivé."
+  },
+  {
+   "fr": "dont",
+   "en": "of which, about whom, whose",
+   "ex": "Le livre dont j'ai besoin."
+  },
+  {
+   "fr": "ce qui",
+   "en": "what (subject)",
+   "ex": "Ce qui compte, c'est la santé."
+  },
+  {
+   "fr": "ce que",
+   "en": "what (object)",
+   "ex": "Fais ce que tu veux."
+  },
+  {
+   "fr": "quelqu'un",
+   "en": "someone",
+   "ex": "Quelqu'un que je connais."
+  },
+  {
+   "fr": "se souvenir de",
+   "en": "to remember",
+   "ex": "Je me souviens du jour où…"
+  },
+  {
+   "fr": "le collègue",
+   "en": "colleague, co-worker",
+   "g": "m",
+   "ex": "Un collègue qui m'aide."
+  },
+  {
+   "fr": "le patron / la patronne",
+   "en": "boss",
+   "ex": "Mon patron est en vacances."
+  },
+  {
+   "fr": "le bruit",
+   "en": "noise",
+   "g": "m",
+   "ex": "Ce qui me dérange, c'est le bruit."
+  },
+  {
+   "fr": "naître (né)",
+   "en": "to be born",
+   "ex": "La ville où je suis née."
+  },
+  {
+   "fr": "adopter",
+   "en": "to adopt",
+   "ex": "Le chat qu'on a adopté."
+  },
+  {
+   "fr": "rester",
+   "en": "to live (somewhere) (spoken Quebec)",
+   "ex": "Je reste à Longueuil.",
+   "qc": true
+  },
+  {
+   "fr": "la place",
+   "en": "place, spot (spoken Quebec)",
+   "g": "f",
+   "ex": "C'est une belle place.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "qui",
+    "tip": "[ki]; in Quebec often [kɪ] with a short, relaxed i."
+   },
+   {
+    "fr": "que / qu'on",
+    "tip": "[kuh] / [kon]."
+   },
+   {
+    "fr": "ce que je veux",
+    "tip": "In speech: [skuh-j'veu]."
+   },
+   {
+    "fr": "dont",
+    "tip": "[don], nasal; t silent."
+   },
+   {
+    "fr": "où",
+    "tip": "[ou], same sound as ou (or)."
+   },
+   {
+    "fr": "la fille que j'te parlais",
+    "tip": "Quebec casual: la fi kuh ch'tuh par-LÈ."
+   }
+  ],
+  "title": "La nouvelle voisine",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "As-tu vu la femme qui a emménagé en haut?",
+    "en": "Did you see the woman who moved in upstairs?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui! C'est la fille que j'te parlais, celle qui travaille à l'hôpital.",
+    "en": "Yes! That's the girl I was telling you about, the one who works at the hospital."
+   },
+   {
+    "s": "A",
+    "fr": "Ah, celle que tu as rencontrée au gym?",
+    "en": "Oh, the one you met at the gym?"
+   },
+   {
+    "s": "B",
+    "fr": "C'est ça. Elle a un chien qui jappe un peu, mais il est gentil.",
+    "en": "That's right. She has a dog that barks a bit, but he's nice."
+   },
+   {
+    "s": "A",
+    "fr": "Le chien que j'ai entendu ce matin?",
+    "en": "The dog I heard this morning?"
+   },
+   {
+    "s": "B",
+    "fr": "Sûrement. Elle vient de Rimouski, la ville où mes parents habitent.",
+    "en": "Probably. She's from Rimouski, the town where my parents live."
+   },
+   {
+    "s": "A",
+    "fr": "Petit monde! Il faut l'inviter!",
+    "en": "Small world! We have to invite her!"
+   },
+   {
+    "s": "B",
+    "fr": "Bonne idée. Ce que j'aime d'elle, c'est qu'elle est toujours souriante.",
+    "en": "Good idea. What I like about her is that she's always smiling."
+   }
+  ],
+  "questions": [
+   {
+    "q": "Where does the new neighbour work?",
+    "options": [
+     "At a gym",
+     "At a hospital",
+     "At a school"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Where did B meet her?",
+    "options": [
+     "At the gym",
+     "In Rimouski",
+     "At the hospital"
+    ],
+    "a": 0
+   },
+   {
+    "q": "What does B like about her?",
+    "options": [
+     "Her dog",
+     "She's always smiling",
+     "She cooks well"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Describe three people you know with qui: 'J'ai une amie qui…'",
+   "model": "J'ai une amie qui fait du yoga tous les jours. J'ai un cousin qui habite à Vancouver. J'ai une voisine qui adore les chats."
+  },
+  {
+   "prompt": "Talk about three things you like with que: 'Le film que…, la chanson que…, le plat que…'",
+   "model": "Le film que je regarde souvent, c'est Bon Cop, Bad Cop. La chanson que j'écoute en ce moment est de Cœur de pirate. Le plat que je préfère, c'est la tourtière."
+  },
+  {
+   "prompt": "Say 'the guy I was telling you about' the standard way (dont) and the casual Quebec way.",
+   "model": "Le gars dont je te parlais. / Le gars que j'te parlais."
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences describing your neighbourhood. Use qui, que, où and ce que at least once each.",
+  "model": "J'habite dans un quartier qui est très calme. Il y a un parc où les enfants jouent tous les jours. Le café que je préfère est au coin de ma rue. Les gens qui y travaillent sont très gentils. Il y a aussi une épicerie qu'on aime beaucoup. Ce que j'aime le plus, c'est le marché le samedi."
+ },
+ "quiz": [
+  {
+   "q": "Qui is followed by…",
+   "options": [
+    "a subject",
+    "a verb",
+    "a noun",
+    "de"
+   ],
+   "a": 1,
+   "why": "Qui is the subject, so a verb comes next."
+  },
+  {
+   "q": "Que is followed by…",
+   "options": [
+    "a subject + verb",
+    "a verb only",
+    "nothing",
+    "an adjective"
+   ],
+   "a": 0,
+   "why": "Que is the object; the next clause has its own subject."
+  },
+  {
+   "q": "'Le gâteau ___ tu as fait est bon.'",
+   "options": [
+    "qui",
+    "que",
+    "où",
+    "dont"
+   ],
+   "a": 1,
+   "why": "Tu is the subject: que."
+  },
+  {
+   "q": "'Le gâteau ___ est sur la table est à moi.'",
+   "options": [
+    "qui",
+    "que",
+    "où",
+    "qu'"
+   ],
+   "a": 0,
+   "why": "Le gâteau is the subject of est: qui."
+  },
+  {
+   "q": "'Les photos que j'ai ___' (prendre)",
+   "options": [
+    "pris",
+    "prise",
+    "prises",
+    "prendre"
+   ],
+   "a": 2,
+   "why": "Que = les photos (f pl), before avoir: prises."
+  },
+  {
+   "q": "'The day we met' =",
+   "options": [
+    "le jour que on s'est rencontrés",
+    "le jour où on s'est rencontrés",
+    "le jour qui on s'est rencontrés",
+    "le jour dont on s'est rencontrés"
+   ],
+   "a": 1,
+   "why": "Où after a time word."
+  },
+  {
+   "q": "Standard French for 'la fille que j'te parlais' is…",
+   "options": [
+    "la fille qui je te parlais",
+    "la fille dont je te parlais",
+    "la fille où je te parlais",
+    "la fille que je te parlais d'elle"
+   ],
+   "a": 1,
+   "why": "Parler de → dont."
+  },
+  {
+   "q": "'Ce qui' or 'ce que'? '___ me fait peur, c'est l'hiver.'",
+   "options": [
+    "Ce que",
+    "Ce qui",
+    "Qui",
+    "Que"
+   ],
+   "a": 1,
+   "why": "Followed by a verb (fait): ce qui."
+  },
+  {
+   "q": "In Quebec speech, 'la place que je reste' means…",
+   "options": [
+    "the place where I live",
+    "the place I'm leaving",
+    "the seat I kept",
+    "the rest of the place"
+   ],
+   "a": 0,
+   "why": "Rester = to live; que replaces où."
+  }
+ ]
+}

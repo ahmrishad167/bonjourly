@@ -1,0 +1,675 @@
+{
+ "w": 162,
+ "title": "Error clinic: your recurring mistakes",
+ "goal": "By the end of this lesson you can spot and fix the errors English speakers most often keep making at B2: noun gender, être vs avoir, past-participle agreement, faux amis and word-for-word calques from English.",
+ "learn": [
+  {
+   "h": "How this clinic works",
+   "body": [
+    "This lesson targets the mistakes that English speakers typically carry all the way to B2, because English has no equivalent to warn them. The method: recognise the trap, learn the rule or the correct chunk, and drill the corrected form until it becomes automatic.",
+    "Keep a personal *carnet d'erreurs* (error log): each time you or a teacher catches a mistake, write the wrong form, the correct form and the rule. Review it weekly."
+   ],
+   "tip": "Learn nouns with their article, always: not 'problème' but 'un problème'."
+  },
+  {
+   "h": "Gender traps",
+   "body": [
+    "Words ending in *-ème* and *-amme* that come from Greek are masculine, even though they end in -e: *le problème, le système, le thème, le programme, le diagramme*. Words in *-age* are mostly masculine (*le fromage, le voyage, le message*), but *la page, la plage, l'image, la cage, la rage* are feminine.",
+    "*-ée* is usually feminine, but *le musée, le lycée, le trophée* are masculine. Other frequent traps: *la fin, la mer, la peau, l'eau (f), la dent, la forêt, le silence, le groupe, le légume, le dessert, un incendie*."
+   ],
+   "table": {
+    "head": [
+     "Masculine despite the -e",
+     "Feminine despite the ending"
+    ],
+    "rows": [
+     [
+      "le problème, le système",
+      "la page, la plage, l'image"
+     ],
+     [
+      "le programme, le thème",
+      "la fin, la mer, la peau"
+     ],
+     [
+      "le musée, le lycée",
+      "la dent, la forêt, la souris"
+     ],
+     [
+      "le groupe, le silence, le légume",
+      "la façon, la leçon, la chanson"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Être vs avoir, and agreement",
+   "body": [
+    "Avoir, not être: *j'ai trente ans, j'ai faim, j'ai froid, j'ai raison, j'ai besoin de, j'ai hâte*. Never *je suis froid* (that means 'I am a cold person').",
+    "Être as auxiliary for movement/state-change verbs (*aller, venir, partir, arriver, naître, mourir, rester, tomber…*) and all pronominal verbs: *Elle est partie. Nous nous sommes trompés.* But: *J'ai fini* (not *je suis fini*, which means 'I'm done for').",
+    "With avoir, the participle agrees with a direct object placed before it: *Les lettres que j'ai écrites. Ces photos, je les ai prises hier.* No agreement when the object follows: *J'ai écrit les lettres.*"
+   ]
+  },
+  {
+   "h": "Faux amis and calques",
+   "body": [
+    "False friends: *actuellement* = currently (not actually = *en fait*); *éventuellement* = possibly (not eventually = *finalement*); *une librairie* = bookstore (library = *une bibliothèque*); *assister à* = to attend (assist = *aider*); *sensible* = sensitive (sensible = *raisonnable*); *une location* = a rental; *rester* = to stay (rest = *se reposer*); *prétendre* = to claim.",
+    "Calques (word-for-word copies of English): *ça fait du sens* → *ça a du sens*; *je suis excité* (often sounds sexual or overexcited) → *j'ai hâte* / *je suis enthousiaste*; *dépendamment de* → *selon*; *appliquer pour un poste* → *postuler à un poste*; *prendre une marche* (Quebec) → *faire une promenade*."
+   ],
+   "table": {
+    "head": [
+     "English thought",
+     "Wrong",
+     "Right"
+    ],
+    "rows": [
+     [
+      "It makes sense.",
+      "Ça fait du sens.",
+      "Ça a du sens. / C'est logique."
+     ],
+     [
+      "I'm excited for the trip.",
+      "Je suis excité pour le voyage.",
+      "J'ai hâte de partir en voyage."
+     ],
+     [
+      "I'm done.",
+      "Je suis fini.",
+      "J'ai fini. / J'ai terminé."
+     ],
+     [
+      "I'm 30.",
+      "Je suis 30 ans.",
+      "J'ai 30 ans."
+     ],
+     [
+      "I applied for the job.",
+      "J'ai appliqué pour la job.",
+      "J'ai postulé à ce poste."
+     ],
+     [
+      "It depends on the weather.",
+      "Ça dépend sur la météo.",
+      "Ça dépend de la météo."
+     ]
+    ]
+   }
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Le problème, c'est que le système est trop lent.",
+   "en": "The problem is that the system is too slow.",
+   "note": "problème and système are masculine"
+  },
+  {
+   "fr": "J'ai lu la page trois sur la plage.",
+   "en": "I read page three on the beach.",
+   "note": "page and plage are feminine despite -age"
+  },
+  {
+   "fr": "Le musée est fermé le lundi.",
+   "en": "The museum is closed on Mondays.",
+   "note": "musée: masculine despite -ée"
+  },
+  {
+   "fr": "Actuellement, je travaille de la maison.",
+   "en": "Currently, I work from home.",
+   "note": "actuellement = currently, not actually"
+  },
+  {
+   "fr": "En fait, je n'étais pas au courant.",
+   "en": "Actually, I wasn't aware.",
+   "note": "actually = en fait"
+  },
+  {
+   "fr": "Je vais à la bibliothèque emprunter des livres, puis à la librairie en acheter un.",
+   "en": "I'm going to the library to borrow books, then to the bookstore to buy one.",
+   "note": "bibliothèque vs librairie"
+  },
+  {
+   "fr": "Nous avons assisté à la conférence.",
+   "en": "We attended the conference.",
+   "note": "assister à = attend"
+  },
+  {
+   "fr": "Ça a du sens, ton idée.",
+   "en": "Your idea makes sense.",
+   "note": "not 'ça fait du sens'"
+  },
+  {
+   "fr": "J'ai hâte de commencer mon nouvel emploi.",
+   "en": "I'm excited to start my new job.",
+   "note": "avoir hâte de: the natural way to say 'can't wait'"
+  },
+  {
+   "fr": "J'ai fini mon rapport.",
+   "en": "I'm done with my report.",
+   "note": "not 'je suis fini'"
+  },
+  {
+   "fr": "Les fautes que tu as corrigées étaient difficiles.",
+   "en": "The mistakes you corrected were tricky.",
+   "note": "preceding direct object que → corrigées"
+  },
+  {
+   "fr": "Elle est rentrée tard, puis elle s'est couchée.",
+   "en": "She came home late, then went to bed.",
+   "note": "être with rentrer and pronominal verbs"
+  },
+  {
+   "fr": "Il est très sensible aux critiques.",
+   "en": "He's very sensitive to criticism.",
+   "note": "sensible = sensitive"
+  },
+  {
+   "fr": "J'ai postulé à un poste de gestionnaire.",
+   "en": "I applied for a manager position.",
+   "note": "postuler à, not appliquer pour"
+  },
+  {
+   "fr": "Selon la météo, on ira au chalet ou pas.",
+   "en": "Depending on the weather, we'll go to the cottage or not.",
+   "note": "selon instead of dépendamment de"
+  },
+  {
+   "fr": "On pourrait éventuellement reporter la réunion.",
+   "en": "We could possibly postpone the meeting.",
+   "note": "éventuellement = possibly, if needed"
+  }
+ ],
+ "quebec": {
+  "intro": "The roadmap planned this clinic around your personal quiz history; since none is recorded, it covers the errors English speakers most commonly make at B2. In Quebec there's a twist: you'll hear some of these 'errors' in everyday speech, because Quebec French has its own anglicisms and gender habits. Recognise them, but use the standard form when it counts.",
+  "items": [
+   {
+    "std": "Ça a du sens.",
+    "qc": "Ça fait du sens.",
+    "en": "It makes sense.",
+    "note": "very common in Quebec speech, but a calque; avoid in writing"
+   },
+   {
+    "std": "un autobus, un avion",
+    "qc": "une autobus, une belle avion",
+    "en": "a bus, a plane",
+    "note": "popular Quebec speech often makes vowel-initial nouns feminine; nonstandard"
+   },
+   {
+    "std": "J'ai trouvé un emploi.",
+    "qc": "J'ai trouvé une job.",
+    "en": "I found a job.",
+    "note": "job is feminine in Quebec (masculine in France); informal either way"
+   },
+   {
+    "std": "Je vais faire une promenade.",
+    "qc": "Je vais prendre une marche.",
+    "en": "I'm going for a walk.",
+    "note": "prendre une marche: Quebec calque of 'take a walk', very widespread in speech"
+   },
+   {
+    "std": "J'ai hâte d'y aller!",
+    "qc": "J'ai ben hâte d'y aller!",
+    "en": "I can't wait to go!",
+    "note": "avoir hâte is extremely common in Quebec, use it instead of 'excité'"
+   },
+   {
+    "std": "Selon le temps qu'il fera…",
+    "qc": "Dépendamment de la météo…",
+    "en": "Depending on the weather…",
+    "note": "dépendamment is common in Quebec but criticised; selon is safe everywhere"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Choose the correct article: ___ problème",
+   "options": [
+    "la",
+    "le",
+    "les",
+    "une"
+   ],
+   "a": 1,
+   "why": "Words in -ème from Greek are masculine."
+  },
+  {
+   "t": "mcq",
+   "q": "'Actuellement' means…",
+   "options": [
+    "actually",
+    "currently",
+    "accurately",
+    "eventually"
+   ],
+   "a": 1,
+   "why": "Classic faux ami; actually = en fait."
+  },
+  {
+   "t": "mcq",
+   "q": "How do you say 'I'm cold'?",
+   "options": [
+    "Je suis froid.",
+    "J'ai froid.",
+    "Je fais froid.",
+    "Il me fait froid."
+   ],
+   "a": 1,
+   "why": "avoir froid; je suis froid = I'm a cold person."
+  },
+  {
+   "t": "mcq",
+   "q": "'Une librairie' is…",
+   "options": [
+    "a library",
+    "a bookstore",
+    "a bookshelf",
+    "an archive"
+   ],
+   "a": 1,
+   "why": "library = bibliothèque."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is standard French for 'It makes sense'?",
+   "options": [
+    "Ça fait du sens.",
+    "Ça a du sens.",
+    "Ça prend du sens.",
+    "Ça donne sens."
+   ],
+   "a": 1,
+   "why": "ça fait du sens is a calque."
+  },
+  {
+   "t": "fill",
+   "q": "Les photos que j'ai ___ sont floues. (prendre)",
+   "a": [
+    "prises"
+   ],
+   "en": "The photos I took are blurry.",
+   "why": "Preceding direct object (que = les photos, f. pl.)."
+  },
+  {
+   "t": "fill",
+   "q": "J'ai ___ de te voir! (can't wait)",
+   "a": [
+    "hâte"
+   ],
+   "en": "I can't wait to see you!",
+   "why": "avoir hâte de."
+  },
+  {
+   "t": "fill",
+   "q": "Nous avons ___ à la réunion. (attended)",
+   "a": [
+    "assisté"
+   ],
+   "en": "We attended the meeting.",
+   "why": "assister à = to attend."
+  },
+  {
+   "t": "fill",
+   "q": "J'ai ___ à ce poste la semaine dernière. (applied)",
+   "a": [
+    "postulé"
+   ],
+   "en": "I applied for that position last week.",
+   "why": "postuler à un poste."
+  },
+  {
+   "t": "fill",
+   "q": "Ça dépend ___ la météo.",
+   "a": [
+    "de"
+   ],
+   "en": "It depends on the weather.",
+   "why": "dépendre de, never 'sur'."
+  },
+  {
+   "t": "build",
+   "en": "The museum is closed.",
+   "a": "Le musée est fermé."
+  },
+  {
+   "t": "build",
+   "en": "I'm done with my homework.",
+   "a": "J'ai fini mes devoirs."
+  },
+  {
+   "t": "translate",
+   "en": "I'm thirty.",
+   "a": [
+    "J'ai trente ans.",
+    "J'ai 30 ans."
+   ],
+   "why": "Age uses avoir."
+  },
+  {
+   "t": "translate",
+   "en": "Actually, I don't know.",
+   "a": [
+    "En fait, je ne sais pas.",
+    "En fait, je sais pas.",
+    "En réalité, je ne sais pas."
+   ],
+   "why": "actually = en fait, not actuellement."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "le carnet d'erreurs",
+   "en": "error log",
+   "g": "m",
+   "ex": "Je note chaque faute dans mon carnet d'erreurs."
+  },
+  {
+   "fr": "la faute",
+   "en": "mistake (esp. language, spelling)",
+   "g": "f",
+   "ex": "Il y a trois fautes dans ce courriel."
+  },
+  {
+   "fr": "le faux ami",
+   "en": "false friend",
+   "g": "m",
+   "ex": "« Librairie » est un faux ami."
+  },
+  {
+   "fr": "le calque",
+   "en": "calque, word-for-word copy",
+   "g": "m",
+   "ex": "« Ça fait du sens » est un calque de l'anglais."
+  },
+  {
+   "fr": "actuellement",
+   "en": "currently",
+   "ex": "Actuellement, il vit à Laval."
+  },
+  {
+   "fr": "éventuellement",
+   "en": "possibly, if need be",
+   "ex": "On pourrait éventuellement changer de date."
+  },
+  {
+   "fr": "en fait",
+   "en": "actually, in fact",
+   "ex": "En fait, je préfère le thé."
+  },
+  {
+   "fr": "la bibliothèque",
+   "en": "library",
+   "g": "f",
+   "ex": "La bibliothèque ferme à 21 h."
+  },
+  {
+   "fr": "la librairie",
+   "en": "bookstore",
+   "g": "f",
+   "ex": "Cette librairie vend des livres usagés."
+  },
+  {
+   "fr": "assister à",
+   "en": "to attend",
+   "ex": "J'ai assisté au spectacle."
+  },
+  {
+   "fr": "sensible",
+   "en": "sensitive",
+   "ex": "Elle a la peau sensible."
+  },
+  {
+   "fr": "postuler à",
+   "en": "to apply for (a job)",
+   "ex": "Il a postulé à trois postes."
+  },
+  {
+   "fr": "avoir hâte de",
+   "en": "to look forward to, can't wait to",
+   "ex": "J'ai hâte aux vacances.",
+   "qc": false
+  },
+  {
+   "fr": "la location",
+   "en": "rental",
+   "g": "f",
+   "ex": "La location d'une auto coûte cher."
+  },
+  {
+   "fr": "prendre une marche",
+   "en": "to go for a walk (Quebec, calque)",
+   "ex": "On prend une marche après le souper?",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "le problème",
+    "tip": "luh-pro-BLÈM: make the masculine article clear."
+   },
+   {
+    "fr": "actuellement",
+    "tip": "ak-tu-èl-MAN."
+   },
+   {
+    "fr": "éventuellement",
+    "tip": "é-van-tu-èl-MAN."
+   },
+   {
+    "fr": "bibliothèque",
+    "tip": "bi-bli-yo-TÈK."
+   },
+   {
+    "fr": "j'ai hâte",
+    "tip": "jé-ÂT: aspirated h, no liaison: j'ai / hâte."
+   },
+   {
+    "fr": "les photos que j'ai prises",
+    "tip": "The agreement is audible: pri-Z (prises) vs pri (pris)."
+   }
+  ],
+  "title": "Correction de courriel",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Peux-tu relire mon courriel avant que je l'envoie?",
+    "en": "Can you proofread my email before I send it?"
+   },
+   {
+    "s": "B",
+    "fr": "Bien sûr. Première chose : on dit « le problème », pas « la problème ».",
+    "en": "Sure. First thing: it's 'le problème', not 'la problème'."
+   },
+   {
+    "s": "A",
+    "fr": "Ah, encore! Je me trompe toujours.",
+    "en": "Oh, again! I always get that wrong."
+   },
+   {
+    "s": "B",
+    "fr": "Ensuite, « actuellement, je n'étais pas au courant » : tu veux dire « en fait ».",
+    "en": "Next, 'actuellement, je n'étais pas au courant': you mean 'en fait'."
+   },
+   {
+    "s": "A",
+    "fr": "C'est vrai, actuellement veut dire « currently ».",
+    "en": "Right, actuellement means 'currently'."
+   },
+   {
+    "s": "B",
+    "fr": "Et « ça fait du sens », on le dit souvent ici, mais dans un courriel, écris « c'est logique ».",
+    "en": "And 'ça fait du sens', people often say it here, but in an email, write 'c'est logique'."
+   },
+   {
+    "s": "A",
+    "fr": "Parfait. Autre chose?",
+    "en": "Perfect. Anything else?"
+   },
+   {
+    "s": "B",
+    "fr": "« Les documents que j'ai envoyés » : n'oublie pas le « s » à envoyés.",
+    "en": "'Les documents que j'ai envoyés': don't forget the s on envoyés."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What gender error did A make?",
+    "options": [
+     "la système",
+     "la problème",
+     "le page"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What should A write instead of 'ça fait du sens' in an email?",
+    "options": [
+     "c'est logique",
+     "ça fait sens",
+     "c'est sensible"
+    ],
+    "a": 0
+   },
+   {
+    "q": "Why does 'envoyés' need an s?",
+    "options": [
+     "Because of être",
+     "Because the direct object comes before the verb",
+     "Because it's in the future"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Say these correctly: 'I'm 35', 'I'm cold', 'I'm done', 'I can't wait for the holidays'.",
+   "model": "J'ai 35 ans. J'ai froid. J'ai fini. J'ai hâte aux vacances. (or: J'ai hâte d'être en vacances.)"
+  },
+  {
+   "prompt": "Make one sentence each with actuellement, en fait, éventuellement and finalement.",
+   "model": "Actuellement, je travaille à Montréal. En fait, je préférerais vivre à Québec. On pourrait éventuellement déménager. Finalement, on a décidé d'attendre un an."
+  },
+  {
+   "prompt": "Describe your weekend using five nouns with tricky genders (problème, plage, musée, page, système).",
+   "model": "Samedi, je suis allé au musée, puis à la plage. Dimanche, j'ai eu un problème avec le système de chauffage. J'ai lu la page d'aide, mais ça n'a pas marché."
+  }
+ ],
+ "write": {
+  "prompt": "Correct this paragraph, then rewrite it cleanly: 'Je suis 32 ans et actuellement je suis très excité pour ma nouvelle job. J'ai appliqué pour la poste en mars. La problème, c'est que le système est compliqué, mais ça fait du sens. Les formations que j'ai suivi étaient utiles.'",
+  "model": "J'ai 32 ans et j'ai très hâte de commencer mon nouvel emploi. J'ai postulé à ce poste en mars. Le problème, c'est que le système est compliqué, mais c'est logique. Les formations que j'ai suivies étaient utiles."
+ },
+ "quiz": [
+  {
+   "q": "Which noun is masculine?",
+   "options": [
+    "plage",
+    "page",
+    "système",
+    "image"
+   ],
+   "a": 2,
+   "why": "le système."
+  },
+  {
+   "q": "'Éventuellement' means…",
+   "options": [
+    "eventually",
+    "possibly",
+    "evidently",
+    "finally"
+   ],
+   "a": 1,
+   "why": "eventually = finalement / à la longue."
+  },
+  {
+   "q": "'Je suis fini' means…",
+   "options": [
+    "I'm done (finished my task)",
+    "I'm done for / ruined",
+    "I'm thin",
+    "I'm tired"
+   ],
+   "a": 1,
+   "why": "Say j'ai fini for 'I'm done'."
+  },
+  {
+   "q": "Which sentence has correct agreement?",
+   "options": [
+    "La lettre que j'ai écrit.",
+    "La lettre que j'ai écrite.",
+    "J'ai écrite la lettre.",
+    "La lettre que je suis écrite."
+   ],
+   "a": 1,
+   "why": "Preceding direct object (la lettre) → écrite."
+  },
+  {
+   "q": "'Assister à un cours' means…",
+   "options": [
+    "to help with a course",
+    "to attend a class",
+    "to teach a class",
+    "to skip a class"
+   ],
+   "a": 1,
+   "why": "assister à = to attend."
+  },
+  {
+   "q": "Which is a Quebec calque you should avoid in writing?",
+   "options": [
+    "avoir hâte",
+    "prendre une marche",
+    "postuler à",
+    "faire une promenade"
+   ],
+   "a": 1,
+   "why": "Calque of 'take a walk'."
+  },
+  {
+   "q": "'Il est très sensible' means…",
+   "options": [
+    "He's very sensible",
+    "He's very sensitive",
+    "He's very sensual",
+    "He's very sane"
+   ],
+   "a": 1,
+   "why": "sensible = sensitive; sensible (English) = raisonnable."
+  },
+  {
+   "q": "Which verb uses être in the passé composé?",
+   "options": [
+    "finir",
+    "manger",
+    "arriver",
+    "prendre"
+   ],
+   "a": 2,
+   "why": "Movement verb: je suis arrivé."
+  },
+  {
+   "q": "'Dépendre' is followed by…",
+   "options": [
+    "sur",
+    "de",
+    "à",
+    "avec"
+   ],
+   "a": 1,
+   "why": "ça dépend de…"
+  },
+  {
+   "q": "Which noun is feminine?",
+   "options": [
+    "musée",
+    "groupe",
+    "fin",
+    "silence"
+   ],
+   "a": 2,
+   "why": "la fin."
+  }
+ ]
+}

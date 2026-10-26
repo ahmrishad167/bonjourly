@@ -1,0 +1,656 @@
+{
+ "w": 130,
+ "title": "On vs l'on",
+ "goal": "By the end of this lesson you can use on in all its meanings with correct agreement, recognise and use the formal written l'on, and switch between written nous and spoken on.",
+ "learn": [
+  {
+   "h": "The three faces of on",
+   "body": [
+    "*On* is always grammatically third-person singular: *on parle, on va, on est*. But it has three meanings.",
+    "1. People in general: *Au Québec, on mange de la tourtière à Noël.* 2. Someone, an unknown person (often the English passive): *On m'a volé mon vélo.* = My bike was stolen. 3. We, in everyday speech: *On part à huit heures.*"
+   ],
+   "table": {
+    "head": [
+     "Meaning",
+     "Example",
+     "English"
+    ],
+    "rows": [
+     [
+      "people in general",
+      "On ne fume pas ici.",
+      "You can't smoke here."
+     ],
+     [
+      "someone (passive)",
+      "On a annulé le vol.",
+      "The flight was cancelled."
+     ],
+     [
+      "we (informal)",
+      "On se voit demain?",
+      "See you tomorrow?"
+     ]
+    ]
+   },
+   "tip": "When English uses 'it is said', 'they say' or a passive with no agent, French reaches for on."
+  },
+  {
+   "h": "Agreement when on means 'we'",
+   "body": [
+    "The verb stays singular, but adjectives and past participles with *être* usually agree with the real people: *On est contents. On est allées au cinéma* (if all women). This agreement is accepted by all modern grammars.",
+    "The matching reflexive is *se*: *on se lève*. The matching possessive in speech is *notre/nos*: *On a vendu notre maison.* The stressed pronoun is *nous*: *Nous, on reste.*"
+   ],
+   "table": {
+    "head": [
+     "Written (nous)",
+     "Spoken (on)"
+    ],
+    "rows": [
+     [
+      "Nous sommes arrivés.",
+      "On est arrivés."
+     ],
+     [
+      "Nous nous levons tôt.",
+      "On se lève tôt."
+     ],
+     [
+      "Nous avons vendu notre maison.",
+      "On a vendu notre maison."
+     ],
+     [
+      "Nous, nous restons.",
+      "Nous, on reste."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "L'on: a written, formal variant",
+   "body": [
+    "*L'on* is the same word as *on* with an old article (*on* comes from Latin *homo*, 'man'). Today it is a stylistic choice in careful writing, mainly to avoid a vowel clash (hiatus) or an awkward sound.",
+    "It appears after *et, ou, où, si, que, lorsque, quoi*: *si l'on veut*, *où l'on vit*, *ce que l'on dit*. After *que*, it also avoids the sound *qu'on*, which some writers find inelegant.",
+    "Never use *l'on* before a word starting with *l*: write *si on le sait*, not *si l'on le sait*. *L'on* at the very start of a sentence is very rare today. In speech, it sounds bookish or official."
+   ],
+   "table": {
+    "head": [
+     "After",
+     "Formal written",
+     "Neutral"
+    ],
+    "rows": [
+     [
+      "si",
+      "si l'on considère…",
+      "si on considère…"
+     ],
+     [
+      "et",
+      "et l'on comprend…",
+      "et on comprend…"
+     ],
+     [
+      "où",
+      "le pays où l'on vit",
+      "le pays où on vit"
+     ],
+     [
+      "que",
+      "ce que l'on croit",
+      "ce qu'on croit"
+     ],
+     [
+      "before l-",
+      "— (avoid)",
+      "si on le lui dit"
+     ]
+    ]
+   },
+   "tip": "L'on is never required. When in doubt, plain on is always correct."
+  },
+  {
+   "h": "On in formal writing",
+   "body": [
+    "In formal texts, *on* is fine in the sense 'people in general' or 'someone': *On estime que 80 % des Québécois parlent français à la maison.* Avoid *on* = 'we' in an essay or letter; write *nous* instead.",
+    "When *on* is indefinite, the possessive is *son/sa/ses* and the reflexive *soi*: *On doit respecter ses engagements. On est mieux chez soi.*"
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Au Québec, on mange de la tourtière à Noël.",
+   "en": "In Quebec, people eat meat pie at Christmas.",
+   "note": "on = people in general"
+  },
+  {
+   "fr": "On m'a volé mon vélo hier soir.",
+   "en": "My bike was stolen last night.",
+   "note": "on = someone; English passive"
+  },
+  {
+   "fr": "On a annulé la réunion de lundi.",
+   "en": "Monday's meeting was cancelled.",
+   "note": "on replaces an unknown agent"
+  },
+  {
+   "fr": "On part à huit heures, ça te va?",
+   "en": "We're leaving at eight, does that work for you?",
+   "note": "on = we, everyday speech"
+  },
+  {
+   "fr": "On est contents de vous voir.",
+   "en": "We're happy to see you.",
+   "note": "adjective agrees with the people (plural)"
+  },
+  {
+   "fr": "Ma sœur et moi, on est allées au marché Jean-Talon.",
+   "en": "My sister and I went to the Jean-Talon market.",
+   "note": "feminine plural agreement"
+  },
+  {
+   "fr": "Nous, on préfère la campagne.",
+   "en": "We prefer the countryside.",
+   "note": "stressed nous + on"
+  },
+  {
+   "fr": "On a repeint notre cuisine en bleu.",
+   "en": "We repainted our kitchen blue.",
+   "note": "on = we → notre"
+  },
+  {
+   "fr": "On doit toujours respecter ses engagements.",
+   "en": "One must always keep one's commitments.",
+   "note": "indefinite on → ses"
+  },
+  {
+   "fr": "On n'est jamais si bien que chez soi.",
+   "en": "There's no place like home.",
+   "note": "indefinite on → soi; note n' after on before a vowel"
+  },
+  {
+   "fr": "Si l'on considère les chiffres, la situation s'améliore.",
+   "en": "If one considers the figures, the situation is improving.",
+   "note": "l'on after si, formal"
+  },
+  {
+   "fr": "C'est un pays où l'on parle deux langues officielles.",
+   "en": "It's a country where two official languages are spoken.",
+   "note": "l'on after où"
+  },
+  {
+   "fr": "Ce que l'on croit savoir n'est pas toujours vrai.",
+   "en": "What we think we know isn't always true.",
+   "note": "l'on after que avoids qu'on"
+  },
+  {
+   "fr": "Si on le lui demande, il acceptera.",
+   "en": "If we ask him, he'll accept.",
+   "note": "no l'on before le"
+  },
+  {
+   "fr": "On estime que la population dépassera neuf millions.",
+   "en": "It is estimated that the population will exceed nine million.",
+   "note": "formal on = it is estimated"
+  },
+  {
+   "fr": "Lorsque l'on arrive à Québec par le fleuve, on voit d'abord le Château Frontenac.",
+   "en": "When you arrive in Quebec City by the river, you first see the Château Frontenac.",
+   "note": "l'on after lorsque, then plain on"
+  }
+ ],
+ "quebec": {
+  "intro": "In Quebec speech, on has almost completely replaced nous as a subject; nous survives as a stressed form, usually as 'nous autres'. L'on is a purely written, formal marker: you'll see it in Le Devoir, government documents and speeches, never in conversation.",
+  "items": [
+   {
+    "std": "Nous partons demain.",
+    "qc": "On part demain.",
+    "en": "We're leaving tomorrow.",
+    "note": "nous as a subject sounds stiff in conversation"
+   },
+   {
+    "std": "Nous, nous restons ici.",
+    "qc": "Nous autres, on reste icitte.",
+    "en": "We're staying here.",
+    "note": "nous autres = stressed 'we'; icitte = ici, very informal"
+   },
+   {
+    "std": "Vous venez avec nous?",
+    "qc": "Vous autres, vous venez-tu avec nous autres?",
+    "en": "Are you guys coming with us?",
+    "note": "vous autres = plural 'you'; -tu marks a yes/no question; informal"
+   },
+   {
+    "std": "Ce que l'on observe…",
+    "qc": "Ce qu'on voit, c'est que…",
+    "en": "What we're seeing is that…",
+    "note": "l'on would sound bookish in speech"
+   },
+   {
+    "std": "Eux, ils ne viennent pas.",
+    "qc": "Eux autres, y viennent pas.",
+    "en": "They're not coming.",
+    "note": "eux autres; y = ils; ne dropped; informal"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "'On m'a volé mon portefeuille' is best translated as…",
+   "options": [
+    "We stole my wallet.",
+    "My wallet was stolen.",
+    "One steals my wallet.",
+    "They will steal my wallet."
+   ],
+   "a": 1,
+   "why": "Indefinite on often corresponds to an English passive."
+  },
+  {
+   "t": "mcq",
+   "q": "Ma femme et moi, on est ___ hier. (arriver)",
+   "options": [
+    "arrivé",
+    "arrivés",
+    "arrivée",
+    "arrive"
+   ],
+   "a": 1,
+   "why": "On = we (a man and a woman) → masculine plural agreement is usual."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is NOT acceptable?",
+   "options": [
+    "si l'on veut",
+    "et l'on part",
+    "si l'on le sait",
+    "où l'on vit"
+   ],
+   "a": 2,
+   "why": "Avoid l'on before a word starting with l: si on le sait."
+  },
+  {
+   "t": "mcq",
+   "q": "In a formal essay, 'we' should usually be…",
+   "options": [
+    "on",
+    "nous",
+    "nous autres",
+    "l'on"
+   ],
+   "a": 1,
+   "why": "On = we is informal; formal writing uses nous."
+  },
+  {
+   "t": "mcq",
+   "q": "On doit respecter ___ voisins. (general rule)",
+   "options": [
+    "nos",
+    "ses",
+    "leurs",
+    "vos"
+   ],
+   "a": 1,
+   "why": "Indefinite on takes son/sa/ses."
+  },
+  {
+   "t": "fill",
+   "q": "C'est la ville où ___ on a grandi. (formal 'l')",
+   "a": [
+    "l'"
+   ],
+   "en": "It's the city where we grew up.",
+   "why": "L'on after où in formal writing."
+  },
+  {
+   "t": "fill",
+   "q": "On est ___ de vous revoir. (content, two women speaking)",
+   "a": [
+    "contentes"
+   ],
+   "en": "We're happy to see you again.",
+   "why": "Agreement with the real subject: feminine plural."
+  },
+  {
+   "t": "fill",
+   "q": "On ___ lève à six heures. (reflexive)",
+   "a": [
+    "se"
+   ],
+   "en": "We get up at six.",
+   "why": "The reflexive pronoun for on is se."
+  },
+  {
+   "t": "fill",
+   "q": "On n'est jamais mieux que chez ___.",
+   "a": [
+    "soi"
+   ],
+   "en": "You're never better off than at home.",
+   "why": "Indefinite on → stressed pronoun soi."
+  },
+  {
+   "t": "build",
+   "en": "We're leaving at eight.",
+   "a": "On part à huit heures."
+  },
+  {
+   "t": "build",
+   "en": "The meeting was cancelled.",
+   "a": "On a annulé la réunion."
+  },
+  {
+   "t": "build",
+   "en": "If one considers the figures…",
+   "a": "Si l'on considère les chiffres…"
+  },
+  {
+   "t": "translate",
+   "en": "We sold our house.",
+   "a": [
+    "On a vendu notre maison.",
+    "Nous avons vendu notre maison."
+   ],
+   "why": "On = we takes notre."
+  },
+  {
+   "t": "translate",
+   "en": "French is spoken here.",
+   "a": [
+    "On parle français ici.",
+    "Ici, on parle français.",
+    "Le français est parlé ici.",
+    "On parle le français ici."
+   ],
+   "why": "French prefers on over a passive."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "on",
+   "en": "one, people, someone; we (informal)",
+   "ex": "On ne sait jamais."
+  },
+  {
+   "fr": "l'on",
+   "en": "one (formal written variant of on)",
+   "ex": "Si l'on compare les deux textes…"
+  },
+  {
+   "fr": "soi",
+   "en": "oneself",
+   "ex": "Il faut avoir confiance en soi."
+  },
+  {
+   "fr": "chez soi",
+   "en": "(at) one's home",
+   "ex": "On est bien chez soi."
+  },
+  {
+   "fr": "estimer",
+   "en": "to estimate, consider",
+   "ex": "On estime que le projet coûtera cher."
+  },
+  {
+   "fr": "l'engagement",
+   "en": "commitment",
+   "g": "m",
+   "ex": "Il faut tenir ses engagements."
+  },
+  {
+   "fr": "annuler",
+   "en": "to cancel",
+   "ex": "On a annulé le spectacle."
+  },
+  {
+   "fr": "le hiatus",
+   "en": "hiatus (clash of two vowels)",
+   "g": "m",
+   "ex": "L'on permet d'éviter un hiatus."
+  },
+  {
+   "fr": "la tourtière",
+   "en": "meat pie",
+   "g": "f",
+   "ex": "On mange de la tourtière à Noël."
+  },
+  {
+   "fr": "grandir",
+   "en": "to grow up",
+   "ex": "C'est la ville où l'on a grandi."
+  },
+  {
+   "fr": "dépasser",
+   "en": "to exceed, pass",
+   "ex": "La population dépassera neuf millions."
+  },
+  {
+   "fr": "considérer",
+   "en": "to consider",
+   "ex": "Si l'on considère les chiffres…"
+  },
+  {
+   "fr": "nous autres",
+   "en": "we, us (stressed, informal)",
+   "ex": "Nous autres, on s'en va.",
+   "qc": true
+  },
+  {
+   "fr": "vous autres",
+   "en": "you guys (plural, informal)",
+   "ex": "Vous autres, vous venez-tu?",
+   "qc": true
+  },
+  {
+   "fr": "icitte",
+   "en": "here (very informal)",
+   "ex": "Reste icitte!",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "on a",
+    "tip": "Liaison: [o-NA]. The nasal stays nasal and the n is added."
+   },
+   {
+    "fr": "on n'est pas",
+    "tip": "Sounds the same as on est pas: [o-NÈ-pa]; the n' is heard only through the liaison."
+   },
+   {
+    "fr": "si l'on veut",
+    "tip": "[si-LON-veu]; the l softens the clash between si and on."
+   },
+   {
+    "fr": "nous autres",
+    "tip": "Quebec: [nou-ZOTT]; the final -res often disappears."
+   },
+   {
+    "fr": "vous autres",
+    "tip": "[vou-ZOTT]."
+   },
+   {
+    "fr": "on est contents",
+    "tip": "[o-nè kon-TAN]; no change in sound for the plural."
+   }
+  ],
+  "title": "Le discours du maire",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "As-tu écouté le discours du maire hier?",
+    "en": "Did you listen to the mayor's speech yesterday?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui. Il a dit : « Si l'on veut une ville plus verte, il faut agir maintenant. »",
+    "en": "Yes. He said: 'If we want a greener city, we must act now.'"
+   },
+   {
+    "s": "A",
+    "fr": "« Si l'on veut »? Personne ne parle comme ça!",
+    "en": "'If one wants'? Nobody talks like that!"
+   },
+   {
+    "s": "B",
+    "fr": "C'est un discours officiel, c'est normal. Nous autres, on dirait juste « si on veut ».",
+    "en": "It's an official speech, that's normal. We'd just say 'if we want'."
+   },
+   {
+    "s": "A",
+    "fr": "Et qu'est-ce qu'il a annoncé?",
+    "en": "And what did he announce?"
+   },
+   {
+    "s": "B",
+    "fr": "On va planter dix mille arbres, et on a annulé le projet de stationnement.",
+    "en": "Ten thousand trees will be planted, and the parking project has been cancelled."
+   },
+   {
+    "s": "A",
+    "fr": "Bonne nouvelle! On est contents, nous autres, dans le quartier.",
+    "en": "Good news! We're happy about that in the neighbourhood."
+   }
+  ],
+  "questions": [
+   {
+    "q": "Why did the mayor say 'si l'on veut'?",
+    "options": [
+     "It's Quebec slang",
+     "It's an official, formal speech",
+     "He made a mistake"
+    ],
+    "a": 1
+   },
+   {
+    "q": "How many trees will be planted?",
+    "options": [
+     "1,000",
+     "10,000",
+     "100,000"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What was cancelled?",
+    "options": [
+     "A park project",
+     "A parking project",
+     "A bike lane"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Describe three customs where you live using on = people in general.",
+   "model": "Au Québec, on enlève ses bottes en entrant chez quelqu'un. On mange de la tire sur la neige au printemps. Et le 1er juillet, on déménage!"
+  },
+  {
+   "prompt": "Tell what you and your family did last weekend using on, with correct agreement.",
+   "model": "Samedi, on est allés à la cabane à sucre. On était un peu fatigués, mais on s'est bien amusés. Dimanche, on est restés à la maison."
+  },
+  {
+   "prompt": "Read this formal sentence aloud, then say it casually: 'Si l'on observe ce que l'on mange, on comprend beaucoup de choses.'",
+   "model": "Formel : Si l'on observe ce que l'on mange, on comprend beaucoup de choses. / Familier : Si on regarde ce qu'on mange, on comprend ben des affaires."
+  }
+ ],
+ "write": {
+  "prompt": "Write a short formal paragraph (5–6 sentences) for a city newsletter about recycling. Use on (general) and l'on at least twice, and nous once.",
+  "model": "Chaque année, on jette des tonnes de déchets qui pourraient être recyclés. Si l'on veut réduire ce gaspillage, chacun doit faire sa part. On rappelle que le bac bleu accepte le papier, le carton, le verre et le plastique. Ce que l'on oublie souvent, c'est que les sacs de plastique doivent être regroupés dans un seul sac. Nous comptons sur votre collaboration. Ensemble, on peut faire la différence."
+ },
+ "quiz": [
+  {
+   "q": "Grammatically, on is always…",
+   "options": [
+    "first-person plural",
+    "third-person singular",
+    "second-person plural",
+    "third-person plural"
+   ],
+   "a": 1,
+   "why": "On takes a singular verb: on va, on est."
+  },
+  {
+   "q": "Where does l'on mainly appear?",
+   "options": [
+    "Text messages",
+    "Formal writing and speeches",
+    "Quebec slang",
+    "Children's books"
+   ],
+   "a": 1,
+   "why": "L'on is a stylistic marker of careful written French."
+  },
+  {
+   "q": "Which is correct?",
+   "options": [
+    "On sommes partis.",
+    "On est partis.",
+    "On êtes partis.",
+    "On sont partis."
+   ],
+   "a": 1,
+   "why": "Singular verb, plural participle when on = we."
+  },
+  {
+   "q": "Why might a writer prefer 'que l'on' to 'qu'on'?",
+   "options": [
+    "It's required",
+    "To avoid an awkward sound",
+    "It's Quebec usage",
+    "It changes the meaning"
+   ],
+   "a": 1,
+   "why": "It's a matter of sound and style only."
+  },
+  {
+   "q": "The stressed pronoun matching indefinite on is…",
+   "options": [
+    "lui",
+    "nous",
+    "soi",
+    "eux"
+   ],
+   "a": 2,
+   "why": "Chacun pour soi; on est bien chez soi."
+  },
+  {
+   "q": "'Nous autres, on reste' is…",
+   "options": [
+    "formal written French",
+    "informal spoken Quebec French",
+    "incorrect in every context",
+    "France-only"
+   ],
+   "a": 1,
+   "why": "Nous autres is the Quebec stressed 'we'."
+  },
+  {
+   "q": "'On a retrouvé la voiture volée.' What's the best translation?",
+   "options": [
+    "We found the stolen car.",
+    "The stolen car was found.",
+    "One found a stolen car.",
+    "Both 1 and 2, depending on context"
+   ],
+   "a": 3,
+   "why": "On can mean we or an unknown agent; context decides."
+  },
+  {
+   "q": "Which avoids l'on correctly?",
+   "options": [
+    "si l'on le voit",
+    "si on le voit",
+    "si l'on lui parle",
+    "et l'on la croit"
+   ],
+   "a": 1,
+   "why": "Before l-, use plain on."
+  }
+ ]
+}

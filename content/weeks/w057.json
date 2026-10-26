@@ -1,0 +1,648 @@
+{
+ "w": 57,
+ "title": "Adverbs of manner (-ment)",
+ "goal": "By the end of this lesson you can form adverbs ending in -ment from adjectives, handle the -amment / -emment forms and the irregular ones, and place adverbs correctly in the present and the passé composé.",
+ "learn": [
+  {
+   "h": "The basic rule: feminine + -ment",
+   "body": [
+    "Most adverbs of manner are made from the **feminine** form of the adjective + **-ment** (like English -ly): *lent → lente → lentement* (slowly), *heureux → heureuse → heureusement* (luckily).",
+    "Adverbs never agree: *Elle parle lentement. Ils parlent lentement.*"
+   ],
+   "table": {
+    "head": [
+     "Masculine",
+     "Feminine",
+     "Adverb",
+     "Meaning"
+    ],
+    "rows": [
+     [
+      "lent",
+      "lente",
+      "lentement",
+      "slowly"
+     ],
+     [
+      "doux",
+      "douce",
+      "doucement",
+      "gently, softly"
+     ],
+     [
+      "sérieux",
+      "sérieuse",
+      "sérieusement",
+      "seriously"
+     ],
+     [
+      "final",
+      "finale",
+      "finalement",
+      "finally"
+     ],
+     [
+      "complet",
+      "complète",
+      "complètement",
+      "completely"
+     ],
+     [
+      "attentif",
+      "attentive",
+      "attentivement",
+      "carefully, attentively"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Adjectives ending in a vowel",
+   "body": [
+    "If the masculine adjective ends in a vowel (*-é, -i, -u, -ai*), add *-ment* to the **masculine**: *vrai → vraiment*, *poli → poliment*, *absolu → absolument*, *spontané → spontanément*.",
+    "Exception: *gai → gaiement*."
+   ]
+  },
+  {
+   "h": "-ant → -amment, -ent → -emment",
+   "body": [
+    "Adjectives ending in *-ant* become *-amment*, and those in *-ent* become *-emment*: *courant → couramment*, *constant → constamment*, *évident → évidemment*, *récent → récemment*, *patient → patiemment*.",
+    "Both endings are pronounced the same way: **[a-mahn]**. *Évidemment* = [é-vi-da-mahn]."
+   ],
+   "tip": "-amment and -emment both sound like 'a-mahn'."
+  },
+  {
+   "h": "Irregular adverbs",
+   "body": [
+    "Some adverbs take an *é* before *-ment*: *précis → précisément*, *énorme → énormément*, *profond → profondément*. A few are irregular: *gentil → gentiment*, *bref → brièvement*.",
+    "The most common adverbs of manner are not in *-ment* at all: *bien* (well), *mal* (badly), *vite* (fast), *mieux* (better). Note: *bon → bien*, *mauvais → mal*, *rapide → rapidement* or *vite*."
+   ]
+  },
+  {
+   "h": "Where the adverb goes",
+   "body": [
+    "In simple tenses, the adverb goes **after the verb**: *Il conduit* **prudemment**. *Je parle* **lentement**.",
+    "In the passé composé, short common adverbs go **between** the auxiliary and the participle: *J'ai* **bien** *dormi*. *Tu as* **vite** *compris*. *Il a* **mal** *fait ça*. Longer *-ment* adverbs usually go after the participle: *Il a répondu* **poliment**, though some (*vraiment, complètement, déjà*) go between: *J'ai complètement oublié!*",
+    "Sentence adverbs (*heureusement, malheureusement, finalement*) often start the sentence: *Heureusement, il ne pleuvait pas.*"
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Parle plus lentement, s'il te plaît.",
+   "en": "Speak more slowly, please.",
+   "note": "lente + ment"
+  },
+  {
+   "fr": "Il conduit prudemment sur la glace.",
+   "en": "He drives carefully on the ice.",
+   "note": "prudent → prudemment"
+  },
+  {
+   "fr": "Elle parle couramment trois langues.",
+   "en": "She speaks three languages fluently.",
+   "note": "courant → couramment"
+  },
+  {
+   "fr": "Évidemment, il est en retard!",
+   "en": "Obviously, he's late!",
+   "note": "évident → évidemment, said [é-vi-da-mahn]"
+  },
+  {
+   "fr": "J'ai récemment déménagé à Sherbrooke.",
+   "en": "I recently moved to Sherbrooke.",
+   "note": "récent → récemment"
+  },
+  {
+   "fr": "Heureusement, l'autobus est arrivé à l'heure.",
+   "en": "Luckily, the bus arrived on time.",
+   "note": "sentence adverb at the start"
+  },
+  {
+   "fr": "Malheureusement, le magasin était fermé.",
+   "en": "Unfortunately, the store was closed.",
+   "note": "malheureuse + ment"
+  },
+  {
+   "fr": "Il a répondu poliment à la cliente.",
+   "en": "He answered the customer politely.",
+   "note": "poli → poliment (vowel ending)"
+  },
+  {
+   "fr": "Tu as vraiment raison.",
+   "en": "You're really right.",
+   "note": "vrai → vraiment"
+  },
+  {
+   "fr": "J'ai complètement oublié ton anniversaire!",
+   "en": "I completely forgot your birthday!",
+   "note": "complètement between ai and oublié"
+  },
+  {
+   "fr": "On a bien mangé et bien dormi.",
+   "en": "We ate well and slept well.",
+   "note": "short adverbs between avoir and the participle"
+  },
+  {
+   "fr": "Attends patiemment, ça s'en vient.",
+   "en": "Wait patiently, it's coming.",
+   "note": "patient → patiemment; ça s'en vient is common in Quebec"
+  },
+  {
+   "fr": "Il m'a parlé gentiment.",
+   "en": "He spoke to me kindly.",
+   "note": "gentil → gentiment (irregular)"
+  },
+  {
+   "fr": "C'est exactement ce que je voulais.",
+   "en": "It's exactly what I wanted.",
+   "note": "exacte + ment"
+  },
+  {
+   "fr": "Il a énormément neigé cette nuit.",
+   "en": "It snowed enormously last night.",
+   "note": "énorme → énormément"
+  },
+  {
+   "fr": "Ferme la porte doucement, le bébé dort.",
+   "en": "Close the door gently, the baby's sleeping.",
+   "note": "douce + ment"
+  }
+ ],
+ "quebec": {
+  "intro": "In Quebec speech, 'bien' is very often pronounced 'ben', and it's used everywhere as an intensifier: 'ben correct' (totally fine), 'ben bon' (really good). 'Pas ben ben' means 'not very much'. The expression 'tranquillement pas vite' means 'slowly but surely'.",
+  "items": [
+   {
+    "std": "C'est très bien.",
+    "qc": "C'est ben correct.",
+    "en": "That's totally fine.",
+    "note": "ben = bien; correct = OK, fine; informal"
+   },
+   {
+    "std": "C'est vraiment bon!",
+    "qc": "C'est ben bon!",
+    "en": "It's really good!",
+    "note": "ben as an intensifier; informal"
+   },
+   {
+    "std": "Je n'aime pas beaucoup ça.",
+    "qc": "J'aime pas ben ben ça.",
+    "en": "I don't like that very much.",
+    "note": "pas ben ben = not very much; informal"
+   },
+   {
+    "std": "Ça avance lentement mais sûrement.",
+    "qc": "Ça avance tranquillement pas vite.",
+    "en": "It's moving along slowly but surely.",
+    "note": "Quebec expression; informal"
+   },
+   {
+    "std": "Il a vraiment bien joué.",
+    "qc": "Y'a vraiment ben joué.",
+    "en": "He played really well.",
+    "note": "y'a = il a; informal"
+   },
+   {
+    "std": "Bien sûr!",
+    "qc": "Ben oui!",
+    "en": "Of course! / Well, yes!",
+    "note": "very common; ben non = of course not"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "The adverb from 'heureux' is…",
+   "options": [
+    "heureuxment",
+    "heureusement",
+    "heureument",
+    "heureusment"
+   ],
+   "a": 1,
+   "why": "Feminine heureuse + ment."
+  },
+  {
+   "t": "mcq",
+   "q": "The adverb from 'évident' is…",
+   "options": [
+    "évidentment",
+    "évidamment",
+    "évidemment",
+    "évidement"
+   ],
+   "a": 2,
+   "why": "-ent → -emment."
+  },
+  {
+   "t": "mcq",
+   "q": "The adverb from 'vrai' is…",
+   "options": [
+    "vraiement",
+    "vraiment",
+    "vraiemment",
+    "vraimant"
+   ],
+   "a": 1,
+   "why": "Ends in a vowel: masculine + ment."
+  },
+  {
+   "t": "mcq",
+   "q": "Where does 'bien' go? 'J'ai ___ dormi ___.'",
+   "options": [
+    "before dormi",
+    "after dormi",
+    "before ai",
+    "at the start"
+   ],
+   "a": 0,
+   "why": "Short adverbs go between avoir and the participle: j'ai bien dormi."
+  },
+  {
+   "t": "fill",
+   "q": "Elle parle ___. (lent)",
+   "a": [
+    "lentement"
+   ],
+   "en": "She speaks slowly.",
+   "why": "Lente + ment."
+  },
+  {
+   "t": "fill",
+   "q": "Il parle anglais ___. (courant)",
+   "a": [
+    "couramment"
+   ],
+   "en": "He speaks English fluently.",
+   "why": "-ant → -amment."
+  },
+  {
+   "t": "fill",
+   "q": "___, il ne neigeait pas. (heureux)",
+   "a": [
+    "Heureusement"
+   ],
+   "en": "Luckily, it wasn't snowing.",
+   "why": "Sentence adverb at the start."
+  },
+  {
+   "t": "fill",
+   "q": "Il a répondu ___. (gentil)",
+   "a": [
+    "gentiment"
+   ],
+   "en": "He answered kindly.",
+   "why": "Irregular: gentiment."
+  },
+  {
+   "t": "build",
+   "en": "I completely forgot.",
+   "a": "J'ai complètement oublié."
+  },
+  {
+   "t": "build",
+   "en": "Drive carefully, the road is slippery.",
+   "a": "Conduis prudemment, la route est glissante."
+  },
+  {
+   "t": "build",
+   "en": "We ate well yesterday.",
+   "a": "On a bien mangé hier."
+  },
+  {
+   "t": "translate",
+   "en": "Speak slowly, please.",
+   "a": [
+    "Parle lentement, s'il te plaît.",
+    "Parlez lentement, s'il vous plaît.",
+    "Parle plus lentement, s'il te plaît.",
+    "Parlez plus lentement, s'il vous plaît."
+   ],
+   "why": "Lentement after the verb."
+  },
+  {
+   "t": "translate",
+   "en": "Unfortunately, it's closed.",
+   "a": [
+    "Malheureusement, c'est fermé.",
+    "Malheureusement, il est fermé.",
+    "Malheureusement, elle est fermée."
+   ],
+   "why": "Malheureusement at the start."
+  },
+  {
+   "t": "translate",
+   "en": "It's really good!",
+   "a": [
+    "C'est vraiment bon!",
+    "C'est très bon!",
+    "C'est ben bon!"
+   ],
+   "why": "Vraiment or the Quebec ben."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "lentement",
+   "en": "slowly",
+   "ex": "Parle lentement."
+  },
+  {
+   "fr": "rapidement / vite",
+   "en": "quickly, fast",
+   "ex": "Il mange vite."
+  },
+  {
+   "fr": "doucement",
+   "en": "gently, softly, quietly",
+   "ex": "Ferme la porte doucement."
+  },
+  {
+   "fr": "prudemment",
+   "en": "carefully (safely)",
+   "ex": "Conduis prudemment."
+  },
+  {
+   "fr": "couramment",
+   "en": "fluently",
+   "ex": "Elle parle couramment."
+  },
+  {
+   "fr": "évidemment",
+   "en": "obviously, of course",
+   "ex": "Évidemment, il pleut."
+  },
+  {
+   "fr": "récemment",
+   "en": "recently",
+   "ex": "J'ai récemment déménagé."
+  },
+  {
+   "fr": "patiemment",
+   "en": "patiently",
+   "ex": "Attends patiemment."
+  },
+  {
+   "fr": "heureusement",
+   "en": "luckily, fortunately",
+   "ex": "Heureusement, tu es là."
+  },
+  {
+   "fr": "malheureusement",
+   "en": "unfortunately",
+   "ex": "Malheureusement, c'est complet."
+  },
+  {
+   "fr": "vraiment",
+   "en": "really, truly",
+   "ex": "C'est vraiment beau."
+  },
+  {
+   "fr": "complètement",
+   "en": "completely",
+   "ex": "J'ai complètement oublié."
+  },
+  {
+   "fr": "gentiment",
+   "en": "kindly, nicely",
+   "ex": "Il m'a aidé gentiment."
+  },
+  {
+   "fr": "glissant / glissante",
+   "en": "slippery",
+   "ex": "Le trottoir est glissant."
+  },
+  {
+   "fr": "ben correct",
+   "en": "totally fine, OK",
+   "ex": "C'est ben correct, inquiète-toi pas.",
+   "qc": true
+  },
+  {
+   "fr": "tranquillement pas vite",
+   "en": "slowly but surely",
+   "ex": "Ça avance tranquillement pas vite.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "lentement",
+    "tip": "lahnt-MAHN: the middle e is dropped."
+   },
+   {
+    "fr": "évidemment",
+    "tip": "é-vi-da-MAHN: -emment sounds like a-mahn."
+   },
+   {
+    "fr": "couramment",
+    "tip": "kou-ra-MAHN."
+   },
+   {
+    "fr": "heureusement",
+    "tip": "eu-reuz-MAHN, three syllables in speech."
+   },
+   {
+    "fr": "gentiment",
+    "tip": "jahn-ti-MAHN."
+   },
+   {
+    "fr": "ben correct",
+    "tip": "Quebec: [bin ko-rèk], ben sounds like 'bin'."
+   }
+  ],
+  "title": "Le cours de conduite",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Bon, on commence. Démarre doucement.",
+    "en": "OK, let's start. Start up gently."
+   },
+   {
+    "s": "B",
+    "fr": "Comme ça?",
+    "en": "Like this?"
+   },
+   {
+    "s": "A",
+    "fr": "Parfait. Maintenant, avance lentement. La route est glissante.",
+    "en": "Perfect. Now, move forward slowly. The road is slippery."
+   },
+   {
+    "s": "B",
+    "fr": "Je conduis assez prudemment?",
+    "en": "Am I driving carefully enough?"
+   },
+   {
+    "s": "A",
+    "fr": "Oui, c'est ben correct. Regarde attentivement à gauche avant de tourner.",
+    "en": "Yes, that's totally fine. Look carefully to the left before turning."
+   },
+   {
+    "s": "B",
+    "fr": "Oups! J'ai complètement oublié mon clignotant!",
+    "en": "Oops! I completely forgot my turn signal!"
+   },
+   {
+    "s": "A",
+    "fr": "Heureusement, il n'y avait personne. Mets-le toujours, d'accord?",
+    "en": "Luckily, there was nobody there. Always put it on, OK?"
+   },
+   {
+    "s": "B",
+    "fr": "Évidemment. Ça avance tranquillement pas vite, hein?",
+    "en": "Of course. It's coming along slowly but surely, eh?"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Why must B drive slowly?",
+    "options": [
+     "There's a lot of traffic",
+     "The road is slippery",
+     "It's night"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What did B forget?",
+    "options": [
+     "The seatbelt",
+     "The turn signal",
+     "The headlights"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Why was the mistake not serious?",
+    "options": [
+     "Nobody was there",
+     "The car stopped",
+     "The instructor braked"
+    ],
+    "a": 0
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Describe how you do 4 things using adverbs: drive, speak French, eat, sleep.",
+   "model": "Je conduis prudemment. Je parle français lentement, mais correctement. Je mange rapidement le midi. Je dors bien la fin de semaine."
+  },
+  {
+   "prompt": "Tell a short story with heureusement, malheureusement and finalement.",
+   "model": "Hier, j'ai raté l'autobus. Malheureusement, il faisait très froid. Heureusement, un ami est passé en voiture. Finalement, je suis arrivé à l'heure."
+  },
+  {
+   "prompt": "Someone apologises for being a bit late. Reassure them, Quebec style.",
+   "model": "C'est ben correct, inquiète-toi pas!"
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences about your progress in French. Use at least six different adverbs, including one in -amment or -emment and one in the passé composé.",
+  "model": "J'apprends le français régulièrement depuis un an. Au début, je parlais très lentement. Récemment, j'ai beaucoup progressé. Maintenant, je comprends facilement les conversations simples. Malheureusement, je ne parle pas encore couramment. Mais ça avance tranquillement pas vite!"
+ },
+ "quiz": [
+  {
+   "q": "Most -ment adverbs are formed from…",
+   "options": [
+    "the masculine adjective",
+    "the feminine adjective",
+    "the infinitive",
+    "the noun"
+   ],
+   "a": 1,
+   "why": "Lente → lentement, heureuse → heureusement."
+  },
+  {
+   "q": "'Constant' becomes…",
+   "options": [
+    "constantment",
+    "constamment",
+    "constemment",
+    "constament"
+   ],
+   "a": 1,
+   "why": "-ant → -amment."
+  },
+  {
+   "q": "'Absolu' becomes…",
+   "options": [
+    "absolument",
+    "absoluement",
+    "absolutement",
+    "absolûment"
+   ],
+   "a": 0,
+   "why": "Ends in a vowel: absolu + ment."
+  },
+  {
+   "q": "The adverb of 'bon' is…",
+   "options": [
+    "bonnement",
+    "bien",
+    "mieux",
+    "bonment"
+   ],
+   "a": 1,
+   "why": "Bon → bien."
+  },
+  {
+   "q": "Which is correct?",
+   "options": [
+    "J'ai dormi bien.",
+    "J'ai bien dormi.",
+    "Bien j'ai dormi.",
+    "J'bien ai dormi."
+   ],
+   "a": 1,
+   "why": "Short adverb between avoir and the participle."
+  },
+  {
+   "q": "How is '-emment' pronounced?",
+   "options": [
+    "[é-mahn]",
+    "[a-mahn]",
+    "[è-mahn]",
+    "[eu-mahn]"
+   ],
+   "a": 1,
+   "why": "Évidemment = é-vi-da-mahn."
+  },
+  {
+   "q": "'Énorme' becomes…",
+   "options": [
+    "énormement",
+    "énormément",
+    "énormemment",
+    "énormamment"
+   ],
+   "a": 1,
+   "why": "Irregular: énormément with é."
+  },
+  {
+   "q": "In Quebec, 'C'est ben correct' means…",
+   "options": [
+    "It's very correct grammar",
+    "That's totally fine",
+    "It's well done",
+    "That's wrong"
+   ],
+   "a": 1,
+   "why": "Ben = bien; correct = OK."
+  },
+  {
+   "q": "'J'aime pas ben ben ça' means…",
+   "options": [
+    "I really love that",
+    "I don't like that very much",
+    "I like that well enough",
+    "I don't know"
+   ],
+   "a": 1,
+   "why": "Pas ben ben = not very much."
+  }
+ ]
+}

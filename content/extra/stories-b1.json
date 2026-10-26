@@ -1,0 +1,1455 @@
+[
+ {
+  "id": "b01",
+  "title": "La nuit du verglas",
+  "level": "B1",
+  "week": 86,
+  "place": "Montréal (Plateau et Rosemont)",
+  "summary": "An ice storm knocks out the power, and Samir, his mother, Mme Tremblay and Caramel take refuge at Kevin's, whose brand-new generator has one small problem.",
+  "text": [
+   "En janvier, une tempête de verglas frappe Montréal. Toute la nuit, la pluie gèle sur les arbres et sur les fils électriques. Les branches craquent comme des coups de fusil. À trois heures du matin, tout le Plateau tombe dans le noir.",
+   "Au réveil, Samir regarde son téléphone : 6 % de batterie et un texto de sa mère, qui vit son premier hiver à Montréal. « Panne de courant. Il fait 13 degrés dans mon salon. Il faut que tu viennes. Et apporte du café, s'il te plaît. »",
+   "Dans l'escalier, Samir croise Mme Tremblay. Elle porte deux chandails, une tuque et Caramel, enroulé dans une couverture.",
+   "— Samir, mon chauffage ne marche plus et j'ai peur que Caramel attrape froid. Il faut absolument qu'on trouve un endroit chaud.",
+   "— Ma mère aussi a froid. Il nous faudrait quelqu'un avec un poêle à bois...",
+   "Ils ont la même idée en même temps : Kevin! Samir lui écrit, et la réponse arrive tout de suite : « Pas de trouble! J'ai un poêle à bois pis une génératrice toute neuve. Venez-vous-en! »",
+   "Une heure plus tard, le petit appartement de Jessica et Kevin, à Rosemont, est plein : Samir, sa mère, Mme Tremblay, Caramel et deux voisins âgés. Kevin, très fier, présente sa génératrice comme un trophée.",
+   "— Bon. Il y a juste un petit problème. J'ai oublié d'acheter de l'essence.",
+   "Jessica le regarde longuement.",
+   "— Mon amour, je veux que tu saches que je t'aime. Mais t'es pas mal niaiseux.",
+   "Heureusement, le poêle à bois fonctionne très bien. Mme Tremblay prépare du chocolat chaud, la mère de Samir fait cuire des crêpes sur le poêle, et tout le monde joue aux cartes à la lumière des chandelles. Les deux voisins racontent la grande crise du verglas de 1998, quand certaines familles sont restées des semaines sans électricité. Après cette histoire, personne ne se plaint plus.",
+   "Le courant revient deux jours plus tard. Tout le monde rentre chez soi, sauf Caramel, qui refuse de quitter sa place devant le poêle.",
+   "— Je doute qu'il veuille partir, soupire Mme Tremblay. Il est chez lui, maintenant.",
+   "Dans l'auto, la mère de Samir sourit.",
+   "— Je suis contente que cette tempête soit arrivée. J'ai appris quarante mots nouveaux. Et Kevin m'a appris trois mots que je ne dois jamais répéter."
+  ],
+  "dialogue_ok": true,
+  "glossary": [
+   {
+    "fr": "le verglas",
+    "en": "freezing rain / black ice"
+   },
+   {
+    "fr": "une panne de courant",
+    "en": "a power outage"
+   },
+   {
+    "fr": "les fils électriques",
+    "en": "power lines"
+   },
+   {
+    "fr": "un chandail",
+    "en": "a sweater",
+    "qc": true
+   },
+   {
+    "fr": "le chauffage",
+    "en": "the heating"
+   },
+   {
+    "fr": "un poêle à bois",
+    "en": "a wood stove (in Quebec « le poêle » is also the kitchen stove)",
+    "qc": true
+   },
+   {
+    "fr": "Pas de trouble!",
+    "en": "No problem! (informal, from English)",
+    "qc": true
+   },
+   {
+    "fr": "pis",
+    "en": "and / and then (informal form of « puis »)",
+    "qc": true
+   },
+   {
+    "fr": "Venez-vous-en!",
+    "en": "Come on over! (informal)",
+    "qc": true
+   },
+   {
+    "fr": "une génératrice",
+    "en": "a generator (France: « un groupe électrogène »)",
+    "qc": true
+   },
+   {
+    "fr": "l'essence",
+    "en": "gasoline"
+   },
+   {
+    "fr": "pas mal",
+    "en": "pretty, quite (« t'es pas mal niaiseux » = you're pretty silly)"
+   },
+   {
+    "fr": "niaiseux",
+    "en": "silly, dumb (informal)",
+    "qc": true
+   },
+   {
+    "fr": "une chandelle",
+    "en": "a candle (France prefers « une bougie »)",
+    "qc": true
+   }
+  ],
+  "questions": [
+   {
+    "q": "Why does Samir's mother ask him to come?",
+    "options": [
+     "She wants to play cards",
+     "Her power is out and her apartment is cold",
+     "She has run out of crêpes"
+    ],
+    "a": 1,
+    "why": "Her text says « Panne de courant. Il fait 13 degrés dans mon salon. »"
+   },
+   {
+    "q": "What is the problem with Kevin's generator?",
+    "options": [
+     "It is broken",
+     "It is too noisy",
+     "He forgot to buy gasoline"
+    ],
+    "a": 2,
+    "why": "Kevin admits « J'ai oublié d'acheter de l'essence. »"
+   },
+   {
+    "q": "In « j'ai peur que Caramel attrape froid », why is « attrape » in the subjunctive?",
+    "options": [
+     "Because it follows an expression of fear (avoir peur que)",
+     "Because the action is in the past",
+     "Because Caramel is an animal"
+    ],
+    "a": 0,
+    "why": "Expressions of emotion and fear like « avoir peur que » trigger the subjunctive."
+   },
+   {
+    "q": "What do the elderly neighbours say about the 1998 ice storm?",
+    "options": [
+     "Montréal got two metres of snow",
+     "The métro stopped for a month",
+     "Some families had no electricity for weeks"
+    ],
+    "a": 2,
+    "why": "« certaines familles sont restées des semaines sans électricité »"
+   },
+   {
+    "q": "What does Jessica mean by « t'es pas mal niaiseux »?",
+    "options": [
+     "You're not bad at all",
+     "You're pretty silly",
+     "You're very brave"
+    ],
+    "a": 1,
+    "why": "« Pas mal » = pretty/quite, and « niaiseux » = silly, dumb."
+   }
+  ],
+  "quebec_note": "In Quebec, « le poêle » usually means the kitchen stove (France says « la cuisinière »). The 1998 ice storm, « la crise du verglas », left well over a million Quebec homes without power, some for several weeks; every Quebecer old enough has a story about it."
+ },
+ {
+  "id": "b02",
+  "title": "La finale des Castors",
+  "level": "B1",
+  "week": 90,
+  "place": "Montréal (aréna de Rosemont)",
+  "summary": "Kevin's beer-league team is one player short for the final, so Samir, who still falls on his skates, is called in to stand in front of the net.",
+  "text": [
+   "Kevin joue dans une ligue de garage depuis dix ans. Son équipe, les Castors de Rosemont, n'a jamais gagné un seul championnat. Ce jeudi soir, c'est la finale, et il manque un joueur : Martin s'est cassé le poignet en pelletant son entrée.",
+   "Kevin appelle Samir à dix-neuf heures.",
+   "— Samir, j'ai besoin de toi. La game commence à neuf heures.",
+   "— Kevin, je patine depuis un an seulement. Et je tombe encore souvent.",
+   "— C'est pas grave. Tu vas juste rester devant le filet pis déranger le gardien. Mais il faut que tu sois là avant que l'arbitre arrive, sinon on perd par forfait.",
+   "Dans le vestiaire, ça sent la vieille sueur et le café froid. Les coéquipiers de Kevin ont tous plus de quarante ans, une grosse barbe et des surnoms bizarres : le Gros, la Machine, Ti-Gilles. Ils regardent Samir avec méfiance.",
+   "— C'est lui, le gars de Toronto? demande Ti-Gilles. Y est-tu bon, au moins?",
+   "— Il est... motivé, répond Kevin.",
+   "Dès que le match commence, Samir comprend qu'il est en danger. Les joueurs adverses sont énormes et rapides. Chaque fois qu'il touche la rondelle, il la perd aussitôt. Il passe plus de temps sur la glace que sur ses patins. En troisième période, le pointage est de 3 à 3, et Samir est épuisé.",
+   "Il reste trente secondes. Kevin descend la patinoire à toute vitesse et lance. Le gardien bloque, mais la rondelle rebondit devant le filet. Samir veut l'arrêter avec son bâton, mais ses patins glissent : il tombe sur le dos, et la rondelle frappe son casque avant d'entrer dans le but.",
+   "Aussitôt que la lumière rouge s'allume, toute l'équipe saute sur lui.",
+   "— Y a compté avec sa tête! crie la Machine. C'est un génie!",
+   "Après le match, dans le stationnement, Ti-Gilles lui donne une bière et une grande tape dans le dos.",
+   "— Bienvenue chez les Castors, le jeune. On joue tous les jeudis. Pis on va t'acheter un casque neuf, le tien est fendu.",
+   "Samir sourit, même s'il a mal partout. Pour la première fois de sa vie, il a gagné un match de hockey. Il ne dira jamais à personne qu'il avait les yeux fermés."
+  ],
+  "dialogue_ok": true,
+  "glossary": [
+   {
+    "fr": "une ligue de garage",
+    "en": "an amateur adult hockey league (beer league)",
+    "qc": true
+   },
+   {
+    "fr": "pelleter",
+    "en": "to shovel (snow)",
+    "qc": true
+   },
+   {
+    "fr": "la game",
+    "en": "the game, the match (informal)",
+    "qc": true
+   },
+   {
+    "fr": "perdre par forfait",
+    "en": "to lose by forfeit"
+   },
+   {
+    "fr": "le vestiaire",
+    "en": "the locker room"
+   },
+   {
+    "fr": "un surnom",
+    "en": "a nickname"
+   },
+   {
+    "fr": "Ti-Gilles",
+    "en": "« Little Gilles » (« Ti- » comes from « petit »)",
+    "qc": true
+   },
+   {
+    "fr": "Y est-tu bon?",
+    "en": "Is he any good? (« y » = il, « -tu » marks a yes/no question)",
+    "qc": true
+   },
+   {
+    "fr": "la rondelle",
+    "en": "the puck (France: « le palet »)",
+    "qc": true
+   },
+   {
+    "fr": "le pointage",
+    "en": "the score",
+    "qc": true
+   },
+   {
+    "fr": "compter",
+    "en": "to score (a goal)",
+    "qc": true
+   },
+   {
+    "fr": "le bâton",
+    "en": "the hockey stick"
+   },
+   {
+    "fr": "une tape dans le dos",
+    "en": "a pat on the back"
+   },
+   {
+    "fr": "fendu",
+    "en": "cracked, split"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Why is Kevin's team missing a player?",
+    "options": [
+     "Martin moved to Toronto",
+     "Martin is sick",
+     "Martin broke his wrist shovelling snow"
+    ],
+    "a": 2,
+    "why": "« Martin s'est cassé le poignet en pelletant son entrée. »"
+   },
+   {
+    "q": "What does « il faut que tu sois là avant que l'arbitre arrive » tell Samir?",
+    "options": [
+     "He must arrive before the referee does",
+     "He must wait for the referee after the game",
+     "The referee will drive him to the arena"
+    ],
+    "a": 0,
+    "why": "« Avant que » + subjunctive = before (someone does something)."
+   },
+   {
+    "q": "In Quebec French, « Y est-tu bon? » means...",
+    "options": [
+     "Where is the good one?",
+     "Is he any good?",
+     "Are you any good?"
+    ],
+    "a": 1,
+    "why": "« Y » = il, and « -tu » turns the sentence into a yes/no question; it does not mean « you » here."
+   },
+   {
+    "q": "How does Samir score the winning goal?",
+    "options": [
+     "With a slapshot from the blue line",
+     "On a breakaway",
+     "The puck hits his helmet while he is falling"
+    ],
+    "a": 2,
+    "why": "« il tombe sur le dos, et la rondelle frappe son casque avant d'entrer dans le but »"
+   },
+   {
+    "q": "What will Samir never tell anyone?",
+    "options": [
+     "That his eyes were closed",
+     "That he is still a Leafs fan",
+     "That he drank Ti-Gilles's beer"
+    ],
+    "a": 0,
+    "why": "« Il ne dira jamais à personne qu'il avait les yeux fermés. »"
+   }
+  ],
+  "quebec_note": "« Une ligue de garage » is an amateur adult league, and Quebec hockey has its own words: « la rondelle » (puck), « compter » (to score), « le pointage » (score). Nicknames with « Ti- » (from « petit »), like Ti-Gilles or Ti-Jean, are a classic Quebec tradition."
+ },
+ {
+  "id": "b03",
+  "title": "Deux cents kilos de yogourt",
+  "level": "B1",
+  "week": 95,
+  "place": "Montréal (Saint-Michel)",
+  "summary": "On a volunteer day at a food bank, the fridge breaks down with 200 kg of yogurt inside, and a sulky teenager doing community service finds the solution.",
+  "text": [
+   "Un samedi de novembre, Jessica convainc Samir de faire du bénévolat dans une banque alimentaire de Saint-Michel. « Tu vas voir, c'est le fun, pis ça fait du bien », lui promet-elle.",
+   "La coordonnatrice s'appelle Ginette. Elle a soixante-dix ans, une voix de sergent et un sifflet autour du cou.",
+   "— Bienvenue! Ici, tout est organisé. Les denrées sont livrées le matin, elles sont triées avant midi et elles sont distribuées l'après-midi. Des questions? Non? Parfait. Au travail!",
+   "Samir est placé au tri avec Théo, un ado de seize ans qui doit faire quarante heures de travaux communautaires. Théo n'a visiblement pas envie d'être là.",
+   "— J'ai été pogné en train de faire un graffiti, explique-t-il en haussant les épaules. C'est plate, ici.",
+   "Vers dix heures, un camion arrive. Il a été envoyé par une grande épicerie : deux cents kilos de yogourt, qui expirent... demain. Au même moment, Ginette pousse un cri. Le grand réfrigérateur est en panne.",
+   "— Si ces yogourts ne sont pas distribués aujourd'hui, ils seront jetés. Il faut trouver une solution, et vite!",
+   "Théo lève les yeux de son téléphone.",
+   "— Je peux faire une story sur Instagram. J'ai trois mille abonnés, pis la moitié habite dans le quartier.",
+   "Ginette le regarde comme s'il parlait chinois. Mais elle n'a pas de meilleure idée. Dix minutes plus tard, la vidéo est publiée : Théo, entouré de boîtes de yogourt, explique la situation avec beaucoup d'humour. Elle est partagée des centaines de fois.",
+   "À midi, la file d'attente fait le tour du bâtiment. Des familles, des étudiants et des personnes âgées arrivent avec des sacs. Une cuisinière de restaurant propose même de transformer le reste en smoothies pour la garderie d'à côté. À seize heures, le dernier pot est donné.",
+   "Ginette s'approche de Théo et enlève son sifflet.",
+   "— T'as sauvé deux cents kilos de bouffe, mon homme. Combien d'heures il te reste à faire?",
+   "— Trente-deux.",
+   "— Bon. Je t'attends samedi prochain. Pis amène tes trois mille amis.",
+   "Théo essaie de cacher son sourire, sans succès. Dans le métro, Samir regarde Jessica et l'admet : c'était vraiment le fun."
+  ],
+  "dialogue_ok": true,
+  "glossary": [
+   {
+    "fr": "le bénévolat",
+    "en": "volunteer work"
+   },
+   {
+    "fr": "une banque alimentaire",
+    "en": "a food bank"
+   },
+   {
+    "fr": "c'est le fun",
+    "en": "it's fun (informal)",
+    "qc": true
+   },
+   {
+    "fr": "la coordonnatrice",
+    "en": "the coordinator (Quebec form; France: « coordinatrice »)",
+    "qc": true
+   },
+   {
+    "fr": "les denrées",
+    "en": "food supplies, foodstuffs"
+   },
+   {
+    "fr": "trier / le tri",
+    "en": "to sort / sorting"
+   },
+   {
+    "fr": "les travaux communautaires",
+    "en": "community service"
+   },
+   {
+    "fr": "être pogné",
+    "en": "to get caught (informal, from « pogner »)",
+    "qc": true
+   },
+   {
+    "fr": "c'est plate",
+    "en": "it's boring (informal)",
+    "qc": true
+   },
+   {
+    "fr": "expirer",
+    "en": "to expire (for food dates; standard: « la date de péremption »)"
+   },
+   {
+    "fr": "un abonné",
+    "en": "a follower, a subscriber"
+   },
+   {
+    "fr": "la file d'attente",
+    "en": "the line, the queue"
+   },
+   {
+    "fr": "la bouffe",
+    "en": "food (informal, also used in France)"
+   },
+   {
+    "fr": "mon homme",
+    "en": "buddy, my man (friendly, informal)",
+    "qc": true
+   },
+   {
+    "fr": "une garderie",
+    "en": "a daycare"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Who is Ginette?",
+    "options": [
+     "A teenager doing community service",
+     "The food bank's coordinator",
+     "A grocery store manager"
+    ],
+    "a": 1,
+    "why": "« La coordonnatrice s'appelle Ginette. »"
+   },
+   {
+    "q": "Why must the yogurt be given out today?",
+    "options": [
+     "Ginette doesn't like yogurt",
+     "The truck has to take it back",
+     "It expires tomorrow and the fridge is broken"
+    ],
+    "a": 2,
+    "why": "The yogurt cups « expirent... demain » and « le grand réfrigérateur est en panne »."
+   },
+   {
+    "q": "« La vidéo est publiée » is an example of...",
+    "options": [
+     "the passive voice",
+     "the subjunctive",
+     "the conditional"
+    ],
+    "a": 0,
+    "why": "être + past participle (publiée), with the subject receiving the action, is the passive voice."
+   },
+   {
+    "q": "Why is Théo at the food bank?",
+    "options": [
+     "His mother works there",
+     "He was caught doing graffiti and must do community service",
+     "He wants to make a documentary"
+    ],
+    "a": 1,
+    "why": "He must do « quarante heures de travaux communautaires » because « J'ai été pogné en train de faire un graffiti »."
+   },
+   {
+    "q": "What does Ginette ask Théo at the end?",
+    "options": [
+     "To give back her whistle",
+     "To delete his video",
+     "To come back next Saturday with his followers"
+    ],
+    "a": 2,
+    "why": "« Je t'attends samedi prochain. Pis amène tes trois mille amis. »"
+   }
+  ],
+  "quebec_note": "« C'est le fun » (it's fun) and « c'est plate » (it's boring) are among the most common Quebec expressions. « Pogner » (to grab, to catch) is everywhere in spoken Quebec French: « se faire pogner » means to get caught."
+ },
+ {
+  "id": "b04",
+  "title": "Le plan volé",
+  "level": "B1",
+  "week": 99,
+  "place": "Montréal (Mile End)",
+  "summary": "A gossipy colleague tells Samir that Véronique presented his plan as her own idea, and Samir must decide how to handle the conflict.",
+  "text": [
+   "Depuis six mois, Samir est chargé de projet dans une petite entreprise de logiciels du Mile End. Il aime son équipe, ses dossiers et surtout la machine à café italienne. Mais un lundi matin, son collègue Patrick l'attend à son bureau avec un air grave et deux croissants.",
+   "— J'ai entendu quelque chose vendredi, chuchote Patrick. Véronique a dit à la directrice que le nouveau plan de livraison, c'était son idée.",
+   "Samir manque de s'étouffer avec son croissant. Ce plan, il l'a imaginé seul, pendant trois semaines de soirées. Il l'avait montré à Véronique pour avoir son avis, rien de plus.",
+   "— T'es sûr? Qu'est-ce qu'elle a dit exactement?",
+   "— Elle a dit qu'elle avait travaillé là-dessus tout l'été et qu'elle voulait le présenter elle-même au comité. La directrice a répondu qu'elle était très impressionnée.",
+   "Toute la journée, Samir bouillonne. Le soir, il raconte tout à Mme Tremblay, qui caresse Caramel en l'écoutant.",
+   "— Mon pauvre... Tu as deux choix. Tu peux crier dans le corridor, ou tu peux lui parler calmement, seul à seule. La première option fait du bien pendant cinq minutes. La deuxième règle le problème.",
+   "Le lendemain, Samir invite Véronique à prendre un café. Il respire profondément.",
+   "— Véronique, Patrick m'a dit que tu avais présenté mon plan comme ton idée. J'aimerais comprendre.",
+   "Véronique devient pâle. Elle fixe sa tasse longtemps, puis elle avoue tout. Son contrat se termine en mars. Elle a deux enfants, un loyer qui augmente et une peur bleue de perdre son emploi.",
+   "— J'ai paniqué. Je m'excuse, Samir. C'était pas correct. Je vais aller voir la directrice aujourd'hui.",
+   "Samir réfléchit. Il est encore fâché, mais il ne veut pas qu'elle perde son poste. Et franchement, son plan a un point faible : le budget. Or, Véronique est la meilleure de l'équipe pour les chiffres.",
+   "— J'ai une meilleure idée. On le présente ensemble. Mon plan, tes chiffres.",
+   "Le jeudi, au comité, la présentation est un succès. La directrice demande qui a eu l'idée. Véronique répond sans hésiter que c'était Samir et qu'elle avait seulement préparé le budget. La directrice annonce qu'elle leur confie le projet à tous les deux.",
+   "En sortant de la salle, Patrick murmure à Samir qu'il avait espéré une vraie chicane.",
+   "— Désolé, Patrick. Pas de chicane cette semaine. Mais merci pour les croissants."
+  ],
+  "dialogue_ok": true,
+  "glossary": [
+   {
+    "fr": "un chargé de projet",
+    "en": "a project manager"
+   },
+   {
+    "fr": "une entreprise de logiciels",
+    "en": "a software company"
+   },
+   {
+    "fr": "chuchoter",
+    "en": "to whisper"
+   },
+   {
+    "fr": "manquer de s'étouffer",
+    "en": "to almost choke"
+   },
+   {
+    "fr": "bouillonner",
+    "en": "to seethe, to boil (with anger)"
+   },
+   {
+    "fr": "le corridor",
+    "en": "the hallway (more common in Quebec than « le couloir »)",
+    "qc": true
+   },
+   {
+    "fr": "seul à seule",
+    "en": "one on one, in private"
+   },
+   {
+    "fr": "avouer",
+    "en": "to confess, to admit"
+   },
+   {
+    "fr": "une peur bleue",
+    "en": "a terrible fear"
+   },
+   {
+    "fr": "C'était pas correct.",
+    "en": "That wasn't OK. (« correct » = OK, fine)",
+    "qc": true
+   },
+   {
+    "fr": "Je m'excuse.",
+    "en": "I'm sorry. (very common in Quebec; « excusez-moi » is the textbook form)",
+    "qc": true
+   },
+   {
+    "fr": "or",
+    "en": "now, yet (logical connector, formal)"
+   },
+   {
+    "fr": "confier",
+    "en": "to entrust"
+   },
+   {
+    "fr": "une chicane",
+    "en": "a fight, a quarrel",
+    "qc": true
+   }
+  ],
+  "questions": [
+   {
+    "q": "What did Patrick hear on Friday?",
+    "options": [
+     "Samir was getting a promotion",
+     "The director was leaving",
+     "Véronique told the director the plan was her idea"
+    ],
+    "a": 2,
+    "why": "« Véronique a dit à la directrice que le nouveau plan de livraison, c'était son idée. »"
+   },
+   {
+    "q": "What does Mme Tremblay advise Samir to do?",
+    "options": [
+     "Talk to Véronique calmly, one on one",
+     "Shout in the hallway",
+     "Write to the director"
+    ],
+    "a": 0,
+    "why": "She says the second option, « lui parler calmement, seul à seule », solves the problem."
+   },
+   {
+    "q": "Why did Véronique take credit for the plan?",
+    "options": [
+     "She honestly thought it was her idea",
+     "Her contract ends in March and she is afraid of losing her job",
+     "Patrick told her to"
+    ],
+    "a": 1,
+    "why": "« Son contrat se termine en mars... une peur bleue de perdre son emploi. »"
+   },
+   {
+    "q": "Véronique : « Je vais aller voir la directrice. » In reported speech: Véronique a dit qu'elle...",
+    "options": [
+     "allait aller voir la directrice",
+     "est allée voir la directrice",
+     "aille voir la directrice"
+    ],
+    "a": 0,
+    "why": "After a past reporting verb, the present (« je vais ») shifts to the imparfait (« elle allait »)."
+   },
+   {
+    "q": "What does « une chicane » mean?",
+    "options": [
+     "A chicken dish",
+     "A coffee break",
+     "A fight or quarrel"
+    ],
+    "a": 2,
+    "why": "In Quebec, « une chicane » is an argument; « se chicaner » = to argue."
+   }
+  ],
+  "quebec_note": "« Une chicane » (a quarrel) and « se chicaner » are everyday Quebec French. In Quebec « correct » often just means OK: « Ça va? — Correct! », and « c'est pas correct » means « that's not OK »."
+ },
+ {
+  "id": "b05",
+  "title": "Tabarouette, la Gaspésie!",
+  "level": "B1",
+  "week": 104,
+  "place": "Gaspésie (route 132, Percé)",
+  "summary": "On a road trip to Percé, Kevin's old car breaks down on Route 132, and a Gaspésie mechanic with a thick accent turns the disaster into the best day of the trip.",
+  "text": [
+   "En août, Samir, Jessica et Kevin partent en road trip vers Percé. Au programme : mille kilomètres de route, une glacière pleine de sandwichs et une vieille Corolla que Kevin appelle « la Bête ». Jessica a préparé un itinéraire minute par minute. Kevin, lui, a préparé trois heures de vieilles chansons québécoises.",
+   "Après Rimouski, le fleuve devient si large qu'on ne voit plus l'autre rive. Samir colle son nez à la fenêtre, impressionné, pendant que Kevin chante faux, les fenêtres ouvertes.",
+   "Près de Sainte-Anne-des-Monts, une fumée blanche sort du capot. La Bête s'arrête au bord de la route 132, entre la montagne et le fleuve. Pas de réseau cellulaire. Kevin sort de l'auto et donne un coup de pied dans un pneu.",
+   "— Ah ben tabarouette! Voyons donc! Est neuve, cette pièce-là!",
+   "— Kevin, ton auto a vingt ans, dit Jessica.",
+   "— La pièce, je te parle de la pièce!",
+   "Une heure passe. Puis un vieux pick-up rouge s'arrête. Un homme en chemise à carreaux descend, ouvre le capot et se met à rire.",
+   "— Vous êtes pas dans le trouble, les jeunes, c'est juste le boyau. Mon garage est à cinq minutes. Embarquez!",
+   "Samir ne comprend qu'un mot sur trois. L'homme, Réjean, a l'accent gaspésien : il parle vite, avale la moitié des syllabes et termine presque toutes ses phrases par « là, là ».",
+   "Au garage, Réjean change le boyau en vingt minutes, puis il refuse qu'on le paie.",
+   "— Ah non, je veux pas une cenne! Envoye, allez plutôt manger du homard chez ma sœur, au bout du quai. Dites-y que c'est Réjean qui vous envoie, là, là.",
+   "Chez la sœur de Réjean, le homard est énorme et coûte moitié prix. Kevin en mange deux. Jessica jette son itinéraire à la poubelle : ils ont trois heures de retard, et c'est la plus belle journée du voyage.",
+   "Le lendemain matin, à cinq heures, ils arrivent enfin à Percé. Le soleil se lève derrière le Rocher, rose et doré. Personne ne parle pendant un long moment. Puis Samir murmure :",
+   "— C'est écœurant.",
+   "Kevin et Jessica le regardent, très fiers. Il y a un an, pour Samir, ce mot voulait seulement dire « dégoûtant ». Aujourd'hui, il sait qu'au Québec, il veut aussi dire « magnifique »."
+  ],
+  "dialogue_ok": true,
+  "glossary": [
+   {
+    "fr": "un road trip",
+    "en": "a road trip (anglicism common in Quebec)",
+    "qc": true
+   },
+   {
+    "fr": "une glacière",
+    "en": "a cooler"
+   },
+   {
+    "fr": "le capot",
+    "en": "the hood (of a car)"
+   },
+   {
+    "fr": "le réseau cellulaire",
+    "en": "cell coverage"
+   },
+   {
+    "fr": "Ah ben tabarouette!",
+    "en": "Well, darn it! (softened swear word)",
+    "qc": true
+   },
+   {
+    "fr": "Voyons donc!",
+    "en": "Come on! / You've got to be kidding!",
+    "qc": true
+   },
+   {
+    "fr": "Est neuve.",
+    "en": "It's new. (spoken « est » = elle est)",
+    "qc": true
+   },
+   {
+    "fr": "être dans le trouble",
+    "en": "to be in trouble (informal, from English)",
+    "qc": true
+   },
+   {
+    "fr": "le boyau",
+    "en": "the hose (here, a radiator hose)",
+    "qc": true
+   },
+   {
+    "fr": "Embarquez!",
+    "en": "Get in! (into a vehicle)",
+    "qc": true
+   },
+   {
+    "fr": "une cenne",
+    "en": "a cent, a penny (informal)",
+    "qc": true
+   },
+   {
+    "fr": "Envoye!",
+    "en": "Come on! / Go on! (informal)",
+    "qc": true
+   },
+   {
+    "fr": "Dites-y",
+    "en": "Tell him/her (informal for « dites-lui »)",
+    "qc": true
+   },
+   {
+    "fr": "le homard",
+    "en": "lobster"
+   },
+   {
+    "fr": "écœurant",
+    "en": "awesome (informal Quebec); standard meaning: disgusting",
+    "qc": true
+   }
+  ],
+  "questions": [
+   {
+    "q": "What happens near Sainte-Anne-des-Monts?",
+    "options": [
+     "The car breaks down",
+     "They run out of sandwiches",
+     "Jessica gets lost in the mountains"
+    ],
+    "a": 0,
+    "why": "« une fumée blanche sort du capot. La Bête s'arrête au bord de la route 132 »"
+   },
+   {
+    "q": "What is « tabarouette »?",
+    "options": [
+     "A town in Gaspésie",
+     "A kind of lobster",
+     "A softened version of a Quebec swear word"
+    ],
+    "a": 2,
+    "why": "« Tabarouette » is a mild form of « tabarnak », acceptable almost anywhere."
+   },
+   {
+    "q": "What does Réjean do instead of taking money?",
+    "options": [
+     "He asks for a ride to Percé",
+     "He sends them to eat lobster at his sister's place",
+     "He asks Kevin to sing a song"
+    ],
+    "a": 1,
+    "why": "« je veux pas une cenne! Envoye, allez plutôt manger du homard chez ma sœur »"
+   },
+   {
+    "q": "What does Jessica do with her itinerary?",
+    "options": [
+     "She throws it in the garbage",
+     "She gives it to Réjean",
+     "She loses it on the road"
+    ],
+    "a": 0,
+    "why": "« Jessica jette son itinéraire à la poubelle »"
+   },
+   {
+    "q": "When Samir says « C'est écœurant » at Percé, he means...",
+    "options": [
+     "It's disgusting",
+     "It's amazing",
+     "It's freezing"
+    ],
+    "a": 1,
+    "why": "In Quebec, « écœurant » often means « awesome » or « magnifique »."
+   }
+  ],
+  "quebec_note": "Quebec swear words (« sacres ») come from Catholic church vocabulary, like « tabarnak » (tabernacle). Softened versions such as « tabarouette » or « tabarnouche » are acceptable almost everywhere, even in front of your grandmother. Learn to recognize the strong ones before using any of them."
+ },
+ {
+  "id": "b06",
+  "title": "Les voleurs de minuit",
+  "level": "B1",
+  "week": 107,
+  "place": "Val-David (Laurentides)",
+  "summary": "At a family chalet in the Laurentides, Mme Tremblay's famous fudge vanishes overnight, along with Kevin's favourite tuque, and she investigates like a real detective.",
+  "text": [
+   "En février, Marc, le fils de Mme Tremblay, invite tout le monde à son chalet de Val-David : sa mère, sa femme Annie, leur fille Léa, Samir, Jessica et Kevin. Le premier soir, Mme Tremblay prépare son fameux sucre à la crème et laisse le plat refroidir sur le comptoir de la cuisine.",
+   "Le lendemain matin, le plat est vide. Il manque aussi un sac de chips, deux muffins... et la tuque préférée de Kevin.",
+   "— Quelqu'un a mangé mon sucre à la crème, annonce Mme Tremblay d'une voix glaciale. Personne ne sortira de ce chalet tant que le coupable n'aura pas avoué.",
+   "Les soupçons tombent d'abord sur Kevin, le plus gourmand du groupe.",
+   "— Voyons donc! J'aurais jamais volé ma propre tuque!",
+   "Puis sur Léa, qui adore le sucre.",
+   "— C'est pas moi! J'ai dormi toute la nuit, je le jure!",
+   "Jessica fait alors remarquer que Samir s'est levé vers deux heures du matin. Samir rougit.",
+   "— J'avais soif, c'est tout. Si j'avais voulu voler quelque chose, j'aurais été plus discret, crois-moi.",
+   "Mme Tremblay, elle, ne dit rien. Elle observe. Elle met ses lunettes et examine le comptoir, le plancher, la porte d'entrée. Sur le plancher, elle découvre de petites traces noires, comme des mains d'enfant. Puis elle remarque que la chatière, installée pour l'ancien chat de Marc, est légèrement ouverte.",
+   "— Léa, montre-moi tes mains. Propres. Bon. Ce n'est pas un enfant. Habillez-vous, tout le monde : on va suivre les traces.",
+   "Dehors, dans la neige fraîche, les petites traces mènent jusqu'au cabanon à bois. Marc ouvre doucement la porte. Dans un coin, couchés sur la tuque de Kevin, quatre ratons laveurs dorment, collés les uns contre les autres, entourés de papiers de muffins et du sac de chips vide. Le plus gros a encore du sucre à la crème sur le museau.",
+   "— Je m'excuse, Kevin, dit Jessica. J'aurais dû te croire.",
+   "— Ma tuque... murmure Kevin, ému. Ils ont l'air tellement bien dessus.",
+   "— Si on avait fermé la chatière, rien de ça ne serait arrivé, soupire Marc.",
+   "Le soir, Mme Tremblay refait du sucre à la crème, et cette fois, elle le cache dans le four. Avant d'aller se coucher, Kevin dépose discrètement une vieille couverture devant le cabanon.",
+   "— Au printemps, quand ils seront partis, je récupérerai ma tuque, dit-il. Peut-être."
+  ],
+  "dialogue_ok": true,
+  "glossary": [
+   {
+    "fr": "le sucre à la crème",
+    "en": "Quebec fudge (brown sugar, cream, butter)",
+    "qc": true
+   },
+   {
+    "fr": "le comptoir",
+    "en": "the counter"
+   },
+   {
+    "fr": "tant que... n'aura pas avoué",
+    "en": "until... has confessed (futur antérieur)"
+   },
+   {
+    "fr": "les soupçons",
+    "en": "suspicions"
+   },
+   {
+    "fr": "gourmand",
+    "en": "greedy (for food), sweet-toothed"
+   },
+   {
+    "fr": "J'aurais jamais volé...",
+    "en": "I would never have stolen... (spoken, « ne » dropped)",
+    "qc": true
+   },
+   {
+    "fr": "je le jure",
+    "en": "I swear"
+   },
+   {
+    "fr": "le plancher",
+    "en": "the floor (France: « le sol »)",
+    "qc": true
+   },
+   {
+    "fr": "la chatière",
+    "en": "the cat flap"
+   },
+   {
+    "fr": "le cabanon",
+    "en": "the shed",
+    "qc": true
+   },
+   {
+    "fr": "un raton laveur",
+    "en": "a raccoon"
+   },
+   {
+    "fr": "le museau",
+    "en": "the snout, the muzzle"
+   },
+   {
+    "fr": "j'aurais dû",
+    "en": "I should have (conditionnel passé of « devoir »)"
+   },
+   {
+    "fr": "récupérer",
+    "en": "to get back, to recover"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What disappears during the night?",
+    "options": [
+     "Mme Tremblay's glasses and the car keys",
+     "The fudge, a bag of chips, two muffins and Kevin's tuque",
+     "Léa's skates"
+    ],
+    "a": 1,
+    "why": "« le plat est vide. Il manque aussi un sac de chips, deux muffins... et la tuque préférée de Kevin. »"
+   },
+   {
+    "q": "« Personne ne sortira tant que le coupable n'aura pas avoué » means...",
+    "options": [
+     "Nobody will leave until the culprit has confessed",
+     "Nobody left because the culprit confessed",
+     "Nobody will confess before leaving"
+    ],
+    "a": 0,
+    "why": "The futur antérieur « n'aura pas avoué » describes an action that must be completed before another future event."
+   },
+   {
+    "q": "Which clues make Mme Tremblay think the thief is not a person?",
+    "options": [
+     "A broken window",
+     "Snoring in the attic",
+     "Small black prints like children's hands, and the open cat flap"
+    ],
+    "a": 2,
+    "why": "She finds « de petites traces noires, comme des mains d'enfant » and the « chatière... légèrement ouverte », and Léa's hands are clean."
+   },
+   {
+    "q": "« Si on avait fermé la chatière, rien de ça ne serait arrivé » expresses...",
+    "options": [
+     "a plan for the future",
+     "a regret about the past (if... had... would have)",
+     "an order"
+    ],
+    "a": 1,
+    "why": "Si + plus-que-parfait, then conditionnel passé: a type 3 « si » clause about an unreal past."
+   },
+   {
+    "q": "Where are the thieves found?",
+    "options": [
+     "Asleep on Kevin's tuque in the woodshed",
+     "Inside the oven",
+     "Under Léa's bed"
+    ],
+    "a": 0,
+    "why": "« Dans un coin, couchés sur la tuque de Kevin, quatre ratons laveurs dorment »"
+   }
+  ],
+  "quebec_note": "« Le sucre à la crème » is a rich Quebec fudge made with brown sugar, cream and butter, found at nearly every family gathering. In Quebec, « le plancher » is the everyday word for the floor and « le cabanon » for a garden or wood shed."
+ },
+ {
+  "id": "b07",
+  "title": "La bague de la Saint-Jean",
+  "level": "B1",
+  "week": 110,
+  "place": "Québec (plaines d'Abraham)",
+  "summary": "At the Fête nationale on the Plains of Abraham, Kevin plans to propose to Jessica at the bonfire, but Samir loses the ring in the crowd.",
+  "text": [
+   "Le 23 juin, Samir, sa mère, Jessica et Kevin prennent le train pour Québec. Ce soir, sur les plaines d'Abraham, des dizaines de milliers de personnes vont fêter la Saint-Jean. Mais Kevin a un autre plan. Dans un coin du wagon, il montre discrètement une petite boîte bleue à Samir.",
+   "— J'ai fait faire une bague chez un bijoutier du Vieux-Montréal. Je vais demander Jessica en mariage pendant le feu de joie. Garde-la pour moi; elle fouille toujours dans mes poches.",
+   "Samir, ému, glisse la boîte dans la poche de son short.",
+   "Sur les Plaines, l'ambiance est incroyable. Tout le monde est habillé en bleu et blanc, et des fleurdelisés flottent partout. La mère de Samir se fait maquiller une fleur de lys sur la joue. Jessica se laisse convaincre de danser avec un groupe d'inconnus. Kevin, très nerveux, se fait expliquer trois fois l'horaire du feu de joie par un bénévole.",
+   "À vingt-deux heures, Samir met la main dans sa poche. Elle est vide. La petite boîte a disparu.",
+   "— Kevin... On a un problème.",
+   "Kevin devient aussi blanc que la croix du fleurdelisé.",
+   "— Tu niaises? Dis-moi que tu niaises!",
+   "Ils refont tout leur chemin : la scène, les toilettes chimiques, le stand de maquillage. Ils se font bousculer par la foule et marchent dans des flaques de bière. Rien. Samir s'en veut terriblement. Sa mère, elle, garde son calme.",
+   "— Samir, réfléchis. À quel moment as-tu sorti quelque chose de cette poche?",
+   "Il ferme les yeux. Au kiosque de poutine, il a sorti son téléphone pour payer...",
+   "Ils courent jusqu'au kiosque. Derrière le comptoir, une jeune femme les voit arriver et lève une petite boîte bleue en souriant.",
+   "— C'est-tu ça que vous cherchez? Je l'ai trouvée dans le gazon, juste ici. Je me suis dit que quelqu'un allait revenir en panique. Je l'ai pas ouverte, promis!",
+   "Kevin la serre si fort dans ses bras qu'elle échappe sa louche pleine de sauce brune.",
+   "À vingt-trois heures, le feu de joie s'allume. Kevin se met à genou devant Jessica, dans l'herbe mouillée. Autour d'eux, des inconnus se taisent. Jessica pleure, rit, dit oui, puis regarde son nouveau fiancé de plus près.",
+   "— Mais là, pourquoi t'as de la sauce brune partout sur ta chemise?",
+   "Toute la foule se met à chanter. Personne ne sait vraiment pourquoi, mais à la Saint-Jean, ce n'est pas nécessaire."
+  ],
+  "dialogue_ok": true,
+  "glossary": [
+   {
+    "fr": "la Saint-Jean",
+    "en": "June 24, Quebec's Fête nationale (Saint-Jean-Baptiste Day)",
+    "qc": true
+   },
+   {
+    "fr": "faire faire quelque chose",
+    "en": "to have something done/made"
+   },
+   {
+    "fr": "un bijoutier",
+    "en": "a jeweller"
+   },
+   {
+    "fr": "demander quelqu'un en mariage",
+    "en": "to propose to someone"
+   },
+   {
+    "fr": "le feu de joie",
+    "en": "the bonfire"
+   },
+   {
+    "fr": "fouiller",
+    "en": "to rummage, to search through"
+   },
+   {
+    "fr": "le fleurdelisé",
+    "en": "the Quebec flag (blue with a white cross and four fleurs-de-lis)",
+    "qc": true
+   },
+   {
+    "fr": "se faire maquiller",
+    "en": "to get one's face painted / made up"
+   },
+   {
+    "fr": "se laisser convaincre",
+    "en": "to let oneself be persuaded"
+   },
+   {
+    "fr": "Tu niaises?",
+    "en": "Are you kidding me? (informal)",
+    "qc": true
+   },
+   {
+    "fr": "se faire bousculer",
+    "en": "to get pushed around, jostled"
+   },
+   {
+    "fr": "s'en vouloir",
+    "en": "to blame oneself"
+   },
+   {
+    "fr": "C'est-tu ça?",
+    "en": "Is that it? (« -tu » marks a yes/no question)",
+    "qc": true
+   },
+   {
+    "fr": "le gazon",
+    "en": "the grass, the lawn",
+    "qc": true
+   },
+   {
+    "fr": "échapper",
+    "en": "to drop (in Quebec; France: « laisser tomber »)",
+    "qc": true
+   }
+  ],
+  "questions": [
+   {
+    "q": "What is Kevin's secret plan?",
+    "options": [
+     "To move to Québec City",
+     "To sing on stage",
+     "To propose to Jessica during the bonfire"
+    ],
+    "a": 2,
+    "why": "« Je vais demander Jessica en mariage pendant le feu de joie. »"
+   },
+   {
+    "q": "« J'ai fait faire une bague » means...",
+    "options": [
+     "I made a ring myself",
+     "I had a ring made",
+     "I lost a ring"
+    ],
+    "a": 1,
+    "why": "Causative « faire » + infinitive: someone else made it for him."
+   },
+   {
+    "q": "Which question from Samir's mother helps find the ring?",
+    "options": [
+     "When he last took something out of that pocket",
+     "Whether Kevin really bought a ring",
+     "Where the toilets are"
+    ],
+    "a": 0,
+    "why": "« À quel moment as-tu sorti quelque chose de cette poche? » makes him remember the poutine stand."
+   },
+   {
+    "q": "Who finds the ring?",
+    "options": [
+     "A volunteer",
+     "Samir's mother",
+     "A young woman at the poutine stand"
+    ],
+    "a": 2,
+    "why": "« Derrière le comptoir, une jeune femme... lève une petite boîte bleue »"
+   },
+   {
+    "q": "With « Tu niaises? », Kevin is asking...",
+    "options": [
+     "Are you hungry?",
+     "Are you kidding me?",
+     "Are you lost?"
+    ],
+    "a": 1,
+    "why": "« Niaiser » = to joke around, to kid; « Tu niaises? » = are you kidding?"
+   }
+  ],
+  "quebec_note": "June 24 is Quebec's Fête nationale, still widely called « la Saint-Jean » after Saint-Jean-Baptiste. People dress in blue and white, wave the « fleurdelisé » and gather around big bonfires; the show on the Plaines d'Abraham in Québec City is one of the biggest celebrations of the year."
+ },
+ {
+  "id": "b08",
+  "title": "Les lignes sont ouvertes",
+  "level": "B1",
+  "week": 116,
+  "place": "Montréal (radio)",
+  "summary": "A transcript of a radio call-in show debating whether Quebec's July 1st moving day should be abolished, with some very familiar callers.",
+  "text": [
+   "Transcription de l'émission « La parole est à vous », sur les ondes de Radio Plateau 101,7. Thème du jour : faudrait-il abolir la journée du déménagement du 1er juillet?",
+   "SYLVIE (animatrice) : Bonjour, bonjour! Chaque année, des milliers de ménages québécois déménagent le même jour. Faut-il mettre fin à cette tradition? Les lignes sont ouvertes! Premier appel : Gisèle, du Plateau. Bonjour, Gisèle!",
+   "GISÈLE : Bonjour, Sylvie. Écoutez, moi, j'ai déménagé onze fois dans ma vie, toujours le 1er juillet. C'est fatigant, c'est sûr, mais c'est une tradition! Tout le monde s'entraide... À mon avis, si on l'abolit, on perd un morceau de notre culture.",
+   "SYLVIE : Merci, Gisèle. Deuxième appel : Kevin, de Rosemont.",
+   "KEVIN : Ouais, allô! Ben moi, je suis pas d'accord pantoute avec madame. L'année passée, on a passé six heures à essayer de monter un divan vert dans un escalier en colimaçon. Six heures! Mon dos s'en souvient encore. Faut que ça arrête!",
+   "SYLVIE : Et vous l'avez monté?",
+   "KEVIN : Non. On l'a vendu au voisin, qui l'a monté par le balcon. Avec une corde.",
+   "SYLVIE : (rires) Merci, Kevin. On a maintenant Réal, propriétaire à Laval.",
+   "RÉAL : Bonjour. Je comprends les locataires, mais pour nous, les propriétaires, c'est pratique : presque tous les baux se terminent en même temps. Cela dit, pour les familles à faible revenu, chercher un logement le même jour que tout le monde, c'est un vrai cauchemar. Il faudrait plus de flexibilité.",
+   "SYLVIE : Merci, Réal. Dernier appel : Samir, du Plateau. Vous n'êtes pas né au Québec, je pense?",
+   "SAMIR : Non, je viens de Toronto. Au début, je croyais que c'était une blague. Mais j'ai vite compris que c'était aussi une façon de connaître ses voisins. Mon premier 1er juillet, j'ai aidé des amis à déménager; aujourd'hui, ce sont mes meilleurs amis. Bref, je dirais : on garde la tradition, mais on interdit les escaliers en colimaçon.",
+   "SYLVIE : Voilà une proposition concrète! Oh, Gisèle nous rappelle?",
+   "GISÈLE : Excusez-moi, ce n'est pas pour le débat. Mon chat est sorti pendant que je vous parlais. S'il y a des auditeurs sur la rue Saint-Denis... Il s'appelle Caramel, il est gros et orange, et il répond seulement au bruit d'une boîte de thon.",
+   "SYLVIE : Vous avez entendu, chers auditeurs? Ouvrez vos boîtes de thon! On se retrouve après la pause."
+  ],
+  "dialogue_ok": true,
+  "glossary": [
+   {
+    "fr": "une émission",
+    "en": "a (radio or TV) show"
+   },
+   {
+    "fr": "sur les ondes de",
+    "en": "on the air of (a station)"
+   },
+   {
+    "fr": "l'animatrice",
+    "en": "the host (f.)"
+   },
+   {
+    "fr": "un ménage",
+    "en": "a household"
+   },
+   {
+    "fr": "s'entraider",
+    "en": "to help one another"
+   },
+   {
+    "fr": "Ouais, allô!",
+    "en": "Yeah, hi! (« allô » is also a casual hello in person)",
+    "qc": true
+   },
+   {
+    "fr": "pas... pantoute",
+    "en": "not at all (informal)",
+    "qc": true
+   },
+   {
+    "fr": "l'année passée",
+    "en": "last year (very common in Quebec; also « l'année dernière »)",
+    "qc": true
+   },
+   {
+    "fr": "un escalier en colimaçon",
+    "en": "a spiral staircase"
+   },
+   {
+    "fr": "un bail (des baux)",
+    "en": "a lease (leases)"
+   },
+   {
+    "fr": "à faible revenu",
+    "en": "low-income"
+   },
+   {
+    "fr": "cela dit",
+    "en": "that said"
+   },
+   {
+    "fr": "bref",
+    "en": "in short, anyway"
+   },
+   {
+    "fr": "un auditeur, une auditrice",
+    "en": "a listener"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What is Gisèle's opinion about July 1st?",
+    "options": [
+     "It's tiring, but it's a tradition worth keeping",
+     "It should be abolished immediately",
+     "It should be moved to January"
+    ],
+    "a": 0,
+    "why": "« C'est fatigant, c'est sûr, mais c'est une tradition! »"
+   },
+   {
+    "q": "What does Kevin mean by « je suis pas d'accord pantoute »?",
+    "options": [
+     "I partly agree",
+     "I completely agree",
+     "I don't agree at all"
+    ],
+    "a": 2,
+    "why": "« Pantoute » = not at all; it reinforces the negation."
+   },
+   {
+    "q": "According to Réal, why is July 1st practical for landlords?",
+    "options": [
+     "Rents are higher in summer",
+     "Almost all leases end at the same time",
+     "Tenants do the repairs themselves"
+    ],
+    "a": 1,
+    "why": "« presque tous les baux se terminent en même temps »"
+   },
+   {
+    "q": "What does Samir propose?",
+    "options": [
+     "Keep the tradition but ban spiral staircases",
+     "Abolish moving day",
+     "Only allow moving in winter"
+    ],
+    "a": 0,
+    "why": "« on garde la tradition, mais on interdit les escaliers en colimaçon »"
+   },
+   {
+    "q": "Why does Gisèle call back?",
+    "options": [
+     "To change her opinion",
+     "To win a prize",
+     "Her cat Caramel has got out"
+    ],
+    "a": 2,
+    "why": "« Mon chat est sorti pendant que je vous parlais. »"
+   }
+  ],
+  "quebec_note": "Because most residential leases in Quebec traditionally end on June 30, July 1st became « la journée du déménagement », when a huge number of households move at once. Call-in shows (« les lignes ouvertes ») are a big part of Quebec radio, and « pantoute » (from « pas en tout ») is a very common spoken way to say « pas du tout »."
+ },
+ {
+  "id": "b09",
+  "title": "La mise en demeure",
+  "level": "B1",
+  "week": 118,
+  "place": "Montréal (Plateau)",
+  "summary": "Samir's bathroom ceiling has been leaking for weeks and his landlord won't answer, so Mme Tremblay helps him write a formal notice, with an embarrassing result.",
+  "text": [
+   "Depuis trois semaines, une tache brune grandit au plafond de la salle de bain de Samir. Chaque soir, une goutte tombe dans un seau : plic... plic. Samir a appelé son propriétaire, M. Bouchard, cinq fois. Il a laissé des messages, envoyé des textos. Aucune réponse.",
+   "Un soir, l'eau coule pour de bon. Découragé, Samir monte chez Mme Tremblay, qui habite au-dessus.",
+   "— J'en ai plein mon casque, madame. Il répond jamais!",
+   "— Alors il est temps d'écrire une vraie lettre, dit-elle en sortant son stylo. Une mise en demeure, envoyée par courrier recommandé. Ça, ils le lisent toujours.",
+   "Montréal, le 14 mars. Monsieur Bouchard, Objet : Mise en demeure – infiltration d'eau, appartement 2.",
+   "Monsieur, par la présente, je vous informe qu'une infiltration d'eau endommage le plafond de ma salle de bain depuis le 20 février. Malgré cinq appels et plusieurs messages écrits, aucune réparation n'a été effectuée.",
+   "Conformément au Code civil du Québec, le propriétaire est tenu de maintenir le logement en bon état. Je vous demande donc de faire effectuer les réparations nécessaires dans un délai de dix jours suivant la réception de la présente. À défaut, je me verrai dans l'obligation de m'adresser au Tribunal administratif du logement.",
+   "Veuillez agréer, Monsieur, l'expression de mes salutations distinguées. Samir, locataire de l'appartement 2.",
+   "Trois jours plus tard, on frappe à la porte. Ce n'est pas M. Bouchard, mais une femme d'une cinquantaine d'années, la lettre à la main.",
+   "— Bonjour, je suis Nathalie, la fille de M. Bouchard. Mon père s'est fait opérer de la hanche le mois passé, et il n'a pas écouté ses messages. Je suis vraiment désolée. J'ai amené un plombier.",
+   "Le plombier examine le plafond, puis monte à l'étage. Dix minutes plus tard, il redescend en souriant.",
+   "— J'ai trouvé votre fuite. Le joint du bain d'en haut est fendu. Pis y a un gros chat orange qui s'amuse à ouvrir le robinet.",
+   "Samir lève lentement les yeux. Mme Tremblay apparaît dans l'escalier, rouge comme une tomate, Caramel dans les bras.",
+   "— Ah ben... Je t'ai aidé à écrire une mise en demeure contre ma propre baignoire!",
+   "Les réparations sont faites en deux jours. Nathalie accorde à Samir une réduction d'un demi-mois de loyer pour les inconvénients. Quant à Caramel, il est désormais interdit de salle de bain. Il n'a pas encore reçu de mise en demeure, mais Mme Tremblay y pense."
+  ],
+  "dialogue_ok": true,
+  "glossary": [
+   {
+    "fr": "une tache",
+    "en": "a stain"
+   },
+   {
+    "fr": "un seau",
+    "en": "a bucket"
+   },
+   {
+    "fr": "J'en ai plein mon casque.",
+    "en": "I'm fed up. (literally: my helmet is full)",
+    "qc": true
+   },
+   {
+    "fr": "une mise en demeure",
+    "en": "a formal notice, a demand letter"
+   },
+   {
+    "fr": "le courrier recommandé",
+    "en": "registered mail"
+   },
+   {
+    "fr": "par la présente",
+    "en": "hereby (formal letters)"
+   },
+   {
+    "fr": "une infiltration d'eau",
+    "en": "water leaking in, water damage"
+   },
+   {
+    "fr": "conformément à",
+    "en": "in accordance with"
+   },
+   {
+    "fr": "être tenu de",
+    "en": "to be required to"
+   },
+   {
+    "fr": "à défaut",
+    "en": "failing that, otherwise"
+   },
+   {
+    "fr": "le Tribunal administratif du logement",
+    "en": "Quebec's housing tribunal for landlord–tenant disputes (TAL)",
+    "qc": true
+   },
+   {
+    "fr": "Veuillez agréer... mes salutations distinguées",
+    "en": "Yours sincerely (formal closing)"
+   },
+   {
+    "fr": "le mois passé",
+    "en": "last month (very common in Quebec)",
+    "qc": true
+   },
+   {
+    "fr": "une fuite",
+    "en": "a leak"
+   },
+   {
+    "fr": "le robinet",
+    "en": "the faucet, the tap"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Why does Samir write a formal letter?",
+    "options": [
+     "His rent went up",
+     "His ceiling has been leaking for three weeks and the landlord doesn't answer",
+     "His neighbour is too noisy"
+    ],
+    "a": 1,
+    "why": "There is a growing stain and drip, and after five calls: « Aucune réponse. »"
+   },
+   {
+    "q": "In the letter, what will Samir do if nothing is repaired within ten days?",
+    "options": [
+     "Stop paying rent",
+     "Move out on July 1st",
+     "Take the matter to the Tribunal administratif du logement"
+    ],
+    "a": 2,
+    "why": "« À défaut, je me verrai dans l'obligation de m'adresser au Tribunal administratif du logement. »"
+   },
+   {
+    "q": "Why didn't M. Bouchard answer Samir?",
+    "options": [
+     "He had hip surgery and didn't listen to his messages",
+     "He was on vacation in Florida",
+     "He didn't care about his tenants"
+    ],
+    "a": 0,
+    "why": "« Mon père s'est fait opérer de la hanche le mois passé, et il n'a pas écouté ses messages. »"
+   },
+   {
+    "q": "Where does the leak come from?",
+    "options": [
+     "The roof",
+     "Mme Tremblay's bathtub, with help from Caramel",
+     "Samir's washing machine"
+    ],
+    "a": 1,
+    "why": "« Le joint du bain d'en haut est fendu », and a big orange cat plays with the faucet."
+   },
+   {
+    "q": "« J'en ai plein mon casque » means...",
+    "options": [
+     "My helmet is full",
+     "I have a headache",
+     "I'm fed up"
+    ],
+    "a": 2,
+    "why": "It is a colourful Quebec expression for being fed up."
+   }
+  ],
+  "quebec_note": "In Quebec, a tenant with an unresolved problem usually sends a « mise en demeure » by registered mail before going to the Tribunal administratif du logement (TAL), which handles landlord–tenant disputes. « J'en ai plein mon casque » is a colourful Quebec way to say you've had enough."
+ },
+ {
+  "id": "b10",
+  "title": "Les faux amis de Nadia",
+  "level": "B1",
+  "week": 124,
+  "place": "Montréal (Villeray)",
+  "summary": "Samir's mother Nadia has a job interview at a neighbourhood library, and the false friends her son warned her about keep trying to trip her up.",
+  "text": [
+   "Nadia, la mère de Samir, a été bibliothécaire à Toronto pendant vingt-cinq ans. Depuis son arrivée à Montréal, elle étudie le français tous les jours. Aujourd'hui, elle passe une entrevue pour un poste à la bibliothèque de Villeray. La veille, Samir lui a fait réviser une liste de faux amis.",
+   "— Maman, rappelle-toi : une « librairie », c'est un magasin de livres. « Actuellement », ça veut dire « en ce moment ». Et surtout, ne dis pas que tu es « excitée ». Dis que tu as hâte.",
+   "Le lendemain, M. Lavoie, le directeur, l'accueille avec un grand sourire.",
+   "— Alors, madame, parlez-moi de votre parcours.",
+   "— Bien sûr. J'ai travaillé vingt-cinq ans dans une grande librairie publique... Non! Pardon. Une bibliothèque publique. On ne vendait pas les livres. Enfin, j'espère.",
+   "M. Lavoie éclate de rire, et Nadia se détend un peu.",
+   "— Et pourquoi voulez-vous ce poste?",
+   "— Parce que je suis très exci... très enthousiaste! J'ai hâte de travailler avec les nouveaux arrivants. Actuellement, et je dis bien « en ce moment », je donne des cours de conversation anglaise comme bénévole au centre communautaire.",
+   "— Parfait. Une dernière question : comment réagiriez-vous si un usager devenait agressif?",
+   "Nadia réfléchit.",
+   "— D'abord, je resterais calme et je l'écouterais. Il ne faut pas être trop sensible... non, susceptible. Je veux dire qu'il ne faut pas le prendre personnellement. Et éventuellement, c'est-à-dire si c'est nécessaire, et pas « à la fin », j'appellerais la sécurité.",
+   "M. Lavoie pose son stylo.",
+   "— Madame, vous savez ce que j'apprécie? Vous vous corrigez vous-même, avec humour. C'est exactement ce que nos usagers ont besoin de voir : qu'on peut faire des erreurs et continuer à parler. Présentement, on cherche quelqu'un pour animer un club de conversation pour nouveaux arrivants. Ça vous intéresserait?",
+   "Le soir, Nadia appelle son fils.",
+   "— Samir, j'ai eu le poste! Je commence lundi.",
+   "— Bravo, maman! Je suis tellement fier de toi. As-tu dit que tu étais excitée?",
+   "— Presque. Mais je me suis rattrapée juste à temps.",
+   "Elle raccroche, puis elle appelle Mme Tremblay, qui insiste pour fêter ça avec du sucre à la crème. Cette fois, il est caché dans le four, et Caramel est enfermé dans le salon."
+  ],
+  "dialogue_ok": true,
+  "glossary": [
+   {
+    "fr": "un faux ami",
+    "en": "a false friend (a word that looks like English but means something else)"
+   },
+   {
+    "fr": "un/une bibliothécaire",
+    "en": "a librarian"
+   },
+   {
+    "fr": "une librairie",
+    "en": "a bookstore (not a library!)"
+   },
+   {
+    "fr": "une entrevue",
+    "en": "a job interview (France: « un entretien »)",
+    "qc": true
+   },
+   {
+    "fr": "la veille",
+    "en": "the day before"
+   },
+   {
+    "fr": "actuellement",
+    "en": "currently (not « actually »)"
+   },
+   {
+    "fr": "avoir hâte",
+    "en": "to look forward to, can't wait",
+    "qc": true
+   },
+   {
+    "fr": "le parcours",
+    "en": "background, career path"
+   },
+   {
+    "fr": "un usager",
+    "en": "a user (of a public service)"
+   },
+   {
+    "fr": "sensible",
+    "en": "sensitive (not « sensible »)"
+   },
+   {
+    "fr": "susceptible",
+    "en": "touchy, easily offended"
+   },
+   {
+    "fr": "éventuellement",
+    "en": "possibly, if need be (not « eventually »)"
+   },
+   {
+    "fr": "présentement",
+    "en": "currently, right now",
+    "qc": true
+   },
+   {
+    "fr": "animer",
+    "en": "to lead, to host (a group or activity)"
+   },
+   {
+    "fr": "se rattraper",
+    "en": "to catch oneself, to recover (from a mistake)"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What does « une librairie » mean?",
+    "options": [
+     "A bookstore",
+     "A library",
+     "A bookshelf"
+    ],
+    "a": 0,
+    "why": "« Une librairie, c'est un magasin de livres. » A library is « une bibliothèque »."
+   },
+   {
+    "q": "What does Samir tell his mother to say instead of « je suis excitée »?",
+    "options": [
+     "Je suis éventuelle",
+     "J'ai hâte",
+     "Je suis sensible"
+    ],
+    "a": 1,
+    "why": "« ne dis pas que tu es « excitée ». Dis que tu as hâte. »"
+   },
+   {
+    "q": "In French, « éventuellement » means...",
+    "options": [
+     "eventually, in the end",
+     "immediately",
+     "possibly, if necessary"
+    ],
+    "a": 2,
+    "why": "Nadia explains: « c'est-à-dire si c'est nécessaire, et pas « à la fin » »."
+   },
+   {
+    "q": "What does M. Lavoie appreciate about Nadia?",
+    "options": [
+     "She corrects her own mistakes with humour",
+     "She speaks perfect French",
+     "She has a degree from a Montréal university"
+    ],
+    "a": 0,
+    "why": "« Vous vous corrigez vous-même, avec humour. »"
+   },
+   {
+    "q": "« Présentement », very common in Quebec, means...",
+    "options": [
+     "soon",
+     "currently, right now",
+     "as a gift"
+    ],
+    "a": 1,
+    "why": "« Présentement » = en ce moment, like « actuellement »."
+   }
+  ],
+  "quebec_note": "« Présentement » (currently) is far more common in Quebec than in France, and Quebecers say « une entrevue » for a job interview. « Avoir hâte » is the safe way to show enthusiasm: « être excité(e) » can sound overexcited, or even sexual, in some contexts."
+ }
+]

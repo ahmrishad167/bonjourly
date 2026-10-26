@@ -1,0 +1,658 @@
+{
+ "w": 146,
+ "title": "Review and checkpoint 8",
+ "goal": "By the end of this lesson you have reviewed the first B2 block (lessons 129–145), can spot its formal structures in an editorial, and can write a clear, neutral summary of an opinion piece.",
+ "learn": [
+  {
+   "h": "Register markers you can now recognise",
+   "body": [
+    "Lessons 129–133 and 141 gave you the tools that separate formal writing from speech. In an editorial, expect: *il est* + adjective + *de* (*Il est urgent d'agir*), *l'on* after *si, et, où, que* (*si l'on veut*), the expletive *ne* (*avant qu'il ne soit trop tard*), complex inversion (*Le gouvernement agira-t-il?*), inversion after *peut-être, sans doute, aussi* (*Aussi faut-il…*), and *cela* rather than *ça*.",
+    "Administrative prepositions also signal formal style: *à compter de, dès, en vertu de, conformément à, faute de, à défaut de, quant à*."
+   ],
+   "table": {
+    "head": [
+     "Spoken",
+     "Written / formal",
+     "Lesson"
+    ],
+    "rows": [
+     [
+      "C'est important de…",
+      "Il est important de…",
+      "129"
+     ],
+     [
+      "si on veut",
+      "si l'on veut",
+      "130"
+     ],
+     [
+      "avant qu'il parte",
+      "avant qu'il ne parte",
+      "131"
+     ],
+     [
+      "Le gouvernement va-tu agir?",
+      "Le gouvernement agira-t-il?",
+      "132"
+     ],
+     [
+      "à partir du 1er mai",
+      "à compter du 1er mai",
+      "133"
+     ],
+     [
+      "Ça montre que…",
+      "Cela montre que…",
+      "141"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Relative pronouns: the full set",
+   "body": [
+    "Lessons 136–138: *qui* (subject), *que* (object), *dont* (de + verb/adjective/noun), *où* (place, time), preposition + *lequel* (things), preposition + *qui* (people), *auquel* (à + lequel), *duquel* (compound preposition ending in *de*), and *ce qui / ce que / ce dont / ce à quoi* when there's no antecedent.",
+    "Editorials love them because they pack information: *Les mesures auxquelles le ministre fait référence…*, *la crise au cours de laquelle…*, *ce dont la population a besoin…*"
+   ]
+  },
+  {
+   "h": "Nouns, articles and adjectives",
+   "body": [
+    "Lesson 134: position changes meaning: *un ancien maire* (former) vs *un édifice ancien* (old); *un grand homme* vs *un homme grand*; *la semaine dernière* vs *la dernière semaine*.",
+    "Lesson 135: irregular plurals: *journaux, travaux, hôpitaux, festivals, pneus, genoux, yeux, gratte-ciels*. Lesson 139: articles: *de* after negation and quantity (*pas de logement, beaucoup de familles*), *la plupart des*, *de* before a plural adjective (*de graves problèmes*)."
+   ]
+  },
+  {
+   "h": "Pronouns and word-building",
+   "body": [
+    "Lesson 140: *y* and *en* with verbs and in expressions (*s'y faire, ne pas en revenir, en vouloir à*). Lesson 144: *s'en* verbs (*s'en sortir, s'en prendre à, s'en remettre*). Lessons 142–143: prefixes and suffixes let you decode new words: *imprévisible, surendettement, désengagement*.",
+    "Lesson 145: typography: Quebec puts a space before *:* and inside *« »*, but not before *; ! ?*; *25 $*, *4,5 %*, *14 h 30*."
+   ]
+  },
+  {
+   "h": "How to summarise an editorial",
+   "body": [
+    "1. Identify the topic and the author's thesis (often in the first or last paragraph). 2. List the main arguments, usually one per paragraph. 3. Note the conclusion or recommendation.",
+    "Write in the present tense, in the third person, in your own words, and stay neutral: *L'éditorialiste soutient que…*, *Selon l'auteure…*, *Il/Elle avance plusieurs arguments…*, *Il/Elle conclut que…*. A summary is about one quarter of the original length and never adds your opinion."
+   ],
+   "table": {
+    "head": [
+     "Function",
+     "Useful phrases"
+    ],
+    "rows": [
+     [
+      "Topic",
+      "Le texte porte sur… / Il est question de…"
+     ],
+     [
+      "Thesis",
+      "L'auteur soutient que… / affirme que…"
+     ],
+     [
+      "Arguments",
+      "D'abord, il souligne… Ensuite, il rappelle… Enfin, il dénonce…"
+     ],
+     [
+      "Concession",
+      "Il reconnaît toutefois que…"
+     ],
+     [
+      "Conclusion",
+      "Il conclut que… / Il plaide pour…"
+     ]
+    ]
+   },
+   "tip": "Summary verbs to vary: soutenir, affirmer, rappeler, souligner, dénoncer, déplorer, plaider pour, conclure."
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Il est urgent d'agir avant que la situation ne s'aggrave.",
+   "en": "It is urgent to act before the situation gets worse.",
+   "note": "il est + adj + de; expletive ne (129, 131)"
+  },
+  {
+   "fr": "Si l'on veut loger tout le monde, il faut construire davantage.",
+   "en": "If we want to house everyone, we must build more.",
+   "note": "l'on after si (130)"
+  },
+  {
+   "fr": "Le gouvernement osera-t-il imposer un gel des loyers?",
+   "en": "Will the government dare to impose a rent freeze?",
+   "note": "complex inversion (132)"
+  },
+  {
+   "fr": "Aussi faut-il revoir l'ensemble du programme.",
+   "en": "The whole program must therefore be reviewed.",
+   "note": "aussi + inversion (132)"
+  },
+  {
+   "fr": "La mesure entrera en vigueur à compter du 1er janvier.",
+   "en": "The measure will take effect as of January 1.",
+   "note": "administrative preposition (133)"
+  },
+  {
+   "fr": "L'ancien maire de Québec dénonce la décision.",
+   "en": "The former mayor of Quebec City condemns the decision.",
+   "note": "ancien before = former (134)"
+  },
+  {
+   "fr": "Les travaux dans les hôpitaux ont pris du retard.",
+   "en": "Work in the hospitals has fallen behind schedule.",
+   "note": "irregular plurals (135)"
+  },
+  {
+   "fr": "C'est un enjeu auquel la population est très sensible.",
+   "en": "It's an issue the public is very sensitive to.",
+   "note": "auquel (136)"
+  },
+  {
+   "fr": "La crise au cours de laquelle le ministre a démissionné a marqué les esprits.",
+   "en": "The crisis during which the minister resigned left a mark.",
+   "note": "de laquelle after au cours de (137)"
+  },
+  {
+   "fr": "Ce dont les familles ont besoin, c'est de logements abordables.",
+   "en": "What families need is affordable housing.",
+   "note": "ce dont (138)"
+  },
+  {
+   "fr": "Beaucoup de jeunes n'ont pas de logement stable.",
+   "en": "Many young people have no stable housing.",
+   "note": "de after quantity and negation (139)"
+  },
+  {
+   "fr": "Le ministre ne s'y attendait pas.",
+   "en": "The minister didn't expect it.",
+   "note": "y with s'attendre à (140)"
+  },
+  {
+   "fr": "Cela dit, la solution ne viendra pas uniquement de l'État.",
+   "en": "That said, the solution won't come from the state alone.",
+   "note": "cela dit (141)"
+  },
+  {
+   "fr": "Le surendettement des ménages est un problème imprévisible.",
+   "en": "Household over-indebtedness is an unpredictable problem.",
+   "note": "prefixes sur-, im-, pré- (142)"
+  },
+  {
+   "fr": "Plusieurs locataires ont du mal à s'en sortir.",
+   "en": "Many tenants are struggling to get by.",
+   "note": "s'en sortir (144)"
+  },
+  {
+   "fr": "L'éditorialiste soutient que le logement est un droit.",
+   "en": "The editorialist argues that housing is a right.",
+   "note": "summary phrase"
+  }
+ ],
+ "quebec": {
+  "intro": "Editorial reading in Quebec means La Presse, Le Devoir, Le Soleil or Radio-Canada opinion pages: formal written French. To summarise one for a friend, you switch registers. Here are formal editorial phrases next to how you might retell them casually.",
+  "items": [
+   {
+    "std": "L'éditorialiste soutient qu'il est urgent d'agir.",
+    "qc": "Le gars dans La Presse dit qu'y faut faire de quoi, pis vite.",
+    "en": "The editorialist argues that action is urgent.",
+    "note": "faire de quoi = do something; informal"
+   },
+   {
+    "std": "Le gouvernement agira-t-il?",
+    "qc": "Le gouvernement va-tu bouger?",
+    "en": "Will the government act?",
+    "note": "-tu particle; informal"
+   },
+   {
+    "std": "Si l'on veut des résultats…",
+    "qc": "Si on veut que ça change…",
+    "en": "If we want results…",
+    "note": "l'on is written only"
+   },
+   {
+    "std": "Cela n'a aucun sens.",
+    "qc": "Ça l'a pas d'allure.",
+    "en": "It makes no sense.",
+    "note": "ça l'a = ça a; informal"
+   },
+   {
+    "std": "Plusieurs familles ont du mal à s'en sortir.",
+    "qc": "Ben du monde arrivent pas à joindre les deux bouts.",
+    "en": "Lots of people can't make ends meet.",
+    "note": "ben du monde = many people; plural verb in speech; informal"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Formal: '___ important de consulter les citoyens.'",
+   "options": [
+    "Ça est",
+    "Il est",
+    "Il y a",
+    "C'est un"
+   ],
+   "a": 1,
+   "why": "Formal impersonal: il est + adjective + de (lesson 129)."
+  },
+  {
+   "t": "mcq",
+   "q": "'Avant qu'il ne soit trop tard' means…",
+   "options": [
+    "before it's too late",
+    "before it's not too late",
+    "unless it's too late",
+    "after it's too late"
+   ],
+   "a": 0,
+   "why": "Expletive ne: no negation (lesson 131)."
+  },
+  {
+   "t": "mcq",
+   "q": "La loi ___ le ministre fait référence…",
+   "options": [
+    "dont",
+    "à laquelle",
+    "auquel",
+    "que"
+   ],
+   "a": 1,
+   "why": "Faire référence à + loi (f.) → à laquelle (lesson 136)."
+  },
+  {
+   "t": "mcq",
+   "q": "'Un ancien député' is…",
+   "options": [
+    "an old MNA",
+    "a former MNA",
+    "an antique MNA",
+    "a senior MNA"
+   ],
+   "a": 1,
+   "why": "Ancien before = former (lesson 134)."
+  },
+  {
+   "t": "mcq",
+   "q": "In a summary, which is appropriate?",
+   "options": [
+    "Je pense que l'auteur a raison.",
+    "L'auteure soutient que…",
+    "À mon avis, c'est nul.",
+    "Faque, y dit que…"
+   ],
+   "a": 1,
+   "why": "A summary is neutral, third person, formal."
+  },
+  {
+   "t": "fill",
+   "q": "Le parc au milieu ___ se trouve la statue sera rénové.",
+   "a": [
+    "duquel"
+   ],
+   "en": "The park in the middle of which the statue stands will be renovated.",
+   "why": "Au milieu de + masculine → duquel (lesson 137)."
+  },
+  {
+   "t": "fill",
+   "q": "Les ___ sont débordés cet hiver. (hôpital, plural)",
+   "a": [
+    "hôpitaux"
+   ],
+   "en": "Hospitals are overwhelmed this winter.",
+   "why": "-al → -aux (lesson 135)."
+  },
+  {
+   "t": "fill",
+   "q": "Il n'y a pas ___ solution simple.",
+   "a": [
+    "de"
+   ],
+   "en": "There's no simple solution.",
+   "why": "Une → de after negation (lesson 139)."
+  },
+  {
+   "t": "fill",
+   "q": "Peut-être le premier ministre ___-t-il. (reculer, futur)",
+   "a": [
+    "reculera"
+   ],
+   "en": "Perhaps the premier will back down.",
+   "why": "Peut-être + complex inversion (lesson 132)."
+  },
+  {
+   "t": "fill",
+   "q": "___ dit, le projet reste coûteux. (formal 'that')",
+   "a": [
+    "Cela"
+   ],
+   "en": "That said, the project remains costly.",
+   "why": "Cela dit in writing (lesson 141)."
+  },
+  {
+   "t": "build",
+   "en": "What families need is affordable housing.",
+   "a": "Ce dont les familles ont besoin, c'est de logements abordables."
+  },
+  {
+   "t": "build",
+   "en": "The author concludes that we must act.",
+   "a": "L'auteur conclut qu'il faut agir."
+  },
+  {
+   "t": "translate",
+   "en": "Many tenants are struggling to get by.",
+   "a": [
+    "Beaucoup de locataires ont du mal à s'en sortir.",
+    "Plusieurs locataires ont du mal à s'en sortir.",
+    "Beaucoup de locataires ont de la difficulté à s'en sortir.",
+    "Plusieurs locataires ont de la difficulté à s'en sortir."
+   ],
+   "why": "Beaucoup de + s'en sortir (lessons 139, 144)."
+  },
+  {
+   "t": "translate",
+   "en": "The rent is $1,200.",
+   "a": [
+    "Le loyer est de 1 200 $.",
+    "Le loyer coûte 1 200 $.",
+    "Le loyer est de 1200 $."
+   ],
+   "why": "Space for thousands, $ after (lesson 145)."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "l'éditorial",
+   "en": "editorial",
+   "g": "m",
+   "ex": "L'éditorial du Devoir porte sur le logement."
+  },
+  {
+   "fr": "l'éditorialiste",
+   "en": "editorialist",
+   "ex": "L'éditorialiste critique le gouvernement."
+  },
+  {
+   "fr": "le résumé",
+   "en": "summary",
+   "g": "m",
+   "ex": "Faites un résumé de 120 mots."
+  },
+  {
+   "fr": "la thèse",
+   "en": "thesis, main argument",
+   "g": "f",
+   "ex": "La thèse de l'auteure est claire."
+  },
+  {
+   "fr": "soutenir que",
+   "en": "to argue, maintain that",
+   "ex": "Il soutient que la taxe est injuste."
+  },
+  {
+   "fr": "souligner",
+   "en": "to emphasise, point out",
+   "ex": "Elle souligne l'urgence de la situation."
+  },
+  {
+   "fr": "dénoncer",
+   "en": "to condemn, denounce",
+   "ex": "Le syndicat dénonce les compressions."
+  },
+  {
+   "fr": "déplorer",
+   "en": "to deplore, regret",
+   "ex": "L'auteur déplore l'inaction."
+  },
+  {
+   "fr": "plaider pour",
+   "en": "to argue for, advocate",
+   "ex": "Elle plaide pour un gel des loyers."
+  },
+  {
+   "fr": "l'enjeu",
+   "en": "issue, stake",
+   "g": "m",
+   "ex": "Le logement est un enjeu majeur."
+  },
+  {
+   "fr": "le gel des loyers",
+   "en": "rent freeze",
+   "g": "m",
+   "ex": "Les locataires réclament un gel des loyers."
+  },
+  {
+   "fr": "le ménage",
+   "en": "household; housework",
+   "g": "m",
+   "ex": "Les ménages s'endettent."
+  },
+  {
+   "fr": "s'aggraver",
+   "en": "to get worse",
+   "ex": "La crise s'aggrave."
+  },
+  {
+   "fr": "joindre les deux bouts",
+   "en": "to make ends meet",
+   "ex": "Ils ont du mal à joindre les deux bouts."
+  },
+  {
+   "fr": "faire de quoi",
+   "en": "to do something (informal)",
+   "ex": "Faut faire de quoi!",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "éditorialiste",
+    "tip": "[é-di-to-rya-LIST]."
+   },
+   {
+    "fr": "agira-t-il",
+    "tip": "[a-ji-ra-TIL]."
+   },
+   {
+    "fr": "avant qu'il ne soit",
+    "tip": "[a-van kil nuh SWA]."
+   },
+   {
+    "fr": "à compter du",
+    "tip": "Silent p: [a kon-té DU]."
+   },
+   {
+    "fr": "auxquelles",
+    "tip": "[o-KÈL]."
+   },
+   {
+    "fr": "les hôpitaux",
+    "tip": "Liaison in [z]: [lé-zo-pi-TO]."
+   }
+  ],
+  "title": "Éditorial : se loger, un droit",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Le 1er juillet approche, et des centaines de familles ne savent toujours pas où elles habiteront.",
+    "en": "July 1 is approaching, and hundreds of families still don't know where they will live."
+   },
+   {
+    "s": "A",
+    "fr": "Il est urgent d'agir avant que la crise ne s'aggrave davantage.",
+    "en": "It is urgent to act before the crisis worsens further."
+   },
+   {
+    "s": "A",
+    "fr": "Certes, Québec a annoncé la construction de 8 000 logements. Cela dit, faute de main-d'œuvre, les chantiers avancent lentement.",
+    "en": "Admittedly, Quebec announced the construction of 8,000 units. That said, for lack of workers, construction is moving slowly."
+   },
+   {
+    "s": "A",
+    "fr": "Ce dont les ménages ont besoin, ce n'est pas d'une promesse, mais d'un toit.",
+    "en": "What households need is not a promise, but a roof."
+   },
+   {
+    "s": "A",
+    "fr": "Le gouvernement osera-t-il imposer un registre des loyers? Si l'on veut protéger les locataires, il le faut.",
+    "en": "Will the government dare to impose a rent registry? If we want to protect tenants, it must."
+   },
+   {
+    "s": "B",
+    "fr": "Bon, si je résume : l'éditorialiste soutient que la crise est urgente, reconnaît les efforts de Québec, mais plaide pour un registre des loyers.",
+    "en": "OK, to sum up: the editorialist argues the crisis is urgent, acknowledges Quebec's efforts, but argues for a rent registry."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What date is approaching in the editorial?",
+    "options": [
+     "June 24",
+     "July 1",
+     "January 1"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Why are construction projects slow?",
+    "options": [
+     "Lack of money",
+     "Lack of workers",
+     "Bad weather"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does the editorialist call for?",
+    "options": [
+     "A rent freeze",
+     "A rent registry",
+     "Tax cuts"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Summarise the editorial 'Se loger, un droit' aloud in 45 seconds, in neutral formal French.",
+   "model": "Le texte porte sur la crise du logement à l'approche du 1er juillet. L'éditorialiste soutient qu'il est urgent d'agir. Il reconnaît que Québec a annoncé 8 000 logements, mais souligne que les chantiers avancent lentement, faute de main-d'œuvre. Il conclut en plaidant pour un registre des loyers afin de protéger les locataires."
+  },
+  {
+   "prompt": "Now retell the same editorial to a friend, casually.",
+   "model": "J'ai lu un édito dans La Presse. En gros, y dit que la crise du logement, ça l'a pas d'allure, pis que le gouvernement doit faire de quoi avant le 1er juillet. Y veut un registre des loyers."
+  },
+  {
+   "prompt": "Give your own opinion in four sentences, using at least two structures from the block.",
+   "model": "À mon avis, il est indispensable de créer ce registre. Si l'on ne contrôle pas les hausses, beaucoup de familles ne s'en sortiront pas. Cela dit, il faudra aussi former plus de travailleurs de la construction. Le gouvernement en aura-t-il le courage?"
+  }
+ ],
+ "write": {
+  "prompt": "Write a neutral summary (100–120 words) of the editorial in this lesson's listening section. Third person, present tense, no personal opinion. Use at least three summary verbs.",
+  "model": "Dans cet éditorial, l'auteur aborde la crise du logement à l'approche du 1er juillet, date à laquelle des centaines de familles risquent de se retrouver sans toit. Il soutient qu'il est urgent d'agir avant que la situation ne s'aggrave. Il reconnaît que le gouvernement du Québec a annoncé la construction de 8 000 logements, mais il souligne que les chantiers avancent lentement, faute de main-d'œuvre. Selon lui, ce dont les ménages ont besoin, ce sont des logements concrets plutôt que des promesses. Il conclut en plaidant pour la création d'un registre des loyers, mesure qu'il juge nécessaire pour protéger les locataires."
+ },
+ "quiz": [
+  {
+   "q": "Which is a formal written marker?",
+   "options": [
+    "si on veut",
+    "si l'on veut",
+    "si on veut-tu",
+    "si ça veut"
+   ],
+   "a": 1,
+   "why": "L'on after si (lesson 130)."
+  },
+  {
+   "q": "'Le premier ministre reculera-t-il?' is an example of…",
+   "options": [
+    "simple inversion",
+    "complex inversion",
+    "a Quebec -tu question",
+    "reported speech"
+   ],
+   "a": 1,
+   "why": "Noun + verb + -t-il (lesson 132)."
+  },
+  {
+   "q": "'Dès réception' means…",
+   "options": [
+    "before receipt",
+    "upon receipt",
+    "without receipt",
+    "after a delay"
+   ],
+   "a": 1,
+   "why": "Dès = as soon as (lesson 133)."
+  },
+  {
+   "q": "Plural of 'un festival'?",
+   "options": [
+    "festivaux",
+    "festivals",
+    "festivales",
+    "festivalx"
+   ],
+   "a": 1,
+   "why": "Exception list: bals, carnavals, festivals… (lesson 135)."
+  },
+  {
+   "q": "'Ce ___ je pense, c'est l'avenir.' (penser à)",
+   "options": [
+    "dont",
+    "à quoi",
+    "que",
+    "qui"
+   ],
+   "a": 1,
+   "why": "Ce à quoi (lesson 138)."
+  },
+  {
+   "q": "'Il s'en est pris au ministre' means…",
+   "options": [
+    "He took the minister's side.",
+    "He attacked the minister.",
+    "He left with the minister.",
+    "He relied on the minister."
+   ],
+   "a": 1,
+   "why": "S'en prendre à (lesson 144)."
+  },
+  {
+   "q": "A good summary should…",
+   "options": [
+    "give your opinion",
+    "copy key sentences word for word",
+    "restate the main ideas neutrally, in your own words",
+    "be longer than the original"
+   ],
+   "a": 2,
+   "why": "Neutral, condensed, reformulated."
+  },
+  {
+   "q": "Quebec typography: which is correct?",
+   "options": [
+    "Pourquoi ?",
+    "Pourquoi?",
+    "Pourquoi ,?",
+    "Pourquoi .?"
+   ],
+   "a": 1,
+   "why": "No space before ? in Quebec (lesson 145)."
+  },
+  {
+   "q": "'Surendettement' means…",
+   "options": [
+    "debt repayment",
+    "excessive debt",
+    "under-indebtedness",
+    "debt-free"
+   ],
+   "a": 1,
+   "why": "Sur- = too much (lesson 142)."
+  }
+ ]
+}

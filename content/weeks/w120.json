@@ -1,0 +1,668 @@
+{
+ "w": 120,
+ "title": "Review and checkpoint 7",
+ "goal": "By the end of this lesson you can show you've mastered lessons 104–119: compound tenses (conditionnel passé, si type 3, futur antérieur, subjonctif passé), même, causative faire, se faire / se laisser, conversation tools, storytelling, workplace and formal writing, and key Quebec culture, in a mixed-skill checkpoint.",
+ "learn": [
+  {
+   "h": "Compound tenses: the big picture (lessons 105–108)",
+   "body": [
+    "All four tenses of this block are built the same way: an auxiliary (*avoir* or *être*) in a given tense + the past participle. Only the tense of the auxiliary changes.",
+    "Si type 3: *si* + plus-que-parfait, conditionnel passé: *Si j'avais su, je serais venu.* Never a conditional right after *si*. After *quand / dès que* for a future completed action, use the futur antérieur: *Quand tu auras fini, appelle-moi.*"
+   ],
+   "table": {
+    "head": [
+     "Tense",
+     "Auxiliary in…",
+     "Example",
+     "Use"
+    ],
+    "rows": [
+     [
+      "Plus-que-parfait",
+      "imparfait",
+      "j'avais fini",
+      "earlier past; after si (type 3)"
+     ],
+     [
+      "Conditionnel passé",
+      "conditionnel",
+      "j'aurais fini",
+      "regret, unreal past result"
+     ],
+     [
+      "Futur antérieur",
+      "futur",
+      "j'aurai fini",
+      "done before a future point; guess"
+     ],
+     [
+      "Subjonctif passé",
+      "subjonctif",
+      "que j'aie fini",
+      "emotion/doubt about a past action"
+     ]
+    ]
+   },
+   "tip": "Find the auxiliary's tense and you've found the compound tense."
+  },
+  {
+   "h": "Pronoun and verb structures (lessons 109–111)",
+   "body": [
+    "*-même* adds emphasis: *Je l'ai fait moi-même.* Use *soi-même* with *on*, *chacun* and *il faut*. Don't confuse *même* = same (*la même chose*) and *même* = even (*Même lui a ri*).",
+    "Causative *faire* + infinitive = have something done: *Je fais réparer mon char.* Pronouns go before *faire*; *fait* never agrees: *Je l'ai fait réparer.*",
+    "*Se faire* + infinitive = something done to you: *Je me suis fait voler mon vélo.* *Se laisser* + infinitive = let it happen: *Je me suis laissé convaincre.*"
+   ]
+  },
+  {
+   "h": "Conversation tools (lessons 112–114)",
+   "body": [
+    "Discourse markers: *bon, alors, en fait, bref, d'ailleurs, sinon, en tout cas*; Quebec informal: *ben là, coudonc, genre, t'sais, pis, faque*.",
+    "Opinions: *je pense que* + indicative, *je ne pense pas que* + subjunctive. Agree: *Tout à fait. C'est sûr!* Disagree: *Je ne vois pas les choses comme ça. Voyons donc!*",
+    "Hypotheses: *supposons que* + subjunctive, *au cas où* + conditional, *si jamais* + indicative, *il se peut que* + subjunctive, *devoir* for guesses, and Quebec *mettons que*."
+   ]
+  },
+  {
+   "h": "Skills and culture (lessons 115–119)",
+   "body": [
+    "Storytelling: imparfait (setting), passé composé (events), plus-que-parfait (flashback), *venir de* / *aller* in the imparfait, conditionnel for the future in the past.",
+    "Media: casual speech features (*chu, chais pas, y/a, pus, -tu*). Workplace: *courriel, réunion, fin de semaine, stationnement*. Formal letters: *Objet :*, *Madame, Monsieur,*, *Je vous prie de…*, *Veuillez agréer…*.",
+    "Culture: Champlain (1608), the Quiet Revolution (1960s), la loi 101 (1977), the referendums (1980, 1995), the Fête nationale (June 24)."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Si j'avais su que la route était fermée, je serais parti plus tôt.",
+   "en": "If I had known the road was closed, I would have left earlier.",
+   "note": "si type 3 (lesson 106)"
+  },
+  {
+   "fr": "J'aurais dû t'écouter.",
+   "en": "I should have listened to you.",
+   "note": "conditionnel passé of devoir (lesson 105)"
+  },
+  {
+   "fr": "Dès que j'aurai reçu ta réponse, je réserverai.",
+   "en": "As soon as I've received your answer, I'll book.",
+   "note": "futur antérieur (lesson 107)"
+  },
+  {
+   "fr": "Je suis content que tu aies trouvé un emploi.",
+   "en": "I'm glad you found a job.",
+   "note": "subjonctif passé (lesson 108)"
+  },
+  {
+   "fr": "On a construit la terrasse nous-mêmes.",
+   "en": "We built the deck ourselves.",
+   "note": "emphatic -mêmes (lesson 109)"
+  },
+  {
+   "fr": "Je vais faire poser mes pneus d'hiver la semaine prochaine.",
+   "en": "I'm getting my winter tires put on next week.",
+   "note": "causative faire (lesson 110)"
+  },
+  {
+   "fr": "Elle s'est fait avoir par un faux site Web.",
+   "en": "She got scammed by a fake website.",
+   "note": "se faire avoir (lesson 111)"
+  },
+  {
+   "fr": "Bref, en tout cas, on s'est bien amusés.",
+   "en": "Anyway, in short, we had a great time.",
+   "note": "discourse markers (lesson 112)"
+  },
+  {
+   "fr": "Je ne pense pas que ce soit la bonne solution.",
+   "en": "I don't think it's the right solution.",
+   "note": "negative opinion + subjunctive (lesson 113)"
+  },
+  {
+   "fr": "Prends ta tuque au cas où il ferait froid.",
+   "en": "Take your toque in case it's cold.",
+   "note": "au cas où + conditional (lesson 114)"
+  },
+  {
+   "fr": "Je pelletais quand la déneigeuse est passée.",
+   "en": "I was shovelling when the snowplow went by.",
+   "note": "imparfait + passé composé (lesson 115)"
+  },
+  {
+   "fr": "T'es rendu où dans la série?",
+   "en": "Where are you up to in the series?",
+   "note": "media talk, informal Quebec (lesson 116)"
+  },
+  {
+   "fr": "Je vous envoie le compte rendu par courriel.",
+   "en": "I'm sending you the minutes by email.",
+   "note": "workplace French (lesson 117)"
+  },
+  {
+   "fr": "Je vous prie d'effectuer les réparations d'ici le 15 mars.",
+   "en": "Please carry out the repairs by March 15.",
+   "note": "formal letter (lesson 118)"
+  },
+  {
+   "fr": "La loi 101 a été adoptée en 1977.",
+   "en": "Bill 101 was adopted in 1977.",
+   "note": "Quebec history, passive (lesson 119)"
+  }
+ ],
+ "quebec": {
+  "intro": "A quick review of the Quebec forms from this block. Can you go from the casual version back to the standard one? That's the skill that matters most for understanding real speech.",
+  "items": [
+   {
+    "std": "Si j'avais su, je ne serais pas venu.",
+    "qc": "Si j'aurais su, j'serais pas v'nu.",
+    "en": "If I had known, I wouldn't have come.",
+    "note": "si j'aurais is non-standard: recognise it, don't write it"
+   },
+   {
+    "std": "Quand tu auras fini, appelle-moi.",
+    "qc": "Quand tu vas avoir fini, appelle-moi.",
+    "en": "When you're done, call me.",
+    "note": "Quebec near-future version"
+   },
+   {
+    "std": "Je dois faire réparer ma voiture.",
+    "qc": "Faut que je fasse réparer mon char.",
+    "en": "I have to get my car fixed.",
+    "note": "char, informal"
+   },
+   {
+    "std": "Ne t'en fais pas.",
+    "qc": "Fais-toi-z'en pas.",
+    "en": "Don't worry.",
+    "note": "very casual"
+   },
+   {
+    "std": "Dis donc, où es-tu?",
+    "qc": "Coudonc, t'es où?",
+    "en": "Hey, where are you?",
+    "note": "coudonc, informal"
+   },
+   {
+    "std": "Supposons que nous partions à huit heures.",
+    "qc": "Mettons qu'on part à huit heures.",
+    "en": "Let's say we leave at eight.",
+    "note": "mettons que, informal"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Si tu m'___ appelé, je serais venu.",
+   "options": [
+    "aurais",
+    "avais",
+    "as",
+    "auras"
+   ],
+   "a": 1,
+   "why": "Si + plus-que-parfait (lesson 106)."
+  },
+  {
+   "t": "mcq",
+   "q": "Quand elle ___, on mangera.",
+   "options": [
+    "est arrivée",
+    "sera arrivée",
+    "serait arrivée",
+    "soit arrivée"
+   ],
+   "a": 1,
+   "why": "Futur antérieur after quand (lesson 107)."
+  },
+  {
+   "t": "mcq",
+   "q": "Ma voiture? Je l'ai ___ réparer.",
+   "options": [
+    "faite",
+    "fait",
+    "faits",
+    "faire"
+   ],
+   "a": 1,
+   "why": "Fait + infinitive never agrees (lesson 110)."
+  },
+  {
+   "t": "mcq",
+   "q": "Which marker sums up a story?",
+   "options": [
+    "sinon",
+    "bref",
+    "coudonc",
+    "d'ailleurs"
+   ],
+   "a": 1,
+   "why": "Bref = in short (lesson 112)."
+  },
+  {
+   "t": "mcq",
+   "q": "Which expression takes the subjunctive?",
+   "options": [
+    "il est probable que",
+    "il se peut que",
+    "peut-être que",
+    "si jamais"
+   ],
+   "a": 1,
+   "why": "Il se peut que + subjunctive (lesson 114)."
+  },
+  {
+   "t": "fill",
+   "q": "Je suis désolé que tu ___ été malade. (avoir)",
+   "a": [
+    "aies"
+   ],
+   "en": "I'm sorry you were sick.",
+   "why": "Subjonctif passé (lesson 108)."
+  },
+  {
+   "t": "fill",
+   "q": "Elle s'est ___ voler son portefeuille. (faire)",
+   "a": [
+    "fait"
+   ],
+   "en": "She got her wallet stolen.",
+   "why": "Se faire + infinitive, fait invariable (lesson 111)."
+  },
+  {
+   "t": "fill",
+   "q": "Les enfants ont préparé le souper ___. (themselves)",
+   "a": [
+    "eux-mêmes"
+   ],
+   "en": "The kids made supper themselves.",
+   "why": "Eux-mêmes (lesson 109)."
+  },
+  {
+   "t": "fill",
+   "q": "J'___ partir quand le téléphone a sonné. (aller)",
+   "a": [
+    "allais"
+   ],
+   "en": "I was about to leave when the phone rang.",
+   "why": "Aller in the imparfait = was about to (lesson 115)."
+  },
+  {
+   "t": "build",
+   "en": "You should have told me.",
+   "a": "Tu aurais dû me le dire."
+  },
+  {
+   "t": "build",
+   "en": "Please find attached the report.",
+   "a": "Vous trouverez ci-joint le rapport."
+  },
+  {
+   "t": "build",
+   "en": "I don't think he understood.",
+   "a": "Je ne pense pas qu'il ait compris."
+  },
+  {
+   "t": "translate",
+   "en": "If I had known, I would have come.",
+   "a": [
+    "Si j'avais su, je serais venu.",
+    "Si j'avais su, je serais venue.",
+    "Je serais venu si j'avais su.",
+    "Je serais venue si j'avais su."
+   ],
+   "why": "Si type 3."
+  },
+  {
+   "t": "translate",
+   "en": "What did you do on the weekend?",
+   "a": [
+    "Qu'est-ce que tu as fait en fin de semaine?",
+    "Qu'est-ce que vous avez fait en fin de semaine?",
+    "Qu'as-tu fait en fin de semaine?",
+    "Qu'avez-vous fait en fin de semaine?",
+    "Qu'est-ce que tu as fait la fin de semaine passée?"
+   ],
+   "why": "Fin de semaine, the Quebec term (lesson 117)."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "le regret",
+   "en": "regret",
+   "g": "m",
+   "ex": "Je n'ai aucun regret."
+  },
+  {
+   "fr": "d'ici là",
+   "en": "by then",
+   "ex": "D'ici là, j'aurai fini."
+  },
+  {
+   "fr": "bien que",
+   "en": "although (+ subjunctive)",
+   "ex": "Bien qu'il ait plu, on est sortis."
+  },
+  {
+   "fr": "soi-même",
+   "en": "oneself",
+   "ex": "Il faut le faire soi-même."
+  },
+  {
+   "fr": "faire venir",
+   "en": "to call in, send for",
+   "ex": "On a fait venir un plombier."
+  },
+  {
+   "fr": "se faire avoir",
+   "en": "to get ripped off",
+   "ex": "Je me suis fait avoir."
+  },
+  {
+   "fr": "se laisser tenter",
+   "en": "to give in to temptation",
+   "ex": "Je me suis laissé tenter."
+  },
+  {
+   "fr": "en fait",
+   "en": "actually",
+   "ex": "En fait, je préfère rester."
+  },
+  {
+   "fr": "à mon avis",
+   "en": "in my opinion",
+   "ex": "À mon avis, c'est trop cher."
+  },
+  {
+   "fr": "au cas où",
+   "en": "in case (+ conditional)",
+   "ex": "Prends-le au cas où."
+  },
+  {
+   "fr": "le lendemain",
+   "en": "the next day",
+   "g": "m",
+   "ex": "Le lendemain, tout était blanc."
+  },
+  {
+   "fr": "le balado",
+   "en": "podcast",
+   "g": "m",
+   "ex": "J'écoute un balado.",
+   "qc": true
+  },
+  {
+   "fr": "le courriel",
+   "en": "email",
+   "g": "m",
+   "ex": "Envoie-moi un courriel.",
+   "qc": true
+  },
+  {
+   "fr": "la mise en demeure",
+   "en": "formal notice",
+   "g": "f",
+   "ex": "Il a reçu une mise en demeure."
+  },
+  {
+   "fr": "la Révolution tranquille",
+   "en": "the Quiet Revolution",
+   "g": "f",
+   "ex": "La Révolution tranquille a commencé en 1960."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "j'aurais su / j'avais su",
+    "tip": "zho-rè SU vs zha-vè SU: listen for the r."
+   },
+   {
+    "fr": "que tu aies",
+    "tip": "kuh-tu-È: aies = [è]."
+   },
+   {
+    "fr": "je l'ai fait faire",
+    "tip": "zhuh lé fè FÈR."
+   },
+   {
+    "fr": "coudonc",
+    "tip": "koo-DON(K)."
+   },
+   {
+    "fr": "poudrerie",
+    "tip": "poo-druh-RI."
+   },
+   {
+    "fr": "veuillez agréer",
+    "tip": "veu-yé-za-gré-É."
+   }
+  ],
+  "title": "Une semaine de fou",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Pis, ta semaine?",
+    "en": "So, your week?"
+   },
+   {
+    "s": "B",
+    "fr": "Une semaine de fou! Lundi, je me suis fait voler mon vélo.",
+    "en": "A crazy week! Monday, I got my bike stolen."
+   },
+   {
+    "s": "A",
+    "fr": "Ben voyons! Il était barré?",
+    "en": "No way! Was it locked?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, mais si j'avais pris le gros cadenas, ça ne serait pas arrivé.",
+    "en": "Yes, but if I had taken the big lock, it wouldn't have happened."
+   },
+   {
+    "s": "A",
+    "fr": "Fais-toi-z'en pas. Pis le travail?",
+    "en": "Don't worry about it. And work?"
+   },
+   {
+    "s": "B",
+    "fr": "On a eu une réunion de trois heures. Bref, je suis épuisé. En plus, mon proprio veut toujours pas réparer le chauffage.",
+    "en": "We had a three-hour meeting. Anyway, I'm exhausted. Plus, my landlord still won't fix the heating."
+   },
+   {
+    "s": "A",
+    "fr": "Écris-lui une lettre formelle, avec une date limite.",
+    "en": "Write him a formal letter, with a deadline."
+   },
+   {
+    "s": "B",
+    "fr": "C'est ce que je vais faire. Dès que je l'aurai envoyée, je me repose!",
+    "en": "That's what I'll do. As soon as I've sent it, I'm resting!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What happened to B on Monday?",
+    "options": [
+     "Got a bike stolen",
+     "Lost a job",
+     "Had a car accident"
+    ],
+    "a": 0
+   },
+   {
+    "q": "What does B say would have prevented it?",
+    "options": [
+     "Parking inside",
+     "Taking the big lock",
+     "Taking the bus"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does A suggest about the landlord?",
+    "options": [
+     "Move out",
+     "Call every day",
+     "Write a formal letter with a deadline"
+    ],
+    "a": 2
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Checkpoint task 1: Talk for one minute about a regret, using si type 3 and the conditionnel passé.",
+   "model": "Si j'avais commencé le français plus tôt, j'aurais pu postuler à plus d'emplois. J'aurais dû suivre des cours dès mon arrivée. Mais si je n'étais pas venu à Montréal, je n'aurais jamais rencontré ma blonde, donc je ne regrette pas tout!"
+  },
+  {
+   "prompt": "Checkpoint task 2: Give your opinion on a local issue (e.g., bike lanes), agree with one point and disagree with another.",
+   "model": "À mon avis, les pistes cyclables sont une bonne idée. Je suis d'accord qu'elles réduisent le trafic. Par contre, je ne pense pas qu'on doive les garder ouvertes l'hiver partout."
+  },
+  {
+   "prompt": "Checkpoint task 3: Tell a short winter story with at least three past tenses.",
+   "model": "Il neigeait depuis le matin. J'allais sortir quand l'électricité a manqué. Heureusement, j'avais acheté des chandelles la veille."
+  },
+  {
+   "prompt": "Checkpoint task 4: Explain la loi 101 and the Fête nationale to a visitor in four sentences.",
+   "model": "La loi 101 a été adoptée en 1977. Elle fait du français la langue officielle du Québec. Le 24 juin, on fête la Saint-Jean, la Fête nationale. Il y a des spectacles et des feux de joie partout."
+  }
+ ],
+ "write": {
+  "prompt": "Checkpoint writing: Write a formal email (10–12 lines) to your Internet provider about a billing error AND a service outage. Use at least one si type 3 sentence, one subjonctif passé, one futur antérieur and a proper closing formula.",
+  "model": "Objet : Erreur de facturation et panne de service\n\nMadame, Monsieur,\n\nJe me permets de vous écrire au sujet de ma facture de février. J'ai été facturé deux fois pour le même mois. De plus, mon service Internet a été interrompu du 10 au 14 février. Je suis déçu que personne ne m'ait rappelé malgré mes trois appels. Si j'avais été prévenu de la panne, j'aurais pu m'organiser pour travailler ailleurs. Je vous prie donc de me rembourser le montant facturé en double ainsi qu'un crédit pour les jours sans service. Dès que j'aurai reçu votre confirmation, je considérerai le dossier comme réglé.\n\nVeuillez agréer, Madame, Monsieur, mes salutations distinguées.\n\nJordan Lee"
+ },
+ "quiz": [
+  {
+   "q": "Which sentence is correct in standard French?",
+   "options": [
+    "Si j'aurais su, je serais venu.",
+    "Si j'avais su, je serais venu.",
+    "Si je savais, je serais venu hier.",
+    "Si j'ai su, je serais venu."
+   ],
+   "a": 1,
+   "why": "Si + plus-que-parfait (lesson 106)."
+  },
+  {
+   "q": "'Il aura oublié' most likely means…",
+   "options": [
+    "He will forget.",
+    "He must have forgotten.",
+    "He had forgotten.",
+    "He would forget."
+   ],
+   "a": 1,
+   "why": "Futur antérieur of probability (lesson 107)."
+  },
+  {
+   "q": "Complete: C'est dommage qu'elle ___ partie.",
+   "options": [
+    "est",
+    "soit",
+    "a",
+    "ait"
+   ],
+   "a": 1,
+   "why": "Partir takes être; subjonctif passé (lesson 108)."
+  },
+  {
+   "q": "'C'est moi-même' on the phone means…",
+   "options": [
+    "It's me again.",
+    "Speaking.",
+    "I'm alone.",
+    "Call me back."
+   ],
+   "a": 1,
+   "why": "Common Quebec phone answer (lesson 109)."
+  },
+  {
+   "q": "'Je le fais réparer' — what does it mean?",
+   "options": [
+    "I'm repairing it.",
+    "I'm having it repaired.",
+    "I repaired it.",
+    "He's repairing it."
+   ],
+   "a": 1,
+   "why": "Causative faire (lesson 110)."
+  },
+  {
+   "q": "'Je me suis laissé convaincre' means…",
+   "options": [
+    "I convinced myself.",
+    "I let myself be convinced.",
+    "I was left convinced.",
+    "I convinced him."
+   ],
+   "a": 1,
+   "why": "Se laisser + infinitive (lesson 111)."
+  },
+  {
+   "q": "'Ben là!' expresses…",
+   "options": [
+    "agreement",
+    "protest / come on!",
+    "goodbye",
+    "a question"
+   ],
+   "a": 1,
+   "why": "Quebec marker (lesson 112)."
+  },
+  {
+   "q": "Je pense qu'il ___ raison.",
+   "options": [
+    "ait",
+    "a",
+    "aurait eu",
+    "avoir"
+   ],
+   "a": 1,
+   "why": "Affirmative opinion → indicative (lesson 113)."
+  },
+  {
+   "q": "In a news story, 'Le suspect aurait fui' signals…",
+   "options": [
+    "a certainty",
+    "unconfirmed information",
+    "a future event",
+    "an order"
+   ],
+   "a": 1,
+   "why": "Journalistic conditional (lesson 114)."
+  },
+  {
+   "q": "What is 'la poudrerie'?",
+   "options": [
+    "slush",
+    "blowing, drifting snow",
+    "black ice",
+    "a snowbank"
+   ],
+   "a": 1,
+   "why": "Quebec winter vocabulary (lesson 115)."
+  },
+  {
+   "q": "Which is the OQLF term for 'parking lot'?",
+   "options": [
+    "le parking",
+    "le stationnement",
+    "la station",
+    "le garage"
+   ],
+   "a": 1,
+   "why": "Lesson 117."
+  },
+  {
+   "q": "When was la loi 101 adopted?",
+   "options": [
+    "1960",
+    "1967",
+    "1977",
+    "1995"
+   ],
+   "a": 2,
+   "why": "August 26, 1977 (lesson 119)."
+  }
+ ]
+}

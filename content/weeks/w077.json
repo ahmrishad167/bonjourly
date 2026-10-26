@@ -1,0 +1,639 @@
+{
+ "w": 77,
+ "title": "Listening lesson: Quebec news and TV",
+ "goal": "By the end of this lesson you can follow the main points of a short Quebec news bulletin, recognise the key vocabulary of news, weather and traffic reports, and use Radio-Canada's OHdio and Le Téléjournal for daily listening practice.",
+ "learn": [
+  {
+   "h": "Where to listen",
+   "body": [
+    "*Radio-Canada* is the French-language public broadcaster. Its app *OHdio* has radio shows, podcasts (*balados*) and short news bulletins. *ICI Première* is its talk-and-news radio station.",
+    "*Le Téléjournal* is Radio-Canada's main evening TV news. Other sources: *TVA Nouvelles*, *RDI* (Radio-Canada's 24-hour news channel) and the free *Radio-Canada Info* app and website. Many shows have French subtitles (*sous-titres*), which help a lot.",
+    "News presenters use a careful, standard Quebec French: clear, close to international French, with Quebec vowels and the affricated *t* and *d* (*tu* → [tsu], *dire* → [dzire]). It is the best place to start before street French."
+   ]
+  },
+  {
+   "h": "A listening method for A2",
+   "body": [
+    "1. Before listening, read the headline and guess 5 words you expect. 2. Listen once for the general idea: who, what, where. 3. Listen again for numbers, dates and names. 4. Listen a third time with subtitles or a transcript. 5. Write down 3 new words and reuse them.",
+    "Short and daily beats long and rare: one 3-minute bulletin every day is worth more than one hour on Sunday.",
+    "Don't panic when you miss words. Focus on the words you know: numbers, place names, verbs in the passé composé (what happened) and the futur (what will happen)."
+   ],
+   "tip": "Listen for the verbs: a passé composé tells you what happened, a futur tells you what's coming."
+  },
+  {
+   "h": "The structure of a news bulletin",
+   "body": [
+    "Bulletins follow the same order almost every time: greeting and headlines (*les manchettes*), the main stories, politics, international news, sports, then the weather (*la météo*) and sometimes traffic (*la circulation*).",
+    "Typical presenter phrases: *Bonsoir et bienvenue au Téléjournal*, *Voici les manchettes*, *On apprenait aujourd'hui que…* (We learned today that…), *Selon la police…* (According to the police…), *Passons maintenant à la météo*."
+   ],
+   "table": {
+    "head": [
+     "Section",
+     "French",
+     "Key words"
+    ],
+    "rows": [
+     [
+      "Headlines",
+      "les manchettes",
+      "aujourd'hui, selon, annoncer"
+     ],
+     [
+      "Politics",
+      "la politique",
+      "le gouvernement, le premier ministre, l'Assemblée nationale"
+     ],
+     [
+      "Local news",
+      "les faits divers",
+      "un accident, la police, un incendie"
+     ],
+     [
+      "Sports",
+      "les sports",
+      "le Canadien, un match, une victoire"
+     ],
+     [
+      "Weather",
+      "la météo",
+      "des averses, un ciel nuageux, le facteur vent"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "News verbs and phrases",
+   "body": [
+    "News uses the passé composé, the futur and the conditionnel. The conditionnel in the news means 'reportedly' (not confirmed): *Le suspect aurait quitté la ville* (The suspect reportedly left the city). For now, just recognise it.",
+    "Very frequent verbs: *annoncer* (to announce), *déclarer* (to declare), *se produire* (to happen), *blesser* (to injure), *augmenter* / *baisser* (to rise / to fall), *prévoir* (to forecast)."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Bonsoir et bienvenue au Téléjournal.",
+   "en": "Good evening and welcome to the Téléjournal.",
+   "note": "opening phrase"
+  },
+  {
+   "fr": "Voici les manchettes de ce soir.",
+   "en": "Here are tonight's headlines."
+  },
+  {
+   "fr": "Le gouvernement du Québec a annoncé un nouveau plan pour le logement.",
+   "en": "The Quebec government announced a new housing plan."
+  },
+  {
+   "fr": "Un accident s'est produit ce matin sur l'autoroute 40.",
+   "en": "An accident happened this morning on Highway 40."
+  },
+  {
+   "fr": "Selon la police, deux personnes ont été blessées.",
+   "en": "According to the police, two people were injured."
+  },
+  {
+   "fr": "Le prix de l'essence a augmenté de dix cents.",
+   "en": "The price of gas rose by ten cents."
+  },
+  {
+   "fr": "Le Canadien a gagné quatre à deux contre Toronto.",
+   "en": "The Canadiens won four to two against Toronto.",
+   "note": "le Canadien = the Montreal hockey team"
+  },
+  {
+   "fr": "Environnement Canada prévoit vingt centimètres de neige.",
+   "en": "Environment Canada is forecasting twenty centimetres of snow."
+  },
+  {
+   "fr": "Il y aura des averses en fin de journée.",
+   "en": "There will be showers late in the day."
+  },
+  {
+   "fr": "Avec le facteur vent, on ressentira moins trente.",
+   "en": "With the wind chill, it will feel like minus thirty."
+  },
+  {
+   "fr": "La circulation est dense sur le pont Jacques-Cartier.",
+   "en": "Traffic is heavy on the Jacques Cartier Bridge."
+  },
+  {
+   "fr": "Passons maintenant aux sports.",
+   "en": "Let's move on to sports now."
+  },
+  {
+   "fr": "Les citoyens sont invités à rester à la maison.",
+   "en": "Residents are asked to stay home."
+  },
+  {
+   "fr": "J'écoute OHdio dans l'autobus tous les matins.",
+   "en": "I listen to OHdio on the bus every morning."
+  },
+  {
+   "fr": "Je regarde le Téléjournal avec les sous-titres.",
+   "en": "I watch the Téléjournal with subtitles."
+  },
+  {
+   "fr": "C'était tout pour ce bulletin. Bonne soirée!",
+   "en": "That's all for this bulletin. Good evening!"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebec news is your bridge between textbook French and street French. Presenters speak standard Quebec French; interviewees on the street often speak casually. Learn to hear both, and notice the Quebec words that even the news uses.",
+  "items": [
+   {
+    "std": "Il pleut. (newsreader)",
+    "qc": "Y mouille. (person on the street)",
+    "en": "It's raining.",
+    "note": "Same news, two registers"
+   },
+   {
+    "std": "La circulation est dense.",
+    "qc": "Ça bloque sur le pont.",
+    "en": "Traffic is heavy / It's jammed on the bridge.",
+    "note": "Informal: ça bloque"
+   },
+   {
+    "std": "Le Canadien de Montréal",
+    "qc": "Le CH / le Tricolore / les Glorieux",
+    "en": "The Montreal Canadiens",
+    "note": "Nicknames used in sports news and by fans"
+   },
+   {
+    "std": "Les gens sont mécontents.",
+    "qc": "Le monde sont pas contents.",
+    "en": "People aren't happy.",
+    "note": "Speech: le monde = people, often with a plural verb (nonstandard)"
+   },
+   {
+    "std": "Une tempête de neige",
+    "qc": "Une grosse bordée de neige",
+    "en": "A big snowfall",
+    "note": "Bordée is Quebec French, used even in weather reports"
+   },
+   {
+    "std": "un balado",
+    "qc": "un balado",
+    "en": "a podcast",
+    "note": "Quebec word, now standard; France often says un podcast"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "What is 'Le Téléjournal'?",
+   "options": [
+    "A newspaper",
+    "Radio-Canada's TV news",
+    "A weather app",
+    "A podcast about TV"
+   ],
+   "a": 1,
+   "why": "It's Radio-Canada's main TV newscast."
+  },
+  {
+   "t": "mcq",
+   "q": "'Les manchettes' are…",
+   "options": [
+    "the sleeves",
+    "the headlines",
+    "the ads",
+    "the reporters"
+   ],
+   "a": 1,
+   "why": "Les manchettes = the headlines."
+  },
+  {
+   "t": "mcq",
+   "q": "'Selon la police' means…",
+   "options": [
+    "Against the police",
+    "According to the police",
+    "Without the police",
+    "Thanks to the police"
+   ],
+   "a": 1,
+   "why": "Selon = according to."
+  },
+  {
+   "t": "mcq",
+   "q": "In a weather report, 'des averses' are…",
+   "options": [
+    "heatwaves",
+    "showers",
+    "storms",
+    "clouds"
+   ],
+   "a": 1,
+   "why": "Une averse = a rain shower."
+  },
+  {
+   "t": "mcq",
+   "q": "'Le facteur vent' is…",
+   "options": [
+    "the mailman",
+    "the wind chill",
+    "the wind speed record",
+    "a fan"
+   ],
+   "a": 1,
+   "why": "The 'feels like' temperature with the wind."
+  },
+  {
+   "t": "fill",
+   "q": "Un accident s'est ___ sur l'autoroute. (produire)",
+   "a": [
+    "produit"
+   ],
+   "en": "An accident happened on the highway.",
+   "why": "se produire → s'est produit."
+  },
+  {
+   "t": "fill",
+   "q": "Deux personnes ont été ___. (injured)",
+   "a": [
+    "blessées"
+   ],
+   "en": "Two people were injured.",
+   "why": "Agreement with personnes (feminine plural)."
+  },
+  {
+   "t": "fill",
+   "q": "Le prix de l'essence a ___ ce matin. (rose)",
+   "a": [
+    "augmenté"
+   ],
+   "en": "The price of gas rose this morning.",
+   "why": "augmenter = to rise, increase."
+  },
+  {
+   "t": "fill",
+   "q": "Passons maintenant à la ___. (weather)",
+   "a": [
+    "météo"
+   ],
+   "en": "Let's move on to the weather.",
+   "why": "la météo."
+  },
+  {
+   "t": "build",
+   "en": "Here are tonight's headlines.",
+   "a": "Voici les manchettes de ce soir."
+  },
+  {
+   "t": "build",
+   "en": "There will be showers this afternoon.",
+   "a": "Il y aura des averses cet après-midi."
+  },
+  {
+   "t": "build",
+   "en": "I watch the news every evening.",
+   "a": "Je regarde les nouvelles tous les soirs."
+  },
+  {
+   "t": "translate",
+   "en": "The government announced a new plan.",
+   "a": [
+    "Le gouvernement a annoncé un nouveau plan."
+   ],
+   "why": "Passé composé of annoncer."
+  },
+  {
+   "t": "translate",
+   "en": "Traffic is heavy on the bridge.",
+   "a": [
+    "La circulation est dense sur le pont.",
+    "Il y a beaucoup de circulation sur le pont.",
+    "Il y a du trafic sur le pont.",
+    "Il y a beaucoup de trafic sur le pont."
+   ],
+   "why": "la circulation / le trafic."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "les nouvelles",
+   "en": "the news",
+   "g": "f",
+   "ex": "As-tu entendu les nouvelles?"
+  },
+  {
+   "fr": "les manchettes",
+   "en": "headlines",
+   "g": "f",
+   "ex": "Voici les manchettes."
+  },
+  {
+   "fr": "le bulletin de nouvelles",
+   "en": "news bulletin",
+   "g": "m",
+   "ex": "Le bulletin de nouvelles est à 18 h."
+  },
+  {
+   "fr": "le balado",
+   "en": "podcast",
+   "g": "m",
+   "ex": "J'écoute des balados sur OHdio.",
+   "qc": true
+  },
+  {
+   "fr": "les sous-titres",
+   "en": "subtitles",
+   "g": "m",
+   "ex": "Active les sous-titres en français."
+  },
+  {
+   "fr": "selon",
+   "en": "according to",
+   "ex": "Selon les experts, il va neiger."
+  },
+  {
+   "fr": "annoncer",
+   "en": "to announce",
+   "ex": "Le ministre a annoncé sa démission."
+  },
+  {
+   "fr": "se produire",
+   "en": "to happen, to occur",
+   "ex": "L'accident s'est produit à 8 h."
+  },
+  {
+   "fr": "augmenter / baisser",
+   "en": "to rise / to fall",
+   "ex": "Les loyers augmentent."
+  },
+  {
+   "fr": "prévoir",
+   "en": "to forecast, to plan",
+   "ex": "On prévoit du soleil."
+  },
+  {
+   "fr": "l'averse",
+   "en": "rain shower",
+   "g": "f",
+   "ex": "Des averses sont prévues."
+  },
+  {
+   "fr": "le facteur vent",
+   "en": "wind chill",
+   "g": "m",
+   "ex": "Avec le facteur vent, il fait moins 35.",
+   "qc": true
+  },
+  {
+   "fr": "la circulation",
+   "en": "traffic",
+   "g": "f",
+   "ex": "La circulation est fluide."
+  },
+  {
+   "fr": "la bordée de neige",
+   "en": "big snowfall",
+   "g": "f",
+   "ex": "Une bordée de neige est attendue.",
+   "qc": true
+  },
+  {
+   "fr": "le gouvernement",
+   "en": "government",
+   "g": "m",
+   "ex": "Le gouvernement a changé la loi."
+  },
+  {
+   "fr": "le premier ministre",
+   "en": "premier, prime minister",
+   "g": "m",
+   "ex": "Le premier ministre du Québec a parlé."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "le Téléjournal",
+    "tip": "tay-lay-zhoor-NAL: careful newsreader pronunciation."
+   },
+   {
+    "fr": "aujourd'hui",
+    "tip": "o-zhoor-DWEE."
+   },
+   {
+    "fr": "Radio-Canada",
+    "tip": "ra-dyo ka-na-DA; Quebec: ra-dzyo."
+   },
+   {
+    "fr": "les manchettes",
+    "tip": "lay mahn-SHÈT."
+   },
+   {
+    "fr": "Environnement Canada",
+    "tip": "ahn-vee-ron-MAHN ka-na-DA."
+   },
+   {
+    "fr": "le facteur vent",
+    "tip": "luh fak-teur VAHN."
+   },
+   {
+    "fr": "vingt centimètres",
+    "tip": "van sahn-tee-MÈTR: no liaison, the t of vingt is silent here."
+   }
+  ],
+  "title": "Bulletin de nouvelles de 18 h",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Bonsoir et bienvenue. Voici les manchettes de ce mardi.",
+    "en": "Good evening and welcome. Here are the headlines for this Tuesday."
+   },
+   {
+    "s": "A",
+    "fr": "Le gouvernement du Québec a annoncé aujourd'hui la construction de cinq mille logements à Montréal.",
+    "en": "The Quebec government announced today the construction of five thousand housing units in Montreal."
+   },
+   {
+    "s": "A",
+    "fr": "Un incendie s'est produit cette nuit dans un immeuble de Laval. Selon les pompiers, personne n'a été blessé.",
+    "en": "A fire broke out last night in a building in Laval. According to firefighters, no one was injured."
+   },
+   {
+    "s": "B",
+    "fr": "Sur les routes, la circulation est très dense sur le pont Champlain à cause d'un accident.",
+    "en": "On the roads, traffic is very heavy on the Champlain Bridge because of an accident."
+   },
+   {
+    "s": "A",
+    "fr": "En sports, le Canadien a battu Boston trois à un hier soir.",
+    "en": "In sports, the Canadiens beat Boston three to one last night."
+   },
+   {
+    "s": "B",
+    "fr": "Passons maintenant à la météo. Une bordée de neige est attendue demain.",
+    "en": "Now for the weather. A big snowfall is expected tomorrow."
+   },
+   {
+    "s": "B",
+    "fr": "Environnement Canada prévoit entre quinze et vingt-cinq centimètres de neige.",
+    "en": "Environment Canada is forecasting between fifteen and twenty-five centimetres of snow."
+   },
+   {
+    "s": "B",
+    "fr": "Avec le facteur vent, on ressentira moins vingt-huit.",
+    "en": "With the wind chill, it will feel like minus twenty-eight."
+   },
+   {
+    "s": "A",
+    "fr": "Soyez prudents sur les routes. C'était tout pour ce bulletin. Bonne soirée!",
+    "en": "Be careful on the roads. That's all for this bulletin. Good evening!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What did the government announce?",
+    "options": [
+     "A new bridge",
+     "5,000 housing units",
+     "Lower taxes",
+     "A new hospital"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Was anyone hurt in the Laval fire?",
+    "options": [
+     "Yes, two people",
+     "No one",
+     "One firefighter",
+     "We don't know"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What was the hockey score?",
+    "options": [
+     "3–1 for the Canadiens",
+     "1–3 for Boston",
+     "4–2 for the Canadiens",
+     "2–2"
+    ],
+    "a": 0
+   },
+   {
+    "q": "How much snow is forecast?",
+    "options": [
+     "5 to 10 cm",
+     "10 to 15 cm",
+     "15 to 25 cm",
+     "30 cm"
+    ],
+    "a": 2
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Shadowing: play the bulletin line by line and repeat each sentence right after the speaker, copying the rhythm.",
+   "model": "Bonsoir et bienvenue. Voici les manchettes de ce mardi."
+  },
+  {
+   "prompt": "Summarise the bulletin you heard in 3 sentences, in your own words.",
+   "model": "Le gouvernement va construire cinq mille logements à Montréal. Il y a eu un incendie à Laval, mais personne n'a été blessé. Demain, il va neiger beaucoup."
+  },
+  {
+   "prompt": "Present tomorrow's weather like a newsreader.",
+   "model": "Demain, le ciel sera nuageux le matin. Il y aura des averses en après-midi. Maximum de douze degrés."
+  }
+ ],
+ "write": {
+  "prompt": "Listen to a real 3–5 minute Radio-Canada bulletin (OHdio or the Radio-Canada Info app). Write 5–6 sentences: the date, three stories you understood, the weather, and three new words.",
+  "model": "J'ai écouté le bulletin de 7 h le 12 mars. D'abord, le gouvernement a annoncé un nouveau budget pour les écoles. Ensuite, il y a eu un accident sur l'autoroute 20. En sports, le Canadien a perdu contre Ottawa. Pour la météo, on prévoit de la pluie et cinq degrés. Nouveaux mots: une hausse, un député, la chaussée."
+ },
+ "quiz": [
+  {
+   "q": "What is OHdio?",
+   "options": [
+    "A TV channel",
+    "Radio-Canada's audio and podcast app",
+    "A Quebec newspaper",
+    "A music festival"
+   ],
+   "a": 1,
+   "why": "OHdio is Radio-Canada's app for radio and balados."
+  },
+  {
+   "q": "In the news, 'Le suspect aurait quitté la ville' means…",
+   "options": [
+    "The suspect would leave the city.",
+    "The suspect reportedly left the city.",
+    "The suspect must leave the city.",
+    "The suspect has never left."
+   ],
+   "a": 1,
+   "why": "The journalistic conditionnel = unconfirmed information."
+  },
+  {
+   "q": "Which order does a typical bulletin follow?",
+   "options": [
+    "Weather, sports, headlines",
+    "Headlines, main stories, sports, weather",
+    "Sports, headlines, ads",
+    "Weather only"
+   ],
+   "a": 1,
+   "why": "Headlines first, weather near the end."
+  },
+  {
+   "q": "'Une bordée de neige' is…",
+   "options": [
+    "a light flurry",
+    "a big snowfall",
+    "a snowbank",
+    "a snowplow"
+   ],
+   "a": 1,
+   "why": "Quebec word for a heavy snowfall."
+  },
+  {
+   "q": "The best listening habit at A2 is…",
+   "options": [
+    "One hour once a month",
+    "A short bulletin every day",
+    "Only music",
+    "Only reading transcripts"
+   ],
+   "a": 1,
+   "why": "Short and daily works best."
+  },
+  {
+   "q": "'Le CH' refers to…",
+   "options": [
+    "the hospital",
+    "the Montreal Canadiens",
+    "a TV channel",
+    "the city hall"
+   ],
+   "a": 1,
+   "why": "CH = Club de hockey Canadien."
+  },
+  {
+   "q": "'La circulation est fluide' means…",
+   "options": [
+    "Traffic is flowing well.",
+    "There's a flood.",
+    "Traffic is jammed.",
+    "The roads are icy."
+   ],
+   "a": 0,
+   "why": "Fluide = moving smoothly."
+  },
+  {
+   "q": "What does 'personne n'a été blessé' mean?",
+   "options": [
+    "One person was hurt.",
+    "Nobody was hurt.",
+    "Everyone was hurt.",
+    "A person hurt someone."
+   ],
+   "a": 1,
+   "why": "Personne + ne = nobody."
+  }
+ ]
+}

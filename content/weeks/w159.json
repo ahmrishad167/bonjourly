@@ -1,0 +1,607 @@
+{
+ "w": 159,
+ "title": "Formal debate",
+ "goal": "By the end of this lesson you can take part in a formal debate in French: present a timed argument, structure it, rebut an opponent's point, and use the formal conventions of debate in Quebec.",
+ "learn": [
+  {
+   "h": "The structure of a debate speech",
+   "body": [
+    "A good timed argument (one to two minutes) has four parts: *1. la position* (Je défends l'idée que…), *2. les arguments* (two or three, each with an example), *3. la réfutation anticipée* (On me dira que…, mais…), *4. la conclusion* (C'est pourquoi…).",
+    "Signpost clearly; listeners can't reread: *Premièrement…*, *Deuxièmement…*, *Enfin…*, *J'en viens maintenant à…*, *Permettez-moi d'ajouter que…*"
+   ],
+   "table": {
+    "head": [
+     "Part",
+     "Useful phrases"
+    ],
+    "rows": [
+     [
+      "Position",
+      "Je soutiens que… / Notre équipe défend la thèse selon laquelle…"
+     ],
+     [
+      "Argument",
+      "Le premier argument est que… / Prenons l'exemple de…"
+     ],
+     [
+      "Anticipated objection",
+      "On pourrait objecter que… Or…"
+     ],
+     [
+      "Conclusion",
+      "Pour toutes ces raisons… / C'est pourquoi j'invite…"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Rebuttal (la réfutation)",
+   "body": [
+    "Restate, then attack: *Mon adversaire affirme que… Or, les faits montrent le contraire.* *Cet argument ne tient pas la route* (doesn't hold up). *C'est un raccourci* (an oversimplification). *Vous confondez corrélation et causalité.*",
+    "Concede to gain credibility: *J'admets que…, mais…*, *Il est vrai que…; toutefois…*, *Je vous accorde que…* (I'll grant you that)."
+   ],
+   "tip": "Concede a small point, win the big one: Je vous accorde que…, mais…"
+  },
+  {
+   "h": "Formal conventions",
+   "body": [
+    "Address the moderator: *Madame la modératrice, Monsieur le Président*. Refer to opponents in the third person or with *vous*: *Mon honorable adversaire*, *l'équipe adverse*. Never use *tu* in a formal debate.",
+    "Request the floor or a point: *Je demande la parole.* *Permettez-moi de répondre.* *Puis-je terminer?* Time warnings: *Il vous reste trente secondes.* *Votre temps est écoulé.*"
+   ]
+  },
+  {
+   "h": "Logical connectors for argument",
+   "body": [
+    "Cause: *étant donné que, puisque, dans la mesure où*. Consequence: *par conséquent, c'est pourquoi, si bien que*. Emphasis: *d'ailleurs, en effet, qui plus est, non seulement… mais aussi*. Contrast: *en revanche, or, au contraire*.",
+    "Strong formal verbs: *démontrer, prouver, illustrer, réfuter, nuancer, contester, rejeter*."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Je soutiens que la semaine de quatre jours profiterait à tous.",
+   "en": "I maintain that a four-day week would benefit everyone.",
+   "note": "position with the conditional"
+  },
+  {
+   "fr": "Premièrement, les études montrent une hausse de la productivité.",
+   "en": "First, studies show an increase in productivity.",
+   "note": "first argument"
+  },
+  {
+   "fr": "Prenons l'exemple de l'Islande, qui a mené plusieurs essais.",
+   "en": "Take the example of Iceland, which ran several trials.",
+   "note": "illustration"
+  },
+  {
+   "fr": "On pourrait objecter que les coûts augmenteraient. Or, c'est l'inverse qui s'est produit.",
+   "en": "One could object that costs would go up. Yet the opposite happened.",
+   "note": "anticipated objection"
+  },
+  {
+   "fr": "Mon adversaire affirme que la mesure est irréaliste; les faits démontrent le contraire.",
+   "en": "My opponent claims the measure is unrealistic; the facts show the opposite.",
+   "note": "rebuttal"
+  },
+  {
+   "fr": "Cet argument ne tient pas la route.",
+   "en": "That argument doesn't hold up.",
+   "note": "idiomatic rebuttal"
+  },
+  {
+   "fr": "Je vous accorde que la transition serait difficile, mais elle est nécessaire.",
+   "en": "I'll grant you that the transition would be difficult, but it's necessary.",
+   "note": "concession"
+  },
+  {
+   "fr": "Vous confondez corrélation et causalité.",
+   "en": "You're confusing correlation and causation.",
+   "note": "logical rebuttal"
+  },
+  {
+   "fr": "C'est un raccourci qui ne rend pas justice à la complexité du dossier.",
+   "en": "That's an oversimplification that doesn't do justice to the complexity of the issue.",
+   "note": "rendre justice à"
+  },
+  {
+   "fr": "Permettez-moi de répondre à cette accusation.",
+   "en": "Allow me to respond to that accusation.",
+   "note": "requesting the floor"
+  },
+  {
+   "fr": "Il vous reste trente secondes.",
+   "en": "You have thirty seconds left.",
+   "note": "moderator"
+  },
+  {
+   "fr": "Non seulement cette réforme est juste, mais elle est aussi rentable.",
+   "en": "Not only is this reform fair, it's also cost-effective.",
+   "note": "non seulement… mais aussi"
+  },
+  {
+   "fr": "Étant donné que la population vieillit, il faut agir maintenant.",
+   "en": "Given that the population is ageing, we must act now.",
+   "note": "étant donné que + indicative"
+  },
+  {
+   "fr": "Pour toutes ces raisons, j'invite le jury à rejeter la proposition.",
+   "en": "For all these reasons, I urge the jury to reject the motion.",
+   "note": "conclusion"
+  },
+  {
+   "fr": "J'en viens maintenant à mon deuxième argument.",
+   "en": "I now come to my second argument.",
+   "note": "signposting"
+  },
+  {
+   "fr": "Votre temps est écoulé, merci.",
+   "en": "Your time is up, thank you.",
+   "note": "s'écouler = to elapse"
+  }
+ ],
+ "quebec": {
+  "intro": "Formal debate in Quebec follows conventions you'll see in the televised leaders' debate (le débat des chefs) and in the National Assembly, where members speak through the presiding officer and refer to each other by their riding. In casual arguments, rebuttals sound very different.",
+  "items": [
+   {
+    "std": "Monsieur le Président, le député de Laurier-Dorion se trompe.",
+    "qc": "Ben voyons donc, y'est complètement dans le champ!",
+    "en": "Mr. Speaker, the member for Laurier-Dorion is mistaken. / Come on, he's way off!",
+    "note": "In the Assembly, members address the President and refer to others by riding; 'dans le champ' = way off (informal)"
+   },
+   {
+    "std": "Cet argument ne tient pas la route.",
+    "qc": "Ça tient pas debout, ton affaire.",
+    "en": "That argument doesn't hold up.",
+    "note": "tenir debout = make sense (informal)"
+   },
+   {
+    "std": "Je vous accorde ce point.",
+    "qc": "OK, je te donne ça.",
+    "en": "I'll grant you that.",
+    "note": "informal concession"
+   },
+   {
+    "std": "Permettez-moi de terminer.",
+    "qc": "Laisse-moi finir, là!",
+    "en": "Let me finish.",
+    "note": "informal, a bit impatient"
+   },
+   {
+    "std": "Vous déformez mes propos.",
+    "qc": "C'est pas ça que j'ai dit pantoute!",
+    "en": "You're twisting my words.",
+    "note": "pantoute = not at all (informal)"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "'Cet argument ne tient pas la route' means…",
+   "options": [
+    "The argument is off-topic",
+    "The argument doesn't hold up",
+    "The argument is too long",
+    "The argument is about roads"
+   ],
+   "a": 1,
+   "why": "Idiomatic rebuttal."
+  },
+  {
+   "t": "mcq",
+   "q": "In a formal debate, how do you address your opponent?",
+   "options": [
+    "tu",
+    "vous / mon adversaire",
+    "toi",
+    "mon chum"
+   ],
+   "a": 1,
+   "why": "Formal debate uses vous and third-person forms."
+  },
+  {
+   "t": "mcq",
+   "q": "'Je vous accorde que…' introduces…",
+   "options": [
+    "a concession",
+    "a conclusion",
+    "a question",
+    "an insult"
+   ],
+   "a": 0,
+   "why": "I'll grant you that…"
+  },
+  {
+   "t": "mcq",
+   "q": "In the National Assembly, members speak…",
+   "options": [
+    "directly to each other with tu",
+    "through the presiding officer (M. le Président)",
+    "only in writing",
+    "through journalists"
+   ],
+   "a": 1,
+   "why": "Parliamentary convention."
+  },
+  {
+   "t": "fill",
+   "q": "On pourrait ___ que la mesure coûte cher.",
+   "a": [
+    "objecter",
+    "répondre",
+    "rétorquer"
+   ],
+   "en": "One could object that the measure is costly.",
+   "why": "objecter que = to object that."
+  },
+  {
+   "t": "fill",
+   "q": "Non seulement c'est juste, ___ c'est aussi rentable.",
+   "a": [
+    "mais"
+   ],
+   "en": "Not only is it fair, it's also profitable.",
+   "why": "non seulement… mais aussi."
+  },
+  {
+   "t": "fill",
+   "q": "Votre temps est ___.",
+   "a": [
+    "écoulé",
+    "terminé"
+   ],
+   "en": "Your time is up.",
+   "why": "s'écouler = to elapse."
+  },
+  {
+   "t": "fill",
+   "q": "___ donné que les prix montent, il faut agir.",
+   "a": [
+    "Étant"
+   ],
+   "en": "Given that prices are rising, we must act.",
+   "why": "étant donné que."
+  },
+  {
+   "t": "fill",
+   "q": "Vous confondez corrélation et ___.",
+   "a": [
+    "causalité"
+   ],
+   "en": "You're confusing correlation and causation.",
+   "why": "la causalité."
+  },
+  {
+   "t": "build",
+   "en": "Allow me to respond.",
+   "a": "Permettez-moi de répondre."
+  },
+  {
+   "t": "build",
+   "en": "I now come to my second argument.",
+   "a": "J'en viens maintenant à mon deuxième argument."
+  },
+  {
+   "t": "build",
+   "en": "You have thirty seconds left.",
+   "a": "Il vous reste trente secondes."
+  },
+  {
+   "t": "translate",
+   "en": "You're twisting my words.",
+   "a": [
+    "Vous déformez mes propos.",
+    "Tu déformes mes propos.",
+    "Vous déformez mes paroles.",
+    "Tu déformes mes paroles."
+   ],
+   "why": "déformer les propos de quelqu'un."
+  },
+  {
+   "t": "translate",
+   "en": "The facts show the opposite.",
+   "a": [
+    "Les faits montrent le contraire.",
+    "Les faits démontrent le contraire.",
+    "Les faits prouvent le contraire."
+   ],
+   "why": "montrer / démontrer le contraire."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "le débat",
+   "en": "debate",
+   "g": "m",
+   "ex": "Le débat des chefs aura lieu jeudi."
+  },
+  {
+   "fr": "l'adversaire",
+   "en": "opponent",
+   "ex": "Mon adversaire n'a pas répondu à la question."
+  },
+  {
+   "fr": "la réfutation",
+   "en": "rebuttal, refutation",
+   "g": "f",
+   "ex": "Sa réfutation était brillante."
+  },
+  {
+   "fr": "réfuter",
+   "en": "to refute",
+   "ex": "Je vais réfuter cet argument point par point."
+  },
+  {
+   "fr": "objecter",
+   "en": "to object",
+   "ex": "On pourrait objecter que c'est trop cher."
+  },
+  {
+   "fr": "accorder",
+   "en": "to grant, concede",
+   "ex": "Je vous accorde ce point."
+  },
+  {
+   "fr": "ne pas tenir la route",
+   "en": "not to hold up",
+   "ex": "Ce raisonnement ne tient pas la route."
+  },
+  {
+   "fr": "le raccourci",
+   "en": "oversimplification; shortcut",
+   "g": "m",
+   "ex": "C'est un raccourci dangereux."
+  },
+  {
+   "fr": "déformer les propos",
+   "en": "to twist someone's words",
+   "ex": "Vous déformez mes propos."
+  },
+  {
+   "fr": "le modérateur / la modératrice",
+   "en": "moderator",
+   "ex": "La modératrice a rappelé les règles."
+  },
+  {
+   "fr": "la circonscription",
+   "en": "riding, electoral district",
+   "g": "f",
+   "ex": "Le député de cette circonscription est absent."
+  },
+  {
+   "fr": "étant donné que",
+   "en": "given that",
+   "ex": "Étant donné que le temps presse, je serai bref."
+  },
+  {
+   "fr": "si bien que",
+   "en": "so that, with the result that",
+   "ex": "Il a plu, si bien que le match a été annulé."
+  },
+  {
+   "fr": "être dans le champ",
+   "en": "to be way off (familiar)",
+   "ex": "T'es dans le champ, c'est pas ça pantoute.",
+   "qc": true
+  },
+  {
+   "fr": "tenir debout",
+   "en": "to make sense, hold together",
+   "ex": "Ton histoire tient pas debout."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "réfutation",
+    "tip": "ré-fy-ta-SYON."
+   },
+   {
+    "fr": "circonscription",
+    "tip": "sir-kon-skrip-SYON: watch the cluster -nscr-."
+   },
+   {
+    "fr": "étant donné que",
+    "tip": "é-tan-do-NÉ-kuh."
+   },
+   {
+    "fr": "Monsieur le Président",
+    "tip": "muh-syeu luh pré-zi-DAN: monsieur is [məsjø]."
+   },
+   {
+    "fr": "non seulement",
+    "tip": "non-seul-MAN."
+   },
+   {
+    "fr": "Votre temps est écoulé",
+    "tip": "vo-truh-tan-zè-té-koo-LÉ: optional liaison temps‿est."
+   }
+  ],
+  "title": "Débat : la semaine de quatre jours",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Madame la modératrice, je soutiens que la semaine de quatre jours devrait devenir la norme.",
+    "en": "Madam Moderator, I maintain that the four-day week should become the norm."
+   },
+   {
+    "s": "A",
+    "fr": "Premièrement, plusieurs essais ont montré que la productivité ne baisse pas.",
+    "en": "First, several trials have shown that productivity doesn't fall."
+   },
+   {
+    "s": "B",
+    "fr": "Permettez-moi de répondre. Ces essais portaient sur des bureaux, pas sur les hôpitaux.",
+    "en": "Allow me to respond. Those trials involved offices, not hospitals."
+   },
+   {
+    "s": "A",
+    "fr": "Je vous accorde que le secteur de la santé pose un défi. Mais cela n'invalide pas le principe.",
+    "en": "I'll grant you that the health sector is a challenge. But that doesn't invalidate the principle."
+   },
+   {
+    "s": "B",
+    "fr": "Au contraire. Avec la pénurie de personnel, votre proposition ne tient pas la route.",
+    "en": "On the contrary. With the staff shortage, your proposal doesn't hold up."
+   },
+   {
+    "s": "A",
+    "fr": "Vous confondez deux problèmes : la pénurie existe déjà, avec la semaine de cinq jours.",
+    "en": "You're confusing two problems: the shortage already exists, with the five-day week."
+   },
+   {
+    "s": "A",
+    "fr": "Pour toutes ces raisons, j'invite le jury à appuyer la proposition.",
+    "en": "For all these reasons, I urge the jury to support the motion."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What does A propose?",
+    "options": [
+     "A four-day week",
+     "Longer holidays",
+     "Remote work"
+    ],
+    "a": 0
+   },
+   {
+    "q": "What is B's main objection?",
+    "options": [
+     "Productivity falls",
+     "It doesn't work for hospitals with staff shortages",
+     "It's illegal"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does A concede?",
+    "options": [
+     "Productivity falls",
+     "The health sector is a challenge",
+     "The proposal is too expensive"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Timed task (90 seconds): defend the position 'Montreal should ban cars from downtown on weekends' with two arguments and one anticipated objection.",
+   "model": "Je soutiens que le centre-ville devrait être piétonnier les fins de semaine. Premièrement, cela rendrait les rues plus sûres et plus agréables. Deuxièmement, les commerces profiteraient d'un achalandage accru, comme on l'a vu sur la rue Sainte-Catherine l'été. On pourrait objecter que les automobilistes seraient pénalisés. Or, le métro dessert très bien le centre-ville. C'est pourquoi j'invite le conseil à adopter cette mesure."
+  },
+  {
+   "prompt": "Rebut this argument in 30 seconds: 'Les jeunes ne lisent plus, donc il faut fermer les bibliothèques.'",
+   "model": "Mon adversaire affirme que les jeunes ne lisent plus. Or, les bibliothèques de Montréal n'ont jamais eu autant d'abonnés. De plus, elles offrent bien plus que des livres. Cet argument ne tient pas la route."
+  },
+  {
+   "prompt": "Make a concession and then reassert your position.",
+   "model": "Je vous accorde que la transition coûterait cher à court terme. Mais à long terme, les économies seraient considérables."
+  }
+ ],
+ "write": {
+  "prompt": "Write a 150–180-word debate speech for or against: 'Le cégep devrait être obligatoire pour tous.' Include a position, two arguments with examples, an anticipated objection with rebuttal, and a conclusion.",
+  "model": "Madame la modératrice, chers membres du jury, je soutiens que le cégep ne devrait pas être obligatoire. Premièrement, tous les jeunes n'ont pas les mêmes aspirations. Un futur électricien, par exemple, profite davantage d'une formation professionnelle que d'un programme préuniversitaire. Deuxièmement, rendre le cégep obligatoire coûterait des centaines de millions de dollars, si bien que d'autres services, comme l'aide aux élèves en difficulté, pourraient en souffrir. On pourrait objecter que le cégep favorise la culture générale et l'esprit critique. Je vous accorde que c'est un atout précieux. Or, ces compétences peuvent aussi se développer au secondaire, en milieu de travail ou dans la formation continue. Obliger un jeune démotivé à s'asseoir en classe ne garantit en rien son apprentissage. Pour toutes ces raisons, j'invite le jury à rejeter cette proposition et à valoriser plutôt la diversité des parcours."
+ },
+ "quiz": [
+  {
+   "q": "What are the four parts of a debate speech?",
+   "options": [
+    "Greeting, joke, story, goodbye",
+    "Position, arguments, anticipated objection, conclusion",
+    "Question, answer, question, answer",
+    "Introduction, summary, opinion, quote"
+   ],
+   "a": 1,
+   "why": "The classic structure for a timed argument."
+  },
+  {
+   "q": "'Je vous accorde que…' is used to…",
+   "options": [
+    "agree completely",
+    "concede a point",
+    "end the debate",
+    "ask a question"
+   ],
+   "a": 1,
+   "why": "A strategic concession."
+  },
+  {
+   "q": "'Être dans le champ' (Quebec, familiar) means…",
+   "options": [
+    "to be on a farm",
+    "to be way off",
+    "to be outside",
+    "to be winning"
+   ],
+   "a": 1,
+   "why": "Informal: you're completely wrong."
+  },
+  {
+   "q": "'Étant donné que' expresses…",
+   "options": [
+    "consequence",
+    "cause",
+    "contrast",
+    "purpose"
+   ],
+   "a": 1,
+   "why": "Given that = cause."
+  },
+  {
+   "q": "'Si bien que' expresses…",
+   "options": [
+    "cause",
+    "consequence",
+    "concession",
+    "condition"
+   ],
+   "a": 1,
+   "why": "so that / with the result that."
+  },
+  {
+   "q": "In a formal debate, which is inappropriate?",
+   "options": [
+    "Mon honorable adversaire",
+    "Permettez-moi de répondre",
+    "T'es dans le champ, toi!",
+    "Je vous accorde ce point"
+   ],
+   "a": 2,
+   "why": "tu and familiar idioms don't fit formal debate."
+  },
+  {
+   "q": "'Un raccourci' in an argument is…",
+   "options": [
+    "a shortcut road",
+    "an oversimplification",
+    "a summary",
+    "a deadline"
+   ],
+   "a": 1,
+   "why": "C'est un raccourci = it's oversimplified."
+  },
+  {
+   "q": "In the National Assembly, members refer to each other by…",
+   "options": [
+    "first name",
+    "their riding (le député de…)",
+    "nickname",
+    "party colour"
+   ],
+   "a": 1,
+   "why": "Parliamentary convention."
+  },
+  {
+   "q": "'Votre temps est écoulé' means…",
+   "options": [
+    "Your time is up",
+    "You're wasting time",
+    "Take your time",
+    "Time flies"
+   ],
+   "a": 0,
+   "why": "s'écouler = to run out, elapse."
+  }
+ ]
+}

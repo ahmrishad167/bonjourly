@@ -1,0 +1,713 @@
+{
+ "w": 17,
+ "title": "Days, months and dates",
+ "goal": "By the end of this lesson you can name the days and months, say and write dates the French way (le 24 juin), talk about habits (le lundi) and plans (lundi), and use the Quebec word for weekend: la fin de semaine.",
+ "learn": [
+  {
+   "h": "The days of the week",
+   "body": [
+    "The days are masculine and written with a lowercase letter: *lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche*. The French week starts on Monday.",
+    "Without an article, a day means one specific day: *Je travaille lundi* (I'm working this Monday). With *le*, it means every week: *Je travaille le lundi* (I work on Mondays)."
+   ],
+   "table": {
+    "head": [
+     "French",
+     "English"
+    ],
+    "rows": [
+     [
+      "lundi",
+      "Monday"
+     ],
+     [
+      "mardi",
+      "Tuesday"
+     ],
+     [
+      "mercredi",
+      "Wednesday"
+     ],
+     [
+      "jeudi",
+      "Thursday"
+     ],
+     [
+      "vendredi",
+      "Friday"
+     ],
+     [
+      "samedi",
+      "Saturday"
+     ],
+     [
+      "dimanche",
+      "Sunday"
+     ]
+    ]
+   },
+   "tip": "lundi = this Monday; le lundi = every Monday."
+  },
+  {
+   "h": "The months",
+   "body": [
+    "Months are also masculine and lowercase: *janvier, février, mars, avril, mai, juin, juillet, août, septembre, octobre, novembre, décembre*.",
+    "Use *en* or *au mois de* for 'in': *en janvier, au mois d'août*. *Août* is pronounced [oot] (most Quebecers) or [oo]."
+   ],
+   "table": {
+    "head": [
+     "French",
+     "English",
+     "French",
+     "English"
+    ],
+    "rows": [
+     [
+      "janvier",
+      "January",
+      "juillet",
+      "July"
+     ],
+     [
+      "février",
+      "February",
+      "août",
+      "August"
+     ],
+     [
+      "mars",
+      "March",
+      "septembre",
+      "September"
+     ],
+     [
+      "avril",
+      "April",
+      "octobre",
+      "October"
+     ],
+     [
+      "mai",
+      "May",
+      "novembre",
+      "November"
+     ],
+     [
+      "juin",
+      "June",
+      "décembre",
+      "December"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Saying the date",
+   "body": [
+    "French dates use *le* + number + month: *le 24 juin*, *le 15 mars 2026*. Use ordinary numbers (*le deux, le trois*), except for the first day of the month: *le premier* (1er).",
+    "To ask the date: *Quelle est la date aujourd'hui?* or casually *On est le combien aujourd'hui?* Answer: *On est le 3 mai* or *C'est le 3 mai*. With a day: *On est lundi, le 3 mai*.",
+    "In Quebec, numeric dates are often written year-month-day (2026-05-03), as recommended by the OQLF. When in doubt, write the month in words."
+   ],
+   "table": {
+    "head": [
+     "Written",
+     "Said"
+    ],
+    "rows": [
+     [
+      "le 1er juillet",
+      "le premier juillet"
+     ],
+     [
+      "le 24 juin",
+      "le vingt-quatre juin"
+     ],
+     [
+      "le 11 novembre",
+      "le onze novembre (no l')"
+     ],
+     [
+      "lundi 3 mai 2026",
+      "lundi, le trois mai deux mille vingt-six"
+     ]
+    ]
+   },
+   "tip": "No elision before huit and onze: le huit, le onze."
+  },
+  {
+   "h": "Time words",
+   "body": [
+    "Useful words around dates: *aujourd'hui* (today), *demain* (tomorrow), *hier* (yesterday), *la semaine* (week), *le mois* (month), *l'année* / *l'an* (year).",
+    "Add *prochain* (next) or *dernier* (last) after the noun: *lundi prochain*, *la semaine prochaine*, *le mois dernier*. In Quebec, *passé* is also very common: *la semaine passée*, *dimanche passé*."
+   ]
+  },
+  {
+   "h": "Quebec: la fin de semaine",
+   "body": [
+    "In Quebec, the weekend is *la fin de semaine* (literally 'end of week'). The English-looking *le week-end*, normal in France, is understood but much less used. *Bonne fin de semaine!* is what everyone says on Friday.",
+    "Two key Quebec dates: *le 24 juin* is the Fête nationale (also called *la Saint-Jean*), and *le 1er juillet* is Canada Day, but also Quebec's moving day (*le jour du déménagement*), when many leases end."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Je travaille lundi.",
+   "en": "I'm working on Monday.",
+   "note": "one specific Monday"
+  },
+  {
+   "fr": "Je travaille le lundi.",
+   "en": "I work on Mondays.",
+   "note": "le = every Monday"
+  },
+  {
+   "fr": "On est mardi aujourd'hui.",
+   "en": "It's Tuesday today."
+  },
+  {
+   "fr": "Mon anniversaire, c'est le 12 mars.",
+   "en": "My birthday is March 12.",
+   "note": "le + number + month"
+  },
+  {
+   "fr": "On est le combien aujourd'hui?",
+   "en": "What's the date today?",
+   "note": "casual question"
+  },
+  {
+   "fr": "C'est le premier avril.",
+   "en": "It's April 1st.",
+   "note": "premier for the 1st only"
+  },
+  {
+   "fr": "Il neige beaucoup en janvier.",
+   "en": "It snows a lot in January.",
+   "note": "en + month"
+  },
+  {
+   "fr": "Le cours commence le 8 septembre.",
+   "en": "The class starts on September 8.",
+   "note": "le huit: no elision"
+  },
+  {
+   "fr": "Je déménage le 1er juillet.",
+   "en": "I'm moving on July 1st.",
+   "note": "Quebec's moving day"
+  },
+  {
+   "fr": "Le 24 juin, c'est la Fête nationale.",
+   "en": "June 24 is the Fête nationale.",
+   "note": "Quebec's national holiday"
+  },
+  {
+   "fr": "On part la semaine prochaine.",
+   "en": "We're leaving next week.",
+   "note": "prochain(e) after the noun"
+  },
+  {
+   "fr": "J'ai un rendez-vous jeudi prochain.",
+   "en": "I have an appointment next Thursday."
+  },
+  {
+   "fr": "Le mois prochain, je suis en vacances.",
+   "en": "Next month, I'm on vacation.",
+   "note": "prochain after the noun; dernier works the same way: le mois dernier"
+  },
+  {
+   "fr": "Bonne fin de semaine!",
+   "en": "Have a good weekend!",
+   "note": "Quebec standard expression"
+  },
+  {
+   "fr": "Qu'est-ce que tu fais en fin de semaine?",
+   "en": "What are you doing this weekend?",
+   "note": "Quebec: en fin de semaine"
+  }
+ ],
+ "quebec": {
+  "intro": "The weekend in Quebec is la fin de semaine, and Friday's goodbye is Bonne fin de semaine! Quebecers also prefer passé for 'last': la semaine passée.",
+  "items": [
+   {
+    "std": "Bon week-end!",
+    "qc": "Bonne fin de semaine!",
+    "en": "Have a good weekend!",
+    "note": "fin de semaine is standard Quebec French"
+   },
+   {
+    "std": "Qu'est-ce que tu fais ce week-end?",
+    "qc": "Tu fais quoi en fin de semaine?",
+    "en": "What are you doing this weekend?",
+    "note": "casual Quebec"
+   },
+   {
+    "std": "la semaine dernière",
+    "qc": "la semaine passée",
+    "en": "last week",
+    "note": "passé is very common in Quebec"
+   },
+   {
+    "std": "Quelle est la date aujourd'hui?",
+    "qc": "On est le combien aujourd'hui?",
+    "en": "What's today's date?",
+    "note": "casual, also used in France"
+   },
+   {
+    "std": "le jour du déménagement",
+    "qc": "le 1er juillet",
+    "en": "moving day",
+    "note": "in Quebec, everybody knows what 'le premier juillet' means for renters"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "'Je fais du sport le samedi' means…",
+   "options": [
+    "I play sports this Saturday",
+    "I play sports on Saturdays",
+    "I played sports Saturday",
+    "I don't play sports on Saturday"
+   ],
+   "a": 1,
+   "why": "le + day = every week."
+  },
+  {
+   "t": "mcq",
+   "q": "How do you say 'July 1st'?",
+   "options": [
+    "le un juillet",
+    "le premier juillet",
+    "le première juillet",
+    "juillet un"
+   ],
+   "a": 1,
+   "why": "Use premier for the first day of the month."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is written correctly?",
+   "options": [
+    "Lundi 3 Mai",
+    "lundi 3 mai",
+    "Lundi 3 mai",
+    "lundi 3 Mai"
+   ],
+   "a": 1,
+   "why": "Days and months are lowercase in French."
+  },
+  {
+   "t": "mcq",
+   "q": "In Quebec, 'weekend' is usually…",
+   "options": [
+    "le week-end",
+    "la fin de semaine",
+    "le samedi-dimanche",
+    "la semaine finie"
+   ],
+   "a": 1,
+   "why": "Quebec says la fin de semaine."
+  },
+  {
+   "t": "mcq",
+   "q": "'La semaine passée' means…",
+   "options": [
+    "next week",
+    "last week",
+    "this week",
+    "the whole week"
+   ],
+   "a": 1,
+   "why": "passée = last, very common in Quebec."
+  },
+  {
+   "t": "fill",
+   "q": "Il neige beaucoup ___ janvier. (in)",
+   "a": [
+    "en"
+   ],
+   "en": "It snows a lot in January.",
+   "why": "en + month."
+  },
+  {
+   "t": "fill",
+   "q": "Mon anniversaire, c'est ___ 12 mars. (the)",
+   "a": [
+    "le"
+   ],
+   "en": "My birthday is March 12.",
+   "why": "le + number + month."
+  },
+  {
+   "t": "fill",
+   "q": "On part la semaine ___. (next)",
+   "a": [
+    "prochaine"
+   ],
+   "en": "We're leaving next week.",
+   "why": "semaine is feminine: prochaine."
+  },
+  {
+   "t": "fill",
+   "q": "Bonne fin de ___! (week)",
+   "a": [
+    "semaine"
+   ],
+   "en": "Have a good weekend!",
+   "why": "fin de semaine = weekend."
+  },
+  {
+   "t": "build",
+   "en": "What's the date today?",
+   "a": "On est le combien aujourd'hui?"
+  },
+  {
+   "t": "build",
+   "en": "I have an appointment next Thursday.",
+   "a": "J'ai un rendez-vous jeudi prochain."
+  },
+  {
+   "t": "translate",
+   "en": "Today is Friday.",
+   "a": [
+    "On est vendredi.",
+    "Aujourd'hui, c'est vendredi.",
+    "C'est vendredi aujourd'hui.",
+    "On est vendredi aujourd'hui.",
+    "Aujourd'hui, on est vendredi.",
+    "Nous sommes vendredi."
+   ],
+   "why": "On est + day is the most natural."
+  },
+  {
+   "t": "translate",
+   "en": "I work on Mondays.",
+   "a": [
+    "Je travaille le lundi.",
+    "Je travaille les lundis."
+   ],
+   "why": "le lundi = every Monday."
+  },
+  {
+   "t": "translate",
+   "en": "Have a good weekend!",
+   "a": [
+    "Bonne fin de semaine!",
+    "Bon week-end!",
+    "Bonne fin de semaine."
+   ],
+   "why": "Bonne fin de semaine is the Quebec form."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "le jour",
+   "en": "day",
+   "g": "m",
+   "ex": "Quel jour on est?"
+  },
+  {
+   "fr": "la semaine",
+   "en": "week",
+   "g": "f",
+   "ex": "La semaine prochaine."
+  },
+  {
+   "fr": "la fin de semaine",
+   "en": "weekend",
+   "g": "f",
+   "ex": "Bonne fin de semaine!",
+   "qc": true
+  },
+  {
+   "fr": "le mois",
+   "en": "month",
+   "g": "m",
+   "ex": "Le mois de mai."
+  },
+  {
+   "fr": "l'année",
+   "en": "year",
+   "g": "f",
+   "ex": "Bonne année!"
+  },
+  {
+   "fr": "la date",
+   "en": "date",
+   "g": "f",
+   "ex": "Quelle est la date?"
+  },
+  {
+   "fr": "aujourd'hui",
+   "en": "today",
+   "ex": "On est lundi aujourd'hui."
+  },
+  {
+   "fr": "hier",
+   "en": "yesterday",
+   "ex": "Hier, c'était dimanche."
+  },
+  {
+   "fr": "prochain / prochaine",
+   "en": "next",
+   "ex": "Lundi prochain."
+  },
+  {
+   "fr": "dernier / dernière",
+   "en": "last",
+   "ex": "Le mois dernier."
+  },
+  {
+   "fr": "passé / passée",
+   "en": "last, past",
+   "ex": "La semaine passée.",
+   "qc": true
+  },
+  {
+   "fr": "l'anniversaire",
+   "en": "birthday, anniversary",
+   "g": "m",
+   "ex": "Mon anniversaire, c'est en mai."
+  },
+  {
+   "fr": "le rendez-vous",
+   "en": "appointment, date",
+   "g": "m",
+   "ex": "J'ai un rendez-vous mardi."
+  },
+  {
+   "fr": "déménager",
+   "en": "to move (house)",
+   "ex": "On déménage le 1er juillet."
+  },
+  {
+   "fr": "la Fête nationale",
+   "en": "Quebec's national holiday (June 24)",
+   "g": "f",
+   "ex": "Bonne Fête nationale!",
+   "qc": true
+  },
+  {
+   "fr": "premier / première",
+   "en": "first",
+   "ex": "Le premier janvier."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "lundi, mardi",
+    "tip": "Quebec: lun-DZI, mar-DZI (d before i)."
+   },
+   {
+    "fr": "mercredi",
+    "tip": "mer-kruh-DI: three syllables."
+   },
+   {
+    "fr": "jeudi",
+    "tip": "zhuh-DI: rounded 'uh'."
+   },
+   {
+    "fr": "juillet",
+    "tip": "zhwee-YAY."
+   },
+   {
+    "fr": "août",
+    "tip": "OOT (common in Quebec) or OO."
+   },
+   {
+    "fr": "le premier juillet",
+    "tip": "luh pruh-MYAY zhwee-YAY."
+   },
+   {
+    "fr": "fin de semaine",
+    "tip": "fan-d'SMEN: casual speech drops the e's."
+   }
+  ],
+  "title": "Le déménagement",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Tu fais quoi en fin de semaine?",
+    "en": "What are you doing this weekend?"
+   },
+   {
+    "s": "B",
+    "fr": "Rien de spécial. Et toi?",
+    "en": "Nothing special. And you?"
+   },
+   {
+    "s": "A",
+    "fr": "Je prépare mon déménagement. Je déménage le premier juillet.",
+    "en": "I'm getting ready for my move. I'm moving on July 1st."
+   },
+   {
+    "s": "B",
+    "fr": "Comme tout le monde! On est le combien aujourd'hui?",
+    "en": "Like everybody! What's the date today?"
+   },
+   {
+    "s": "A",
+    "fr": "Le vingt juin. Et le vingt-quatre, c'est la Saint-Jean!",
+    "en": "June 20. And the 24th is Saint-Jean!"
+   },
+   {
+    "s": "B",
+    "fr": "Je peux t'aider samedi, si tu veux.",
+    "en": "I can help you Saturday, if you want."
+   },
+   {
+    "s": "A",
+    "fr": "Merci! Bonne fin de semaine!",
+    "en": "Thanks! Have a good weekend!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "When is A moving?",
+    "options": [
+     "June 24",
+     "July 1st",
+     "June 20"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What's the date today in the dialogue?",
+    "options": [
+     "June 20",
+     "June 24",
+     "July 1st"
+    ],
+    "a": 0
+   },
+   {
+    "q": "When can B help?",
+    "options": [
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Say today's day and date, and your birthday.",
+   "model": "On est mardi, le 14 octobre. Mon anniversaire, c'est le 3 mars."
+  },
+  {
+   "prompt": "Describe your weekly routine with le + day.",
+   "model": "Le lundi, je travaille. Le mercredi, je fais du sport. Le samedi, je fais l'épicerie."
+  },
+  {
+   "prompt": "Ask a coworker about their weekend plans and wish them a good weekend.",
+   "model": "Tu fais quoi en fin de semaine? Bonne fin de semaine!"
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences about important dates in your year: birthdays, holidays, and what you do in each season's months.",
+  "model": "Mon anniversaire, c'est le 12 mars. L'anniversaire de ma femme, c'est le 2 août. Le 24 juin, on va au parc pour la Fête nationale. En décembre, on va à Toronto. En janvier, il fait très froid."
+ },
+ "quiz": [
+  {
+   "q": "Which day comes after mercredi?",
+   "options": [
+    "mardi",
+    "jeudi",
+    "vendredi",
+    "lundi"
+   ],
+   "a": 1,
+   "why": "lundi, mardi, mercredi, jeudi…"
+  },
+  {
+   "q": "Are months capitalised in French?",
+   "options": [
+    "Yes",
+    "No",
+    "Only in Quebec",
+    "Only in dates"
+   ],
+   "a": 1,
+   "why": "janvier, février… are lowercase."
+  },
+  {
+   "q": "How do you say 'in August'?",
+   "options": [
+    "à août",
+    "en août",
+    "le août",
+    "dans août"
+   ],
+   "a": 1,
+   "why": "en + month (or au mois d'août)."
+  },
+  {
+   "q": "'Le onze novembre': why not 'l'onze'?",
+   "options": [
+    "It's a typo",
+    "No elision before onze and huit",
+    "onze is feminine",
+    "Quebec spelling"
+   ],
+   "a": 1,
+   "why": "le onze, le huit: no elision."
+  },
+  {
+   "q": "'Jeudi prochain' means…",
+   "options": [
+    "last Thursday",
+    "next Thursday",
+    "every Thursday",
+    "Thursday morning"
+   ],
+   "a": 1,
+   "why": "prochain = next."
+  },
+  {
+   "q": "What happens on July 1st in Quebec besides Canada Day?",
+   "options": [
+    "Christmas",
+    "Moving day",
+    "Fête nationale",
+    "New Year"
+   ],
+   "a": 1,
+   "why": "Many leases end, so many people move that day."
+  },
+  {
+   "q": "June 24 in Quebec is…",
+   "options": [
+    "Canada Day",
+    "the Fête nationale (Saint-Jean)",
+    "Labour Day",
+    "Thanksgiving"
+   ],
+   "a": 1,
+   "why": "Quebec's national holiday."
+  },
+  {
+   "q": "Which question asks the date casually?",
+   "options": [
+    "On est le combien?",
+    "Il est quelle heure?",
+    "C'est quoi ton nom?",
+    "Ça coûte combien?"
+   ],
+   "a": 0,
+   "why": "On est le combien aujourd'hui?"
+  },
+  {
+   "q": "The Quebec OQLF-recommended numeric date format is…",
+   "options": [
+    "day/month/year",
+    "month/day/year",
+    "year-month-day",
+    "any order"
+   ],
+   "a": 2,
+   "why": "ISO style: 2026-05-03."
+  }
+ ]
+}

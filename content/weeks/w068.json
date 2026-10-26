@@ -1,0 +1,609 @@
+{
+ "w": 68,
+ "title": "Plus-que-parfait",
+ "goal": "By the end of this lesson you can form the plus-que-parfait and use it to say what had already happened before another past event, especially when telling a story.",
+ "learn": [
+  {
+   "h": "What the plus-que-parfait does",
+   "body": [
+    "The plus-que-parfait is the 'past of the past'. It says that one action was finished *before* another past action, exactly like English 'had + past participle': *Quand je suis arrivé, le film avait commencé* (When I arrived, the movie had started).",
+    "Without it, the order of events can be unclear. Compare *Quand je suis arrivé, il est parti* (he left when I arrived) and *Quand je suis arrivé, il était parti* (he had already left)."
+   ]
+  },
+  {
+   "h": "Formation: imparfait of avoir or être + past participle",
+   "body": [
+    "It works exactly like the passé composé, except the helper verb is in the imparfait: *j'ai mangé* → *j'avais mangé*; *je suis parti* → *j'étais parti*.",
+    "The same verbs take *être* (the 'house' verbs of movement and all pronominal verbs), and the same agreement rules apply: *Elle était déjà partie*, *Ils s'étaient couchés tôt*."
+   ],
+   "table": {
+    "head": [
+     "Person",
+     "with avoir (manger)",
+     "with être (partir)"
+    ],
+    "rows": [
+     [
+      "je / j'",
+      "j'avais mangé",
+      "j'étais parti(e)"
+     ],
+     [
+      "tu",
+      "tu avais mangé",
+      "tu étais parti(e)"
+     ],
+     [
+      "il / elle / on",
+      "il avait mangé",
+      "elle était partie"
+     ],
+     [
+      "nous",
+      "nous avions mangé",
+      "nous étions parti(e)s"
+     ],
+     [
+      "vous",
+      "vous aviez mangé",
+      "vous étiez parti(e)(s)"
+     ],
+     [
+      "ils / elles",
+      "ils avaient mangé",
+      "elles étaient parties"
+     ]
+    ]
+   },
+   "tip": "Passé composé + one step back in time = change ai/suis to avais/étais."
+  },
+  {
+   "h": "Signal words",
+   "body": [
+    "Words that often go with the plus-que-parfait: *déjà* (already), *pas encore* (not yet), *avant* (before), *la veille* (the day before), *parce que* (because, to explain a cause that came first).",
+    "*Déjà* and *pas encore* go between the helper and the participle: *J'avais déjà mangé*, *Il n'était pas encore arrivé*."
+   ]
+  },
+  {
+   "h": "In storytelling",
+   "body": [
+    "In a story, the passé composé moves the action forward, the imparfait sets the scene, and the plus-que-parfait looks back: *Il faisait froid* (scene). *Je suis sorti* (event). *J'avais oublié ma tuque* (earlier event).",
+    "It is also used for regrets and reported speech: *Si seulement j'avais su!* (If only I had known!), *Elle m'a dit qu'elle avait fini* (She told me she had finished)."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Quand je suis arrivé, le film avait déjà commencé.",
+   "en": "When I arrived, the movie had already started.",
+   "note": "the start of the film came first"
+  },
+  {
+   "fr": "J'avais déjà mangé, alors j'ai juste pris un café.",
+   "en": "I had already eaten, so I just had a coffee."
+  },
+  {
+   "fr": "Elle était déjà partie quand tu as appelé.",
+   "en": "She had already left when you called.",
+   "note": "partir takes être: partie agrees"
+  },
+  {
+   "fr": "Nous n'avions pas encore fini nos devoirs.",
+   "en": "We hadn't finished our homework yet."
+  },
+  {
+   "fr": "Il était fatigué parce qu'il avait travaillé toute la nuit.",
+   "en": "He was tired because he had worked all night."
+  },
+  {
+   "fr": "Ils s'étaient couchés tôt la veille.",
+   "en": "They had gone to bed early the night before.",
+   "note": "pronominal verb: être + agreement"
+  },
+  {
+   "fr": "Je ne savais pas que tu avais déménagé.",
+   "en": "I didn't know you had moved."
+  },
+  {
+   "fr": "Elle m'a dit qu'elle avait perdu ses clés.",
+   "en": "She told me she had lost her keys.",
+   "note": "reported speech"
+  },
+  {
+   "fr": "Si seulement j'avais su!",
+   "en": "If only I had known!",
+   "note": "regret"
+  },
+  {
+   "fr": "On avait réservé une table, mais le resto était fermé.",
+   "en": "We had booked a table, but the restaurant was closed."
+  },
+  {
+   "fr": "Tu avais vu ce film avant?",
+   "en": "Had you seen this movie before?"
+  },
+  {
+   "fr": "Il faisait froid et j'avais oublié ma tuque.",
+   "en": "It was cold and I had forgotten my hat.",
+   "note": "tuque = winter hat in Quebec"
+  },
+  {
+   "fr": "Vous étiez déjà allés au Québec?",
+   "en": "Had you already been to Quebec?"
+  },
+  {
+   "fr": "Le train était parti cinq minutes avant.",
+   "en": "The train had left five minutes before."
+  },
+  {
+   "fr": "Je lui ai rendu le livre qu'il m'avait prêté.",
+   "en": "I gave him back the book he had lent me."
+  }
+ ],
+ "quebec": {
+  "intro": "Quebec storytellers use the plus-que-parfait all the time ('j'avais déjà mangé'). The grammar is the same as standard French; what changes in fast speech is the pronouns: il avait → y'avait, elle avait → a l'avait, j'étais → j'tais.",
+  "items": [
+   {
+    "std": "J'avais déjà mangé.",
+    "qc": "J'avais déjà mangé, là.",
+    "en": "I had already eaten.",
+    "note": "The filler 'là' is typical of Quebec storytelling"
+   },
+   {
+    "std": "Il avait oublié.",
+    "qc": "Y'avait oublié.",
+    "en": "He had forgotten.",
+    "note": "il → y in fast speech"
+   },
+   {
+    "std": "Elle avait fini.",
+    "qc": "A l'avait fini.",
+    "en": "She had finished.",
+    "note": "elle avait → a l'avait in informal speech, like a l'a for elle a"
+   },
+   {
+    "std": "J'étais déjà parti.",
+    "qc": "J'tais déjà parti.",
+    "en": "I had already left.",
+    "note": "j'étais → j'tais (lesson 41)"
+   },
+   {
+    "std": "Je ne l'avais pas vu.",
+    "qc": "J'l'avais pas vu.",
+    "en": "I hadn't seen it / him.",
+    "note": "ne dropped, je shortened"
+   },
+   {
+    "std": "Il y avait eu un accident.",
+    "qc": "Y'avait eu un accident.",
+    "en": "There had been an accident.",
+    "note": "y'avait = il y avait"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "The plus-que-parfait is formed with…",
+   "options": [
+    "present of avoir/être + past participle",
+    "imparfait of avoir/être + past participle",
+    "futur of avoir/être + infinitive",
+    "imparfait + infinitive"
+   ],
+   "a": 1,
+   "why": "Helper in the imparfait + past participle."
+  },
+  {
+   "t": "mcq",
+   "q": "Which means 'She had already left'?",
+   "options": [
+    "Elle est déjà partie.",
+    "Elle était déjà partie.",
+    "Elle avait déjà partie.",
+    "Elle partait déjà."
+   ],
+   "a": 1,
+   "why": "Partir takes être; imparfait était + partie."
+  },
+  {
+   "t": "mcq",
+   "q": "Where does 'déjà' go?",
+   "options": [
+    "Before the helper",
+    "Between helper and participle",
+    "At the very end only",
+    "Before the subject"
+   ],
+   "a": 1,
+   "why": "J'avais déjà mangé."
+  },
+  {
+   "t": "mcq",
+   "q": "'Y'avait oublié' in Quebec speech means…",
+   "options": [
+    "There was forgotten",
+    "He had forgotten",
+    "You had forgotten",
+    "We forgot"
+   ],
+   "a": 1,
+   "why": "y'avait = il avait."
+  },
+  {
+   "t": "fill",
+   "q": "Quand je suis arrivé, ils ___ déjà mangé. (avoir)",
+   "a": [
+    "avaient"
+   ],
+   "en": "When I arrived, they had already eaten.",
+   "why": "ils + imparfait of avoir = avaient."
+  },
+  {
+   "t": "fill",
+   "q": "Nous ___ partis avant la pluie. (être)",
+   "a": [
+    "étions"
+   ],
+   "en": "We had left before the rain.",
+   "why": "nous + imparfait of être = étions."
+  },
+  {
+   "t": "fill",
+   "q": "Elle s'était ___ tôt. (coucher)",
+   "a": [
+    "couchée"
+   ],
+   "en": "She had gone to bed early.",
+   "why": "Pronominal verb: agreement with elle."
+  },
+  {
+   "t": "fill",
+   "q": "Je ne savais pas que tu ___ déménagé. (avoir)",
+   "a": [
+    "avais"
+   ],
+   "en": "I didn't know you had moved.",
+   "why": "tu avais + participle."
+  },
+  {
+   "t": "build",
+   "en": "I had already eaten.",
+   "a": "J'avais déjà mangé."
+  },
+  {
+   "t": "build",
+   "en": "The movie had already started.",
+   "a": "Le film avait déjà commencé."
+  },
+  {
+   "t": "build",
+   "en": "She told me she had finished.",
+   "a": "Elle m'a dit qu'elle avait fini."
+  },
+  {
+   "t": "translate",
+   "en": "If only I had known!",
+   "a": [
+    "Si seulement j'avais su!",
+    "Si seulement j'avais su."
+   ],
+   "why": "Regret: si seulement + plus-que-parfait."
+  },
+  {
+   "t": "translate",
+   "en": "We had forgotten the keys.",
+   "a": [
+    "Nous avions oublié les clés.",
+    "On avait oublié les clés.",
+    "Nous avions oublié les clefs.",
+    "On avait oublié les clefs."
+   ],
+   "why": "avoir in the imparfait + oublié."
+  },
+  {
+   "t": "translate",
+   "en": "He hadn't arrived yet.",
+   "a": [
+    "Il n'était pas encore arrivé.",
+    "Il était pas encore arrivé."
+   ],
+   "why": "arriver takes être; pas encore around the participle."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "déjà",
+   "en": "already",
+   "ex": "J'avais déjà vu ce film."
+  },
+  {
+   "fr": "pas encore",
+   "en": "not yet",
+   "ex": "Il n'était pas encore là."
+  },
+  {
+   "fr": "la veille",
+   "en": "the day before, the eve",
+   "g": "f",
+   "ex": "La veille, j'avais très peu dormi."
+  },
+  {
+   "fr": "avant",
+   "en": "before",
+   "ex": "J'avais tout préparé avant."
+  },
+  {
+   "fr": "auparavant",
+   "en": "beforehand, previously",
+   "ex": "Je n'étais jamais venu ici auparavant."
+  },
+  {
+   "fr": "oublier",
+   "en": "to forget",
+   "ex": "J'avais oublié mon parapluie."
+  },
+  {
+   "fr": "prêter",
+   "en": "to lend",
+   "ex": "Il m'avait prêté sa voiture."
+  },
+  {
+   "fr": "rendre",
+   "en": "to give back",
+   "ex": "Je lui ai rendu son livre."
+  },
+  {
+   "fr": "réserver",
+   "en": "to book, to reserve",
+   "ex": "On avait réservé une table."
+  },
+  {
+   "fr": "si seulement",
+   "en": "if only",
+   "ex": "Si seulement j'avais su!"
+  },
+  {
+   "fr": "la tuque",
+   "en": "winter hat, toque",
+   "g": "f",
+   "ex": "Mets ta tuque, il fait froid!",
+   "qc": true
+  },
+  {
+   "fr": "l'histoire",
+   "en": "story; history",
+   "g": "f",
+   "ex": "Il m'a raconté une drôle d'histoire."
+  },
+  {
+   "fr": "raconter",
+   "en": "to tell (a story)",
+   "ex": "Raconte-moi ce qui s'était passé."
+  },
+  {
+   "fr": "se passer",
+   "en": "to happen",
+   "ex": "Qu'est-ce qui s'était passé?"
+  },
+  {
+   "fr": "y'avait",
+   "en": "there was / he had (informal)",
+   "ex": "Y'avait ben du monde.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "j'avais",
+    "tip": "zha-VAY; same sound for avais, avait, avaient."
+   },
+   {
+    "fr": "nous avions",
+    "tip": "Liaison: noo-za-VYON."
+   },
+   {
+    "fr": "vous aviez",
+    "tip": "Liaison: voo-za-VYAY."
+   },
+   {
+    "fr": "ils avaient",
+    "tip": "eel-za-VAY; -aient sounds like ai."
+   },
+   {
+    "fr": "elle était partie",
+    "tip": "è-lé-tè par-TEE: link elle and était."
+   },
+   {
+    "fr": "y'avait",
+    "tip": "Quebec: ya-VAY or ya-VAÈ, for il y avait or il avait."
+   }
+  ],
+  "title": "Une mauvaise soirée",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Puis, ta soirée au théâtre?",
+    "en": "So, your evening at the theatre?"
+   },
+   {
+    "s": "B",
+    "fr": "Un désastre! Quand on est arrivés, le spectacle avait déjà commencé.",
+    "en": "A disaster! When we arrived, the show had already started."
+   },
+   {
+    "s": "A",
+    "fr": "Pourquoi? Vous étiez partis en retard?",
+    "en": "Why? Had you left late?"
+   },
+   {
+    "s": "B",
+    "fr": "Non, mais il y avait eu un accident sur le pont.",
+    "en": "No, but there had been an accident on the bridge."
+   },
+   {
+    "s": "A",
+    "fr": "Ah non! Et après?",
+    "en": "Oh no! And after?"
+   },
+   {
+    "s": "B",
+    "fr": "On voulait souper au resto, mais j'avais oublié mon portefeuille.",
+    "en": "We wanted to have supper at a restaurant, but I had forgotten my wallet."
+   },
+   {
+    "s": "A",
+    "fr": "Et ton chum?",
+    "en": "And your boyfriend?"
+   },
+   {
+    "s": "B",
+    "fr": "Il avait laissé sa carte à la maison lui aussi!",
+    "en": "He had left his card at home too!"
+   },
+   {
+    "s": "A",
+    "fr": "Si seulement vous aviez vérifié avant!",
+    "en": "If only you had checked before!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What had happened when they arrived?",
+    "options": [
+     "The show had been cancelled",
+     "The show had already started",
+     "The theatre had closed"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Why were they late?",
+    "options": [
+     "They had left late",
+     "There had been an accident on the bridge",
+     "They had lost the tickets"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Why couldn't they eat at the restaurant?",
+    "options": [
+     "It was full",
+     "They had forgotten their wallets/cards",
+     "They had already eaten"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Say three things you had already done before 9 a.m. today.",
+   "model": "Avant neuf heures, j'avais déjà déjeuné, j'avais pris ma douche et j'avais lu mes courriels."
+  },
+  {
+   "prompt": "Tell a mini-story: you arrived somewhere and something had already happened.",
+   "model": "Quand je suis arrivé à la fête, tout le monde était déjà parti et ils avaient mangé tout le gâteau!"
+  },
+  {
+   "prompt": "Express a regret with 'Si seulement…'.",
+   "model": "Si seulement j'avais appris le français plus tôt!"
+  }
+ ],
+ "write": {
+  "prompt": "Write a short story (6–7 sentences) about a day when everything went wrong. Use the imparfait for the scene, the passé composé for events and the plus-que-parfait for what had happened before.",
+  "model": "C'était un lundi matin et il neigeait. Je suis sorti de la maison à huit heures. Malheureusement, j'avais oublié mes clés à l'intérieur. J'ai appelé mon colocataire, mais il était déjà parti au travail. Alors j'ai attendu au café du coin. Quand il est revenu, j'avais bu quatre cafés! Si seulement j'avais vérifié mes poches."
+ },
+ "quiz": [
+  {
+   "q": "Complete: 'Tu ___ déjà vu ce film?' (had)",
+   "options": [
+    "as",
+    "avais",
+    "étais",
+    "auras"
+   ],
+   "a": 1,
+   "why": "tu + avoir in the imparfait = avais."
+  },
+  {
+   "q": "Which sentence shows that he left BEFORE I arrived?",
+   "options": [
+    "Quand je suis arrivé, il est parti.",
+    "Quand je suis arrivé, il était parti.",
+    "Quand je suis arrivé, il partait.",
+    "Quand j'arrive, il part."
+   ],
+   "a": 1,
+   "why": "The plus-que-parfait shows the earlier action."
+  },
+  {
+   "q": "Which verb takes être in the plus-que-parfait?",
+   "options": [
+    "manger",
+    "finir",
+    "arriver",
+    "voir"
+   ],
+   "a": 2,
+   "why": "Arriver is a verb of movement: j'étais arrivé."
+  },
+  {
+   "q": "'La veille' means…",
+   "options": [
+    "the evening",
+    "the day before",
+    "the old woman",
+    "the week"
+   ],
+   "a": 1,
+   "why": "La veille = the day before / the eve."
+  },
+  {
+   "q": "Correct agreement: 'Elles s'étaient ___ tôt.' (lever)",
+   "options": [
+    "levé",
+    "levée",
+    "levés",
+    "levées"
+   ],
+   "a": 3,
+   "why": "Pronominal verb, feminine plural subject."
+  },
+  {
+   "q": "'Elle m'a dit qu'elle avait fini' means…",
+   "options": [
+    "She told me she finishes.",
+    "She told me she had finished.",
+    "She tells me she will finish.",
+    "She told me to finish."
+   ],
+   "a": 1,
+   "why": "Reported speech uses the plus-que-parfait for an earlier action."
+  },
+  {
+   "q": "'J'tais déjà parti' is the spoken form of…",
+   "options": [
+    "J'étais déjà parti.",
+    "Je suis déjà parti.",
+    "J'avais déjà parti.",
+    "Je serai déjà parti."
+   ],
+   "a": 0,
+   "why": "j'étais → j'tais in Quebec speech."
+  },
+  {
+   "q": "Which is correct?",
+   "options": [
+    "Nous avions allés",
+    "Nous étions allés",
+    "Nous avons étions allés",
+    "Nous étions allé"
+   ],
+   "a": 1,
+   "why": "Aller takes être, and the participle agrees: allés."
+  }
+ ]
+}

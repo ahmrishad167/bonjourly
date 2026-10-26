@@ -1,0 +1,630 @@
+{
+ "w": 102,
+ "title": "Independent, main and subordinate clauses",
+ "goal": "By the end of this lesson you can identify independent, main and subordinate clauses, name the main types of subordinate clauses, and break a long news sentence down to its core.",
+ "learn": [
+  {
+   "h": "One conjugated verb = one clause",
+   "body": [
+    "A clause (*une proposition*) is a group of words built around one conjugated verb. Count the conjugated verbs and you know how many clauses a sentence has.",
+    "An *independent clause* stands alone: *Il neige.* Two independent clauses can be juxtaposed with punctuation (*Il neige, les écoles sont fermées.*) or coordinated with *mais, ou, et, donc, or, ni, car* (*Il neige, donc les écoles sont fermées.*).",
+    "A *main clause* (*proposition principale*) has at least one *subordinate clause* (*proposition subordonnée*) that depends on it: *Les écoles sont fermées [parce qu'il neige].*"
+   ],
+   "table": {
+    "head": [
+     "Sentence",
+     "Clauses",
+     "Type"
+    ],
+    "rows": [
+     [
+      "Il neige.",
+      "1",
+      "independent"
+     ],
+     [
+      "Il neige et il vente.",
+      "2",
+      "two coordinated independents"
+     ],
+     [
+      "Il neige; on reste en dedans.",
+      "2",
+      "two juxtaposed independents"
+     ],
+     [
+      "On reste en dedans parce qu'il neige.",
+      "2",
+      "main + subordinate"
+     ]
+    ]
+   },
+   "tip": "Infinitives and participles don't count as conjugated verbs."
+  },
+  {
+   "h": "Four kinds of subordinate clauses",
+   "body": [
+    "1. *Relative*: begins with *qui, que, dont, où, lequel* and describes a noun: *le député [qui a démissionné]*.",
+    "2. *Complétive* (noun clause): begins with *que* and completes a verb: *Le ministre affirme [que le projet avance].*",
+    "3. *Circonstancielle* (adverbial): begins with a conjunction of time, cause, condition, concession, purpose: *[Quand le budget sera adopté], [parce que…], [si…], [bien que…], [pour que…].*",
+    "4. *Interrogative indirecte*: begins with *si, où, quand, pourquoi, ce que…* after a verb like *demander, savoir*: *On ne sait pas [quand les travaux finiront].*"
+   ]
+  },
+  {
+   "h": "Reduced clauses: participles and infinitives",
+   "body": [
+    "Formal writing often shortens subordinate clauses into participial or infinitive phrases, with no conjugated verb: *Arrivé à Québec, le premier ministre a rencontré la presse.* (= Quand il est arrivé…) *Ayant terminé ses études, elle a trouvé un emploi.* (= Comme elle avait terminé…) *Les travaux terminés, la rue a rouvert.* (= Une fois que les travaux ont été terminés…)",
+    "These phrases usually refer to the subject of the main clause. Unpacking them into full clauses is the key to reading news."
+   ]
+  },
+  {
+   "h": "Method: breaking down a long news sentence",
+   "body": [
+    "1. Find every conjugated verb. 2. Put brackets around each clause that starts with a relative pronoun or a conjunction. 3. Put brackets around participial phrases and reporting incises (*a déclaré la ministre*, *selon la police*). 4. What's left is the main clause: subject + verb + object.",
+    "Example: *Le maire de Québec, [qui était en visite à Paris], a annoncé hier [que le tramway, [dont la construction a été retardée], entrerait en service en 2029].* Main clause: *Le maire a annoncé hier [que le tramway entrerait en service en 2029].*"
+   ]
+  },
+  {
+   "h": "Quebec: from newspaper sentences to spoken sentences",
+   "body": [
+    "Radio-Canada and Le Devoir build long embedded sentences. Spoken Quebec French does the opposite: it chops ideas into short juxtaposed pieces and uses dislocation (*Le ministre, lui, y dit que…*), *pis*, and *faque* instead of embedding.",
+    "Both skills matter: breaking down written sentences to understand the news, and recognizing the spoken style when people retell it."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Le vent souffle.",
+   "en": "The wind is blowing.",
+   "note": "one independent clause"
+  },
+  {
+   "fr": "Il pleut, les rues sont inondées.",
+   "en": "It's raining, the streets are flooded.",
+   "note": "two juxtaposed independent clauses"
+  },
+  {
+   "fr": "Je voulais sortir, mais il faisait trop froid.",
+   "en": "I wanted to go out, but it was too cold.",
+   "note": "two coordinated clauses"
+  },
+  {
+   "fr": "La députée qui a démissionné vient de Gatineau.",
+   "en": "The MNA who resigned is from Gatineau.",
+   "note": "main + relative clause"
+  },
+  {
+   "fr": "Le gouvernement affirme que la situation est sous contrôle.",
+   "en": "The government says the situation is under control.",
+   "note": "main + complétive"
+  },
+  {
+   "fr": "Quand la neige fondra, les travaux reprendront.",
+   "en": "When the snow melts, the work will resume.",
+   "note": "circonstancielle of time + main"
+  },
+  {
+   "fr": "Bien que le budget soit limité, la ville investira dans les parcs.",
+   "en": "Although the budget is limited, the city will invest in parks.",
+   "note": "concession: bien que + subjunctive"
+  },
+  {
+   "fr": "Personne ne sait quand le pont rouvrira.",
+   "en": "No one knows when the bridge will reopen.",
+   "note": "main + indirect question"
+  },
+  {
+   "fr": "Arrivé à l'aéroport, le ministre a répondu aux journalistes.",
+   "en": "On arriving at the airport, the minister answered reporters.",
+   "note": "participial phrase = Quand il est arrivé…"
+  },
+  {
+   "fr": "Ayant perdu son emploi, il a dû déménager.",
+   "en": "Having lost his job, he had to move.",
+   "note": "ayant + participle = comme il avait perdu"
+  },
+  {
+   "fr": "Les travaux terminés, la rue a enfin rouvert.",
+   "en": "With the work finished, the street finally reopened.",
+   "note": "absolute participial phrase"
+  },
+  {
+   "fr": "« Nous ferons mieux », a promis la mairesse.",
+   "en": "'We'll do better,' the mayor promised.",
+   "note": "reporting incise with inversion"
+  },
+  {
+   "fr": "Selon la police, le suspect, qui avait fui, a été arrêté à Trois-Rivières.",
+   "en": "According to police, the suspect, who had fled, was arrested in Trois-Rivières.",
+   "note": "main: le suspect a été arrêté"
+  },
+  {
+   "fr": "Le projet dont on parle depuis dix ans sera enfin réalisé si le financement est confirmé.",
+   "en": "The project people have been talking about for ten years will finally be carried out if the funding is confirmed.",
+   "note": "main + relative + condition"
+  },
+  {
+   "fr": "La ministre a annoncé que les écoles qui ont des problèmes de ventilation seront rénovées.",
+   "en": "The minister announced that schools with ventilation problems will be renovated.",
+   "note": "main + complétive containing a relative"
+  },
+  {
+   "fr": "Le ministre, lui, y dit que tout va bien.",
+   "en": "The minister, he says everything's fine.",
+   "note": "spoken Quebec dislocation; standard: Le ministre dit que tout va bien"
+  }
+ ],
+ "quebec": {
+  "intro": "News French embeds clause inside clause; spoken Quebec French breaks the same information into short pieces with dislocation, pis and faque. Each item shows a news-style sentence and how someone would say it in conversation.",
+  "items": [
+   {
+    "std": "Le ministre, qui était en visite à Rimouski, a annoncé une hausse du budget.",
+    "qc": "Le ministre, y était à Rimouski, pis y'a annoncé plus d'argent.",
+    "en": "The minister, who was visiting Rimouski, announced a budget increase.",
+    "note": "relative clause → juxtaposition with pis"
+   },
+   {
+    "std": "Bien que les routes soient glacées, les écoles restent ouvertes.",
+    "qc": "Les routes sont glacées, mais les écoles, elles, sont ouvertes pareil.",
+    "en": "Although the roads are icy, schools remain open.",
+    "note": "pareil = anyway, informal Quebec"
+   },
+   {
+    "std": "Ayant perdu son emploi, il a dû déménager.",
+    "qc": "Y'a perdu sa job, faque y'a dû déménager.",
+    "en": "Having lost his job, he had to move.",
+    "note": "participial phrase → two clauses with faque"
+   },
+   {
+    "std": "La mairesse affirme que le projet avance.",
+    "qc": "La mairesse, elle dit que le projet avance.",
+    "en": "The mayor says the project is moving forward.",
+    "note": "dislocation: subject repeated as a pronoun"
+   },
+   {
+    "std": "Les travaux terminés, la rue a rouvert.",
+    "qc": "Quand les travaux ont été finis, y'ont rouvert la rue.",
+    "en": "Once the work was done, the street reopened.",
+    "note": "absolute phrase → full clause in speech"
+   },
+   {
+    "std": "On ignore quand le service reprendra.",
+    "qc": "On sait pas quand ça va repartir.",
+    "en": "It's unknown when service will resume.",
+    "note": "formal ignorer → savoir pas; repartir = to start again"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "How many clauses: 'Je pense qu'il viendra quand il aura fini.'?",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "a": 2,
+   "why": "Three conjugated verbs: pense, viendra, aura fini."
+  },
+  {
+   "t": "mcq",
+   "q": "In 'Le gars qui habite en haut est policier', the main clause is…",
+   "options": [
+    "qui habite en haut",
+    "Le gars est policier",
+    "habite en haut est",
+    "Le gars qui habite"
+   ],
+   "a": 1,
+   "why": "Remove the relative clause: Le gars est policier."
+  },
+  {
+   "t": "mcq",
+   "q": "'Je ne sais pas où il travaille' contains…",
+   "options": [
+    "a relative clause",
+    "an indirect question",
+    "a coordinated clause",
+    "a participial phrase"
+   ],
+   "a": 1,
+   "why": "Où after savoir introduces an indirect question."
+  },
+  {
+   "t": "mcq",
+   "q": "'Arrivée à Montréal, elle a appelé sa mère.' Arrivée à Montréal means…",
+   "options": [
+    "Montreal's arrival",
+    "When she arrived in Montreal",
+    "Before she arrived",
+    "The arrival hall"
+   ],
+   "a": 1,
+   "why": "Participial phrase = quand elle est arrivée."
+  },
+  {
+   "t": "fill",
+   "q": "Le ministre affirme ___ la situation est stable.",
+   "a": [
+    "que"
+   ],
+   "en": "The minister says the situation is stable.",
+   "why": "Complétive introduced by que."
+  },
+  {
+   "t": "fill",
+   "q": "La rue ___ j'habite est fermée.",
+   "a": [
+    "où"
+   ],
+   "en": "The street where I live is closed.",
+   "why": "Relative clause of place."
+  },
+  {
+   "t": "fill",
+   "q": "___ le budget soit limité, on investira. (although)",
+   "a": [
+    "Bien que",
+    "Quoique"
+   ],
+   "en": "Although the budget is limited, we will invest.",
+   "why": "Concession + subjunctive."
+  },
+  {
+   "t": "fill",
+   "q": "___ fini ses études, elle a trouvé un emploi. (having)",
+   "a": [
+    "Ayant"
+   ],
+   "en": "Having finished her studies, she found a job.",
+   "why": "Ayant + past participle."
+  },
+  {
+   "t": "fill",
+   "q": "On ne sait pas ___ les travaux finiront. (when)",
+   "a": [
+    "quand"
+   ],
+   "en": "We don't know when the work will finish.",
+   "why": "Indirect question."
+  },
+  {
+   "t": "build",
+   "en": "The government says the situation is under control.",
+   "a": "Le gouvernement affirme que la situation est sous contrôle."
+  },
+  {
+   "t": "build",
+   "en": "No one knows when the bridge will reopen.",
+   "a": "Personne ne sait quand le pont rouvrira."
+  },
+  {
+   "t": "build",
+   "en": "The MNA who resigned is from Gatineau.",
+   "a": "La députée qui a démissionné vient de Gatineau."
+  },
+  {
+   "t": "translate",
+   "en": "When the snow melts, the work will resume.",
+   "a": [
+    "Quand la neige fondra, les travaux reprendront.",
+    "Lorsque la neige fondra, les travaux reprendront.",
+    "Quand la neige va fondre, les travaux vont reprendre."
+   ],
+   "why": "Future after quand in a time clause."
+  },
+  {
+   "t": "translate",
+   "en": "Having lost his job, he moved.",
+   "a": [
+    "Ayant perdu son emploi, il a déménagé.",
+    "Ayant perdu son travail, il a déménagé.",
+    "Comme il avait perdu son emploi, il a déménagé.",
+    "Comme il avait perdu son travail, il a déménagé."
+   ],
+   "why": "Ayant + participle, or comme + plus-que-parfait."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "la proposition",
+   "en": "clause; proposal",
+   "g": "f",
+   "ex": "une proposition subordonnée"
+  },
+  {
+   "fr": "principal / principale",
+   "en": "main",
+   "ex": "la proposition principale"
+  },
+  {
+   "fr": "subordonné / subordonnée",
+   "en": "subordinate",
+   "ex": "une subordonnée relative"
+  },
+  {
+   "fr": "juxtaposé / juxtaposée",
+   "en": "juxtaposed (side by side)",
+   "ex": "deux phrases juxtaposées"
+  },
+  {
+   "fr": "affirmer",
+   "en": "to state, to assert",
+   "ex": "Il affirme que c'est faux."
+  },
+  {
+   "fr": "le député / la députée",
+   "en": "member of the legislature (MNA / MP)",
+   "ex": "La députée de Gatineau a parlé."
+  },
+  {
+   "fr": "la mairesse / le maire",
+   "en": "mayor",
+   "ex": "La mairesse a fait une annonce."
+  },
+  {
+   "fr": "le financement",
+   "en": "funding",
+   "g": "m",
+   "ex": "Le financement est confirmé."
+  },
+  {
+   "fr": "les travaux",
+   "en": "roadwork, construction work",
+   "g": "m",
+   "ex": "Les travaux vont durer un an."
+  },
+  {
+   "fr": "rouvrir",
+   "en": "to reopen",
+   "ex": "Le pont rouvrira lundi."
+  },
+  {
+   "fr": "fuir",
+   "en": "to flee",
+   "ex": "Le suspect a fui."
+  },
+  {
+   "fr": "selon",
+   "en": "according to",
+   "ex": "Selon la police, personne n'est blessé."
+  },
+  {
+   "fr": "bien que",
+   "en": "although (+ subj.)",
+   "ex": "Bien qu'il pleuve, on sort."
+  },
+  {
+   "fr": "ignorer",
+   "en": "not to know; to ignore",
+   "ex": "On ignore la cause de l'incendie."
+  },
+  {
+   "fr": "pareil",
+   "en": "anyway, all the same (informal)",
+   "ex": "Il pleuvait, mais on est sortis pareil.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "la proposition subordonnée",
+    "tip": "la-pro-po-zee-SYON sü-bor-do-NÉ."
+   },
+   {
+    "fr": "a annoncé",
+    "tip": "a-a-non-SÉ: say both a's clearly."
+   },
+   {
+    "fr": "a promis la mairesse",
+    "tip": "In news reading, the incise is said lower and faster."
+   },
+   {
+    "fr": "ayant",
+    "tip": "è-YAN."
+   },
+   {
+    "fr": "bien que",
+    "tip": "byin-KUH."
+   },
+   {
+    "fr": "pareil",
+    "tip": "pa-RÈY; often pa-RAY in Quebec."
+   }
+  ],
+  "title": "Expliquer la nouvelle",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "J'ai lu une phrase dans Le Devoir, mais je n'ai rien compris.",
+    "en": "I read a sentence in Le Devoir, but I didn't understand anything."
+   },
+   {
+    "s": "B",
+    "fr": "Lis-la-moi.",
+    "en": "Read it to me."
+   },
+   {
+    "s": "A",
+    "fr": "« La ministre, qui était en tournée en Abitibi, a confirmé que l'hôpital dont la construction avait été suspendue ouvrirait en 2028. »",
+    "en": "'The minister, who was touring Abitibi, confirmed that the hospital whose construction had been suspended would open in 2028.'"
+   },
+   {
+    "s": "B",
+    "fr": "OK. D'abord, trouve le verbe principal.",
+    "en": "OK. First, find the main verb."
+   },
+   {
+    "s": "A",
+    "fr": "« A confirmé »? Donc : la ministre a confirmé quelque chose.",
+    "en": "'Confirmed'? So: the minister confirmed something."
+   },
+   {
+    "s": "B",
+    "fr": "Exact. « Qui était en tournée » décrit la ministre. Qu'est-ce qu'elle a confirmé?",
+    "en": "Exactly. 'Who was touring' describes the minister. What did she confirm?"
+   },
+   {
+    "s": "A",
+    "fr": "Que l'hôpital ouvrirait en 2028. Et « dont la construction avait été suspendue » décrit l'hôpital.",
+    "en": "That the hospital would open in 2028. And 'whose construction had been suspended' describes the hospital."
+   },
+   {
+    "s": "B",
+    "fr": "Bravo! En gros : l'hôpital va finalement ouvrir en 2028.",
+    "en": "Well done! Basically: the hospital will finally open in 2028."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What is the main verb of the sentence?",
+    "options": [
+     "était",
+     "a confirmé",
+     "avait été suspendue"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Where was the minister?",
+    "options": [
+     "In Gaspésie",
+     "In Abitibi",
+     "In Quebec City"
+    ],
+    "a": 1
+   },
+   {
+    "q": "When will the hospital open?",
+    "options": [
+     "2026",
+     "2028",
+     "2030"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Make one sentence with a main clause, a relative clause and a time clause about your day.",
+   "model": "Quand je suis arrivé au bureau, j'ai parlé avec la collègue qui s'occupe des clients."
+  },
+  {
+   "prompt": "Break down aloud: 'Le maire, qui a été réélu, a promis que les rues seraient déneigées plus vite.'",
+   "model": "Verbe principal : a promis. Le maire a promis quelque chose. Qui a été réélu décrit le maire. Il a promis que les rues seraient déneigées plus vite."
+  },
+  {
+   "prompt": "Retell the same news casually, Quebec style, in short pieces.",
+   "model": "Le maire, y'a été réélu, pis là y promet que les rues vont être déneigées plus vite."
+  }
+ ],
+ "write": {
+  "prompt": "Find (or invent) a long news sentence about Quebec. Copy it, put each subordinate clause in brackets, name its type, then rewrite the core idea in two short sentences.",
+  "model": "Phrase : « Le premier ministre, [qui rencontrait les maires hier], a déclaré [que le réseau routier, [dont l'état inquiète les citoyens], serait réparé] [avant que l'hiver arrive]. » Types : relative, complétive, relative, circonstancielle de temps. Idée principale : Le premier ministre a parlé hier. Il a promis de réparer les routes avant l'hiver."
+ },
+ "quiz": [
+  {
+   "q": "What defines a clause?",
+   "options": [
+    "A comma",
+    "A conjugated verb",
+    "A noun",
+    "A conjunction"
+   ],
+   "a": 1,
+   "why": "One conjugated verb per clause."
+  },
+  {
+   "q": "'Je sais que tu as raison' contains a…",
+   "options": [
+    "relative clause",
+    "complétive",
+    "participial phrase",
+    "indirect question"
+   ],
+   "a": 1,
+   "why": "Que after a verb introduces a complétive."
+  },
+  {
+   "q": "Which is a relative clause?",
+   "options": [
+    "parce qu'il pleut",
+    "qui habite à Laval",
+    "que tu viennes",
+    "si tu veux"
+   ],
+   "a": 1,
+   "why": "Qui + verb describing a noun."
+  },
+  {
+   "q": "Two independent clauses joined by 'mais' are…",
+   "options": [
+    "juxtaposed",
+    "coordinated",
+    "subordinated",
+    "relative"
+   ],
+   "a": 1,
+   "why": "Coordinating conjunction → coordinated."
+  },
+  {
+   "q": "'Les travaux terminés, …' is a…",
+   "options": [
+    "relative clause",
+    "participial (absolute) phrase",
+    "complétive",
+    "main clause"
+   ],
+   "a": 1,
+   "why": "No conjugated verb: participle phrase."
+  },
+  {
+   "q": "In 'a déclaré la ministre', why is the subject after the verb?",
+   "options": [
+    "It's a question",
+    "It's a reporting incise",
+    "It's a mistake",
+    "It's the subjunctive"
+   ],
+   "a": 1,
+   "why": "Incises after a quote use inversion."
+  },
+  {
+   "q": "How does spoken Quebec French usually handle long ideas?",
+   "options": [
+    "More embedding",
+    "Short juxtaposed pieces with pis, faque and dislocation",
+    "Only the passive",
+    "Only participles"
+   ],
+   "a": 1,
+   "why": "Speech chops ideas up instead of embedding them."
+  },
+  {
+   "q": "First step in breaking down a long sentence?",
+   "options": [
+    "Translate every word",
+    "Find the conjugated verbs",
+    "Count the commas",
+    "Find the adjectives"
+   ],
+   "a": 1,
+   "why": "Verbs reveal the clauses."
+  },
+  {
+   "q": "'Bien que' introduces a clause of…",
+   "options": [
+    "time",
+    "cause",
+    "concession",
+    "purpose"
+   ],
+   "a": 2,
+   "why": "Bien que = although (+ subjunctive)."
+  }
+ ]
+}

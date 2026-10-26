@@ -1,0 +1,656 @@
+{
+ "w": 59,
+ "title": "Review and checkpoint 3",
+ "goal": "By the end of this lesson you can combine the A2 tools of lessons 41–58 (past tenses, object pronouns, y and en, comparisons, demonstratives, relatives, the future, numbers, possessives and adverbs) and follow a short radio news bulletin in standard Quebec French.",
+ "learn": [
+  {
+   "h": "Telling the past (lessons 41–43)",
+   "body": [
+    "*Imparfait* for background, habits and descriptions; *passé composé* for events that move the story: *Il neigeait* (scene) *quand l'autobus est arrivé* (event).",
+    "Connectors: *d'abord, ensuite, tout à coup, pendant que, finalement*. Habits: *Quand j'étais petit, on allait au chalet.*"
+   ]
+  },
+  {
+   "h": "Object pronouns, y and en (lessons 44–48)",
+   "body": [
+    "Direct: *le, la, les* (*je le vois*). Indirect, for *à + person*: *lui, leur* (*je lui parle*). *Y* = there / à + thing (*j'y vais, j'y pense*). *En* = some / de + thing / with quantities (*j'en ai deux*).",
+    "All go before the conjugated verb, or before the infinitive. Order: *me/te/nous/vous → le/la/les → lui/leur → y → en*. With *avoir*, the participle agrees with a preceding direct object: *Les clés? Je les ai trouvées.*"
+   ],
+   "table": {
+    "head": [
+     "Replaces",
+     "Pronoun",
+     "Example"
+    ],
+    "rows": [
+     [
+      "le film",
+      "le",
+      "Je l'ai vu."
+     ],
+     [
+      "à ma mère",
+      "lui",
+      "Je lui ai téléphoné."
+     ],
+     [
+      "à Québec",
+      "y",
+      "J'y vais demain."
+     ],
+     [
+      "du café",
+      "en",
+      "J'en bois trop."
+     ],
+     [
+      "trois enfants",
+      "en … trois",
+      "J'en ai trois."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Comparing and pointing (lessons 49–52)",
+   "body": [
+    "Comparatives: *plus / moins / aussi … que*, *autant de … que*; irregulars *meilleur, mieux, pire*. Superlatives: *le plus / le moins*, *le meilleur*, *le mieux*, with *de* for 'in': *la plus grande ville du Québec*.",
+    "Demonstratives: *ce / cet / cette / ces* (+ *-ci / -là*), and the pronouns *celui, celle, ceux, celles* (+ *-là*, *de*, *qui / que*): *Je préfère celle-là. C'est celui de Marc.*"
+   ]
+  },
+  {
+   "h": "Linking, the future, numbers (lessons 53–55)",
+   "body": [
+    "*Qui* + verb (subject), *que* + subject + verb (object), *où* for place and time, *dont* for *de*: *l'ami qui m'aide, le film que j'ai vu, la ville où j'habite*.",
+    "*Futur simple*: infinitive + *-ai, -as, -a, -ons, -ez, -ont*, with irregular stems (*ser-, aur-, ir-, fer-, pourr-, viendr-, verr-*). *Quand* + future, *si* + present.",
+    "Numbers: *deux cents* but *deux cent dix*; *mille* never takes s; *un million de*. Ordinals: *premier, deuxième, cinquième, neuvième*."
+   ]
+  },
+  {
+   "h": "Whose, how, and who (lessons 56–58)",
+   "body": [
+    "Possessive pronouns agree with the thing owned: *le mien, la tienne, les nôtres, le leur*; in speech, *c'est à moi*.",
+    "Adverbs: feminine adjective + *-ment* (*lentement*), *-amment / -emment* (*couramment, évidemment*), *bien, mal, vite*. Short adverbs go between *avoir* and the participle: *j'ai bien dormi*.",
+    "Emphatic pronouns: *moi, toi, lui, elle, nous, vous, eux, elles* after prepositions, after *c'est*, for contrast, and in *moi aussi / moi non plus*."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Quand je suis arrivé à Montréal, il faisait moins vingt.",
+   "en": "When I arrived in Montreal, it was minus twenty.",
+   "note": "passé composé + imparfait"
+  },
+  {
+   "fr": "Ta valise? Je l'ai mise dans le coffre.",
+   "en": "Your suitcase? I put it in the trunk.",
+   "note": "direct pronoun + agreement"
+  },
+  {
+   "fr": "Je lui ai dit que tu allais arriver tard.",
+   "en": "I told him you were going to arrive late.",
+   "note": "indirect pronoun lui before avoir"
+  },
+  {
+   "fr": "Le marché? On y va tous les samedis.",
+   "en": "The market? We go there every Saturday.",
+   "note": "y = place"
+  },
+  {
+   "fr": "Des bleuets? J'en ai acheté deux casseaux.",
+   "en": "Blueberries? I bought two baskets.",
+   "note": "en + quantity; casseau = berry basket (Quebec)"
+  },
+  {
+   "fr": "Le livre? Je te le prête volontiers.",
+   "en": "The book? I'll gladly lend it to you.",
+   "note": "double pronouns: te + le"
+  },
+  {
+   "fr": "Cette année, l'hiver est plus long que l'an passé.",
+   "en": "This year, winter is longer than last year.",
+   "note": "demonstrative + comparative"
+  },
+  {
+   "fr": "C'est le meilleur restaurant du quartier.",
+   "en": "It's the best restaurant in the neighbourhood.",
+   "note": "superlative + du"
+  },
+  {
+   "fr": "Ces bottes-ci sont chaudes, mais celles-là sont plus belles.",
+   "en": "These boots are warm, but those are nicer.",
+   "note": "demonstrative adjective and pronoun"
+  },
+  {
+   "fr": "La collègue qui m'a aidé habite dans le quartier où j'ai grandi.",
+   "en": "The colleague who helped me lives in the neighbourhood where I grew up.",
+   "note": "qui and où"
+  },
+  {
+   "fr": "Quand j'aurai mes vacances, j'irai en Gaspésie.",
+   "en": "When I have my vacation, I'll go to the Gaspé.",
+   "note": "quand + futur simple"
+  },
+  {
+   "fr": "Le loyer a augmenté de cent cinquante dollars.",
+   "en": "The rent went up by a hundred and fifty dollars.",
+   "note": "numbers"
+  },
+  {
+   "fr": "Mon auto est vieille; la tienne est neuve.",
+   "en": "My car is old; yours is new.",
+   "note": "possessive pronoun"
+  },
+  {
+   "fr": "Il parle couramment, mais il parle trop vite.",
+   "en": "He speaks fluently, but he speaks too fast.",
+   "note": "adverbs"
+  },
+  {
+   "fr": "Moi, je reste; eux, ils partent.",
+   "en": "I'm staying; they're leaving.",
+   "note": "emphatic pronouns for contrast"
+  },
+  {
+   "fr": "C'est la première fois que je viens ici.",
+   "en": "It's the first time I've come here.",
+   "note": "ordinal"
+  }
+ ],
+ "quebec": {
+  "intro": "This lesson's listening is a short radio news bulletin in the style of Radio-Canada. News readers use standard Quebec French: international grammar and vocabulary, careful 'ne' in negatives, the futur simple, but a Quebec accent (tu → tsu, di → dzi). Compare it with how the same news sounds on the street.",
+  "items": [
+   {
+    "std": "Il fera très froid demain.",
+    "qc": "Y va faire frette demain.",
+    "en": "It'll be very cold tomorrow.",
+    "note": "radio: futur simple; street: futur proche + frette"
+   },
+   {
+    "std": "Les automobilistes doivent être prudents.",
+    "qc": "Le monde en char, faites attention!",
+    "en": "Drivers should be careful.",
+    "note": "le monde = people; char = car; informal"
+   },
+   {
+    "std": "Il n'y a pas d'autobus ce matin.",
+    "qc": "Y'a pas d'autobus à matin.",
+    "en": "There are no buses this morning.",
+    "note": "ne dropped, à matin; informal"
+   },
+   {
+    "std": "Le prix de l'essence a augmenté.",
+    "qc": "Le gaz a monté.",
+    "en": "Gas prices went up.",
+    "note": "gaz = gasoline in Quebec speech"
+   },
+   {
+    "std": "Les Canadiens ont remporté le match.",
+    "qc": "Le Canadien a gagné!",
+    "en": "The Canadiens won the game.",
+    "note": "fans say le Canadien or le CH"
+   },
+   {
+    "std": "Il y aura des embouteillages.",
+    "qc": "Ça va être bouché.",
+    "en": "There'll be traffic jams.",
+    "note": "bouché = jammed; informal"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Je ___ la télé quand le téléphone a sonné.",
+   "options": [
+    "ai regardé",
+    "regardais",
+    "regarderai",
+    "regarde"
+   ],
+   "a": 1,
+   "why": "Ongoing background action: imparfait."
+  },
+  {
+   "t": "mcq",
+   "q": "'Tu as parlé à tes voisins?' — 'Oui, je ___ ai parlé.'",
+   "options": [
+    "les",
+    "leur",
+    "lui",
+    "y"
+   ],
+   "a": 1,
+   "why": "Parler à + plural person: leur."
+  },
+  {
+   "t": "mcq",
+   "q": "'Tu as des frères?' — 'Oui, ___.'",
+   "options": [
+    "j'ai deux",
+    "j'en ai deux",
+    "je les ai deux",
+    "j'y ai deux"
+   ],
+   "a": 1,
+   "why": "En + number."
+  },
+  {
+   "t": "mcq",
+   "q": "C'est ___ hiver de ma vie! (worst)",
+   "options": [
+    "le plus mauvais",
+    "le pire",
+    "le plus pire",
+    "le mal"
+   ],
+   "a": 1,
+   "why": "Le pire (le plus mauvais is possible but not 'le plus pire')."
+  },
+  {
+   "t": "mcq",
+   "q": "Le film ___ on a vu était long.",
+   "options": [
+    "qui",
+    "que",
+    "qu'",
+    "où"
+   ],
+   "a": 2,
+   "why": "On is the subject; que becomes qu' before on."
+  },
+  {
+   "t": "fill",
+   "q": "Quand je ___ riche, j'achèterai un chalet. (être)",
+   "a": [
+    "serai"
+   ],
+   "en": "When I'm rich, I'll buy a cottage.",
+   "why": "Quand + futur simple."
+  },
+  {
+   "t": "fill",
+   "q": "Les photos? Je les ai ___ hier. (prendre)",
+   "a": [
+    "prises"
+   ],
+   "en": "The photos? I took them yesterday.",
+   "why": "Les (f pl) before avoir: prises."
+  },
+  {
+   "t": "fill",
+   "q": "___ arbre est centenaire. (this)",
+   "a": [
+    "Cet"
+   ],
+   "en": "This tree is a hundred years old.",
+   "why": "Masculine + vowel: cet."
+  },
+  {
+   "t": "fill",
+   "q": "Ma maison est petite, mais ___ est grande. (yours, tu)",
+   "a": [
+    "la tienne"
+   ],
+   "en": "My house is small, but yours is big.",
+   "why": "Maison is feminine: la tienne."
+  },
+  {
+   "t": "build",
+   "en": "I'm going to go there tomorrow.",
+   "a": "Je vais y aller demain."
+  },
+  {
+   "t": "build",
+   "en": "She speaks more slowly than me.",
+   "a": "Elle parle plus lentement que moi."
+  },
+  {
+   "t": "build",
+   "en": "Give it to me, please!",
+   "a": "Donne-le-moi, s'il te plaît!"
+  },
+  {
+   "t": "translate",
+   "en": "The woman who lives here is nice.",
+   "a": [
+    "La femme qui habite ici est gentille.",
+    "La femme qui habite ici est sympathique.",
+    "La femme qui habite ici est fine.",
+    "La femme qui vit ici est gentille."
+   ],
+   "why": "Qui + verb."
+  },
+  {
+   "t": "translate",
+   "en": "I don't like the cold. — Me neither.",
+   "a": [
+    "Je n'aime pas le froid. — Moi non plus.",
+    "J'aime pas le froid. — Moi non plus."
+   ],
+   "why": "Negative + moi non plus."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "le bulletin de nouvelles",
+   "en": "news bulletin",
+   "g": "m",
+   "ex": "J'écoute le bulletin de nouvelles le matin.",
+   "qc": true
+  },
+  {
+   "fr": "les nouvelles",
+   "en": "the news",
+   "g": "f",
+   "ex": "As-tu vu les nouvelles?"
+  },
+  {
+   "fr": "la circulation",
+   "en": "traffic",
+   "g": "f",
+   "ex": "La circulation est dense sur le pont."
+  },
+  {
+   "fr": "l'automobiliste",
+   "en": "driver, motorist",
+   "ex": "Les automobilistes doivent ralentir."
+  },
+  {
+   "fr": "la tempête",
+   "en": "storm",
+   "g": "f",
+   "ex": "Une tempête de neige s'en vient."
+  },
+  {
+   "fr": "le verglas",
+   "en": "freezing rain, black ice",
+   "g": "m",
+   "ex": "Attention au verglas!"
+  },
+  {
+   "fr": "annoncer",
+   "en": "to announce, forecast",
+   "ex": "On annonce vingt centimètres."
+  },
+  {
+   "fr": "augmenter",
+   "en": "to increase, go up",
+   "ex": "Les prix ont augmenté."
+  },
+  {
+   "fr": "remporter",
+   "en": "to win (a game, a prize)",
+   "ex": "Montréal a remporté le match."
+  },
+  {
+   "fr": "le gouvernement",
+   "en": "government",
+   "g": "m",
+   "ex": "Le gouvernement va investir."
+  },
+  {
+   "fr": "l'essence",
+   "en": "gasoline",
+   "g": "f",
+   "ex": "Le prix de l'essence monte."
+  },
+  {
+   "fr": "le gaz",
+   "en": "gas (gasoline, spoken)",
+   "g": "m",
+   "ex": "J'ai mis du gaz.",
+   "qc": true
+  },
+  {
+   "fr": "le casseau",
+   "en": "small berry basket",
+   "g": "m",
+   "ex": "Un casseau de fraises.",
+   "qc": true
+  },
+  {
+   "fr": "bouché",
+   "en": "jammed, blocked (traffic)",
+   "ex": "Le pont est bouché.",
+   "qc": true
+  },
+  {
+   "fr": "le CH / le Canadien",
+   "en": "the Montreal Canadiens",
+   "g": "m",
+   "ex": "Le CH a gagné hier.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "Radio-Canada",
+    "tip": "Standard Quebec: ra-dzio-ka-na-DA: d before i becomes [dz]."
+   },
+   {
+    "fr": "la circulation",
+    "tip": "sir-ku-la-SYON."
+   },
+   {
+    "fr": "il fera",
+    "tip": "il fuh-RA, often [il fra]."
+   },
+   {
+    "fr": "le verglas",
+    "tip": "vèr-GLA, s silent."
+   },
+   {
+    "fr": "les automobilistes",
+    "tip": "Liaison: lé-zo-to-mo-bi-LISST."
+   },
+   {
+    "fr": "tu",
+    "tip": "Quebec [tsu] even on the radio; it's the accent, not slang."
+   }
+  ],
+  "title": "Le bulletin de 7 heures",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Bonjour, il est sept heures. Voici les nouvelles.",
+    "en": "Good morning, it's seven o'clock. Here is the news."
+   },
+   {
+    "s": "A",
+    "fr": "La tempête qui a frappé le sud du Québec hier soir a laissé trente centimètres de neige à Montréal.",
+    "en": "The storm that hit southern Quebec last night left thirty centimetres of snow in Montreal."
+   },
+   {
+    "s": "A",
+    "fr": "Ce matin, la circulation est difficile sur les ponts. Les automobilistes doivent être prudents: il y a du verglas.",
+    "en": "This morning, traffic is difficult on the bridges. Drivers must be careful: there is black ice."
+   },
+   {
+    "s": "A",
+    "fr": "Plusieurs écoles sont fermées. La liste complète est sur notre site Web.",
+    "en": "Several schools are closed. The complete list is on our website."
+   },
+   {
+    "s": "B",
+    "fr": "En sport, le Canadien a remporté son match quatre à deux contre Toronto.",
+    "en": "In sports, the Canadiens won their game four to two against Toronto."
+   },
+   {
+    "s": "B",
+    "fr": "C'est la troisième victoire de suite pour l'équipe montréalaise.",
+    "en": "It's the third win in a row for the Montreal team."
+   },
+   {
+    "s": "A",
+    "fr": "Et la météo: il fera froid aujourd'hui, moins dix-huit, mais le soleil reviendra cet après-midi.",
+    "en": "And the weather: it will be cold today, minus eighteen, but the sun will return this afternoon."
+   },
+   {
+    "s": "A",
+    "fr": "Demain, on annonce un redoux et de la pluie. Bonne journée!",
+    "en": "Tomorrow, a mild spell and rain are forecast. Have a good day!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "How much snow fell in Montreal?",
+    "options": [
+     "Ten centimetres",
+     "Twenty centimetres",
+     "Thirty centimetres"
+    ],
+    "a": 2
+   },
+   {
+    "q": "What was the hockey score?",
+    "options": [
+     "4–2 for Montreal",
+     "2–4 for Toronto",
+     "3–2 for Montreal"
+    ],
+    "a": 0
+   },
+   {
+    "q": "What is forecast for tomorrow?",
+    "options": [
+     "More snow",
+     "A mild spell and rain",
+     "Extreme cold"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Retell the news bulletin in 4 sentences, as if telling a friend (use the passé composé, y and en).",
+   "model": "Il y a eu une grosse tempête hier soir. Il est tombé trente centimètres de neige. Les ponts? Il y a eu du trafic, et il y avait du verglas. Le Canadien a gagné, c'est sa troisième victoire!"
+  },
+  {
+   "prompt": "Compare your city with another one using a comparative, a superlative and a demonstrative pronoun.",
+   "model": "Montréal est plus grande que Québec. C'est la ville la plus animée du Québec. Mais les hivers de Québec sont plus durs que ceux de Montréal."
+  },
+  {
+   "prompt": "Make two predictions about next week with the futur simple, then say one of them Quebec style.",
+   "model": "Il fera beau samedi. Je finirai mon projet. / Y va faire beau samedi."
+  }
+ ],
+ "write": {
+  "prompt": "Checkpoint writing: write a 7–8 sentence short news report about something that happened in your neighbourhood. Use the imparfait and passé composé, at least two object pronouns, a relative pronoun, a comparative or superlative and one sentence in the futur simple.",
+  "model": "Hier soir, une grosse tempête de neige a frappé notre quartier. Il faisait très froid et le vent soufflait fort. Les déneigeuses sont passées pendant la nuit, mais elles n'ont pas tout nettoyé. Ce matin, les voisins qui habitent en face de chez moi ont aidé une dame âgée. Ils ont pelleté son entrée, puis ils l'ont accompagnée à l'épicerie. C'est la plus grosse tempête de l'hiver. Selon la météo, il fera plus doux demain. On en aura besoin!"
+ },
+ "quiz": [
+  {
+   "q": "Which tense describes a habit in the past?",
+   "options": [
+    "passé composé",
+    "imparfait",
+    "futur simple",
+    "présent"
+   ],
+   "a": 1,
+   "why": "Quand j'étais petit, je jouais dehors."
+  },
+  {
+   "q": "'Je pense à mon voyage' →",
+   "options": [
+    "Je lui pense.",
+    "J'y pense.",
+    "J'en pense.",
+    "Je le pense."
+   ],
+   "a": 1,
+   "why": "Penser à + thing = y."
+  },
+  {
+   "q": "'Des pommes? Il ___ a beaucoup.'",
+   "options": [
+    "les",
+    "y en",
+    "en y",
+    "y"
+   ],
+   "a": 1,
+   "why": "Il y en a beaucoup."
+  },
+  {
+   "q": "Which is correct?",
+   "options": [
+    "Il chante meilleur que moi.",
+    "Il chante mieux que moi.",
+    "Il chante plus bien que moi.",
+    "Il chante plus meilleur que moi."
+   ],
+   "a": 1,
+   "why": "Chanter bien → mieux."
+  },
+  {
+   "q": "'Ce n'est pas mon vélo, c'est ___ de Paul.'",
+   "options": [
+    "celle",
+    "celui",
+    "ceux",
+    "cela"
+   ],
+   "a": 1,
+   "why": "Vélo is masculine: celui de."
+  },
+  {
+   "q": "'La ville ___ je suis né.'",
+   "options": [
+    "que",
+    "qui",
+    "où",
+    "dont"
+   ],
+   "a": 2,
+   "why": "Place: où."
+  },
+  {
+   "q": "'S'il ___ beau, on ira au parc.'",
+   "options": [
+    "fera",
+    "fait",
+    "faisait",
+    "ferait"
+   ],
+   "a": 1,
+   "why": "Si + present."
+  },
+  {
+   "q": "How do you write 300?",
+   "options": [
+    "trois cent",
+    "trois cents",
+    "trois-centes",
+    "trois centaines"
+   ],
+   "a": 1,
+   "why": "Multiplied and at the end: cents."
+  },
+  {
+   "q": "On the radio, newsreaders mostly use…",
+   "options": [
+    "heavy slang like frette and char",
+    "standard French with a Quebec accent",
+    "France's Parisian accent",
+    "English"
+   ],
+   "a": 1,
+   "why": "Radio-Canada style: standard grammar and vocabulary, Quebec pronunciation."
+  },
+  {
+   "q": "'Le gaz a monté' means…",
+   "options": [
+    "The gas leaked",
+    "Gas prices went up",
+    "The gas station closed",
+    "The gas exploded"
+   ],
+   "a": 1,
+   "why": "Gaz = gasoline in Quebec speech."
+  }
+ ]
+}

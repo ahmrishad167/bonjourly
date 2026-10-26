@@ -1,0 +1,630 @@
+{
+ "w": 83,
+ "title": "Review and checkpoint 5",
+ "goal": "By the end of this lesson you have reviewed lessons 80 to 82 (Quebec expressions set 3, emails and texts, phone calls and appointments) and you can handle a full day in Montreal in French: café, métro, lunch, a phone call, an email, shopping and supper with friends.",
+ "learn": [
+  {
+   "h": "What this checkpoint covers",
+   "body": [
+    "Lessons 80–82: Quebec expressions (*être aux oiseaux, lâcher son fou, c'est de valeur, se faire passer un sapin*), writing emails and texts (*Objet, Je vous écris pour…, Bonne journée!, tk, pcq*), and phone calls (*Je vous appelle pour…, Ne quittez pas, C'est à quel nom?, faites le 1*).",
+    "The role-play also recycles the practical A2 themes: transport (lesson 62), food (lesson 65), health (lesson 64), the conditionnel for politeness (lesson 71) and place prepositions (lesson 74)."
+   ]
+  },
+  {
+   "h": "A day in Montreal: the script",
+   "body": [
+    "Morning: order a coffee (*Je prendrais un café au lait, pour emporter*), take the métro (*Est-ce que c'est la bonne direction pour Berri-UQAM?*).",
+    "Midday: lunch with a colleague (*On dîne ensemble?*), order and pay (*La facture, s'il vous plaît. On paie séparément.*).",
+    "Afternoon: call a clinic (*Je vous appelle pour prendre rendez-vous*), send an email to your boss, text a friend.",
+    "Evening: supper at a friend's place, small talk with Quebec expressions (*J'étais aux oiseaux!*, *C'est de valeur!*)."
+   ],
+   "table": {
+    "head": [
+     "Moment",
+     "Situation",
+     "Key phrase"
+    ],
+    "rows": [
+     [
+      "8 h",
+      "café",
+      "Un café pour emporter, s'il vous plaît."
+     ],
+     [
+      "8 h 30",
+      "métro",
+      "Je descends à quelle station pour…?"
+     ],
+     [
+      "12 h",
+      "dîner",
+      "Qu'est-ce que vous me conseillez?"
+     ],
+     [
+      "15 h",
+      "phone call",
+      "Avez-vous des disponibilités cette semaine?"
+     ],
+     [
+      "16 h",
+      "email / text",
+      "Je vous écris pour… / Chu en route!"
+     ],
+     [
+      "19 h",
+      "souper",
+      "Tire-toi une bûche!"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Switching registers",
+   "body": [
+    "The key skill of an A2+ speaker in Quebec is choosing the right register. With the receptionist, your boss, a stranger: *vous*, standard forms, conditionnel (*Pourriez-vous…?*). With friends and close colleagues: *tu*, Quebec expressions, light contractions (*chu, t'sé, pis*).",
+    "Rule of thumb: when in doubt, start with *vous* and standard French; Quebecers will quickly tell you *On peut se tutoyer!* (We can use tu!)."
+   ],
+   "tip": "Understand everything; speak standard by default; add Quebec colour with friends."
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Bonjour! Je prendrais un café au lait, pour emporter.",
+   "en": "Hello! I'll have a café au lait, to go."
+  },
+  {
+   "fr": "Est-ce que c'est la bonne direction pour Berri-UQAM?",
+   "en": "Is this the right direction for Berri-UQAM?",
+   "note": "major Montreal métro station"
+  },
+  {
+   "fr": "Je descends à quelle station pour aller au Vieux-Port?",
+   "en": "Which station do I get off at for the Old Port?"
+  },
+  {
+   "fr": "On dîne ensemble à midi?",
+   "en": "Shall we have lunch together at noon?"
+  },
+  {
+   "fr": "La facture, s'il vous plaît. On va payer séparément.",
+   "en": "The bill, please. We'll pay separately."
+  },
+  {
+   "fr": "Bonjour, je vous appelle pour prendre rendez-vous chez le dentiste.",
+   "en": "Hello, I'm calling to make a dentist appointment."
+  },
+  {
+   "fr": "Est-ce que vous auriez quelque chose jeudi en fin d'après-midi?",
+   "en": "Would you have anything Thursday late afternoon?"
+  },
+  {
+   "fr": "Objet : Absence vendredi après-midi",
+   "en": "Subject: Absence Friday afternoon"
+  },
+  {
+   "fr": "Je vous écris pour vous informer que je serai absent vendredi après-midi.",
+   "en": "I'm writing to inform you that I'll be absent Friday afternoon.",
+   "note": "futur simple"
+  },
+  {
+   "fr": "Slt! Chu dans le métro, j'arrive dans 20 min.",
+   "en": "Hi! I'm on the métro, I'll be there in 20 min.",
+   "note": "text message"
+  },
+  {
+   "fr": "Tire-toi une bûche, le souper est presque prêt!",
+   "en": "Pull up a chair, supper's almost ready!"
+  },
+  {
+   "fr": "J'étais aux oiseaux quand j'ai eu la nouvelle!",
+   "en": "I was over the moon when I got the news!"
+  },
+  {
+   "fr": "Tu ne peux pas venir au show? C'est de valeur!",
+   "en": "You can't come to the show? That's too bad!"
+  },
+  {
+   "fr": "On peut se tutoyer, si tu veux.",
+   "en": "We can use 'tu', if you like."
+  },
+  {
+   "fr": "Quelle journée! Je cogne des clous, je vais me coucher.",
+   "en": "What a day! I'm nodding off, I'm going to bed."
+  }
+ ],
+ "quebec": {
+  "intro": "The roadmap task for this checkpoint is a role-play of a full day in Montreal. Montreal adds its own touches: 'Bonjour-hi' in shops, the STM métro, the dép, and the constant switch between formal and casual.",
+  "items": [
+   {
+    "std": "Bonjour. (in a shop)",
+    "qc": "Bonjour-hi!",
+    "en": "Hello!",
+    "note": "Montreal shop greeting offering both languages; answer in French to keep French"
+   },
+   {
+    "std": "le dépanneur",
+    "qc": "le dep",
+    "en": "the corner store",
+    "note": "Informal short form"
+   },
+   {
+    "std": "Où est la station de métro?",
+    "qc": "C'est où, le métro?",
+    "en": "Where's the métro station?",
+    "note": "Spoken question order"
+   },
+   {
+    "std": "Nous pouvons nous tutoyer.",
+    "qc": "On peut se dire tu.",
+    "en": "We can use tu.",
+    "note": "Quebecers switch to tu very quickly"
+   },
+   {
+    "std": "Je suis très fatigué.",
+    "qc": "Chu brûlé.",
+    "en": "I'm exhausted.",
+    "note": "Informal; brûlé = burned out"
+   },
+   {
+    "std": "Le spectacle",
+    "qc": "Le show",
+    "en": "The show, concert",
+    "note": "Informal; very common"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "In a Montreal shop, the clerk says 'Bonjour-hi!'. To continue in French, you say…",
+   "options": [
+    "Hi!",
+    "Bonjour!",
+    "Hello-bonjour!",
+    "Nothing"
+   ],
+   "a": 1,
+   "why": "Answering in French signals you want service in French."
+  },
+  {
+   "t": "mcq",
+   "q": "On the phone the receptionist asks 'C'est à quel nom?'. You…",
+   "options": [
+    "give your address",
+    "give your name",
+    "say the time",
+    "hang up"
+   ],
+   "a": 1,
+   "why": "What name is it under? (w82)"
+  },
+  {
+   "t": "mcq",
+   "q": "Which is right for an email to your boss?",
+   "options": [
+    "Slt! Chu malade.",
+    "Bonjour Marc, je vous écris pour vous informer que je suis malade.",
+    "Yo boss, pas là auj.",
+    "Allô, t'sé, chu malade."
+   ],
+   "a": 1,
+   "why": "Standard register in a work email (w81)."
+  },
+  {
+   "t": "mcq",
+   "q": "Your friend says she got the job. You react with…",
+   "options": [
+    "T'as de l'eau dans la cave!",
+    "Tu dois être aux oiseaux!",
+    "Tu t'es fait passer un sapin!",
+    "Cogne des clous!"
+   ],
+   "a": 1,
+   "why": "Être aux oiseaux = overjoyed (w80)."
+  },
+  {
+   "t": "fill",
+   "q": "Je ___ un café au lait, s'il vous plaît. (prendre, conditionnel)",
+   "a": [
+    "prendrais"
+   ],
+   "en": "I'll have a café au lait, please.",
+   "why": "Polite ordering (w71)."
+  },
+  {
+   "t": "fill",
+   "q": "Je vous appelle pour ___ mon rendez-vous de demain. (to cancel)",
+   "a": [
+    "annuler"
+   ],
+   "en": "I'm calling to cancel my appointment tomorrow.",
+   "why": "Phone call (w82)."
+  },
+  {
+   "t": "fill",
+   "q": "Vous trouverez ___ le document. (attached)",
+   "a": [
+    "ci-joint"
+   ],
+   "en": "Please find the document attached.",
+   "why": "Email phrase (w81)."
+  },
+  {
+   "t": "fill",
+   "q": "Tu ne peux pas venir? C'est de ___! (pity)",
+   "a": [
+    "valeur"
+   ],
+   "en": "You can't come? That's too bad!",
+   "why": "Quebec expression (w80)."
+  },
+  {
+   "t": "build",
+   "en": "Is this the right direction for Berri-UQAM?",
+   "a": "Est-ce que c'est la bonne direction pour Berri-UQAM?"
+  },
+  {
+   "t": "build",
+   "en": "We'll pay separately.",
+   "a": "On va payer séparément."
+  },
+  {
+   "t": "build",
+   "en": "Pull up a chair, supper is ready!",
+   "a": "Tire-toi une bûche, le souper est prêt!"
+  },
+  {
+   "t": "translate",
+   "en": "Do you have any openings this week?",
+   "a": [
+    "Avez-vous des disponibilités cette semaine?",
+    "Est-ce que vous avez des disponibilités cette semaine?",
+    "Vous avez des disponibilités cette semaine?"
+   ],
+   "why": "Booking phrase (w82)."
+  },
+  {
+   "t": "translate",
+   "en": "I'm on the métro, I'll be there in ten minutes.",
+   "a": [
+    "Je suis dans le métro, j'arrive dans dix minutes.",
+    "Chu dans le métro, j'arrive dans dix minutes.",
+    "Je suis dans le métro, j'arrive dans 10 minutes.",
+    "Chu dans le métro, j'arrive dans 10 min."
+   ],
+   "why": "Text message register is fine."
+  },
+  {
+   "t": "translate",
+   "en": "We can use tu.",
+   "a": [
+    "On peut se tutoyer.",
+    "Nous pouvons nous tutoyer.",
+    "On peut se dire tu."
+   ],
+   "why": "se tutoyer = to use tu with each other."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "pour emporter",
+   "en": "to go",
+   "ex": "Un muffin pour emporter.",
+   "qc": true
+  },
+  {
+   "fr": "la station",
+   "en": "(métro) station",
+   "g": "f",
+   "ex": "Je descends à la station Mont-Royal."
+  },
+  {
+   "fr": "la direction",
+   "en": "direction (line terminus)",
+   "g": "f",
+   "ex": "Prenez la ligne verte, direction Angrignon."
+  },
+  {
+   "fr": "la correspondance",
+   "en": "transfer (métro)",
+   "g": "f",
+   "ex": "Faites la correspondance à Berri-UQAM."
+  },
+  {
+   "fr": "payer séparément",
+   "en": "to pay separately",
+   "ex": "On peut payer séparément?"
+  },
+  {
+   "fr": "se tutoyer",
+   "en": "to use tu with each other",
+   "ex": "Est-ce qu'on peut se tutoyer?"
+  },
+  {
+   "fr": "le show",
+   "en": "show, concert (informal)",
+   "g": "m",
+   "ex": "Le show commence à 20 h.",
+   "qc": true
+  },
+  {
+   "fr": "brûlé",
+   "en": "exhausted, burned out (informal)",
+   "ex": "Chu brûlé après cette journée.",
+   "qc": true
+  },
+  {
+   "fr": "le dep",
+   "en": "corner store (informal)",
+   "g": "m",
+   "ex": "Je passe au dep.",
+   "qc": true
+  },
+  {
+   "fr": "absent / absente",
+   "en": "absent, away",
+   "ex": "Je serai absent lundi."
+  },
+  {
+   "fr": "en route",
+   "en": "on the way",
+   "ex": "Je suis en route!"
+  },
+  {
+   "fr": "le Vieux-Port",
+   "en": "the Old Port (Montreal)",
+   "g": "m",
+   "ex": "On se promène au Vieux-Port."
+  },
+  {
+   "fr": "la carte OPUS",
+   "en": "Montreal transit card",
+   "g": "f",
+   "ex": "Je recharge ma carte OPUS.",
+   "qc": true
+  },
+  {
+   "fr": "Bonjour-hi",
+   "en": "bilingual greeting in Montreal shops",
+   "ex": "Bonjour-hi! — Bonjour!",
+   "qc": true
+  },
+  {
+   "fr": "la journée",
+   "en": "day (duration)",
+   "g": "f",
+   "ex": "Quelle belle journée!"
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "Berri-UQAM",
+    "tip": "bè-ree u-KAM: UQAM is said as one word."
+   },
+   {
+    "fr": "la correspondance",
+    "tip": "ko-rès-pon-DAHNSS."
+   },
+   {
+    "fr": "séparément",
+    "tip": "say-pa-ray-MAHN."
+   },
+   {
+    "fr": "se tutoyer",
+    "tip": "suh tu-twa-YAY; Quebec: tsu-twa-YÉ."
+   },
+   {
+    "fr": "Bonjour-hi",
+    "tip": "bon-zhoor-HAÏ, said in one breath."
+   },
+   {
+    "fr": "le show",
+    "tip": "luh SHO, like English."
+   }
+  ],
+  "title": "Une journée à Montréal",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Bonjour-hi!",
+    "en": "Hello-hi!"
+   },
+   {
+    "s": "B",
+    "fr": "Bonjour! Je prendrais un café au lait, pour emporter.",
+    "en": "Hello! I'll have a café au lait, to go."
+   },
+   {
+    "s": "A",
+    "fr": "Ça fait quatre dollars cinquante. Bonne journée!",
+    "en": "That's four fifty. Have a nice day!"
+   },
+   {
+    "s": "B",
+    "fr": "Excusez-moi, pour aller à Berri-UQAM, c'est quelle direction?",
+    "en": "Excuse me, to get to Berri-UQAM, which direction is it?"
+   },
+   {
+    "s": "A",
+    "fr": "Ligne verte, direction Honoré-Beaugrand. C'est trois stations.",
+    "en": "Green line, Honoré-Beaugrand direction. It's three stations."
+   },
+   {
+    "s": "B",
+    "fr": "(au téléphone) Bonjour, je vous appelle pour prendre rendez-vous avec la Dre Côté.",
+    "en": "(on the phone) Hello, I'm calling to make an appointment with Dr. Côté."
+   },
+   {
+    "s": "A",
+    "fr": "Ne quittez pas… Elle a une disponibilité jeudi à 15 h. Ça vous convient?",
+    "en": "Please hold… She has an opening Thursday at 3 p.m. Does that work for you?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, parfait. Merci, bonne journée!",
+    "en": "Yes, perfect. Thanks, have a nice day!"
+   },
+   {
+    "s": "A",
+    "fr": "(le soir) Salut! Tire-toi une bûche. Pis, ta journée?",
+    "en": "(in the evening) Hi! Pull up a chair. So, your day?"
+   },
+   {
+    "s": "B",
+    "fr": "Longue! Mais j'ai eu mon rendez-vous et j'ai tout fait en français. Chu aux oiseaux!",
+    "en": "Long! But I got my appointment and I did everything in French. I'm thrilled!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "How much is the coffee?",
+    "options": [
+     "$3.50",
+     "$4.50",
+     "$5.00"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Which métro line does B take?",
+    "options": [
+     "Orange",
+     "Green",
+     "Blue"
+    ],
+    "a": 1
+   },
+   {
+    "q": "When is the doctor's appointment?",
+    "options": [
+     "Tuesday at 3 p.m.",
+     "Thursday at 3 p.m.",
+     "Thursday at 5 p.m."
+    ],
+    "a": 1
+   },
+   {
+    "q": "Why is B thrilled in the evening?",
+    "options": [
+     "B got a new job",
+     "B did everything in French",
+     "B won the lottery"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Role-play part 1 (morning): order a coffee to go, then ask a stranger for directions in the métro.",
+   "model": "Bonjour! Je prendrais un café, pour emporter, s'il vous plaît. … Excusez-moi, je descends à quelle station pour aller au Vieux-Port?"
+  },
+  {
+   "prompt": "Role-play part 2 (midday): invite a colleague to lunch, order, and ask for the bill.",
+   "model": "On dîne ensemble? … Je vais prendre la soupe du jour et un sandwich. … La facture, s'il vous plaît. On paie séparément."
+  },
+  {
+   "prompt": "Role-play part 3 (afternoon): call a clinic, book an appointment, confirm the time.",
+   "model": "Bonjour, je vous appelle pour prendre rendez-vous. Avez-vous des disponibilités cette semaine? … Donc, jeudi à 15 h, c'est bien ça? Merci, bonne journée!"
+  },
+  {
+   "prompt": "Role-play part 4 (evening): tell a friend about your day using two Quebec expressions.",
+   "model": "Ma journée était longue, chu brûlé! Mais j'ai tout fait en français, j'étais aux oiseaux!"
+  }
+ ],
+ "write": {
+  "prompt": "Write the three messages of your day in Montreal: (1) a short email to your boss saying you'll leave early Thursday for a medical appointment, (2) a text to a friend saying you're on your way, (3) a 4-sentence journal entry about the day.",
+  "model": "(1) Objet : Départ hâtif jeudi\nBonjour Marc, je vous écris pour vous informer que je devrai partir à 14 h 30 jeudi pour un rendez-vous médical. Je vais finir le rapport avant de partir. Merci et bonne journée! Alex\n\n(2) Slt! Chu dans le métro, j'arrive dans 15 min. Tk, commencez sans moi!\n\n(3) Aujourd'hui, j'ai passé toute la journée en français. J'ai commandé mon café, j'ai pris le métro et j'ai appelé la clinique. Le soir, j'ai soupé chez Julie. J'étais vraiment fier de moi!"
+ },
+ "quiz": [
+  {
+   "q": "'Je descends à quelle station?' means…",
+   "options": [
+    "Which station do I go down to?",
+    "Which station do I get off at?",
+    "Where is the station?",
+    "Is the station closed?"
+   ],
+   "a": 1,
+   "why": "Descendre = to get off (transport)."
+  },
+  {
+   "q": "'La correspondance' in the métro is…",
+   "options": [
+    "the mail",
+    "the transfer",
+    "the exit",
+    "the ticket"
+   ],
+   "a": 1,
+   "why": "Changing lines."
+  },
+  {
+   "q": "Best register with a clinic receptionist:",
+   "options": [
+    "Allô, chu malade, t'sé.",
+    "Bonjour, je vous appelle pour prendre rendez-vous.",
+    "Yo! Un rendez-vous!",
+    "Salut, j'veux voir le doc."
+   ],
+   "a": 1,
+   "why": "Vous and standard French with strangers."
+  },
+  {
+   "q": "'Chu brûlé' means…",
+   "options": [
+    "I got sunburned.",
+    "I'm exhausted.",
+    "I burned supper.",
+    "I'm angry."
+   ],
+   "a": 1,
+   "why": "Informal: worn out."
+  },
+  {
+   "q": "'On peut se tutoyer' is an invitation to…",
+   "options": [
+    "use vous",
+    "use tu",
+    "speak English",
+    "leave"
+   ],
+   "a": 1,
+   "why": "Tutoyer = to use tu."
+  },
+  {
+   "q": "Which phrase fits a text to a friend?",
+   "options": [
+    "Cordialement,",
+    "Je vous prie d'agréer…",
+    "Chu en route, j'arrive!",
+    "Objet : Arrivée"
+   ],
+   "a": 2,
+   "why": "Texts are informal (w81)."
+  },
+  {
+   "q": "'C'est de valeur' means…",
+   "options": [
+    "It's valuable.",
+    "That's too bad.",
+    "It's worth it.",
+    "It's expensive."
+   ],
+   "a": 1,
+   "why": "Quebec expression (w80)."
+  },
+  {
+   "q": "The receptionist says 'Ça vous convient?'. She's asking…",
+   "options": [
+    "Are you convinced?",
+    "Does that work for you?",
+    "Are you coming?",
+    "Is it convenient for her?"
+   ],
+   "a": 1,
+   "why": "convenir = to suit (w82)."
+  }
+ ]
+}

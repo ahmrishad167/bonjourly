@@ -1,0 +1,626 @@
+{
+ "w": 69,
+ "title": "Passé récent: venir de",
+ "goal": "By the end of this lesson you can say that something has just happened with venir de + infinitive, in the present and in the past, and recognise the Quebec 'j'viens juste de'.",
+ "learn": [
+  {
+   "h": "Venir de + infinitive = to have just done",
+   "body": [
+    "To say that something happened a moment ago, French uses *venir* in the present + *de* + infinitive: *Je viens de manger* (I have just eaten), *Le bus vient de partir* (The bus has just left).",
+    "This is the mirror image of the futur proche: *Je vais manger* (I'm about to eat) / *Je viens de manger* (I've just eaten).",
+    "*De* becomes *d'* before a vowel or silent h: *Elle vient d'arriver*, *Ils viennent d'acheter une maison*."
+   ],
+   "table": {
+    "head": [
+     "Person",
+     "venir (present)",
+     "Example"
+    ],
+    "rows": [
+     [
+      "je",
+      "viens",
+      "Je viens de finir."
+     ],
+     [
+      "tu",
+      "viens",
+      "Tu viens d'arriver?"
+     ],
+     [
+      "il / elle / on",
+      "vient",
+      "Il vient de partir."
+     ],
+     [
+      "nous",
+      "venons",
+      "Nous venons de manger."
+     ],
+     [
+      "vous",
+      "venez",
+      "Vous venez de rater le bus."
+     ],
+     [
+      "ils / elles",
+      "viennent",
+      "Elles viennent d'appeler."
+     ]
+    ]
+   },
+   "tip": "aller + infinitive = about to happen; venir de + infinitive = just happened."
+  },
+  {
+   "h": "Venir de in the past: venais de",
+   "body": [
+    "To say what had just happened at a moment in the past, put *venir* in the imparfait: *Je venais de rentrer quand le téléphone a sonné* (I had just come home when the phone rang).",
+    "Never use the passé composé of venir for this meaning: *Je suis venu de manger* is wrong."
+   ],
+   "table": {
+    "head": [
+     "Person",
+     "venir (imparfait)"
+    ],
+    "rows": [
+     [
+      "je / tu",
+      "venais"
+     ],
+     [
+      "il / elle / on",
+      "venait"
+     ],
+     [
+      "nous",
+      "venions"
+     ],
+     [
+      "vous",
+      "veniez"
+     ],
+     [
+      "ils / elles",
+      "venaient"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Pronouns and negation",
+   "body": [
+    "Object pronouns go before the infinitive, not before *venir*: *Je viens de le voir* (I just saw him), *Elle vient de lui parler* (She just talked to him), *On vient d'en acheter* (We just bought some).",
+    "Negation surrounds *venir*: *Il ne vient pas de partir, il est parti il y a une heure.* In practice, the negative is rare; people say *Il n'est pas parti depuis longtemps*."
+   ]
+  },
+  {
+   "h": "Don't confuse it with 'to come from'",
+   "body": [
+    "*Venir de* + a place means 'to come from': *Je viens de Toronto* (I'm from Toronto). *Venir de* + an infinitive means 'to have just': *Je viens de téléphoner*.",
+    "Juste, tout juste and à l'instant can add emphasis: *Il vient juste de partir*, *Elle vient tout juste d'arriver*, *Je viens de le voir à l'instant*."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Je viens de finir mon travail.",
+   "en": "I've just finished my work."
+  },
+  {
+   "fr": "Le métro vient de partir.",
+   "en": "The metro has just left."
+  },
+  {
+   "fr": "Nous venons d'arriver à Québec.",
+   "en": "We've just arrived in Quebec City.",
+   "note": "d' before a vowel"
+  },
+  {
+   "fr": "Tu viens de manger? Moi, j'ai faim!",
+   "en": "You've just eaten? I'm hungry!"
+  },
+  {
+   "fr": "Ils viennent d'acheter un condo.",
+   "en": "They've just bought a condo."
+  },
+  {
+   "fr": "Elle vient de m'appeler.",
+   "en": "She just called me.",
+   "note": "pronoun before the infinitive"
+  },
+  {
+   "fr": "Je viens de le voir au dépanneur.",
+   "en": "I just saw him at the corner store."
+  },
+  {
+   "fr": "Vous venez de rater l'autobus.",
+   "en": "You've just missed the bus."
+  },
+  {
+   "fr": "Il vient juste de se lever.",
+   "en": "He's just got up.",
+   "note": "juste for emphasis"
+  },
+  {
+   "fr": "Je venais de rentrer quand il a commencé à pleuvoir.",
+   "en": "I had just got home when it started to rain.",
+   "note": "imparfait of venir for the past"
+  },
+  {
+   "fr": "On venait de souper quand ils sont arrivés.",
+   "en": "We had just had supper when they arrived."
+  },
+  {
+   "fr": "Je viens de Vancouver, mais j'habite à Montréal.",
+   "en": "I'm from Vancouver, but I live in Montreal.",
+   "note": "venir de + place = come from"
+  },
+  {
+   "fr": "Le spectacle vient tout juste de commencer.",
+   "en": "The show has only just started."
+  },
+  {
+   "fr": "Nous venons d'en parler.",
+   "en": "We've just talked about it.",
+   "note": "en before the infinitive"
+  },
+  {
+   "fr": "Qu'est-ce que tu viens de dire?",
+   "en": "What did you just say?"
+  }
+ ],
+ "quebec": {
+  "intro": "In Quebec speech, 'je viens de' is shortened to 'j'viens d'' and almost always reinforced with 'juste': 'j'viens juste de finir'. Be careful: Quebecers also have 'être après + infinitive', which means 'to be in the middle of doing', not 'to have just done'.",
+  "items": [
+   {
+    "std": "Je viens de finir.",
+    "qc": "J'viens juste de finir.",
+    "en": "I've just finished.",
+    "note": "juste is very frequent in Quebec"
+   },
+   {
+    "std": "Il vient d'arriver.",
+    "qc": "Y vient d'arriver.",
+    "en": "He just arrived.",
+    "note": "il → y in fast speech"
+   },
+   {
+    "std": "Elle vient de partir.",
+    "qc": "A vient juste de partir.",
+    "en": "She just left.",
+    "note": "elle → a in informal speech"
+   },
+   {
+    "std": "Je viens de le voir.",
+    "qc": "J'viens d'le voir.",
+    "en": "I just saw him.",
+    "note": "le shortened to l'"
+   },
+   {
+    "std": "Je suis en train de manger.",
+    "qc": "Chu après manger.",
+    "en": "I'm eating (right now).",
+    "note": "Informal Quebec: être après = in the middle of; NOT 'I just ate'"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "'Je viens de manger' means…",
+   "options": [
+    "I'm going to eat.",
+    "I've just eaten.",
+    "I come to eat.",
+    "I'm eating."
+   ],
+   "a": 1,
+   "why": "venir de + infinitive = just did."
+  },
+  {
+   "t": "mcq",
+   "q": "How do you say 'I had just arrived'?",
+   "options": [
+    "Je suis venu d'arriver.",
+    "Je venais d'arriver.",
+    "Je viens d'arriver.",
+    "J'avais venu d'arriver."
+   ],
+   "a": 1,
+   "why": "Use the imparfait of venir for the past."
+  },
+  {
+   "t": "mcq",
+   "q": "Where does the pronoun go? 'She just called me.'",
+   "options": [
+    "Elle me vient d'appeler.",
+    "Elle vient de m'appeler.",
+    "Elle vient m'de appeler.",
+    "Elle vient d'appeler me."
+   ],
+   "a": 1,
+   "why": "Pronoun before the infinitive."
+  },
+  {
+   "t": "mcq",
+   "q": "In Quebec, 'Chu après manger' means…",
+   "options": [
+    "I've just eaten.",
+    "I'm eating right now.",
+    "I'll eat after.",
+    "I ate after."
+   ],
+   "a": 1,
+   "why": "être après + infinitive = to be in the middle of doing."
+  },
+  {
+   "t": "fill",
+   "q": "Nous ___ de finir le ménage. (venir)",
+   "a": [
+    "venons"
+   ],
+   "en": "We've just finished the cleaning.",
+   "why": "nous venons."
+  },
+  {
+   "t": "fill",
+   "q": "Ils ___ de déménager. (venir, present)",
+   "a": [
+    "viennent"
+   ],
+   "en": "They've just moved.",
+   "why": "ils viennent."
+  },
+  {
+   "t": "fill",
+   "q": "Le train vient ___ arriver. (of)",
+   "a": [
+    "d'"
+   ],
+   "en": "The train has just arrived.",
+   "why": "de → d' before a vowel."
+  },
+  {
+   "t": "fill",
+   "q": "On ___ de souper quand tu as appelé. (venir, imparfait)",
+   "a": [
+    "venait"
+   ],
+   "en": "We had just had supper when you called.",
+   "why": "on + imparfait = venait."
+  },
+  {
+   "t": "build",
+   "en": "The bus has just left.",
+   "a": "L'autobus vient de partir."
+  },
+  {
+   "t": "build",
+   "en": "What did you just say?",
+   "a": "Qu'est-ce que tu viens de dire?"
+  },
+  {
+   "t": "build",
+   "en": "I had just come home.",
+   "a": "Je venais de rentrer à la maison."
+  },
+  {
+   "t": "translate",
+   "en": "I just saw him.",
+   "a": [
+    "Je viens de le voir.",
+    "Je viens juste de le voir."
+   ],
+   "why": "Pronoun le before voir."
+  },
+  {
+   "t": "translate",
+   "en": "She has just arrived.",
+   "a": [
+    "Elle vient d'arriver.",
+    "Elle vient juste d'arriver."
+   ],
+   "why": "d' before arriver."
+  },
+  {
+   "t": "translate",
+   "en": "We've just eaten.",
+   "a": [
+    "Nous venons de manger.",
+    "On vient de manger.",
+    "Nous venons juste de manger.",
+    "On vient juste de manger."
+   ],
+   "why": "venir de + manger."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "venir de + infinitif",
+   "en": "to have just (done)",
+   "ex": "Je viens de rentrer."
+  },
+  {
+   "fr": "juste",
+   "en": "just (emphasis)",
+   "ex": "Il vient juste de partir."
+  },
+  {
+   "fr": "tout juste",
+   "en": "only just, barely",
+   "ex": "Le cours vient tout juste de commencer."
+  },
+  {
+   "fr": "à l'instant",
+   "en": "this very moment, just now",
+   "ex": "Je l'ai vu à l'instant."
+  },
+  {
+   "fr": "rater",
+   "en": "to miss (a bus, a train)",
+   "ex": "J'ai raté le dernier métro."
+  },
+  {
+   "fr": "rentrer",
+   "en": "to come/go back home",
+   "ex": "Je viens de rentrer du travail."
+  },
+  {
+   "fr": "se lever",
+   "en": "to get up",
+   "ex": "Il vient de se lever."
+  },
+  {
+   "fr": "déménager",
+   "en": "to move (house)",
+   "ex": "On vient de déménager à Verdun."
+  },
+  {
+   "fr": "sonner",
+   "en": "to ring",
+   "ex": "Le téléphone vient de sonner."
+  },
+  {
+   "fr": "l'autobus",
+   "en": "bus",
+   "g": "m",
+   "ex": "L'autobus vient de passer."
+  },
+  {
+   "fr": "il y a (+ time)",
+   "en": "ago",
+   "ex": "Il est parti il y a cinq minutes."
+  },
+  {
+   "fr": "tout à l'heure",
+   "en": "a little while ago / in a little while",
+   "ex": "Je l'ai vu tout à l'heure."
+  },
+  {
+   "fr": "à peine",
+   "en": "barely, hardly",
+   "ex": "J'étais à peine arrivé qu'il est parti."
+  },
+  {
+   "fr": "être après + infinitif",
+   "en": "to be in the middle of doing (informal)",
+   "ex": "Chu après faire le souper.",
+   "qc": true
+  },
+  {
+   "fr": "le condo",
+   "en": "condominium apartment",
+   "g": "m",
+   "ex": "Ils viennent d'acheter un condo.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "je viens",
+    "tip": "zhuh VYAN, nasal; Quebec: zh'vyan."
+   },
+   {
+    "fr": "ils viennent",
+    "tip": "eel VYENN: the plural is not nasal."
+   },
+   {
+    "fr": "nous venons",
+    "tip": "noo vuh-NON."
+   },
+   {
+    "fr": "il vient d'arriver",
+    "tip": "eel vyan da-ree-VAY."
+   },
+   {
+    "fr": "je venais",
+    "tip": "zhuh vuh-NAY."
+   },
+   {
+    "fr": "j'viens juste de",
+    "tip": "Quebec: zhvyan zhust duh, often zhvyan zhus' d'."
+   }
+  ],
+  "title": "Tu viens de le manquer!",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Allô, est-ce que Marc est là?",
+    "en": "Hello, is Marc there?"
+   },
+   {
+    "s": "B",
+    "fr": "Ah, tu viens juste de le manquer. Il vient de partir au gym.",
+    "en": "Ah, you just missed him. He just left for the gym."
+   },
+   {
+    "s": "A",
+    "fr": "Zut! Il a son cellulaire?",
+    "en": "Darn! Does he have his cell phone?"
+   },
+   {
+    "s": "B",
+    "fr": "Non, je viens de le voir sur la table.",
+    "en": "No, I just saw it on the table."
+   },
+   {
+    "s": "A",
+    "fr": "Bon. Et toi, qu'est-ce que tu fais?",
+    "en": "OK. And you, what are you doing?"
+   },
+   {
+    "s": "B",
+    "fr": "Je viens de rentrer du travail. Je venais d'enlever mes bottes quand le téléphone a sonné!",
+    "en": "I just got home from work. I had just taken my boots off when the phone rang!"
+   },
+   {
+    "s": "A",
+    "fr": "Désolé! Peux-tu lui dire de me rappeler?",
+    "en": "Sorry! Can you tell him to call me back?"
+   },
+   {
+    "s": "B",
+    "fr": "Pas de problème, je lui laisse un message.",
+    "en": "No problem, I'll leave him a message."
+   }
+  ],
+  "questions": [
+   {
+    "q": "Where did Marc just go?",
+    "options": [
+     "To work",
+     "To the gym",
+     "To the store"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Why can't A call Marc on his cell?",
+    "options": [
+     "It's broken",
+     "It's on the table",
+     "He has no cell"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What had B just done when the phone rang?",
+    "options": [
+     "Eaten supper",
+     "Taken off boots",
+     "Gone to bed"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Say three things you have just done today with venir de.",
+   "model": "Je viens de déjeuner, je viens de lire mes courriels et je viens de faire du café."
+  },
+  {
+   "prompt": "Say what you had just done when something happened (venais de + passé composé).",
+   "model": "Je venais de sortir quand il a commencé à neiger."
+  },
+  {
+   "prompt": "Say 'He just left' in standard French, then the casual Quebec way.",
+   "model": "Il vient de partir. / Y vient juste de partir."
+  }
+ ],
+ "write": {
+  "prompt": "Write a text message (4–5 sentences) to a friend describing what you have just done and what you are about to do. Use venir de and aller + infinitive.",
+  "model": "Salut! Je viens de finir mon cours de français. Je viens aussi de passer à l'épicerie. Là, je vais faire le souper. Après, on va regarder le match avec mes colocs. Tu viens?"
+ },
+ "quiz": [
+  {
+   "q": "'Je vais partir' vs 'Je viens de partir': which is the recent past?",
+   "options": [
+    "Je vais partir",
+    "Je viens de partir",
+    "Both",
+    "Neither"
+   ],
+   "a": 1,
+   "why": "venir de = just happened; aller = about to happen."
+  },
+  {
+   "q": "Complete: 'Vous ___ d'arriver?' (venir)",
+   "options": [
+    "venez",
+    "venons",
+    "viennent",
+    "venir"
+   ],
+   "a": 0,
+   "why": "vous venez."
+  },
+  {
+   "q": "'Je viens de Calgary' means…",
+   "options": [
+    "I just came back from Calgary",
+    "I'm from Calgary",
+    "I'm going to Calgary",
+    "I just left Calgary"
+   ],
+   "a": 1,
+   "why": "venir de + place = to come from."
+  },
+  {
+   "q": "Which is correct for 'We had just left'?",
+   "options": [
+    "On est venu de partir.",
+    "On venait de partir.",
+    "On vient de partir.",
+    "On avait venu partir."
+   ],
+   "a": 1,
+   "why": "Imparfait of venir + de + infinitive."
+  },
+  {
+   "q": "'Tout à l'heure' can mean…",
+   "options": [
+    "all the time",
+    "a little while ago or soon",
+    "on time",
+    "every hour"
+   ],
+   "a": 1,
+   "why": "It refers to a moment close to now, past or future."
+  },
+  {
+   "q": "'J'viens juste de finir' is…",
+   "options": [
+    "incorrect",
+    "casual Quebec for 'Je viens de finir'",
+    "future tense",
+    "France slang only"
+   ],
+   "a": 1,
+   "why": "Quebec speech shortens je and adds juste."
+  },
+  {
+   "q": "Where does 'en' go in 'We just bought some'?",
+   "options": [
+    "On en vient d'acheter.",
+    "On vient d'en acheter.",
+    "On vient d'acheter en.",
+    "En on vient d'acheter."
+   ],
+   "a": 1,
+   "why": "Before the infinitive."
+  },
+  {
+   "q": "'Il est parti il y a dix minutes' means…",
+   "options": [
+    "He left ten minutes ago.",
+    "He's leaving in ten minutes.",
+    "He left for ten minutes.",
+    "There are ten minutes left."
+   ],
+   "a": 0,
+   "why": "il y a + time = ago."
+  }
+ ]
+}

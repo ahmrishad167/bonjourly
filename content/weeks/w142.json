@@ -1,0 +1,676 @@
+{
+ "w": 142,
+ "title": "Prefixes",
+ "goal": "By the end of this lesson you can recognise the main French prefixes (re-, dé-, in-, mé-, pré-, sur-, sous-, en-, co-, auto-…), guess the meaning of new words from their roots, and build Quebec everyday words like déneiger, dépanneur and embarquer.",
+ "learn": [
+  {
+   "h": "Why prefixes multiply your vocabulary",
+   "body": [
+    "A prefix is a small element added to the front of a root word. Once you know about twenty prefixes, one root word gives you a family: *faire → refaire, défaire, surfaire, contrefaire*; *voir → revoir, prévoir, entrevoir*.",
+    "Reading tip: when you meet an unknown long word, strip off the prefix and look for a root you know. *Imprévisible* = *im* (not) + *pré* (before) + *vis* (see) + *ible* (able) → unpredictable."
+   ]
+  },
+  {
+   "h": "Repetition, reversal and negation",
+   "body": [
+    "*Re-* (*ré-* before a vowel, *r-* in some words) means again or back: *refaire, réécrire, réessayer, rappeler, rentrer*.",
+    "*Dé- / dés- / dis-* reverses or removes: *défaire* (undo), *déneiger* (remove snow), *désactiver*, *déshabiller*, *disparaître*.",
+    "*In-* means 'not'; it becomes *im-* before b, m, p, *il-* before l and *ir-* before r: *inutile, impossible, immobile, illégal, irrégulier*. *Mé- / més-* and *mal-* mean badly or not: *mécontent, mésentente, malhonnête, malheureux*."
+   ],
+   "table": {
+    "head": [
+     "Prefix",
+     "Meaning",
+     "Examples"
+    ],
+    "rows": [
+     [
+      "re- / ré- / r-",
+      "again, back",
+      "relire, réélire, rapporter"
+     ],
+     [
+      "dé- / dés- / dis-",
+      "undo, remove",
+      "déneiger, désobéir, disparaître"
+     ],
+     [
+      "in- / im- / il- / ir-",
+      "not",
+      "inconnu, impatient, illisible, irresponsable"
+     ],
+     [
+      "mé- / més- / mal-",
+      "badly, not",
+      "méconnu, mésaventure, maladroit"
+     ],
+     [
+      "a- / an-",
+      "without",
+      "apolitique, anormal"
+     ]
+    ]
+   },
+   "tip": "Doubled consonants are a clue: il-l, ir-r, im-m. The prefix copied the first letter of the root."
+  },
+  {
+   "h": "Position, time and degree",
+   "body": [
+    "Many prefixes come from Latin prepositions and keep their meaning.",
+    "Note that *en- / em-* often means 'put into': *emballer* (put in a package), *enneigé* (covered in snow), *embarquer* (get on board), *encadrer* (frame, supervise)."
+   ],
+   "table": {
+    "head": [
+     "Prefix",
+     "Meaning",
+     "Examples"
+    ],
+    "rows": [
+     [
+      "pré-",
+      "before",
+      "prévoir, préchauffer, prépayé"
+     ],
+     [
+      "post-",
+      "after",
+      "postdater, postsecondaire"
+     ],
+     [
+      "sur-",
+      "over, too much",
+      "surcharger, surchauffer, surestimer"
+     ],
+     [
+      "sous-",
+      "under, not enough",
+      "sous-estimer, sous-sol, sous-titre"
+     ],
+     [
+      "en- / em-",
+      "into, onto",
+      "emballer, enneigé, embarquer"
+     ],
+     [
+      "inter-",
+      "between",
+      "international, interurbain"
+     ],
+     [
+      "co- / con- / com-",
+      "with, together",
+      "colocataire, cohabiter, compatriote"
+     ],
+     [
+      "contre-",
+      "against",
+      "contredire, contrepartie"
+     ],
+     [
+      "auto-",
+      "self",
+      "autoroute, autofinancement"
+     ],
+     [
+      "mi-",
+      "half, mid",
+      "mi-temps, mi-janvier"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Intensifiers",
+   "body": [
+    "*Super-, hyper-, ultra-, archi-, extra-* intensify: *supermarché, hyperactif, ultrarapide, archiplein, extrafort*. In speech they are often used as free-standing intensifiers: *C'est super bon. Il est hyper gentil.*",
+    "Under the 1990 spelling reform (followed by the OQLF), most prefixed compounds are written as one word: *autoroute, extraterrestre, ultrarapide, contrepartie*."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Il faut tout refaire : le fichier n'a pas été sauvegardé.",
+   "en": "Everything has to be redone: the file wasn't saved.",
+   "note": "re- = again"
+  },
+  {
+   "fr": "Peux-tu me rappeler dans dix minutes?",
+   "en": "Can you call me back in ten minutes?",
+   "note": "r- = back"
+  },
+  {
+   "fr": "La Ville déneige les rues pendant la nuit.",
+   "en": "The city clears snow from the streets at night.",
+   "note": "dé- + neige: remove snow"
+  },
+  {
+   "fr": "Je suis allé au dépanneur chercher du lait.",
+   "en": "I went to the corner store to get milk.",
+   "note": "dépanner = to help out of a 'panne' (breakdown)"
+  },
+  {
+   "fr": "Ce formulaire est illisible, recommencez.",
+   "en": "This form is illegible, start again.",
+   "note": "il- + lisible"
+  },
+  {
+   "fr": "Les clients sont mécontents du service.",
+   "en": "Customers are unhappy with the service.",
+   "note": "mé- = not"
+  },
+  {
+   "fr": "Il est malhonnête de cacher cette information.",
+   "en": "It's dishonest to hide this information.",
+   "note": "mal- = badly"
+  },
+  {
+   "fr": "Préchauffez le four à 180 degrés.",
+   "en": "Preheat the oven to 180 degrees.",
+   "note": "pré- = before"
+  },
+  {
+   "fr": "On a sous-estimé la durée des travaux.",
+   "en": "We underestimated the length of the work.",
+   "note": "sous- = under"
+  },
+  {
+   "fr": "Le réseau est surchargé ce matin.",
+   "en": "The network is overloaded this morning.",
+   "note": "sur- = too much"
+  },
+  {
+   "fr": "Embarque, je te ramène chez toi.",
+   "en": "Get in, I'll drive you home.",
+   "note": "em- + barque; Quebec: embarquer = get in a car"
+  },
+  {
+   "fr": "Les montagnes enneigées brillaient au soleil.",
+   "en": "The snow-covered mountains shone in the sun.",
+   "note": "en- = covered with"
+  },
+  {
+   "fr": "Ma colocataire travaille à mi-temps.",
+   "en": "My roommate works part-time.",
+   "note": "co- = with; mi- = half"
+  },
+  {
+   "fr": "Le colis est parti mi-janvier.",
+   "en": "The parcel was sent in mid-January.",
+   "note": "mi- = mid"
+  },
+  {
+   "fr": "Ce trajet est imprévisible à l'heure de pointe.",
+   "en": "This trip is unpredictable at rush hour.",
+   "note": "im- + pré- + vis + -ible"
+  },
+  {
+   "fr": "Le métro était archiplein ce matin.",
+   "en": "The metro was packed this morning.",
+   "note": "archi- = extremely"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebec French has built many everyday words with prefixes, especially dé- (déneiger, déglacer, dépanneur) and em-/en- (embarquer, débarquer). Speech also uses intensifiers freely, including the anglicism 'full'.",
+  "items": [
+   {
+    "std": "le déneigement",
+    "qc": "le déneigement",
+    "en": "snow removal",
+    "note": "standard and essential Quebec vocabulary; la déneigeuse = snowplow"
+   },
+   {
+    "std": "l'épicerie de quartier",
+    "qc": "le dépanneur / le dep",
+    "en": "the corner store",
+    "note": "dépanneur is Quebec-specific; dep is informal"
+   },
+   {
+    "std": "Monte dans la voiture.",
+    "qc": "Embarque dans l'auto / dans le char.",
+    "en": "Get in the car.",
+    "note": "embarquer/débarquer = get in/out of a vehicle; very common in Quebec"
+   },
+   {
+    "std": "Il est devenu plus dégourdi.",
+    "qc": "Il s'est déniaisé.",
+    "en": "He's wised up / come out of his shell.",
+    "note": "déniaiser = to make less naive; informal"
+   },
+   {
+    "std": "C'est très bon.",
+    "qc": "C'est full bon. / C'est méga bon.",
+    "en": "It's super good.",
+    "note": "full = anglicism intensifier, informal youth speech"
+   },
+   {
+    "std": "Dégivre le pare-brise.",
+    "qc": "Déglace le pare-brise.",
+    "en": "De-ice the windshield.",
+    "note": "déglacer is common in Quebec; dégivrer is standard everywhere"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "'Désactiver' means…",
+   "options": [
+    "to activate again",
+    "to deactivate",
+    "to overactivate",
+    "to activate before"
+   ],
+   "a": 1,
+   "why": "Dés- reverses: deactivate."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is the correct negative of 'légal'?",
+   "options": [
+    "inlégal",
+    "illégal",
+    "imlégal",
+    "irlégal"
+   ],
+   "a": 1,
+   "why": "In- becomes il- before l."
+  },
+  {
+   "t": "mcq",
+   "q": "'Sous-estimer' means…",
+   "options": [
+    "to overestimate",
+    "to underestimate",
+    "to estimate again",
+    "to estimate together"
+   ],
+   "a": 1,
+   "why": "Sous- = under."
+  },
+  {
+   "t": "mcq",
+   "q": "In Quebec, 'Embarque!' said by a driver means…",
+   "options": [
+    "Board the ship!",
+    "Get in the car!",
+    "Get out!",
+    "Hurry up!"
+   ],
+   "a": 1,
+   "why": "Embarquer = get into a vehicle."
+  },
+  {
+   "t": "mcq",
+   "q": "Where does 'dépanneur' come from?",
+   "options": [
+    "dé + panne: helping out of a breakdown",
+    "dé + pain: a bakery",
+    "dé + panier: a basket",
+    "English 'dep'"
+   ],
+   "a": 0,
+   "why": "A dépanneur 'gets you out of a jam' with everyday items."
+  },
+  {
+   "t": "fill",
+   "q": "Ce mot est ___lisible, je ne peux pas le lire. (not)",
+   "a": [
+    "il"
+   ],
+   "en": "This word is illegible, I can't read it.",
+   "why": "Il- before l."
+  },
+  {
+   "t": "fill",
+   "q": "Il faut ___chauffer le four. (before)",
+   "a": [
+    "pré"
+   ],
+   "en": "You have to preheat the oven.",
+   "why": "Pré- = before."
+  },
+  {
+   "t": "fill",
+   "q": "Le serveur est ___chargé ce matin. (too much)",
+   "a": [
+    "sur"
+   ],
+   "en": "The server is overloaded this morning.",
+   "why": "Sur- = over, too much."
+  },
+  {
+   "t": "fill",
+   "q": "Mon ___locataire paie la moitié du loyer. (with)",
+   "a": [
+    "co"
+   ],
+   "en": "My roommate pays half the rent.",
+   "why": "Co- = together."
+  },
+  {
+   "t": "build",
+   "en": "Can you call me back?",
+   "a": "Peux-tu me rappeler?"
+  },
+  {
+   "t": "build",
+   "en": "The customers are unhappy.",
+   "a": "Les clients sont mécontents."
+  },
+  {
+   "t": "build",
+   "en": "We underestimated the cost.",
+   "a": "On a sous-estimé le coût."
+  },
+  {
+   "t": "translate",
+   "en": "It's impossible.",
+   "a": [
+    "C'est impossible.",
+    "Ce n'est pas possible.",
+    "C'est pas possible."
+   ],
+   "why": "Im- before p."
+  },
+  {
+   "t": "translate",
+   "en": "Get in the car!",
+   "a": [
+    "Monte dans la voiture!",
+    "Embarque dans l'auto!",
+    "Embarque dans le char!",
+    "Monte dans l'auto!",
+    "Montez dans la voiture!",
+    "Embarque!",
+    "Monte!"
+   ],
+   "why": "Embarquer is the everyday Quebec verb."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "refaire",
+   "en": "to redo",
+   "ex": "Il faut refaire le calcul."
+  },
+  {
+   "fr": "rappeler",
+   "en": "to call back; to remind",
+   "ex": "Rappelle-moi ce soir."
+  },
+  {
+   "fr": "défaire",
+   "en": "to undo, unpack",
+   "ex": "Je n'ai pas encore défait mes valises."
+  },
+  {
+   "fr": "déneiger",
+   "en": "to clear snow",
+   "ex": "Le contrat de déneigement coûte 400 $."
+  },
+  {
+   "fr": "la déneigeuse",
+   "en": "snowplow, snowblower",
+   "g": "f",
+   "ex": "La déneigeuse passe à 3 h du matin.",
+   "qc": true
+  },
+  {
+   "fr": "le dépanneur",
+   "en": "corner store",
+   "g": "m",
+   "ex": "Le dépanneur est ouvert jusqu'à 23 h.",
+   "qc": true
+  },
+  {
+   "fr": "illisible",
+   "en": "illegible",
+   "ex": "Son écriture est illisible."
+  },
+  {
+   "fr": "mécontent / mécontente",
+   "en": "displeased, unhappy",
+   "ex": "Les citoyens sont mécontents."
+  },
+  {
+   "fr": "malhonnête",
+   "en": "dishonest",
+   "ex": "C'est une pratique malhonnête."
+  },
+  {
+   "fr": "prévoir",
+   "en": "to plan, foresee",
+   "ex": "On prévoit de la neige."
+  },
+  {
+   "fr": "sous-estimer",
+   "en": "to underestimate",
+   "ex": "Ne sous-estime pas l'hiver."
+  },
+  {
+   "fr": "surchargé / surchargée",
+   "en": "overloaded",
+   "ex": "Mon horaire est surchargé."
+  },
+  {
+   "fr": "embarquer / débarquer",
+   "en": "to get in / out (of a vehicle)",
+   "ex": "Débarque au coin de la rue.",
+   "qc": true
+  },
+  {
+   "fr": "le / la colocataire (coloc)",
+   "en": "roommate",
+   "ex": "Ma coloc est infirmière."
+  },
+  {
+   "fr": "imprévisible",
+   "en": "unpredictable",
+   "ex": "La météo est imprévisible."
+  },
+  {
+   "fr": "déglacer",
+   "en": "to de-ice (Quebec usage)",
+   "ex": "Déglace ton pare-brise avant de partir.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "réécrire",
+    "tip": "Two é's: [ré-é-KRIR]."
+   },
+   {
+    "fr": "illégal",
+    "tip": "One l sound in normal speech: [i-lé-GAL]."
+   },
+   {
+    "fr": "irresponsable",
+    "tip": "[i-rès-pon-SABL]."
+   },
+   {
+    "fr": "enneigé",
+    "tip": "Nasal + n: [an-né-JÉ]."
+   },
+   {
+    "fr": "sous-sol",
+    "tip": "[sou-SOL]: two s sounds, no z."
+   },
+   {
+    "fr": "dépanneur",
+    "tip": "[dé-pa-NEUR]; informal [dèp]."
+   }
+  ],
+  "title": "Une matinée de tempête",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "As-tu vu dehors? Tout est enneigé. La déneigeuse est même pas passée.",
+    "en": "Did you see outside? Everything's snowed in. The plow hasn't even come by."
+   },
+   {
+    "s": "B",
+    "fr": "Il faut déneiger l'auto pis déglacer le pare-brise. On va être en retard.",
+    "en": "We have to clear the car and de-ice the windshield. We're going to be late."
+   },
+   {
+    "s": "A",
+    "fr": "J'ai sous-estimé la tempête, hier. La météo était imprévisible.",
+    "en": "I underestimated the storm yesterday. The forecast was unpredictable."
+   },
+   {
+    "s": "B",
+    "fr": "Bon. Je vais rappeler le bureau pour dire qu'on arrive à mi-matinée.",
+    "en": "OK. I'll call the office back to say we'll arrive mid-morning."
+   },
+   {
+    "s": "A",
+    "fr": "Pis arrête au dépanneur, on n'a plus de café.",
+    "en": "And stop at the corner store, we're out of coffee."
+   },
+   {
+    "s": "B",
+    "fr": "Parfait. Embarque, on y va!",
+    "en": "Perfect. Get in, let's go!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What hasn't happened yet?",
+    "options": [
+     "The plow hasn't come",
+     "The bus hasn't come",
+     "The power isn't back"
+    ],
+    "a": 0
+   },
+   {
+    "q": "When will they arrive at work?",
+    "options": [
+     "On time",
+     "Mid-morning",
+     "In the afternoon"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Why stop at the dépanneur?",
+    "options": [
+     "For milk",
+     "For coffee",
+     "For gas"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Take three verbs (faire, voir, lire) and make as many prefixed words as you can, with a short sentence for each.",
+   "model": "Refaire : je dois refaire mon CV. Défaire : je défais ma valise. Prévoir : on prévoit de la pluie. Revoir : j'aimerais revoir ce film. Relire : relis ton courriel avant de l'envoyer."
+  },
+  {
+   "prompt": "Describe your winter morning routine with at least four prefixed words.",
+   "model": "Je me lève, je déneige l'auto, je déglace le pare-brise et je laisse chauffer le moteur. Après, j'embarque et je pars."
+  },
+  {
+   "prompt": "Guess and explain these words from their parts: imprévisible, mésentente, autofinancement.",
+   "model": "Imprévisible : im + pré + vis + ible, qu'on ne peut pas voir d'avance. Mésentente : mauvaise entente. Autofinancement : se financer soi-même."
+  }
+ ],
+ "write": {
+  "prompt": "Write a short message to your colleagues (5–6 sentences) about a delayed project, using at least six words with prefixes.",
+  "model": "Bonjour à tous, nous avons malheureusement sous-estimé la durée du projet. Le serveur était surchargé, et plusieurs fichiers ont disparu. Il faudra donc refaire une partie du travail. Je prévois une nouvelle date de livraison à la mi-mars. Les clients sont un peu mécontents, mais je les rappellerai demain pour leur expliquer la situation. Merci de votre patience!"
+ },
+ "quiz": [
+  {
+   "q": "'Re-' usually means…",
+   "options": [
+    "not",
+    "again or back",
+    "before",
+    "under"
+   ],
+   "a": 1,
+   "why": "Refaire, revenir, rappeler."
+  },
+  {
+   "q": "Which prefix means 'not' before r?",
+   "options": [
+    "in-",
+    "im-",
+    "il-",
+    "ir-"
+   ],
+   "a": 3,
+   "why": "Irrégulier, irresponsable."
+  },
+  {
+   "q": "'Mésentente' means…",
+   "options": [
+    "agreement",
+    "misunderstanding, disagreement",
+    "listening again",
+    "agreement in advance"
+   ],
+   "a": 1,
+   "why": "Més- = badly + entente."
+  },
+  {
+   "q": "'Surchauffer' means…",
+   "options": [
+    "to underheat",
+    "to overheat",
+    "to reheat",
+    "to preheat"
+   ],
+   "a": 1,
+   "why": "Sur- = too much."
+  },
+  {
+   "q": "'Débarquer' in Quebec usually means…",
+   "options": [
+    "to unload a boat only",
+    "to get out of a vehicle",
+    "to bark",
+    "to disembark from a plane only"
+   ],
+   "a": 1,
+   "why": "Débarque au coin = get out at the corner."
+  },
+  {
+   "q": "Which word means 'self'?",
+   "options": [
+    "co-",
+    "auto-",
+    "inter-",
+    "contre-"
+   ],
+   "a": 1,
+   "why": "Autoroute, autonome, autofinancement."
+  },
+  {
+   "q": "'Mi-janvier' means…",
+   "options": [
+    "half of January",
+    "mid-January",
+    "my January",
+    "before January"
+   ],
+   "a": 1,
+   "why": "Mi- = middle."
+  },
+  {
+   "q": "'C'est full bon' is…",
+   "options": [
+    "standard French",
+    "an informal anglicism intensifier",
+    "a France expression",
+    "formal Quebec French"
+   ],
+   "a": 1,
+   "why": "Full = très, informal youth speech."
+  }
+ ]
+}

@@ -1,0 +1,654 @@
+{
+ "w": 110,
+ "title": "Causative faire",
+ "goal": "By the end of this lesson you can say that you have something done by someone else (Je fais réparer mon char), place pronouns correctly (Je le fais réparer), say who does the work, and use the structure in the past.",
+ "learn": [
+  {
+   "h": "Faire + infinitive: getting something done",
+   "body": [
+    "English says 'I'm having my car repaired' or 'I'm getting my hair cut'. French uses *faire* + infinitive: *Je fais réparer ma voiture.* The subject doesn't do the work; it causes it to be done.",
+    "*faire* is conjugated in any tense; the second verb always stays in the infinitive: *Nous allons faire construire une maison.* *Elle a fait installer une thermopompe.*",
+    "The pattern also means 'make someone do something': *Le prof fait lire les élèves.* (The teacher makes the students read.) *Ce film m'a fait pleurer.* (That movie made me cry.)"
+   ],
+   "table": {
+    "head": [
+     "French",
+     "English"
+    ],
+    "rows": [
+     [
+      "Je fais laver la voiture.",
+      "I'm having the car washed."
+     ],
+     [
+      "Il a fait peindre la cuisine.",
+      "He had the kitchen painted."
+     ],
+     [
+      "On va faire changer les pneus.",
+      "We're going to get the tires changed."
+     ],
+     [
+      "Tu me fais rire!",
+      "You make me laugh!"
+     ]
+    ]
+   },
+   "tip": "faire + infinitive stick together like one verb: nothing comes between them except in the imperative."
+  },
+  {
+   "h": "Pronouns go before faire",
+   "body": [
+    "Object pronouns go before *faire*, not before the infinitive: *Je fais réparer mon char* → *Je le fais réparer.* (not *je fais le réparer*)",
+    "In the passé composé, the participle *fait* never agrees in this structure: *Ma voiture? Je l'ai fait réparer.* (not *faite*)",
+    "In the affirmative imperative, the pronoun follows *faire*: *Fais-le réparer!* In the negative: *Ne le fais pas réparer.*"
+   ]
+  },
+  {
+   "h": "Saying who does the work: par or à",
+   "body": [
+    "To name the person doing the action, use *par*: *Je fais réparer ma voiture par un garagiste.*",
+    "When the infinitive already has a direct object, the person doing it is introduced by *à* (or *par*), and becomes an indirect pronoun (*lui, leur*): *Je fais lire la lettre à Marie.* → *Je lui fais lire la lettre.*",
+    "When the infinitive has no object, the person is a direct object: *Je fais manger les enfants.* → *Je les fais manger.*"
+   ],
+   "table": {
+    "head": [
+     "Sentence",
+     "With pronouns"
+    ],
+    "rows": [
+     [
+      "Je fais chanter les enfants.",
+      "Je les fais chanter."
+     ],
+     [
+      "Je fais chanter une chanson aux enfants.",
+      "Je leur fais chanter une chanson."
+     ],
+     [
+      "Elle fait signer le contrat au client.",
+      "Elle le lui fait signer."
+     ],
+     [
+      "J'ai fait venir le plombier.",
+      "Je l'ai fait venir."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Useful fixed combinations",
+   "body": [
+    "Some faire + infinitive pairs work like single verbs: *faire venir* (to call in, to send for), *faire savoir* (to let know), *faire voir* (to show), *faire attendre* (to keep waiting), *faire tomber* (to drop), *faire cuire* (to cook), *faire visiter* (to show around).",
+    "*faire faire* is correct and common: *Je fais faire des rénovations.* (I'm having renovations done.)"
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Je dois faire réparer mon auto.",
+   "en": "I need to get my car fixed.",
+   "note": "auto is very common in Quebec too"
+  },
+  {
+   "fr": "On fait déneiger l'entrée tout l'hiver.",
+   "en": "We have the driveway cleared all winter.",
+   "note": "a very Quebec contract: déneigement"
+  },
+  {
+   "fr": "Elle s'est fait couper les cheveux.",
+   "en": "She got her hair cut.",
+   "note": "se faire + infinitive: done to yourself (more next week)"
+  },
+  {
+   "fr": "Nous avons fait installer une thermopompe.",
+   "en": "We had a heat pump installed.",
+   "note": "thermopompe = heat pump, Quebec term"
+  },
+  {
+   "fr": "Je l'ai fait réparer par mon beau-frère.",
+   "en": "I had it fixed by my brother-in-law.",
+   "note": "par introduces who did it; fait doesn't agree"
+  },
+  {
+   "fr": "Ce film m'a fait pleurer.",
+   "en": "That movie made me cry.",
+   "note": "faire = to make someone do something"
+  },
+  {
+   "fr": "Tu me fais toujours rire.",
+   "en": "You always make me laugh.",
+   "note": "pronoun before faire"
+  },
+  {
+   "fr": "Le prof fait lire un texte aux élèves.",
+   "en": "The teacher has the students read a text.",
+   "note": "à + person when there's a direct object"
+  },
+  {
+   "fr": "Le prof leur fait lire un texte.",
+   "en": "The teacher has them read a text.",
+   "note": "aux élèves → leur"
+  },
+  {
+   "fr": "Désolé de vous avoir fait attendre.",
+   "en": "Sorry to have kept you waiting.",
+   "note": "faire attendre, a polite formula"
+  },
+  {
+   "fr": "On va faire venir un électricien.",
+   "en": "We're going to call in an electrician.",
+   "note": "faire venir = send for"
+  },
+  {
+   "fr": "Fais cuire les pâtes dix minutes.",
+   "en": "Cook the pasta for ten minutes.",
+   "note": "faire cuire: recipes use it all the time"
+  },
+  {
+   "fr": "Il a fait tomber son téléphone dans la neige.",
+   "en": "He dropped his phone in the snow.",
+   "note": "faire tomber = to drop"
+  },
+  {
+   "fr": "Je vais te faire visiter le Vieux-Montréal.",
+   "en": "I'll show you around Old Montreal.",
+   "note": "faire visiter = give a tour"
+  },
+  {
+   "fr": "Fais-le vérifier avant l'hiver!",
+   "en": "Get it checked before winter!",
+   "note": "imperative: pronoun after faire"
+  },
+  {
+   "fr": "Nous faisons construire un chalet.",
+   "en": "We're having a cottage built.",
+   "note": "chalet = country cottage in Quebec"
+  }
+ ],
+ "quebec": {
+  "intro": "Car and house maintenance is where you'll use causative faire most in Quebec: 'faire réparer son char', 'faire poser ses pneus d'hiver', 'faire déneiger'. Informal speech also adds English verbs like 'checker'.",
+  "items": [
+   {
+    "std": "Je dois faire réparer ma voiture.",
+    "qc": "Faut que je fasse réparer mon char.",
+    "en": "I have to get my car fixed.",
+    "note": "char = car, informal Quebec"
+   },
+   {
+    "std": "J'ai fait installer mes pneus d'hiver.",
+    "qc": "J'ai fait poser mes pneus d'hiver.",
+    "en": "I had my winter tires put on.",
+    "note": "poser is the usual Quebec verb; winter tires are mandatory in Quebec Dec. 1 to Mar. 15"
+   },
+   {
+    "std": "Je le fais vérifier.",
+    "qc": "Je le fais checker.",
+    "en": "I'm getting it checked.",
+    "note": "checker is an anglicism, very common but informal"
+   },
+   {
+    "std": "On fait déneiger l'allée.",
+    "qc": "On fait déneiger l'entrée.",
+    "en": "We get the driveway cleared.",
+    "note": "l'entrée is the usual Quebec word for the driveway"
+   },
+   {
+    "std": "J'ai fait faire l'entretien.",
+    "qc": "J'ai fait faire la mise au point.",
+    "en": "I had the car serviced.",
+    "note": "mise au point = tune-up, common in Quebec garages"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Ma voiture? Je ___ réparer demain.",
+   "options": [
+    "fais la",
+    "la fais",
+    "fais le",
+    "lui fais"
+   ],
+   "a": 1,
+   "why": "The pronoun goes before faire: je la fais réparer."
+  },
+  {
+   "t": "mcq",
+   "q": "Les fenêtres? Nous les avons ___ laver.",
+   "options": [
+    "faites",
+    "fait",
+    "faits",
+    "faire"
+   ],
+   "a": 1,
+   "why": "In causative faire, the participle fait never agrees."
+  },
+  {
+   "t": "mcq",
+   "q": "Je fais lire la lettre à Marie. → Je ___ fais lire la lettre.",
+   "options": [
+    "la",
+    "lui",
+    "leur",
+    "le"
+   ],
+   "a": 1,
+   "why": "à Marie → lui (indirect object)."
+  },
+  {
+   "t": "mcq",
+   "q": "'Ce film m'a fait pleurer' means…",
+   "options": [
+    "I made that movie cry.",
+    "That movie made me cry.",
+    "I cried while making the movie.",
+    "That movie was made to cry."
+   ],
+   "a": 1,
+   "why": "Faire + infinitive = to make someone do something."
+  },
+  {
+   "t": "fill",
+   "q": "On va ___ venir un plombier. (faire)",
+   "a": [
+    "faire"
+   ],
+   "en": "We're going to call in a plumber.",
+   "why": "After aller, faire stays in the infinitive."
+  },
+  {
+   "t": "fill",
+   "q": "Elle a fait ___ ses cheveux. (to cut)",
+   "a": [
+    "couper"
+   ],
+   "en": "She had her hair cut.",
+   "why": "The second verb is always an infinitive."
+  },
+  {
+   "t": "fill",
+   "q": "Les enfants? Je ___ fais manger à six heures.",
+   "a": [
+    "les"
+   ],
+   "en": "The kids? I feed them at six.",
+   "why": "No other object, so the person is a direct object: les."
+  },
+  {
+   "t": "fill",
+   "q": "Désolé de vous avoir fait ___. (to wait)",
+   "a": [
+    "attendre"
+   ],
+   "en": "Sorry to have kept you waiting.",
+   "why": "Faire attendre = to keep waiting."
+  },
+  {
+   "t": "build",
+   "en": "I'm getting my car repaired.",
+   "a": "Je fais réparer ma voiture."
+  },
+  {
+   "t": "build",
+   "en": "You always make me laugh.",
+   "a": "Tu me fais toujours rire."
+  },
+  {
+   "t": "build",
+   "en": "Get it checked before winter!",
+   "a": "Fais-le vérifier avant l'hiver!"
+  },
+  {
+   "t": "translate",
+   "en": "We had the kitchen painted.",
+   "a": [
+    "Nous avons fait peindre la cuisine.",
+    "On a fait peindre la cuisine."
+   ],
+   "why": "Faire + peindre; fait doesn't agree."
+  },
+  {
+   "t": "translate",
+   "en": "I had it fixed.",
+   "a": [
+    "Je l'ai fait réparer.",
+    "Je l'ai fait arranger."
+   ],
+   "why": "Pronoun before avoir; fait stays invariable."
+  },
+  {
+   "t": "translate",
+   "en": "He dropped his phone.",
+   "a": [
+    "Il a fait tomber son téléphone.",
+    "Il a fait tomber son cellulaire.",
+    "Il a échappé son téléphone.",
+    "Il a échappé son cellulaire."
+   ],
+   "why": "Faire tomber; échapper is the common Quebec verb for dropping."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "faire réparer",
+   "en": "to get (something) fixed",
+   "ex": "Je fais réparer mon vélo."
+  },
+  {
+   "fr": "faire venir",
+   "en": "to call in, to send for",
+   "ex": "On a fait venir le médecin."
+  },
+  {
+   "fr": "faire attendre",
+   "en": "to keep (someone) waiting",
+   "ex": "Ne fais pas attendre ta mère."
+  },
+  {
+   "fr": "faire tomber",
+   "en": "to drop",
+   "ex": "J'ai fait tomber mes clés."
+  },
+  {
+   "fr": "faire cuire",
+   "en": "to cook (something)",
+   "ex": "Fais cuire le poulet une heure."
+  },
+  {
+   "fr": "faire visiter",
+   "en": "to show around",
+   "ex": "Je vais te faire visiter la ville."
+  },
+  {
+   "fr": "le garagiste",
+   "en": "garage mechanic, garage owner",
+   "g": "m",
+   "ex": "Le garagiste a changé l'huile."
+  },
+  {
+   "fr": "le char",
+   "en": "car",
+   "g": "m",
+   "ex": "Mon char est au garage.",
+   "qc": true
+  },
+  {
+   "fr": "les pneus d'hiver",
+   "en": "winter tires",
+   "g": "m",
+   "ex": "Les pneus d'hiver sont obligatoires au Québec.",
+   "qc": true
+  },
+  {
+   "fr": "le déneigement",
+   "en": "snow removal",
+   "g": "m",
+   "ex": "Le contrat de déneigement coûte 500 $.",
+   "qc": true
+  },
+  {
+   "fr": "la thermopompe",
+   "en": "heat pump",
+   "g": "f",
+   "ex": "On a fait installer une thermopompe.",
+   "qc": true
+  },
+  {
+   "fr": "la mise au point",
+   "en": "tune-up, servicing",
+   "g": "f",
+   "ex": "Mon char a besoin d'une mise au point.",
+   "qc": true
+  },
+  {
+   "fr": "le plombier",
+   "en": "plumber",
+   "g": "m",
+   "ex": "Il faut faire venir le plombier."
+  },
+  {
+   "fr": "l'entretien",
+   "en": "maintenance",
+   "g": "m",
+   "ex": "L'entretien de la maison coûte cher."
+  },
+  {
+   "fr": "échapper",
+   "en": "to drop (Quebec usage)",
+   "ex": "J'ai échappé mon café.",
+   "qc": true
+  },
+  {
+   "fr": "le chalet",
+   "en": "cottage, cabin",
+   "g": "m",
+   "ex": "On fait construire un chalet dans les Laurentides."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "je fais réparer",
+    "tip": "zhuh fè ré-pa-RÉ: fais is an open 'è'."
+   },
+   {
+    "fr": "je l'ai fait faire",
+    "tip": "zhuh lé fè FÈR: two 'fè' sounds in a row."
+   },
+   {
+    "fr": "faites-le vérifier",
+    "tip": "fèt-luh vé-ri-FYÉ."
+   },
+   {
+    "fr": "thermopompe",
+    "tip": "tèr-mo-PONP: nasal 'on' in pompe."
+   },
+   {
+    "fr": "pneus",
+    "tip": "Pronounce the p: [pnø], not 'neu'."
+   },
+   {
+    "fr": "le char",
+    "tip": "luh SHAR, Quebec casual: often 'shaʁ' with a back a."
+   }
+  ],
+  "title": "Au garage",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Bonjour, j'aimerais faire poser mes pneus d'hiver.",
+    "en": "Hello, I'd like to have my winter tires put on."
+   },
+   {
+    "s": "B",
+    "fr": "Pas de problème. On peut faire ça jeudi matin. Vous voulez faire faire la mise au point en même temps?",
+    "en": "No problem. We can do it Thursday morning. Do you want the tune-up done at the same time?"
+   },
+   {
+    "s": "A",
+    "fr": "Oui, bonne idée. Et les freins font un bruit bizarre; pouvez-vous les faire vérifier?",
+    "en": "Yes, good idea. And the brakes are making a weird noise; can you have them checked?"
+   },
+   {
+    "s": "B",
+    "fr": "Je vais les faire vérifier par notre mécanicien. Il vous appellera si c'est grave.",
+    "en": "I'll have our mechanic check them. He'll call you if it's serious."
+   },
+   {
+    "s": "A",
+    "fr": "Parfait. Est-ce que je dois laisser le char toute la journée?",
+    "en": "Perfect. Do I have to leave the car all day?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, mais on peut vous faire reconduire au métro.",
+    "en": "Yes, but we can have someone drive you to the metro."
+   },
+   {
+    "s": "A",
+    "fr": "Super. Désolé de vous faire attendre, je cherche mes clés… les voilà!",
+    "en": "Great. Sorry to keep you waiting, I'm looking for my keys… here they are!"
+   },
+   {
+    "s": "B",
+    "fr": "Merci. À jeudi!",
+    "en": "Thanks. See you Thursday!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What does the customer want done first?",
+    "options": [
+     "An oil change",
+     "Winter tires put on",
+     "A car wash"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Who will check the brakes?",
+    "options": [
+     "The customer",
+     "The mechanic",
+     "Nobody"
+    ],
+    "a": 1
+   },
+   {
+    "q": "How will the customer get to the metro?",
+    "options": [
+     "By bus",
+     "The garage will have someone drive them",
+     "On foot"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Tell a garage what you want done to your car (three things), using faire + infinitive.",
+   "model": "J'aimerais faire changer l'huile, faire poser mes pneus d'hiver et faire vérifier les freins."
+  },
+  {
+   "prompt": "Say three things you have done by professionals at home, with pronouns.",
+   "model": "Le gazon? Je le fais tondre. L'entrée? On la fait déneiger. Les fenêtres? On les fait laver au printemps."
+  },
+  {
+   "prompt": "Name something that makes you laugh and something that makes you angry.",
+   "model": "Les vidéos de chats me font rire. Le trafic sur le pont Champlain me fait rager."
+  },
+  {
+   "prompt": "Say 'I have to get my car fixed' formally, then in casual Quebec style.",
+   "model": "Je dois faire réparer ma voiture. / Faut que je fasse réparer mon char."
+  }
+ ],
+ "write": {
+  "prompt": "Write 6–8 sentences about preparing your car or home for winter. Use causative faire at least five times, including once with a pronoun and once in the passé composé.",
+  "model": "Chaque automne, je prépare ma maison et mon char pour l'hiver. D'abord, je fais poser mes pneus d'hiver au début de novembre. Cette année, j'ai aussi fait faire la mise au point, parce que le moteur faisait un bruit. Pour la maison, on a fait installer une thermopompe en septembre. Le contrat de déneigement? On le fait faire par une compagnie du quartier. Je fais aussi ramoner la cheminée. Comme ça, quand la première tempête arrive, je suis prêt!"
+ },
+ "quiz": [
+  {
+   "q": "What does 'Je fais laver ma voiture' mean?",
+   "options": [
+    "I wash my car.",
+    "I'm having my car washed.",
+    "I washed my car.",
+    "My car is washing."
+   ],
+   "a": 1,
+   "why": "Faire + infinitive = to have something done."
+  },
+  {
+   "q": "Where does the pronoun go? 'Je fais réparer le toit' →",
+   "options": [
+    "Je fais le réparer.",
+    "Je le fais réparer.",
+    "Je fais réparer le.",
+    "Le je fais réparer."
+   ],
+   "a": 1,
+   "why": "Before faire."
+  },
+  {
+   "q": "Which past form is correct for 'la maison'?",
+   "options": [
+    "Je l'ai faite construire.",
+    "Je l'ai fait construire.",
+    "Je l'ai faits construire.",
+    "Je l'ai fais construire."
+   ],
+   "a": 1,
+   "why": "Fait is invariable before an infinitive."
+  },
+  {
+   "q": "Which preposition can introduce the person doing the work? 'Je fais réparer ma voiture ___ un garagiste.'",
+   "options": [
+    "de",
+    "par",
+    "avec",
+    "pour"
+   ],
+   "a": 1,
+   "why": "Par + agent."
+  },
+  {
+   "q": "'Elle fait signer le contrat au client' → with pronouns:",
+   "options": [
+    "Elle le lui fait signer.",
+    "Elle lui le fait signer.",
+    "Elle le fait lui signer.",
+    "Elle fait le lui signer."
+   ],
+   "a": 0,
+   "why": "le before lui, both before faire."
+  },
+  {
+   "q": "What does 'faire venir le médecin' mean?",
+   "options": [
+    "to become a doctor",
+    "to send for the doctor",
+    "to visit the doctor",
+    "to come with the doctor"
+   ],
+   "a": 1,
+   "why": "Faire venir = to call in."
+  },
+  {
+   "q": "In Quebec, 'poser des pneus d'hiver' means…",
+   "options": [
+    "to ask about winter tires",
+    "to put on winter tires",
+    "to sell winter tires",
+    "to pose with winter tires"
+   ],
+   "a": 1,
+   "why": "Poser = install."
+  },
+  {
+   "q": "In the affirmative imperative, the pronoun…",
+   "options": [
+    "comes before faire",
+    "comes after faire with a hyphen",
+    "comes after the infinitive",
+    "disappears"
+   ],
+   "a": 1,
+   "why": "Fais-le réparer!"
+  },
+  {
+   "q": "'Je le fais checker' is…",
+   "options": [
+    "standard written French",
+    "informal Quebec speech with an anglicism",
+    "a France-only expression",
+    "grammatically impossible"
+   ],
+   "a": 1,
+   "why": "Checker is common but informal; standard is vérifier."
+  }
+ ]
+}

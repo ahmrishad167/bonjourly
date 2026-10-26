@@ -1,0 +1,1316 @@
+{
+ "format_checked": "2026-10",
+ "intro": [
+  "The TEF Canada (Test d'évaluation de français) is a French test run by Le français des affaires, part of the CCI Paris Île-de-France chamber of commerce. Immigration, Refugees and Citizenship Canada (IRCC) accepts it as proof of French ability. It has four separate tests: compréhension orale (listening), compréhension écrite (reading), expression écrite (writing) and expression orale (speaking). Each one is scored out of 699, and IRCC converts each score into a level on the Niveaux de compétence linguistique canadiens (NCLC), the French-language version of the CLB.",
+  "Why it matters for you: for permanent residence (Express Entry and other economic programs), the test centre's page names NCLC 7 in all four skills as the target for Express Entry and NCLC 5 for Mobilité francophone. Strong French also earns extra Express Entry points. For citizenship, only the two oral tests are needed (CO and EO), and the level cited is NCLC 4. The attestation is valid for 2 years from its issue date, and all the tests you need must be taken on the same day. Quebec's own immigration ministry (MIFI) has a separate process and its own list of accepted tests, including the TEF pour l'accès au Québec (TEFAQ). Check MIFI's current list if you apply through a Quebec program.",
+  "Format verified in October 2026. Sources: the 2026 TEF test-centre handbook (https://www.lefrancaisdesaffaires.fr/wp-content/uploads/2026/04/2026-livret-du-responsable-tef.pdf) lists for TEF Canada: compréhension écrite 40 questions / 60 minutes, compréhension orale 40 questions / 40 minutes, expression écrite 2 sujets / 60 minutes, and expression orale 2 sujets / 15 minutes. The official TEF Canada page (https://www.lefrancaisdesaffaires.fr/tests-diplomes/test-evaluation-francais-tef/tef-canada/) adds the section breakdown: EE section A is 25 minutes and at least 80 words, EE section B is 35 minutes and at least 200 words, EO section A is 5 minutes and EO section B is 10 minutes. It also gives the marking rule for the multiple-choice tests (1 point per correct answer, 0 for a wrong or blank answer) and the 2-year validity. Some older websites still give 50 reading and 60 listening questions. That is the previous format, not the current one.",
+  "The NCLC table below comes from the official TEF–NCLC correspondence sheet (https://www.lefrancaisdesaffaires.fr/wp-content/uploads/2024/10/correspondance-tef-nclc.pdf) and applies to tests taken from December 11, 2023 onward. IRCC publishes its own chart at https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/standard-requirements/language-requirements/test-equivalency-charts.html. That page returned an error when I tried to open it directly in October 2026, so I could not check it in full. The IRCC excerpts I could see match this table (for example, NCLC 7 = 434–461 in reading and listening, 428–471 in writing and 456–493 in speaking). The IRCC excerpts appear to stop at NCLC 10 (546–699), while the test centre's sheet goes up to NCLC 12. IRCC has also, at times, given special instructions on which score column to enter in an Express Entry profile. Read IRCC's current instructions for your own program before you enter any scores."
+ ],
+ "nclc": {
+  "head": [
+   "NCLC",
+   "CO",
+   "CE",
+   "EE",
+   "EO"
+  ],
+  "rows": [
+   [
+    "12",
+    "615–699",
+    "615–699",
+    "619–699",
+    "642–699"
+   ],
+   [
+    "11",
+    "573–614",
+    "573–614",
+    "577–618",
+    "592–641"
+   ],
+   [
+    "10",
+    "546–572",
+    "546–572",
+    "558–576",
+    "556–591"
+   ],
+   [
+    "9",
+    "503–545",
+    "503–545",
+    "512–557",
+    "518–555"
+   ],
+   [
+    "8",
+    "462–502",
+    "462–502",
+    "472–511",
+    "494–517"
+   ],
+   [
+    "7",
+    "434–461",
+    "434–461",
+    "428–471",
+    "456–493"
+   ],
+   [
+    "6",
+    "393–433",
+    "393–433",
+    "379–427",
+    "422–455"
+   ],
+   [
+    "5",
+    "352–392",
+    "352–392",
+    "330–378",
+    "387–421"
+   ],
+   [
+    "4",
+    "306–351",
+    "306–351",
+    "268–329",
+    "328–386"
+   ],
+   [
+    "< 4",
+    "0–305",
+    "0–305",
+    "0–267",
+    "0–327"
+   ]
+  ]
+ },
+ "sections": [
+  {
+   "code": "CO",
+   "name": "Compréhension orale",
+   "en": "Listening",
+   "format": "40 minutes, 40 multiple-choice questions, scored out of 699 (official handbook, 2026). You get 1 point for each correct answer and 0 for a wrong or blank answer, so there is no penalty for guessing. You listen to recordings of increasing difficulty: public announcements, voicemails, everyday conversations, radio news, interviews and debates. Each question has four choices. The 2026 handbook describes a computer-based version with an on-screen timer. Test-prep sources commonly say each recording is played only once and that some early questions use pictures. I could not confirm either point in the official documents I read, so train as if you will hear everything only once. This is one of the two tests required for citizenship.",
+   "tips": [
+    "Read the question and all four options before the audio starts. Knowing what to listen for (a time, a reason, a place) makes a big difference.",
+    "Train for a single hearing. In practice, play each clip once, answer, and only then replay it to check.",
+    "The first sentence usually tells you the situation (who is speaking, where, why). Don't miss it while you are still reading.",
+    "Be careful with distractors: wrong options often reuse words you hear in the recording. Choose the option that matches the meaning, not the one with the same words.",
+    "Watch for words that change the meaning: mais, pourtant, en revanche, par contre, sauf, ne… plus, ne… que. The answer often comes after them.",
+    "Never leave a blank. A wrong answer costs nothing, so always guess.",
+    "Listen daily to Canadian French at normal speed (radio news, podcasts, public announcements) so the Quebec accent and fast speech don't throw you on test day.",
+    "Move on quickly when you miss something. Dwelling on one question can make you miss the next recording."
+   ],
+   "phrases": [],
+   "sets": [
+    {
+     "title": "Set 1: Annonces et messages",
+     "level": "B1",
+     "items": [
+      {
+       "script": "Votre attention, s'il vous plaît. En raison d'un incident technique à la station Berri-UQAM, le service est interrompu sur la ligne orange entre les stations Jean-Talon et Lionel-Groulx. Des navettes d'autobus sont mises à la disposition de la clientèle aux sorties des stations concernées. Nous prévoyons un retour à la normale vers 17 h 30. Merci de votre compréhension.",
+       "questions": [
+        {
+         "q": "Que doivent faire les passagers pour continuer leur trajet?",
+         "options": [
+          "Attendre sur le quai",
+          "Prendre les autobus de remplacement",
+          "Changer pour la ligne verte",
+          "Sortir à la station Berri-UQAM"
+         ],
+         "a": 1,
+         "why": "« Des navettes d'autobus sont mises à la disposition de la clientèle » means replacement buses are provided."
+        },
+        {
+         "q": "Quand le service devrait-il reprendre normalement?",
+         "options": [
+          "Vers 15 h 30",
+          "Dans trente minutes",
+          "Vers 17 h 30",
+          "Demain matin"
+         ],
+         "a": 2,
+         "why": "« Nous prévoyons un retour à la normale vers 17 h 30. »"
+        }
+       ]
+      },
+      {
+       "script": "Bonjour, ici Mélanie, de la Clinique dentaire du Plateau. Je vous appelle au sujet de votre rendez-vous du jeudi 14 à 10 h avec la docteure Tremblay. Malheureusement, la docteure doit s'absenter ce matin-là. On pourrait vous offrir le même jour à 15 h, ou bien le vendredi à 9 h. Pouvez-vous nous rappeler au 514 555-0182 avant mercredi midi? Merci et bonne journée!",
+       "questions": [
+        {
+         "q": "Pourquoi Mélanie appelle-t-elle?",
+         "options": [
+          "Pour annuler définitivement le rendez-vous",
+          "Pour présenter une nouvelle dentiste",
+          "Pour rappeler une facture impayée",
+          "Pour proposer un autre horaire"
+         ],
+         "a": 3,
+         "why": "The dentist is away that morning, so Mélanie offers two other times (Thursday at 3 p.m. or Friday at 9 a.m.)."
+        },
+        {
+         "q": "Avant quand faut-il rappeler la clinique?",
+         "options": [
+          "Jeudi matin",
+          "Vendredi à 9 h",
+          "Mercredi midi",
+          "Ce soir"
+         ],
+         "a": 2,
+         "why": "« Pouvez-vous nous rappeler… avant mercredi midi? »"
+        }
+       ]
+      },
+      {
+       "script": "Environnement Canada a émis un avertissement de tempête hivernale pour les régions de Québec et de Charlevoix. On attend de 25 à 35 centimètres de neige d'ici demain soir, accompagnés de forts vents qui causeront de la poudrerie et une visibilité réduite. Les déplacements pourraient devenir dangereux. Si vous devez absolument prendre la route, prévoyez plus de temps et vérifiez l'état du réseau routier avant de partir.",
+       "questions": [
+        {
+         "q": "Quel conseil donne-t-on aux automobilistes?",
+         "options": [
+          "Éviter Charlevoix pendant une semaine",
+          "Installer des pneus d'hiver avant demain",
+          "Se renseigner sur l'état des routes avant de partir",
+          "Rouler plus vite pour devancer la tempête"
+         ],
+         "a": 2,
+         "why": "« Vérifiez l'état du réseau routier avant de partir. » Winter tires are not mentioned."
+        }
+       ]
+      },
+      {
+       "script": "Chers clients, profitez de notre vente-éclair! Pendant les trente prochaines minutes seulement, tous les fruits et légumes du Québec sont à moitié prix au comptoir des produits frais. De plus, avec votre carte de fidélité, obtenez le double des points sur les produits de boulangerie toute la journée. Veuillez noter que le magasin fermera exceptionnellement à 18 h ce soir en raison de l'inventaire.",
+       "questions": [
+        {
+         "q": "Qu'est-ce qui est vrai selon l'annonce?",
+         "options": [
+          "Le magasin fermera plus tôt que d'habitude ce soir",
+          "Les rabais sur les fruits durent toute la journée",
+          "Les points doubles s'appliquent aux fruits et légumes",
+          "La boulangerie est fermée pour l'inventaire"
+         ],
+         "a": 0,
+         "why": "The store closes « exceptionnellement à 18 h » for inventory. The fruit sale lasts only 30 minutes, and the double points are for bakery products."
+        }
+       ]
+      },
+      {
+       "script": "Allô, c'est Réjean, le concierge. Je vous laisse un message pour vous avertir que l'eau va être coupée dans tout l'immeuble demain, de 9 h à midi, parce qu'on change un tuyau au sous-sol. Si vous avez de la vaisselle ou du lavage à faire, faites-le ce soir. Puis, n'oubliez pas : le déneigement du stationnement, c'est jeudi. Il faut que toutes les autos soient sorties avant 7 h. Merci, bonne soirée!",
+       "questions": [
+        {
+         "q": "Pourquoi l'eau sera-t-elle coupée?",
+         "options": [
+          "À cause d'une tempête",
+          "Pour des travaux de plomberie",
+          "Pour le déneigement",
+          "Parce que le loyer n'a pas été payé"
+         ],
+         "a": 1,
+         "why": "« On change un tuyau au sous-sol » (they are replacing a pipe), which is plumbing work."
+        },
+        {
+         "q": "Que faut-il faire jeudi?",
+         "options": [
+          "Faire son lavage",
+          "Payer le concierge",
+          "Rester chez soi le matin",
+          "Déplacer sa voiture avant 7 h"
+         ],
+         "a": 3,
+         "why": "« Il faut que toutes les autos soient sorties avant 7 h » for snow removal."
+        }
+       ]
+      },
+      {
+       "script": "Les passagers du vol 8834 à destination de Moncton sont priés de se présenter à la porte 52, et non à la porte 15 comme indiqué sur leur carte d'embarquement. L'embarquement débutera dans vingt minutes, en commençant par les familles avec de jeunes enfants et les personnes ayant besoin d'aide.",
+       "questions": [
+        {
+         "q": "Quel changement est annoncé?",
+         "options": [
+          "L'heure du départ",
+          "La destination",
+          "La porte d'embarquement",
+          "Le numéro du vol"
+         ],
+         "a": 2,
+         "why": "Passengers must go to gate 52 instead of gate 15."
+        },
+        {
+         "q": "Qui montera à bord en premier?",
+         "options": [
+          "Les passagers de la classe affaires",
+          "Les familles avec de jeunes enfants et les personnes ayant besoin d'aide",
+          "Les passagers sans bagages",
+          "Les membres d'équipage"
+         ],
+         "a": 1,
+         "why": "« En commençant par les familles avec de jeunes enfants et les personnes ayant besoin d'aide. »"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "title": "Set 2: Conversations du quotidien",
+     "level": "B1",
+     "items": [
+      {
+       "script": "— Bibliothèque de Gatineau, bonjour! — Bonjour, je voudrais m'abonner à la bibliothèque, mais je viens d'arriver et je n'ai pas encore de facture à mon nom. — Pas de problème. Un bail signé ou une lettre de votre employeur avec votre adresse, ça fonctionne aussi. L'abonnement est gratuit pour les résidents de la ville. — Parfait. Et est-ce que je peux emprunter des livres numériques? — Oui, dès que vous avez votre carte, vous avez accès à notre plateforme en ligne.",
+       "questions": [
+        {
+         "q": "Quel document peut remplacer une facture?",
+         "options": [
+          "Un passeport étranger",
+          "Un bail signé",
+          "Une carte de crédit",
+          "Un permis de conduire d'un autre pays"
+         ],
+         "a": 1,
+         "why": "« Un bail signé ou une lettre de votre employeur avec votre adresse, ça fonctionne aussi. »"
+        },
+        {
+         "q": "Combien coûte l'abonnement pour un résident?",
+         "options": [
+          "Rien, il est gratuit",
+          "10 $ par année",
+          "5 $ par mois",
+          "Le prix dépend du nombre de livres"
+         ],
+         "a": 0,
+         "why": "« L'abonnement est gratuit pour les résidents de la ville. »"
+        }
+       ]
+      },
+      {
+       "script": "— Pis, ta fin de semaine? — Super! On est allés à la cabane à sucre avec les enfants. On a mangé de la tire sur la neige, ils ont adoré. — Chanceux! Moi, j'ai passé mon samedi à déménager les meubles de ma sœur. Elle s'est trouvé un appartement plus proche de son travail. — En avril? Au moins, elle a évité le 1er juillet! — Exactement. C'est pour ça qu'elle a signé un bail qui commence au printemps : les déménageurs coûtent beaucoup moins cher.",
+       "questions": [
+        {
+         "q": "Qu'a fait samedi la personne qui pose la question au début?",
+         "options": [
+          "Elle est allée à la cabane à sucre en famille",
+          "Elle a aidé sa sœur à déménager",
+          "Elle a travaillé toute la journée",
+          "Elle a acheté un appartement"
+         ],
+         "a": 1,
+         "why": "This person asks « Pis, ta fin de semaine? », then says « Moi, j'ai passé mon samedi à déménager les meubles de ma sœur. » It was the other person who went to the sugar shack."
+        },
+        {
+         "q": "Pourquoi la sœur a-t-elle déménagé au printemps plutôt que le 1er juillet?",
+         "options": [
+          "Parce que les déménageurs coûtent moins cher à ce moment-là",
+          "Parce qu'elle a perdu son emploi",
+          "Parce que son propriétaire l'a obligée",
+          "Parce qu'elle voulait aller à la cabane à sucre"
+         ],
+         "a": 0,
+         "why": "« Les déménageurs coûtent beaucoup moins cher. » In Quebec, July 1st is the traditional moving day, so movers are expensive and hard to book then."
+        }
+       ]
+      },
+      {
+       "script": "— Bonjour, j'ai une ordonnance pour des antibiotiques. — Très bien. Avez-vous votre carte d'assurance maladie? — Oui, la voici. J'ai aussi une assurance collective avec mon employeur. — Parfait, je vais prendre les deux. Votre médicament sera prêt dans une vingtaine de minutes. Prenez-le pendant les repas, et surtout, terminez tout le traitement, même si vous vous sentez mieux après deux ou trois jours.",
+       "questions": [
+        {
+         "q": "Quelle consigne la pharmacienne donne-t-elle?",
+         "options": [
+          "Arrêter le médicament dès que les symptômes disparaissent",
+          "Prendre le médicament à jeun",
+          "Revenir dans deux jours",
+          "Finir tout le traitement"
+         ],
+         "a": 3,
+         "why": "« Terminez tout le traitement, même si vous vous sentez mieux. » She also says to take it with meals, not on an empty stomach (à jeun)."
+        }
+       ]
+      },
+      {
+       "script": "— Bonjour, monsieur Haddad? Ici Julie Gagnon, des ressources humaines chez Transports Laurentides. Nous avons bien reçu votre candidature pour le poste de coordonnateur logistique et nous aimerions vous rencontrer. — Avec plaisir! — L'entrevue se ferait en deux étapes : d'abord une entrevue par vidéoconférence de trente minutes, puis, si tout va bien, une rencontre à nos bureaux de Saint-Jérôme avec le directeur. Seriez-vous disponible mardi à 14 h pour la première étape? — Mardi, j'ai un empêchement, mais mercredi, je suis libre toute la journée. — Alors mercredi à 10 h, ça vous convient? — C'est parfait.",
+       "questions": [
+        {
+         "q": "Comment se déroulera la première étape?",
+         "options": [
+          "En personne à Saint-Jérôme",
+          "Par vidéoconférence",
+          "Par un test écrit",
+          "Au téléphone avec le directeur"
+         ],
+         "a": 1,
+         "why": "« D'abord une entrevue par vidéoconférence de trente minutes. »"
+        },
+        {
+         "q": "Quand aura lieu la première entrevue?",
+         "options": [
+          "Mardi à 14 h",
+          "Mercredi à 14 h",
+          "Jeudi à 10 h",
+          "Mercredi à 10 h"
+         ],
+         "a": 3,
+         "why": "He can't do Tuesday, so they agree on « mercredi à 10 h »."
+        }
+       ]
+      },
+      {
+       "script": "— Avez-vous signé avec un déneigeur cette année? — Pas encore. L'an passé, j'ai payé 450 $ pour la saison, mais il passait souvent en retard et je partais travailler en pelletant. — Moi, j'ai trouvé une entreprise à 400 $, et ils garantissent le passage avant 7 h quand il tombe plus de cinq centimètres. — Ah oui? Peux-tu m'envoyer leur numéro? Si on s'inscrit à deux voisins, on aurait peut-être un rabais.",
+       "questions": [
+        {
+         "q": "Pourquoi la première personne n'était-elle pas satisfaite de son ancien déneigeur?",
+         "options": [
+          "Il était trop cher",
+          "Il arrivait souvent en retard",
+          "Il a abîmé sa voiture",
+          "Il ne venait jamais"
+         ],
+         "a": 1,
+         "why": "« Il passait souvent en retard. »"
+        },
+        {
+         "q": "Que propose-t-elle à la fin?",
+         "options": [
+          "Déneiger lui-même toute la saison",
+          "Payer 450 $ encore cette année",
+          "Changer de quartier",
+          "S'inscrire à deux voisins pour obtenir un rabais"
+         ],
+         "a": 3,
+         "why": "« Si on s'inscrit à deux voisins, on aurait peut-être un rabais. »"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "title": "Set 3: Radio, reportages et débats",
+     "level": "B2",
+     "items": [
+      {
+       "script": "Bonjour, il est 7 h. La Ville de Montréal annonce l'ajout de 1 200 vélos électriques à son réseau de vélos en libre-service d'ici le printemps. Selon l'administration municipale, l'utilisation des vélos électriques a augmenté de 40 % l'an dernier, surtout chez les travailleurs qui parcourent plus de cinq kilomètres pour se rendre au bureau. L'opposition, elle, rappelle que plusieurs quartiers périphériques n'ont toujours aucune station et demande que l'expansion se fasse d'abord dans l'est de la ville.",
+       "questions": [
+        {
+         "q": "Selon la Ville, qui utilise surtout les vélos électriques?",
+         "options": [
+          "Les touristes",
+          "Les étudiants",
+          "Les personnes qui font de longs trajets pour aller travailler",
+          "Les retraités"
+         ],
+         "a": 2,
+         "why": "« Surtout chez les travailleurs qui parcourent plus de cinq kilomètres pour se rendre au bureau. »"
+        },
+        {
+         "q": "Que demande l'opposition?",
+         "options": [
+          "L'abandon du projet",
+          "Des stations dans les quartiers qui n'en ont pas",
+          "Des vélos moins chers",
+          "Plus de pistes cyclables au centre-ville"
+         ],
+         "a": 1,
+         "why": "The opposition notes that outlying neighbourhoods have no stations and wants the expansion to start in the east end."
+        }
+       ]
+      },
+      {
+       "script": "— Madame Bouchard, vous cultivez des bleuets au Lac-Saint-Jean depuis vingt ans. Qu'est-ce qui a changé? — Les printemps sont beaucoup plus imprévisibles. On a des journées très chaudes en avril, puis un gel tardif en mai, et c'est là qu'on perd des fleurs, donc des fruits. Cette année, on a installé des gicleurs qui arrosent les plants pendant les nuits de gel : la glace qui se forme protège la fleur, aussi étrange que ça puisse paraître. — Est-ce que ça coûte cher? — Très. Sans le programme d'aide du ministère de l'Agriculture, on n'aurait jamais pu se le permettre.",
+       "questions": [
+        {
+         "q": "Quel est le principal problème de l'agricultrice?",
+         "options": [
+          "Le manque de pluie en été",
+          "Les gels tardifs qui suivent des périodes chaudes",
+          "Les insectes",
+          "Le manque de main-d'œuvre"
+         ],
+         "a": 1,
+         "why": "Hot days in April followed by « un gel tardif en mai » destroy the flowers."
+        },
+        {
+         "q": "Comment a-t-elle pu payer les gicleurs?",
+         "options": [
+          "Grâce à un prêt bancaire",
+          "Avec ses économies personnelles",
+          "Grâce à un programme d'aide gouvernemental",
+          "En augmentant le prix de ses bleuets"
+         ],
+         "a": 2,
+         "why": "« Sans le programme d'aide du ministère… on n'aurait jamais pu se le permettre. »"
+        }
+       ]
+      },
+      {
+       "script": "Dans ma chronique ce matin, parlons du télétravail. Une étude québécoise montre que les employés en mode hybride se disent plus satisfaits que ceux qui travaillent au bureau à temps plein, mais aussi plus isolés. Paradoxal? Pas tant que ça. Les chercheurs expliquent que les échanges informels, comme le café du matin ou la discussion dans le corridor, sont justement ceux qui disparaissent en premier. Leur recommandation : plutôt que d'imposer à chacun des jours fixes au bureau, les gestionnaires devraient organiser des journées où toute l'équipe est présente en même temps.",
+       "questions": [
+        {
+         "q": "Selon l'étude, comment se sentent les employés en mode hybride?",
+         "options": [
+          "Plus satisfaits, mais plus isolés",
+          "Moins satisfaits et plus stressés",
+          "Plus productifs et moins fatigués",
+          "Indifférents"
+         ],
+         "a": 0,
+         "why": "« Plus satisfaits… mais aussi plus isolés. »"
+        },
+        {
+         "q": "Que recommandent les chercheurs?",
+         "options": [
+          "Revenir au bureau cinq jours par semaine",
+          "Supprimer le télétravail",
+          "Organiser des journées où toute l'équipe est réunie",
+          "Augmenter les salaires des employés hybrides"
+         ],
+         "a": 2,
+         "why": "« Organiser des journées où toute l'équipe est présente en même temps. »"
+        }
+       ]
+      },
+      {
+       "script": "Vous venez d'arriver au Québec et vous voulez améliorer votre français? Des cours de francisation gratuits sont offerts partout au Québec, de jour comme de soir, en classe ou en ligne. Une allocation de participation peut même être versée aux personnes admissibles qui suivent les cours à temps plein. Pour vous inscrire, rendez-vous sur le portail de Francisation Québec ou communiquez avec nous par téléphone.",
+       "questions": [
+        {
+         "q": "Selon la publicité, qu'est-ce qui est vrai?",
+         "options": [
+          "Les cours sont offerts seulement le jour",
+          "Certaines personnes peuvent recevoir de l'argent pour étudier à temps plein",
+          "Il faut payer des frais d'inscription",
+          "Les cours ont lieu uniquement en classe"
+         ],
+         "a": 1,
+         "why": "« Une allocation de participation peut même être versée aux personnes admissibles qui suivent les cours à temps plein. » The courses are free, day or evening, in class or online."
+        }
+       ]
+      },
+      {
+       "script": "— La semaine de quatre jours : bonne ou mauvaise idée? J'en parle avec Marc Lévesque, entrepreneur, et Sophie Nadeau, économiste. Monsieur Lévesque? — Chez nous, on l'a essayée pendant six mois. La productivité est restée stable, et surtout, on n'a perdu aucun employé, alors qu'avant on en perdait trois ou quatre par année. — Madame Nadeau? — Ça fonctionne dans certains bureaux, je ne le nie pas. Mais pensez aux hôpitaux, aux écoles ou aux usines qui tournent sept jours sur sept : il faudrait embaucher davantage, alors qu'on manque déjà de personnel.",
+       "questions": [
+        {
+         "q": "Quel avantage l'entrepreneur souligne-t-il?",
+         "options": [
+          "Une hausse importante des profits",
+          "Une meilleure rétention du personnel",
+          "Des salaires moins élevés",
+          "Une baisse du nombre de clients"
+         ],
+         "a": 1,
+         "why": "« On n'a perdu aucun employé », whereas they used to lose three or four a year. That is better retention."
+        },
+        {
+         "q": "Quelle est l'objection principale de l'économiste?",
+         "options": [
+          "La productivité baisse toujours",
+          "Les employés ne veulent pas de cette mesure",
+          "La mesure coûterait trop cher aux employés",
+          "Elle serait difficile à appliquer dans les secteurs qui manquent déjà de personnel"
+         ],
+         "a": 3,
+         "why": "Hospitals, schools and factories would need more staff « alors qu'on manque déjà de personnel »."
+        }
+       ]
+      },
+      {
+       "script": "Le Carnaval de Québec a pris fin hier soir sur un bilan positif, selon les organisateurs. Malgré un redoux qui a forcé l'annulation de la course en canot sur le fleuve pendant une journée, la fréquentation a été comparable à celle de l'an dernier. La grande nouveauté de cette édition, une navette gratuite depuis Lévis, a connu un succès inattendu : plus de 30 000 passages en deux fins de semaine. Les organisateurs envisagent déjà de l'offrir aussi depuis la Rive-Nord l'an prochain.",
+       "questions": [
+        {
+         "q": "Pourquoi une activité a-t-elle été annulée?",
+         "options": [
+          "À cause d'une tempête de neige",
+          "À cause d'un temps trop doux",
+          "À cause d'une grève",
+          "Faute de participants"
+         ],
+         "a": 1,
+         "why": "Un « redoux » is a mild spell, which made the ice on the river unsafe."
+        },
+        {
+         "q": "Quelle initiative a été un succès?",
+         "options": [
+          "Une navette gratuite depuis Lévis",
+          "Des billets moins chers",
+          "Un nouveau site pour le festival",
+          "Une course de vélo sur la glace"
+         ],
+         "a": 0,
+         "why": "« Une navette gratuite depuis Lévis, a connu un succès inattendu. »"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CE",
+   "name": "Compréhension écrite",
+   "en": "Reading",
+   "format": "60 minutes, 40 multiple-choice questions, scored out of 699 (official handbook, 2026). You get 1 point for each correct answer and 0 for a wrong or blank answer, with no penalty. The texts go from short everyday documents (signs, notices, small ads, schedules, emails) to longer press articles, information texts and opinion pieces, and they get harder as the test goes on. Each question has four options. The 2026 handbook describes a computer-based version with an on-screen timer. The official documents I read do not give the exact number of documents or how they are split, so these practice sets follow the general progression rather than an exact blueprint.",
+   "tips": [
+    "Budget your time: about 1.5 minutes per question. Go faster on the short early documents to save time for the long articles at the end.",
+    "Read the question first, then scan the text for the answer. You don't need to understand every word.",
+    "Identify the text type (ad, notice, email, article, opinion) and its purpose. Many questions ask why the text was written or who it is for.",
+    "In opinion texts, find the author's thesis, then the counter-argument and the reply to it. Connectors such as certes, toutefois, or, pourtant and en revanche point you to them.",
+    "Be careful with options that are true in real life but not stated in the text. Answer only from the document.",
+    "Rule out options with absolute words (toujours, jamais, seulement, tous) unless the text says exactly that.",
+    "Never leave a question blank. Mark the hard ones, answer everything, then come back if you have time.",
+    "Read Canadian French news and municipal or government notices regularly to get used to the vocabulary (bail, déneigement, avis, collecte, ordonnance)."
+   ],
+   "phrases": [],
+   "sets": [
+    {
+     "title": "Set 1: Documents du quotidien",
+     "level": "B1",
+     "items": [
+      {
+       "script": "AVIS AUX RÉSIDENTS — Entretien des ascenseurs\nLe mardi 10 novembre, de 8 h à 16 h, l'ascenseur côté est sera hors service pour son entretien annuel. L'ascenseur côté ouest restera accessible, mais entre 10 h et 14 h, il sera réservé en priorité aux personnes à mobilité réduite et aux livraisons. Merci de votre patience et de votre collaboration.\nLa gestion",
+       "questions": [
+        {
+         "q": "Entre 10 h et 14 h, qui aura la priorité pour l'ascenseur côté ouest?",
+         "options": [
+          "Les techniciens",
+          "Les personnes à mobilité réduite et les livraisons",
+          "Les résidents du côté est",
+          "Les visiteurs"
+         ],
+         "a": 1,
+         "why": "« Réservé en priorité aux personnes à mobilité réduite et aux livraisons. »"
+        }
+       ]
+      },
+      {
+       "script": "Objet : Souper des Fêtes 2026\nBonjour à toutes et à tous,\nCette année, notre souper des Fêtes aura lieu le vendredi 11 décembre au restaurant Le Saint-Laurent, dans le Vieux-Port. L'entreprise paie le repas; les consommations seront à vos frais, à l'exception d'un verre de bienvenue. Les conjoints sont les bienvenus, mais leur repas coûtera 45 $. Merci de confirmer votre présence avant le 27 novembre en remplissant le formulaire sur l'intranet. Pour rentrer en toute sécurité, un service de raccompagnement sera offert gratuitement.\nIsabelle, pour le comité social",
+       "questions": [
+        {
+         "q": "Qu'est-ce qui est gratuit pour les employés?",
+         "options": [
+          "Toutes les boissons de la soirée",
+          "Le repas et un verre de bienvenue",
+          "Le repas de leur conjoint",
+          "Le stationnement dans le Vieux-Port"
+         ],
+         "a": 1,
+         "why": "The company pays for the meal, and only the welcome drink is free. Other drinks are « à vos frais »."
+        },
+        {
+         "q": "Comment faut-il confirmer sa présence?",
+         "options": [
+          "Par téléphone",
+          "En répondant à ce courriel",
+          "En remplissant un formulaire sur l'intranet",
+          "En parlant directement à Isabelle"
+         ],
+         "a": 2,
+         "why": "« En remplissant le formulaire sur l'intranet. »"
+        }
+       ]
+      },
+      {
+       "script": "À LOUER — 4 ½ à Sherbrooke, à cinq minutes de l'université. Libre le 1er juillet. Chauffé, éclairé, eau chaude incluse. Entrées laveuse-sécheuse. Un espace de stationnement déneigé. Animaux non admis. 1 150 $/mois, bail de 12 mois. Enquête de crédit exigée. Visites le samedi seulement : texto au 819 555-0147.",
+       "questions": [
+        {
+         "q": "Qu'est-ce qui est inclus dans le loyer?",
+         "options": [
+          "Le chauffage et l'électricité",
+          "Internet et le câble",
+          "Une laveuse et une sécheuse",
+          "Un garage intérieur"
+         ],
+         "a": 0,
+         "why": "« Chauffé, éclairé » means heating and electricity are included. « Entrées laveuse-sécheuse » means there are only hookups, not the machines."
+        },
+        {
+         "q": "Qu'est-ce qui est vrai?",
+         "options": [
+          "On peut avoir un chat",
+          "On peut visiter n'importe quel jour",
+          "Le propriétaire vérifiera le dossier de crédit",
+          "Le bail dure six mois"
+         ],
+         "a": 2,
+         "why": "« Enquête de crédit exigée. » Pets are not allowed, visits are on Saturdays only, and the lease is 12 months. (A Quebec 4 ½ has two bedrooms.)"
+        }
+       ]
+      },
+      {
+       "script": "Collectes à domicile : ce qui change en 2027\nÀ partir du 1er janvier, la collecte des matières organiques (bac brun) aura lieu chaque semaine toute l'année, et non plus seulement d'avril à novembre. La collecte des ordures (bac noir), elle, passera aux deux semaines. Les sacs de plastique ne sont plus acceptés dans le bac de recyclage : rapportez-les en magasin ou jetez-les aux ordures. Les résidus verts (feuilles, branches) seront ramassés lors de collectes spéciales au printemps et à l'automne.",
+       "questions": [
+        {
+         "q": "Quel changement concerne le bac noir?",
+         "options": [
+          "Il sera ramassé chaque semaine",
+          "Il sera ramassé toutes les deux semaines",
+          "Il sera supprimé",
+          "Il servira aux feuilles mortes"
+         ],
+         "a": 1,
+         "why": "« La collecte des ordures (bac noir), elle, passera aux deux semaines. »"
+        },
+        {
+         "q": "Que faut-il faire avec les sacs de plastique?",
+         "options": [
+          "Les mettre dans le bac de recyclage",
+          "Les mettre dans le bac brun",
+          "Les garder pour la collecte du printemps",
+          "Les rapporter en magasin ou les jeter aux ordures"
+         ],
+         "a": 3,
+         "why": "« Rapportez-les en magasin ou jetez-les aux ordures. »"
+        }
+       ]
+      },
+      {
+       "script": "CLINIQUE D'IMPÔTS GRATUITE — Centre communautaire Côte-des-Neiges\nDes bénévoles rempliront gratuitement vos déclarations de revenus si votre revenu annuel ne dépasse pas 35 000 $ (personne seule). Sur rendez-vous seulement, du 2 mars au 30 avril.\nÀ apporter : vos feuillets T4 et Relevé 1, votre relevé 31 (fourni par votre propriétaire), vos reçus pour frais médicaux et l'avis de cotisation de l'an dernier.\nRappel : au Québec, on produit deux déclarations de revenus, l'une pour l'Agence du revenu du Canada et l'autre pour Revenu Québec.",
+       "questions": [
+        {
+         "q": "Qui peut profiter de ce service?",
+         "options": [
+          "Toutes les petites entreprises",
+          "Les personnes seules qui gagnent 35 000 $ ou moins par année",
+          "Seulement les nouveaux arrivants",
+          "Toute personne qui se présente sans rendez-vous"
+         ],
+         "a": 1,
+         "why": "« Si votre revenu annuel ne dépasse pas 35 000 $ (personne seule). Sur rendez-vous seulement. »"
+        },
+        {
+         "q": "Pourquoi les Québécois produisent-ils deux déclarations?",
+         "options": [
+          "Parce qu'ils ont souvent deux emplois",
+          "Parce que la clinique l'exige",
+          "Parce que le loyer se déclare séparément",
+          "Parce qu'il y a une déclaration fédérale et une déclaration provinciale"
+         ],
+         "a": 3,
+         "why": "One goes to the Agence du revenu du Canada (federal) and one to Revenu Québec (provincial)."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "title": "Set 2: Articles d'information",
+     "level": "B1",
+     "items": [
+      {
+       "script": "Gatineau : un chien retrouvé après dix jours en forêt\nDisparu depuis le 2 octobre lors d'une randonnée dans le parc de la Gatineau, Biscuit, un jeune berger australien, a finalement été retrouvé samedi par deux cyclistes, à près de huit kilomètres de l'endroit où il s'était échappé. Amaigri mais en bonne santé, le chien a pu être identifié grâce à sa micropuce. « On avait presque perdu espoir », confie sa propriétaire, qui avait organisé des battues avec une trentaine de bénévoles recrutés sur les réseaux sociaux. Les responsables du parc rappellent que les chiens doivent être tenus en laisse dans tous les sentiers.",
+       "questions": [
+        {
+         "q": "Qui a retrouvé le chien?",
+         "options": [
+          "Des bénévoles",
+          "Sa propriétaire",
+          "Deux cyclistes",
+          "Des gardes du parc"
+         ],
+         "a": 2,
+         "why": "« Retrouvé samedi par deux cyclistes. » The volunteers were part of the earlier searches."
+        },
+        {
+         "q": "Comment a-t-on pu identifier le chien?",
+         "options": [
+          "Grâce à son collier",
+          "Grâce à sa micropuce",
+          "Grâce à une photo sur les réseaux sociaux",
+          "Grâce à un vétérinaire"
+         ],
+         "a": 1,
+         "why": "« Identifié grâce à sa micropuce. »"
+        },
+        {
+         "q": "Que rappellent les responsables du parc?",
+         "options": [
+          "Les chiens doivent être en laisse sur les sentiers",
+          "Les chiens sont interdits dans le parc",
+          "Il faut signaler les animaux perdus à la police",
+          "Les cyclistes doivent rester sur les routes"
+         ],
+         "a": 0,
+         "why": "« Les chiens doivent être tenus en laisse dans tous les sentiers. »"
+        }
+       ]
+      },
+      {
+       "script": "Logement : les loyers continuent de grimper à Montréal\nSelon un rapport publié cette semaine par un regroupement de comités logement, le loyer moyen des logements affichés à Montréal a augmenté de 9 % en un an, alors que le taux d'inoccupation demeure sous la barre des 2 %. Les familles nombreuses sont les plus touchées : les grands logements de trois chambres et plus sont rares et souvent hors de prix. Le regroupement demande au gouvernement de construire davantage de logements sociaux et de créer un registre public des loyers, qui permettrait à un nouveau locataire de connaître le prix payé par l'occupant précédent.",
+       "questions": [
+        {
+         "q": "Quel groupe est le plus touché, selon le rapport?",
+         "options": [
+          "Les étudiants",
+          "Les personnes âgées",
+          "Les familles nombreuses",
+          "Les propriétaires"
+         ],
+         "a": 2,
+         "why": "« Les familles nombreuses sont les plus touchées », because large apartments are rare and expensive."
+        },
+        {
+         "q": "À quoi servirait un registre des loyers?",
+         "options": [
+          "À connaître le loyer payé par le locataire précédent",
+          "À calculer les taxes municipales",
+          "À inscrire les personnes qui attendent un logement social",
+          "À limiter le nombre de locataires par logement"
+         ],
+         "a": 0,
+         "why": "« Connaître le prix payé par l'occupant précédent. »"
+        }
+       ]
+      },
+      {
+       "script": "Campagne de vaccination contre la grippe\nLe vaccin est offert gratuitement aux personnes à risque de complications, notamment les personnes âgées, les femmes enceintes et les personnes atteintes de maladies chroniques, ainsi qu'à leurs proches. Prenez rendez-vous en ligne ou présentez-vous sans rendez-vous au CLSC les mardis après-midi. N'oubliez pas votre carte d'assurance maladie. Si vous avez de la fièvre le jour prévu, reportez votre vaccination.",
+       "questions": [
+        {
+         "q": "Qu'est-il possible de faire le mardi après-midi?",
+         "options": [
+          "Se faire vacciner sans rendez-vous",
+          "Acheter le vaccin à prix réduit",
+          "Consulter un médecin de famille",
+          "Renouveler sa carte d'assurance maladie"
+         ],
+         "a": 0,
+         "why": "« Présentez-vous sans rendez-vous au CLSC les mardis après-midi. »"
+        },
+        {
+         "q": "Que faut-il faire si on a de la fièvre le jour du rendez-vous?",
+         "options": [
+          "Se faire vacciner quand même",
+          "Remettre la vaccination à plus tard",
+          "Appeler le 911",
+          "Aller à l'urgence"
+         ],
+         "a": 1,
+         "why": "« Reportez votre vaccination » means postpone it."
+        }
+       ]
+      },
+      {
+       "script": "La Gaspésie en septembre : le bon plan?\nPartir en Gaspésie après la fête du Travail, c'est profiter de paysages spectaculaires sans la foule de l'été : les sentiers du parc national Forillon sont presque déserts et les couleurs commencent à apparaître. Attention toutefois : plusieurs campings et restaurants ferment leurs portes dès la mi-septembre, et les départs de bateaux vers l'île Bonaventure deviennent moins fréquents. Notre conseil : réservez votre hébergement à l'avance et vérifiez les horaires avant de prendre la route.",
+       "questions": [
+        {
+         "q": "Selon l'article, quel est l'avantage de septembre?",
+         "options": [
+          "Les prix sont plus élevés",
+          "Il y a moins de touristes",
+          "Tous les services sont ouverts",
+          "Il fait plus chaud qu'en juillet"
+         ],
+         "a": 1,
+         "why": "« Sans la foule de l'été » and the trails are « presque déserts »."
+        },
+        {
+         "q": "Quel inconvénient l'auteur mentionne-t-il?",
+         "options": [
+          "Les routes sont souvent fermées",
+          "Il neige déjà",
+          "Certains services ferment ou réduisent leurs horaires",
+          "Les parcs nationaux sont interdits aux visiteurs"
+         ],
+         "a": 2,
+         "why": "Campsites and restaurants close, and boats to Bonaventure Island run less often."
+        }
+       ]
+      },
+      {
+       "script": "Hockey mineur : moins de blessures depuis l'interdiction des mises en échec\nDepuis que les mises en échec ont été interdites chez les joueurs de 11 et 12 ans dans le hockey mineur canadien, en 2013, le nombre de blessures dans cette catégorie a chuté de façon importante, selon des chercheurs albertains. Les commotions cérébrales, en particulier, sont nettement moins fréquentes. À l'époque, certains entraîneurs craignaient que les joueurs ne soient mal préparés à recevoir des mises en échec plus tard, dans les catégories plus âgées. Or, les données ne montrent aucune augmentation des blessures chez les adolescents qui ont appris le hockey sans mise en échec.",
+       "questions": [
+        {
+         "q": "Quelle mesure l'article évalue-t-il?",
+         "options": [
+          "L'obligation de porter une visière",
+          "L'interdiction des mises en échec chez les jeunes joueurs",
+          "La réduction de la durée des matchs",
+          "L'ajout d'un arbitre sur la glace"
+         ],
+         "a": 1,
+         "why": "The article is about banning body-checking for 11- and 12-year-olds."
+        },
+        {
+         "q": "Que craignaient certains entraîneurs?",
+         "options": [
+          "Que les jeunes perdent intérêt pour le hockey",
+          "Que les matchs deviennent ennuyeux",
+          "Que les joueurs soient mal préparés aux mises en échec plus tard",
+          "Que les parents retirent leurs enfants des équipes"
+         ],
+         "a": 2,
+         "why": "« Que les joueurs ne soient mal préparés à recevoir des mises en échec plus tard. » (The ne here is the explétif ne after craindre que and does not make the sentence negative.)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "title": "Set 3: Opinions et textes argumentatifs",
+     "level": "B2",
+     "items": [
+      {
+       "script": "Lettre d'opinion : le cellulaire, aussi pendant les pauses?\nDepuis que le cellulaire est interdit en classe, mes élèves de secondaire 3 sont plus attentifs : c'est indéniable. Pourtant, je crois qu'il faut aller plus loin et l'interdire aussi pendant les pauses. À l'heure du dîner, la cafétéria est silencieuse : chacun fixe son écran. Or, c'est précisément dans ces moments informels que les adolescents apprennent à se parler, à régler leurs conflits, à se faire des amis. Certains parents objectent qu'ils doivent pouvoir joindre leur enfant en cas d'urgence. L'argument est compréhensible, mais le secrétariat de l'école a toujours un téléphone, et c'est d'ailleurs ainsi que l'on procédait il y a quinze ans.\nGeneviève Roy, enseignante, Longueuil",
+       "questions": [
+        {
+         "q": "Que propose l'auteure?",
+         "options": [
+          "Permettre le cellulaire en classe pour les recherches",
+          "Interdire le cellulaire aussi pendant les pauses",
+          "Confisquer les cellulaires des parents",
+          "Installer un téléphone dans chaque classe"
+         ],
+         "a": 1,
+         "why": "« Il faut aller plus loin et l'interdire aussi pendant les pauses. »"
+        },
+        {
+         "q": "Pourquoi les pauses sont-elles importantes, selon elle?",
+         "options": [
+          "Les élèves y font leurs devoirs",
+          "Les élèves peuvent y appeler leurs parents",
+          "Les élèves s'y reposent en silence",
+          "Les élèves y développent leurs habiletés sociales"
+         ],
+         "a": 3,
+         "why": "That is when teenagers learn « à se parler, à régler leurs conflits, à se faire des amis »."
+        },
+        {
+         "q": "Comment répond-elle à l'objection des parents?",
+         "options": [
+          "Elle rappelle qu'on peut joindre l'école par le secrétariat",
+          "Elle propose d'acheter des montres intelligentes",
+          "Elle reconnaît qu'elle n'a pas de solution",
+          "Elle suggère d'autoriser un appel par jour"
+         ],
+         "a": 0,
+         "why": "« Le secrétariat de l'école a toujours un téléphone. »"
+        }
+       ]
+      },
+      {
+       "script": "Transport en commun gratuit : une fausse bonne idée?\nL'idée revient à chaque campagne électorale : rendre l'autobus et le métro gratuits pour tous. Séduisante sur papier, la mesure coûterait pourtant des centaines de millions de dollars par année aux sociétés de transport, qui peinent déjà à entretenir leurs réseaux. Surtout, les études sur le sujet sont claires : ce qui pousse un automobiliste à laisser sa voiture à la maison, ce n'est pas d'abord le prix du billet, mais la fréquence et la fiabilité du service. Un autobus gratuit qui passe toutes les quarante minutes ne convaincra personne. Investissons plutôt dans plus de passages, plus de voies réservées et des tarifs réduits pour les ménages à faible revenu.",
+       "questions": [
+        {
+         "q": "Quelle est la thèse de l'auteur?",
+         "options": [
+          "Il faut rendre le transport en commun gratuit pour tous",
+          "L'argent serait mieux investi dans la qualité du service que dans la gratuité",
+          "Il faut augmenter le prix des billets",
+          "Les automobilistes ne prendront jamais le transport en commun"
+         ],
+         "a": 1,
+         "why": "The author rejects universal free transit and argues for more frequent service, bus lanes and targeted discounts."
+        },
+        {
+         "q": "Selon l'auteur, qu'est-ce qui incite le plus les gens à abandonner leur voiture?",
+         "options": [
+          "Le prix du billet",
+          "Les campagnes publicitaires",
+          "La fréquence et la fiabilité du service",
+          "Le prix de l'essence"
+         ],
+         "a": 2,
+         "why": "« Ce n'est pas d'abord le prix du billet, mais la fréquence et la fiabilité du service. »"
+        },
+        {
+         "q": "Pour qui l'auteur propose-t-il des tarifs réduits?",
+         "options": [
+          "Les ménages à faible revenu",
+          "Tous les étudiants",
+          "Les touristes",
+          "Les automobilistes qui laissent leur voiture"
+         ],
+         "a": 0,
+         "why": "« Des tarifs réduits pour les ménages à faible revenu. »"
+        }
+       ]
+      },
+      {
+       "script": "Courrier des lecteurs : « Bonjour » d'abord, sans complexe\nJe suis anglophone, né à Montréal, et je travaille dans un café du Mile End. Quand un client entre, je dis « Bonjour » d'abord. Si la personne me répond en anglais, je m'adapte, bien sûr. Certains de mes amis y voient une contrainte; moi, j'y vois une évidence. Le français est la langue commune ici : c'est elle qui permet à une Haïtienne, à un Vietnamien et à un gars de Pointe-Claire comme moi de se comprendre. J'ai appris le français à l'école, puis vraiment dans la rue, en jouant au hockey. Le parler n'a rien enlevé à mon identité : il m'a ouvert la moitié de ma ville.\nDaniel O'Brien, Montréal",
+       "questions": [
+        {
+         "q": "Quel est le point de vue de l'auteur?",
+         "options": [
+          "L'anglais devrait être la seule langue de service à Montréal",
+          "Accueillir les clients en français est naturel, car c'est la langue commune",
+          "Il faudrait interdire l'anglais dans les commerces",
+          "Les anglophones devraient quitter Montréal"
+         ],
+         "a": 1,
+         "why": "He sees greeting in French as « une évidence » because French is « la langue commune ». He still switches to English when a customer answers in English."
+        },
+        {
+         "q": "Quel est le ton de la lettre?",
+         "options": [
+          "Agressif et accusateur",
+          "Ironique et méprisant",
+          "Personnel et conciliant",
+          "Neutre et technique"
+         ],
+         "a": 2,
+         "why": "He tells his own story (school, hockey, the café) in a positive, open way."
+        }
+       ]
+      },
+      {
+       "script": "Exode urbain : les régions séduisent les jeunes familles\nDepuis quelques années, de plus en plus de jeunes familles quittent Montréal et Québec pour s'installer en région, notamment dans le Bas-Saint-Laurent et en Abitibi. Le prix des maisons, deux à trois fois moins élevé, et la possibilité de télétravailler expliquent en grande partie ce mouvement. Les municipalités rurales s'en réjouissent : des écoles menacées de fermeture ont retrouvé des élèves. Le phénomène a toutefois ses limites. Dans plusieurs villages, l'accès à un médecin de famille reste difficile et Internet haute vitesse n'est pas toujours disponible, ce qui complique justement… le télétravail.",
+       "questions": [
+        {
+         "q": "Quelles sont les deux principales raisons de ce mouvement?",
+         "options": [
+          "Le climat et les paysages",
+          "Le prix des maisons et le télétravail",
+          "Les écoles et les hôpitaux",
+          "Les emplois agricoles et les subventions"
+         ],
+         "a": 1,
+         "why": "« Le prix des maisons… et la possibilité de télétravailler expliquent en grande partie ce mouvement. »"
+        },
+        {
+         "q": "Pourquoi l'auteur écrit-il que le manque d'Internet complique « justement » le télétravail?",
+         "options": [
+          "Pour souligner une contradiction : ce qui attire les familles est parfois difficile en région",
+          "Pour dire que le télétravail est interdit en région",
+          "Pour encourager les familles à rester en ville",
+          "Pour critiquer les médecins de famille"
+         ],
+         "a": 0,
+         "why": "Remote work is one reason people move, yet poor internet in some villages makes remote work hard. « Justement » highlights that irony."
+        }
+       ]
+      },
+      {
+       "script": "« Meilleur avant » ne veut pas dire « dangereux après »\nChaque année, des tonnes d'aliments parfaitement comestibles finissent à la poubelle à cause d'un malentendu. La mention « meilleur avant » indique la période pendant laquelle un produit non ouvert, bien entreposé, conserve sa fraîcheur, sa saveur et sa valeur nutritive. Elle ne garantit pas la salubrité, et un yogourt ou des céréales peuvent très bien être consommés quelques jours plus tard. Au Canada, la véritable date limite, la « date d'expiration », n'apparaît que sur certains produits bien précis, comme les préparations pour nourrissons ou les substituts de repas. Pour ceux-là, en revanche, aucune tolérance : une fois la date passée, on jette.",
+       "questions": [
+        {
+         "q": "Quel est l'objectif principal du texte?",
+         "options": [
+          "Vendre un nouveau produit",
+          "Expliquer la différence entre « meilleur avant » et « date d'expiration »",
+          "Critiquer les épiceries",
+          "Donner une recette de yogourt"
+         ],
+         "a": 1,
+         "why": "The text corrects a common misunderstanding about date labels in order to reduce food waste."
+        },
+        {
+         "q": "Que faut-il faire d'une préparation pour nourrissons dont la date d'expiration est passée?",
+         "options": [
+          "La consommer rapidement",
+          "La garder au congélateur",
+          "La jeter",
+          "La donner à une banque alimentaire"
+         ],
+         "a": 2,
+         "why": "« Aucune tolérance : une fois la date passée, on jette. »"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EE",
+   "name": "Expression écrite",
+   "en": "Writing",
+   "format": "60 minutes, 2 tasks (sujets), each marked by trained graders and converted to a score out of 699. Section A (25 minutes, at least 80 words): you get the beginning of a short news story (fait divers) and write the rest in the style of a newspaper article. Section B (35 minutes, at least 200 words): you read a statement or opinion taken from the media and write a reasoned reply, usually a letter to the editor or a forum post, defending your point of view with arguments. The official page gives the timings and minimum word counts. The detailed marking grid is not published in the documents I read, so the checklists below follow common criteria (task completion, coherence, vocabulary range, grammatical accuracy). Whether you write on paper or on a computer depends on the test centre (the official documents I read don't say). Ask your centre in advance, and if it's on a computer, practise typing French accents quickly.",
+   "tips": [
+    "Keep to the time split: about 25 minutes for A and 35 minutes for B. Save 3 to 5 minutes at the end of each section to proofread agreements, accents and verb endings.",
+    "Section A: stay consistent with the opening you're given. Keep the same people, place and tone, and write in the third person using the passé composé for actions and the imparfait for background.",
+    "Section A: cover what, who, where, when, how and what happened afterwards, and add a quoted witness or an official statement to sound like a real news story.",
+    "Section B: state your position clearly in the introduction, then develop 3 arguments, each with a concrete example (Canadian or Quebec if possible).",
+    "Section B: deal with a counter-argument (certes… mais / il est vrai que… toutefois). Graders reward nuance.",
+    "Use formal register in B: Madame, Monsieur… / Veuillez agréer… Never use Quebec informal speech (pis, ben, char) in writing.",
+    "Show B2 grammar on purpose: subjunctive after il faut que / bien que, the conditional for proposals, relative pronouns (dont, lequel) and the passive voice.",
+    "Go past the minimum word count (about 120 to 150 words for A and 250 to 300 for B), but quality matters more than length."
+   ],
+   "phrases": [
+    "À mon avis, … / Selon moi, … — In my opinion, …",
+    "Je suis convaincu(e) que… — I am convinced that…",
+    "Je ne partage pas cette opinion, car… — I don't share this opinion because…",
+    "Il me semble essentiel que + subjonctif — It seems essential to me that…",
+    "Tout d'abord, … / Premièrement, … — First of all, …",
+    "Ensuite, … / Deuxièmement, … — Next, … / Secondly, …",
+    "De plus, … / En outre, … — Moreover, … / In addition, …",
+    "Enfin, … — Finally, …",
+    "Par exemple, … / C'est notamment le cas de… — For example, … / This is the case, in particular, of…",
+    "Certes, …, mais… — Admittedly, …, but…",
+    "Il est vrai que… ; toutefois, … — It is true that…; however, …",
+    "Bien que + subjonctif, … — Although…",
+    "En revanche, … / Par contre, … — On the other hand, …",
+    "C'est pourquoi… / Par conséquent, … — That is why… / Consequently, …",
+    "Grâce à… / À cause de… — Thanks to… / Because of…",
+    "On pourrait objecter que… — One could object that…",
+    "Il vaudrait mieux + infinitif — It would be better to…",
+    "En conclusion, … / Bref, … / En somme, … — In conclusion, … / In short, …",
+    "Madame, Monsieur, — Dear Sir or Madam,",
+    "Je réagis à l'article paru le… — I am responding to the article published on…",
+    "Veuillez agréer, Madame, Monsieur, l'expression de mes salutations distinguées. — Yours sincerely (formal closing).",
+    "Selon les premières informations, … — According to initial reports, …",
+    "Les circonstances de l'accident restent à préciser. — The circumstances of the accident have yet to be determined.",
+    "« … », a déclaré un témoin. — “…,” a witness said.",
+    "Plus de peur que de mal. — More frightened than hurt (no serious injuries)."
+   ],
+   "sets": [
+    {
+     "title": "Set 1: Fait divers et télétravail",
+     "level": "B1",
+     "tasks": [
+      {
+       "prompt": "Section A — Écrivez la suite de cet article. Montréal — Hier matin, les passagers d'un autobus de la ligne 80 ont eu une surprise peu ordinaire : un raton laveur s'était installé sous un siège, à l'arrière du véhicule… (Write the rest of this news story in newspaper style, at least 80 words.)",
+       "time": "25 min",
+       "words": "80 mots minimum",
+       "model": "Selon le chauffeur, l'animal serait monté à bord pendant un arrêt prolongé au terminus, alors que la porte arrière était restée ouverte. Ce n'est qu'à la hauteur de l'avenue du Parc qu'une passagère l'a aperçu en train de fouiller dans son sac d'épicerie. Surprise, elle a poussé un cri, ce qui a semé une certaine agitation parmi les voyageurs. Le chauffeur a aussitôt immobilisé le véhicule et a demandé à tout le monde de descendre dans le calme. Des employés de la Ville, appelés sur les lieux, ont réussi à capturer le raton laveur à l'aide d'une cage et de quelques biscuits. L'animal, en bonne santé, a été relâché le jour même dans un boisé du mont Royal. Les passagers, eux, ont dû attendre l'autobus suivant une quinzaine de minutes. « En vingt ans de carrière, c'est la première fois que je vois ça », a déclaré le chauffeur en riant. La société de transport rappelle qu'il ne faut jamais tenter de toucher un animal sauvage.",
+       "checklist": [
+        "Continues the opening logically (same bus, same raccoon, same morning)",
+        "Newspaper style: third person, factual, no « je » except inside quotations",
+        "Correct use of passé composé for events and imparfait for background, with a conditional for unconfirmed facts (serait monté)",
+        "Answers what, how, who reacted, how it ended and what happened next",
+        "Includes a quote or an official reminder, as a real fait divers does",
+        "Time connectors used (aussitôt, ce n'est qu'à…, le jour même)",
+        "At least 80 words, with correct agreements and accents"
+       ]
+      },
+      {
+       "prompt": "Section B — Vous avez lu dans un journal : « Le télétravail devrait devenir un droit pour tous les employés dont le travail le permet. » Écrivez une lettre au journal pour donner votre opinion. Développez au moins trois arguments. (Write a letter to the editor giving your opinion, with at least three arguments, in at least 200 words.)",
+       "time": "35 min",
+       "words": "200 mots minimum",
+       "model": "Madame, Monsieur,\nJ'ai lu avec intérêt l'article selon lequel le télétravail devrait devenir un droit pour tous les employés dont le travail le permet. Je partage entièrement cette opinion, et ce, pour plusieurs raisons.\nTout d'abord, le télétravail permet de gagner un temps précieux. À Montréal comme à Toronto, de nombreux travailleurs passent plus d'une heure par jour dans la circulation ou dans les transports en commun. Ce temps pourrait être consacré à la famille, au sport ou au repos, ce qui améliorerait la santé et la motivation des employés.\nEnsuite, il s'agit d'une mesure bénéfique pour l'environnement. Moins de déplacements signifie moins d'émissions de gaz à effet de serre et moins de congestion routière, un enjeu majeur dans nos grandes villes.\nDe plus, le télétravail favorise l'égalité des chances. Il permet, par exemple, à des personnes handicapées ou à des parents de jeunes enfants d'occuper des postes qui leur seraient autrement inaccessibles. Il aide aussi les entreprises à recruter des talents qui vivent en région.\nCertes, certains gestionnaires craignent une baisse de productivité ou un affaiblissement de l'esprit d'équipe. Toutefois, rien n'empêche d'organiser des rencontres régulières au bureau pour garder le contact entre collègues.\nEn conclusion, il me semble essentiel que le télétravail soit reconnu comme un droit, à condition qu'il soit bien encadré. Ce serait un pas de plus vers un monde du travail plus humain et plus moderne.\nVeuillez agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\nAlex Martin, Laval",
+       "checklist": [
+        "Letter format: formal greeting, reference to the statement, formal closing and signature",
+        "Clear position stated in the introduction and restated in the conclusion",
+        "At least three distinct arguments, each with an example or explanation",
+        "A counter-argument acknowledged and answered (certes… toutefois)",
+        "Logical connectors that guide the reader (tout d'abord, ensuite, de plus, en conclusion)",
+        "B2 structures: subjunctive (il me semble essentiel que… soit), conditional (pourrait, serait), relative clauses (selon lequel, dont)",
+        "Formal register throughout, with no informal Quebec expressions",
+        "At least 200 words, organized in paragraphs"
+       ]
+      }
+     ]
+    },
+    {
+     "title": "Set 2: Honnêteté et francisation",
+     "level": "B2",
+     "tasks": [
+      {
+       "prompt": "Section A — Écrivez la suite de cet article. Sherbrooke — Une fillette de neuf ans a permis à un homme de retrouver son portefeuille, qui contenait plus de 2 000 $ en argent comptant. L'histoire a commencé mardi après-midi, dans le stationnement d'une épicerie du quartier… (Continue the news story, at least 80 words.)",
+       "time": "25 min",
+       "words": "80 mots minimum",
+       "model": "Alors qu'elle aidait sa mère à ranger les sacs dans la voiture, Léa a remarqué un portefeuille brun tombé près d'un panier d'épicerie. En l'ouvrant, sa mère a découvert une liasse de billets, plusieurs cartes bancaires et un permis de conduire au nom d'un certain Gilles Fortin. Plutôt que de le laisser au comptoir du magasin, la fillette a insisté pour que l'on rende l'objet au propriétaire en personne. Grâce à l'adresse inscrite sur le permis, la famille s'est rendue chez lui le soir même. M. Fortin, un retraité de 72 ans, n'en revenait pas : il venait de retirer cet argent pour payer des réparations à sa maison. Ému, il a voulu offrir une récompense de 200 $ à Léa, qui a poliment refusé. Elle lui a seulement demandé de faire un don au refuge pour animaux de la région. « J'ai fait ce que n'importe qui aurait fait », a-t-elle confié avec modestie. Le service de police de Sherbrooke a salué son honnêteté sur les réseaux sociaux.",
+       "checklist": [
+        "Coherent with the opening (Sherbrooke, a 9-year-old girl, a wallet with more than $2,000, a grocery-store parking lot)",
+        "Clear sequence: discovery, decision, returning the wallet, the owner's reaction, the ending",
+        "Varied past tenses (passé composé, imparfait, plus-que-parfait if useful) used correctly",
+        "Names and details that make the story believable, plus a quotation",
+        "Journalistic, neutral tone",
+        "Subjunctive after insister pour que is a good B2 sign",
+        "At least 80 words with careful spelling"
+       ]
+      },
+      {
+       "prompt": "Section B — Un lecteur écrit dans un journal : « Les nouveaux arrivants devraient obligatoirement suivre des cours de français gratuits pendant leur première année au Canada. » Réagissez à cette affirmation dans une lettre au journal. Donnez au moins trois arguments. (React to this statement in a letter to the newspaper, with at least three arguments, in at least 200 words.)",
+       "time": "35 min",
+       "words": "200 mots minimum",
+       "model": "Madame, Monsieur,\nDans votre édition de samedi, un lecteur affirme que les nouveaux arrivants devraient être obligés de suivre des cours de français gratuits pendant leur première année au Canada. Arrivé à Québec il y a trois ans, je souhaite réagir à cette proposition, qui me paraît juste sur le fond, mais discutable dans sa forme.\nD'une part, je suis convaincu que l'apprentissage du français est la clé de l'intégration. C'est en parlant la langue commune qu'on trouve un emploi à la hauteur de ses compétences, qu'on comprend l'école de ses enfants et qu'on se fait des amis. Il est donc tout à fait normal que l'État offre des cours gratuits et de qualité.\nD'autre part, rendre ces cours obligatoires poserait plusieurs problèmes. Beaucoup de nouveaux arrivants doivent travailler dès leur arrivée pour payer leur loyer; leur imposer des cours à heures fixes risquerait de les mettre en difficulté. De plus, certains parlent déjà très bien le français : les obliger à suivre des cours serait une perte de temps et d'argent public.\nÀ mon avis, il vaudrait mieux multiplier les formules souples : cours du soir, cours en ligne, francisation en milieu de travail. On pourrait également verser une allocation à ceux qui étudient à temps plein, comme c'est déjà le cas au Québec.\nBref, encourageons plutôt que d'obliger : la motivation reste le meilleur moteur de l'apprentissage.\nJe vous prie d'agréer, Madame, Monsieur, mes salutations distinguées.\nSamira Khalil, Québec",
+       "checklist": [
+        "Nuanced position (agrees with the goal, disagrees with making it compulsory), stated clearly at the start",
+        "At least three arguments, with concrete examples (work, rent, people who already speak French)",
+        "Constructive alternative proposals using the conditional (il vaudrait mieux, on pourrait)",
+        "Structure with d'une part / d'autre part, de plus, bref",
+        "Personal experience used as support, not instead of arguments",
+        "Formal letter conventions respected",
+        "Varied vocabulary (intégration, allocation, formules souples, perte de temps)",
+        "At least 200 words with accurate grammar and agreements"
+       ]
+      }
+     ]
+    },
+    {
+     "title": "Set 3: Tempête et voitures au centre-ville",
+     "level": "B2",
+     "tasks": [
+      {
+       "prompt": "Section A — Écrivez la suite de cet article. Québec — Une tempête de neige plus forte que prévu a paralysé une partie de la capitale hier après-midi. En moins de trois heures, plus de 30 centimètres de neige sont tombés sur la ville… (Continue the news story, at least 80 words.)",
+       "time": "25 min",
+       "words": "80 mots minimum",
+       "model": "Dès 15 h, les principales artères, dont le boulevard Laurier et l'autoroute Henri-IV, étaient complètement congestionnées. Des centaines d'automobilistes sont restés coincés pendant plusieurs heures, certains jusqu'à tard en soirée. Une trentaine d'accrochages ont été signalés, mais aucun blessé grave n'est à déplorer, selon la police. La société de transport a dû suspendre plusieurs circuits d'autobus, ce qui a forcé de nombreux travailleurs à rentrer à pied. Dans le quartier Limoilou, des résidents ont spontanément offert du café chaud et des collations aux piétons transis. La Ville a déployé toute sa flotte de déneigement durant la nuit et promet un retour à la normale d'ici demain midi. Les autorités demandent aux citoyens de respecter les interdictions de stationnement afin de faciliter les opérations. Plusieurs écoles du secteur resteront par ailleurs fermées aujourd'hui.",
+       "checklist": [
+        "Follows directly from the opening (Québec, an unexpected storm, 30 cm in three hours)",
+        "Describes the consequences (traffic, accidents, transit) and the human side (Limoilou residents helping)",
+        "Includes an official response (police, city, snow removal) and what to expect next",
+        "Specific winter vocabulary: déneigement, accrochages, interdictions de stationnement, transis",
+        "Neutral journalistic tone in the third person",
+        "Correct agreement of past participles (sont restés, ont été signalés)",
+        "At least 80 words"
+       ]
+      },
+      {
+       "prompt": "Section B — On peut lire sur un forum : « Les voitures à essence devraient être interdites au centre-ville des grandes villes canadiennes. » Vous écrivez au journal pour donner votre point de vue. Présentez au moins trois arguments. (Write to the newspaper with your point of view and at least three arguments, in at least 200 words.)",
+       "time": "35 min",
+       "words": "200 mots minimum",
+       "model": "Madame, Monsieur,\nJe réagis à l'idée, publiée dans votre journal, selon laquelle il faudrait interdire les voitures à essence au centre-ville des grandes villes canadiennes. Bien que je partage l'objectif de réduire la pollution, je suis opposé à une interdiction pure et simple, qui me semble à la fois injuste et prématurée.\nPremièrement, une telle mesure pénaliserait d'abord les personnes à revenu modeste. Une voiture électrique coûte encore beaucoup plus cher qu'un véhicule à essence d'occasion. Interdire ces derniers reviendrait à fermer le centre-ville à ceux qui n'ont pas les moyens de changer de voiture.\nDeuxièmement, les solutions de rechange ne sont pas encore suffisantes. Dans plusieurs villes, les autobus sont peu fréquents en soirée et les banlieues sont mal desservies. Avant d'interdire, il faut offrir des options fiables, surtout pendant nos longs hivers.\nTroisièmement, les commerçants du centre-ville, déjà fragilisés par le commerce en ligne, risqueraient de perdre une partie de leur clientèle au profit des centres commerciaux de banlieue.\nOn me répondra que l'urgence climatique exige des mesures fortes. C'est vrai. C'est pourquoi je propose plutôt des mesures progressives : des stationnements incitatifs reliés au métro, des voies réservées, des rues piétonnes l'été et une aide financière accrue pour l'achat de véhicules électriques.\nEn somme, la transition écologique ne réussira que si elle est équitable. Améliorons l'offre avant de restreindre.\nVeuillez agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\nJordan Lee, Ottawa",
+       "checklist": [
+        "Clear position (against an outright ban) while acknowledging the goal (bien que + subjonctif)",
+        "Three numbered, well-developed arguments (social fairness, alternatives, local businesses)",
+        "Counter-argument recognized and turned into concrete proposals",
+        "Canadian context used (long winters, suburbs, metro)",
+        "Varied connectors and B2 structures (reviendrait à, ne… que si, au profit de)",
+        "Strong conclusion that sums up the position",
+        "Formal register and letter format",
+        "At least 200 words"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EO",
+   "name": "Expression orale",
+   "en": "Speaking",
+   "format": "15 minutes in total, 2 tasks, done face to face with an examiner who also plays your conversation partner, and scored out of 699. Section A, « obtenir des informations » (5 minutes): you see a document, usually a small ad or notice, and phone the advertiser (played by the examiner) to ask for details, in formal register (vous). Section B, « argumenter pour convaincre » (10 minutes): you get another document, usually an ad for an activity, product or service, and must convince a friend (the examiner, informal register with tu) to take part or accept, while answering their objections. The official page gives the section names and timings. Preparation time and the detailed marking grid are not given in the documents I read, so check with your test centre. This is one of the two tests required for citizenship.",
+   "tips": [
+    "Section A: aim for about 10 to 12 varied, relevant questions in 5 minutes. Don't ask about anything the document already tells you.",
+    "Section A: vary how you ask questions: est-ce que…, inversion (Pouvez-vous…?), Je voudrais savoir si…, Pourriez-vous me dire…? Use vous throughout.",
+    "Section A: react to each answer (D'accord, très bien. Et…?) and ask a follow-up question. It shows real interaction.",
+    "Section B: start by presenting the document and your idea enthusiastically, then give 3 or 4 benefits tailored to your friend.",
+    "Section B: the examiner will object (too expensive, no time, not interested). Welcome each objection (Je comprends, mais…) and answer it with a concrete solution.",
+    "Keep talking. Silence hurts more than small mistakes. Fillers like Alors…, Disons que…, En fait… buy you time naturally.",
+    "Use tu in Section B and vous in Section A. Mixing them up is noticed.",
+    "Use mostly standard French. A few Quebec expressions are fine in Section B with a friend, but keep them under control."
+   ],
+   "phrases": [
+    "Bonjour, je vous appelle au sujet de votre annonce. — Hello, I'm calling about your ad.",
+    "Est-ce que vous auriez quelques minutes pour répondre à mes questions? — Would you have a few minutes to answer my questions?",
+    "J'aimerais savoir si… — I would like to know if…",
+    "Pourriez-vous me dire… ? — Could you tell me…?",
+    "Est-ce que le prix comprend… ? — Does the price include…?",
+    "Quels sont vos horaires? — What are your hours?",
+    "Est-ce qu'il faut réserver à l'avance? — Do I need to book in advance?",
+    "Excusez-moi, pourriez-vous répéter, s'il vous plaît? — Sorry, could you repeat, please?",
+    "Si je comprends bien, … — If I understand correctly, …",
+    "Je vous remercie de votre aide, bonne journée! — Thank you for your help, have a good day!",
+    "Écoute, j'ai vu une annonce qui devrait t'intéresser. — Listen, I saw an ad that should interest you.",
+    "Imagine un peu : … — Just imagine: …",
+    "Ce serait l'occasion idéale de… — It would be the perfect opportunity to…",
+    "Ça te ferait du bien de… — It would do you good to…",
+    "Je te comprends, mais… — I understand, but…",
+    "Tu n'as pas tort, cependant… — You're not wrong, however…",
+    "Justement, c'est pour ça que… — Precisely, that's why…",
+    "Et si on… ? — What if we…?",
+    "Pense à… — Think about…",
+    "En plus, … / Sans compter que… — On top of that, … / Not to mention that…",
+    "Au pire, … — At worst, …",
+    "Je suis sûr(e) que tu ne le regretteras pas. — I'm sure you won't regret it.",
+    "Alors, qu'est-ce que tu en dis? — So, what do you say?",
+    "Disons que… / En fait, … — Let's say… / Actually, … (natural fillers)"
+   ],
+   "sets": [
+    {
+     "title": "Set 1: Atelier de cuisine et escapade en Gaspésie",
+     "level": "B1",
+     "tasks": [
+      {
+       "prompt": "Section A — Vous avez lu cette annonce : « Ateliers de cuisine québécoise — Apprenez à préparer tourtière, pouding chômeur et tarte au sucre! Petits groupes. Plateau-Mont-Royal, Montréal. Renseignements : 514 555-0199. » Vous téléphonez pour obtenir plus d'informations. Posez une dizaine de questions. (You call to get more information. Ask about ten questions; the examiner plays the advertiser.)",
+       "time": "5 min",
+       "words": "≈ 10–12 questions",
+       "model": "— Bonjour, madame. Je vous appelle au sujet de votre annonce pour les ateliers de cuisine québécoise. Est-ce que vous auriez quelques minutes pour répondre à mes questions?\n(Examinatrice : Bien sûr, je vous écoute.)\n— Merci. Tout d'abord, combien de personnes y a-t-il dans chaque groupe?\n(— Huit personnes au maximum.)\n— Parfait. Quels jours et à quelle heure les ateliers ont-ils lieu?\n(— Le mardi et le jeudi soir, de 18 h à 21 h, et le samedi matin.)\n— Et combien coûte un atelier?\n(— 75 $ par personne.)\n— Est-ce qu'il y a un tarif réduit si je m'inscris à plusieurs ateliers?\n(— Oui, 200 $ pour trois ateliers.)\n— Très bien. Est-ce que les ingrédients sont compris dans le prix?\n(— Oui, tout est fourni.)\n— Faut-il apporter quelque chose, un tablier ou des contenants?\n(— Apportez des contenants pour rapporter vos plats.)\n— Ah, donc on repart avec ce qu'on a cuisiné. Excellent! Je suis végétarien : est-ce possible d'adapter la recette de la tourtière?\n(— Oui, on propose une version aux lentilles.)\n— Super. Les ateliers sont-ils donnés uniquement en français?\n(— Oui, mais le chef parle lentement.)\n— Tant mieux, c'est justement pour pratiquer mon français! Est-ce que vos locaux sont près d'une station de métro?\n(— À cinq minutes de la station Mont-Royal.)\n— Et si je dois annuler, est-ce que je suis remboursé?\n(— Oui, si vous annulez 48 heures à l'avance.)\n— Dernière question : comment est-ce que je peux m'inscrire et payer?\n(— Sur notre site Web, par carte de crédit.)\n— Je vous remercie beaucoup pour toutes ces informations. Bonne fin de journée!",
+       "checklist": [
+        "Polite opening that states the reason for the call, and a polite closing",
+        "Consistent use of vous and formal register",
+        "About 10 to 12 relevant questions that don't repeat information already in the ad",
+        "Varied question forms: inversion, est-ce que, je voudrais savoir…",
+        "Reacts to answers and builds on them (Ah, donc…, Tant mieux…)",
+        "Covers practical topics: price, schedule, what's included, location, cancellation, registration",
+        "Fluent delivery with understandable pronunciation and few long pauses"
+       ]
+      },
+      {
+       "prompt": "Section B — Vous avez vu cette annonce : « Escapade en Gaspésie — 4 jours en autocar, du 17 au 20 septembre. Rocher Percé, parc national Forillon, croisière aux baleines. Hébergement en auberge, déjeuners inclus. 649 $ par personne. » Vous essayez de convaincre un ami de partir avec vous. L'examinateur joue le rôle de l'ami et vous fait des objections. (Convince a friend to come on this trip; the examiner plays the friend and raises objections.)",
+       "time": "10 min",
+       "words": "Échange d'environ 10 minutes",
+       "model": "— Salut! Écoute, j'ai vu une annonce qui devrait vraiment t'intéresser : une escapade de quatre jours en Gaspésie, du 17 au 20 septembre. On visiterait le rocher Percé, on ferait de la randonnée dans le parc Forillon et il y a même une croisière pour voir les baleines! Tu m'as dit l'autre jour que tu rêvais de voir des baleines, non?\n(Ami : Oui, mais 649 $, c'est cher!)\n— Je te comprends, mais regarde ce qui est inclus : le transport en autocar, trois nuits en auberge, les déjeuners et la croisière. Si on y allait en voiture, juste l'essence, l'hébergement et la croisière nous coûteraient presque autant, sans compter la fatigue de conduire douze heures.\n(Ami : Justement, douze heures d'autobus, c'est long…)\n— C'est vrai, mais en autocar, on peut dormir, lire ou regarder le paysage le long du fleuve. Et puis, le trajet fait partie du voyage : la route de la Gaspésie est magnifique en septembre, avec les couleurs qui commencent.\n(Ami : Je n'aime pas trop les voyages organisés, on n'est jamais libres.)\n— Je sais que tu aimes l'indépendance. Mais d'après l'annonce, seuls les déplacements et les visites principales sont prévus. Le soir, on serait libres d'aller manger où on veut. En plus, comme tout est organisé, on n'aurait rien à planifier : pour une fois, tu pourrais vraiment décrocher.\n(Ami : Et le travail? Je ne sais pas si je peux prendre congé.)\n— Le 17 tombe un jeudi, donc tu ne manquerais que deux jours de travail. Tu m'as dit que tu avais encore des vacances à prendre avant la fin de l'année. C'est le moment idéal!\n(Ami : Hmm… et s'il pleut?)\n— Au pire, on se promènera dans les villages et on goûtera aux produits de la mer! Mais en septembre, il fait souvent beau là-bas, et il y a beaucoup moins de touristes qu'en juillet.\n(Ami : Bon… tu marques des points.)\n— Alors, qu'est-ce que tu en dis? On réserve ce soir? Je suis sûr que tu ne le regretteras pas!",
+       "checklist": [
+        "Presents the document clearly at the start (what, when, price, what's included)",
+        "Uses tu and a friendly but correct register",
+        "Gives several benefits tailored to the friend (whales, rest, landscapes)",
+        "Answers each objection with a concrete solution (price comparison, free evenings, only two days off)",
+        "Persuasive structures: the conditional (on visiterait, tu pourrais), si + imparfait, au pire, en plus",
+        "Keeps the conversation going and checks the friend's opinion (non?, qu'est-ce que tu en dis?)",
+        "Clear conclusion that asks for a decision"
+       ]
+      }
+     ]
+    },
+    {
+     "title": "Set 2: Appartement à Québec et bénévolat au festival",
+     "level": "B2",
+     "tasks": [
+      {
+       "prompt": "Section A — Vous avez lu cette annonce : « À louer — 4 ½ lumineux, quartier Saint-Roch, Québec. Près des services. Libre immédiatement. 1 250 $/mois. Contactez Mme Pelletier au 418 555-0133. » Vous téléphonez pour obtenir des précisions. Posez une dizaine de questions. (You call the owner for details. Ask about ten questions.)",
+       "time": "5 min",
+       "words": "≈ 10–12 questions",
+       "model": "— Bonjour, madame Pelletier? Je vous appelle à propos du 4 ½ à louer dans Saint-Roch. Est-il toujours disponible?\n(— Oui, toujours.)\n— Tant mieux. J'aimerais d'abord savoir si le chauffage et l'électricité sont compris dans le loyer.\n(— Le chauffage, oui; l'électricité, non.)\n— D'accord. Le logement est à quel étage, et y a-t-il un ascenseur?\n(— Au troisième, sans ascenseur.)\n— Est-ce que les électroménagers sont fournis?\n(— Le réfrigérateur et la cuisinière, oui.)\n— Et y a-t-il des entrées pour une laveuse et une sécheuse?\n(— Oui, dans la salle de bain.)\n— Parfait. Est-ce qu'un stationnement est disponible?\n(— Non, mais il y a des vignettes de rue pour les résidents.)\n— Je vois. J'ai un petit chat très calme : les animaux sont-ils acceptés?\n(— Les chats, oui.)\n— Excellent. Quelle serait la durée du bail?\n(— Un an, jusqu'au 30 juin.)\n— D'accord, donc ensuite il serait renouvelé au 1er juillet. Quels documents devrais-je fournir pour ma demande?\n(— Une preuve d'emploi et deux références.)\n— Est-ce que le quartier est bruyant le soir? Je travaille tôt le matin.\n(— La rue est assez tranquille.)\n— Et l'arrêt d'autobus le plus proche est à quelle distance?\n(— À deux minutes à pied.)\n— Serait-il possible de visiter le logement cette semaine, par exemple jeudi en fin de journée?\n(— Jeudi à 17 h 30, ça vous va?)\n— C'est parfait. Je vous remercie, madame Pelletier, et à jeudi!",
+       "checklist": [
+        "Formal register and polite phone conventions throughout",
+        "About 10 to 12 different, relevant questions (included costs, floor, appliances, parking, pets, lease, documents, noise, transit, a visit)",
+        "Varied interrogative structures, including inversion (y a-t-il, sont-ils, serait-il)",
+        "Uses the conditional for politeness (j'aimerais, devrais-je, serait-il possible)",
+        "Rephrases to check understanding (donc ensuite il serait renouvelé…)",
+        "Ends with a concrete next step (booking a visit)",
+        "Natural pace and clear pronunciation"
+       ]
+      },
+      {
+       "prompt": "Section B — Vous avez vu cette annonce : « Grand festival de musique de Québec — Nous recrutons 300 bénévoles! Accueil, information, environnement. Avantages : t-shirt officiel, repas fournis, accès aux spectacles en dehors de vos heures de bénévolat. Minimum : 3 quarts de 5 heures. » Vous voulez convaincre un ami de devenir bénévole avec vous. L'examinateur joue l'ami et fait des objections. (Convince a friend to volunteer with you; the examiner raises objections.)",
+       "time": "10 min",
+       "words": "Échange d'environ 10 minutes",
+       "model": "— Hé, tu as cinq minutes? J'ai trouvé quelque chose de génial pour cet été : le grand festival de musique de Québec cherche des bénévoles, et je me suis dit qu'on pourrait s'inscrire ensemble!\n(Ami : Bénévole? Travailler gratuitement pendant mes vacances, non merci.)\n— Je comprends que ça ne te tente pas au premier abord. Mais regarde : on ne ferait que trois quarts de cinq heures, donc quinze heures en tout. En échange, on aurait accès aux spectacles le reste du temps. Tu sais combien coûte un laissez-passer? Bien plus que ce qu'on gagnerait en quinze heures de travail!\n(Ami : Oui, mais je n'ai pas beaucoup de temps libre.)\n— Justement, c'est flexible : on choisit nos quarts. On pourrait prendre ceux de la fin de semaine, et tu garderais tes soirées de semaine pour toi.\n(Ami : Mon français n'est pas parfait, je ne veux pas avoir l'air ridicule à l'accueil.)\n— Au contraire, ce serait la meilleure façon de pratiquer! Les festivaliers posent toujours les mêmes questions : où sont les toilettes, à quelle heure commence le spectacle… Après une heure, tu serais à l'aise. Et puis, il y a des touristes de partout : ton anglais serait un atout. Sans compter que tu pourrais choisir l'équipe environnement si tu préfères parler moins.\n(Ami : Il va y avoir trop de monde, je n'aime pas les foules.)\n— Je te comprends. Mais comme bénévole, tu serais du bon côté de la clôture! On a des zones réservées pour les pauses, et les repas sont fournis. En plus, c'est excellent pour le CV : une expérience de service à la clientèle au Québec, ça impressionne les employeurs, surtout quand on vient d'arriver.\n(Ami : Hmm, ça, c'est un bon point.)\n— Et surtout, on vivrait ça ensemble! On rencontrerait plein de gens, peut-être de futurs amis ou des contacts professionnels. Alors, je nous inscris tous les deux ce soir?",
+       "checklist": [
+        "Clear, enthusiastic introduction of the proposal",
+        "Benefits tailored to the friend: free shows, practising French, CV and networking",
+        "Every objection acknowledged (je comprends…) then answered with a concrete argument",
+        "Comparison and logic (bien plus que…, justement, au contraire)",
+        "Consistent conditional mood for hypotheses (on aurait, tu serais, on rencontrerait)",
+        "Spontaneity and interaction, with no recited monologue",
+        "Ends by asking for a commitment"
+       ]
+      }
+     ]
+    },
+    {
+     "title": "Set 3: Emploi d'été et panier bio",
+     "level": "B2",
+     "tasks": [
+      {
+       "prompt": "Section A — Vous avez lu cette annonce : « Camp de jour Les Petits Explorateurs, Laval — Nous recrutons des moniteurs et monitrices pour l'été. 35 h/semaine, formation fournie. Expérience avec les enfants : un atout. Écrivez-nous ou appelez au 450 555-0170. » Vous téléphonez pour obtenir des informations sur le poste. Posez une dizaine de questions. (You call for information about the job. Ask about ten questions.)",
+       "time": "5 min",
+       "words": "≈ 10–12 questions",
+       "model": "— Bonjour, je vous appelle au sujet de votre offre d'emploi de moniteur au camp de jour Les Petits Explorateurs. Est-ce que je parle à la bonne personne?\n(— Oui, je suis la coordonnatrice.)\n— Très bien, merci. Pourriez-vous d'abord me dire quelles sont les dates de l'emploi?\n(— Du 22 juin au 14 août.)\n— Et quel est le salaire horaire?\n(— 18 $ de l'heure.)\n— D'accord. Les enfants ont quel âge?\n(— De 5 à 12 ans, répartis par groupe d'âge.)\n— Combien d'enfants un moniteur a-t-il sous sa responsabilité?\n(— Environ douze.)\n— Vous mentionnez une formation : quand a-t-elle lieu, et est-elle rémunérée?\n(— Deux fins de semaine en mai, et oui, elle est payée.)\n— Est-ce qu'elle comprend une formation en premiers soins?\n(— Oui, c'est obligatoire.)\n— Parfait. Quelles activités les moniteurs doivent-ils animer?\n(— Des jeux extérieurs, du bricolage et des sorties.)\n— Je voudrais aussi savoir si le camp exige une vérification des antécédents judiciaires.\n(— Oui, pour tous les employés.)\n— Bien sûr. Le travail se fait-il entièrement en français?\n(— Oui, c'est un camp francophone.)\n— Très bien, c'est ce que je recherche. Serait-il possible de travailler seulement quatre jours par semaine?\n(— Difficilement, mais on peut en discuter.)\n— Je comprends. Enfin, comment dois-je poser ma candidature, et avant quelle date?\n(— Envoyez votre CV par courriel avant le 31 mars.)\n— Merci infiniment pour ces renseignements. Je vous envoie mon CV dès cette semaine. Bonne journée!",
+       "checklist": [
+        "Professional, formal register suited to a job enquiry",
+        "About 10 to 12 questions covering dates, pay, the group, training, duties, requirements, flexibility and how to apply",
+        "Doesn't ask about information already in the ad (35 h, training provided) without adding something new",
+        "Varied structures: Pourriez-vous me dire…, Je voudrais savoir si…, inversion",
+        "Shows active listening (Bien sûr, Je comprends, c'est ce que je recherche)",
+        "Polite closing with a next step",
+        "Clear pronunciation of numbers and dates"
+       ]
+      },
+      {
+       "prompt": "Section B — Vous avez vu cette annonce : « Paniers bio de la ferme — Recevez chaque semaine, de juin à octobre, un panier de légumes biologiques cultivés à 40 km de Montréal. Point de livraison près de chez vous. Abonnement de saison : 520 $ (20 paniers). » Vous voulez convaincre un ami de partager un abonnement avec vous. L'examinateur joue l'ami et fait des objections. (Convince a friend to share a subscription with you; the examiner raises objections.)",
+       "time": "10 min",
+       "words": "Échange d'environ 10 minutes",
+       "model": "— Salut! Dis-moi, toi qui te plains toujours du prix des légumes à l'épicerie, j'ai peut-être une solution : un abonnement à des paniers bio d'une ferme à 40 km de Montréal. Chaque semaine, de juin à octobre, on recevrait des légumes frais. Et si on le partageait?\n(Ami : 520 $, c'est beaucoup d'argent!)\n— Ça a l'air cher, mais fais le calcul : 520 $ pour 20 paniers, ça fait 26 $ par panier. Si on partage, c'est 13 $ chacun par semaine pour des légumes bio et ultra-frais. À l'épicerie, tu paierais bien plus pour la même qualité.\n(Ami : Mais on ne choisit pas ce qu'il y a dans le panier.)\n— C'est vrai, et c'est justement ce qui est amusant! Ça nous obligerait à découvrir de nouveaux légumes, comme le chou-rave ou les topinambours. La ferme envoie même des recettes chaque semaine. Et si un légume ne te plaît pas, je le prendrai, ne t'inquiète pas.\n(Ami : Il faut aller chercher le panier, je n'ai pas toujours le temps.)\n— Le point de livraison est près de chez nous, et puisqu'on serait deux, on pourrait alterner : une semaine toi, une semaine moi. Ça ne prendrait que dix minutes aux deux semaines.\n(Ami : Je ne cuisine presque jamais…)\n— Raison de plus! On pourrait cuisiner ensemble le dimanche et préparer nos lunchs de la semaine. Tu économiserais sur les repas au restaurant et tu mangerais mieux. Sans compter qu'en achetant local, on encourage un agriculteur d'ici et on réduit le transport des aliments.\n(Ami : Bon, c'est vrai que je mange trop de restaurant.)\n— Tu vois! Je suis certain que dans un mois, tu ne pourras plus t'en passer. Alors, on s'inscrit avant que les places soient toutes prises?",
+       "checklist": [
+        "Hooks the friend with something relevant to them (the price of vegetables)",
+        "Explains the offer clearly with a convincing calculation (13 $ each per week)",
+        "Answers each objection (price, choice, pick-up, cooking) with a practical solution",
+        "Uses argument connectors: justement, raison de plus, sans compter que, puisque",
+        "Correct hypothetical structures (si on partageait…, on recevrait…) and the subjunctive (avant que… soient)",
+        "Adds a values argument (local food, environment)",
+        "Ends with a clear call to action"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

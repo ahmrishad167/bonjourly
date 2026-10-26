@@ -1,0 +1,684 @@
+{
+ "w": 84,
+ "title": "A2 milestone test",
+ "goal": "By the end of this lesson you have tested yourself on the whole A2 phase (lessons 41 to 83) and you can tell a five-minute story about a past trip, mixing the passé composé, imparfait and plus-que-parfait with pronouns, connectors and a few Quebec touches.",
+ "learn": [
+  {
+   "h": "The past tenses: your storytelling engine",
+   "body": [
+    "Imparfait (lessons 41–43): scene, description, habits: *Il faisait beau, j'étais content, on allait au lac chaque été.* Passé composé: events that move the story forward: *On est partis à 6 h, on a vu un orignal.*",
+    "Plus-que-parfait (lesson 68): what had happened before: *J'avais oublié ma tuque.* Venir de (lesson 69): what had just happened: *On venait d'arriver quand il a commencé à pleuvoir.*"
+   ],
+   "table": {
+    "head": [
+     "Job in the story",
+     "Tense",
+     "Example"
+    ],
+    "rows": [
+     [
+      "Setting the scene",
+      "imparfait",
+      "C'était l'été et il faisait chaud."
+     ],
+     [
+      "Main events",
+      "passé composé",
+      "On a loué un chalet."
+     ],
+     [
+      "Looking back",
+      "plus-que-parfait",
+      "On avait réservé en janvier."
+     ],
+     [
+      "Just before",
+      "venais de",
+      "Je venais de me coucher quand…"
+     ]
+    ]
+   },
+   "tip": "Imparfait = the background; passé composé = the action; plus-que-parfait = one step further back."
+  },
+  {
+   "h": "Pronouns, comparisons and other A2 tools",
+   "body": [
+    "Object pronouns (lessons 44–48): *le, la, les, lui, leur, y, en*: *Je l'ai vu*, *Je lui ai parlé*, *On y est allés*, *On en a mangé*. Agreement: *Les photos? Je les ai prises.*",
+    "Comparisons (lessons 49–50): *plus… que, moins… que, aussi… que, meilleur, le plus beau*. Demonstratives, relatives and possessives (lessons 51–53, 56, 58): *ce lac-là, celui-ci, le chalet qui…, la ville que…, le mien, nous autres*.",
+    "Future and conditional (lessons 54, 71, 72): *J'y retournerai l'an prochain*, *Si j'avais plus de temps, je resterais une semaine.*"
+   ]
+  },
+  {
+   "h": "Connectors for a five-minute story",
+   "body": [
+    "Order: *d'abord* (first), *ensuite / puis* (then), *après ça* (after that), *finalement* (finally). Time: *ce jour-là* (that day), *le lendemain* (the next day), *la veille* (the day before), *pendant* (during), *tout à coup* (suddenly).",
+    "Cause and contrast: *parce que, alors, donc, mais, pourtant* (yet), *même si*. Feelings: *J'étais aux oiseaux, j'avais peur, c'était de valeur.*"
+   ]
+  },
+  {
+   "h": "How the five-minute story is assessed",
+   "body": [
+    "Five minutes is about 40–60 sentences spoken at a calm pace. Plan in four parts: 1. Introduction: where, when, with whom, why (about 1 minute). 2. The trip: three or four main events (2 minutes). 3. A problem or a surprise (1 minute). 4. Conclusion: feelings, what you learned, would you go back (1 minute).",
+    "Self-check list: Did I use the imparfait for description and the passé composé for events? At least one plus-que-parfait? Three pronouns (y, en, le/la/lui)? A comparison? A si clause or conditional at the end? Two or three Quebec expressions in the right register?"
+   ]
+  },
+  {
+   "h": "The rest of the A2 toolkit",
+   "body": [
+    "Numbers and money (lesson 55), adverbs in *-ment* (lesson 57), gérondif (lesson 70: *en marchant*), impersonal verbs (lesson 73: *il a fallu, il pleuvait*), place prepositions (lesson 74: *en Gaspésie, au Saguenay, à Québec*), negatives (lesson 75: *je n'avais jamais vu*), *tout* (lesson 76).",
+    "Everyday life themes (lessons 60–67, 80–82): work, transport, housing, health, food, nature, false friends, Quebec expressions, emails and phone calls."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "L'été passé, on est allés en Gaspésie avec mes cousins.",
+   "en": "Last summer, we went to the Gaspé with my cousins.",
+   "note": "passé composé + en + feminine region"
+  },
+  {
+   "fr": "Il faisait beau et le fleuve était magnifique.",
+   "en": "The weather was nice and the river was magnificent.",
+   "note": "imparfait: description"
+  },
+  {
+   "fr": "On avait réservé un petit chalet au bord de la mer.",
+   "en": "We had booked a little cottage by the sea.",
+   "note": "plus-que-parfait"
+  },
+  {
+   "fr": "Le premier jour, on est montés au phare de Cap-des-Rosiers.",
+   "en": "The first day, we went up the Cap-des-Rosiers lighthouse.",
+   "note": "monter takes être"
+  },
+  {
+   "fr": "On venait d'arriver à Percé quand il a commencé à pleuvoir.",
+   "en": "We had just arrived in Percé when it started to rain.",
+   "note": "venais de + passé composé"
+  },
+  {
+   "fr": "Le rocher Percé? Je l'ai pris en photo cent fois!",
+   "en": "Percé Rock? I took a hundred photos of it!",
+   "note": "direct object pronoun l'"
+  },
+  {
+   "fr": "On a mangé du homard. On en a mangé tous les soirs!",
+   "en": "We ate lobster. We ate it every night!",
+   "note": "pronoun en"
+  },
+  {
+   "fr": "C'était le plus beau voyage de ma vie.",
+   "en": "It was the most beautiful trip of my life.",
+   "note": "superlative"
+  },
+  {
+   "fr": "La Gaspésie est plus sauvage que les Laurentides.",
+   "en": "The Gaspé is wilder than the Laurentians.",
+   "note": "comparative"
+  },
+  {
+   "fr": "Tout à coup, une baleine est sortie de l'eau!",
+   "en": "Suddenly, a whale came out of the water!",
+   "note": "tout à coup + passé composé"
+  },
+  {
+   "fr": "J'avais jamais vu de baleine avant, j'étais aux oiseaux!",
+   "en": "I had never seen a whale before, I was over the moon!",
+   "note": "spoken negative without ne + Quebec expression"
+  },
+  {
+   "fr": "Le lendemain, il a fallu changer un pneu en pleine route.",
+   "en": "The next day, we had to change a tire in the middle of the road.",
+   "note": "il a fallu"
+  },
+  {
+   "fr": "Mon cousin, celui qui habite à Rimouski, nous a aidés.",
+   "en": "My cousin, the one who lives in Rimouski, helped us.",
+   "note": "demonstrative + relative qui"
+  },
+  {
+   "fr": "En revenant, on a arrêté à Québec pour souper.",
+   "en": "On the way back, we stopped in Quebec City for supper.",
+   "note": "gérondif + à + city"
+  },
+  {
+   "fr": "Si j'avais plus de vacances, j'y retournerais tout de suite.",
+   "en": "If I had more vacation, I'd go back right away.",
+   "note": "si clause type 2 + y"
+  },
+  {
+   "fr": "L'année prochaine, on ira aux Îles-de-la-Madeleine.",
+   "en": "Next year, we'll go to the Magdalen Islands.",
+   "note": "futur simple + aux"
+  }
+ ],
+ "quebec": {
+  "intro": "The roadmap task is a five-minute story about a past trip, told 'in Quebec style'. Tell it in clear standard French, and season it with a few Quebec touches, the way a Quebecer would tell a friend.",
+  "items": [
+   {
+    "std": "Nous sommes partis tôt.",
+    "qc": "On est partis de bonne heure.",
+    "en": "We left early.",
+    "note": "de bonne heure is very common in Quebec"
+   },
+   {
+    "std": "Il y avait beaucoup de monde.",
+    "qc": "Y'avait ben du monde.",
+    "en": "There were lots of people.",
+    "note": "Informal"
+   },
+   {
+    "std": "J'étais ravi.",
+    "qc": "J'étais aux oiseaux.",
+    "en": "I was thrilled.",
+    "note": "Informal (w80)"
+   },
+   {
+    "std": "Nous nous sommes bien amusés.",
+    "qc": "On a eu ben du fun.",
+    "en": "We had a lot of fun.",
+    "note": "Informal; avoir du fun is very Quebec"
+   },
+   {
+    "std": "Il faisait très froid.",
+    "qc": "Y faisait frette.",
+    "en": "It was freezing.",
+    "note": "Informal (w73)"
+   },
+   {
+    "std": "Pas du tout.",
+    "qc": "Pas pantoute.",
+    "en": "Not at all.",
+    "note": "Informal (w75)"
+   },
+   {
+    "std": "C'est dommage.",
+    "qc": "C'est de valeur.",
+    "en": "That's too bad.",
+    "note": "Fine in most contexts (w80)"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Which tense describes the scene in a story?",
+   "options": [
+    "passé composé",
+    "imparfait",
+    "futur",
+    "conditionnel"
+   ],
+   "a": 1,
+   "why": "Imparfait = description, background (w41–43)."
+  },
+  {
+   "t": "mcq",
+   "q": "'Les photos? Je les ai ___.' (prendre)",
+   "options": [
+    "pris",
+    "prise",
+    "prises",
+    "prendu"
+   ],
+   "a": 2,
+   "why": "Agreement with the preceding direct object les (w46)."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is correct?",
+   "options": [
+    "Elle est plus meilleure.",
+    "Elle est meilleure.",
+    "Elle est le plus bon.",
+    "Elle est plus bonne."
+   ],
+   "a": 1,
+   "why": "Bon → meilleur (w49–50); plus meilleur is wrong."
+  },
+  {
+   "t": "mcq",
+   "q": "'La fille ___ j'ai rencontrée habite à Québec.'",
+   "options": [
+    "qui",
+    "que",
+    "dont",
+    "où"
+   ],
+   "a": 1,
+   "why": "Object of rencontrer → que (w53)."
+  },
+  {
+   "t": "fill",
+   "q": "On ___ déjà mangé quand ils sont arrivés. (avoir, plus-que-parfait)",
+   "a": [
+    "avait"
+   ],
+   "en": "We had already eaten when they arrived.",
+   "why": "Plus-que-parfait (w68)."
+  },
+  {
+   "t": "fill",
+   "q": "Le Vieux-Québec? On ___ est allés l'été passé. (there)",
+   "a": [
+    "y"
+   ],
+   "en": "Old Quebec? We went there last summer.",
+   "why": "Pronoun y for a place (w47)."
+  },
+  {
+   "t": "fill",
+   "q": "Des souvenirs? J'___ ai acheté trois. (some)",
+   "a": [
+    "en"
+   ],
+   "en": "Souvenirs? I bought three.",
+   "why": "Pronoun en with a quantity (w48)."
+  },
+  {
+   "t": "fill",
+   "q": "J'ai parlé au guide et je ___ ai posé des questions. (to him)",
+   "a": [
+    "lui"
+   ],
+   "en": "I talked to the guide and asked him questions.",
+   "why": "Indirect object lui (w45)."
+  },
+  {
+   "t": "fill",
+   "q": "L'an prochain, on ___ en Gaspésie. (aller, futur simple)",
+   "a": [
+    "ira"
+   ],
+   "en": "Next year, we'll go to the Gaspé.",
+   "why": "Futur simple (w54)."
+  },
+  {
+   "t": "build",
+   "en": "It was sunny and we were happy.",
+   "a": "Il faisait beau et on était contents."
+  },
+  {
+   "t": "build",
+   "en": "We had just arrived when it started to rain.",
+   "a": "On venait d'arriver quand il a commencé à pleuvoir."
+  },
+  {
+   "t": "build",
+   "en": "It was the most beautiful trip of my life.",
+   "a": "C'était le plus beau voyage de ma vie."
+  },
+  {
+   "t": "translate",
+   "en": "If I had more time, I would go back.",
+   "a": [
+    "Si j'avais plus de temps, j'y retournerais.",
+    "Si j'avais plus de temps, je retournerais là-bas.",
+    "Si j'avais plus de temps, je retournerais."
+   ],
+   "why": "Si + imparfait → conditionnel (w72)."
+  },
+  {
+   "t": "translate",
+   "en": "I had never seen a whale.",
+   "a": [
+    "Je n'avais jamais vu de baleine.",
+    "J'avais jamais vu de baleine."
+   ],
+   "why": "Plus-que-parfait + jamais; une → de."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "le voyage",
+   "en": "trip",
+   "g": "m",
+   "ex": "Le voyage a duré dix jours."
+  },
+  {
+   "fr": "partir en voyage",
+   "en": "to go on a trip",
+   "ex": "On part en voyage en juillet."
+  },
+  {
+   "fr": "le séjour",
+   "en": "stay",
+   "g": "m",
+   "ex": "Notre séjour à Percé était parfait."
+  },
+  {
+   "fr": "louer",
+   "en": "to rent",
+   "ex": "On a loué un chalet."
+  },
+  {
+   "fr": "le lendemain",
+   "en": "the next day",
+   "g": "m",
+   "ex": "Le lendemain, on est repartis."
+  },
+  {
+   "fr": "tout à coup",
+   "en": "suddenly",
+   "ex": "Tout à coup, il a commencé à neiger."
+  },
+  {
+   "fr": "d'abord / ensuite / finalement",
+   "en": "first / then / finally",
+   "ex": "D'abord on a mangé, ensuite on a marché."
+  },
+  {
+   "fr": "pourtant",
+   "en": "yet, however",
+   "ex": "Il pleuvait; pourtant, c'était magnifique."
+  },
+  {
+   "fr": "le phare",
+   "en": "lighthouse",
+   "g": "m",
+   "ex": "Le phare est au bout de la route."
+  },
+  {
+   "fr": "la baleine",
+   "en": "whale",
+   "g": "f",
+   "ex": "On a vu des baleines à Tadoussac."
+  },
+  {
+   "fr": "le homard",
+   "en": "lobster",
+   "g": "m",
+   "ex": "Le homard des Îles est délicieux."
+  },
+  {
+   "fr": "le souvenir",
+   "en": "memory; souvenir",
+   "g": "m",
+   "ex": "C'est mon meilleur souvenir."
+  },
+  {
+   "fr": "de bonne heure",
+   "en": "early",
+   "ex": "On est partis de bonne heure.",
+   "qc": true
+  },
+  {
+   "fr": "avoir du fun",
+   "en": "to have fun (informal)",
+   "ex": "On a eu ben du fun!",
+   "qc": true
+  },
+  {
+   "fr": "inoubliable",
+   "en": "unforgettable",
+   "ex": "C'était un voyage inoubliable."
+  },
+  {
+   "fr": "y retourner",
+   "en": "to go back there",
+   "ex": "J'aimerais y retourner."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "on est allés",
+    "tip": "on-nè-ta-LAY: two liaisons."
+   },
+   {
+    "fr": "il faisait / on avait",
+    "tip": "eel fuh-ZÈ / on-na-VÈ."
+   },
+   {
+    "fr": "le lendemain",
+    "tip": "luh lahn-duh-MAN."
+   },
+   {
+    "fr": "tout à coup",
+    "tip": "too-ta-KOO."
+   },
+   {
+    "fr": "la Gaspésie",
+    "tip": "gas-pay-ZEE; Quebec: gas-pé-ZI."
+   },
+   {
+    "fr": "inoubliable",
+    "tip": "ee-noo-blee-ABL."
+   },
+   {
+    "fr": "de bonne heure",
+    "tip": "duh bo-NEUR; Quebec: d'bo-NAÈR."
+   }
+  ],
+  "title": "Mon voyage aux Îles-de-la-Madeleine",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Il y a deux ans, je suis allé aux Îles-de-la-Madeleine avec ma blonde.",
+    "en": "Two years ago, I went to the Magdalen Islands with my girlfriend."
+   },
+   {
+    "s": "A",
+    "fr": "On avait réservé le traversier six mois avant, parce que c'est toujours plein en été.",
+    "en": "We had booked the ferry six months ahead, because it's always full in summer."
+   },
+   {
+    "s": "B",
+    "fr": "C'était comment, le voyage?",
+    "en": "How was the trip?"
+   },
+   {
+    "s": "A",
+    "fr": "Il faisait chaud, il y avait du vent et les plages étaient immenses.",
+    "en": "It was hot, it was windy and the beaches were huge."
+   },
+   {
+    "s": "A",
+    "fr": "Le deuxième jour, on a loué des vélos et on a fait le tour de l'île.",
+    "en": "On the second day, we rented bikes and rode around the island."
+   },
+   {
+    "s": "B",
+    "fr": "Il n'y a pas eu de problème?",
+    "en": "Were there no problems?"
+   },
+   {
+    "s": "A",
+    "fr": "Oui! On venait de partir quand j'ai crevé un pneu. Il a fallu marcher une heure!",
+    "en": "Yes! We had just left when I got a flat tire. We had to walk for an hour!"
+   },
+   {
+    "s": "A",
+    "fr": "Heureusement, un pêcheur nous a aidés et il nous a invités à manger du homard.",
+    "en": "Luckily, a fisherman helped us and invited us to eat lobster."
+   },
+   {
+    "s": "B",
+    "fr": "Wow! Vous en avez mangé beaucoup?",
+    "en": "Wow! Did you eat a lot of it?"
+   },
+   {
+    "s": "A",
+    "fr": "Trop! C'était le meilleur souper de ma vie. On a eu ben du fun.",
+    "en": "Too much! It was the best supper of my life. We had a great time."
+   },
+   {
+    "s": "A",
+    "fr": "Si j'avais plus de vacances, j'y retournerais chaque été.",
+    "en": "If I had more vacation, I'd go back every summer."
+   }
+  ],
+  "questions": [
+   {
+    "q": "When had they booked the ferry?",
+    "options": [
+     "Two weeks before",
+     "Six months before",
+     "The day before"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What happened on the bike ride?",
+    "options": [
+     "It rained",
+     "A flat tire",
+     "They got lost"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Who helped them?",
+    "options": [
+     "A police officer",
+     "A fisherman",
+     "A tourist"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does the speaker say about going back?",
+    "options": [
+     "Never again",
+     "He'd go every summer if he had more vacation",
+     "He's going next week"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "MILESTONE TASK: Tell a five-minute story about a past trip. Part 1 (1 min): where, when, with whom, why, and what you had planned.",
+   "model": "Il y a trois ans, je suis allé en Gaspésie avec deux amis. On voulait voir le rocher Percé et des baleines. On avait loué une voiture et on avait réservé des chalets en ligne. On est partis de Montréal de bonne heure un samedi matin."
+  },
+  {
+   "prompt": "Part 2 (2 min): describe three or four main events, mixing the imparfait for description and the passé composé for actions.",
+   "model": "Le premier jour, il faisait beau et la route longeait le fleuve. On a arrêté à Kamouraska pour dîner. Le lendemain, on est arrivés à Percé. On a pris le bateau pour voir l'île Bonaventure, et j'ai vu des milliers d'oiseaux."
+  },
+  {
+   "prompt": "Part 3 (1 min): tell about a problem or a surprise, using a plus-que-parfait or venais de.",
+   "model": "Le troisième jour, on venait de quitter le chalet quand on a vu qu'on avait oublié nos portefeuilles! Il a fallu faire demi-tour. Tout à coup, on a vu une baleine près de la côte!"
+  },
+  {
+   "prompt": "Part 4 (1 min): conclude with your feelings, a comparison, and a si clause or future plan.",
+   "model": "C'était le plus beau voyage de ma vie. La Gaspésie est plus sauvage que les Laurentides. J'étais aux oiseaux! Si j'avais plus de vacances, j'y retournerais chaque été. L'année prochaine, on ira aux Îles-de-la-Madeleine."
+  }
+ ],
+ "write": {
+  "prompt": "MILESTONE WRITING: Write the script of your five-minute trip story (15–20 sentences). Check: imparfait for scenes, passé composé for events, at least one plus-que-parfait, three object pronouns (y, en, le/la/lui), one comparison, connectors, a si clause, and two Quebec touches.",
+  "model": "L'été passé, je suis allé au Saguenay avec ma sœur. On avait toujours voulu voir le fjord. On est partis de Québec de bonne heure et on a pris la route 175. Il faisait chaud et le ciel était bleu. D'abord, on a arrêté à Tadoussac. On y a fait une croisière aux baleines. J'en ai vu cinq! Ensuite, on a roulé jusqu'à Chicoutimi. Le soir, on a mangé une tourtière du Lac. Ma sœur la trouvait meilleure que celle de notre mère. Le lendemain, on a fait de la randonnée dans le parc national. On venait de commencer quand il a commencé à pleuvoir. Pourtant, c'était magnifique. On a rencontré un guide très gentil et on lui a posé plein de questions. Finalement, on est rentrés à Montréal le dimanche soir. C'était un voyage inoubliable, on a eu ben du fun! Si j'avais plus de temps, j'y retournerais en hiver pour faire de la motoneige."
+ },
+ "quiz": [
+  {
+   "q": "Which sentence correctly mixes past tenses?",
+   "options": [
+    "Il a fait beau quand on arrivait.",
+    "Il faisait beau quand on est arrivés.",
+    "Il faisait beau quand on arrivait hier soudainement.",
+    "Il a fait beau quand on a arrivé."
+   ],
+   "a": 1,
+   "why": "Imparfait for the background, passé composé for the event."
+  },
+  {
+   "q": "Futur simple of 'faire' with nous:",
+   "options": [
+    "nous ferons",
+    "nous ferions",
+    "nous faisons",
+    "nous fairons"
+   ],
+   "a": 0,
+   "why": "Stem fer- + -ons (w54)."
+  },
+  {
+   "q": "Which is a correct demonstrative?",
+   "options": [
+    "Ce hôtel",
+    "Cet hôtel",
+    "Cette hôtel",
+    "Ces hôtel"
+   ],
+   "a": 1,
+   "why": "Cet before a masculine noun with a vowel or silent h (w51)."
+  },
+  {
+   "q": "'C'est le mien' means…",
+   "options": [
+    "It's mine.",
+    "It's my friend.",
+    "It's the middle one.",
+    "It's me."
+   ],
+   "a": 0,
+   "why": "Possessive pronoun (w56)."
+  },
+  {
+   "q": "Adverb from 'lent':",
+   "options": [
+    "lentement",
+    "lentment",
+    "lentamente",
+    "lentemment"
+   ],
+   "a": 0,
+   "why": "Feminine lente + -ment (w57)."
+  },
+  {
+   "q": "Which is correct?",
+   "options": [
+    "Je suis allé en Japon.",
+    "Je suis allé au Japon.",
+    "Je suis allé à Japon.",
+    "Je suis allé aux Japon."
+   ],
+   "a": 1,
+   "why": "Masculine country → au (w74)."
+  },
+  {
+   "q": "'On a eu ben du fun' means…",
+   "options": [
+    "We had good food.",
+    "We had a lot of fun.",
+    "We had some money.",
+    "We had a funny time with Ben."
+   ],
+   "a": 1,
+   "why": "Informal Quebec: avoir du fun."
+  },
+  {
+   "q": "How long should the milestone story be when spoken?",
+   "options": [
+    "About 30 seconds",
+    "About five minutes",
+    "About an hour",
+    "One sentence"
+   ],
+   "a": 1,
+   "why": "Roughly 40–60 sentences at a calm pace."
+  },
+  {
+   "q": "'Nous autres' is Quebec speech for…",
+   "options": [
+    "the others",
+    "nous / us (emphatic)",
+    "another one",
+    "ourselves alone"
+   ],
+   "a": 1,
+   "why": "Emphatic pronoun (w58)."
+  },
+  {
+   "q": "Which sentence uses 'en' correctly?",
+   "options": [
+    "Du homard? J'en ai mangé.",
+    "Du homard? Je l'en ai mangé.",
+    "Du homard? J'ai en mangé.",
+    "Du homard? J'y ai mangé."
+   ],
+   "a": 0,
+   "why": "En replaces du + noun, before the helper (w48)."
+  }
+ ]
+}

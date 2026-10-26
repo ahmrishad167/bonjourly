@@ -1,0 +1,655 @@
+{
+ "w": 36,
+ "title": "Passé composé: être or avoir",
+ "goal": "By the end of this lesson you can choose between être and avoir in the passé composé, make the participle agree after être, use reflexive verbs in the past, and understand Quebec forms like chu allé and a l'est partie.",
+ "learn": [
+  {
+   "h": "The être verbs: movement and change of state",
+   "body": [
+    "About 15 verbs (plus their compounds) use *être* instead of *avoir*. Most describe moving from one place to another or a change of state: *aller, venir, arriver, partir, entrer, sortir, monter, descendre, tomber, rester, retourner, naître* (to be born), *mourir* (to die), *devenir*.",
+    "Compounds follow the same rule: *revenir, rentrer, repartir* all use *être*."
+   ],
+   "table": {
+    "head": [
+     "Pair",
+     "Participles",
+     "Example"
+    ],
+    "rows": [
+     [
+      "aller / venir",
+      "allé / venu",
+      "Je suis allé au parc."
+     ],
+     [
+      "arriver / partir",
+      "arrivé / parti",
+      "Le train est parti."
+     ],
+     [
+      "entrer / sortir",
+      "entré / sorti",
+      "Elle est sortie hier."
+     ],
+     [
+      "monter / descendre",
+      "monté / descendu",
+      "On est montés au chalet."
+     ],
+     [
+      "naître / mourir",
+      "né / mort",
+      "Il est né à Laval."
+     ],
+     [
+      "rester / tomber",
+      "resté / tombé",
+      "Je suis tombé sur la glace."
+     ],
+     [
+      "devenir / retourner",
+      "devenu / retourné",
+      "Elle est devenue médecin."
+     ]
+    ]
+   },
+   "tip": "Picture a house: you arrive, enter, go up, come down, go out, leave, are born and die there. These verbs use être."
+  },
+  {
+   "h": "Agreement with the subject",
+   "body": [
+    "With *être*, the participle agrees with the subject like an adjective: add *-e* for feminine and *-s* for plural. *Il est allé. Elle est allée. Ils sont allés. Elles sont allées.*",
+    "With *on* meaning 'we', agreement is common in writing: *On est partis.* In speech, you can't hear most of these endings, but you must write them."
+   ],
+   "table": {
+    "head": [
+     "Subject",
+     "partir"
+    ],
+    "rows": [
+     [
+      "je (man / woman)",
+      "je suis parti / partie"
+     ],
+     [
+      "tu",
+      "tu es parti / partie"
+     ],
+     [
+      "il / elle",
+      "il est parti / elle est partie"
+     ],
+     [
+      "nous",
+      "nous sommes partis / parties"
+     ],
+     [
+      "vous",
+      "vous êtes parti(e)(s)"
+     ],
+     [
+      "ils / elles",
+      "ils sont partis / elles sont parties"
+     ]
+    ]
+   },
+   "tip": "Être = agree with the subject. Avoir = no agreement with the subject."
+  },
+  {
+   "h": "Reflexive verbs use être too",
+   "body": [
+    "All reflexive verbs take *être* in the passé composé. The pronoun goes before *être*: *Je me suis levé.* *Elle s'est habillée.* *Nous nous sommes couchés tard.*",
+    "Negative: *ne* before the pronoun, *pas* after *être*: *Je ne me suis pas réveillé.*"
+   ]
+  },
+  {
+   "h": "Negatives and questions",
+   "body": [
+    "Same as with avoir: *ne … pas* around *être*: *Je ne suis pas allé au travail.* *Elle n'est pas encore arrivée.*",
+    "Questions: *Tu es sorti hier?* *Est-ce qu'elle est partie?* *Quand est-ce que vous êtes arrivés?*"
+   ]
+  },
+  {
+   "h": "Quebec: chu allé, a l'est partie",
+   "body": [
+    "In speech, *je suis* shrinks to *chu*: *Chu allé au dep.* (I went to the corner store.) *Il est* becomes *y'est*, and *elle est* often becomes *a l'est* (an l slips in): *A l'est partie.* (She left.)",
+    "You may also hear *avoir* with some être verbs in casual Quebec speech (*j'ai tombé*, *j'ai resté*). Recognise it, but use *être*: *je suis tombé*, *je suis resté*."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Je suis allé au cinéma samedi.",
+   "en": "I went to the movies on Saturday."
+  },
+  {
+   "fr": "Elle est arrivée à huit heures.",
+   "en": "She arrived at eight.",
+   "note": "agreement: arrivée"
+  },
+  {
+   "fr": "Mes parents sont partis en Floride.",
+   "en": "My parents left for Florida.",
+   "note": "agreement: partis"
+  },
+  {
+   "fr": "Nous sommes restés à la maison.",
+   "en": "We stayed home."
+  },
+  {
+   "fr": "Je suis né à Toronto.",
+   "en": "I was born in Toronto.",
+   "note": "a woman writes: je suis née"
+  },
+  {
+   "fr": "Il est tombé sur la glace.",
+   "en": "He fell on the ice."
+  },
+  {
+   "fr": "Elles sont sorties avec des amis.",
+   "en": "They went out with friends."
+  },
+  {
+   "fr": "Tu es rentré tard hier soir?",
+   "en": "Did you get home late last night?"
+  },
+  {
+   "fr": "Elle est devenue infirmière.",
+   "en": "She became a nurse."
+  },
+  {
+   "fr": "Je ne suis pas allé au travail lundi.",
+   "en": "I didn't go to work on Monday."
+  },
+  {
+   "fr": "On est montés au chalet en fin de semaine.",
+   "en": "We went up to the cottage on the weekend."
+  },
+  {
+   "fr": "Je me suis levé à six heures.",
+   "en": "I got up at six.",
+   "note": "reflexive → être"
+  },
+  {
+   "fr": "Elle s'est couchée tôt.",
+   "en": "She went to bed early."
+  },
+  {
+   "fr": "Nous ne nous sommes pas réveillés.",
+   "en": "We didn't wake up."
+  },
+  {
+   "fr": "Chu allé au dépanneur.",
+   "en": "I went to the corner store.",
+   "note": "informal Quebec: chu = je suis"
+  },
+  {
+   "fr": "A l'est partie à midi.",
+   "en": "She left at noon.",
+   "note": "informal Quebec: a l'est = elle est"
+  }
+ ],
+ "quebec": {
+  "intro": "With être verbs, Quebec speech shortens the auxiliary: 'chu allé', 'y'est parti', 'a l'est partie'. These are informal but everywhere.",
+  "items": [
+   {
+    "std": "Je suis allé au parc.",
+    "qc": "Chu allé au parc.",
+    "en": "I went to the park.",
+    "note": "chu = je suis, informal"
+   },
+   {
+    "std": "Elle est partie.",
+    "qc": "A l'est partie.",
+    "en": "She left.",
+    "note": "elle est → a l'est, informal"
+   },
+   {
+    "std": "Il est arrivé.",
+    "qc": "Y'est arrivé.",
+    "en": "He arrived.",
+    "note": "il est → y'est"
+   },
+   {
+    "std": "Je suis tombé.",
+    "qc": "J'ai tombé. / Chu tombé.",
+    "en": "I fell.",
+    "note": "j'ai tombé is heard but non-standard: say je suis tombé"
+   },
+   {
+    "std": "Ils sont sortis.",
+    "qc": "Y sont sortis.",
+    "en": "They went out.",
+    "note": "ils → y"
+   },
+   {
+    "std": "Je me suis levé tard.",
+    "qc": "Chu m'levé tard.",
+    "en": "I got up late.",
+    "note": "very informal reduction of je me suis"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Which verb uses être in the passé composé?",
+   "options": [
+    "manger",
+    "arriver",
+    "faire",
+    "prendre"
+   ],
+   "a": 1,
+   "why": "Arriver is a movement verb: je suis arrivé."
+  },
+  {
+   "t": "mcq",
+   "q": "'Elle ___ partie.'",
+   "options": [
+    "a",
+    "est",
+    "ai",
+    "sont"
+   ],
+   "a": 1,
+   "why": "partir uses être: elle est partie."
+  },
+  {
+   "t": "mcq",
+   "q": "Correct agreement: 'Mes sœurs sont ___.'",
+   "options": [
+    "venu",
+    "venue",
+    "venus",
+    "venues"
+   ],
+   "a": 3,
+   "why": "Feminine plural subject: venues."
+  },
+  {
+   "t": "mcq",
+   "q": "'A l'est partie' means…",
+   "options": [
+    "She's to the east",
+    "She left",
+    "She is leaving",
+    "It's gone"
+   ],
+   "a": 1,
+   "why": "Informal Quebec: a l'est = elle est."
+  },
+  {
+   "t": "fill",
+   "q": "Nous ___ restés à la maison.",
+   "a": [
+    "sommes"
+   ],
+   "en": "We stayed home.",
+   "why": "rester uses être: nous sommes."
+  },
+  {
+   "t": "fill",
+   "q": "Il est ___ sur la glace. (tomber)",
+   "a": [
+    "tombé"
+   ],
+   "en": "He fell on the ice.",
+   "why": "tomber → tombé."
+  },
+  {
+   "t": "fill",
+   "q": "Elle est ___ à Québec. (naître)",
+   "a": [
+    "née"
+   ],
+   "en": "She was born in Quebec City.",
+   "why": "né + e for feminine."
+  },
+  {
+   "t": "fill",
+   "q": "Je me ___ levé à six heures.",
+   "a": [
+    "suis"
+   ],
+   "en": "I got up at six.",
+   "why": "Reflexives use être."
+  },
+  {
+   "t": "build",
+   "en": "I didn't go to work.",
+   "a": "Je ne suis pas allé au travail."
+  },
+  {
+   "t": "build",
+   "en": "She went to bed early.",
+   "a": "Elle s'est couchée tôt."
+  },
+  {
+   "t": "build",
+   "en": "My parents left for Florida.",
+   "a": "Mes parents sont partis en Floride."
+  },
+  {
+   "t": "translate",
+   "en": "I went to the movies.",
+   "a": [
+    "Je suis allé au cinéma.",
+    "Je suis allée au cinéma.",
+    "Chu allé au cinéma."
+   ],
+   "why": "aller → être + allé(e)."
+  },
+  {
+   "t": "translate",
+   "en": "They arrived at eight.",
+   "a": [
+    "Ils sont arrivés à huit heures.",
+    "Elles sont arrivées à huit heures.",
+    "Ils sont arrivés à 8 heures.",
+    "Elles sont arrivées à 8 heures."
+   ],
+   "why": "Agreement: arrivés / arrivées."
+  },
+  {
+   "t": "translate",
+   "en": "Did you go out last night?",
+   "a": [
+    "Tu es sorti hier soir?",
+    "Tu es sortie hier soir?",
+    "Vous êtes sortis hier soir?",
+    "Vous êtes sorties hier soir?",
+    "Vous êtes sorti hier soir?",
+    "Vous êtes sortie hier soir?",
+    "Es-tu sorti hier soir?",
+    "Es-tu sortie hier soir?",
+    "Est-ce que tu es sorti hier soir?",
+    "Est-ce que tu es sortie hier soir?",
+    "T'es sorti hier soir?",
+    "T'es sortie hier soir?"
+   ],
+   "why": "sortir → être + sorti(e)(s)."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "aller → allé",
+   "en": "to go → gone",
+   "ex": "Je suis allé à Québec."
+  },
+  {
+   "fr": "venir → venu",
+   "en": "to come → come",
+   "ex": "Elle est venue avec nous."
+  },
+  {
+   "fr": "arriver → arrivé",
+   "en": "to arrive",
+   "ex": "Le train est arrivé."
+  },
+  {
+   "fr": "partir → parti",
+   "en": "to leave",
+   "ex": "Ils sont partis tôt."
+  },
+  {
+   "fr": "entrer → entré",
+   "en": "to enter, to come in",
+   "ex": "Il est entré sans frapper."
+  },
+  {
+   "fr": "sortir → sorti",
+   "en": "to go out",
+   "ex": "On est sortis hier."
+  },
+  {
+   "fr": "monter → monté",
+   "en": "to go up",
+   "ex": "Je suis monté au troisième."
+  },
+  {
+   "fr": "descendre → descendu",
+   "en": "to go down, to get off",
+   "ex": "Elle est descendue à Berri."
+  },
+  {
+   "fr": "rester → resté",
+   "en": "to stay",
+   "ex": "Je suis resté chez moi."
+  },
+  {
+   "fr": "tomber → tombé",
+   "en": "to fall",
+   "ex": "Il est tombé dans l'escalier."
+  },
+  {
+   "fr": "naître → né",
+   "en": "to be born",
+   "ex": "Je suis né en 1990."
+  },
+  {
+   "fr": "mourir → mort",
+   "en": "to die",
+   "ex": "Son chien est mort l'an passé."
+  },
+  {
+   "fr": "rentrer → rentré",
+   "en": "to go / come home",
+   "ex": "Je suis rentré à minuit."
+  },
+  {
+   "fr": "devenir → devenu",
+   "en": "to become",
+   "ex": "Elle est devenue prof."
+  },
+  {
+   "fr": "chu",
+   "en": "I am (informal speech)",
+   "ex": "Chu allé au dep.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "je suis allé",
+    "tip": "zhuh-swee-za-LÉ: liaison in [z]."
+   },
+   {
+    "fr": "elle est arrivée",
+    "tip": "è-lè-ta-ree-VÉ: liaison in [t]."
+   },
+   {
+    "fr": "ils sont partis",
+    "tip": "eel-son-par-TEE: s of ils is silent before s."
+   },
+   {
+    "fr": "je suis né",
+    "tip": "zhuh-swee-NÉ."
+   },
+   {
+    "fr": "chu allé",
+    "tip": "Quebec: shü-a-LÉ."
+   },
+   {
+    "fr": "a l'est partie",
+    "tip": "Quebec: a-lè-par-TSI (with Quebec ts before i)."
+   }
+  ],
+  "title": "Où est Julie?",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Salut! Julie est là?",
+    "en": "Hi! Is Julie there?"
+   },
+   {
+    "s": "B",
+    "fr": "Non, a l'est partie à midi. Elle est allée chez sa mère.",
+    "en": "No, she left at noon. She went to her mother's."
+   },
+   {
+    "s": "A",
+    "fr": "Ah bon? Elle est revenue de Paris quand?",
+    "en": "Oh really? When did she come back from Paris?"
+   },
+   {
+    "s": "B",
+    "fr": "Elle est arrivée dimanche. Mais elle est tombée malade lundi.",
+    "en": "She arrived on Sunday. But she got sick on Monday."
+   },
+   {
+    "s": "A",
+    "fr": "Pauvre elle! Elle est restée au lit?",
+    "en": "Poor thing! Did she stay in bed?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, deux jours. Ce matin, elle s'est levée en forme.",
+    "en": "Yes, two days. This morning, she got up feeling fine."
+   },
+   {
+    "s": "A",
+    "fr": "Tant mieux. Moi, chu passé pour dire bonjour.",
+    "en": "Good. I came by to say hi."
+   }
+  ],
+  "questions": [
+   {
+    "q": "Where did Julie go at noon?",
+    "options": [
+     "To work",
+     "To her mother's",
+     "To Paris"
+    ],
+    "a": 1
+   },
+   {
+    "q": "When did Julie arrive back?",
+    "options": [
+     "Sunday",
+     "Monday",
+     "This morning"
+    ],
+    "a": 0
+   },
+   {
+    "q": "How long did she stay in bed?",
+    "options": [
+     "One day",
+     "Two days",
+     "A week"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Say where and when you were born, and when you came to Quebec.",
+   "model": "Je suis né à Toronto en 1988. Je suis arrivé au Québec il y a trois ans."
+  },
+  {
+   "prompt": "Describe last Saturday with three être verbs.",
+   "model": "Samedi, je suis sorti avec des amis. On est allés au restaurant. Je suis rentré à minuit."
+  },
+  {
+   "prompt": "Say 'She left, and I went to the corner store' standard, then Quebec style.",
+   "model": "Elle est partie, et je suis allé au dépanneur. / A l'est partie, pis chu allé au dep."
+  }
+ ],
+ "write": {
+  "prompt": "Write 6 sentences about a trip or outing, mixing être verbs and avoir verbs in the passé composé.",
+  "model": "Le mois passé, ma femme et moi sommes allés à Québec. Nous sommes partis vendredi matin. Nous sommes arrivés à midi et nous avons mangé au Vieux-Québec. Le soir, nous sommes sortis. Ma femme est tombée sur la glace, mais ça va! Nous sommes rentrés dimanche soir."
+ },
+ "quiz": [
+  {
+   "q": "Which group uses être?",
+   "options": [
+    "manger, boire, voir",
+    "aller, partir, rester",
+    "faire, dire, écrire",
+    "finir, choisir, réussir"
+   ],
+   "a": 1,
+   "why": "Movement and change-of-state verbs use être."
+  },
+  {
+   "q": "With être, the participle agrees with…",
+   "options": [
+    "the object",
+    "the subject",
+    "nothing",
+    "the verb"
+   ],
+   "a": 1,
+   "why": "Elle est partie; ils sont partis."
+  },
+  {
+   "q": "Reflexive verbs in the passé composé use…",
+   "options": [
+    "avoir",
+    "être",
+    "aller",
+    "either"
+   ],
+   "a": 1,
+   "why": "Je me suis levé."
+  },
+  {
+   "q": "'Je suis née' is said by…",
+   "options": [
+    "a man",
+    "a woman",
+    "a group of men",
+    "anyone"
+   ],
+   "a": 1,
+   "why": "Feminine agreement: née."
+  },
+  {
+   "q": "Participle of 'mourir':",
+   "options": [
+    "mouru",
+    "mort",
+    "mouri",
+    "meurt"
+   ],
+   "a": 1,
+   "why": "mourir → mort."
+  },
+  {
+   "q": "'J'ai tombé' is…",
+   "options": [
+    "standard",
+    "heard in casual Quebec speech but non-standard",
+    "the only correct form",
+    "future tense"
+   ],
+   "a": 1,
+   "why": "Standard: je suis tombé."
+  },
+  {
+   "q": "Negative of 'Elle s'est levée':",
+   "options": [
+    "Elle ne s'est pas levée.",
+    "Elle s'est ne pas levée.",
+    "Elle ne s'est levée pas.",
+    "Elle s'ne est pas levée."
+   ],
+   "a": 0,
+   "why": "ne + pronoun + être + pas + participle."
+  },
+  {
+   "q": "'Chu allé' means…",
+   "options": [
+    "I'm going",
+    "I went",
+    "Go away",
+    "You went"
+   ],
+   "a": 1,
+   "why": "Chu = je suis; chu allé = je suis allé."
+  }
+ ]
+}

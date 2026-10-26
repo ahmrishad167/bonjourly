@@ -1,0 +1,659 @@
+{
+ "w": 86,
+ "title": "Subjonctif triggers: wishes, emotion, necessity",
+ "goal": "By the end of this lesson you can use the subjunctive after verbs and expressions of wishing, feeling and necessity, and you know when to use an infinitive instead.",
+ "learn": [
+  {
+   "h": "The big idea: two different subjects",
+   "body": [
+    "The subjunctive appears when the main clause expresses a wish, a feeling or a necessity about someone else's action: *Je veux que tu viennes.* = I want you to come.",
+    "English often uses an infinitive here ('I want you to come'). French cannot: *Je veux toi venir* is impossible. You need *que* + subjunctive.",
+    "When both clauses have the same subject, French uses an infinitive instead: *Je veux venir* (I want to come), not *Je veux que je vienne*."
+   ],
+   "table": {
+    "head": [
+     "Same subject → infinitive",
+     "Different subject → que + subjunctive"
+    ],
+    "rows": [
+     [
+      "Je veux partir.",
+      "Je veux que tu partes."
+     ],
+     [
+      "Elle est contente d'être ici.",
+      "Elle est contente que tu sois ici."
+     ],
+     [
+      "J'ai peur de tomber.",
+      "J'ai peur qu'il tombe."
+     ],
+     [
+      "Il faut partir.",
+      "Il faut que nous partions."
+     ]
+    ]
+   },
+   "tip": "Two subjects + a wish, feeling or need = subjunctive. One subject = infinitive."
+  },
+  {
+   "h": "Wishes and preferences",
+   "body": [
+    "*vouloir que*, *aimer que*, *aimer mieux que*, *préférer que*, *souhaiter que*, *désirer que*, *demander que*, *exiger que*, *tenir à ce que*.",
+    "The conditional softens the request but the subjunctive stays: *J'aimerais que vous m'appeliez.* = I'd like you to call me.",
+    "Watch out: *espérer que* takes the INDICATIVE in the affirmative: *J'espère que tu vas bien.* Hope is treated as a near-certainty."
+   ],
+   "tip": "Souhaiter que → subjunctive; espérer que → indicative."
+  },
+  {
+   "h": "Emotions and judgements",
+   "body": [
+    "Any expression of feeling about someone else's action triggers the subjunctive: *être content / heureux / triste / déçu / surpris / fier que*, *avoir peur que*, *regretter que*, *c'est dommage que*, *ça m'étonne que*.",
+    "After *avoir peur que* and *craindre que*, formal French often adds a *ne* that is not negative (the 'ne explétif'): *J'ai peur qu'il ne pleuve.* It is optional; in speech, people say *J'ai peur qu'il pleuve.*"
+   ],
+   "table": {
+    "head": [
+     "Expression",
+     "Example"
+    ],
+    "rows": [
+     [
+      "être content(e) que",
+      "Je suis contente que tu sois là."
+     ],
+     [
+      "être déçu(e) que",
+      "Il est déçu que nous ne venions pas."
+     ],
+     [
+      "avoir peur que",
+      "J'ai peur qu'il fasse froid."
+     ],
+     [
+      "regretter que",
+      "Je regrette que vous partiez."
+     ],
+     [
+      "c'est dommage que",
+      "C'est dommage qu'elle soit malade."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Necessity and importance",
+   "body": [
+    "Impersonal expressions of need or evaluation take the subjunctive: *il faut que*, *il est nécessaire que*, *il est important que*, *il est essentiel que*, *il vaut mieux que*, *il est normal que*, *il est temps que*.",
+    "In speech, *il est* often becomes *c'est*: *C'est important que tu dormes.*",
+    "With no specific person, use the infinitive: *Il est important de dormir.*"
+   ]
+  },
+  {
+   "h": "Quebec: the same rules, shorter words",
+   "body": [
+    "Quebec speakers use these triggers exactly like everyone else; only the pronunciation shrinks: *J'veux que tu viennes*, *Chu content que tu sois là*.",
+    "Two typical Quebec turns: *J'aimerais ça que…* (I'd really like it if…), and *C'est plate que…* (it's too bad that…), where *plate* is informal Quebec for boring or a shame. Both take the subjunctive."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Je veux que tu viennes à ma fête.",
+   "en": "I want you to come to my party.",
+   "note": "two subjects: je / tu → subjunctive"
+  },
+  {
+   "fr": "Je veux venir à ta fête.",
+   "en": "I want to come to your party.",
+   "note": "same subject → infinitive"
+  },
+  {
+   "fr": "Mes parents préfèrent que je prenne l'autobus.",
+   "en": "My parents prefer that I take the bus.",
+   "note": "preference → subjunctive"
+  },
+  {
+   "fr": "J'aimerais que vous m'envoyiez le document.",
+   "en": "I'd like you to send me the document.",
+   "note": "conditional + subjunctive: a polite request"
+  },
+  {
+   "fr": "Je souhaite que tout aille bien pour toi.",
+   "en": "I hope everything goes well for you.",
+   "note": "souhaiter que → subjunctive (aille)"
+  },
+  {
+   "fr": "J'espère que tout va bien.",
+   "en": "I hope everything is going well.",
+   "note": "espérer que → indicative"
+  },
+  {
+   "fr": "Je suis contente que tu sois là.",
+   "en": "I'm glad you're here.",
+   "note": "emotion → subjunctive"
+  },
+  {
+   "fr": "Il est déçu que nous ne puissions pas venir.",
+   "en": "He's disappointed that we can't come.",
+   "note": "pouvoir → puissions"
+  },
+  {
+   "fr": "J'ai peur qu'il fasse trop froid demain.",
+   "en": "I'm afraid it'll be too cold tomorrow.",
+   "note": "the subjunctive also covers future meaning"
+  },
+  {
+   "fr": "C'est dommage que tu partes déjà.",
+   "en": "It's a shame you're already leaving.",
+   "note": "judgement → subjunctive"
+  },
+  {
+   "fr": "Ça m'étonne qu'elle ne soit pas encore arrivée.",
+   "en": "I'm surprised she hasn't arrived yet.",
+   "note": "past subjunctive: soit arrivée (preview)"
+  },
+  {
+   "fr": "Il est important que vous lisiez le contrat.",
+   "en": "It's important that you read the contract.",
+   "note": "lire → ils lisent → lisiez"
+  },
+  {
+   "fr": "Il vaut mieux qu'on parte tôt.",
+   "en": "It's better if we leave early.",
+   "note": "il vaut mieux que → subjunctive"
+  },
+  {
+   "fr": "Il est temps que tu fasses tes devoirs.",
+   "en": "It's time you did your homework.",
+   "note": "il est temps que → subjunctive"
+  },
+  {
+   "fr": "Mon patron exige que nous soyons à l'heure.",
+   "en": "My boss demands that we be on time.",
+   "note": "exiger que → subjunctive"
+  },
+  {
+   "fr": "Il est important de bien dormir.",
+   "en": "It's important to sleep well.",
+   "note": "general statement, no specific subject → infinitive"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebec French uses the subjunctive after wishes and feelings just like standard French, but squeezes the pronouns: 'J'veux que tu viennes', 'Chu content que tu sois là'. Add 'aimer ça que' and 'c'est plate que' to your recognition list.",
+  "items": [
+   {
+    "std": "Je veux que tu viennes.",
+    "qc": "J'veux que tu viennes.",
+    "en": "I want you to come.",
+    "note": "informal pronunciation; the subjunctive stays"
+   },
+   {
+    "std": "Je suis content que tu sois là.",
+    "qc": "Chu content que tu soyes là.",
+    "en": "I'm glad you're here.",
+    "note": "chu = je suis; soyes is a non-standard form of sois"
+   },
+   {
+    "std": "J'aimerais que tu m'appelles.",
+    "qc": "J'aimerais ça que tu m'appelles.",
+    "en": "I'd really like you to call me.",
+    "note": "aimer ça que: very common Quebec turn, informal"
+   },
+   {
+    "std": "C'est dommage que tu partes.",
+    "qc": "C'est plate que tu partes.",
+    "en": "Too bad you're leaving.",
+    "note": "plate = boring / a shame, informal Quebec"
+   },
+   {
+    "std": "J'ai peur qu'il pleuve.",
+    "qc": "J'ai peur qu'y mouille.",
+    "en": "I'm afraid it'll rain.",
+    "note": "mouiller = to rain, informal Quebec; y = il"
+   },
+   {
+    "std": "Il faut que tu me le dises.",
+    "qc": "Faut que tu me l'dises.",
+    "en": "You have to tell me.",
+    "note": "il dropped in casual speech"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Je veux ___ demain.",
+   "options": [
+    "que je parte",
+    "partir",
+    "que je pars",
+    "partirais"
+   ],
+   "a": 1,
+   "why": "Same subject (je… je) → infinitive."
+  },
+  {
+   "t": "mcq",
+   "q": "J'espère que tu ___ bien.",
+   "options": [
+    "ailles",
+    "vas",
+    "aille",
+    "alles"
+   ],
+   "a": 1,
+   "why": "Espérer que takes the indicative."
+  },
+  {
+   "t": "mcq",
+   "q": "Which expression does NOT trigger the subjunctive?",
+   "options": [
+    "Je souhaite que",
+    "Il faut que",
+    "Je pense que",
+    "Je regrette que"
+   ],
+   "a": 2,
+   "why": "Penser que (affirmative) states an opinion and takes the indicative."
+  },
+  {
+   "t": "mcq",
+   "q": "In 'J'ai peur qu'il ne pleuve', the word 'ne'…",
+   "options": [
+    "makes the sentence negative",
+    "is optional and not negative",
+    "is a mistake",
+    "means 'only'"
+   ],
+   "a": 1,
+   "why": "It is the formal 'ne explétif'; the meaning is 'I'm afraid it will rain'."
+  },
+  {
+   "t": "fill",
+   "q": "Je suis contente que tu ___ là. (être)",
+   "a": [
+    "sois"
+   ],
+   "en": "I'm glad you're here.",
+   "why": "Emotion + different subject → subjunctive."
+  },
+  {
+   "t": "fill",
+   "q": "Mes parents veulent que je ___ médecin. (devenir)",
+   "a": [
+    "devienne"
+   ],
+   "en": "My parents want me to become a doctor.",
+   "why": "ils deviennent → que je devienne."
+  },
+  {
+   "t": "fill",
+   "q": "Il vaut mieux que vous ___ un taxi. (prendre)",
+   "a": [
+    "preniez"
+   ],
+   "en": "You'd better take a taxi.",
+   "why": "vous uses the nous stem: prenions → preniez."
+  },
+  {
+   "t": "fill",
+   "q": "C'est dommage qu'il ne ___ pas venir. (pouvoir)",
+   "a": [
+    "puisse"
+   ],
+   "en": "It's a shame he can't come.",
+   "why": "Pouvoir → qu'il puisse."
+  },
+  {
+   "t": "fill",
+   "q": "Il est temps que tu ___ tes devoirs. (faire)",
+   "a": [
+    "fasses"
+   ],
+   "en": "It's time you did your homework.",
+   "why": "Faire → que tu fasses."
+  },
+  {
+   "t": "build",
+   "en": "I want you to come to my party.",
+   "a": "Je veux que tu viennes à ma fête."
+  },
+  {
+   "t": "build",
+   "en": "It's important that you read the contract.",
+   "a": "Il est important que vous lisiez le contrat."
+  },
+  {
+   "t": "build",
+   "en": "I'm afraid it will be cold.",
+   "a": "J'ai peur qu'il fasse froid."
+  },
+  {
+   "t": "translate",
+   "en": "I'm happy you're here.",
+   "a": [
+    "Je suis content que tu sois là.",
+    "Je suis contente que tu sois là.",
+    "Je suis content que vous soyez là.",
+    "Je suis contente que vous soyez là.",
+    "Je suis heureux que tu sois là.",
+    "Je suis heureuse que tu sois là.",
+    "Je suis heureux que vous soyez là.",
+    "Je suis heureuse que vous soyez là.",
+    "Je suis content que tu sois ici.",
+    "Je suis contente que tu sois ici."
+   ],
+   "why": "Emotion + different subject → subjunctive of être."
+  },
+  {
+   "t": "translate",
+   "en": "She wants us to leave.",
+   "a": [
+    "Elle veut que nous partions.",
+    "Elle veut qu'on parte.",
+    "Elle veut que nous nous en allions.",
+    "Elle veut qu'on s'en aille."
+   ],
+   "why": "vouloir que + subjunctive."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "souhaiter que",
+   "en": "to wish that",
+   "ex": "Je souhaite que tu réussisses."
+  },
+  {
+   "fr": "exiger que",
+   "en": "to demand that",
+   "ex": "Il exige que tout soit prêt."
+  },
+  {
+   "fr": "tenir à ce que",
+   "en": "to insist that",
+   "ex": "Je tiens à ce que vous veniez."
+  },
+  {
+   "fr": "regretter que",
+   "en": "to be sorry that",
+   "ex": "Je regrette que tu partes."
+  },
+  {
+   "fr": "avoir peur que",
+   "en": "to be afraid that",
+   "ex": "J'ai peur qu'il soit en retard."
+  },
+  {
+   "fr": "c'est dommage que",
+   "en": "it's a shame that",
+   "ex": "C'est dommage qu'il pleuve."
+  },
+  {
+   "fr": "il vaut mieux que",
+   "en": "it's better that, (someone) had better",
+   "ex": "Il vaut mieux que tu restes."
+  },
+  {
+   "fr": "il est temps que",
+   "en": "it's time that",
+   "ex": "Il est temps qu'on y aille."
+  },
+  {
+   "fr": "déçu / déçue",
+   "en": "disappointed",
+   "ex": "Je suis déçu que tu ne viennes pas."
+  },
+  {
+   "fr": "fier / fière",
+   "en": "proud",
+   "ex": "Elle est fière que son fils réussisse."
+  },
+  {
+   "fr": "étonner",
+   "en": "to surprise",
+   "ex": "Ça m'étonne qu'il soit absent."
+  },
+  {
+   "fr": "espérer que",
+   "en": "to hope that (+ indicative)",
+   "ex": "J'espère qu'il va venir."
+  },
+  {
+   "fr": "plate",
+   "en": "boring; too bad",
+   "ex": "C'est plate que tu partes.",
+   "qc": true
+  },
+  {
+   "fr": "mouiller",
+   "en": "to rain (informal)",
+   "ex": "Y mouille depuis à matin.",
+   "qc": true
+  },
+  {
+   "fr": "le contrat",
+   "en": "contract",
+   "g": "m",
+   "ex": "Il faut que vous lisiez le contrat."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "que tu viennes",
+    "tip": "vyèn: the double n makes the vowel oral, not nasal."
+   },
+   {
+    "fr": "que nous venions",
+    "tip": "vuh-NYON: the stem goes back to ven-."
+   },
+   {
+    "fr": "qu'il puisse",
+    "tip": "PWEESS: ui glides quickly."
+   },
+   {
+    "fr": "J'veux que tu viennes",
+    "tip": "Quebec casual: zhveu-kuh-tsu-VYÈN, with the Quebec ts in tu."
+   },
+   {
+    "fr": "Chu content",
+    "tip": "chu = je suis: shu-con-TAN."
+   },
+   {
+    "fr": "J'aimerais ça",
+    "tip": "zhèm-RÈ-sa: the ça carries stress."
+   }
+  ],
+  "title": "Une invitation au chalet",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "On loue un chalet dans les Laurentides en février. J'aimerais que tu viennes.",
+    "en": "We're renting a cottage in the Laurentians in February. I'd like you to come."
+   },
+   {
+    "s": "B",
+    "fr": "C'est gentil! Mais j'ai peur qu'il fasse trop froid pour moi.",
+    "en": "That's nice! But I'm afraid it'll be too cold for me."
+   },
+   {
+    "s": "A",
+    "fr": "Il y a un foyer. Et il faut absolument que tu essaies la raquette.",
+    "en": "There's a fireplace. And you absolutely have to try snowshoeing."
+   },
+   {
+    "s": "B",
+    "fr": "D'accord. Est-ce que Julie vient aussi?",
+    "en": "OK. Is Julie coming too?"
+   },
+   {
+    "s": "A",
+    "fr": "Non, c'est dommage qu'elle ne puisse pas venir. Elle travaille.",
+    "en": "No, it's a shame she can't come. She's working."
+   },
+   {
+    "s": "B",
+    "fr": "Je souhaite qu'elle ait des vacances bientôt.",
+    "en": "I hope she gets a vacation soon."
+   },
+   {
+    "s": "A",
+    "fr": "Moi aussi. Il vaut mieux qu'on réserve cette semaine.",
+    "en": "Me too. We'd better book this week."
+   },
+   {
+    "s": "B",
+    "fr": "Parfait. Chu contente que tu m'invites!",
+    "en": "Perfect. I'm glad you're inviting me!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "What is B worried about?",
+    "options": [
+     "The price",
+     "The cold",
+     "The drive"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Why can't Julie come?",
+    "options": [
+     "She's sick",
+     "She's working",
+     "She's travelling"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What do they decide to do this lesson?",
+    "options": [
+     "Buy snowshoes",
+     "Book",
+     "Call Julie"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Tell a friend three things you want them to do, each with 'Je veux que tu…' or 'J'aimerais que tu…'.",
+   "model": "Je veux que tu viennes souper samedi. J'aimerais que tu apportes ta guitare. Et je veux que tu restes tard!"
+  },
+  {
+   "prompt": "Express two feelings about other people's actions (glad, disappointed, afraid).",
+   "model": "Je suis content que ma sœur vienne me voir. J'ai peur qu'elle soit fatiguée après le voyage."
+  },
+  {
+   "prompt": "Contrast: say 'I want to leave' and 'I want you to leave'.",
+   "model": "Je veux partir. / Je veux que tu partes."
+  }
+ ],
+ "write": {
+  "prompt": "Write a short message (5–6 sentences) to a colleague who is leaving the company. Express your feelings and wishes using at least four subjunctive triggers.",
+  "model": "Salut Marc, je suis triste que tu partes, mais je suis content que tu aies trouvé un poste qui te plaît. C'est dommage qu'on ne puisse plus dîner ensemble le vendredi. Je souhaite que tout aille bien dans ta nouvelle équipe. Il faut absolument que tu viennes nous voir de temps en temps. Bonne chance!"
+ },
+ "quiz": [
+  {
+   "q": "Which sentence is correct?",
+   "options": [
+    "Je veux que je parte.",
+    "Je veux partir.",
+    "Je veux toi partir.",
+    "Je veux que tu pars."
+   ],
+   "a": 1,
+   "why": "Same subject → infinitive."
+  },
+  {
+   "q": "J'aimerais que vous ___ plus tôt.",
+   "options": [
+    "venez",
+    "veniez",
+    "viendrez",
+    "viennez"
+   ],
+   "a": 1,
+   "why": "Wish + different subject → subjunctive: veniez."
+  },
+  {
+   "q": "Which trigger takes the indicative?",
+   "options": [
+    "souhaiter que",
+    "espérer que",
+    "vouloir que",
+    "préférer que"
+   ],
+   "a": 1,
+   "why": "Espérer que + indicative."
+  },
+  {
+   "q": "Il est déçu que nous ___ en retard.",
+   "options": [
+    "sommes",
+    "soyons",
+    "serons",
+    "soyions"
+   ],
+   "a": 1,
+   "why": "Emotion → subjunctive: soyons."
+  },
+  {
+   "q": "'C'est plate que tu partes' means…",
+   "options": [
+    "It's flat that you're leaving",
+    "Too bad you're leaving",
+    "You're leaving on a plate",
+    "It's easy for you to leave"
+   ],
+   "a": 1,
+   "why": "Plate = boring / a shame in informal Quebec French."
+  },
+  {
+   "q": "Il est important ___ beaucoup d'eau.",
+   "options": [
+    "que boire",
+    "de boire",
+    "qu'on boit",
+    "boire"
+   ],
+   "a": 1,
+   "why": "General statement with no specific subject → il est important de + infinitive."
+  },
+  {
+   "q": "'J'veux que tu viennes' is…",
+   "options": [
+    "a grammar error",
+    "standard grammar with casual Quebec pronunciation",
+    "a France-only form",
+    "the future tense"
+   ],
+   "a": 1,
+   "why": "Only je is shortened; the subjunctive viennes is standard."
+  },
+  {
+   "q": "Il faut que tu ___ la vérité.",
+   "options": [
+    "dis",
+    "dises",
+    "dirais",
+    "disais"
+   ],
+   "a": 1,
+   "why": "Dire: ils disent → que tu dises."
+  },
+  {
+   "q": "Which expresses emotion?",
+   "options": [
+    "il faut que",
+    "il vaut mieux que",
+    "ça m'étonne que",
+    "il est nécessaire que"
+   ],
+   "a": 2,
+   "why": "Ça m'étonne que = it surprises me that."
+  }
+ ]
+}

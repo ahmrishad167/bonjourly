@@ -1,0 +1,633 @@
+{
+ "w": 118,
+ "title": "Formal letters and complaints",
+ "goal": "By the end of this lesson you can write a formal letter or email in French: lay it out correctly, state a problem, make a clear request with a deadline, and close with the right formula, for example to a landlord or a service provider in Quebec.",
+ "learn": [
+  {
+   "h": "The layout of a formal letter",
+   "body": [
+    "A French formal letter follows a fixed order: your contact details, the recipient's, the place and date (*Montréal, le 12 novembre 2026*), the subject line (*Objet : Réparation du chauffage*), the salutation, the body, the closing formula and your signature.",
+    "Salutation: *Madame,* / *Monsieur,* / *Madame, Monsieur,* if you don't know who will read it. Never *Cher Monsieur* to a stranger in a complaint, and never just *Bonjour* in a formal letter (fine in an ordinary email)."
+   ],
+   "table": {
+    "head": [
+     "Part",
+     "Example"
+    ],
+    "rows": [
+     [
+      "Lieu et date",
+      "Montréal, le 12 novembre 2026"
+     ],
+     [
+      "Objet",
+      "Objet : Infiltration d'eau dans le logement 4"
+     ],
+     [
+      "Appel",
+      "Madame, Monsieur,"
+     ],
+     [
+      "Introduction",
+      "Je me permets de vous écrire au sujet de…"
+     ],
+     [
+      "Formule finale",
+      "Veuillez agréer, Madame, Monsieur, mes salutations distinguées."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Stating the problem: facts first",
+   "body": [
+    "A good complaint is factual and dated. Use the passé composé for events and the imparfait for ongoing situations: *Depuis le 3 novembre, le chauffage ne fonctionne plus.* *Le 5 novembre, j'ai appelé votre bureau.*",
+    "Key phrases: *Je tiens à vous signaler que…* (I wish to inform you that…), *Malgré mes nombreux appels…* (Despite my many calls…), *À ce jour, aucune réparation n'a été effectuée.* (To date, no repair has been made.)"
+   ]
+  },
+  {
+   "h": "Making a request firmly but politely",
+   "body": [
+    "Use the conditional or *je vous prie de* for politeness, and give a deadline: *Je vous prie de faire effectuer les réparations d'ici le 20 novembre.* *Je souhaiterais que vous me remboursiez les frais.* (subjunctive after *souhaiter que*)",
+    "To show you are serious: *À défaut de quoi, je me verrai dans l'obligation de…* (Failing that, I will be obliged to…) In Quebec, a tenant can apply to the *Tribunal administratif du logement* (TAL); a consumer can contact the *Office de la protection du consommateur* (OPC). The strongest step before going to court is a *mise en demeure* (formal notice)."
+   ],
+   "tip": "Polite + precise + dated = effective. Never insult; let the facts do the work."
+  },
+  {
+   "h": "Closing formulas",
+   "body": [
+    "Classic: *Veuillez agréer, Madame, Monsieur, l'expression de mes salutations distinguées.* Slightly lighter, very common in Quebec: *Recevez, Madame, mes salutations distinguées.* or *Je vous prie d'agréer, Monsieur, mes meilleures salutations.*",
+    "Before the formula, a thank-you line works well: *En vous remerciant à l'avance de votre attention, …* or *Dans l'attente d'une réponse rapide, …*. In emails, *Cordialement* is acceptable."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Montréal, le 12 novembre 2026",
+   "en": "Montreal, November 12, 2026",
+   "note": "place and date, le + day + month in lowercase"
+  },
+  {
+   "fr": "Objet : Panne de chauffage dans l'appartement 4",
+   "en": "Re: Heating breakdown in apartment 4",
+   "note": "space before the colon in French typography"
+  },
+  {
+   "fr": "Madame, Monsieur,",
+   "en": "Dear Sir or Madam,",
+   "note": "when you don't know the recipient"
+  },
+  {
+   "fr": "Je me permets de vous écrire au sujet du chauffage de mon logement.",
+   "en": "I am writing to you about the heating in my apartment.",
+   "note": "formal opening"
+  },
+  {
+   "fr": "Je tiens à vous signaler une infiltration d'eau dans la salle de bain.",
+   "en": "I wish to inform you of a water leak in the bathroom.",
+   "note": "tenir à = to be keen to"
+  },
+  {
+   "fr": "Depuis le 3 novembre, le chauffage ne fonctionne plus.",
+   "en": "Since November 3, the heating hasn't worked.",
+   "note": "depuis + present for an ongoing problem"
+  },
+  {
+   "fr": "Malgré mes nombreux appels, personne n'est venu.",
+   "en": "Despite my many calls, nobody came.",
+   "note": "malgré + noun"
+  },
+  {
+   "fr": "À ce jour, aucune réparation n'a été effectuée.",
+   "en": "To date, no repair has been made.",
+   "note": "aucune… ne + passive"
+  },
+  {
+   "fr": "Je vous prie de faire effectuer les réparations d'ici le 20 novembre.",
+   "en": "Please have the repairs done by November 20.",
+   "note": "causative faire + deadline"
+  },
+  {
+   "fr": "Je souhaiterais que vous me remboursiez les frais de 85 $.",
+   "en": "I would like you to reimburse me the $85 fee.",
+   "note": "souhaiter que + subjunctive"
+  },
+  {
+   "fr": "Vous trouverez ci-joint une copie de ma facture.",
+   "en": "Please find enclosed a copy of my bill.",
+   "note": "ci-joint for attachments and enclosures"
+  },
+  {
+   "fr": "À défaut de quoi, je me verrai dans l'obligation de m'adresser au Tribunal administratif du logement.",
+   "en": "Failing that, I will be obliged to apply to the Housing Tribunal.",
+   "note": "a firm but polite warning"
+  },
+  {
+   "fr": "J'ai été facturé deux fois pour le même mois de service.",
+   "en": "I was billed twice for the same month of service.",
+   "note": "complaint to a service provider"
+  },
+  {
+   "fr": "En vous remerciant à l'avance de votre attention, je vous prie d'agréer, Madame, mes salutations distinguées.",
+   "en": "Thanking you in advance for your attention, yours sincerely.",
+   "note": "a complete closing"
+  },
+  {
+   "fr": "Dans l'attente d'une réponse rapide, recevez, Monsieur, mes salutations distinguées.",
+   "en": "Awaiting a prompt reply, yours sincerely.",
+   "note": "common Quebec closing"
+  }
+ ],
+ "quebec": {
+  "intro": "Writing to a landlord or a service provider in Quebec uses a specific vocabulary: le bail, le locateur, le logement, le TAL, la mise en demeure. In speech, people say it very differently, so here are both versions.",
+  "items": [
+   {
+    "std": "Le locateur refuse d'effectuer les réparations.",
+    "qc": "Mon proprio veut pas faire les réparations.",
+    "en": "My landlord won't do the repairs.",
+    "note": "proprio = propriétaire, informal; locateur is the legal term in Quebec"
+   },
+   {
+    "std": "J'habite un logement de cinq pièces et demie.",
+    "qc": "J'reste dans un 5 et demi.",
+    "en": "I live in a 5½ (two-bedroom) apartment.",
+    "note": "rester = habiter (Quebec usage); Quebec counts rooms, the bathroom is the half"
+   },
+   {
+    "std": "Je vais m'adresser au Tribunal administratif du logement.",
+    "qc": "J'vas aller à la Régie.",
+    "en": "I'm going to the housing tribunal.",
+    "note": "people still say la Régie (du logement), the name before 2020"
+   },
+   {
+    "std": "Je vous transmets une mise en demeure.",
+    "qc": "J'y ai envoyé une mise en demeure.",
+    "en": "I sent him a formal notice.",
+    "note": "j'y = je lui in casual speech"
+   },
+   {
+    "std": "Mon bail se termine le 30 juin.",
+    "qc": "Mon bail finit le 30 juin.",
+    "en": "My lease ends June 30.",
+    "note": "most Quebec leases run July 1 to June 30"
+   },
+   {
+    "std": "Ils m'ont facturé en double.",
+    "qc": "Y m'ont chargé deux fois.",
+    "en": "They charged me twice.",
+    "note": "charger = to charge (money) is an anglicism; standard is facturer / débiter"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Which salutation fits a complaint to an unknown recipient?",
+   "options": [
+    "Salut,",
+    "Cher ami,",
+    "Madame, Monsieur,",
+    "Bonjour à tous,"
+   ],
+   "a": 2,
+   "why": "The neutral formal salutation."
+  },
+  {
+   "t": "mcq",
+   "q": "Je souhaiterais que vous me ___ les frais.",
+   "options": [
+    "remboursez",
+    "remboursiez",
+    "rembourserez",
+    "rembourser"
+   ],
+   "a": 1,
+   "why": "Souhaiter que + subjunctive."
+  },
+  {
+   "t": "mcq",
+   "q": "'À défaut de quoi' means…",
+   "options": [
+    "Because of that",
+    "Failing that / otherwise",
+    "For that reason",
+    "Despite that"
+   ],
+   "a": 1,
+   "why": "Introduces the consequence if the request isn't met."
+  },
+  {
+   "t": "mcq",
+   "q": "In Quebec, who rules on landlord–tenant disputes?",
+   "options": [
+    "L'OQLF",
+    "Le Tribunal administratif du logement",
+    "Hydro-Québec",
+    "La SAQ"
+   ],
+   "a": 1,
+   "why": "The TAL, formerly the Régie du logement."
+  },
+  {
+   "t": "fill",
+   "q": "___ mes nombreux appels, personne n'est venu. (despite)",
+   "a": [
+    "Malgré"
+   ],
+   "en": "Despite my many calls, nobody came.",
+   "why": "Malgré + noun."
+  },
+  {
+   "t": "fill",
+   "q": "Je ___ à vous signaler un problème. (tenir)",
+   "a": [
+    "tiens"
+   ],
+   "en": "I wish to inform you of a problem.",
+   "why": "Tenir à = to be keen to."
+  },
+  {
+   "t": "fill",
+   "q": "Vous trouverez ___ une copie de la facture. (attached)",
+   "a": [
+    "ci-joint"
+   ],
+   "en": "Please find attached a copy of the bill.",
+   "why": "Ci-joint is invariable before the noun it introduces here."
+  },
+  {
+   "t": "fill",
+   "q": "Veuillez ___, Madame, mes salutations distinguées. (accept)",
+   "a": [
+    "agréer"
+   ],
+   "en": "Yours sincerely, Madam.",
+   "why": "Veuillez agréer… is the classic formula."
+  },
+  {
+   "t": "build",
+   "en": "Since Monday, the heating hasn't worked.",
+   "a": "Depuis lundi, le chauffage ne fonctionne plus."
+  },
+  {
+   "t": "build",
+   "en": "Please do the repairs by Friday.",
+   "a": "Je vous prie d'effectuer les réparations d'ici vendredi."
+  },
+  {
+   "t": "build",
+   "en": "I was billed twice.",
+   "a": "J'ai été facturé deux fois."
+  },
+  {
+   "t": "translate",
+   "en": "To date, nobody has called me back.",
+   "a": [
+    "À ce jour, personne ne m'a rappelé.",
+    "À ce jour, personne ne m'a rappelée.",
+    "Jusqu'à maintenant, personne ne m'a rappelé.",
+    "Jusqu'à maintenant, personne ne m'a rappelée."
+   ],
+   "why": "Personne ne + passé composé."
+  },
+  {
+   "t": "translate",
+   "en": "My lease ends on June 30.",
+   "a": [
+    "Mon bail se termine le 30 juin.",
+    "Mon bail finit le 30 juin.",
+    "Mon bail prend fin le 30 juin."
+   ],
+   "why": "Le bail = lease."
+  },
+  {
+   "t": "translate",
+   "en": "I am writing about my bill.",
+   "a": [
+    "Je vous écris au sujet de ma facture.",
+    "Je me permets de vous écrire au sujet de ma facture.",
+    "Je vous écris concernant ma facture.",
+    "Je vous écris à propos de ma facture."
+   ],
+   "why": "Au sujet de / concernant."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "le bail",
+   "en": "lease",
+   "g": "m",
+   "ex": "J'ai signé un bail d'un an."
+  },
+  {
+   "fr": "le locateur / la locatrice",
+   "en": "landlord (legal term)",
+   "ex": "Le locateur doit faire les réparations.",
+   "qc": true
+  },
+  {
+   "fr": "le / la locataire",
+   "en": "tenant",
+   "ex": "Les locataires se sont plaints."
+  },
+  {
+   "fr": "le logement",
+   "en": "dwelling, apartment",
+   "g": "m",
+   "ex": "Je cherche un logement près du métro."
+  },
+  {
+   "fr": "la plainte",
+   "en": "complaint",
+   "g": "f",
+   "ex": "J'ai déposé une plainte."
+  },
+  {
+   "fr": "se plaindre de",
+   "en": "to complain about",
+   "ex": "Il se plaint du bruit."
+  },
+  {
+   "fr": "la facture",
+   "en": "bill, invoice",
+   "g": "f",
+   "ex": "La facture est trop élevée."
+  },
+  {
+   "fr": "rembourser",
+   "en": "to reimburse, to refund",
+   "ex": "Ils m'ont remboursé 50 $."
+  },
+  {
+   "fr": "la mise en demeure",
+   "en": "formal notice (legal demand letter)",
+   "g": "f",
+   "ex": "J'ai envoyé une mise en demeure."
+  },
+  {
+   "fr": "l'infiltration d'eau",
+   "en": "water leak",
+   "g": "f",
+   "ex": "Il y a une infiltration d'eau au plafond."
+  },
+  {
+   "fr": "effectuer",
+   "en": "to carry out, to perform",
+   "ex": "Les travaux seront effectués lundi."
+  },
+  {
+   "fr": "l'objet",
+   "en": "subject (of a letter)",
+   "g": "m",
+   "ex": "Objet : Demande de remboursement"
+  },
+  {
+   "fr": "ci-joint",
+   "en": "attached, enclosed",
+   "ex": "Ci-joint, mon CV."
+  },
+  {
+   "fr": "le délai",
+   "en": "time limit, deadline; delay",
+   "g": "m",
+   "ex": "Vous avez un délai de dix jours."
+  },
+  {
+   "fr": "le proprio",
+   "en": "landlord, owner (informal)",
+   "g": "m",
+   "ex": "Mon proprio est super correct.",
+   "qc": true
+  },
+  {
+   "fr": "le cinq et demi",
+   "en": "5½ apartment (2 bedrooms)",
+   "g": "m",
+   "ex": "On cherche un cinq et demi sur le Plateau.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "le bail",
+    "tip": "luh BAÏ: ail sounds like 'eye'."
+   },
+   {
+    "fr": "veuillez agréer",
+    "tip": "veu-yé-za-gré-É: liaison in [z]."
+   },
+   {
+    "fr": "la mise en demeure",
+    "tip": "la mi-zan-duh-MEUR: liaison in [z]."
+   },
+   {
+    "fr": "salutations distinguées",
+    "tip": "sa-lu-ta-SYON dis-tin-GÉ: the u after g is silent."
+   },
+   {
+    "fr": "malgré",
+    "tip": "mal-GRÉ."
+   },
+   {
+    "fr": "infiltration",
+    "tip": "in-fil-tra-SYON."
+   }
+  ],
+  "title": "Le chauffage en panne",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "T'as l'air gelé! Qu'est-ce qui se passe?",
+    "en": "You look frozen! What's going on?"
+   },
+   {
+    "s": "B",
+    "fr": "Mon chauffage est en panne depuis une semaine. J'ai appelé mon proprio quatre fois.",
+    "en": "My heating's been broken for a week. I've called my landlord four times."
+   },
+   {
+    "s": "A",
+    "fr": "Pis? Il a rien fait?",
+    "en": "And? He did nothing?"
+   },
+   {
+    "s": "B",
+    "fr": "Rien. Il dit qu'il va envoyer quelqu'un, mais personne n'est venu.",
+    "en": "Nothing. He says he'll send someone, but nobody came."
+   },
+   {
+    "s": "A",
+    "fr": "Il faut lui écrire. Une lettre, avec les dates de tes appels.",
+    "en": "You have to write to him. A letter, with the dates of your calls."
+   },
+   {
+    "s": "B",
+    "fr": "Une mise en demeure?",
+    "en": "A formal notice?"
+   },
+   {
+    "s": "A",
+    "fr": "D'abord une lettre polie avec un délai, disons cinq jours. S'il ne fait rien, la mise en demeure, pis le Tribunal.",
+    "en": "First a polite letter with a deadline, say five days. If he does nothing, the formal notice, then the Tribunal."
+   },
+   {
+    "s": "B",
+    "fr": "Bonne idée. Je l'écris ce soir et je garde une copie.",
+    "en": "Good idea. I'll write it tonight and keep a copy."
+   }
+  ],
+  "questions": [
+   {
+    "q": "How long has B's heating been broken?",
+    "options": [
+     "Two days",
+     "A week",
+     "A month"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does A advise first?",
+    "options": [
+     "Go straight to the Tribunal",
+     "A polite letter with a deadline",
+     "Stop paying rent"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What will B keep?",
+    "options": [
+     "The receipts",
+     "A copy of the letter",
+     "The landlord's keys"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Call a service provider (Internet, phone) and explain a billing problem politely.",
+   "model": "Bonjour, j'appelle au sujet de ma facture d'octobre. J'ai été facturé deux fois pour le même mois. Pourriez-vous corriger l'erreur et me rembourser, s'il vous plaît?"
+  },
+  {
+   "prompt": "Explain your housing problem to a friend, casually.",
+   "model": "Mon proprio veut pas réparer la toilette. Ça fait trois semaines! J'vas y envoyer une lettre."
+  },
+  {
+   "prompt": "Read aloud a full closing formula.",
+   "model": "En vous remerciant à l'avance de votre attention, je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées."
+  },
+  {
+   "prompt": "Make a firm request with a deadline and a consequence.",
+   "model": "Je vous demande d'effectuer les réparations d'ici le 25 novembre. À défaut de quoi, je m'adresserai au Tribunal administratif du logement."
+  }
+ ],
+ "write": {
+  "prompt": "Write a formal complaint letter (10–14 lines) to your landlord about a problem in your apartment (heating, leak, mould, noise). Include the layout, dated facts, a request with a deadline, a consequence, and a closing formula.",
+  "model": "Montréal, le 12 novembre 2026\n\nObjet : Panne de chauffage, logement 4\n\nMonsieur,\n\nJe me permets de vous écrire au sujet du chauffage de mon logement, situé au 1234, rue Fullum. Depuis le 3 novembre, les plinthes électriques de la chambre et du salon ne fonctionnent plus. Je vous ai téléphoné le 4, le 6 et le 9 novembre. Malgré ces appels, aucune réparation n'a été effectuée à ce jour, et la température dans le logement descend sous 16 °C la nuit.\n\nJe vous prie donc de faire effectuer les réparations d'ici le 19 novembre. À défaut de quoi, je me verrai dans l'obligation de m'adresser au Tribunal administratif du logement.\n\nEn vous remerciant à l'avance de votre attention, je vous prie d'agréer, Monsieur, mes salutations distinguées.\n\nAlex Morgan"
+ },
+ "quiz": [
+  {
+   "q": "Where does the place and date go in a French letter?",
+   "options": [
+    "At the very end",
+    "Before the subject line, near the top",
+    "In the signature",
+    "It's never included"
+   ],
+   "a": 1,
+   "why": "Montréal, le 12 novembre 2026 — at the top."
+  },
+  {
+   "q": "'Objet :' introduces…",
+   "options": [
+    "the object you are returning",
+    "the subject of the letter",
+    "the recipient",
+    "the attachment"
+   ],
+   "a": 1,
+   "why": "Objet = subject line."
+  },
+  {
+   "q": "Which phrase states a fact about an ongoing problem?",
+   "options": [
+    "Depuis le 3 novembre, le chauffage ne fonctionne plus.",
+    "Veuillez agréer mes salutations.",
+    "Madame, Monsieur,",
+    "Au plaisir!"
+   ],
+   "a": 0,
+   "why": "Depuis + present."
+  },
+  {
+   "q": "What is a 'mise en demeure'?",
+   "options": [
+    "a home inspection",
+    "a formal legal notice",
+    "a lease renewal",
+    "a moving permit"
+   ],
+   "a": 1,
+   "why": "The last step before legal action."
+  },
+  {
+   "q": "'Je vous prie de…' is used to…",
+   "options": [
+    "pray",
+    "make a polite request",
+    "thank",
+    "apologize"
+   ],
+   "a": 1,
+   "why": "Je vous prie de = please (formal)."
+  },
+  {
+   "q": "What did the TAL used to be called?",
+   "options": [
+    "La Régie du logement",
+    "L'Office du logement",
+    "La Cour des locataires",
+    "Le Bureau des baux"
+   ],
+   "a": 0,
+   "why": "Renamed in 2020; people still say la Régie."
+  },
+  {
+   "q": "In Quebec, a '4 et demi' is…",
+   "options": [
+    "an apartment with four rooms plus a bathroom",
+    "four and a half bedrooms",
+    "a 4.5-star hotel",
+    "a half-price apartment"
+   ],
+   "a": 0,
+   "why": "Rooms are counted; the bathroom is the half."
+  },
+  {
+   "q": "Which is the most formal closing?",
+   "options": [
+    "Bonne journée!",
+    "Veuillez agréer, Madame, l'expression de mes salutations distinguées.",
+    "À plus!",
+    "Merci, bye!"
+   ],
+   "a": 1,
+   "why": "The classic formal formula."
+  },
+  {
+   "q": "'Y m'ont chargé deux fois' in standard French is…",
+   "options": [
+    "Ils m'ont facturé deux fois.",
+    "Ils m'ont chargé de deux choses.",
+    "Ils m'ont appelé deux fois.",
+    "Il m'a chargé deux fois."
+   ],
+   "a": 0,
+   "why": "Charger (money) is an anglicism; use facturer."
+  }
+ ]
+}

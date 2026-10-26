@@ -1,0 +1,648 @@
+{
+ "w": 74,
+ "title": "Prepositions with countries, regions and cities",
+ "goal": "By the end of this lesson you can say where you live, where you are going and where you come from with the right preposition for any city, country, province or Quebec region.",
+ "learn": [
+  {
+   "h": "Going to / being in: à, en, au, aux",
+   "body": [
+    "Cities take *à*: *à Montréal*, *à Paris*, *à Toronto*. The same word means 'in' and 'to': *J'habite à Laval*, *Je vais à Laval*.",
+    "Countries, provinces and regions depend on gender and number. Feminine names (most end in *-e*) take *en*: *en France*, *en Colombie-Britannique*. Masculine names take *au*: *au Canada*, *au Japon*, *au Manitoba*. Plural names take *aux*: *aux États-Unis*, *aux Îles-de-la-Madeleine*.",
+    "Masculine names that start with a vowel take *en* too, for sound: *en Ontario*, *en Iran*, *en Alberta* (feminine anyway)."
+   ],
+   "table": {
+    "head": [
+     "Type",
+     "Preposition",
+     "Examples"
+    ],
+    "rows": [
+     [
+      "city",
+      "à",
+      "à Montréal, à Québec, à Gatineau"
+     ],
+     [
+      "feminine country / province / region",
+      "en",
+      "en France, en Nouvelle-Écosse, en Gaspésie"
+     ],
+     [
+      "masculine, starting with a vowel",
+      "en",
+      "en Ontario, en Outaouais, en Iran"
+     ],
+     [
+      "masculine, consonant",
+      "au",
+      "au Canada, au Québec, au Saguenay"
+     ],
+     [
+      "plural",
+      "aux",
+      "aux États-Unis, aux Îles-de-la-Madeleine"
+     ]
+    ]
+   },
+   "tip": "Ends in -e? Probably feminine → en. Exceptions: le Mexique, le Mozambique, le Cambodge (au)."
+  },
+  {
+   "h": "Coming from: de, du, des",
+   "body": [
+    "To say where someone or something comes from, use *de* for cities and feminine names (no article), *du* for masculine names, and *des* for plural names: *Je viens de Montréal*, *de France*, *du Mexique*, *des États-Unis*.",
+    "*De* becomes *d'* before a vowel: *d'Ottawa*, *d'Italie*, *d'Ontario*."
+   ],
+   "table": {
+    "head": [
+     "Going to / in",
+     "Coming from"
+    ],
+    "rows": [
+     [
+      "à Toronto",
+      "de Toronto"
+     ],
+     [
+      "en Italie",
+      "d'Italie"
+     ],
+     [
+      "au Brésil",
+      "du Brésil"
+     ],
+     [
+      "aux États-Unis",
+      "des États-Unis"
+     ],
+     [
+      "au Saguenay",
+      "du Saguenay"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Québec the city vs Québec the province",
+   "body": [
+    "The province is masculine and takes *au*: *J'habite au Québec* (I live in Quebec province). The city takes *à*: *Je vais à Québec* (I'm going to Quebec City).",
+    "When there could be confusion, people say *la ville de Québec* or *Québec* for the city and *la province de Québec* or *le Québec* for the province."
+   ]
+  },
+  {
+   "h": "Quebec regions",
+   "body": [
+    "Most Quebec regions follow the gender rule: *en Gaspésie*, *en Mauricie*, *en Estrie*, *en Montérégie*, *en Abitibi*, *en Outaouais* (masculine but vowel), *au Saguenay*, *au Lac-Saint-Jean*.",
+    "Some use *dans* or *sur*, by custom: *dans les Laurentides*, *dans Charlevoix*, *dans Lanaudière*, *sur la Côte-Nord* (it's a coast). US states: *en Floride*, *en Californie*, *au Texas*, *au Vermont* (also *dans le Vermont*), *dans le Maine*."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "J'habite à Montréal, mais je travaille à Laval.",
+   "en": "I live in Montreal, but I work in Laval."
+  },
+  {
+   "fr": "Mes parents habitent en Ontario.",
+   "en": "My parents live in Ontario.",
+   "note": "masculine but starts with a vowel → en"
+  },
+  {
+   "fr": "Il est né au Mexique.",
+   "en": "He was born in Mexico.",
+   "note": "le Mexique is masculine despite the -e"
+  },
+  {
+   "fr": "Nous partons en vacances aux États-Unis.",
+   "en": "We're going on vacation to the United States."
+  },
+  {
+   "fr": "Cet été, on va en Gaspésie.",
+   "en": "This summer, we're going to the Gaspé Peninsula."
+  },
+  {
+   "fr": "Ma blonde vient du Saguenay.",
+   "en": "My girlfriend is from the Saguenay."
+  },
+  {
+   "fr": "Je vais à Québec pour le Carnaval.",
+   "en": "I'm going to Quebec City for the Winter Carnival.",
+   "note": "à + city"
+  },
+  {
+   "fr": "Je vis au Québec depuis trois ans.",
+   "en": "I've been living in Quebec for three years.",
+   "note": "au + province"
+  },
+  {
+   "fr": "Elle revient d'Italie demain.",
+   "en": "She's coming back from Italy tomorrow."
+  },
+  {
+   "fr": "Ils ont un chalet dans les Laurentides.",
+   "en": "They have a cottage in the Laurentians."
+  },
+  {
+   "fr": "J'ai de la famille au Nouveau-Brunswick.",
+   "en": "I have family in New Brunswick."
+  },
+  {
+   "fr": "On a fait du camping aux Îles-de-la-Madeleine.",
+   "en": "We went camping in the Magdalen Islands.",
+   "note": "plural → aux"
+  },
+  {
+   "fr": "Mon collègue vient des Philippines.",
+   "en": "My colleague is from the Philippines."
+  },
+  {
+   "fr": "Les oranges viennent de Floride.",
+   "en": "The oranges come from Florida."
+  },
+  {
+   "fr": "Il a trouvé un emploi en Abitibi.",
+   "en": "He found a job in Abitibi."
+  },
+  {
+   "fr": "J'habite sur la rue Saint-Denis.",
+   "en": "I live on Saint-Denis Street.",
+   "note": "Quebec uses sur la rue; France often says rue Saint-Denis or dans la rue"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebec geography gives you plenty of practice: en Gaspésie, au Saguenay, à Québec (the city) vs au Québec (the province). Quebecers also say 'sur la rue' for streets and 'en ville' for downtown.",
+  "items": [
+   {
+    "std": "Je vais dans le centre-ville.",
+    "qc": "J'm'en vais en ville.",
+    "en": "I'm going downtown.",
+    "note": "en ville = downtown in Quebec"
+   },
+   {
+    "std": "J'habite rue Saint-Denis.",
+    "qc": "J'reste sur la rue Saint-Denis.",
+    "en": "I live on Saint-Denis Street.",
+    "note": "sur la rue is standard in Quebec; rester = to live (informal Quebec)"
+   },
+   {
+    "std": "Il habite en banlieue de Montréal.",
+    "qc": "Y reste dans le 450.",
+    "en": "He lives in the suburbs of Montreal.",
+    "note": "Informal: named after the suburban area code"
+   },
+   {
+    "std": "Je vais dans les Laurentides.",
+    "qc": "J'monte dans l'Nord.",
+    "en": "I'm heading up north (to the Laurentians).",
+    "note": "Montrealers say 'le Nord' for the Laurentians"
+   },
+   {
+    "std": "Elle est originaire du Saguenay–Lac-Saint-Jean.",
+    "qc": "A vient du Lac.",
+    "en": "She's from Lac-Saint-Jean.",
+    "note": "Informal short name: le Lac"
+   },
+   {
+    "std": "Je vais à Québec.",
+    "qc": "J'm'en vais à Québec.",
+    "en": "I'm going to Quebec City.",
+    "note": "Same preposition; s'en aller is very common in speech"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "I live in Quebec City.",
+   "options": [
+    "J'habite au Québec.",
+    "J'habite à Québec.",
+    "J'habite en Québec.",
+    "J'habite de Québec."
+   ],
+   "a": 1,
+   "why": "Cities take à; the province takes au."
+  },
+  {
+   "t": "mcq",
+   "q": "Which preposition goes with 'Ontario'?",
+   "options": [
+    "au",
+    "en",
+    "à",
+    "aux"
+   ],
+   "a": 1,
+   "why": "Masculine starting with a vowel → en."
+  },
+  {
+   "t": "mcq",
+   "q": "She comes from the United States.",
+   "options": [
+    "Elle vient de États-Unis.",
+    "Elle vient des États-Unis.",
+    "Elle vient aux États-Unis.",
+    "Elle vient du États-Unis."
+   ],
+   "a": 1,
+   "why": "Plural → des."
+  },
+  {
+   "t": "mcq",
+   "q": "'J'm'en vais en ville' in Quebec means…",
+   "options": [
+    "I'm going to another city.",
+    "I'm going downtown.",
+    "I'm moving.",
+    "I'm going to Quebec City."
+   ],
+   "a": 1,
+   "why": "En ville = downtown."
+  },
+  {
+   "t": "fill",
+   "q": "Il travaille ___ Saguenay. (in the)",
+   "a": [
+    "au"
+   ],
+   "en": "He works in the Saguenay.",
+   "why": "Masculine → au."
+  },
+  {
+   "t": "fill",
+   "q": "On part en vacances ___ Gaspésie. (in/to)",
+   "a": [
+    "en"
+   ],
+   "en": "We're going on vacation to the Gaspé.",
+   "why": "Feminine region → en."
+  },
+  {
+   "t": "fill",
+   "q": "Mon voisin vient ___ Mexique. (from the)",
+   "a": [
+    "du"
+   ],
+   "en": "My neighbour is from Mexico.",
+   "why": "Le Mexique is masculine → du."
+  },
+  {
+   "t": "fill",
+   "q": "Elle revient ___ Italie. (from)",
+   "a": [
+    "d'"
+   ],
+   "en": "She's coming back from Italy.",
+   "why": "Feminine, vowel → d'."
+  },
+  {
+   "t": "build",
+   "en": "I have lived in Quebec for two years.",
+   "a": "J'habite au Québec depuis deux ans."
+  },
+  {
+   "t": "build",
+   "en": "They have a cottage in the Laurentians.",
+   "a": "Ils ont un chalet dans les Laurentides."
+  },
+  {
+   "t": "build",
+   "en": "My parents live in Ontario.",
+   "a": "Mes parents habitent en Ontario."
+  },
+  {
+   "t": "translate",
+   "en": "I'm going to Toronto.",
+   "a": [
+    "Je vais à Toronto.",
+    "Je m'en vais à Toronto."
+   ],
+   "why": "à + city."
+  },
+  {
+   "t": "translate",
+   "en": "We're from France.",
+   "a": [
+    "Nous venons de France.",
+    "On vient de France.",
+    "Nous sommes de France.",
+    "On est de France."
+   ],
+   "why": "Feminine country, no article after de."
+  },
+  {
+   "t": "translate",
+   "en": "She lives in British Columbia.",
+   "a": [
+    "Elle habite en Colombie-Britannique.",
+    "Elle vit en Colombie-Britannique.",
+    "Elle reste en Colombie-Britannique."
+   ],
+   "why": "Feminine province → en."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "le pays",
+   "en": "country",
+   "g": "m",
+   "ex": "Tu viens de quel pays?"
+  },
+  {
+   "fr": "la province",
+   "en": "province",
+   "g": "f",
+   "ex": "Le Québec est une grande province."
+  },
+  {
+   "fr": "la région",
+   "en": "region",
+   "g": "f",
+   "ex": "La Gaspésie est une belle région."
+  },
+  {
+   "fr": "la ville",
+   "en": "city, town",
+   "g": "f",
+   "ex": "Québec est une vieille ville."
+  },
+  {
+   "fr": "en ville",
+   "en": "downtown (Quebec)",
+   "ex": "On soupe en ville ce soir?",
+   "qc": true
+  },
+  {
+   "fr": "la banlieue",
+   "en": "suburbs",
+   "g": "f",
+   "ex": "Ils habitent en banlieue."
+  },
+  {
+   "fr": "les États-Unis",
+   "en": "the United States",
+   "g": "m",
+   "ex": "Je vais aux États-Unis."
+  },
+  {
+   "fr": "la Gaspésie",
+   "en": "the Gaspé Peninsula",
+   "g": "f",
+   "ex": "On fait le tour de la Gaspésie."
+  },
+  {
+   "fr": "le Saguenay",
+   "en": "the Saguenay region",
+   "g": "m",
+   "ex": "Il fait froid au Saguenay."
+  },
+  {
+   "fr": "l'Estrie",
+   "en": "the Eastern Townships",
+   "g": "f",
+   "ex": "Il y a de beaux villages en Estrie."
+  },
+  {
+   "fr": "les Laurentides",
+   "en": "the Laurentians",
+   "g": "f",
+   "ex": "On fait du ski dans les Laurentides."
+  },
+  {
+   "fr": "l'Outaouais",
+   "en": "the Outaouais region",
+   "g": "m",
+   "ex": "Gatineau est en Outaouais."
+  },
+  {
+   "fr": "être originaire de",
+   "en": "to be originally from",
+   "ex": "Je suis originaire de Vancouver."
+  },
+  {
+   "fr": "venir de",
+   "en": "to come from",
+   "ex": "D'où viens-tu?"
+  },
+  {
+   "fr": "rester",
+   "en": "to live (informal Quebec); to stay",
+   "ex": "Je reste à Longueuil.",
+   "qc": true
+  },
+  {
+   "fr": "la rue",
+   "en": "street",
+   "g": "f",
+   "ex": "J'habite sur la rue Ontario.",
+   "qc": false
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "aux États-Unis",
+    "tip": "Liaisons: oh-zay-ta-zu-NEE."
+   },
+   {
+    "fr": "en Ontario",
+    "tip": "Liaison: ahn-non-ta-RYO."
+   },
+   {
+    "fr": "en Outaouais",
+    "tip": "ahn-noo-ta-WÈ."
+   },
+   {
+    "fr": "au Saguenay",
+    "tip": "oh sag-NÈ."
+   },
+   {
+    "fr": "en Gaspésie",
+    "tip": "ahn gas-pay-ZEE; Quebec: gas-pay-ZI."
+   },
+   {
+    "fr": "à Québec / au Québec",
+    "tip": "a kay-BEK / oh kay-BEK: only the preposition changes."
+   }
+  ],
+  "title": "D'où viens-tu?",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Salut! T'es nouveau dans l'équipe? D'où viens-tu?",
+    "en": "Hi! You're new on the team? Where are you from?"
+   },
+   {
+    "s": "B",
+    "fr": "Je viens de Calgary, en Alberta. Mais ma mère vient du Mexique.",
+    "en": "I'm from Calgary, in Alberta. But my mother is from Mexico."
+   },
+   {
+    "s": "A",
+    "fr": "Cool! Et tu habites où à Montréal?",
+    "en": "Cool! And where do you live in Montreal?"
+   },
+   {
+    "s": "B",
+    "fr": "Sur la rue Masson, à Rosemont. Et toi?",
+    "en": "On Masson Street, in Rosemont. And you?"
+   },
+   {
+    "s": "A",
+    "fr": "Moi, je suis originaire du Saguenay, mais je reste à Longueuil.",
+    "en": "I'm originally from the Saguenay, but I live in Longueuil."
+   },
+   {
+    "s": "B",
+    "fr": "As-tu visité d'autres régions du Québec?",
+    "en": "Have you visited other regions of Quebec?"
+   },
+   {
+    "s": "A",
+    "fr": "Oui, je suis allé en Gaspésie et aux Îles-de-la-Madeleine l'été passé.",
+    "en": "Yes, I went to the Gaspé and the Magdalen Islands last summer."
+   },
+   {
+    "s": "B",
+    "fr": "Chanceux! Moi, je vais à Québec le mois prochain.",
+    "en": "Lucky! I'm going to Quebec City next month."
+   }
+  ],
+  "questions": [
+   {
+    "q": "Where is B from?",
+    "options": [
+     "Mexico",
+     "Calgary",
+     "Montreal"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Where does A live now?",
+    "options": [
+     "Saguenay",
+     "Rosemont",
+     "Longueuil"
+    ],
+    "a": 2
+   },
+   {
+    "q": "Where did A go last summer?",
+    "options": [
+     "Gaspé and the Magdalen Islands",
+     "Quebec City",
+     "Alberta"
+    ],
+    "a": 0
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Say where you are from, where you live now and where your family lives.",
+   "model": "Je viens de Toronto, en Ontario. J'habite à Montréal maintenant. Ma famille habite en Colombie-Britannique."
+  },
+  {
+   "prompt": "Name three places you would like to visit, using the right prepositions.",
+   "model": "J'aimerais aller en Gaspésie, au Japon et aux Îles-de-la-Madeleine."
+  },
+  {
+   "prompt": "Explain the difference between 'à Québec' and 'au Québec' with a sentence for each.",
+   "model": "Je vais à Québec pour le Carnaval. J'habite au Québec depuis cinq ans."
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences about your travels: where you were born, where you have lived, and trips you have taken or would like to take.",
+  "model": "Je suis né à Londres, en Angleterre. Ensuite, j'ai habité aux États-Unis et en Ontario. Maintenant, j'habite au Québec, à Montréal. L'année passée, je suis allé au Saguenay et en Mauricie. Si j'avais plus de temps, j'irais en Gaspésie. Un jour, j'aimerais visiter le Japon."
+ },
+ "quiz": [
+  {
+   "q": "Which is correct for Japan?",
+   "options": [
+    "en Japon",
+    "au Japon",
+    "à Japon",
+    "aux Japon"
+   ],
+   "a": 1,
+   "why": "Le Japon is masculine → au."
+  },
+  {
+   "q": "Which is correct for Mexico?",
+   "options": [
+    "en Mexique",
+    "au Mexique",
+    "à Mexique",
+    "aux Mexique"
+   ],
+   "a": 1,
+   "why": "Le Mexique is masculine despite the -e."
+  },
+  {
+   "q": "'Elle vient d'Ontario' — why d'?",
+   "options": [
+    "Ontario is plural",
+    "de before a vowel",
+    "Ontario is a city",
+    "It's Quebec slang"
+   ],
+   "a": 1,
+   "why": "de → d' before a vowel."
+  },
+  {
+   "q": "Which preposition is customary for 'la Côte-Nord'?",
+   "options": [
+    "sur",
+    "à",
+    "au",
+    "aux"
+   ],
+   "a": 0,
+   "why": "Sur la Côte-Nord, since it's a coast."
+  },
+  {
+   "q": "'Aux Îles-de-la-Madeleine' uses aux because…",
+   "options": [
+    "it's a city",
+    "the name is plural",
+    "it's masculine",
+    "it's in the US"
+   ],
+   "a": 1,
+   "why": "Plural place names take aux."
+  },
+  {
+   "q": "'Il reste dans le 450' means…",
+   "options": [
+    "He has 450 dollars left.",
+    "He lives in the suburbs around Montreal.",
+    "He lives at number 450.",
+    "He stays 450 days."
+   ],
+   "a": 1,
+   "why": "Informal: 450 is the area code of Montreal's suburbs."
+  },
+  {
+   "q": "I'm coming back from Brazil.",
+   "options": [
+    "Je reviens de Brésil.",
+    "Je reviens du Brésil.",
+    "Je reviens au Brésil.",
+    "Je reviens des Brésil."
+   ],
+   "a": 1,
+   "why": "Le Brésil is masculine → du."
+  },
+  {
+   "q": "Which is correct?",
+   "options": [
+    "Je vais en Montréal.",
+    "Je vais à Montréal.",
+    "Je vais au Montréal.",
+    "Je vais aux Montréal."
+   ],
+   "a": 1,
+   "why": "Cities take à."
+  }
+ ]
+}

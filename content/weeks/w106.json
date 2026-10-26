@@ -1,0 +1,698 @@
+{
+ "w": 106,
+ "title": "Si clauses type 3",
+ "goal": "By the end of this lesson you can talk about things that did not happen and their imagined results (Si j'avais su, je serais venu), express regrets and reproaches, and mix past and present conditions.",
+ "learn": [
+  {
+   "h": "The pattern: si + plus-que-parfait, conditionnel passé",
+   "body": [
+    "Type 3 si clauses imagine a different past: the condition did not happen, so the result did not happen either. English says 'If I had known, I would have come.' French says *Si j'avais su, je serais venu.*",
+    "The *si* clause takes the plus-que-parfait (*avais su*, *étais parti*). The result clause takes the conditionnel passé (*aurais fait*, *serais venu*). You learned the conditionnel passé last week; this lesson you plug it into a full sentence.",
+    "The two halves can swap places. Use a comma when the *si* clause comes first: *Si tu m'avais appelé, je serais venu.* / *Je serais venu si tu m'avais appelé.*"
+   ],
+   "table": {
+    "head": [
+     "Si clause (plus-que-parfait)",
+     "Result (conditionnel passé)",
+     "English"
+    ],
+    "rows": [
+     [
+      "Si j'avais su,",
+      "je serais venu.",
+      "If I had known, I would have come."
+     ],
+     [
+      "Si tu étais parti plus tôt,",
+      "tu n'aurais pas raté le bus.",
+      "If you had left earlier, you wouldn't have missed the bus."
+     ],
+     [
+      "S'il avait plu,",
+      "nous serions restés à la maison.",
+      "If it had rained, we would have stayed home."
+     ],
+     [
+      "Si elles avaient étudié,",
+      "elles auraient réussi.",
+      "If they had studied, they would have passed."
+     ]
+    ]
+   },
+   "tip": "Si + avais/étais → aurais/serais. The 'had' goes after si, the 'would have' goes in the result."
+  },
+  {
+   "h": "Building both tenses",
+   "body": [
+    "Both tenses are compound: an auxiliary (*avoir* or *être*) plus a past participle. The plus-que-parfait uses the auxiliary in the imparfait (*j'avais*, *j'étais*); the conditionnel passé uses it in the conditionnel (*j'aurais*, *je serais*).",
+    "The usual past-participle rules apply. Verbs that take *être* in the passé composé (*aller, venir, partir, rester, naître, mourir*, and all pronominal verbs) agree with the subject: *Si elle était venue, elle se serait amusée.*"
+   ],
+   "table": {
+    "head": [
+     "Person",
+     "Plus-que-parfait (avoir / être)",
+     "Conditionnel passé (avoir / être)"
+    ],
+    "rows": [
+     [
+      "je",
+      "j'avais fini / j'étais parti(e)",
+      "j'aurais fini / je serais parti(e)"
+     ],
+     [
+      "tu",
+      "tu avais fini / tu étais parti(e)",
+      "tu aurais fini / tu serais parti(e)"
+     ],
+     [
+      "il / elle / on",
+      "il avait fini / elle était partie",
+      "il aurait fini / elle serait partie"
+     ],
+     [
+      "nous",
+      "nous avions fini / nous étions parti(e)s",
+      "nous aurions fini / nous serions parti(e)s"
+     ],
+     [
+      "vous",
+      "vous aviez fini / vous étiez parti(e)(s)",
+      "vous auriez fini / vous seriez parti(e)(s)"
+     ],
+     [
+      "ils / elles",
+      "ils avaient fini / elles étaient parties",
+      "ils auraient fini / elles seraient parties"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Mixed conditions: past cause, present result (and the reverse)",
+   "body": [
+    "Sometimes a past condition has a result now. Then the *si* clause stays in the plus-que-parfait but the result uses the conditionnel présent: *Si j'avais étudié le français plus jeune, je le parlerais mieux aujourd'hui.*",
+    "The reverse also exists: a permanent present situation with a past result. *Si j'étais plus organisé, je n'aurais pas oublié ton anniversaire.* (I'm not organized in general, so I forgot.)"
+   ],
+   "table": {
+    "head": [
+     "Condition",
+     "Result",
+     "Meaning"
+    ],
+    "rows": [
+     [
+      "Si j'avais pris le métro,",
+      "je serais déjà là.",
+      "past → present"
+     ],
+     [
+      "Si tu avais dormi,",
+      "tu ne serais pas si fatigué maintenant.",
+      "past → present"
+     ],
+     [
+      "Si elle parlait anglais,",
+      "elle aurait compris le film.",
+      "general present → past"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Regrets and reproaches",
+   "body": [
+    "Type 3 sentences are the natural way to express regret: *Si seulement j'avais su!* (If only I had known!). *Si seulement* can stand alone with the plus-que-parfait, no result clause needed.",
+    "They also carry reproach: *Si tu m'avais écouté, on ne serait pas perdus.* (If you had listened to me, we wouldn't be lost.) Combine with last week's *j'aurais dû* / *tu aurais pu*: *Tu aurais dû me le dire; si j'avais su, je t'aurais aidé.*"
+   ]
+  },
+  {
+   "h": "The golden rule: no conditional after si",
+   "body": [
+    "In standard French, *si* (meaning 'if') is never followed by the conditional. *Si j'aurais su* is wrong in writing and in any formal setting; the correct form is *Si j'avais su*.",
+    "In casual speech in Quebec (and in France too), you will hear *si j'aurais su* very often. Recognise it, but don't write it. A famous line from the French film *La Guerre des boutons*, 'Si j'aurais su, j'aurais pas venu', is quoted precisely because it is wrong."
+   ],
+   "tip": "Si n'aime pas les -rais: no 'aurais' or 'serais' right after si."
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Si j'avais su, je serais venu plus tôt.",
+   "en": "If I had known, I would have come earlier.",
+   "note": "the classic type 3 sentence"
+  },
+  {
+   "fr": "Si tu m'avais appelé, je t'aurais aidé.",
+   "en": "If you had called me, I would have helped you.",
+   "note": "avoir in both halves"
+  },
+  {
+   "fr": "Si nous étions partis à huit heures, nous n'aurions pas manqué l'avion.",
+   "en": "If we had left at eight, we wouldn't have missed the plane.",
+   "note": "partir takes être: étions partis"
+  },
+  {
+   "fr": "Elle aurait réussi l'examen si elle avait étudié.",
+   "en": "She would have passed the exam if she had studied.",
+   "note": "result clause first, no comma"
+  },
+  {
+   "fr": "S'il avait neigé, on serait allés skier.",
+   "en": "If it had snowed, we would have gone skiing.",
+   "note": "si + il contracts to s'il; on with plural agreement is common"
+  },
+  {
+   "fr": "Si j'avais acheté cette maison en 2015, elle vaudrait le double aujourd'hui.",
+   "en": "If I had bought that house in 2015, it would be worth twice as much today.",
+   "note": "mixed: past condition, present result"
+  },
+  {
+   "fr": "Si j'avais pris mon manteau, je n'aurais pas si froid.",
+   "en": "If I had taken my coat, I wouldn't be so cold.",
+   "note": "mixed: present result in conditionnel présent"
+  },
+  {
+   "fr": "Si j'étais plus patient, je ne me serais pas fâché.",
+   "en": "If I were more patient, I wouldn't have gotten angry.",
+   "note": "mixed: general present quality, past result"
+  },
+  {
+   "fr": "Si seulement tu me l'avais dit!",
+   "en": "If only you had told me!",
+   "note": "si seulement + plus-que-parfait, no result clause"
+  },
+  {
+   "fr": "Si vous aviez réservé, vous auriez eu une table.",
+   "en": "If you had booked, you would have had a table.",
+   "note": "vous forms: aviez / auriez"
+  },
+  {
+   "fr": "Si elles étaient arrivées à temps, elles auraient vu le début du spectacle.",
+   "en": "If they had arrived on time, they would have seen the start of the show.",
+   "note": "agreement with être: arrivées"
+  },
+  {
+   "fr": "Je ne me serais jamais inscrit si j'avais su que c'était si difficile.",
+   "en": "I would never have signed up if I had known it was so hard.",
+   "note": "pronominal verb: se serait inscrit"
+  },
+  {
+   "fr": "Si tu avais écouté la météo, tu n'aurais pas oublié ton parapluie.",
+   "en": "If you had listened to the forecast, you wouldn't have forgotten your umbrella.",
+   "note": "a reproach"
+  },
+  {
+   "fr": "Qu'est-ce que tu aurais fait si tu avais gagné à la loterie?",
+   "en": "What would you have done if you had won the lottery?",
+   "note": "a question in type 3"
+  },
+  {
+   "fr": "Si le dépanneur avait été ouvert, j'aurais acheté du lait.",
+   "en": "If the corner store had been open, I would have bought milk.",
+   "note": "être in the plus-que-parfait: avait été"
+  }
+ ],
+ "quebec": {
+  "intro": "'Si j'avais su…' is one of the most common regret openers in Quebec conversation. In fast casual speech you will also hear the non-standard 'si j'aurais su', plus contractions like t'aurais, j'serais and y'aurait.",
+  "items": [
+   {
+    "std": "Si j'avais su, je ne serais pas venu.",
+    "qc": "Si j'avais su, j'serais pas v'nu.",
+    "en": "If I had known, I wouldn't have come.",
+    "note": "ne dropped, je and venu squeezed; perfectly normal casual speech"
+   },
+   {
+    "std": "Si j'avais su…",
+    "qc": "Si j'aurais su…",
+    "en": "If I had known…",
+    "note": "very common in casual speech but non-standard; never write it"
+   },
+   {
+    "std": "Si tu étais venu, tu aurais aimé ça.",
+    "qc": "Si t'étais v'nu, t'aurais aimé ça.",
+    "en": "If you had come, you would have liked it.",
+    "note": "tu → t' before a vowel in informal speech"
+   },
+   {
+    "std": "S'il avait fait beau, il y aurait eu du monde.",
+    "qc": "S'il avait fait beau, y'aurait eu du monde.",
+    "en": "If the weather had been nice, there would have been a crowd.",
+    "note": "il y aurait → y'aurait; du monde = lots of people"
+   },
+   {
+    "std": "Si tu avais vu ça!",
+    "qc": "Si t'avais vu ça!",
+    "en": "You should have seen that!",
+    "note": "a si clause used alone as an exclamation, informal"
+   },
+   {
+    "std": "J'aurais bien aimé y aller.",
+    "qc": "J'aurais ben aimé y aller.",
+    "en": "I really would have liked to go.",
+    "note": "ben = bien, informal"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Si j'___ su, je serais venu.",
+   "options": [
+    "aurais",
+    "avais",
+    "ai",
+    "aurai"
+   ],
+   "a": 1,
+   "why": "After si, use the plus-que-parfait: j'avais su."
+  },
+  {
+   "t": "mcq",
+   "q": "Si tu étais parti plus tôt, tu ___ le bus.",
+   "options": [
+    "n'aurais pas raté",
+    "n'avais pas raté",
+    "ne rateras pas",
+    "n'as pas raté"
+   ],
+   "a": 0,
+   "why": "The result clause takes the conditionnel passé."
+  },
+  {
+   "t": "mcq",
+   "q": "Which sentence is a mixed condition (past cause, present result)?",
+   "options": [
+    "Si j'avais su, je serais venu.",
+    "Si j'avais dormi, je serais en forme maintenant.",
+    "Si je dors, je suis en forme.",
+    "Si je dormais, je serais en forme."
+   ],
+   "a": 1,
+   "why": "Plus-que-parfait + conditionnel présent: the past lack of sleep affects now."
+  },
+  {
+   "t": "mcq",
+   "q": "Which sentence is correct in written French?",
+   "options": [
+    "Si j'aurais su, je serais venu.",
+    "Si j'avais su, je serais venu.",
+    "Si j'avais su, j'étais venu.",
+    "Si je saurais, je serais venu."
+   ],
+   "a": 1,
+   "why": "No conditional after si; the conditional goes in the result clause."
+  },
+  {
+   "t": "fill",
+   "q": "Si elle ___ venue, elle se serait amusée. (être, plus-que-parfait)",
+   "a": [
+    "était"
+   ],
+   "en": "If she had come, she would have had fun.",
+   "why": "Venir takes être: elle était venue."
+  },
+  {
+   "t": "fill",
+   "q": "Si nous avions réservé, nous ___ eu une table. (avoir, conditionnel)",
+   "a": [
+    "aurions"
+   ],
+   "en": "If we had booked, we would have had a table.",
+   "why": "Nous form of avoir in the conditionnel: aurions."
+  },
+  {
+   "t": "fill",
+   "q": "S'ils avaient pris l'autoroute, ils ___ arrivés plus vite. (être, conditionnel)",
+   "a": [
+    "seraient"
+   ],
+   "en": "If they had taken the highway, they would have arrived faster.",
+   "why": "Arriver takes être: ils seraient arrivés."
+  },
+  {
+   "t": "fill",
+   "q": "Si seulement tu me l'___ dit! (avoir, plus-que-parfait)",
+   "a": [
+    "avais"
+   ],
+   "en": "If only you had told me!",
+   "why": "Si seulement + plus-que-parfait."
+  },
+  {
+   "t": "build",
+   "en": "If I had known, I would have come.",
+   "a": "Si j'avais su, je serais venu."
+  },
+  {
+   "t": "build",
+   "en": "You should have called me.",
+   "a": "Tu aurais dû m'appeler."
+  },
+  {
+   "t": "build",
+   "en": "If only I had listened!",
+   "a": "Si seulement j'avais écouté!"
+  },
+  {
+   "t": "translate",
+   "en": "If you had studied, you would have passed.",
+   "a": [
+    "Si tu avais étudié, tu aurais réussi.",
+    "Si vous aviez étudié, vous auriez réussi.",
+    "Tu aurais réussi si tu avais étudié.",
+    "Vous auriez réussi si vous aviez étudié."
+   ],
+   "why": "Plus-que-parfait after si, conditionnel passé in the result."
+  },
+  {
+   "t": "translate",
+   "en": "If it had snowed, we would have gone skiing.",
+   "a": [
+    "S'il avait neigé, nous serions allés skier.",
+    "S'il avait neigé, on serait allés skier.",
+    "S'il avait neigé, on serait allé skier.",
+    "S'il avait neigé, nous serions allées skier.",
+    "S'il avait neigé, on serait allées skier."
+   ],
+   "why": "Aller takes être, so the participle agrees."
+  },
+  {
+   "t": "translate",
+   "en": "What would you have done?",
+   "a": [
+    "Qu'est-ce que tu aurais fait?",
+    "Qu'est-ce que vous auriez fait?",
+    "Qu'aurais-tu fait?",
+    "Qu'auriez-vous fait?"
+   ],
+   "why": "Conditionnel passé of faire."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "le regret",
+   "en": "regret",
+   "g": "m",
+   "ex": "Je n'ai aucun regret."
+  },
+  {
+   "fr": "regretter",
+   "en": "to regret, to be sorry about",
+   "ex": "Je regrette de ne pas être venu."
+  },
+  {
+   "fr": "si seulement",
+   "en": "if only",
+   "ex": "Si seulement j'avais su!"
+  },
+  {
+   "fr": "à temps",
+   "en": "in time, on time",
+   "ex": "Nous sommes arrivés à temps."
+  },
+  {
+   "fr": "rater",
+   "en": "to miss (a bus, a chance), to fail",
+   "ex": "J'ai raté mon autobus."
+  },
+  {
+   "fr": "manquer",
+   "en": "to miss",
+   "ex": "Tu as manqué un bon party."
+  },
+  {
+   "fr": "l'occasion",
+   "en": "opportunity, chance",
+   "g": "f",
+   "ex": "J'ai raté une belle occasion."
+  },
+  {
+   "fr": "prévenir",
+   "en": "to warn, to let someone know",
+   "ex": "Tu aurais dû me prévenir."
+  },
+  {
+   "fr": "se douter de",
+   "en": "to suspect",
+   "ex": "Je ne me doutais de rien."
+  },
+  {
+   "fr": "éviter",
+   "en": "to avoid",
+   "ex": "On aurait pu éviter l'accident."
+  },
+  {
+   "fr": "s'en sortir",
+   "en": "to manage, to get through it",
+   "ex": "Sans ton aide, je ne m'en serais pas sorti."
+  },
+  {
+   "fr": "heureusement",
+   "en": "fortunately",
+   "ex": "Heureusement, il n'a pas plu."
+  },
+  {
+   "fr": "malheureusement",
+   "en": "unfortunately",
+   "ex": "Malheureusement, c'était trop tard."
+  },
+  {
+   "fr": "sinon",
+   "en": "otherwise",
+   "ex": "Pars maintenant, sinon tu vas être en retard."
+  },
+  {
+   "fr": "réserver",
+   "en": "to book, to reserve",
+   "ex": "Si on avait réservé, on aurait eu une table."
+  },
+  {
+   "fr": "du monde",
+   "en": "people, a crowd",
+   "ex": "Il y avait du monde au festival.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "j'avais su",
+    "tip": "zha-vé SU: the ai of avais sounds like 'eh'."
+   },
+   {
+    "fr": "je serais venu",
+    "tip": "zhuh suh-ré vuh-NU; casually 'j'srais v'nu'."
+   },
+   {
+    "fr": "j'aurais / j'aurai",
+    "tip": "In careful speech, aurais ends in an open 'è', aurai in a closed 'é'; many speakers merge them, so context matters."
+   },
+   {
+    "fr": "s'il avait",
+    "tip": "One flowing unit: sil-a-VÉ."
+   },
+   {
+    "fr": "nous aurions",
+    "tip": "Liaison in [z]: noo-zo-RYON."
+   },
+   {
+    "fr": "t'aurais pu",
+    "tip": "Quebec casual: to-ré PU, the tu shrinks to t'."
+   }
+  ],
+  "title": "Le spectacle manqué",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Pis, le spectacle de Cœur de pirate hier soir, c'était comment?",
+    "en": "So, the Cœur de pirate show last night, how was it?"
+   },
+   {
+    "s": "B",
+    "fr": "Je ne l'ai pas vu! Je suis arrivé trop tard.",
+    "en": "I didn't see it! I got there too late."
+   },
+   {
+    "s": "A",
+    "fr": "Voyons! Qu'est-ce qui s'est passé?",
+    "en": "Come on! What happened?"
+   },
+   {
+    "s": "B",
+    "fr": "Il y avait un accident sur le pont. Si j'avais pris le métro, je serais arrivé à temps.",
+    "en": "There was an accident on the bridge. If I had taken the metro, I would have arrived on time."
+   },
+   {
+    "s": "A",
+    "fr": "Si tu m'avais écrit, je t'aurais dit de prendre le métro.",
+    "en": "If you had texted me, I would have told you to take the metro."
+   },
+   {
+    "s": "B",
+    "fr": "Je sais. Si seulement j'avais vérifié la circulation avant de partir!",
+    "en": "I know. If only I had checked the traffic before leaving!"
+   },
+   {
+    "s": "A",
+    "fr": "Elle rejoue en décembre. Cette fois, on y va ensemble, en métro.",
+    "en": "She's playing again in December. This time we'll go together, by metro."
+   },
+   {
+    "s": "B",
+    "fr": "Promis. Si j'avais su que c'était si bon, je serais parti à cinq heures!",
+    "en": "Promise. If I had known it was so good, I would have left at five!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Why did speaker B miss the show?",
+    "options": [
+     "He forgot the date",
+     "There was an accident on the bridge",
+     "The metro broke down"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does B say he should have done?",
+    "options": [
+     "Taken the metro",
+     "Bought tickets earlier",
+     "Left at seven"
+    ],
+    "a": 0
+   },
+   {
+    "q": "What do they plan for December?",
+    "options": [
+     "To watch it online",
+     "To go to the show together",
+     "To drive across the bridge"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Name one thing you would have done differently last year. Start with 'Si j'avais…'.",
+   "model": "Si j'avais eu plus de temps l'année passée, j'aurais suivi un cours de français intensif."
+  },
+  {
+   "prompt": "A friend missed a great party. Tell them what they would have seen if they had come.",
+   "model": "Si t'étais venu, t'aurais vu Marc danser sur la table! Tu aurais adoré ça."
+  },
+  {
+   "prompt": "Make one mixed sentence: something in the past that would change your life today.",
+   "model": "Si j'étais né à Québec, je parlerais français depuis toujours."
+  },
+  {
+   "prompt": "Say 'If I had known, I wouldn't have come' the standard way, then the casual Quebec way.",
+   "model": "Si j'avais su, je ne serais pas venu. / Si j'avais su, j'serais pas v'nu."
+  }
+ ],
+ "write": {
+  "prompt": "Write 6–8 sentences about a day that went wrong (missed bus, forgotten keys, bad weather). Use at least four type 3 sentences and one 'si seulement'.",
+  "model": "Mardi passé, tout a mal tourné. Je me suis réveillé en retard parce que mon téléphone était déchargé. Si je l'avais branché la veille, mon réveil aurait sonné. J'ai raté l'autobus de 7 h 10. Si j'étais parti cinq minutes plus tôt, je l'aurais attrapé. En plus, il a commencé à neiger et je n'avais pas mes bottes. Si j'avais regardé la météo, je les aurais mises. Au bureau, j'ai manqué le début de la réunion. Si seulement j'avais écouté ma blonde, qui m'avait dit de me coucher plus tôt!"
+ },
+ "quiz": [
+  {
+   "q": "Which tense follows si in a type 3 sentence?",
+   "options": [
+    "Conditionnel passé",
+    "Plus-que-parfait",
+    "Passé composé",
+    "Futur antérieur"
+   ],
+   "a": 1,
+   "why": "Si + plus-que-parfait: si j'avais su."
+  },
+  {
+   "q": "Which tense is used in the result clause of a type 3 sentence?",
+   "options": [
+    "Conditionnel passé",
+    "Imparfait",
+    "Plus-que-parfait",
+    "Subjonctif"
+   ],
+   "a": 0,
+   "why": "The result is the conditionnel passé: j'aurais fait."
+  },
+  {
+   "q": "Complete: Si elle ___ partie, elle aurait raté la fête.",
+   "options": [
+    "avait",
+    "était",
+    "serait",
+    "aurait"
+   ],
+   "a": 1,
+   "why": "Partir takes être, in the plus-que-parfait after si."
+  },
+  {
+   "q": "'Si j'avais étudié, je parlerais mieux aujourd'hui' expresses…",
+   "options": [
+    "a future plan",
+    "a past cause with a present result",
+    "a habit",
+    "a polite request"
+   ],
+   "a": 1,
+   "why": "Plus-que-parfait + conditionnel présent = mixed condition."
+  },
+  {
+   "q": "What does 'Si seulement tu m'avais prévenu!' mean?",
+   "options": [
+    "If you warn me, I'll come!",
+    "If only you had warned me!",
+    "You will warn me!",
+    "If only you would warn me tomorrow!"
+   ],
+   "a": 1,
+   "why": "Si seulement + plus-que-parfait = a past regret."
+  },
+  {
+   "q": "'Si j'aurais su' is…",
+   "options": [
+    "the standard form",
+    "common in casual speech but non-standard",
+    "used only in writing",
+    "a future tense"
+   ],
+   "a": 1,
+   "why": "Standard French requires si j'avais su."
+  },
+  {
+   "q": "Choose the correct agreement: Si nous (Marie et moi) étions arrivées plus tôt, nous ___ le début.",
+   "options": [
+    "aurions vues",
+    "aurions vu",
+    "serions vues",
+    "serions vu"
+   ],
+   "a": 1,
+   "why": "Voir takes avoir, so no agreement with the subject: aurions vu."
+  },
+  {
+   "q": "In 'S'il avait fait beau, y'aurait eu du monde', what is 'y'aurait'?",
+   "options": [
+    "il aurait",
+    "il y aurait",
+    "elle aurait",
+    "vous auriez"
+   ],
+   "a": 1,
+   "why": "Casual Quebec speech shortens il y aurait to y'aurait."
+  },
+  {
+   "q": "Which is a natural reproach?",
+   "options": [
+    "Si tu m'avais écouté, on ne serait pas perdus.",
+    "Si tu m'écoutes, on est perdus.",
+    "Si tu m'écouterais, on serait perdus.",
+    "Si tu m'écoutais, on est perdus."
+   ],
+   "a": 0,
+   "why": "Type 3: you didn't listen in the past, and here is the result."
+  }
+ ]
+}

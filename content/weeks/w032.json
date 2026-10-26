@@ -1,0 +1,642 @@
+{
+ "w": 32,
+ "title": "Adverbs of frequency",
+ "goal": "By the end of this lesson you can say how often you do things with toujours, souvent, parfois, rarement and ne…jamais, use expressions like tous les jours and une fois par semaine, and recognise the Quebec 'des fois' and 'à tous les jours'.",
+ "learn": [
+  {
+   "h": "From always to never",
+   "body": [
+    "Frequency adverbs answer the question *Tu … souvent?* (Do you often…?). From most to least frequent: *toujours* (always), *souvent* (often), *parfois / quelquefois* (sometimes), *de temps en temps* (from time to time), *rarement* (rarely), *ne … jamais* (never).",
+    "Single-word adverbs go right after the conjugated verb: *Je mange souvent au restaurant.* *Il est toujours en retard.*"
+   ],
+   "table": {
+    "head": [
+     "Adverb",
+     "English",
+     "Example"
+    ],
+    "rows": [
+     [
+      "toujours",
+      "always",
+      "Je bois toujours un café le matin."
+     ],
+     [
+      "souvent",
+      "often",
+      "On va souvent au parc."
+     ],
+     [
+      "parfois / quelquefois",
+      "sometimes",
+      "Elle travaille parfois le samedi."
+     ],
+     [
+      "de temps en temps",
+      "from time to time",
+      "Je vais au cinéma de temps en temps."
+     ],
+     [
+      "rarement",
+      "rarely",
+      "Il pleut rarement en février."
+     ],
+     [
+      "ne … jamais",
+      "never",
+      "Je ne mange jamais de viande."
+     ]
+    ]
+   },
+   "tip": "Verb first, then the adverb: je mange souvent, not je souvent mange."
+  },
+  {
+   "h": "Ne … jamais works like ne … pas",
+   "body": [
+    "*Jamais* replaces *pas*: *Je ne fume pas.* → *Je ne fume jamais.* Like *pas*, it changes *du / de la / des* to *de*: *Je ne bois jamais de café.*",
+    "Alone, *jamais* answers a question: *Tu fumes? — Jamais!* *Toujours* also has a second meaning, 'still': *Il habite toujours à Laval.* (He still lives in Laval.)"
+   ]
+  },
+  {
+   "h": "Frequency expressions",
+   "body": [
+    "Longer expressions usually go at the end or the start of the sentence: *tous les jours* (every day), *tous les matins*, *toutes les semaines*, *chaque lundi* (every Monday), *le samedi* (on Saturdays), *une fois par semaine* (once a week), *deux fois par mois* (twice a month), *tout le temps* (all the time).",
+    "*D'habitude* and *normalement* mean 'usually': *D'habitude, je me lève à sept heures.*"
+   ],
+   "table": {
+    "head": [
+     "Expression",
+     "English"
+    ],
+    "rows": [
+     [
+      "tous les jours",
+      "every day"
+     ],
+     [
+      "toutes les semaines",
+      "every week"
+     ],
+     [
+      "le lundi",
+      "on Mondays"
+     ],
+     [
+      "une fois par semaine",
+      "once a week"
+     ],
+     [
+      "trois fois par jour",
+      "three times a day"
+     ],
+     [
+      "d'habitude",
+      "usually"
+     ]
+    ]
+   },
+   "tip": "Tous (m) / toutes (f) agrees: tous les jours, toutes les semaines."
+  },
+  {
+   "h": "Asking how often",
+   "body": [
+    "*Tu fais du sport souvent?* *Est-ce que vous allez souvent au cinéma?* *Combien de fois par semaine?* (How many times a week?) *Tu vas au gym à quelle fréquence?*"
+   ]
+  },
+  {
+   "h": "Quebec: des fois and à tous les jours",
+   "body": [
+    "In conversation, Quebecers say *des fois* far more than *parfois*: *Des fois, je travaille de la maison.* It's informal but completely normal (it's also heard in France).",
+    "You'll also hear *à tous les jours*, *à toutes les semaines* (with an extra *à*) where standard French says *tous les jours*. Use *tous les jours* in writing."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Je bois toujours un café le matin.",
+   "en": "I always drink a coffee in the morning."
+  },
+  {
+   "fr": "On va souvent au marché Jean-Talon.",
+   "en": "We often go to the Jean-Talon market."
+  },
+  {
+   "fr": "Elle travaille parfois le samedi.",
+   "en": "She sometimes works on Saturdays."
+  },
+  {
+   "fr": "Je vais au cinéma de temps en temps.",
+   "en": "I go to the movies from time to time."
+  },
+  {
+   "fr": "Il pleut rarement en février.",
+   "en": "It rarely rains in February."
+  },
+  {
+   "fr": "Je ne mange jamais de viande.",
+   "en": "I never eat meat.",
+   "note": "jamais + de"
+  },
+  {
+   "fr": "Tu es toujours en retard!",
+   "en": "You're always late!",
+   "note": "after être too"
+  },
+  {
+   "fr": "Il habite toujours chez ses parents.",
+   "en": "He still lives with his parents.",
+   "note": "toujours = still"
+  },
+  {
+   "fr": "Je fais du sport trois fois par semaine.",
+   "en": "I exercise three times a week."
+  },
+  {
+   "fr": "Le lundi, je travaille de la maison.",
+   "en": "On Mondays, I work from home.",
+   "note": "le + day = every (day)"
+  },
+  {
+   "fr": "D'habitude, on soupe à six heures.",
+   "en": "Usually we have supper at six."
+  },
+  {
+   "fr": "Les enfants regardent la télé tous les soirs.",
+   "en": "The kids watch TV every evening."
+  },
+  {
+   "fr": "Tu vas souvent au gym?",
+   "en": "Do you go to the gym often?"
+  },
+  {
+   "fr": "Je ne vais jamais au casino.",
+   "en": "I never go to the casino."
+  },
+  {
+   "fr": "Des fois, je prends le vélo pour aller travailler.",
+   "en": "Sometimes I bike to work.",
+   "note": "des fois: everyday Quebec speech"
+  },
+  {
+   "fr": "Il neige tout le temps en janvier!",
+   "en": "It snows all the time in January!"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebecers say 'des fois' for 'sometimes' and often add an 'à' to 'tous les jours'. Both are informal but extremely common.",
+  "items": [
+   {
+    "std": "Parfois, je travaille tard.",
+    "qc": "Des fois, j'travaille tard.",
+    "en": "Sometimes I work late.",
+    "note": "des fois is the everyday spoken choice"
+   },
+   {
+    "std": "Je cours tous les jours.",
+    "qc": "J'cours à tous les jours.",
+    "en": "I run every day.",
+    "note": "à tous les jours: Quebec speech; write tous les jours"
+   },
+   {
+    "std": "On se voit toutes les semaines.",
+    "qc": "On s'voit à toutes les semaines.",
+    "en": "We see each other every week.",
+    "note": "same extra à"
+   },
+   {
+    "std": "Il est tout le temps fatigué.",
+    "qc": "Y'é toutt le temps fatigué.",
+    "en": "He's tired all the time.",
+    "note": "y'é = il est; toutt with pronounced t"
+   },
+   {
+    "std": "Je ne bois jamais de café.",
+    "qc": "J'bois jamais de café.",
+    "en": "I never drink coffee.",
+    "note": "ne dropped, as always in speech"
+   },
+   {
+    "std": "Une fois de temps en temps, ça va.",
+    "qc": "Une fois de temps en temps, c'est correct.",
+    "en": "Once in a while, it's fine.",
+    "note": "c'est correct = it's OK (more in lesson 33)"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Where does 'souvent' go? 'Je ___ mange ___ au restaurant.'",
+   "options": [
+    "before mange",
+    "after mange",
+    "at the very end only",
+    "before je"
+   ],
+   "a": 1,
+   "why": "Short adverbs go after the conjugated verb: je mange souvent."
+  },
+  {
+   "t": "mcq",
+   "q": "'Je ne bois jamais ___ lait.'",
+   "options": [
+    "du",
+    "de",
+    "le",
+    "des"
+   ],
+   "a": 1,
+   "why": "Like pas, jamais changes du to de."
+  },
+  {
+   "t": "mcq",
+   "q": "'Il habite toujours à Laval' can mean…",
+   "options": [
+    "He never lives in Laval",
+    "He still lives in Laval",
+    "He rarely lives in Laval",
+    "He used to live in Laval"
+   ],
+   "a": 1,
+   "why": "Toujours also means still."
+  },
+  {
+   "t": "mcq",
+   "q": "'Des fois' means…",
+   "options": [
+    "the times",
+    "sometimes",
+    "never",
+    "often"
+   ],
+   "a": 1,
+   "why": "Des fois = parfois, informal."
+  },
+  {
+   "t": "fill",
+   "q": "Je ne fume ___ . (never)",
+   "a": [
+    "jamais"
+   ],
+   "en": "I never smoke.",
+   "why": "ne … jamais."
+  },
+  {
+   "t": "fill",
+   "q": "Je fais du sport trois fois ___ semaine.",
+   "a": [
+    "par"
+   ],
+   "en": "I exercise three times a week.",
+   "why": "X fois par semaine."
+  },
+  {
+   "t": "fill",
+   "q": "On regarde la télé ___ les soirs.",
+   "a": [
+    "tous"
+   ],
+   "en": "We watch TV every evening.",
+   "why": "soirs is masculine plural: tous."
+  },
+  {
+   "t": "fill",
+   "q": "Je vais à la piscine ___ les semaines.",
+   "a": [
+    "toutes"
+   ],
+   "en": "I go to the pool every week.",
+   "why": "semaines is feminine plural: toutes."
+  },
+  {
+   "t": "build",
+   "en": "I always drink a coffee in the morning.",
+   "a": "Je bois toujours un café le matin."
+  },
+  {
+   "t": "build",
+   "en": "Usually, we have supper at six.",
+   "a": "D'habitude, on soupe à six heures."
+  },
+  {
+   "t": "build",
+   "en": "She sometimes works on Saturdays.",
+   "a": "Elle travaille parfois le samedi."
+  },
+  {
+   "t": "translate",
+   "en": "I never eat meat.",
+   "a": [
+    "Je ne mange jamais de viande.",
+    "Je mange jamais de viande."
+   ],
+   "why": "jamais + de."
+  },
+  {
+   "t": "translate",
+   "en": "Do you often go to the movies?",
+   "a": [
+    "Tu vas souvent au cinéma?",
+    "Vous allez souvent au cinéma?",
+    "Est-ce que tu vas souvent au cinéma?",
+    "Est-ce que vous allez souvent au cinéma?",
+    "Vas-tu souvent au cinéma?",
+    "Allez-vous souvent au cinéma?"
+   ],
+   "why": "souvent right after the verb."
+  },
+  {
+   "t": "translate",
+   "en": "You're always late!",
+   "a": [
+    "Tu es toujours en retard!",
+    "Vous êtes toujours en retard!",
+    "T'es toujours en retard!"
+   ],
+   "why": "toujours after être."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "toujours",
+   "en": "always; still",
+   "ex": "Il est toujours content."
+  },
+  {
+   "fr": "souvent",
+   "en": "often",
+   "ex": "On mange souvent ensemble."
+  },
+  {
+   "fr": "parfois",
+   "en": "sometimes",
+   "ex": "Parfois, il neige en avril."
+  },
+  {
+   "fr": "quelquefois",
+   "en": "sometimes",
+   "ex": "Je cuisine quelquefois."
+  },
+  {
+   "fr": "de temps en temps",
+   "en": "from time to time",
+   "ex": "On se voit de temps en temps."
+  },
+  {
+   "fr": "rarement",
+   "en": "rarely",
+   "ex": "Je regarde rarement la télé."
+  },
+  {
+   "fr": "ne … jamais",
+   "en": "never",
+   "ex": "Je ne fume jamais."
+  },
+  {
+   "fr": "tous les jours",
+   "en": "every day",
+   "ex": "Je marche tous les jours."
+  },
+  {
+   "fr": "tout le temps",
+   "en": "all the time",
+   "ex": "Il parle tout le temps."
+  },
+  {
+   "fr": "une fois par semaine",
+   "en": "once a week",
+   "ex": "Je fais l'épicerie une fois par semaine."
+  },
+  {
+   "fr": "d'habitude",
+   "en": "usually",
+   "ex": "D'habitude, je prends le métro."
+  },
+  {
+   "fr": "normalement",
+   "en": "normally, usually",
+   "ex": "Normalement, je finis à cinq heures."
+  },
+  {
+   "fr": "la fois",
+   "en": "time, occurrence",
+   "g": "f",
+   "ex": "C'est la première fois."
+  },
+  {
+   "fr": "des fois",
+   "en": "sometimes (informal)",
+   "ex": "Des fois, j'oublie.",
+   "qc": true
+  },
+  {
+   "fr": "à tous les jours",
+   "en": "every day (Quebec speech)",
+   "ex": "Y vient à tous les jours.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "toujours",
+    "tip": "too-ZHOOR; two ou sounds."
+   },
+   {
+    "fr": "souvent",
+    "tip": "soo-VAHN; the t is silent."
+   },
+   {
+    "fr": "de temps en temps",
+    "tip": "duh-tahn-zahn-TAHN: liaison in [z]."
+   },
+   {
+    "fr": "rarement",
+    "tip": "rar-MAHN; the middle e is silent."
+   },
+   {
+    "fr": "quelquefois",
+    "tip": "kèl-kuh-FWA."
+   },
+   {
+    "fr": "tous les jours",
+    "tip": "too-lay-ZHOOR; the s of tous is silent here."
+   }
+  ],
+  "title": "Tu fais du sport?",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Tu fais du sport souvent?",
+    "en": "Do you exercise often?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, je cours trois fois par semaine. Et toi?",
+    "en": "Yes, I run three times a week. And you?"
+   },
+   {
+    "s": "A",
+    "fr": "Moi, jamais! Bon, des fois je prends une marche.",
+    "en": "Me, never! Well, sometimes I take a walk."
+   },
+   {
+    "s": "B",
+    "fr": "C'est un début! Moi, d'habitude je cours le matin, avant le travail.",
+    "en": "It's a start! I usually run in the morning, before work."
+   },
+   {
+    "s": "A",
+    "fr": "Même en hiver?",
+    "en": "Even in winter?"
+   },
+   {
+    "s": "B",
+    "fr": "En hiver, je vais rarement dehors. Je vais au gym le mardi et le jeudi.",
+    "en": "In winter, I rarely go outside. I go to the gym on Tuesdays and Thursdays."
+   },
+   {
+    "s": "A",
+    "fr": "T'es toujours motivé, toi!",
+    "en": "You're always motivated, you!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "How often does B run?",
+    "options": [
+     "Every day",
+     "Three times a week",
+     "Once a week"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does A do sometimes?",
+    "options": [
+     "Runs",
+     "Goes to the gym",
+     "Takes a walk"
+    ],
+    "a": 2
+   },
+   {
+    "q": "When does B go to the gym in winter?",
+    "options": [
+     "Monday and Wednesday",
+     "Tuesday and Thursday",
+     "Every weekend"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Say one thing you always do, one you often do, and one you never do.",
+   "model": "Je bois toujours un café le matin. Je vais souvent au parc. Je ne regarde jamais la télé le matin."
+  },
+  {
+   "prompt": "Ask a friend how often they cook, and answer the question yourself.",
+   "model": "Tu cuisines souvent? — Moi, je cuisine quatre fois par semaine."
+  },
+  {
+   "prompt": "Say 'Sometimes I work from home' the standard way, then the Quebec way.",
+   "model": "Parfois, je travaille de la maison. / Des fois, j'travaille de la maison."
+  }
+ ],
+ "write": {
+  "prompt": "Write 6 sentences about your habits, using at least five different frequency words or expressions.",
+  "model": "Je me lève toujours à six heures et demie. Je prends souvent le métro, mais des fois je marche. Je fais l'épicerie une fois par semaine. Je vais au cinéma de temps en temps. Je mange rarement au restaurant. Je ne fume jamais."
+ },
+ "quiz": [
+  {
+   "q": "Which is most frequent?",
+   "options": [
+    "parfois",
+    "souvent",
+    "rarement",
+    "toujours"
+   ],
+   "a": 3,
+   "why": "toujours > souvent > parfois > rarement > jamais."
+  },
+  {
+   "q": "'Le dimanche, je dors tard' means…",
+   "options": [
+    "This Sunday I'll sleep in",
+    "On Sundays I sleep in",
+    "Last Sunday I slept in",
+    "Sunday is late"
+   ],
+   "a": 1,
+   "why": "le + day = every week on that day."
+  },
+  {
+   "q": "Correct sentence?",
+   "options": [
+    "Je souvent vais au gym.",
+    "Je vais souvent au gym.",
+    "Souvent je au gym vais.",
+    "Je vais au souvent gym."
+   ],
+   "a": 1,
+   "why": "Adverb after the verb."
+  },
+  {
+   "q": "'Deux fois par mois' means…",
+   "options": [
+    "twice a month",
+    "two months ago",
+    "every two months",
+    "two times a week"
+   ],
+   "a": 0,
+   "why": "X fois par mois = X times a month."
+  },
+  {
+   "q": "Which negative is correct?",
+   "options": [
+    "Je ne jamais fume.",
+    "Je ne fume jamais.",
+    "Je jamais ne fume.",
+    "Je fume ne jamais."
+   ],
+   "a": 1,
+   "why": "ne + verb + jamais."
+  },
+  {
+   "q": "'D'habitude' means…",
+   "options": [
+    "usually",
+    "by habit only",
+    "rarely",
+    "dressed"
+   ],
+   "a": 0,
+   "why": "D'habitude = usually."
+  },
+  {
+   "q": "'À tous les jours' is…",
+   "options": [
+    "incorrect in all French",
+    "Quebec speech for tous les jours",
+    "formal French",
+    "only for weekdays"
+   ],
+   "a": 1,
+   "why": "Quebec adds à in speech; write tous les jours."
+  },
+  {
+   "q": "'Tous' or 'toutes'? '___ les matins'",
+   "options": [
+    "Tous",
+    "Toutes",
+    "Tout",
+    "Toute"
+   ],
+   "a": 0,
+   "why": "Matin is masculine: tous les matins."
+  }
+ ]
+}

@@ -1,0 +1,672 @@
+{
+ "w": 139,
+ "title": "All articles review",
+ "goal": "By the end of this lesson you can choose confidently between definite, indefinite and partitive articles, handle the de rules after negation, quantities and plural adjectives, know when to drop the article, and recognise the genders Quebec gives to common anglicisms.",
+ "learn": [
+  {
+   "h": "Three families of articles",
+   "body": [
+    "**Definite** (*le, la, l', les*): something specific, or a category in general. French uses it far more than English: *J'aime le café. Les Québécois adorent l'hiver. La patience est une vertu.*",
+    "**Indefinite** (*un, une, des*): one or some countable items not yet identified: *J'ai acheté une tuque et des mitaines.*",
+    "**Partitive** (*du, de la, de l', des*): an unspecified amount of something uncountable: *Je bois du café. Il faut de la patience. Tu veux de l'eau?*"
+   ],
+   "table": {
+    "head": [
+     "Verb type",
+     "Article",
+     "Example"
+    ],
+    "rows": [
+     [
+      "Likes/dislikes (aimer, adorer, détester, préférer)",
+      "definite",
+      "J'adore le sirop d'érable."
+     ],
+     [
+      "Consumption (manger, boire, prendre, acheter)",
+      "partitive / indefinite",
+      "Je mange du pain et une pomme."
+     ],
+     [
+      "General truth",
+      "definite",
+      "Le temps, c'est de l'argent."
+     ],
+     [
+      "Days: habit",
+      "le + day",
+      "Le samedi, je fais l'épicerie. (every Saturday)"
+     ],
+     [
+      "Body parts",
+      "definite",
+      "Il s'est cassé le bras."
+     ]
+    ]
+   },
+   "tip": "Aimer le / manger du: you like the whole category, but you eat only some of it."
+  },
+  {
+   "h": "When articles become de",
+   "body": [
+    "After a negation, *un, une, des, du, de la* become *de / d'*: *Je n'ai pas de voiture. Il n'y a plus de lait.* Exception: with *être*, the article stays: *Ce n'est pas un problème.*",
+    "After expressions of quantity: *beaucoup de neige, trop de monde, un kilo de pommes, assez d'argent*. But *bien des* and *la plupart des* keep the full article: *la plupart des gens*.",
+    "Before a plural adjective, written French changes *des* to *de*: *de beaux paysages, de grandes maisons*. In speech, *des* is often kept, and fixed compounds keep it: *des petits pois, des jeunes gens*."
+   ],
+   "table": {
+    "head": [
+     "Context",
+     "Form",
+     "Example"
+    ],
+    "rows": [
+     [
+      "negation",
+      "de",
+      "Je ne mange pas de viande."
+     ],
+     [
+      "negation with être",
+      "full article",
+      "Ce n'est pas une erreur."
+     ],
+     [
+      "quantity",
+      "de",
+      "beaucoup de travail, un peu d'eau"
+     ],
+     [
+      "bien / la plupart",
+      "des",
+      "bien des fois, la plupart des élèves"
+     ],
+     [
+      "des + plural adjective",
+      "de",
+      "de bons amis"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "No article at all",
+   "body": [
+    "Drop the article: after *être* with a profession or nationality (*Elle est médecin*); after *en* (*en voiture, en hiver*); after *avoir besoin de, avoir envie de, se passer de* with an unspecified noun (*J'ai besoin d'aide*); after *sans* and often *avec* + abstract noun (*sans problème, avec patience*); in lists, headlines and signs (*Entrée interdite*); with a noun used as an adjective (*un sac à dos, une salle de bain*).",
+    "*De* + definite article contracts: *du* (de + le), *des* (de + les). *À* contracts: *au, aux*. *De la, de l', à la, à l'* don't."
+   ]
+  },
+  {
+   "h": "Articles and countries, cities, languages",
+   "body": [
+    "Countries and provinces take a definite article: *le Canada, la France, le Québec, l'Ontario, les États-Unis*. Cities don't: *Montréal, Québec* (the city). Hence *la province de Québec* is old-fashioned; today one says *le Québec* for the province and *Québec* or *la ville de Québec* for the city.",
+    "To / in: *au Québec, au Canada, en France, en Ontario, aux États-Unis, à Montréal*. Languages: *le français est difficile*, but *je parle français* (article optional after parler)."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "J'adore le sirop d'érable, mais j'en mange peu.",
+   "en": "I love maple syrup, but I don't eat much of it.",
+   "note": "definite after adorer"
+  },
+  {
+   "fr": "Tu veux du café ou du thé?",
+   "en": "Do you want coffee or tea?",
+   "note": "partitive: some coffee"
+  },
+  {
+   "fr": "Il faut de la patience pour apprendre une langue.",
+   "en": "You need patience to learn a language.",
+   "note": "partitive with an abstract noun"
+  },
+  {
+   "fr": "Je n'ai pas de voiture, je prends le métro.",
+   "en": "I don't have a car, I take the metro.",
+   "note": "un → de after negation"
+  },
+  {
+   "fr": "Ce n'est pas un problème.",
+   "en": "It's not a problem.",
+   "note": "être keeps the article"
+  },
+  {
+   "fr": "Il est tombé beaucoup de neige cette nuit.",
+   "en": "A lot of snow fell last night.",
+   "note": "quantity + de"
+  },
+  {
+   "fr": "La plupart des gens travaillent de la maison le vendredi.",
+   "en": "Most people work from home on Fridays.",
+   "note": "la plupart des; le vendredi = every Friday"
+  },
+  {
+   "fr": "On a vu de beaux paysages en Gaspésie.",
+   "en": "We saw beautiful landscapes in the Gaspé.",
+   "note": "de before a plural adjective"
+  },
+  {
+   "fr": "Elle s'est fait mal au dos en pelletant.",
+   "en": "She hurt her back shovelling.",
+   "note": "body part: definite article, no possessive"
+  },
+  {
+   "fr": "J'ai besoin d'aide pour déménager.",
+   "en": "I need help to move.",
+   "note": "avoir besoin de: no article"
+  },
+  {
+   "fr": "Il voyage toujours en train.",
+   "en": "He always travels by train.",
+   "note": "en + transport, no article"
+  },
+  {
+   "fr": "Je suis né au Maroc, mais j'habite au Québec depuis dix ans.",
+   "en": "I was born in Morocco, but I've lived in Quebec for ten years.",
+   "note": "au + masculine country/province"
+  },
+  {
+   "fr": "Elle a déménagé en Ontario l'an dernier.",
+   "en": "She moved to Ontario last year.",
+   "note": "en before a vowel-initial province"
+  },
+  {
+   "fr": "J'ai acheté un sac à dos et des bottes d'hiver.",
+   "en": "I bought a backpack and winter boots.",
+   "note": "à dos, d'hiver: no article inside compounds"
+  },
+  {
+   "fr": "Le temps, c'est de l'argent.",
+   "en": "Time is money.",
+   "note": "definite (general) + partitive"
+  },
+  {
+   "fr": "Il a répondu sans hésitation.",
+   "en": "He answered without hesitation.",
+   "note": "sans + noun, no article"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebec speech borrows many English nouns, and each one gets a French gender and article. Some are informal anglicisms the OQLF advises against in writing; recognise the gender, and know the standard equivalent.",
+  "items": [
+   {
+    "std": "On s'est bien amusés.",
+    "qc": "On a eu ben du fun.",
+    "en": "We had a lot of fun.",
+    "note": "le fun (m), avoir du fun; informal"
+   },
+   {
+    "std": "C'est amusant!",
+    "qc": "C'est le fun!",
+    "en": "It's fun!",
+    "note": "c'est le fun / c'est pas le fun; informal"
+   },
+   {
+    "std": "J'ai un bon emploi.",
+    "qc": "J'ai une bonne job.",
+    "en": "I have a good job.",
+    "note": "job is feminine in Quebec, masculine in France"
+   },
+   {
+    "std": "Je travaille de nuit cette semaine.",
+    "qc": "J'ai une shift de nuit cette semaine.",
+    "en": "I'm on the night shift this week.",
+    "note": "une shift (f); standard: un quart de travail"
+   },
+   {
+    "std": "On organise une fête samedi.",
+    "qc": "On fait un party samedi.",
+    "en": "We're throwing a party Saturday.",
+    "note": "un party (m), very common; plural partys"
+   },
+   {
+    "std": "J'ai apporté mon repas.",
+    "qc": "J'ai apporté mon lunch.",
+    "en": "I brought my lunch.",
+    "note": "le lunch (m) = packed meal; widely used in Quebec"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Je n'ai pas ___ temps aujourd'hui.",
+   "options": [
+    "du",
+    "le",
+    "de",
+    "un"
+   ],
+   "a": 2,
+   "why": "Partitive → de after a negation."
+  },
+  {
+   "t": "mcq",
+   "q": "Ce n'est pas ___ bonne idée.",
+   "options": [
+    "de",
+    "une",
+    "la",
+    "d'"
+   ],
+   "a": 1,
+   "why": "With être, the indefinite article stays."
+  },
+  {
+   "t": "mcq",
+   "q": "J'aime ___ hockey, mais je regarde rarement ___ matchs.",
+   "options": [
+    "le / des",
+    "du / les",
+    "le / les",
+    "du / des"
+   ],
+   "a": 2,
+   "why": "Aimer + definite; les matchs = the games in general."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is standard written French?",
+   "options": [
+    "des beaux arbres",
+    "de beaux arbres",
+    "du beaux arbres",
+    "les beaux d'arbres"
+   ],
+   "a": 1,
+   "why": "Des → de before a plural adjective in writing."
+  },
+  {
+   "t": "mcq",
+   "q": "In Quebec, 'job' is…",
+   "options": [
+    "masculine",
+    "feminine",
+    "both",
+    "never used"
+   ],
+   "a": 1,
+   "why": "Une job (informal); France says un job."
+  },
+  {
+   "t": "fill",
+   "q": "La plupart ___ étudiants prennent l'autobus.",
+   "a": [
+    "des"
+   ],
+   "en": "Most students take the bus.",
+   "why": "La plupart keeps des."
+  },
+  {
+   "t": "fill",
+   "q": "Il y a trop ___ monde au centre commercial.",
+   "a": [
+    "de"
+   ],
+   "en": "There are too many people at the mall.",
+   "why": "Quantity + de."
+  },
+  {
+   "t": "fill",
+   "q": "Je vais ___ Québec la semaine prochaine. (the province)",
+   "a": [
+    "au"
+   ],
+   "en": "I'm going to Quebec next week.",
+   "why": "Le Québec (province) → au Québec."
+  },
+  {
+   "t": "fill",
+   "q": "Elle s'est cassé ___ jambe en ski.",
+   "a": [
+    "la"
+   ],
+   "en": "She broke her leg skiing.",
+   "why": "Body part with a reflexive verb → definite article."
+  },
+  {
+   "t": "fill",
+   "q": "___ dimanche, on va chez ma mère. (every Sunday)",
+   "a": [
+    "Le"
+   ],
+   "en": "On Sundays, we go to my mother's.",
+   "why": "Le + day = habit."
+  },
+  {
+   "t": "build",
+   "en": "I need help.",
+   "a": "J'ai besoin d'aide."
+  },
+  {
+   "t": "build",
+   "en": "We saw beautiful landscapes.",
+   "a": "On a vu de beaux paysages."
+  },
+  {
+   "t": "translate",
+   "en": "I don't drink coffee.",
+   "a": [
+    "Je ne bois pas de café.",
+    "Je bois pas de café."
+   ],
+   "why": "Du → de after negation."
+  },
+  {
+   "t": "translate",
+   "en": "She lives in Ontario.",
+   "a": [
+    "Elle habite en Ontario.",
+    "Elle vit en Ontario.",
+    "Elle demeure en Ontario.",
+    "Elle reste en Ontario."
+   ],
+   "why": "Vowel-initial province → en."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "le sirop d'érable",
+   "en": "maple syrup",
+   "g": "m",
+   "ex": "Le sirop d'érable vient du Québec."
+  },
+  {
+   "fr": "la tuque",
+   "en": "toque, winter hat",
+   "g": "f",
+   "ex": "Mets ta tuque, il fait froid!",
+   "qc": true
+  },
+  {
+   "fr": "les mitaines",
+   "en": "mittens",
+   "g": "f",
+   "ex": "J'ai perdu mes mitaines."
+  },
+  {
+   "fr": "la plupart des",
+   "en": "most (of the)",
+   "ex": "La plupart des magasins ferment à 21 h."
+  },
+  {
+   "fr": "bien des",
+   "en": "many",
+   "ex": "Je l'ai vu bien des fois."
+  },
+  {
+   "fr": "avoir envie de",
+   "en": "to feel like",
+   "ex": "J'ai envie de chocolat."
+  },
+  {
+   "fr": "se passer de",
+   "en": "to do without",
+   "ex": "Je ne peux pas me passer de café."
+  },
+  {
+   "fr": "le paysage",
+   "en": "landscape",
+   "g": "m",
+   "ex": "Les paysages de Charlevoix sont superbes."
+  },
+  {
+   "fr": "le sac à dos",
+   "en": "backpack",
+   "g": "m",
+   "ex": "Mon sac à dos est trop lourd."
+  },
+  {
+   "fr": "le quart de travail",
+   "en": "work shift",
+   "g": "m",
+   "ex": "Mon quart de travail commence à 7 h."
+  },
+  {
+   "fr": "pelleter",
+   "en": "to shovel",
+   "ex": "On a pelleté pendant une heure."
+  },
+  {
+   "fr": "le fun",
+   "en": "fun (informal)",
+   "g": "m",
+   "ex": "C'était le fun, ton party!",
+   "qc": true
+  },
+  {
+   "fr": "la shift",
+   "en": "shift (informal anglicism)",
+   "g": "f",
+   "ex": "J'ai une shift de soir.",
+   "qc": true
+  },
+  {
+   "fr": "le lunch",
+   "en": "packed lunch",
+   "g": "m",
+   "ex": "J'ai oublié mon lunch.",
+   "qc": true
+  },
+  {
+   "fr": "le dîner",
+   "en": "lunch (noon meal) in Quebec",
+   "g": "m",
+   "ex": "On dîne à midi.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "du / des / de",
+    "tip": "[du] rounded lips, [dé] smile, [duh] relaxed: three different sounds."
+   },
+   {
+    "fr": "au Québec",
+    "tip": "[o ké-BÈK]."
+   },
+   {
+    "fr": "en Ontario",
+    "tip": "Liaison: [an-non-ta-ryo]."
+   },
+   {
+    "fr": "de beaux arbres",
+    "tip": "Liaison in [z]: [duh bo-ZARBR]."
+   },
+   {
+    "fr": "le fun",
+    "tip": "Quebec: [luh FONN], rhymes with 'bonne'."
+   },
+   {
+    "fr": "la plupart des gens",
+    "tip": "[la plu-par dé JAN]."
+   }
+  ],
+  "title": "La liste d'épicerie",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Qu'est-ce qu'on achète pour le party de samedi?",
+    "en": "What are we buying for Saturday's party?"
+   },
+   {
+    "s": "B",
+    "fr": "Du pain, du fromage, des chips et de la bière. Pis des légumes pour le monde qui mange pas de viande.",
+    "en": "Bread, cheese, chips and beer. And vegetables for the people who don't eat meat."
+   },
+   {
+    "s": "A",
+    "fr": "On n'a plus de verres, non plus.",
+    "en": "We don't have any more glasses, either."
+   },
+   {
+    "s": "B",
+    "fr": "Ah oui. Achète des verres en plastique recyclable.",
+    "en": "Oh right. Buy recyclable plastic glasses."
+   },
+   {
+    "s": "A",
+    "fr": "Et pour le dessert? Moi, j'adore la tarte au sucre.",
+    "en": "And for dessert? I love sugar pie."
+   },
+   {
+    "s": "B",
+    "fr": "Ma mère en fait de très bonnes. Je vais lui demander.",
+    "en": "My mother makes very good ones. I'll ask her."
+   },
+   {
+    "s": "A",
+    "fr": "Parfait. Ça va être le fun!",
+    "en": "Perfect. It's going to be fun!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Why are they buying vegetables?",
+    "options": [
+     "For the kids",
+     "For people who don't eat meat",
+     "For a salad contest"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What do they need besides food?",
+    "options": [
+     "Plates",
+     "Glasses",
+     "Napkins"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Who will make the sugar pie?",
+    "options": [
+     "Speaker A",
+     "B's mother",
+     "A bakery"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Say what you like, what you eat and what you never eat, using le / du / de correctly.",
+   "model": "J'aime le poisson, mais je mange surtout du poulet. Je ne mange jamais de viande rouge. Le matin, je bois du café avec du lait."
+  },
+  {
+   "prompt": "Describe your weekly routine using le + day.",
+   "model": "Le lundi, je vais au gym. Le mercredi, je travaille de la maison. Le samedi, je fais l'épicerie au marché."
+  },
+  {
+   "prompt": "Say three Quebec anglicisms with their article, then give the standard equivalent.",
+   "model": "une job — un emploi; un party — une fête; une shift — un quart de travail."
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences describing what you bring and do at a typical Quebec party or family gathering. Use at least one each of definite, indefinite and partitive articles, a negation with de, and a quantity with de.",
+  "model": "Pour le temps des Fêtes, on se réunit toujours chez ma tante. J'apporte du vin et une tourtière. Ma cousine ne mange pas de viande, alors on prépare aussi des plats végétariens. Il y a toujours trop de nourriture! La plupart des invités restent jusqu'à minuit. J'adore ces soirées : c'est vraiment le fun."
+ },
+ "quiz": [
+  {
+   "q": "'J'aime ___ chocolat.'",
+   "options": [
+    "du",
+    "le",
+    "de",
+    "un"
+   ],
+   "a": 1,
+   "why": "Verbs of preference take the definite article."
+  },
+  {
+   "q": "'Je mange ___ chocolat tous les jours.'",
+   "options": [
+    "le",
+    "du",
+    "de",
+    "des"
+   ],
+   "a": 1,
+   "why": "Consumption of an unspecified amount → partitive."
+  },
+  {
+   "q": "Which keeps the full article after a negation?",
+   "options": [
+    "Je n'ai pas de chien.",
+    "Ce n'est pas un chien.",
+    "Il n'y a pas de chien.",
+    "Je ne veux pas de chien."
+   ],
+   "a": 1,
+   "why": "Être keeps the article: ce n'est pas un…"
+  },
+  {
+   "q": "'Beaucoup ___ gens'",
+   "options": [
+    "des",
+    "de",
+    "les",
+    "du"
+   ],
+   "a": 1,
+   "why": "Beaucoup + de (no article)."
+  },
+  {
+   "q": "'Je vais ___ États-Unis.'",
+   "options": [
+    "en",
+    "au",
+    "aux",
+    "à les"
+   ],
+   "a": 2,
+   "why": "À + les = aux."
+  },
+  {
+   "q": "Which needs no article?",
+   "options": [
+    "Elle est infirmière.",
+    "J'aime ___ musique.",
+    "Il boit ___ eau.",
+    "___ Canada est grand."
+   ],
+   "a": 0,
+   "why": "Profession after être: no article."
+  },
+  {
+   "q": "'Le samedi' means…",
+   "options": [
+    "this Saturday only",
+    "every Saturday",
+    "last Saturday",
+    "next Saturday"
+   ],
+   "a": 1,
+   "why": "Le + day = a habit."
+  },
+  {
+   "q": "In Quebec, 'le dîner' is…",
+   "options": [
+    "the evening meal",
+    "the noon meal",
+    "breakfast",
+    "a snack"
+   ],
+   "a": 1,
+   "why": "Déjeuner (morning), dîner (noon), souper (evening)."
+  },
+  {
+   "q": "'Avoir du fun' is…",
+   "options": [
+    "standard written French",
+    "an informal Quebec anglicism for s'amuser",
+    "a France expression",
+    "an error in all contexts"
+   ],
+   "a": 1,
+   "why": "Common in speech; write s'amuser."
+  }
+ ]
+}

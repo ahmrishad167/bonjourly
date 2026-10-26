@@ -1,0 +1,684 @@
+{
+ "w": 114,
+ "title": "Hypotheses and speculation",
+ "goal": "By the end of this lesson you can make hypotheses (supposons que, au cas où, si jamais), express degrees of probability (il est possible que, il doit être…), report unconfirmed information with the conditional, and use Quebec 'mettons que' and 'ça se peut'.",
+ "learn": [
+  {
+   "h": "Setting up a hypothesis",
+   "body": [
+    "Beyond *si*, French has several ways to say 'suppose', 'let's say' or 'in case'. Each comes with its own mood.",
+    "*Supposons que*, *admettons que*, *à supposer que* and *en admettant que* take the subjunctive: *Supposons qu'il pleuve demain.* *Imaginons que* usually takes the indicative: *Imaginons que tu gagnes à la loterie.*",
+    "*Au cas où* (in case) takes the conditional: *Prends un parapluie au cas où il pleuvrait.* *Si jamais* (if ever, should) takes the indicative like *si*: *Si jamais tu passes à Québec, appelle-moi.*"
+   ],
+   "table": {
+    "head": [
+     "Expression",
+     "Mood",
+     "Example"
+    ],
+    "rows": [
+     [
+      "supposons que / admettons que",
+      "subjunctive",
+      "Supposons qu'il soit en retard."
+     ],
+     [
+      "imaginons que",
+      "indicative",
+      "Imaginons que tu habites à Gaspé."
+     ],
+     [
+      "au cas où",
+      "conditional",
+      "Au cas où tu aurais faim, il y a du pain."
+     ],
+     [
+      "si jamais",
+      "indicative",
+      "Si jamais tu changes d'idée, dis-le-moi."
+     ],
+     [
+      "en cas de + noun",
+      "—",
+      "En cas de tempête, l'école ferme."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Degrees of probability",
+   "body": [
+    "Certain → *C'est sûr que*, *Il est certain que* + indicative. Probable → *Il est probable que* + indicative, *probablement*, *sans doute* (which means 'probably', not 'without doubt'!).",
+    "Possible → *Il est possible que*, *Il se peut que* + subjunctive; *peut-être que* + indicative. Unlikely → *Il est peu probable que* + subjunctive, *Ça m'étonnerait que* + subjunctive."
+   ],
+   "table": {
+    "head": [
+     "Degree",
+     "Expression",
+     "Example"
+    ],
+    "rows": [
+     [
+      "certain",
+      "Il est certain que + ind.",
+      "Il est certain qu'il viendra."
+     ],
+     [
+      "probable",
+      "Il est probable que + ind.",
+      "Il est probable qu'il neigera."
+     ],
+     [
+      "probable",
+      "sans doute",
+      "Il est sans doute malade."
+     ],
+     [
+      "possible",
+      "Il se peut que + subj.",
+      "Il se peut qu'elle soit partie."
+     ],
+     [
+      "possible",
+      "peut-être que + ind.",
+      "Peut-être qu'il a oublié."
+     ],
+     [
+      "unlikely",
+      "Il est peu probable que + subj.",
+      "Il est peu probable qu'il gagne."
+     ]
+    ]
+   },
+   "tip": "Sans doute = probably. For 'without a doubt', say sans aucun doute."
+  },
+  {
+   "h": "Guessing with devoir and the futur antérieur",
+   "body": [
+    "*Devoir* expresses a logical guess, like 'must': *Il doit être fatigué.* (He must be tired.) In the past: *Il a dû oublier.* (He must have forgotten.)",
+    "You saw in lesson 107 that the futur antérieur does the same: *Il aura oublié.* *Devoir* is more common in conversation."
+   ]
+  },
+  {
+   "h": "The conditional of unconfirmed information",
+   "body": [
+    "News reports use the conditional to report something that is not confirmed: *Le suspect aurait quitté le pays.* (The suspect has reportedly left the country.) *Il y aurait trois blessés.* (There are said to be three injured.)",
+    "Recognise it in La Presse, Radio-Canada or TVA headlines: it signals 'allegedly', 'reportedly'. *Selon nos informations, le maire démissionnerait.*"
+   ]
+  },
+  {
+   "h": "Quebec: mettons que, ça se peut",
+   "body": [
+    "*Mettons que* (let's say) is the everyday Quebec way to launch a hypothesis or a rough estimate: *Mettons qu'on part à huit heures.* *Ça coûte, mettons, 50 $.* In speech it is usually followed by the indicative; in writing, prefer *supposons que* + subjunctive.",
+    "*Ça se peut* (it's possible, maybe) is a very common answer: *— Il va neiger? — Ça se peut.* The question form *Ça se peut-tu?* means 'Is that even possible?'. *Mettons!* alone means 'Sure, OK' or, ironically, 'Yeah, right.'"
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Supposons que le vol soit annulé : qu'est-ce qu'on fait?",
+   "en": "Suppose the flight is cancelled: what do we do?",
+   "note": "supposons que + subjunctive"
+  },
+  {
+   "fr": "Imaginons que tu gagnes un million de dollars.",
+   "en": "Imagine you win a million dollars.",
+   "note": "imaginons que + indicative"
+  },
+  {
+   "fr": "Apporte ton manteau au cas où il ferait froid.",
+   "en": "Bring your coat in case it gets cold.",
+   "note": "au cas où + conditional"
+  },
+  {
+   "fr": "Si jamais tu as besoin d'aide, appelle-moi.",
+   "en": "If you ever need help, call me.",
+   "note": "si jamais + indicative"
+  },
+  {
+   "fr": "En cas de panne, composez ce numéro.",
+   "en": "In case of a breakdown, dial this number.",
+   "note": "en cas de + noun"
+  },
+  {
+   "fr": "Il se peut qu'il y ait une tempête ce soir.",
+   "en": "There might be a storm tonight.",
+   "note": "il se peut que + subjunctive"
+  },
+  {
+   "fr": "Il est probable que les prix augmenteront.",
+   "en": "Prices will probably go up.",
+   "note": "probable → indicative"
+  },
+  {
+   "fr": "Il est peu probable qu'elle accepte.",
+   "en": "It's unlikely she'll accept.",
+   "note": "peu probable → subjunctive"
+  },
+  {
+   "fr": "Peut-être qu'il est déjà parti.",
+   "en": "Maybe he's already left.",
+   "note": "peut-être que + indicative"
+  },
+  {
+   "fr": "Elle n'a pas répondu; elle doit être en réunion.",
+   "en": "She didn't answer; she must be in a meeting.",
+   "note": "devoir = logical guess"
+  },
+  {
+   "fr": "Ils ont dû se tromper de route.",
+   "en": "They must have taken the wrong road.",
+   "note": "past guess with devoir"
+  },
+  {
+   "fr": "Il est sans doute fatigué après son voyage.",
+   "en": "He's probably tired after his trip.",
+   "note": "sans doute = probably"
+  },
+  {
+   "fr": "Selon des sources, le ministre démissionnerait demain.",
+   "en": "According to sources, the minister will reportedly resign tomorrow.",
+   "note": "journalistic conditional"
+  },
+  {
+   "fr": "L'incendie aurait été causé par une cigarette.",
+   "en": "The fire was reportedly caused by a cigarette.",
+   "note": "past conditional = unconfirmed past fact"
+  },
+  {
+   "fr": "Mettons qu'on se rejoint au café vers dix heures.",
+   "en": "Let's say we meet at the café around ten.",
+   "note": "mettons que, Quebec speech"
+  },
+  {
+   "fr": "— Penses-tu qu'il va venir? — Ça se peut.",
+   "en": "\"Do you think he'll come?\" \"Maybe.\"",
+   "note": "ça se peut = it's possible"
+  }
+ ],
+ "quebec": {
+  "intro": "'Mettons que…' (let's say) is the go-to Quebec way to start a hypothesis or give an estimate. Pair it with 'ça se peut' (maybe) and 'j'gage que' (I bet) to speculate like a local.",
+  "items": [
+   {
+    "std": "Supposons que nous partions à huit heures.",
+    "qc": "Mettons qu'on part à huit heures.",
+    "en": "Let's say we leave at eight.",
+    "note": "informal; indicative after mettons que in speech"
+   },
+   {
+    "std": "Ça coûte environ 50 $.",
+    "qc": "Ça coûte, mettons, 50 piasses.",
+    "en": "It costs, let's say, 50 bucks.",
+    "note": "piasse = dollar, informal"
+   },
+   {
+    "std": "C'est possible.",
+    "qc": "Ça se peut.",
+    "en": "Maybe. / It's possible.",
+    "note": "very common answer, neutral to informal"
+   },
+   {
+    "std": "Est-ce possible?",
+    "qc": "Ça se peut-tu?",
+    "en": "Is that even possible?",
+    "note": "-tu question particle, informal"
+   },
+   {
+    "std": "Je parie qu'il va être en retard.",
+    "qc": "J'gage qu'y va être en retard.",
+    "en": "I bet he's going to be late.",
+    "note": "gager = to bet, Quebec usage"
+   },
+   {
+    "std": "Oui, bien sûr… (ironique)",
+    "qc": "Ouin, mettons…",
+    "en": "Yeah, right…",
+    "note": "ouin = oui, skeptical tone; informal"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Supposons qu'il ___ en retard.",
+   "options": [
+    "est",
+    "soit",
+    "serait",
+    "sera"
+   ],
+   "a": 1,
+   "why": "Supposons que + subjunctive."
+  },
+  {
+   "t": "mcq",
+   "q": "Prends ta tuque au cas où il ___ froid.",
+   "options": [
+    "fait",
+    "fasse",
+    "ferait",
+    "fera"
+   ],
+   "a": 2,
+   "why": "Au cas où + conditional."
+  },
+  {
+   "t": "mcq",
+   "q": "'Il est sans doute malade' means…",
+   "options": [
+    "He's definitely sick.",
+    "He's probably sick.",
+    "He's not sick.",
+    "He's sick without doubt."
+   ],
+   "a": 1,
+   "why": "Sans doute = probably."
+  },
+  {
+   "t": "mcq",
+   "q": "In a news report, 'Le suspect aurait fui' means…",
+   "options": [
+    "The suspect would flee.",
+    "The suspect has reportedly fled.",
+    "The suspect should have fled.",
+    "The suspect fled for sure."
+   ],
+   "a": 1,
+   "why": "The journalistic conditional marks unconfirmed information."
+  },
+  {
+   "t": "fill",
+   "q": "Il se peut qu'elle ___ partie. (être)",
+   "a": [
+    "soit"
+   ],
+   "en": "She may have left.",
+   "why": "Il se peut que + subjunctive."
+  },
+  {
+   "t": "fill",
+   "q": "Si ___ tu passes par Québec, appelle-moi. (ever)",
+   "a": [
+    "jamais"
+   ],
+   "en": "If you ever pass through Quebec City, call me.",
+   "why": "Si jamais = if ever."
+  },
+  {
+   "t": "fill",
+   "q": "Il n'est pas là; il ___ être malade. (must, devoir)",
+   "a": [
+    "doit"
+   ],
+   "en": "He's not here; he must be sick.",
+   "why": "Devoir = logical guess."
+  },
+  {
+   "t": "fill",
+   "q": "___ qu'on part à huit heures. (Let's say, Quebec)",
+   "a": [
+    "Mettons"
+   ],
+   "en": "Let's say we leave at eight.",
+   "why": "Mettons que = let's say."
+  },
+  {
+   "t": "build",
+   "en": "Maybe he forgot.",
+   "a": "Peut-être qu'il a oublié."
+  },
+  {
+   "t": "build",
+   "en": "They must have gotten lost.",
+   "a": "Ils ont dû se perdre."
+  },
+  {
+   "t": "build",
+   "en": "In case of fire, call 911.",
+   "a": "En cas d'incendie, appelez le 911."
+  },
+  {
+   "t": "translate",
+   "en": "It's possible.",
+   "a": [
+    "C'est possible.",
+    "Ça se peut.",
+    "Ça se peut bien."
+   ],
+   "why": "Ça se peut is very common in Quebec."
+  },
+  {
+   "t": "translate",
+   "en": "It's unlikely he'll come.",
+   "a": [
+    "Il est peu probable qu'il vienne.",
+    "C'est peu probable qu'il vienne.",
+    "Ça m'étonnerait qu'il vienne."
+   ],
+   "why": "Peu probable + subjunctive."
+  },
+  {
+   "t": "translate",
+   "en": "I bet she'll be late.",
+   "a": [
+    "Je parie qu'elle va être en retard.",
+    "Je parie qu'elle sera en retard.",
+    "Je gage qu'elle va être en retard.",
+    "Je gage qu'elle sera en retard."
+   ],
+   "why": "Parier; gager is Quebec usage."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "supposer",
+   "en": "to suppose, to assume",
+   "ex": "Je suppose que tu as raison."
+  },
+  {
+   "fr": "l'hypothèse",
+   "en": "hypothesis, assumption",
+   "g": "f",
+   "ex": "C'est une hypothèse intéressante."
+  },
+  {
+   "fr": "au cas où",
+   "en": "in case",
+   "ex": "Prends ça au cas où."
+  },
+  {
+   "fr": "si jamais",
+   "en": "if ever, should",
+   "ex": "Si jamais il appelle, dis-moi-le."
+  },
+  {
+   "fr": "en cas de",
+   "en": "in case of",
+   "ex": "En cas d'urgence, sortez ici."
+  },
+  {
+   "fr": "il se peut que",
+   "en": "it may be that",
+   "ex": "Il se peut qu'il pleuve."
+  },
+  {
+   "fr": "probablement",
+   "en": "probably",
+   "ex": "Il va probablement neiger."
+  },
+  {
+   "fr": "sans doute",
+   "en": "probably",
+   "ex": "Elle est sans doute au travail."
+  },
+  {
+   "fr": "peu probable",
+   "en": "unlikely",
+   "ex": "C'est peu probable."
+  },
+  {
+   "fr": "selon nos informations",
+   "en": "according to our information",
+   "ex": "Selon nos informations, l'usine fermerait."
+  },
+  {
+   "fr": "le témoin",
+   "en": "witness",
+   "g": "m",
+   "ex": "Un témoin aurait vu le suspect."
+  },
+  {
+   "fr": "mettons que",
+   "en": "let's say (that)",
+   "ex": "Mettons qu'on y va demain.",
+   "qc": true
+  },
+  {
+   "fr": "ça se peut",
+   "en": "maybe, it's possible",
+   "ex": "Ça se peut qu'il vienne.",
+   "qc": true
+  },
+  {
+   "fr": "gager",
+   "en": "to bet",
+   "ex": "Je gage que le Canadien va perdre.",
+   "qc": true
+  },
+  {
+   "fr": "la piasse",
+   "en": "dollar, buck",
+   "g": "f",
+   "ex": "Ça coûte dix piasses.",
+   "qc": true
+  },
+  {
+   "fr": "deviner",
+   "en": "to guess",
+   "ex": "Devine qui j'ai vu!"
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "supposons qu'il soit",
+    "tip": "su-po-zon kil SWA."
+   },
+   {
+    "fr": "au cas où",
+    "tip": "o-ka-OO: no liaison, three clear syllables."
+   },
+   {
+    "fr": "il se peut que",
+    "tip": "il-suh-PEU-kuh; casual: 's'peut'."
+   },
+   {
+    "fr": "mettons que",
+    "tip": "mè-TON kuh."
+   },
+   {
+    "fr": "ça se peut-tu?",
+    "tip": "sa-s'peu-TSU: the tu is pronounced 'tsu' in Quebec."
+   },
+   {
+    "fr": "il aurait fui",
+    "tip": "i-lo-rè FWI."
+   }
+  ],
+  "title": "Le chalet en février",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "On monte au chalet vendredi? Mettons qu'on part vers quatre heures.",
+    "en": "Are we going up to the cottage Friday? Let's say we leave around four."
+   },
+   {
+    "s": "B",
+    "fr": "D'accord, mais il se peut qu'il y ait une tempête vendredi soir.",
+    "en": "OK, but there might be a storm Friday night."
+   },
+   {
+    "s": "A",
+    "fr": "Ah oui? Selon MétéoMédia, il tomberait trente centimètres.",
+    "en": "Oh yeah? According to MétéoMédia, thirty centimetres could fall."
+   },
+   {
+    "s": "B",
+    "fr": "Supposons qu'on reste pris sur la 117 : on fait quoi?",
+    "en": "Suppose we get stuck on the 117: what do we do?"
+   },
+   {
+    "s": "A",
+    "fr": "On apporte des couvertures et de l'eau, au cas où.",
+    "en": "We bring blankets and water, just in case."
+   },
+   {
+    "s": "B",
+    "fr": "Et si jamais la route est fermée, on dort chez ma tante à Saint-Jovite.",
+    "en": "And if the road is ever closed, we sleep at my aunt's in Saint-Jovite."
+   },
+   {
+    "s": "A",
+    "fr": "Parfait. Ton frère vient-tu?",
+    "en": "Perfect. Is your brother coming?"
+   },
+   {
+    "s": "B",
+    "fr": "Ça se peut. Il ne m'a pas répondu; il doit être au travail.",
+    "en": "Maybe. He hasn't answered me; he must be at work."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What time do they plan to leave?",
+    "options": [
+     "Around four",
+     "At noon",
+     "Saturday morning"
+    ],
+    "a": 0
+   },
+   {
+    "q": "What will they bring just in case?",
+    "options": [
+     "A shovel and salt",
+     "Blankets and water",
+     "Extra gas"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Where will they sleep if the road is closed?",
+    "options": [
+     "In the car",
+     "At B's aunt's",
+     "At a hotel"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Imagine you lose your job tomorrow. Say three things you'd do, starting with 'Supposons que…'.",
+   "model": "Supposons que je perde mon emploi demain. D'abord, je mettrais à jour mon CV. Ensuite, je prendrais une semaine de vacances. Et puis je chercherais un poste en français."
+  },
+  {
+   "prompt": "Your friend hasn't answered all day. Make three guesses with different degrees of probability.",
+   "model": "Il doit être occupé. Il se peut qu'il ait perdu son cellulaire. Ça m'étonnerait qu'il soit fâché contre moi."
+  },
+  {
+   "prompt": "Read a headline aloud and explain it in English: 'Le maire aurait reçu des pots-de-vin.'",
+   "model": "Le maire aurait reçu des pots-de-vin = The mayor allegedly received bribes. The conditional shows it's not confirmed."
+  },
+  {
+   "prompt": "Plan an outing with a friend in casual Quebec style using mettons que and ça se peut.",
+   "model": "Mettons qu'on va au cinéma samedi soir? Ça se peut que Julie vienne aussi. Ça coûte, mettons, quinze piasses."
+  }
+ ],
+ "write": {
+  "prompt": "Write 6–8 sentences: 'Imagine Montreal in 2050.' Use at least four different hypothesis or probability expressions.",
+  "model": "Imaginons que nous soyons en 2050. Il est probable que les voitures à essence auront disparu du centre-ville. Il se peut aussi que l'hiver soit beaucoup plus court à cause des changements climatiques. Supposons que le métro se rende partout sur l'île : on n'aurait presque plus besoin de char. Par contre, il est peu probable que les cônes orange disparaissent! Au cas où vous vous poseriez la question, le Canadien aura sans doute gagné une autre coupe Stanley."
+ },
+ "quiz": [
+  {
+   "q": "Which expression takes the conditional?",
+   "options": [
+    "si jamais",
+    "au cas où",
+    "supposons que",
+    "il se peut que"
+   ],
+   "a": 1,
+   "why": "Au cas où il pleuvrait."
+  },
+  {
+   "q": "Which expression takes the subjunctive?",
+   "options": [
+    "il est probable que",
+    "il se peut que",
+    "peut-être que",
+    "si jamais"
+   ],
+   "a": 1,
+   "why": "Il se peut qu'il vienne."
+  },
+  {
+   "q": "'Sans doute' means…",
+   "options": [
+    "without doubt (certain)",
+    "probably",
+    "never",
+    "doubtful"
+   ],
+   "a": 1,
+   "why": "A false friend: it means probably."
+  },
+  {
+   "q": "'Il a dû partir' as a guess means…",
+   "options": [
+    "He had to leave.",
+    "He must have left.",
+    "He should leave.",
+    "He will leave."
+   ],
+   "a": 1,
+   "why": "Devoir in the passé composé can express a probability (context decides)."
+  },
+  {
+   "q": "In the news, 'Il y aurait deux blessés' means…",
+   "options": [
+    "There would be two injured.",
+    "There are reportedly two injured.",
+    "There were two injured for sure.",
+    "There should be two injured."
+   ],
+   "a": 1,
+   "why": "Journalistic conditional."
+  },
+  {
+   "q": "What does 'Mettons qu'on part à 8 h' mean?",
+   "options": [
+    "We put it at 8.",
+    "Let's say we leave at 8.",
+    "We left at 8.",
+    "We must leave at 8."
+   ],
+   "a": 1,
+   "why": "Mettons que = let's say."
+  },
+  {
+   "q": "'Ça se peut-tu?' expresses…",
+   "options": [
+    "Is that even possible?",
+    "Can you do it?",
+    "Can I?",
+    "It's possible, you know."
+   ],
+   "a": 0,
+   "why": "Disbelief with the Quebec -tu particle."
+  },
+  {
+   "q": "Complete: Peut-être qu'il ___ oublié.",
+   "options": [
+    "ait",
+    "a",
+    "aurait eu",
+    "avoir"
+   ],
+   "a": 1,
+   "why": "Peut-être que + indicative."
+  },
+  {
+   "q": "'J'gage que…' means…",
+   "options": [
+    "I guess that…",
+    "I bet that…",
+    "I hope that…",
+    "I wage that…"
+   ],
+   "a": 1,
+   "why": "Gager = to bet (Quebec)."
+  }
+ ]
+}

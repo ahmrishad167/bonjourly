@@ -1,0 +1,679 @@
+{
+ "w": 35,
+ "title": "Passé composé, irregular past participles",
+ "goal": "By the end of this lesson you can use the most common irregular past participles (eu, été, fait, pris, mis, dit, vu, bu, lu, pu, voulu, dû…) in the passé composé, and understand the Quebec spoken form 'j'ai faite'.",
+ "learn": [
+  {
+   "h": "Why irregulars matter",
+   "body": [
+    "The most frequent verbs in French have irregular past participles. You will use *j'ai fait*, *j'ai eu*, *j'ai pris* and *j'ai vu* every single day, so they're worth memorising as chunks.",
+    "The structure doesn't change: *avoir* in the present + participle. Only the participle is irregular."
+   ],
+   "table": {
+    "head": [
+     "Infinitive",
+     "Participle",
+     "Example"
+    ],
+    "rows": [
+     [
+      "avoir",
+      "eu",
+      "J'ai eu un rhume."
+     ],
+     [
+      "être",
+      "été",
+      "J'ai été malade."
+     ],
+     [
+      "faire",
+      "fait",
+      "J'ai fait l'épicerie."
+     ],
+     [
+      "prendre",
+      "pris",
+      "J'ai pris le métro."
+     ],
+     [
+      "mettre",
+      "mis",
+      "J'ai mis mon manteau."
+     ],
+     [
+      "dire",
+      "dit",
+      "Il a dit oui."
+     ]
+    ]
+   },
+   "tip": "Être uses avoir in the passé composé: j'ai été (I was / I've been)."
+  },
+  {
+   "h": "The -u family",
+   "body": [
+    "Many irregular participles end in *-u*. Group them to remember them: *voir → vu*, *boire → bu*, *lire → lu*, *pouvoir → pu*, *vouloir → voulu*, *savoir → su*, *devoir → dû*, *connaître → connu*, *recevoir → reçu*, *courir → couru*, *venir → venu* (uses être, next week).",
+    "*Eu* (from avoir) is pronounced [ü], just like the letter u."
+   ],
+   "table": {
+    "head": [
+     "Infinitive",
+     "Participle",
+     "Example"
+    ],
+    "rows": [
+     [
+      "voir",
+      "vu",
+      "J'ai vu un bon film."
+     ],
+     [
+      "boire",
+      "bu",
+      "On a bu un café."
+     ],
+     [
+      "lire",
+      "lu",
+      "Tu as lu ce livre?"
+     ],
+     [
+      "pouvoir",
+      "pu",
+      "Je n'ai pas pu venir."
+     ],
+     [
+      "vouloir",
+      "voulu",
+      "Il a voulu partir."
+     ],
+     [
+      "devoir",
+      "dû",
+      "J'ai dû travailler."
+     ],
+     [
+      "recevoir",
+      "reçu",
+      "J'ai reçu ton message."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "The -is, -it and -ert families",
+   "body": [
+    "*-is*: *prendre → pris* (and *appris, compris*), *mettre → mis* (and *promis*).",
+    "*-it*: *faire → fait*, *dire → dit*, *écrire → écrit*.",
+    "*-ert*: *ouvrir → ouvert*, *offrir → offert*, *découvrir → découvert*."
+   ],
+   "table": {
+    "head": [
+     "Ending",
+     "Participles"
+    ],
+    "rows": [
+     [
+      "-is",
+      "pris, appris, compris, mis, promis"
+     ],
+     [
+      "-it",
+      "fait, dit, écrit"
+     ],
+     [
+      "-ert",
+      "ouvert, offert, découvert"
+     ]
+    ]
+   },
+   "tip": "Prendre family → -pris: j'ai compris, j'ai appris."
+  },
+  {
+   "h": "Useful chunks",
+   "body": [
+    "*Qu'est-ce que tu as fait?* (What did you do?) *J'ai compris.* (I understood / Got it.) *Je n'ai pas compris.* *J'ai eu peur.* (I got scared.) *Il a fait beau.* (The weather was nice.) *J'ai dû partir.* (I had to leave.) *Tu as vu ça?* (Did you see that?)"
+   ]
+  },
+  {
+   "h": "Quebec: j'ai faite",
+   "body": [
+    "In Quebec speech you'll often hear *faite* (with the t pronounced) where standard French has *fait*: *J'ai faite le ménage.* *C'est faite!* (It's done!) The same can happen with *dit* → *dite*.",
+    "This is informal spoken Quebec; in writing and careful speech, use *fait* and *dit* for a masculine or unspecified object. (*Faite* is correct in standard French only when it agrees with a feminine noun: *la tarte que j'ai faite*.)"
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Qu'est-ce que tu as fait en fin de semaine?",
+   "en": "What did you do on the weekend?"
+  },
+  {
+   "fr": "J'ai fait le ménage et l'épicerie.",
+   "en": "I did the cleaning and the groceries."
+  },
+  {
+   "fr": "J'ai eu un rhume la semaine passée.",
+   "en": "I had a cold last week.",
+   "note": "eu sounds like [ü]"
+  },
+  {
+   "fr": "Elle a été malade deux jours.",
+   "en": "She was sick for two days.",
+   "note": "être → été, with avoir"
+  },
+  {
+   "fr": "On a pris l'autobus pour aller en ville.",
+   "en": "We took the bus to go downtown."
+  },
+  {
+   "fr": "J'ai mis mes bottes et ma tuque.",
+   "en": "I put on my boots and my toque."
+  },
+  {
+   "fr": "Il a dit qu'il arrive à huit heures.",
+   "en": "He said he's arriving at eight."
+  },
+  {
+   "fr": "Tu as vu le match hier soir?",
+   "en": "Did you see the game last night?"
+  },
+  {
+   "fr": "Nous avons bu du vin au souper.",
+   "en": "We drank wine at supper."
+  },
+  {
+   "fr": "J'ai lu un roman de Michel Tremblay.",
+   "en": "I read a novel by Michel Tremblay."
+  },
+  {
+   "fr": "Je n'ai pas pu venir, désolé.",
+   "en": "I couldn't come, sorry."
+  },
+  {
+   "fr": "Ils ont dû partir tôt.",
+   "en": "They had to leave early."
+  },
+  {
+   "fr": "J'ai reçu ton courriel.",
+   "en": "I got your email."
+  },
+  {
+   "fr": "Vous avez compris?",
+   "en": "Did you understand?"
+  },
+  {
+   "fr": "Elle a ouvert la fenêtre.",
+   "en": "She opened the window."
+  },
+  {
+   "fr": "C'est faite!",
+   "en": "It's done!",
+   "note": "informal Quebec; standard: C'est fait!"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebec speech often pronounces the t of 'fait' (and sometimes 'dit'): 'j'ai faite', 'c'est faite'. Understand it; write 'fait'.",
+  "items": [
+   {
+    "std": "J'ai fait le ménage.",
+    "qc": "J'ai faite le ménage.",
+    "en": "I did the cleaning.",
+    "note": "informal speech; final t pronounced"
+   },
+   {
+    "std": "C'est fait!",
+    "qc": "C'est faite!",
+    "en": "It's done!",
+    "note": "very common, informal"
+   },
+   {
+    "std": "C'est tout fait.",
+    "qc": "C'est toutte faite.",
+    "en": "It's all done.",
+    "note": "informal; toutte with the t"
+   },
+   {
+    "std": "Tu as vu ça?",
+    "qc": "T'as-tu vu ça?",
+    "en": "Did you see that?",
+    "note": "informal -tu question particle"
+   },
+   {
+    "std": "Je n'ai pas pu.",
+    "qc": "J'ai pas pu.",
+    "en": "I couldn't.",
+    "note": "ne dropped"
+   },
+   {
+    "std": "Qu'est-ce que tu as fait?",
+    "qc": "Qu'est-ce t'as faite?",
+    "en": "What did you do?",
+    "note": "informal; que + tu as merge"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Participle of 'prendre':",
+   "options": [
+    "prendu",
+    "pris",
+    "prit",
+    "prené"
+   ],
+   "a": 1,
+   "why": "prendre → pris."
+  },
+  {
+   "t": "mcq",
+   "q": "Participle of 'voir':",
+   "options": [
+    "voi",
+    "voyé",
+    "vu",
+    "vit"
+   ],
+   "a": 2,
+   "why": "voir → vu."
+  },
+  {
+   "t": "mcq",
+   "q": "'J'ai été malade' uses…",
+   "options": [
+    "être + été",
+    "avoir + été",
+    "avoir + eu",
+    "être + eu"
+   ],
+   "a": 1,
+   "why": "être takes avoir in the passé composé: j'ai été."
+  },
+  {
+   "t": "mcq",
+   "q": "'C'est faite!' is…",
+   "options": [
+    "standard written French",
+    "informal Quebec for C'est fait!",
+    "a feminine noun",
+    "a mistake no one says"
+   ],
+   "a": 1,
+   "why": "Spoken Quebec often pronounces the t of fait."
+  },
+  {
+   "t": "fill",
+   "q": "J'ai ___ l'épicerie. (faire)",
+   "a": [
+    "fait"
+   ],
+   "en": "I did the groceries.",
+   "why": "faire → fait."
+  },
+  {
+   "t": "fill",
+   "q": "Nous avons ___ du vin. (boire)",
+   "a": [
+    "bu"
+   ],
+   "en": "We drank wine.",
+   "why": "boire → bu."
+  },
+  {
+   "t": "fill",
+   "q": "Je n'ai pas ___ venir. (pouvoir)",
+   "a": [
+    "pu"
+   ],
+   "en": "I couldn't come.",
+   "why": "pouvoir → pu."
+  },
+  {
+   "t": "fill",
+   "q": "Elle a ___ la fenêtre. (ouvrir)",
+   "a": [
+    "ouvert"
+   ],
+   "en": "She opened the window.",
+   "why": "ouvrir → ouvert."
+  },
+  {
+   "t": "fill",
+   "q": "Il a ___ oui. (dire)",
+   "a": [
+    "dit"
+   ],
+   "en": "He said yes.",
+   "why": "dire → dit."
+  },
+  {
+   "t": "build",
+   "en": "What did you do on the weekend?",
+   "a": "Qu'est-ce que tu as fait en fin de semaine?"
+  },
+  {
+   "t": "build",
+   "en": "I got your email.",
+   "a": "J'ai reçu ton courriel."
+  },
+  {
+   "t": "translate",
+   "en": "I didn't understand.",
+   "a": [
+    "Je n'ai pas compris.",
+    "J'ai pas compris."
+   ],
+   "why": "comprendre → compris."
+  },
+  {
+   "t": "translate",
+   "en": "They had to leave.",
+   "a": [
+    "Ils ont dû partir.",
+    "Elles ont dû partir."
+   ],
+   "why": "devoir → dû (with a circumflex)."
+  },
+  {
+   "t": "translate",
+   "en": "Did you see the game?",
+   "a": [
+    "Tu as vu le match?",
+    "Vous avez vu le match?",
+    "As-tu vu le match?",
+    "Avez-vous vu le match?",
+    "Est-ce que tu as vu le match?",
+    "Est-ce que vous avez vu le match?",
+    "T'as vu le match?",
+    "T'as-tu vu le match?",
+    "Tu as vu la game?",
+    "T'as vu la game?"
+   ],
+   "why": "voir → vu."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "eu (avoir)",
+   "en": "had",
+   "ex": "J'ai eu de la chance."
+  },
+  {
+   "fr": "été (être)",
+   "en": "been, was",
+   "ex": "J'ai été surpris."
+  },
+  {
+   "fr": "fait (faire)",
+   "en": "done, made",
+   "ex": "J'ai fait un gâteau."
+  },
+  {
+   "fr": "pris (prendre)",
+   "en": "taken",
+   "ex": "On a pris un taxi."
+  },
+  {
+   "fr": "mis (mettre)",
+   "en": "put",
+   "ex": "J'ai mis la table."
+  },
+  {
+   "fr": "dit (dire)",
+   "en": "said",
+   "ex": "Qu'est-ce qu'il a dit?"
+  },
+  {
+   "fr": "écrit (écrire)",
+   "en": "written",
+   "ex": "J'ai écrit une lettre."
+  },
+  {
+   "fr": "vu (voir)",
+   "en": "seen",
+   "ex": "Tu as vu ce film?"
+  },
+  {
+   "fr": "bu (boire)",
+   "en": "drunk",
+   "ex": "J'ai bu trop de café."
+  },
+  {
+   "fr": "lu (lire)",
+   "en": "read",
+   "ex": "J'ai lu le journal."
+  },
+  {
+   "fr": "pu (pouvoir)",
+   "en": "been able to",
+   "ex": "Je n'ai pas pu dormir."
+  },
+  {
+   "fr": "dû (devoir)",
+   "en": "had to",
+   "ex": "J'ai dû partir."
+  },
+  {
+   "fr": "reçu (recevoir)",
+   "en": "received",
+   "ex": "J'ai reçu un colis."
+  },
+  {
+   "fr": "ouvert (ouvrir)",
+   "en": "opened",
+   "ex": "Le magasin a ouvert à neuf heures."
+  },
+  {
+   "fr": "le courriel",
+   "en": "email",
+   "g": "m",
+   "ex": "J'ai écrit un courriel.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "j'ai eu",
+    "tip": "zhé-Ü: eu sounds exactly like the French u."
+   },
+   {
+    "fr": "j'ai été",
+    "tip": "zhé-é-TÉ: three é sounds in a row."
+   },
+   {
+    "fr": "j'ai fait",
+    "tip": "zhé-FÈ: the t is silent in standard French."
+   },
+   {
+    "fr": "j'ai faite",
+    "tip": "Quebec speech: zhé-FÈTT."
+   },
+   {
+    "fr": "j'ai pris",
+    "tip": "zhé-PRI: silent s."
+   },
+   {
+    "fr": "j'ai dû",
+    "tip": "zhé-DÜ: the circumflex doesn't change the sound."
+   }
+  ],
+  "title": "Une semaine chargée",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "T'as l'air fatigué. Qu'est-ce que t'as fait cette semaine?",
+    "en": "You look tired. What did you do this week?"
+   },
+   {
+    "s": "B",
+    "fr": "Lundi, j'ai eu un rhume. J'ai pris congé.",
+    "en": "On Monday, I had a cold. I took the day off."
+   },
+   {
+    "s": "A",
+    "fr": "Ah non! T'as vu le médecin?",
+    "en": "Oh no! Did you see the doctor?"
+   },
+   {
+    "s": "B",
+    "fr": "Non, j'ai bu du thé et j'ai dormi. Mais mardi, j'ai dû retourner au bureau.",
+    "en": "No, I drank tea and slept. But on Tuesday, I had to go back to the office."
+   },
+   {
+    "s": "A",
+    "fr": "Et ton rapport?",
+    "en": "And your report?"
+   },
+   {
+    "s": "B",
+    "fr": "J'ai écrit le rapport hier soir et j'ai envoyé ça ce matin. C'est faite!",
+    "en": "I wrote the report last night and sent it this morning. It's done!"
+   },
+   {
+    "s": "A",
+    "fr": "Bravo! T'as mérité une bonne fin de semaine.",
+    "en": "Bravo! You've earned a good weekend."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What happened on Monday?",
+    "options": [
+     "B had a cold",
+     "B saw the doctor",
+     "B wrote a report"
+    ],
+    "a": 0
+   },
+   {
+    "q": "What did B drink?",
+    "options": [
+     "Coffee",
+     "Tea",
+     "Wine"
+    ],
+    "a": 1
+   },
+   {
+    "q": "When did B write the report?",
+    "options": [
+     "Monday",
+     "Last night",
+     "This morning"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Say three things you did yesterday using irregular participles (fait, pris, vu, lu, bu…).",
+   "model": "Hier, j'ai pris le métro, j'ai fait l'épicerie et j'ai lu un peu avant de dormir."
+  },
+  {
+   "prompt": "Apologise for missing a meeting and give a reason.",
+   "model": "Désolé, je n'ai pas pu venir. J'ai eu un problème avec mon char."
+  },
+  {
+   "prompt": "Say 'It's done!' in standard French, then the Quebec way.",
+   "model": "C'est fait! / C'est faite!"
+  }
+ ],
+ "write": {
+  "prompt": "Write 6 sentences about a busy day, using at least five different irregular past participles.",
+  "model": "Hier, j'ai eu une journée chargée. Le matin, j'ai pris l'autobus à sept heures. Au bureau, j'ai lu mes courriels et j'ai écrit un rapport. À midi, j'ai bu un café avec ma collègue. Le soir, j'ai fait du sport. J'ai vu un film et j'ai dormi tout de suite!"
+ },
+ "quiz": [
+  {
+   "q": "Participle of 'avoir':",
+   "options": [
+    "avé",
+    "eu",
+    "été",
+    "avu"
+   ],
+   "a": 1,
+   "why": "avoir → eu, pronounced [ü]."
+  },
+  {
+   "q": "Which participle ends in -it?",
+   "options": [
+    "pris",
+    "dit",
+    "vu",
+    "ouvert"
+   ],
+   "a": 1,
+   "why": "faire → fait, dire → dit, écrire → écrit."
+  },
+  {
+   "q": "Participle of 'mettre':",
+   "options": [
+    "metté",
+    "mis",
+    "mit",
+    "mettu"
+   ],
+   "a": 1,
+   "why": "mettre → mis."
+  },
+  {
+   "q": "'J'ai dû partir' means…",
+   "options": [
+    "I should leave",
+    "I had to leave",
+    "I wanted to leave",
+    "I could leave"
+   ],
+   "a": 1,
+   "why": "devoir → dû = had to."
+  },
+  {
+   "q": "'Compris' comes from…",
+   "options": [
+    "comprendre",
+    "compter",
+    "composer",
+    "comprimer"
+   ],
+   "a": 0,
+   "why": "Prendre family: comprendre → compris."
+  },
+  {
+   "q": "'Il a fait beau hier' means…",
+   "options": [
+    "He made something nice",
+    "The weather was nice yesterday",
+    "He was handsome",
+    "It's nice tomorrow"
+   ],
+   "a": 1,
+   "why": "il fait beau → il a fait beau."
+  },
+  {
+   "q": "In standard French, 'faite' is correct when…",
+   "options": [
+    "always",
+    "it agrees with a feminine noun (la tarte que j'ai faite)",
+    "never",
+    "after être only"
+   ],
+   "a": 1,
+   "why": "Agreement only; j'ai faite le ménage is informal Quebec."
+  },
+  {
+   "q": "Participle of 'recevoir':",
+   "options": [
+    "recevé",
+    "reçu",
+    "recevu",
+    "reçoit"
+   ],
+   "a": 1,
+   "why": "recevoir → reçu (cedilla keeps the s sound)."
+  }
+ ]
+}

@@ -1,0 +1,636 @@
+{
+ "w": 66,
+ "title": "Animals and nature",
+ "goal": "By the end of this lesson you can name common animals, landscapes and outdoor activities, and talk about a weekend at the chalet in Quebec.",
+ "learn": [
+  {
+   "h": "Animals: pets, farm and wild",
+   "body": [
+    "Pets (*les animaux de compagnie*): *le chien*, *le chat*, *le poisson*, *l'oiseau* (m). Note the irregular plurals: *un animal* → *des animaux*, *un oiseau* → *des oiseaux*.",
+    "Wild animals of Quebec: *l'orignal* (moose), *l'ours* (bear), *le castor* (beaver), *le loup* (wolf), *le renard* (fox), *le raton laveur* (raccoon), *l'écureuil* (squirrel), *le huard* (loon), *la bernache* (Canada goose).",
+    "Some animal names are always masculine or always feminine whatever the animal's sex: *une souris* (a mouse), *un écureuil*, *une girafe*. Add *mâle* or *femelle* if needed."
+   ],
+   "table": {
+    "head": [
+     "French",
+     "English",
+     "Plural"
+    ],
+    "rows": [
+     [
+      "l'animal (m)",
+      "animal",
+      "les animaux"
+     ],
+     [
+      "l'oiseau (m)",
+      "bird",
+      "les oiseaux"
+     ],
+     [
+      "l'orignal (m)",
+      "moose",
+      "les orignaux"
+     ],
+     [
+      "le cheval",
+      "horse",
+      "les chevaux"
+     ],
+     [
+      "l'ours (m)",
+      "bear",
+      "les ours"
+     ]
+    ]
+   },
+   "tip": "Most nouns in -al make their plural in -aux: un orignal, des orignaux."
+  },
+  {
+   "h": "Landscapes and nature",
+   "body": [
+    "*la forêt* (forest), *le bois* (woods), *la montagne* (mountain), *le lac* (lake), *la rivière* (river), *le fleuve* (a large river flowing to the sea, like *le fleuve Saint-Laurent*), *la plage* (beach), *l'île* (f, island), *le champ* (field).",
+    "Prepositions: *dans la forêt*, *au bord du lac* (at the lakeside), *sur la montagne* or *à la montagne* (in the mountains), *au bord de l'eau*.",
+    "*Le fleuve* vs *la rivière*: Quebecers always say *le fleuve* for the Saint Lawrence because it flows into the sea."
+   ]
+  },
+  {
+   "h": "Outdoor activities",
+   "body": [
+    "*aller à la pêche* or *faire de la pêche* (to go fishing), *faire du camping*, *faire de la randonnée* (to hike), *faire du canot* (to go canoeing; *canot* is the Quebec word, France says *canoë*), *faire un feu de camp* (to make a campfire).",
+    "Use *faire de* + activity and the partitive: *du camping*, *de la randonnée*, *du kayak*. In the passé composé: *On a fait du canot toute la journée.*"
+   ]
+  },
+  {
+   "h": "Le chalet",
+   "body": [
+    "In Quebec, *un chalet* is a cottage or cabin in the country, often by a lake. *Aller au chalet* is a classic Quebec weekend. In France a *chalet* suggests a mountain house; the Quebec meaning is much broader.",
+    "Typical chalet life: *se baigner dans le lac* (to swim in the lake), *pêcher la truite* (to fish for trout), *faire un feu*, *regarder les étoiles*, and fighting *les maringouins* (mosquitoes)."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Cet été, on va passer deux semaines au chalet.",
+   "en": "This summer, we're going to spend two weeks at the cottage.",
+   "note": "au chalet: Quebec weekend tradition"
+  },
+  {
+   "fr": "Nous avons vu un orignal au bord de la route.",
+   "en": "We saw a moose by the side of the road."
+  },
+  {
+   "fr": "Les orignaux sont très grands.",
+   "en": "Moose are very big.",
+   "note": "-al → -aux in the plural"
+  },
+  {
+   "fr": "Mon père aime aller à la pêche le matin.",
+   "en": "My father likes to go fishing in the morning."
+  },
+  {
+   "fr": "On a fait du canot sur le lac.",
+   "en": "We went canoeing on the lake.",
+   "note": "canot is the Quebec word"
+  },
+  {
+   "fr": "Il y a beaucoup de maringouins ce soir!",
+   "en": "There are lots of mosquitoes tonight!",
+   "note": "maringouin = mosquito in Quebec"
+  },
+  {
+   "fr": "Le soir, on fait un feu de camp.",
+   "en": "In the evening, we make a campfire."
+  },
+  {
+   "fr": "J'ai entendu le chant du huard sur le lac.",
+   "en": "I heard the call of the loon on the lake.",
+   "note": "the loon is on the Canadian one-dollar coin"
+  },
+  {
+   "fr": "Un écureuil mange des noix dans l'arbre.",
+   "en": "A squirrel is eating nuts in the tree."
+  },
+  {
+   "fr": "Le castor construit un barrage.",
+   "en": "The beaver is building a dam."
+  },
+  {
+   "fr": "On a fait de la randonnée dans le parc national.",
+   "en": "We went hiking in the national park."
+  },
+  {
+   "fr": "Le fleuve Saint-Laurent est très large à Québec.",
+   "en": "The Saint Lawrence River is very wide at Quebec City."
+  },
+  {
+   "fr": "Les enfants se baignent dans le lac.",
+   "en": "The children are swimming in the lake."
+  },
+  {
+   "fr": "Attention, il y a des ours dans cette forêt.",
+   "en": "Careful, there are bears in this forest."
+  },
+  {
+   "fr": "Est-ce que tu as un animal de compagnie?",
+   "en": "Do you have a pet?"
+  },
+  {
+   "fr": "Un raton laveur a ouvert nos poubelles.",
+   "en": "A raccoon opened our garbage cans."
+  }
+ ],
+ "quebec": {
+  "intro": "Nature is central to Quebec life: the chalet, fishing and the orignal (moose) are everyday topics, and a few animal and outdoor words are Quebec-specific.",
+  "items": [
+   {
+    "std": "une maison de campagne",
+    "qc": "un chalet",
+    "en": "a cottage, a cabin",
+    "note": "Standard Quebec French; 'monter au chalet' is common"
+   },
+   {
+    "std": "un élan (d'Amérique)",
+    "qc": "un orignal",
+    "en": "a moose",
+    "note": "Orignal is the normal word in Canadian French"
+   },
+   {
+    "std": "un moustique",
+    "qc": "un maringouin",
+    "en": "a mosquito",
+    "note": "Maringouin is the everyday Quebec word"
+   },
+   {
+    "std": "un insecte",
+    "qc": "une bibitte",
+    "en": "a bug, a creepy-crawly",
+    "note": "Informal"
+   },
+   {
+    "std": "un cerf de Virginie",
+    "qc": "un chevreuil",
+    "en": "a white-tailed deer",
+    "note": "In Quebec, chevreuil refers to this deer"
+   },
+   {
+    "std": "un canoë",
+    "qc": "un canot",
+    "en": "a canoe",
+    "note": "faire du canot = to go canoeing"
+   },
+   {
+    "std": "Je vais pêcher.",
+    "qc": "J'm'en vais à pêche.",
+    "en": "I'm going fishing.",
+    "note": "Informal; aller à la pêche is the standard form"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "What is the plural of 'un orignal'?",
+   "options": [
+    "des orignals",
+    "des orignaux",
+    "des orignales",
+    "des orignaus"
+   ],
+   "a": 1,
+   "why": "Nouns in -al usually become -aux."
+  },
+  {
+   "t": "mcq",
+   "q": "In Quebec, 'un maringouin' is…",
+   "options": [
+    "a raccoon",
+    "a mosquito",
+    "a loon",
+    "a fishing rod"
+   ],
+   "a": 1,
+   "why": "Maringouin = mosquito."
+  },
+  {
+   "t": "mcq",
+   "q": "Why do Quebecers say 'le fleuve' for the Saint Lawrence?",
+   "options": [
+    "It's very cold",
+    "It flows into the sea",
+    "It's in the city",
+    "It's a lake"
+   ],
+   "a": 1,
+   "why": "Un fleuve flows into the sea; une rivière flows into another river."
+  },
+  {
+   "t": "mcq",
+   "q": "In Quebec, 'un chalet' is mainly…",
+   "options": [
+    "a ski hotel",
+    "a cottage in the country",
+    "a restaurant",
+    "a tent"
+   ],
+   "a": 1,
+   "why": "A cottage or cabin, often by a lake."
+  },
+  {
+   "t": "fill",
+   "q": "On a fait ___ canot hier. (some)",
+   "a": [
+    "du"
+   ],
+   "en": "We went canoeing yesterday.",
+   "why": "faire du + masculine activity."
+  },
+  {
+   "t": "fill",
+   "q": "Il y a deux ___ dans le jardin. (birds)",
+   "a": [
+    "oiseaux"
+   ],
+   "en": "There are two birds in the garden.",
+   "why": "oiseau → oiseaux."
+  },
+  {
+   "t": "fill",
+   "q": "Le chalet est au bord ___ lac. (of the)",
+   "a": [
+    "du"
+   ],
+   "en": "The cottage is on the lakeshore.",
+   "why": "de + le = du."
+  },
+  {
+   "t": "fill",
+   "q": "Mon grand-père aime aller à la ___. (fishing)",
+   "a": [
+    "pêche"
+   ],
+   "en": "My grandfather likes to go fishing.",
+   "why": "aller à la pêche."
+  },
+  {
+   "t": "build",
+   "en": "We saw a moose in the forest.",
+   "a": "On a vu un orignal dans la forêt."
+  },
+  {
+   "t": "build",
+   "en": "The children are swimming in the lake.",
+   "a": "Les enfants se baignent dans le lac."
+  },
+  {
+   "t": "build",
+   "en": "We are going to the cottage this weekend.",
+   "a": "On va au chalet ce week-end."
+  },
+  {
+   "t": "translate",
+   "en": "Do you have a pet?",
+   "a": [
+    "As-tu un animal de compagnie?",
+    "Tu as un animal de compagnie?",
+    "Avez-vous un animal de compagnie?",
+    "Vous avez un animal de compagnie?",
+    "Est-ce que tu as un animal de compagnie?",
+    "Est-ce que vous avez un animal de compagnie?"
+   ],
+   "why": "un animal de compagnie = a pet."
+  },
+  {
+   "t": "translate",
+   "en": "There are lots of mosquitoes.",
+   "a": [
+    "Il y a beaucoup de maringouins.",
+    "Il y a beaucoup de moustiques.",
+    "Y a beaucoup de maringouins."
+   ],
+   "why": "beaucoup de + noun, no article."
+  },
+  {
+   "t": "translate",
+   "en": "We went hiking.",
+   "a": [
+    "On a fait de la randonnée.",
+    "Nous avons fait de la randonnée."
+   ],
+   "why": "faire de la randonnée."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "l'animal (les animaux)",
+   "en": "animal",
+   "g": "m",
+   "ex": "J'adore les animaux."
+  },
+  {
+   "fr": "l'oiseau (les oiseaux)",
+   "en": "bird",
+   "g": "m",
+   "ex": "Les oiseaux chantent le matin."
+  },
+  {
+   "fr": "l'orignal",
+   "en": "moose",
+   "g": "m",
+   "ex": "Un orignal traverse la route.",
+   "qc": true
+  },
+  {
+   "fr": "l'ours",
+   "en": "bear",
+   "g": "m",
+   "ex": "On a vu un ours noir."
+  },
+  {
+   "fr": "le castor",
+   "en": "beaver",
+   "g": "m",
+   "ex": "Le castor est un symbole du Canada."
+  },
+  {
+   "fr": "le huard",
+   "en": "loon",
+   "g": "m",
+   "ex": "Le huard chante sur le lac."
+  },
+  {
+   "fr": "le raton laveur",
+   "en": "raccoon",
+   "g": "m",
+   "ex": "Le raton laveur cherche de la nourriture."
+  },
+  {
+   "fr": "le maringouin",
+   "en": "mosquito",
+   "g": "m",
+   "ex": "Les maringouins piquent!",
+   "qc": true
+  },
+  {
+   "fr": "le chalet",
+   "en": "cottage, cabin",
+   "g": "m",
+   "ex": "On loue un chalet en Mauricie.",
+   "qc": true
+  },
+  {
+   "fr": "la pêche",
+   "en": "fishing",
+   "g": "f",
+   "ex": "La pêche commence en mai."
+  },
+  {
+   "fr": "le lac",
+   "en": "lake",
+   "g": "m",
+   "ex": "Le lac est calme ce matin."
+  },
+  {
+   "fr": "le fleuve",
+   "en": "large river (flowing to the sea)",
+   "g": "m",
+   "ex": "Le fleuve Saint-Laurent."
+  },
+  {
+   "fr": "la forêt",
+   "en": "forest",
+   "g": "f",
+   "ex": "Le Québec a beaucoup de forêts."
+  },
+  {
+   "fr": "le canot",
+   "en": "canoe",
+   "g": "m",
+   "ex": "On fait du canot sur la rivière.",
+   "qc": true
+  },
+  {
+   "fr": "se baigner",
+   "en": "to swim, to bathe",
+   "ex": "On se baigne dans le lac."
+  },
+  {
+   "fr": "le feu de camp",
+   "en": "campfire",
+   "g": "m",
+   "ex": "On chante autour du feu de camp."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "l'orignal",
+    "tip": "lo-ree-NYAL: gn sounds like 'ny' in canyon."
+   },
+   {
+    "fr": "les oiseaux",
+    "tip": "Liaison: lay-zwa-ZOH."
+   },
+   {
+    "fr": "l'ours",
+    "tip": "LOORSS: the final s is pronounced."
+   },
+   {
+    "fr": "le maringouin",
+    "tip": "ma-ran-GWAN, nasal at the end."
+   },
+   {
+    "fr": "le huard",
+    "tip": "Aspirated h: le huard, never l'huard: luh-U-AR."
+   },
+   {
+    "fr": "le fleuve",
+    "tip": "FLEUV, eu as in 'feu'."
+   },
+   {
+    "fr": "la forêt",
+    "tip": "fo-RAY; in Quebec often fo-RAÈ with a diphthong."
+   }
+  ],
+  "title": "Un week-end au chalet",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Puis, ton week-end au chalet, c'était comment?",
+    "en": "So, how was your weekend at the cottage?"
+   },
+   {
+    "s": "B",
+    "fr": "Super! On a fait du canot sur le lac samedi matin.",
+    "en": "Great! We went canoeing on the lake Saturday morning."
+   },
+   {
+    "s": "A",
+    "fr": "Avez-vous vu des animaux?",
+    "en": "Did you see any animals?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, un orignal et deux huards. Et beaucoup trop de maringouins!",
+    "en": "Yes, a moose and two loons. And way too many mosquitoes!"
+   },
+   {
+    "s": "A",
+    "fr": "Ha! Et la pêche?",
+    "en": "Ha! And the fishing?"
+   },
+   {
+    "s": "B",
+    "fr": "Mon chum a pêché trois truites. On les a mangées pour souper.",
+    "en": "My boyfriend caught three trout. We ate them for supper."
+   },
+   {
+    "s": "A",
+    "fr": "Chanceux! Vous avez fait un feu?",
+    "en": "Lucky! Did you make a fire?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, on a fait un feu de camp et on a regardé les étoiles.",
+    "en": "Yes, we made a campfire and looked at the stars."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What did they do on Saturday morning?",
+    "options": [
+     "Hiking",
+     "Canoeing",
+     "Swimming"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Which animals did they see?",
+    "options": [
+     "A bear and a fox",
+     "A moose and two loons",
+     "A beaver and a raccoon"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What did they eat for supper?",
+    "options": [
+     "Trout",
+     "Poutine",
+     "Salmon"
+    ],
+    "a": 0
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Describe three Quebec animals and where they live.",
+   "model": "L'orignal vit dans la forêt. Le huard vit sur les lacs. Le castor vit dans les rivières."
+  },
+  {
+   "prompt": "Tell a friend what you did at the cottage last weekend, in the passé composé.",
+   "model": "Je suis allé au chalet. J'ai fait du canot, je me suis baigné et on a fait un feu de camp."
+  },
+  {
+   "prompt": "Complain about the mosquitoes the Quebec way.",
+   "model": "Il y a ben trop de maringouins ce soir!"
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences about a perfect weekend in nature: where, with whom, what you do, what animals you see.",
+  "model": "Mon week-end idéal, c'est au chalet dans les Laurentides. J'y vais avec mes amis. Le matin, on fait du canot sur le lac. L'après-midi, on fait de la randonnée dans la forêt. Le soir, on fait un feu de camp. Avec un peu de chance, on voit un orignal ou un castor."
+ },
+ "quiz": [
+  {
+   "q": "What is 'le huard'?",
+   "options": [
+    "A beaver",
+    "A loon",
+    "A moose",
+    "A bear"
+   ],
+   "a": 1,
+   "why": "Le huard = the loon (on the one-dollar coin, the 'huard')."
+  },
+  {
+   "q": "'Faire du canot' means…",
+   "options": [
+    "to go fishing",
+    "to go canoeing",
+    "to go camping",
+    "to go hiking"
+   ],
+   "a": 1,
+   "why": "Canot = canoe in Quebec."
+  },
+  {
+   "q": "What is the plural of 'le cheval'?",
+   "options": [
+    "les chevals",
+    "les chevaux",
+    "les chevaus",
+    "les chevales"
+   ],
+   "a": 1,
+   "why": "-al → -aux."
+  },
+  {
+   "q": "In Quebec, 'un chevreuil' usually means…",
+   "options": [
+    "a roe deer",
+    "a white-tailed deer",
+    "a moose",
+    "a goat"
+   ],
+   "a": 1,
+   "why": "In Quebec, chevreuil refers to the white-tailed deer."
+  },
+  {
+   "q": "Which is correct?",
+   "options": [
+    "On a fait de la randonnée.",
+    "On a fait du randonnée.",
+    "On a fait la de randonnée.",
+    "On a randonné de la."
+   ],
+   "a": 0,
+   "why": "Randonnée is feminine: de la randonnée."
+  },
+  {
+   "q": "'Une bibitte' is…",
+   "options": [
+    "a bottle",
+    "a bug",
+    "a bike",
+    "a boat"
+   ],
+   "a": 1,
+   "why": "Informal Quebec word for an insect."
+  },
+  {
+   "q": "Which word is used for a river flowing into the sea?",
+   "options": [
+    "la rivière",
+    "le fleuve",
+    "le lac",
+    "le ruisseau"
+   ],
+   "a": 1,
+   "why": "Le fleuve Saint-Laurent."
+  },
+  {
+   "q": "'Se baigner' means…",
+   "options": [
+    "to bathe the dog",
+    "to swim / bathe",
+    "to fish",
+    "to sunbathe"
+   ],
+   "a": 1,
+   "why": "On se baigne dans le lac."
+  }
+ ]
+}

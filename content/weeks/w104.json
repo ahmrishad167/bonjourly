@@ -1,0 +1,701 @@
+{
+ "w": 104,
+ "title": "Quebec expressions set 4, and sacres for recognition",
+ "goal": "By the end of this lesson you can recognize the main Quebec sacres, understand their meaning, strength and grammar, choose safe softened alternatives, and use a new set of everyday Quebec expressions.",
+ "learn": [
+  {
+   "h": "What sacres are",
+   "body": [
+    "Quebec's strongest swear words are not about the body: they come from the vocabulary of the Catholic Church. For generations the Church dominated daily life in Quebec, so the most powerful taboo was to profane sacred objects. Saying them is called *sacrer* (to swear).",
+    "This lesson is for recognition, not production. You'll hear sacres in films, sitcoms, hockey arenas and on job sites, and you need to understand them. Coming from a learner, they usually sound forced or aggressive; the softened forms below are much safer."
+   ],
+   "table": {
+    "head": [
+     "Sacre (common spellings)",
+     "Religious origin",
+     "Strength"
+    ],
+    "rows": [
+     [
+      "tabarnak / tabarnouche (soft)",
+      "tabernacle (holds the hosts)",
+      "very strong"
+     ],
+     [
+      "câlisse / câline (soft)",
+      "calice (chalice)",
+      "very strong"
+     ],
+     [
+      "ostie / hostie",
+      "host (communion wafer)",
+      "very strong"
+     ],
+     [
+      "crisse / cri (soft)",
+      "Christ",
+      "very strong"
+     ],
+     [
+      "sacrament / sacrifice (soft)",
+      "sacrement (sacrament)",
+      "strong"
+     ],
+     [
+      "ciboire / cibole (soft)",
+      "ciboire (ciborium)",
+      "strong"
+     ],
+     [
+      "viarge",
+      "vierge (the Virgin Mary)",
+      "strong"
+     ],
+     [
+      "baptême / batèche (soft)",
+      "baptême (baptism)",
+      "moderate"
+     ]
+    ]
+   },
+   "tip": "The real liturgical words (tabernacle, calice, hostie) are perfectly normal in church or a dictionary; it's the swearing use and pronunciation that are vulgar."
+  },
+  {
+   "h": "How sacres work grammatically",
+   "body": [
+    "Sacres are flexible. As an interjection: *Tabarnak!* (expressing anger, shock or even amazement). As an intensifier before a noun with *de*: *un ostie de bon film* = a really damn good movie (it can be positive!). As an intensifier after an adjective with *en*: *Y fait frette en tabarnak* = It's damn cold.",
+    "They also become verbs: *se câlisser de* (not to give a damn about): *Je m'en câlisse.* / *crisser son camp* (to clear off, leave abruptly) / *décâlisser* (to leave in a hurry, or to wreck). These are vulgar; standard equivalents: *Je m'en fiche*, *partir*, *s'en aller*, *détruire*.",
+    "Stacking several sacres in a row increases the intensity: *Tabarnak de câlisse!* That's the angriest register."
+   ]
+  },
+  {
+   "h": "Softened forms (sacres adoucis) and mild words",
+   "body": [
+    "Quebecers often swap a letter or two to soften a sacre, much like English 'darn' or 'shoot': *tabarouette*, *tabarnouche*, *câline* (*câline de bine!*), *cibole*, *batèche*, *sacrifice*, *crime*, *mosus*. These are safe among friends and even around kids; many sound folksy or old-fashioned.",
+    "*Maudit* (cursed, damned) is mild and very common, and it can intensify something positive: *Maudit que c'est bon!* = Gosh, it's good! *Verrat* (boar) is another mild one: *fâché comme un verrat* = mad as a hornet."
+   ],
+   "table": {
+    "head": [
+     "Softened form",
+     "Use",
+     "Example"
+    ],
+    "rows": [
+     [
+      "tabarouette!",
+      "surprise, mild annoyance",
+      "Tabarouette, c'est cher!"
+     ],
+     [
+      "câline de bine!",
+      "frustration, folksy",
+      "Câline de bine, j'ai oublié mes clés!"
+     ],
+     [
+      "mosus",
+      "mild intensifier",
+      "Un mosus de beau char!"
+     ],
+     [
+      "maudit",
+      "mild intensifier",
+      "Maudit que t'es drôle!"
+     ],
+     [
+      "crime!",
+      "surprise",
+      "Crime, t'es déjà là?"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "When not to use them",
+   "body": [
+    "Never at work, with clients, in an interview, with strangers, in class, or around children. Sacres are also inappropriate in writing, except in quoted dialogue. Many Quebecers, especially older or religious people, find them genuinely offensive.",
+    "Strength depends on context and tone: *Ostie que c'est bon!* among friends at a cabane à sucre is very different from shouting it at someone. If you're unsure, stay with *maudit*, *tabarouette* or standard French (*zut*, *mince*, *Oh là là!*)."
+   ]
+  },
+  {
+   "h": "Quebec expressions set 4",
+   "body": [
+    "*Lâche pas la patate!* = Don't give up! *Avoir de la misère à* + infinitive = to have trouble doing. *Être dans le jus* = to be swamped, rushed. *Ça a pas d'allure!* = That makes no sense / that's ridiculous. *Être en beau fusil* = to be furious.",
+    "*Attache ta tuque avec de la broche!* = Hold on tight (something intense is coming). *Avoir les deux pieds dans la même bottine* = to be clumsy, disorganized. *C'est pas l'yable* = it's not great (from *diable*). *Se faire brasser* = to get shaken up."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Tabarnak! J'ai encore oublié mes clés!",
+   "en": "Damn it! I forgot my keys again!",
+   "note": "very strong interjection: recognize only"
+  },
+  {
+   "fr": "Tabarouette! J'ai encore oublié mes clés!",
+   "en": "Darn it! I forgot my keys again!",
+   "note": "softened form: safe among friends"
+  },
+  {
+   "fr": "C'était un ostie de bon show.",
+   "en": "That was a really damn good show.",
+   "note": "vulgar intensifier with a positive meaning"
+  },
+  {
+   "fr": "C'était un maudit bon show.",
+   "en": "That was a heck of a good show.",
+   "note": "mild version"
+  },
+  {
+   "fr": "Y fait frette en tabarnak à matin.",
+   "en": "It's damn cold this morning.",
+   "note": "en + sacre after an adjective = extremely; frette = very cold (informal)"
+  },
+  {
+   "fr": "Il fait extrêmement froid ce matin.",
+   "en": "It's extremely cold this morning.",
+   "note": "the standard version"
+  },
+  {
+   "fr": "Je m'en fiche complètement.",
+   "en": "I couldn't care less.",
+   "note": "standard equivalent of the vulgar je m'en câlisse"
+  },
+  {
+   "fr": "Il a sacré son camp sans dire bonjour.",
+   "en": "He took off without saying goodbye.",
+   "note": "sacrer son camp: informal but milder than crisser son camp"
+  },
+  {
+   "fr": "Arrête de sacrer devant les enfants!",
+   "en": "Stop swearing in front of the kids!",
+   "note": "sacrer = to swear (Quebec)"
+  },
+  {
+   "fr": "Câline de bine, le dépanneur est déjà fermé!",
+   "en": "Doggone it, the convenience store is already closed!",
+   "note": "folksy softened sacre"
+  },
+  {
+   "fr": "Maudit que c'est bon, cette tourtière-là!",
+   "en": "Gosh, this meat pie is good!",
+   "note": "maudit que = how…! (mild)"
+  },
+  {
+   "fr": "Lâche pas la patate, t'es presque rendu!",
+   "en": "Don't give up, you're almost there!",
+   "note": "very common encouragement"
+  },
+  {
+   "fr": "J'ai de la misère à comprendre l'accent du Lac-Saint-Jean.",
+   "en": "I have trouble understanding the Lac-Saint-Jean accent.",
+   "note": "avoir de la misère à + infinitive"
+  },
+  {
+   "fr": "Désolée, je suis dans le jus aujourd'hui.",
+   "en": "Sorry, I'm swamped today."
+  },
+  {
+   "fr": "Ça a pas d'allure, ce prix-là!",
+   "en": "That price is ridiculous!",
+   "note": "ça (n')a pas d'allure = that makes no sense"
+  },
+  {
+   "fr": "Mon père était en beau fusil quand il a vu la facture.",
+   "en": "My father was furious when he saw the bill."
+  }
+ ],
+ "quebec": {
+  "intro": "Sacres come from Church vocabulary (tabernacle, chalice, host, Christ). Learn what they mean and how strong they are so you understand films, sports and job sites, then use softened forms or standard French yourself.",
+  "items": [
+   {
+    "std": "Zut! / Mince!",
+    "qc": "Tabarnak! (soft: Tabarouette!)",
+    "en": "Damn! (soft: Darn!)",
+    "note": "tabarnak is very strong; tabarouette is safe"
+   },
+   {
+    "std": "Il fait extrêmement froid.",
+    "qc": "Y fait frette en câlisse.",
+    "en": "It's damn cold.",
+    "note": "vulgar: recognize only"
+   },
+   {
+    "std": "Je m'en fiche.",
+    "qc": "Je m'en câlisse.",
+    "en": "I don't give a damn.",
+    "note": "vulgar; je m'en fous is also informal, je m'en fiche is milder"
+   },
+   {
+    "std": "Va-t'en! / Pars!",
+    "qc": "Crisse ton camp!",
+    "en": "Get lost!",
+    "note": "very aggressive: never use"
+   },
+   {
+    "std": "C'était un très bon film.",
+    "qc": "C'était un ostie de bon film.",
+    "en": "It was a damn good movie.",
+    "note": "vulgar but positive; soft: un mosus de bon film"
+   },
+   {
+    "std": "Il était furieux.",
+    "qc": "Il était en beau fusil.",
+    "en": "He was furious.",
+    "note": "clean expression, safe to use"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Where do Quebec sacres come from?",
+   "options": [
+    "Body parts",
+    "Catholic Church vocabulary",
+    "English swear words",
+    "Animal names"
+   ],
+   "a": 1,
+   "why": "Tabernacle, calice, hostie, Christ, ciboire…"
+  },
+  {
+   "t": "mcq",
+   "q": "Which is a softened, safe form?",
+   "options": [
+    "câlisse",
+    "ostie",
+    "tabarouette",
+    "crisse"
+   ],
+   "a": 2,
+   "why": "Tabarouette softens tabarnak."
+  },
+  {
+   "t": "mcq",
+   "q": "'Un ostie de bon film' means…",
+   "options": [
+    "a terrible film",
+    "a damn good film",
+    "a religious film",
+    "a film about a host"
+   ],
+   "a": 1,
+   "why": "The sacre intensifies; here the meaning is positive."
+  },
+  {
+   "t": "mcq",
+   "q": "In which situation is a sacre acceptable for a learner?",
+   "options": [
+    "A job interview",
+    "With clients",
+    "Never really necessary; recognize them",
+    "In a formal email"
+   ],
+   "a": 2,
+   "why": "Understand them; use softened forms or standard French."
+  },
+  {
+   "t": "mcq",
+   "q": "'Lâche pas la patate!' means…",
+   "options": [
+    "Don't drop the potato!",
+    "Don't give up!",
+    "Stop eating!",
+    "Calm down!"
+   ],
+   "a": 1,
+   "why": "Common Quebec encouragement."
+  },
+  {
+   "t": "fill",
+   "q": "J'ai de la ___ à dormir quand il fait chaud.",
+   "a": [
+    "misère"
+   ],
+   "en": "I have trouble sleeping when it's hot.",
+   "why": "Avoir de la misère à = to have trouble."
+  },
+  {
+   "t": "fill",
+   "q": "Il était en beau ___ quand il a vu la facture.",
+   "a": [
+    "fusil"
+   ],
+   "en": "He was furious when he saw the bill.",
+   "why": "Être en beau fusil = to be furious."
+  },
+  {
+   "t": "fill",
+   "q": "Câline de ___, j'ai oublié mon lunch!",
+   "a": [
+    "bine"
+   ],
+   "en": "Doggone it, I forgot my lunch!",
+   "why": "Câline de bine: folksy softened sacre."
+  },
+  {
+   "t": "fill",
+   "q": "Ça a pas d'___, ce prix-là!",
+   "a": [
+    "allure"
+   ],
+   "en": "That price is ridiculous!",
+   "why": "Ça n'a pas d'allure = it makes no sense."
+  },
+  {
+   "t": "build",
+   "en": "Don't give up, you're almost there!",
+   "a": "Lâche pas la patate, t'es presque rendu!"
+  },
+  {
+   "t": "build",
+   "en": "Sorry, I'm swamped today.",
+   "a": "Désolé, je suis dans le jus aujourd'hui."
+  },
+  {
+   "t": "build",
+   "en": "Stop swearing in front of the kids!",
+   "a": "Arrête de sacrer devant les enfants!"
+  },
+  {
+   "t": "translate",
+   "en": "I don't care.",
+   "a": [
+    "Je m'en fiche.",
+    "Ça m'est égal.",
+    "Je m'en fous.",
+    "Ça ne me dérange pas.",
+    "Ça me dérange pas."
+   ],
+   "why": "Neutral or informal options; avoid the vulgar je m'en câlisse."
+  },
+  {
+   "t": "translate",
+   "en": "It's extremely cold.",
+   "a": [
+    "Il fait extrêmement froid.",
+    "Il fait très froid.",
+    "Il fait vraiment froid.",
+    "Il fait frette.",
+    "Il fait un froid de canard."
+   ],
+   "why": "Standard intensifiers instead of en tabarnak."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "sacrer",
+   "en": "to swear (use sacres)",
+   "ex": "Il sacre comme un charretier.",
+   "qc": true
+  },
+  {
+   "fr": "le sacre",
+   "en": "Quebec swear word",
+   "g": "m",
+   "ex": "Les sacres viennent du vocabulaire religieux.",
+   "qc": true
+  },
+  {
+   "fr": "tabarouette",
+   "en": "darn, gosh (softened tabarnak)",
+   "ex": "Tabarouette, c'est loin!",
+   "qc": true
+  },
+  {
+   "fr": "câline de bine",
+   "en": "doggone it (softened câlisse)",
+   "ex": "Câline de bine, il pleut encore!",
+   "qc": true
+  },
+  {
+   "fr": "maudit",
+   "en": "damn, darn (mild); really",
+   "ex": "Maudit que c'est beau!",
+   "qc": true
+  },
+  {
+   "fr": "mosus",
+   "en": "heck of a (mild intensifier)",
+   "ex": "Un mosus de bon repas!",
+   "qc": true
+  },
+  {
+   "fr": "sacrer son camp",
+   "en": "to take off, leave (informal)",
+   "ex": "Il a sacré son camp à minuit.",
+   "qc": true
+  },
+  {
+   "fr": "lâcher la patate",
+   "en": "to give up (lâche pas! = don't give up)",
+   "ex": "Lâche pas la patate!",
+   "qc": true
+  },
+  {
+   "fr": "avoir de la misère à",
+   "en": "to have trouble (doing)",
+   "ex": "J'ai de la misère à me lever.",
+   "qc": true
+  },
+  {
+   "fr": "être dans le jus",
+   "en": "to be swamped, rushed",
+   "ex": "On est dans le jus ce midi.",
+   "qc": true
+  },
+  {
+   "fr": "ça a pas d'allure",
+   "en": "that's ridiculous, makes no sense",
+   "ex": "Ça a pas d'allure, ce trafic!",
+   "qc": true
+  },
+  {
+   "fr": "être en beau fusil",
+   "en": "to be furious",
+   "ex": "Ma mère était en beau fusil.",
+   "qc": true
+  },
+  {
+   "fr": "attacher sa tuque",
+   "en": "to brace oneself",
+   "ex": "Attache ta tuque avec de la broche!",
+   "qc": true
+  },
+  {
+   "fr": "avoir les deux pieds dans la même bottine",
+   "en": "to be clumsy, disorganized",
+   "ex": "Ce matin, j'ai les deux pieds dans la même bottine.",
+   "qc": true
+  },
+  {
+   "fr": "frette",
+   "en": "freezing cold (informal)",
+   "ex": "Il fait frette dehors!",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "tabarnak",
+    "tip": "ta-bar-NAK: compare the standard word tabernacle [ta-bèr-NAKL]."
+   },
+   {
+    "fr": "câlisse",
+    "tip": "KÂ-liss: long back â; compare calice [ka-LISS]."
+   },
+   {
+    "fr": "ostie",
+    "tip": "oss-TEE: the h of hostie is silent anyway."
+   },
+   {
+    "fr": "tabarouette",
+    "tip": "ta-ba-RWÈT."
+   },
+   {
+    "fr": "maudit",
+    "tip": "mô-DZEE: Quebec dz before i."
+   },
+   {
+    "fr": "Lâche pas la patate",
+    "tip": "lâsh-pa-la-pa-TATT."
+   },
+   {
+    "fr": "frette",
+    "tip": "FRÈT, from froid [frwa]."
+   }
+  ],
+  "title": "Une soirée de hockey",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Pis, la game d'hier? T'étais au Centre Bell?",
+    "en": "So, last night's game? Were you at the Bell Centre?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui! Tabarouette que c'était intense. Trois buts en troisième période!",
+    "en": "Yes! Wow, it was intense. Three goals in the third period!"
+   },
+   {
+    "s": "A",
+    "fr": "Il y avait du monde qui sacrait autour de toi?",
+    "en": "Were there people swearing around you?"
+   },
+   {
+    "s": "B",
+    "fr": "Ah, pas mal! Le gars à côté de moi criait « Tabarnak! » à chaque pénalité.",
+    "en": "Oh, quite a bit! The guy next to me shouted 'Tabarnak!' at every penalty."
+   },
+   {
+    "s": "A",
+    "fr": "Pis toi?",
+    "en": "And you?"
+   },
+   {
+    "s": "B",
+    "fr": "Moi, je disais « Maudit! ». J'ai de la misère à sacrer, ça sonne drôle quand c'est moi.",
+    "en": "Me, I said 'Darn!'. I have trouble swearing, it sounds funny when it's me."
+   },
+   {
+    "s": "A",
+    "fr": "T'as raison. Pis à la fin?",
+    "en": "You're right. And at the end?"
+   },
+   {
+    "s": "B",
+    "fr": "On a gagné en prolongation. Tout le monde était debout, c'était un mosus de bon match!",
+    "en": "We won in overtime. Everyone was on their feet, it was a heck of a good game!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Where was B?",
+    "options": [
+     "At home",
+     "At the Bell Centre",
+     "At a bar"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What did B say instead of sacres?",
+    "options": [
+     "Maudit!",
+     "Tabarnak!",
+     "Nothing"
+    ],
+    "a": 0
+   },
+   {
+    "q": "How did the game end?",
+    "options": [
+     "A loss",
+     "A win in overtime",
+     "A tie"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "React to three surprises (a big bill, great news, a lost key) using safe softened forms or mild words.",
+   "model": "Tabarouette, c'est cher! Maudit que je suis content! Câline de bine, j'ai perdu ma clé!"
+  },
+  {
+   "prompt": "Explain to an English-speaking friend, in French, what 'tabarnak' means and why they shouldn't use it at work.",
+   "model": "Ça vient du mot « tabernacle », un objet religieux. C'est un sacre très fort, alors on ne l'utilise pas au travail ni avec des inconnus."
+  },
+  {
+   "prompt": "Encourage a friend who's struggling with French, using two expressions from this lesson.",
+   "model": "Lâche pas la patate! Moi aussi, j'ai de la misère avec l'accent, mais ça s'en vient."
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences explaining Quebec sacres to a newcomer: where they come from, how strong they are, two softened forms, and when to avoid them. Do not write the strong sacres more than once each.",
+  "model": "Au Québec, les jurons les plus forts s'appellent des sacres. Ils viennent du vocabulaire de l'Église catholique, comme « tabernacle » ou « calice ». Pendant longtemps, la religion était très importante, donc profaner ces mots était un grand tabou. Aujourd'hui, ils restent très forts et il faut les éviter au travail, avec des inconnus et devant les enfants. Si tu veux réagir, dis plutôt « tabarouette » ou « maudit ». Ça sonne québécois, mais c'est poli."
+ },
+ "quiz": [
+  {
+   "q": "'Câlisse' comes from…",
+   "options": [
+    "calice (chalice)",
+    "caillou",
+    "calèche",
+    "câlin"
+   ],
+   "a": 0,
+   "why": "The chalice used at mass."
+  },
+  {
+   "q": "'Y fait frette en tabarnak' means…",
+   "options": [
+    "It's a bit cold",
+    "It's damn cold",
+    "The tabernacle is cold",
+    "It's hot"
+   ],
+   "a": 1,
+   "why": "En + sacre = extremely; frette = very cold."
+  },
+  {
+   "q": "Which is the mildest?",
+   "options": [
+    "crisse",
+    "câlisse",
+    "maudit",
+    "ostie"
+   ],
+   "a": 2,
+   "why": "Maudit is a mild, common intensifier."
+  },
+  {
+   "q": "'Je m'en câlisse' in neutral French is…",
+   "options": [
+    "Je m'en vais.",
+    "Je m'en fiche.",
+    "Je m'excuse.",
+    "Je m'ennuie."
+   ],
+   "a": 1,
+   "why": "Se câlisser de = not to give a damn."
+  },
+  {
+   "q": "'Être dans le jus' means…",
+   "options": [
+    "to be drunk",
+    "to be swamped",
+    "to be in trouble with the police",
+    "to be on vacation"
+   ],
+   "a": 1,
+   "why": "Swamped, rushed (common in restaurants and offices)."
+  },
+  {
+   "q": "'Sacrer' in Quebec French means…",
+   "options": [
+    "to crown",
+    "to swear",
+    "to pray",
+    "to sacrifice"
+   ],
+   "a": 1,
+   "why": "Sacrer = to use sacres."
+  },
+  {
+   "q": "'Attache ta tuque avec de la broche!' means…",
+   "options": [
+    "It's windy",
+    "Brace yourself, it's going to be intense",
+    "Get dressed",
+    "Fix your hat"
+   ],
+   "a": 1,
+   "why": "Hold on tight: something big is coming."
+  },
+  {
+   "q": "Why do softened forms exist (tabarouette, câline)?",
+   "options": [
+    "They're older sacres",
+    "To express emotion without the taboo",
+    "They're from France",
+    "They're medical terms"
+   ],
+   "a": 1,
+   "why": "Like 'darn' or 'shoot' in English."
+  },
+  {
+   "q": "'Ça a pas d'allure!' means…",
+   "options": [
+    "It has no speed",
+    "That's ridiculous",
+    "It has no style",
+    "It's slow"
+   ],
+   "a": 1,
+   "why": "Ça n'a pas d'allure = that makes no sense."
+  }
+ ]
+}

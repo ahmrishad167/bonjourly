@@ -1,0 +1,628 @@
+{
+ "w": 151,
+ "title": "Nuance and hedging",
+ "goal": "By the end of this lesson you can soften your statements, express degrees of certainty and qualify your opinions in French, using the conditional, modal verbs, adverbs and hedging expressions, including the Quebec favourites mettons, j'dirais que and dans le fond.",
+ "learn": [
+  {
+   "h": "Why hedge?",
+   "body": [
+    "At B2, sounding natural means not sounding blunt. French speakers soften opinions, show uncertainty and leave room for disagreement. Compare *C'est faux* with *Ce n'est pas tout à fait exact* or *Je ne suis pas certain que ce soit le cas*.",
+    "Hedging tools fall into five families: the conditional, modal verbs, adverbs of probability, opinion frames, and limiting expressions."
+   ]
+  },
+  {
+   "h": "The conditional and modal verbs",
+   "body": [
+    "The conditional softens requests and claims: *Je voudrais*, *Il faudrait peut-être*, *On pourrait envisager…*. In news writing it signals unconfirmed information: *Le ministre aurait démissionné* (the minister has reportedly resigned).",
+    "Modal verbs express probability: *Il doit être en retard* (he must be late), *Ça pourrait être une erreur* (it could be a mistake), *Il se peut que…* + subjunctive (it's possible that)."
+   ],
+   "table": {
+    "head": [
+     "Certainty",
+     "Expression",
+     "Mood after it"
+    ],
+    "rows": [
+     [
+      "very high",
+      "Je suis convaincu que / Il est évident que",
+      "indicative"
+     ],
+     [
+      "high",
+      "Il est probable que / Sans doute",
+      "indicative"
+     ],
+     [
+      "medium",
+      "Il est possible que / Il se peut que",
+      "subjunctive"
+     ],
+     [
+      "low",
+      "Je doute que / Il est peu probable que",
+      "subjunctive"
+     ],
+     [
+      "unconfirmed (news)",
+      "Selon…, il y aurait…",
+      "conditional"
+     ]
+    ]
+   },
+   "tip": "Probable que + indicative, possible que + subjunctive: a classic B2 trap."
+  },
+  {
+   "h": "Adverbs and limiting expressions",
+   "body": [
+    "Adverbs: *peut-être*, *probablement*, *sans doute* (probably, not 'without doubt'!), *sûrement*, *apparemment*, *plutôt*, *assez*, *relativement*, *en quelque sorte*.",
+    "Limiting expressions: *dans une certaine mesure* (to some extent), *en partie* (partly), *jusqu'à un certain point*, *à mon avis*, *si je ne me trompe pas*, *sauf erreur de ma part*, *pour ainsi dire*.",
+    "Note: *peut-être* at the start of a sentence in writing triggers inversion or *que*: *Peut-être a-t-il raison* / *Peut-être qu'il a raison*."
+   ]
+  },
+  {
+   "h": "Opinion frames and softened disagreement",
+   "body": [
+    "*J'ai l'impression que…*, *Il me semble que…* (indicative), *J'aurais tendance à penser que…*, *Je dirais que…*, *Si je comprends bien…*.",
+    "To disagree gently: *Je ne suis pas sûr que ce soit la meilleure solution* (subjunctive after negative certainty), *Je vois les choses un peu différemment*, *C'est un point de vue, mais…*, *Oui, mais en même temps…*."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Je dirais que le projet est plutôt réussi.",
+   "en": "I'd say the project is fairly successful.",
+   "note": "conditional + plutôt = double softening"
+  },
+  {
+   "fr": "Il se peut que la réunion soit annulée.",
+   "en": "The meeting may be cancelled.",
+   "note": "il se peut que + subjunctive"
+  },
+  {
+   "fr": "Il est probable qu'il pleuvra demain.",
+   "en": "It will probably rain tomorrow.",
+   "note": "probable que + indicative"
+  },
+  {
+   "fr": "Selon nos sources, le PDG aurait quitté l'entreprise.",
+   "en": "According to our sources, the CEO has reportedly left the company.",
+   "note": "journalistic conditional: unconfirmed information"
+  },
+  {
+   "fr": "Elle doit être déjà partie.",
+   "en": "She must have left already.",
+   "note": "devoir = probability"
+  },
+  {
+   "fr": "Ce n'est pas tout à fait exact.",
+   "en": "That's not quite accurate.",
+   "note": "polite way to say 'that's wrong'"
+  },
+  {
+   "fr": "Dans une certaine mesure, vous avez raison.",
+   "en": "To some extent, you're right.",
+   "note": "limiting expression"
+  },
+  {
+   "fr": "Il me semble que les prix ont augmenté.",
+   "en": "It seems to me that prices have gone up.",
+   "note": "il me semble que + indicative"
+  },
+  {
+   "fr": "Je ne suis pas certain que ce soit une bonne idée.",
+   "en": "I'm not sure it's a good idea.",
+   "note": "negative certainty → subjunctive"
+  },
+  {
+   "fr": "Il a sans doute oublié.",
+   "en": "He probably forgot.",
+   "note": "sans doute = probably; 'without a doubt' is sans aucun doute"
+  },
+  {
+   "fr": "Peut-être qu'on pourrait reporter la décision.",
+   "en": "Maybe we could postpone the decision.",
+   "note": "peut-être que + conditional: very soft suggestion"
+  },
+  {
+   "fr": "J'aurais tendance à penser que c'est trop tôt.",
+   "en": "I'd tend to think it's too early.",
+   "note": "a heavily hedged opinion, typical of meetings"
+  },
+  {
+   "fr": "Sauf erreur de ma part, le délai est le 15 mars.",
+   "en": "Unless I'm mistaken, the deadline is March 15.",
+   "note": "polite way to correct someone in writing"
+  },
+  {
+   "fr": "C'est, pour ainsi dire, un succès mitigé.",
+   "en": "It's, so to speak, a mixed success.",
+   "note": "pour ainsi dire = so to speak"
+  },
+  {
+   "fr": "Les résultats semblent indiquer une amélioration.",
+   "en": "The results seem to indicate an improvement.",
+   "note": "sembler + infinitive: academic hedging"
+  },
+  {
+   "fr": "Je vois les choses un peu différemment.",
+   "en": "I see things a bit differently.",
+   "note": "soft disagreement"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebec speech has its own hedging markers. Mettons (let's say), j'dirais que (I'd say), dans le fond (basically, actually), comme (like) and genre are everywhere in conversation. They are informal but not vulgar; use them in casual speech, not in writing.",
+  "items": [
+   {
+    "std": "Disons qu'on se voit vers huit heures.",
+    "qc": "Mettons qu'on se voit vers huit heures.",
+    "en": "Let's say we meet around eight.",
+    "note": "mettons = disons, very common; also 'Mettons!' = Yeah, sure / if you say so"
+   },
+   {
+    "std": "Je dirais que c'est assez cher.",
+    "qc": "J'dirais que c'est pas mal cher.",
+    "en": "I'd say it's pretty expensive.",
+    "note": "pas mal = rather, quite (common in Quebec and also in France)"
+   },
+   {
+    "std": "Au fond, il a raison.",
+    "qc": "Dans le fond, y'a raison.",
+    "en": "Basically, he's right.",
+    "note": "dans le fond = au fond / en fait; often at the start of a sentence"
+   },
+   {
+    "std": "C'était environ cinquante dollars.",
+    "qc": "C'tait comme cinquante piasses.",
+    "en": "It was like fifty bucks.",
+    "note": "comme = about / like (informal); piasse = dollar (familiar)"
+   },
+   {
+    "std": "Il est un peu bizarre, en quelque sorte.",
+    "qc": "Y'est genre un peu weird.",
+    "en": "He's kind of weird.",
+    "note": "genre = kind of, like (informal, younger speakers); weird is a common anglicism"
+   },
+   {
+    "std": "C'est une bonne idée, si on veut.",
+    "qc": "C'est une bonne idée… mettons.",
+    "en": "It's a good idea… I guess.",
+    "note": "a trailing 'mettons' signals reluctant agreement"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Il est possible qu'il ___ en retard.",
+   "options": [
+    "est",
+    "sera",
+    "soit",
+    "serait"
+   ],
+   "a": 2,
+   "why": "possible que + subjunctive."
+  },
+  {
+   "t": "mcq",
+   "q": "Il est probable qu'il ___ en retard.",
+   "options": [
+    "soit",
+    "sera",
+    "soient",
+    "fût"
+   ],
+   "a": 1,
+   "why": "probable que + indicative."
+  },
+  {
+   "t": "mcq",
+   "q": "'Le suspect aurait fui vers les États-Unis' means…",
+   "options": [
+    "The suspect would flee",
+    "The suspect has reportedly fled",
+    "The suspect should have fled",
+    "The suspect had fled"
+   ],
+   "a": 1,
+   "why": "Journalistic conditional = unconfirmed report."
+  },
+  {
+   "t": "mcq",
+   "q": "'Sans doute' most often means…",
+   "options": [
+    "without a doubt",
+    "probably",
+    "never",
+    "certainly not"
+   ],
+   "a": 1,
+   "why": "sans doute has weakened to 'probably'; use sans aucun doute for certainty."
+  },
+  {
+   "t": "mcq",
+   "q": "In Quebec speech, 'Mettons qu'on part à six heures' means…",
+   "options": [
+    "Let's say we leave at six",
+    "We put it at six",
+    "We must leave at six",
+    "We left at six"
+   ],
+   "a": 0,
+   "why": "mettons = disons."
+  },
+  {
+   "t": "fill",
+   "q": "Je ne suis pas sûr que ce ___ possible. (être)",
+   "a": [
+    "soit"
+   ],
+   "en": "I'm not sure it's possible.",
+   "why": "Negative certainty takes the subjunctive."
+  },
+  {
+   "t": "fill",
+   "q": "Elle ___ être malade; elle n'est jamais absente.",
+   "a": [
+    "doit"
+   ],
+   "en": "She must be sick; she's never absent.",
+   "why": "devoir expresses probability."
+  },
+  {
+   "t": "fill",
+   "q": "___ mesure, je suis d'accord. (To some extent)",
+   "a": [
+    "Dans une certaine"
+   ],
+   "en": "To some extent, I agree.",
+   "why": "dans une certaine mesure."
+  },
+  {
+   "t": "fill",
+   "q": "On ___ peut-être attendre la fin du mois. (pouvoir, conditional)",
+   "a": [
+    "pourrait"
+   ],
+   "en": "Maybe we could wait until the end of the month.",
+   "why": "Conditional softens a suggestion."
+  },
+  {
+   "t": "build",
+   "en": "I'd say it's rather expensive.",
+   "a": "Je dirais que c'est plutôt cher."
+  },
+  {
+   "t": "build",
+   "en": "It seems to me that he's right.",
+   "a": "Il me semble qu'il a raison."
+  },
+  {
+   "t": "build",
+   "en": "That's not quite accurate.",
+   "a": "Ce n'est pas tout à fait exact."
+  },
+  {
+   "t": "translate",
+   "en": "Maybe he forgot.",
+   "a": [
+    "Peut-être qu'il a oublié.",
+    "Il a peut-être oublié.",
+    "Peut-être a-t-il oublié.",
+    "Il a sans doute oublié."
+   ],
+   "why": "peut-être que…, or peut-être after the auxiliary."
+  },
+  {
+   "t": "translate",
+   "en": "The meeting may be cancelled.",
+   "a": [
+    "Il se peut que la réunion soit annulée.",
+    "La réunion pourrait être annulée.",
+    "Il est possible que la réunion soit annulée.",
+    "La réunion sera peut-être annulée."
+   ],
+   "why": "il se peut que / il est possible que + subjunctive, or pouvoir in the conditional."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "nuancer",
+   "en": "to qualify, to add nuance",
+   "ex": "Je voudrais nuancer ce que vous venez de dire."
+  },
+  {
+   "fr": "la nuance",
+   "en": "nuance, shade of meaning",
+   "g": "f",
+   "ex": "Il y a une nuance importante entre les deux."
+  },
+  {
+   "fr": "il se peut que",
+   "en": "it may be that (+ subjunctive)",
+   "ex": "Il se peut qu'il neige ce soir."
+  },
+  {
+   "fr": "sans doute",
+   "en": "probably",
+   "ex": "Il viendra sans doute plus tard."
+  },
+  {
+   "fr": "plutôt",
+   "en": "rather, fairly",
+   "ex": "C'est plutôt bien fait."
+  },
+  {
+   "fr": "dans une certaine mesure",
+   "en": "to some extent",
+   "ex": "Dans une certaine mesure, c'est vrai."
+  },
+  {
+   "fr": "en partie",
+   "en": "partly",
+   "ex": "C'est en partie de ma faute."
+  },
+  {
+   "fr": "apparemment",
+   "en": "apparently",
+   "ex": "Apparemment, le magasin est fermé."
+  },
+  {
+   "fr": "sauf erreur de ma part",
+   "en": "unless I'm mistaken",
+   "ex": "Sauf erreur de ma part, vous nous devez 200 $."
+  },
+  {
+   "fr": "pour ainsi dire",
+   "en": "so to speak",
+   "ex": "Il est, pour ainsi dire, le cerveau de l'équipe."
+  },
+  {
+   "fr": "mitigé / mitigée",
+   "en": "mixed (results, reaction)",
+   "ex": "L'accueil du public a été mitigé."
+  },
+  {
+   "fr": "mettons",
+   "en": "let's say; I guess (familiar)",
+   "ex": "Mettons qu'on se rejoint au métro.",
+   "qc": true
+  },
+  {
+   "fr": "dans le fond",
+   "en": "basically, actually (familiar)",
+   "ex": "Dans le fond, c'est pas grave.",
+   "qc": true
+  },
+  {
+   "fr": "pas mal",
+   "en": "pretty, quite; quite a lot",
+   "ex": "C'est pas mal compliqué."
+  },
+  {
+   "fr": "avoir tendance à",
+   "en": "to tend to",
+   "ex": "J'ai tendance à trop parler en réunion."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "mettons",
+    "tip": "mè-TON: nasal on, final s silent."
+   },
+   {
+    "fr": "j'dirais",
+    "tip": "jdi-RÈ: the e of je disappears completely."
+   },
+   {
+    "fr": "dans le fond",
+    "tip": "Often dan'l'fon in fast Quebec speech."
+   },
+   {
+    "fr": "il se peut que",
+    "tip": "il-suh-PEU-kuh, often isse-peu-kuh in speech."
+   },
+   {
+    "fr": "sauf erreur de ma part",
+    "tip": "so-fé-RUHR: the f links to erreur."
+   },
+   {
+    "fr": "apparemment",
+    "tip": "a-pa-ra-MAN: -emment sounds like [aman]."
+   }
+  ],
+  "title": "Le nouveau logiciel",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Pis, le nouveau logiciel, t'en penses quoi?",
+    "en": "So, the new software, what do you think of it?"
+   },
+   {
+    "s": "B",
+    "fr": "J'dirais qu'il est pas mal mieux que l'ancien… dans une certaine mesure.",
+    "en": "I'd say it's quite a bit better than the old one… to some extent."
+   },
+   {
+    "s": "A",
+    "fr": "Dans une certaine mesure?",
+    "en": "To some extent?"
+   },
+   {
+    "s": "B",
+    "fr": "Ben, dans le fond, il est plus rapide, mais il se peut qu'il y ait des bogues.",
+    "en": "Well, basically, it's faster, but there may be bugs."
+   },
+   {
+    "s": "A",
+    "fr": "Apparemment, la comptabilité aurait perdu des données hier.",
+    "en": "Apparently accounting reportedly lost some data yesterday."
+   },
+   {
+    "s": "B",
+    "fr": "Ah oui? Ça doit être le problème de synchronisation.",
+    "en": "Really? That must be the sync problem."
+   },
+   {
+    "s": "A",
+    "fr": "On devrait peut-être en parler au gestionnaire.",
+    "en": "Maybe we should talk to the manager about it."
+   },
+   {
+    "s": "B",
+    "fr": "Mettons qu'on lui en parle demain matin.",
+    "en": "Let's say we talk to him tomorrow morning."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What does B think of the new software?",
+    "options": [
+     "It's terrible",
+     "It's better, with reservations",
+     "It's perfect"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What reportedly happened in accounting?",
+    "options": [
+     "They lost data",
+     "They bought new computers",
+     "They hired someone"
+    ],
+    "a": 0
+   },
+   {
+    "q": "When will they talk to the manager?",
+    "options": [
+     "Right now",
+     "Tomorrow morning",
+     "Next week"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Give a hedged opinion on remote work using at least three softening tools.",
+   "model": "Je dirais que le télétravail est plutôt positif. Dans une certaine mesure, il améliore la qualité de vie. Cependant, il se peut que certaines personnes se sentent isolées."
+  },
+  {
+   "prompt": "Politely tell a colleague that a figure in their report is wrong.",
+   "model": "Sauf erreur de ma part, le chiffre de la page trois n'est pas tout à fait exact. Il me semble que c'était plutôt 12 %, non?"
+  },
+  {
+   "prompt": "Suggest a time to meet a friend, Quebec style, with 'mettons'.",
+   "model": "Mettons qu'on se rejoint au café vers sept heures? Si t'es en retard, texte-moi."
+  }
+ ],
+ "write": {
+  "prompt": "Write a 6–8 sentence paragraph giving a nuanced opinion on whether Montreal should ban cars from downtown. Use the conditional, at least one il se peut que / il est possible que, one limiting expression and one soft disagreement.",
+  "model": "À mon avis, interdire les voitures au centre-ville serait une bonne idée, dans une certaine mesure. Cela pourrait réduire la pollution et rendre les rues plus agréables. Il est probable que les piétons et les cyclistes en profiteraient. Toutefois, il se peut que certains commerçants perdent des clients. Je ne suis pas certain que le transport en commun soit prêt à absorber tous ces usagers. J'aurais donc tendance à proposer une interdiction partielle, par exemple le week-end. Les partisans d'une interdiction totale ont des arguments valables, mais je vois les choses un peu différemment."
+ },
+ "quiz": [
+  {
+   "q": "Which expression takes the subjunctive?",
+   "options": [
+    "Il me semble que",
+    "Il est probable que",
+    "Il se peut que",
+    "Je suis sûr que"
+   ],
+   "a": 2,
+   "why": "il se peut que expresses possibility → subjunctive."
+  },
+  {
+   "q": "In the news, 'Il y aurait trois blessés' means…",
+   "options": [
+    "There would be three injured",
+    "There are reportedly three injured",
+    "There must be three injured",
+    "There were three injured"
+   ],
+   "a": 1,
+   "why": "The conditional marks unconfirmed information."
+  },
+  {
+   "q": "'Dans le fond' in Quebec speech means…",
+   "options": [
+    "at the bottom only",
+    "basically / actually",
+    "in the background",
+    "finally"
+   ],
+   "a": 1,
+   "why": "dans le fond = au fond, en fait."
+  },
+  {
+   "q": "Which is the softest way to disagree?",
+   "options": [
+    "Vous avez tort.",
+    "C'est faux.",
+    "Je vois les choses un peu différemment.",
+    "N'importe quoi!"
+   ],
+   "a": 2,
+   "why": "It frames disagreement as a personal perspective."
+  },
+  {
+   "q": "'Il doit être fatigué' means…",
+   "options": [
+    "He has to be tired",
+    "He must be tired (probably is)",
+    "He owes tiredness",
+    "He should be tired"
+   ],
+   "a": 1,
+   "why": "devoir can express probability."
+  },
+  {
+   "q": "'Mettons!' said alone as an answer usually means…",
+   "options": [
+    "Put it down!",
+    "Absolutely!",
+    "Yeah, I guess / if you say so",
+    "No way!"
+   ],
+   "a": 2,
+   "why": "A lone mettons signals lukewarm or sceptical agreement."
+  },
+  {
+   "q": "Which sentence is correct?",
+   "options": [
+    "Peut-être il a raison.",
+    "Peut-être qu'il a raison.",
+    "Peut-être qu'il ait raison.",
+    "Peut-être a-il raison."
+   ],
+   "a": 1,
+   "why": "peut-être que + indicative (or inversion: a-t-il)."
+  },
+  {
+   "q": "'Un succès mitigé' is…",
+   "options": [
+    "a total success",
+    "a mixed success",
+    "a hidden success",
+    "a failure"
+   ],
+   "a": 1,
+   "why": "mitigé = mixed, lukewarm."
+  },
+  {
+   "q": "Which hedge fits an academic text?",
+   "options": [
+    "Genre",
+    "Les résultats semblent indiquer que",
+    "Mettons",
+    "Comme"
+   ],
+   "a": 1,
+   "why": "sembler + infinitive is the typical written hedge."
+  }
+ ]
+}

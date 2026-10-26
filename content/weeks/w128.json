@@ -1,0 +1,688 @@
+{
+ "w": 128,
+ "title": "B1 milestone test",
+ "goal": "By the end of this lesson you have tested yourself in all four skills at B1 level and know exactly which B1 structures are solid and which need more work before B2.",
+ "learn": [
+  {
+   "h": "How this milestone works",
+   "body": [
+    "This lesson is a full four-skill assessment of the B1 phase: listening (the dialogue), reading (examples and quiz), writing (a 150–180 word text) and speaking (a two- to three-minute monologue plus a role-play).",
+    "Do each part under exam conditions: no dictionary, no notes, one attempt. Then correct yourself with the models and note every error in a list. That list is your study plan for the first B2 weeks."
+   ],
+   "table": {
+    "head": [
+     "Skill",
+     "Task",
+     "B1 target"
+    ],
+    "rows": [
+     [
+      "Listening",
+      "Phone call about a car repair",
+      "Get the main points and key details"
+     ],
+     [
+      "Reading",
+      "Examples, drills, quiz",
+      "Understand connected text on familiar topics"
+     ],
+     [
+      "Writing",
+      "Formal complaint, 150–180 words",
+      "Clear structure, correct register, past tenses"
+     ],
+     [
+      "Speaking",
+      "3-minute monologue + role-play",
+      "Keep going, connect ideas, express opinions"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Compound tenses: the B1 core",
+   "body": [
+    "*Conditionnel passé* (regret, reproach): *j'aurais dû*, *tu aurais pu*, *elle serait venue*.",
+    "*Si* type 3 (unreal past): *si* + plus-que-parfait, conditionnel passé: *Si j'avais su, je ne serais pas venu.*",
+    "*Futur antérieur* (done before a future point): *Quand tu auras fini, appelle-moi.*",
+    "*Subjonctif passé* (completed action after an emotion or doubt): *Je suis content que tu sois venu.*"
+   ],
+   "table": {
+    "head": [
+     "Tense",
+     "Form",
+     "Example"
+    ],
+    "rows": [
+     [
+      "Conditionnel passé",
+      "aurais / serais + participle",
+      "J'aurais dû partir."
+     ],
+     [
+      "Plus-que-parfait",
+      "avais / étais + participle",
+      "Si j'avais su…"
+     ],
+     [
+      "Futur antérieur",
+      "aurai / serai + participle",
+      "Quand j'aurai fini…"
+     ],
+     [
+      "Subjonctif passé",
+      "aie / sois + participle",
+      "…que tu sois venu."
+     ]
+    ]
+   },
+   "tip": "All four are auxiliary + past participle. Only the auxiliary's tense changes."
+  },
+  {
+   "h": "Reported speech and tense agreement",
+   "body": [
+    "When the reporting verb is in the past, tenses shift back: present → imparfait, passé composé → plus-que-parfait, futur → conditionnel.",
+    "*Il a dit : « Je viendrai. »* → *Il a dit qu'il viendrait.* Questions become *si*, *ce que*, *ce qui*: *Elle m'a demandé ce que je faisais.*"
+   ],
+   "table": {
+    "head": [
+     "Direct",
+     "Reported (past)"
+    ],
+    "rows": [
+     [
+      "« Je suis malade. »",
+      "Il a dit qu'il était malade."
+     ],
+     [
+      "« J'ai perdu mes clés. »",
+      "Elle a dit qu'elle avait perdu ses clés."
+     ],
+     [
+      "« Je t'appellerai. »",
+      "Il a dit qu'il m'appellerait."
+     ],
+     [
+      "« Tu viens? »",
+      "Elle m'a demandé si je venais."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Causative faire, se faire, se laisser",
+   "body": [
+    "*Faire* + infinitive = to have something done: *Je fais réparer ma voiture.* The pronoun goes before *faire*: *Je la fais réparer.* The participle *fait* does not agree here: *Je l'ai fait réparer.*",
+    "*Se faire* + infinitive = something happens to you: *Il s'est fait voler son vélo.* *Se laisser* + infinitive = to let oneself: *Je me suis laissé convaincre.*"
+   ]
+  },
+  {
+   "h": "Discourse skills you must show",
+   "body": [
+    "Opinion: *À mon avis*, *Je trouve que*, *Je ne pense pas que* + subjonctif. Agreeing and disagreeing: *Je suis tout à fait d'accord*, *Je ne suis pas de cet avis*.",
+    "Cause and effect: *parce que*, *puisque*, *grâce à*, *à cause de*, *c'est pourquoi*, *si bien que*. Hypothesis: *Supposons que* + subjonctif, *Au cas où* + conditionnel."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "J'aurais dû réserver plus tôt.",
+   "en": "I should have booked earlier.",
+   "note": "conditionnel passé of devoir = regret"
+  },
+  {
+   "fr": "Tu aurais pu me prévenir!",
+   "en": "You could have warned me!",
+   "note": "conditionnel passé of pouvoir = reproach"
+  },
+  {
+   "fr": "Si j'avais su, je ne serais pas venu.",
+   "en": "If I had known, I wouldn't have come.",
+   "note": "si type 3"
+  },
+  {
+   "fr": "Quand tu auras fini ton rapport, envoie-le-moi.",
+   "en": "When you've finished your report, send it to me.",
+   "note": "futur antérieur after quand"
+  },
+  {
+   "fr": "Je suis contente que vous soyez venus.",
+   "en": "I'm glad you came.",
+   "note": "subjonctif passé after an emotion"
+  },
+  {
+   "fr": "Il m'a dit qu'il arriverait vers midi.",
+   "en": "He told me he would arrive around noon.",
+   "note": "futur → conditionnel in reported speech"
+  },
+  {
+   "fr": "Elle m'a demandé si j'avais reçu son courriel.",
+   "en": "She asked me if I had received her email.",
+   "note": "yes/no question → si; passé composé → plus-que-parfait"
+  },
+  {
+   "fr": "Je fais réparer ma voiture au garage du coin.",
+   "en": "I'm having my car repaired at the local garage.",
+   "note": "causative faire"
+  },
+  {
+   "fr": "Je l'ai fait réparer la semaine dernière.",
+   "en": "I had it repaired last week.",
+   "note": "fait does not agree in the causative"
+  },
+  {
+   "fr": "Il s'est fait voler son vélo devant le métro.",
+   "en": "He got his bike stolen in front of the metro.",
+   "note": "se faire + infinitive"
+  },
+  {
+   "fr": "Je me suis laissé convaincre par le vendeur.",
+   "en": "I let myself be convinced by the salesperson.",
+   "note": "se laisser + infinitive"
+  },
+  {
+   "fr": "À mon avis, le transport en commun devrait être gratuit.",
+   "en": "In my opinion, public transit should be free.",
+   "note": "opinion + conditionnel"
+  },
+  {
+   "fr": "Je ne pense pas que ce soit une bonne idée.",
+   "en": "I don't think that's a good idea.",
+   "note": "negative opinion → subjonctif"
+  },
+  {
+   "fr": "Grâce à mon voisin, j'ai pu démarrer ma voiture.",
+   "en": "Thanks to my neighbour, I was able to start my car.",
+   "note": "grâce à = positive cause"
+  },
+  {
+   "fr": "Au cas où il neigerait, on partira plus tôt.",
+   "en": "In case it snows, we'll leave earlier.",
+   "note": "au cas où + conditionnel"
+  },
+  {
+   "fr": "Il neigeait depuis deux jours quand la panne a commencé.",
+   "en": "It had been snowing for two days when the power outage started.",
+   "note": "imparfait + depuis, then passé composé"
+  }
+ ],
+ "quebec": {
+  "intro": "A B1 assessment in Quebec means understanding both registers: the standard forms you write, and the compressed forms you will hear on the phone or at the garage. Each pair below comes from a B1 structure.",
+  "items": [
+   {
+    "std": "J'aurais dû t'appeler.",
+    "qc": "J'aurais dû t'appeler. / T'aurais dû m'appeler.",
+    "en": "I should have called you. / You should have called me.",
+    "note": "t'aurais = tu aurais, informal"
+   },
+   {
+    "std": "Quand tu auras fini, appelle-moi.",
+    "qc": "Quand t'auras fini, appelle-moi.",
+    "en": "When you're done, call me.",
+    "note": "tu → t' before a vowel; informal"
+   },
+   {
+    "std": "Je fais réparer ma voiture.",
+    "qc": "Je fais réparer mon char.",
+    "en": "I'm getting my car fixed.",
+    "note": "char (m) = car; informal but universal in Quebec"
+   },
+   {
+    "std": "Il dit qu'il va être en retard.",
+    "qc": "Y dit qu'y va être en retard.",
+    "en": "He says he's going to be late.",
+    "note": "y = il in fast speech"
+   },
+   {
+    "std": "Si j'avais su, je ne serais pas venu.",
+    "qc": "Si j'avais su, j'serais pas venu.",
+    "en": "If I'd known, I wouldn't have come.",
+    "note": "ne dropped; informal"
+   },
+   {
+    "std": "Supposons qu'il pleuve.",
+    "qc": "Mettons qu'il pleut.",
+    "en": "Let's say it rains.",
+    "note": "mettons que is usually followed by the indicative in speech"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Si j'avais eu le temps, je ___ venu.",
+   "options": [
+    "serai",
+    "serais",
+    "suis",
+    "étais"
+   ],
+   "a": 1,
+   "why": "Si type 3: si + plus-que-parfait, conditionnel passé (serais venu)."
+  },
+  {
+   "t": "mcq",
+   "q": "Il a dit : « Je partirai demain. » → Il a dit qu'il…",
+   "options": [
+    "partira le lendemain",
+    "partirait le lendemain",
+    "partait demain",
+    "est parti le lendemain"
+   ],
+   "a": 1,
+   "why": "Futur → conditionnel; demain → le lendemain."
+  },
+  {
+   "t": "mcq",
+   "q": "Which sentence is correct?",
+   "options": [
+    "Je l'ai faite réparer.",
+    "Je l'ai fait réparer.",
+    "Je l'ai faire réparer.",
+    "Je l'ai fais réparer."
+   ],
+   "a": 1,
+   "why": "In causative faire, the participle fait never agrees."
+  },
+  {
+   "t": "mcq",
+   "q": "Je ne pense pas qu'il ___ raison.",
+   "options": [
+    "a",
+    "ait",
+    "aura",
+    "avait"
+   ],
+   "a": 1,
+   "why": "A negative opinion triggers the subjonctif: ait."
+  },
+  {
+   "t": "fill",
+   "q": "Quand j'___ fini, je t'appellerai. (avoir, futur antérieur)",
+   "a": [
+    "aurai"
+   ],
+   "en": "When I've finished, I'll call you.",
+   "why": "Futur antérieur: aurai + fini."
+  },
+  {
+   "t": "fill",
+   "q": "Je suis contente que tu ___ venu. (être, subjonctif passé)",
+   "a": [
+    "sois"
+   ],
+   "en": "I'm glad you came.",
+   "why": "Subjonctif passé of venir: que tu sois venu."
+  },
+  {
+   "t": "fill",
+   "q": "Elle m'a demandé ___ je venais. (if)",
+   "a": [
+    "si"
+   ],
+   "en": "She asked me if I was coming.",
+   "why": "Yes/no questions are reported with si."
+  },
+  {
+   "t": "fill",
+   "q": "Il s'est fait ___ son portefeuille. (voler)",
+   "a": [
+    "voler"
+   ],
+   "en": "He got his wallet stolen.",
+   "why": "Se faire + infinitive: the infinitive stays unchanged."
+  },
+  {
+   "t": "fill",
+   "q": "Tu ___ pu me prévenir! (avoir, conditionnel)",
+   "a": [
+    "aurais"
+   ],
+   "en": "You could have warned me!",
+   "why": "Reproach: tu aurais pu."
+  },
+  {
+   "t": "build",
+   "en": "If I had known, I would have stayed.",
+   "a": "Si j'avais su, je serais resté."
+  },
+  {
+   "t": "build",
+   "en": "He told me he would come.",
+   "a": "Il m'a dit qu'il viendrait."
+  },
+  {
+   "t": "build",
+   "en": "I let myself be convinced.",
+   "a": "Je me suis laissé convaincre."
+  },
+  {
+   "t": "translate",
+   "en": "I should have left earlier.",
+   "a": [
+    "J'aurais dû partir plus tôt.",
+    "J'aurais dû partir avant."
+   ],
+   "why": "Devoir in the conditionnel passé expresses regret."
+  },
+  {
+   "t": "translate",
+   "en": "I'm having my car repaired.",
+   "a": [
+    "Je fais réparer ma voiture.",
+    "Je fais réparer mon auto.",
+    "Je fais réparer mon char.",
+    "Je fais réparer mon automobile."
+   ],
+   "why": "Faire + infinitive = to have something done."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "l'évaluation",
+   "en": "assessment",
+   "g": "f",
+   "ex": "L'évaluation porte sur les quatre compétences."
+  },
+  {
+   "fr": "la compréhension orale",
+   "en": "listening comprehension",
+   "g": "f",
+   "ex": "La compréhension orale dure vingt minutes."
+  },
+  {
+   "fr": "la production écrite",
+   "en": "written production",
+   "g": "f",
+   "ex": "La production écrite compte 150 mots."
+  },
+  {
+   "fr": "le bilan",
+   "en": "review, assessment, balance sheet",
+   "g": "m",
+   "ex": "Faisons le bilan de l'année."
+  },
+  {
+   "fr": "le point faible",
+   "en": "weak point",
+   "g": "m",
+   "ex": "Mon point faible, c'est le subjonctif."
+  },
+  {
+   "fr": "le point fort",
+   "en": "strong point",
+   "g": "m",
+   "ex": "Son point fort, c'est l'oral."
+  },
+  {
+   "fr": "prévenir",
+   "en": "to warn, let know",
+   "ex": "Préviens-moi si tu es en retard."
+  },
+  {
+   "fr": "le garagiste",
+   "en": "mechanic, garage owner",
+   "g": "m",
+   "ex": "Le garagiste m'a donné une estimation."
+  },
+  {
+   "fr": "l'estimation",
+   "en": "estimate, quote",
+   "g": "f",
+   "ex": "L'estimation était de 800 $."
+  },
+  {
+   "fr": "la facture",
+   "en": "bill, invoice",
+   "g": "f",
+   "ex": "La facture est plus élevée que prévu."
+  },
+  {
+   "fr": "se plaindre",
+   "en": "to complain",
+   "ex": "Je voudrais me plaindre du service."
+  },
+  {
+   "fr": "le remboursement",
+   "en": "refund",
+   "g": "m",
+   "ex": "J'exige un remboursement."
+  },
+  {
+   "fr": "convaincre",
+   "en": "to convince",
+   "ex": "Il m'a convaincu de rester."
+  },
+  {
+   "fr": "au cas où",
+   "en": "in case",
+   "ex": "Prends un parapluie, au cas où."
+  },
+  {
+   "fr": "le char",
+   "en": "car (informal)",
+   "g": "m",
+   "ex": "Mon char est au garage.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "j'aurais dû",
+    "tip": "[jo-ré DU]; the u of dû needs rounded lips."
+   },
+   {
+    "fr": "je serais venu / je serai venu",
+    "tip": "In careful speech, -rais is [rè] and -rai is [ré]; many Quebecers keep the difference."
+   },
+   {
+    "fr": "que tu sois venu",
+    "tip": "sois = [swa]; same sound as soit and soient."
+   },
+   {
+    "fr": "il viendrait",
+    "tip": "[vyin-DRÈ]; the nasal [in] in Quebec is often brighter, close to [ẽ]."
+   },
+   {
+    "fr": "Je l'ai fait réparer.",
+    "tip": "[jlé fè ré-pa-RÉ]; fait has an open [è]."
+   },
+   {
+    "fr": "Quand t'auras fini",
+    "tip": "Quebec: [kan to-ra fi-NI]; t'auras squeezes tu auras into two syllables."
+   }
+  ],
+  "title": "Au téléphone avec le garage",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Garage Tremblay, bonjour!",
+    "en": "Tremblay Garage, hello!"
+   },
+   {
+    "s": "B",
+    "fr": "Bonjour, j'ai laissé ma voiture ce matin. Vous m'aviez dit qu'elle serait prête à quinze heures.",
+    "en": "Hello, I left my car this morning. You told me it would be ready at three."
+   },
+   {
+    "s": "A",
+    "fr": "Oui, mais le mécanicien a trouvé un autre problème. Les freins sont finis.",
+    "en": "Yes, but the mechanic found another problem. The brakes are worn out."
+   },
+   {
+    "s": "B",
+    "fr": "Vous auriez pu m'appeler avant! Ça va coûter combien?",
+    "en": "You could have called me before! How much will it cost?"
+   },
+   {
+    "s": "A",
+    "fr": "À peu près quatre cents dollars de plus. On ne fait rien sans votre accord.",
+    "en": "About four hundred dollars more. We won't do anything without your consent."
+   },
+   {
+    "s": "B",
+    "fr": "Bon. Si j'avais su, je l'aurais fait inspecter cet automne. Allez-y.",
+    "en": "OK. If I'd known, I would have had it inspected this fall. Go ahead."
+   },
+   {
+    "s": "A",
+    "fr": "Parfait. Quand on aura terminé, on vous appellera. Ce sera sûrement demain matin.",
+    "en": "Perfect. When we've finished, we'll call you. It'll probably be tomorrow morning."
+   },
+   {
+    "s": "B",
+    "fr": "D'accord. Je suis content que vous l'ayez vu avant l'hiver, au moins.",
+    "en": "OK. I'm glad you caught it before winter, at least."
+   }
+  ],
+  "questions": [
+   {
+    "q": "When was the car supposed to be ready?",
+    "options": [
+     "At noon",
+     "At three o'clock",
+     "Tomorrow morning"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What new problem was found?",
+    "options": [
+     "The tires",
+     "The brakes",
+     "The battery"
+    ],
+    "a": 1
+   },
+   {
+    "q": "When will the car probably be ready now?",
+    "options": [
+     "Tonight",
+     "Tomorrow morning",
+     "Next week"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Monologue (3 minutes, no notes): 'Mon parcours en français jusqu'ici'. Use at least one si type 3 and one conditionnel passé.",
+   "model": "Aujourd'hui, j'aimerais faire le bilan de mon parcours. Je vais parler de mes débuts, de mes difficultés et de mes progrès. Au début, je ne comprenais rien à la radio… J'aurais dû écouter plus de balados dès le départ… Si j'avais su que le subjonctif serait si utile, je l'aurais appris plus tôt! Bref, je suis fier du chemin parcouru."
+  },
+  {
+   "prompt": "Role-play: call your landlord, report that the heating broke, and say what he told you last time (reported speech).",
+   "model": "Bonjour monsieur Gagnon, c'est votre locataire du 3e. Le chauffage ne fonctionne plus depuis hier soir. La dernière fois, vous m'aviez dit que vous enverriez quelqu'un le lendemain, mais personne n'est venu. Pourriez-vous le faire réparer aujourd'hui?"
+  },
+  {
+   "prompt": "Give and defend an opinion in four sentences: should Montreal ban cars downtown?",
+   "model": "À mon avis, on devrait limiter les voitures au centre-ville. D'une part, ça réduirait la pollution; d'autre part, les rues seraient plus sécuritaires. Cependant, je ne pense pas qu'on puisse tout interdire du jour au lendemain. Il faudrait d'abord améliorer le transport en commun."
+  }
+ ],
+ "write": {
+  "prompt": "Write a formal complaint (150–180 words) to a garage that charged you more than the estimate without calling you first. Use reported speech, a conditionnel passé and a polite closing.",
+  "model": "Madame, Monsieur,\n\nLe 14 octobre, j'ai confié ma voiture à votre garage pour un changement d'huile. Votre employé m'avait assuré que la réparation coûterait environ 90 $ et qu'il m'appellerait si un autre problème était découvert.\n\nOr, en venant chercher mon véhicule, j'ai reçu une facture de 520 $. On m'a expliqué que les freins avaient été remplacés. Personne ne m'a contacté avant les travaux. Vous auriez dû obtenir mon accord, comme le prévoit la Loi sur la protection du consommateur.\n\nSi j'avais été prévenu, j'aurais pu comparer les prix. Je vous demande donc de me rembourser la différence, soit 430 $, dans les dix jours suivant la réception de cette lettre.\n\nDans l'attente de votre réponse, je vous prie d'agréer, Madame, Monsieur, mes salutations distinguées.\n\nAlex Martin"
+ },
+ "quiz": [
+  {
+   "q": "Which tense follows 'si' in a type 3 condition?",
+   "options": [
+    "imparfait",
+    "plus-que-parfait",
+    "conditionnel passé",
+    "futur antérieur"
+   ],
+   "a": 1,
+   "why": "Si + plus-que-parfait, then conditionnel passé in the main clause."
+  },
+  {
+   "q": "'Dès que vous ___ reçu le colis, prévenez-moi.'",
+   "options": [
+    "avez",
+    "aurez",
+    "auriez",
+    "ayez"
+   ],
+   "a": 1,
+   "why": "Futur antérieur after dès que when the main clause is future or imperative."
+  },
+  {
+   "q": "Reported speech: « J'ai fini. » → Elle a dit qu'elle…",
+   "options": [
+    "a fini",
+    "avait fini",
+    "finirait",
+    "aura fini"
+   ],
+   "a": 1,
+   "why": "Passé composé shifts to plus-que-parfait."
+  },
+  {
+   "q": "Which expresses a positive cause?",
+   "options": [
+    "à cause de",
+    "grâce à",
+    "faute de",
+    "malgré"
+   ],
+   "a": 1,
+   "why": "Grâce à = thanks to; à cause de is neutral or negative."
+  },
+  {
+   "q": "'Il s'est fait avoir' means…",
+   "options": [
+    "He had it done",
+    "He got ripped off",
+    "He let himself go",
+    "He made it"
+   ],
+   "a": 1,
+   "why": "Se faire avoir = to be had, to get scammed."
+  },
+  {
+   "q": "Which sentence needs the subjonctif?",
+   "options": [
+    "Je pense qu'il vient.",
+    "Je doute qu'il vienne.",
+    "Je sais qu'il vient.",
+    "Il dit qu'il vient."
+   ],
+   "a": 1,
+   "why": "Douter que expresses doubt → subjonctif."
+  },
+  {
+   "q": "In a formal letter, which closing is appropriate?",
+   "options": [
+    "Bye!",
+    "À la prochaine",
+    "Veuillez agréer mes salutations distinguées.",
+    "Bonne journée là!"
+   ],
+   "a": 2,
+   "why": "The formula with agréer is standard in formal letters."
+  },
+  {
+   "q": "'Au cas où' is followed by…",
+   "options": [
+    "the subjonctif",
+    "the conditionnel",
+    "the infinitive",
+    "the futur"
+   ],
+   "a": 1,
+   "why": "Au cas où il pleuvrait… takes the conditionnel."
+  },
+  {
+   "q": "What does 'T'aurais pu m'appeler' mean?",
+   "options": [
+    "You can call me",
+    "You could have called me",
+    "You will call me",
+    "You had called me"
+   ],
+   "a": 1,
+   "why": "Informal t'aurais = tu aurais; conditionnel passé of pouvoir."
+  }
+ ]
+}

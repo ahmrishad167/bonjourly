@@ -1,0 +1,653 @@
+{
+ "w": 78,
+ "title": "Joual basics: common contractions",
+ "goal": "By the end of this lesson you can recognise the most common contractions of casual Quebec speech (chu, t'sé, y'é, a l'a, y'a, j'vas, pis, ben) and map each one back to standard French.",
+ "learn": [
+  {
+   "h": "What is joual?",
+   "body": [
+    "*Joual* (from a casual pronunciation of *cheval*) is the name given to the popular, working-class French of Montreal. Writers like Michel Tremblay put it on stage in the 1960s and made it a symbol of Quebec identity.",
+    "Today, people often use 'joual' loosely for any very casual Quebec speech. Some find the word negative, so many linguists prefer *français québécois familier* (informal Quebec French).",
+    "Your goal this lesson is to understand it, not necessarily to speak it. Everyone uses some contractions (*chu*, *t'sé*, *pis*); heavier forms (*moé*, *toé*, *icitte*) sound rural, old-fashioned or very informal."
+   ]
+  },
+  {
+   "h": "Pronouns + être and avoir",
+   "body": [
+    "The biggest changes happen to subject pronouns before *être* and *avoir*. *Il* becomes *y*, *elle* becomes *a* (and *a l'* before a vowel), *je suis* becomes *chu*, and *tu* loses its *u* before a vowel."
+   ],
+   "table": {
+    "head": [
+     "Standard",
+     "Spoken Quebec",
+     "English"
+    ],
+    "rows": [
+     [
+      "je suis",
+      "chu / chus",
+      "I am"
+     ],
+     [
+      "tu es / tu as",
+      "t'es / t'as",
+      "you are / you have"
+     ],
+     [
+      "il est",
+      "y'é / y'est",
+      "he is / it is"
+     ],
+     [
+      "il a",
+      "y'a",
+      "he has"
+     ],
+     [
+      "elle est",
+      "a'est / al est",
+      "she is"
+     ],
+     [
+      "elle a",
+      "a l'a",
+      "she has"
+     ],
+     [
+      "il y a",
+      "y'a",
+      "there is / there are"
+     ],
+     [
+      "ils sont / ils ont",
+      "y sont / y'ont",
+      "they are / they have"
+     ]
+    ]
+   },
+   "tip": "y = il / ils, a = elle. Most of joual is just pronouns squeezed together."
+  },
+  {
+   "h": "Everyday reductions",
+   "body": [
+    "*Tu sais* → *t'sé* (you know), used as a filler in almost every sentence. *Je ne sais pas* → *j'sais pas* → *chais pas* or *ché pas*.",
+    "*Puis* → *pis* (and, and then). *Bien* → *ben* (very, well). *Là* at the end of a sentence adds emphasis: *Viens icitte, là!*",
+    "*Je vais* → *j'vas*, or *m'as* for a near future: *M'as te dire une affaire* (Let me tell you something). *Sur la* → *su'a*, *dans la* → *dans'a*: *C'est su'a table* (It's on the table).",
+    "*Moi*, *toi* → *moé*, *toé* (older or very informal). *Ici* → *icitte* (rural or very informal)."
+   ]
+  },
+  {
+   "h": "The question marker -tu",
+   "body": [
+    "Spoken Quebec French turns a statement into a yes/no question by adding *-tu* after the verb, with any subject: *T'as-tu faim?* (Are you hungry?), *C'est-tu loin?* (Is it far?), *Y vient-tu?* (Is he coming?).",
+    "This *tu* has nothing to do with 'you'. In writing, use *est-ce que* or inversion: *Est-ce que c'est loin?*"
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Chu fatigué, t'sé.",
+   "en": "I'm tired, you know.",
+   "note": "= Je suis fatigué, tu sais."
+  },
+  {
+   "fr": "Y'é où, ton frère?",
+   "en": "Where is your brother?",
+   "note": "= Il est où, ton frère?"
+  },
+  {
+   "fr": "A l'a deux enfants.",
+   "en": "She has two children.",
+   "note": "= Elle a deux enfants."
+  },
+  {
+   "fr": "A'est ben fine, ta sœur.",
+   "en": "Your sister is really nice.",
+   "note": "= Elle est bien gentille; fine = kind in Quebec"
+  },
+  {
+   "fr": "Y'a ben du monde au parc.",
+   "en": "There are lots of people at the park.",
+   "note": "= Il y a beaucoup de monde"
+  },
+  {
+   "fr": "J'vas au dépanneur, pis je reviens.",
+   "en": "I'm going to the corner store, and I'll be back.",
+   "note": "= Je vais au dépanneur, puis je reviens."
+  },
+  {
+   "fr": "T'as-tu faim?",
+   "en": "Are you hungry?",
+   "note": "= As-tu faim? (-tu question marker)"
+  },
+  {
+   "fr": "C'est-tu loin d'icitte?",
+   "en": "Is it far from here?",
+   "note": "= Est-ce que c'est loin d'ici?"
+  },
+  {
+   "fr": "Chais pas pantoute.",
+   "en": "I have no idea.",
+   "note": "= Je ne sais pas du tout."
+  },
+  {
+   "fr": "M'as te dire une affaire.",
+   "en": "Let me tell you something.",
+   "note": "m'as = je vais (near future)"
+  },
+  {
+   "fr": "Tes clés sont su'a table.",
+   "en": "Your keys are on the table.",
+   "note": "su'a = sur la"
+  },
+  {
+   "fr": "Y sont partis à matin.",
+   "en": "They left this morning.",
+   "note": "y = ils; à matin = ce matin"
+  },
+  {
+   "fr": "C'est pour moé ou pour toé?",
+   "en": "Is it for me or for you?",
+   "note": "moé, toé: older / very informal"
+  },
+  {
+   "fr": "Y fait beau, là!",
+   "en": "It's really nice out!",
+   "note": "là as emphasis"
+  },
+  {
+   "fr": "T'es-tu correct?",
+   "en": "Are you OK?",
+   "note": "= Est-ce que tu vas bien?"
+  }
+ ],
+ "quebec": {
+  "intro": "This whole week is the Quebec layer: the contractions t'sé, y'é, a l'a and chu that the roadmap lists are all accurate and extremely common. Understand them all; use the light ones (chu, t'sé, pis) with friends, and keep standard forms for writing and formal situations.",
+  "items": [
+   {
+    "std": "Tu sais, je suis content.",
+    "qc": "T'sé, chu content.",
+    "en": "You know, I'm happy.",
+    "note": "Informal, used by almost everyone"
+   },
+   {
+    "std": "Il est malade.",
+    "qc": "Y'é malade.",
+    "en": "He's sick.",
+    "note": "Informal"
+   },
+   {
+    "std": "Elle a raison.",
+    "qc": "A l'a raison.",
+    "en": "She's right.",
+    "note": "Informal; the l' links a and a"
+   },
+   {
+    "std": "Il n'y en a plus.",
+    "qc": "Y'en a pus.",
+    "en": "There's none left.",
+    "note": "Informal; pus = plus"
+   },
+   {
+    "std": "Est-ce que tu viens?",
+    "qc": "Tu viens-tu?",
+    "en": "Are you coming?",
+    "note": "Informal -tu question"
+   },
+   {
+    "std": "Je vais le faire.",
+    "qc": "M'as le faire.",
+    "en": "I'm gonna do it.",
+    "note": "Very informal"
+   },
+   {
+    "std": "Viens ici!",
+    "qc": "Viens icitte!",
+    "en": "Come here!",
+    "note": "Rural / very informal"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "'Chu' is the spoken form of…",
+   "options": [
+    "je sais",
+    "je suis",
+    "chez",
+    "tu es"
+   ],
+   "a": 1,
+   "why": "je suis → chu."
+  },
+  {
+   "t": "mcq",
+   "q": "'A l'a' means…",
+   "options": [
+    "she has",
+    "he has",
+    "there is",
+    "to the"
+   ],
+   "a": 0,
+   "why": "elle a → a l'a."
+  },
+  {
+   "t": "mcq",
+   "q": "In 'C'est-tu loin?', what is '-tu'?",
+   "options": [
+    "'you'",
+    "a yes/no question marker",
+    "a mistake",
+    "'too'"
+   ],
+   "a": 1,
+   "why": "It turns the sentence into a question; it doesn't mean 'you'."
+  },
+  {
+   "t": "mcq",
+   "q": "'Y'a ben du monde' means…",
+   "options": [
+    "He has a good world.",
+    "There are lots of people.",
+    "He's well-known.",
+    "Everyone is fine."
+   ],
+   "a": 1,
+   "why": "y'a = il y a; ben du monde = beaucoup de gens."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is the most acceptable in a job interview?",
+   "options": [
+    "Chu ben content.",
+    "Je suis très content.",
+    "Chus content, t'sé.",
+    "Ch'content."
+   ],
+   "a": 1,
+   "why": "Use standard forms in formal situations."
+  },
+  {
+   "t": "fill",
+   "q": "Standard: ___ sais, c'est difficile. (spoken: T'sé)",
+   "a": [
+    "Tu"
+   ],
+   "en": "You know, it's hard.",
+   "why": "t'sé = tu sais."
+  },
+  {
+   "t": "fill",
+   "q": "Standard: ___ est fatigué. (spoken: Y'é fatigué)",
+   "a": [
+    "Il"
+   ],
+   "en": "He's tired.",
+   "why": "y'é = il est."
+  },
+  {
+   "t": "fill",
+   "q": "Standard: Mes clés sont ___ table. (spoken: su'a)",
+   "a": [
+    "sur la"
+   ],
+   "en": "My keys are on the table.",
+   "why": "su'a = sur la."
+  },
+  {
+   "t": "fill",
+   "q": "Standard: Je vais au café, ___ je reviens. (spoken: pis)",
+   "a": [
+    "puis",
+    "et"
+   ],
+   "en": "I'm going to the café, then I'll come back.",
+   "why": "pis = puis."
+  },
+  {
+   "t": "build",
+   "en": "You know, I'm tired. (standard)",
+   "a": "Tu sais, je suis fatigué."
+  },
+  {
+   "t": "build",
+   "en": "She has two children. (standard)",
+   "a": "Elle a deux enfants."
+  },
+  {
+   "t": "build",
+   "en": "Is it far from here? (standard)",
+   "a": "Est-ce que c'est loin d'ici?"
+  },
+  {
+   "t": "translate",
+   "en": "I don't know. (standard)",
+   "a": [
+    "Je ne sais pas.",
+    "Je sais pas."
+   ],
+   "why": "chais pas / j'sais pas in speech."
+  },
+  {
+   "t": "translate",
+   "en": "There are lots of people. (standard)",
+   "a": [
+    "Il y a beaucoup de monde.",
+    "Il y a beaucoup de gens.",
+    "Il y a bien du monde."
+   ],
+   "why": "y'a ben du monde in speech."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "chu / chus",
+   "en": "I am (= je suis)",
+   "ex": "Chu en retard!",
+   "qc": true
+  },
+  {
+   "fr": "t'sé",
+   "en": "you know (= tu sais)",
+   "ex": "C'est pas facile, t'sé.",
+   "qc": true
+  },
+  {
+   "fr": "y'é / y'est",
+   "en": "he is, it is (= il est)",
+   "ex": "Y'é ben fin.",
+   "qc": true
+  },
+  {
+   "fr": "a l'a",
+   "en": "she has (= elle a)",
+   "ex": "A l'a un chat.",
+   "qc": true
+  },
+  {
+   "fr": "a'est",
+   "en": "she is (= elle est)",
+   "ex": "A'est partie.",
+   "qc": true
+  },
+  {
+   "fr": "y'a",
+   "en": "there is / he has (= il y a / il a)",
+   "ex": "Y'a personne.",
+   "qc": true
+  },
+  {
+   "fr": "j'vas / m'as",
+   "en": "I'm going (to) (= je vais)",
+   "ex": "M'as t'appeler demain.",
+   "qc": true
+  },
+  {
+   "fr": "chais pas / ché pas",
+   "en": "I don't know (= je ne sais pas)",
+   "ex": "Chais pas c'est où.",
+   "qc": true
+  },
+  {
+   "fr": "pis",
+   "en": "and, then (= puis)",
+   "ex": "Moi pis mon chum.",
+   "qc": true
+  },
+  {
+   "fr": "ben",
+   "en": "very, really, well (= bien)",
+   "ex": "C'est ben bon!",
+   "qc": true
+  },
+  {
+   "fr": "su'a",
+   "en": "on the (= sur la)",
+   "ex": "C'est su'a chaise.",
+   "qc": true
+  },
+  {
+   "fr": "moé / toé",
+   "en": "me / you (= moi / toi)",
+   "ex": "Toé, viens icitte!",
+   "qc": true
+  },
+  {
+   "fr": "icitte",
+   "en": "here (= ici)",
+   "ex": "On est ben icitte.",
+   "qc": true
+  },
+  {
+   "fr": "à matin / à soir",
+   "en": "this morning / tonight",
+   "ex": "On se voit à soir?",
+   "qc": true
+  },
+  {
+   "fr": "fin / fine",
+   "en": "kind, nice (Quebec)",
+   "ex": "T'es ben fine!",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "chu",
+    "tip": "SHU: one syllable for je suis."
+   },
+   {
+    "fr": "t'sé",
+    "tip": "TSAY: very quick."
+   },
+   {
+    "fr": "y'é",
+    "tip": "YAY."
+   },
+   {
+    "fr": "a l'a",
+    "tip": "a-LA."
+   },
+   {
+    "fr": "chais pas",
+    "tip": "SHÈ pa, or SHÉ pa."
+   },
+   {
+    "fr": "T'as-tu faim?",
+    "tip": "ta-tsu FAN, rising at the end."
+   },
+   {
+    "fr": "pis",
+    "tip": "PEE, never 'puis' in casual speech."
+   }
+  ],
+  "title": "Au téléphone avec ma chum",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Allô! T'es-tu occupée?",
+    "en": "Hi! Are you busy?"
+   },
+   {
+    "s": "B",
+    "fr": "Non, chu chez nous. Pis toi?",
+    "en": "No, I'm at home. And you?"
+   },
+   {
+    "s": "A",
+    "fr": "Chu au dep. T'sé, Julie, ta voisine? A l'a eu son bébé!",
+    "en": "I'm at the corner store. You know Julie, your neighbour? She had her baby!"
+   },
+   {
+    "s": "B",
+    "fr": "Ben voyons! C'est-tu un gars ou une fille?",
+    "en": "No way! Is it a boy or a girl?"
+   },
+   {
+    "s": "A",
+    "fr": "Une fille. A'est ben belle, y paraît.",
+    "en": "A girl. She's really beautiful, apparently."
+   },
+   {
+    "s": "B",
+    "fr": "Pis son chum, y'é où?",
+    "en": "And her boyfriend, where is he?"
+   },
+   {
+    "s": "A",
+    "fr": "Chais pas, y travaille à soir, je pense.",
+    "en": "I don't know, he's working tonight, I think."
+   },
+   {
+    "s": "B",
+    "fr": "M'as y apporter un cadeau demain.",
+    "en": "I'm gonna bring her a gift tomorrow."
+   },
+   {
+    "s": "A",
+    "fr": "Bonne idée! Bon, faut que j'y aille. Bye!",
+    "en": "Good idea! OK, I have to go. Bye!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Where is speaker A?",
+    "options": [
+     "At home",
+     "At the corner store",
+     "At the hospital"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What happened to Julie?",
+    "options": [
+     "She moved",
+     "She had a baby girl",
+     "She got a new job"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What will B do tomorrow?",
+    "options": [
+     "Call Julie",
+     "Bring a gift",
+     "Babysit"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Translate into standard French: 'Chu fatigué, pis y fait frette.'",
+   "model": "Je suis fatigué, et il fait très froid."
+  },
+  {
+   "prompt": "Translate into casual Quebec speech: 'Elle a faim. Est-ce que tu as faim?'",
+   "model": "A l'a faim. T'as-tu faim?"
+  },
+  {
+   "prompt": "Say three sentences about your day using chu, t'sé and pis.",
+   "model": "Chu allé au travail à matin, pis j'ai dîné avec mes collègues. C'était le fun, t'sé."
+  }
+ ],
+ "write": {
+  "prompt": "Rewrite this casual text message in standard French: 'Salut! Chu en retard, y'a ben du trafic. T'sé, a l'a pas appelé. Tu viens-tu à soir? M'as t'attendre au resto.'",
+  "model": "Salut! Je suis en retard, il y a beaucoup de circulation. Tu sais, elle n'a pas appelé. Est-ce que tu viens ce soir? Je vais t'attendre au restaurant."
+ },
+ "quiz": [
+  {
+   "q": "'Joual' comes from…",
+   "options": [
+    "the word 'journal'",
+    "a casual pronunciation of 'cheval'",
+    "an Indigenous word",
+    "English 'jewel'"
+   ],
+   "a": 1,
+   "why": "Cheval pronounced casually → joual."
+  },
+  {
+   "q": "'Y sont partis' means…",
+   "options": [
+    "There left.",
+    "They left.",
+    "He left.",
+    "You left."
+   ],
+   "a": 1,
+   "why": "y = ils."
+  },
+  {
+   "q": "'M'as te dire' means…",
+   "options": [
+    "My mother told you",
+    "Let me tell you / I'm gonna tell you",
+    "Tell me",
+    "I told you"
+   ],
+   "a": 1,
+   "why": "m'as = je vais."
+  },
+  {
+   "q": "'À soir' means…",
+   "options": [
+    "at night in general",
+    "tonight",
+    "last night",
+    "every evening"
+   ],
+   "a": 1,
+   "why": "à soir = ce soir."
+  },
+  {
+   "q": "Which is the standard form of 'Y'en a pus'?",
+   "options": [
+    "Il y en a plus.",
+    "Il n'y en a plus.",
+    "Il en a beaucoup.",
+    "Il y a du pus."
+   ],
+   "a": 1,
+   "why": "Y'en a pus = Il n'y en a plus."
+  },
+  {
+   "q": "'T'es ben fine' means…",
+   "options": [
+    "You're very thin.",
+    "You're really kind.",
+    "You're fine, well.",
+    "You're finished."
+   ],
+   "a": 1,
+   "why": "Fin/fine = kind in Quebec."
+  },
+  {
+   "q": "Which form sounds the most old-fashioned or rural?",
+   "options": [
+    "t'sé",
+    "pis",
+    "moé / toé",
+    "chu"
+   ],
+   "a": 2,
+   "why": "Moé, toé, icitte are older or very informal."
+  },
+  {
+   "q": "'Chais pas' is the spoken form of…",
+   "options": [
+    "Je ne suis pas.",
+    "Je ne sais pas.",
+    "Chez pas.",
+    "Je ne sors pas."
+   ],
+   "a": 1,
+   "why": "Je (ne) sais pas → chais pas."
+  }
+ ]
+}

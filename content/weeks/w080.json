@@ -1,0 +1,619 @@
+{
+ "w": 80,
+ "title": "Quebec expressions set 3",
+ "goal": "By the end of this lesson you can understand and use a third set of colourful Quebec expressions (avoir de l'eau dans la cave, être aux oiseaux, lâcher son fou and more), know what each one really means, and choose a neutral equivalent when the situation is formal.",
+ "learn": [
+  {
+   "h": "How to learn idioms",
+   "body": [
+    "Quebec expressions are often images taken from rural life, winter and hockey. Learn each one with three things: the literal image, the real meaning, and a neutral equivalent you could use at work.",
+    "Most of these are informal but not rude. They are perfect with friends, colleagues you know well and neighbours; in a formal email, use the neutral version."
+   ]
+  },
+  {
+   "h": "Feelings and moods",
+   "body": [
+    "*Être aux oiseaux*: literally 'to be with the birds', meaning to be overjoyed, thrilled. *Quand elle a eu le poste, elle était aux oiseaux.*",
+    "*Lâcher son fou*: 'to let one's crazy out', meaning to let loose, have wild fun. *Au party de Noël, tout le monde a lâché son fou.*",
+    "*Avoir la chienne*: to be scared (informal). *Cogner des clous*: 'to hammer nails', meaning to nod off. *Attache ta tuque!*: 'tie your hat on', meaning hold on tight, brace yourself."
+   ],
+   "table": {
+    "head": [
+     "Expression",
+     "Literally",
+     "Meaning"
+    ],
+    "rows": [
+     [
+      "être aux oiseaux",
+      "to be with the birds",
+      "to be overjoyed"
+     ],
+     [
+      "lâcher son fou",
+      "to release one's crazy",
+      "to let loose"
+     ],
+     [
+      "avoir la chienne",
+      "to have the female dog",
+      "to be scared"
+     ],
+     [
+      "cogner des clous",
+      "to hammer nails",
+      "to nod off"
+     ],
+     [
+      "attache ta tuque",
+      "tie your hat",
+      "brace yourself"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "People and situations",
+   "body": [
+    "*Avoir de l'eau dans la cave*: 'to have water in the basement', meaning your pants are too short. *Avoir les deux pieds dans la même bottine*: 'both feet in the same boot', meaning to be clumsy or not very resourceful.",
+    "*Se faire passer un sapin*: 'to be passed a fir tree', meaning to be ripped off or tricked. *Parler à travers son chapeau*: to talk through one's hat, to talk nonsense. *Avoir du front tout le tour de la tête*: to have a lot of nerve, be very cheeky.",
+    "*C'est de valeur*: that's too bad, what a shame (neutral and very common). *Se tirer une bûche*: 'to pull up a log', meaning pull up a chair, have a seat."
+   ]
+  },
+  {
+   "h": "Hockey and life",
+   "body": [
+    "*Accrocher ses patins*: 'to hang up one's skates', meaning to retire. *Niaiser avec la puck*: 'to fool around with the puck', meaning to waste time, dither. *Être vite sur ses patins*: 'to be fast on one's skates', meaning quick-witted.",
+    "*Être né pour un petit pain*: 'born for a small loaf', meaning to expect little from life. It's often used critically: *Arrête de penser que t'es né pour un petit pain!*"
+   ],
+   "tip": "Many Quebec idioms come from hockey: patins, puck, la ligne bleue."
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Ton pantalon est trop court, t'as de l'eau dans la cave!",
+   "en": "Your pants are too short, they're high-waters!",
+   "note": "informal, teasing"
+  },
+  {
+   "fr": "Elle était aux oiseaux quand elle a appris la nouvelle.",
+   "en": "She was over the moon when she heard the news."
+  },
+  {
+   "fr": "Samedi soir, on va lâcher notre fou au festival!",
+   "en": "Saturday night, we're going to let loose at the festival!"
+  },
+  {
+   "fr": "Je pense que je me suis fait passer un sapin avec ce char usagé.",
+   "en": "I think I got ripped off with this used car."
+  },
+  {
+   "fr": "Il a les deux pieds dans la même bottine.",
+   "en": "He's really clumsy / not very resourceful."
+  },
+  {
+   "fr": "Attache ta tuque, la route va être glissante!",
+   "en": "Hold on tight, the road's going to be slippery!"
+  },
+  {
+   "fr": "Tu ne peux pas venir? C'est de valeur!",
+   "en": "You can't come? That's too bad!",
+   "note": "neutral, used by everyone"
+  },
+  {
+   "fr": "Tire-toi une bûche, le café est prêt.",
+   "en": "Pull up a chair, the coffee's ready."
+  },
+  {
+   "fr": "Mon père a accroché ses patins l'année passée.",
+   "en": "My father retired last year."
+  },
+  {
+   "fr": "Arrête de niaiser avec la puck et décide-toi!",
+   "en": "Stop dithering and make up your mind!"
+  },
+  {
+   "fr": "Elle comprend tout tout de suite, elle est vite sur ses patins.",
+   "en": "She gets everything right away, she's quick-witted."
+  },
+  {
+   "fr": "Il parle à travers son chapeau, il ne connaît rien là-dedans.",
+   "en": "He's talking nonsense, he knows nothing about it."
+  },
+  {
+   "fr": "J'ai eu la chienne quand j'ai entendu un bruit dans le sous-sol.",
+   "en": "I got scared when I heard a noise in the basement.",
+   "note": "informal"
+  },
+  {
+   "fr": "Après le souper, grand-papa cogne des clous devant la télé.",
+   "en": "After supper, grandpa nods off in front of the TV."
+  },
+  {
+   "fr": "Il m'a demandé de faire son travail! Il a du front tout le tour de la tête.",
+   "en": "He asked me to do his work! He's got some nerve."
+  }
+ ],
+ "quebec": {
+  "intro": "All three roadmap expressions are accurate and widely used: avoir de l'eau dans la cave (pants too short), être aux oiseaux (overjoyed) and lâcher son fou (let loose). Here they are next to their neutral equivalents.",
+  "items": [
+   {
+    "std": "Ton pantalon est trop court.",
+    "qc": "T'as de l'eau dans la cave.",
+    "en": "Your pants are too short.",
+    "note": "Informal, playful teasing"
+   },
+   {
+    "std": "Je suis ravi.",
+    "qc": "Chu aux oiseaux.",
+    "en": "I'm thrilled.",
+    "note": "Informal"
+   },
+   {
+    "std": "On s'est vraiment amusés.",
+    "qc": "On a lâché notre fou.",
+    "en": "We really let loose.",
+    "note": "Informal"
+   },
+   {
+    "std": "Je me suis fait avoir.",
+    "qc": "Je me suis fait passer un sapin.",
+    "en": "I got ripped off.",
+    "note": "Informal"
+   },
+   {
+    "std": "Il a pris sa retraite.",
+    "qc": "Il a accroché ses patins.",
+    "en": "He retired.",
+    "note": "Informal; also used for athletes"
+   },
+   {
+    "std": "C'est dommage.",
+    "qc": "C'est de valeur.",
+    "en": "That's too bad.",
+    "note": "Fine in most situations in Quebec"
+   },
+   {
+    "std": "Assieds-toi.",
+    "qc": "Tire-toi une bûche.",
+    "en": "Have a seat.",
+    "note": "Friendly, informal"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "'Avoir de l'eau dans la cave' means…",
+   "options": [
+    "to have a flooded basement",
+    "to have pants that are too short",
+    "to be very thirsty",
+    "to be sad"
+   ],
+   "a": 1,
+   "why": "The ankles show, like water rising in a basement."
+  },
+  {
+   "t": "mcq",
+   "q": "'Être aux oiseaux' means…",
+   "options": [
+    "to be crazy",
+    "to be overjoyed",
+    "to be birdwatching",
+    "to be distracted"
+   ],
+   "a": 1,
+   "why": "Être aux oiseaux = to be thrilled."
+  },
+  {
+   "t": "mcq",
+   "q": "'Lâcher son fou' means…",
+   "options": [
+    "to fire a crazy employee",
+    "to let loose and have fun",
+    "to get angry",
+    "to quit a job"
+   ],
+   "a": 1,
+   "why": "To release your wild side."
+  },
+  {
+   "t": "mcq",
+   "q": "'Accrocher ses patins' means…",
+   "options": [
+    "to retire",
+    "to go skating",
+    "to fall",
+    "to win"
+   ],
+   "a": 0,
+   "why": "Hanging up your skates = retiring."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is fine in a polite conversation with a stranger?",
+   "options": [
+    "J'ai eu la chienne.",
+    "C'est de valeur.",
+    "T'as de l'eau dans la cave.",
+    "Tu parles à travers ton chapeau."
+   ],
+   "a": 1,
+   "why": "C'est de valeur (that's too bad) is neutral."
+  },
+  {
+   "t": "fill",
+   "q": "Elle était aux ___ quand elle a eu le poste. (birds)",
+   "a": [
+    "oiseaux"
+   ],
+   "en": "She was thrilled when she got the job.",
+   "why": "être aux oiseaux."
+  },
+  {
+   "t": "fill",
+   "q": "Je me suis fait passer un ___ au garage. (fir tree)",
+   "a": [
+    "sapin"
+   ],
+   "en": "I got ripped off at the garage.",
+   "why": "se faire passer un sapin."
+  },
+  {
+   "t": "fill",
+   "q": "Arrête de niaiser avec la ___! (puck)",
+   "a": [
+    "puck",
+    "rondelle"
+   ],
+   "en": "Stop wasting time!",
+   "why": "niaiser avec la puck."
+  },
+  {
+   "t": "fill",
+   "q": "Tire-toi une ___! (log)",
+   "a": [
+    "bûche"
+   ],
+   "en": "Pull up a chair!",
+   "why": "se tirer une bûche."
+  },
+  {
+   "t": "build",
+   "en": "We let loose at the party.",
+   "a": "On a lâché notre fou au party."
+  },
+  {
+   "t": "build",
+   "en": "My grandfather nods off after supper.",
+   "a": "Mon grand-père cogne des clous après le souper."
+  },
+  {
+   "t": "build",
+   "en": "That's too bad!",
+   "a": "C'est de valeur!"
+  },
+  {
+   "t": "translate",
+   "en": "He retired last year. (neutral)",
+   "a": [
+    "Il a pris sa retraite l'année passée.",
+    "Il a pris sa retraite l'année dernière.",
+    "Il a pris sa retraite l'an passé.",
+    "Il a pris sa retraite l'an dernier."
+   ],
+   "why": "Neutral for accrocher ses patins."
+  },
+  {
+   "t": "translate",
+   "en": "I got ripped off. (Quebec expression)",
+   "a": [
+    "Je me suis fait passer un sapin.",
+    "J'me suis fait passer un sapin."
+   ],
+   "why": "se faire passer un sapin."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "avoir de l'eau dans la cave",
+   "en": "to have pants that are too short",
+   "ex": "Tes jeans sont trop courts, t'as de l'eau dans la cave!",
+   "qc": true
+  },
+  {
+   "fr": "être aux oiseaux",
+   "en": "to be overjoyed",
+   "ex": "Les enfants sont aux oiseaux.",
+   "qc": true
+  },
+  {
+   "fr": "lâcher son fou",
+   "en": "to let loose",
+   "ex": "On a lâché notre fou au mariage.",
+   "qc": true
+  },
+  {
+   "fr": "se faire passer un sapin",
+   "en": "to get ripped off, tricked",
+   "ex": "Il s'est fait passer un sapin.",
+   "qc": true
+  },
+  {
+   "fr": "avoir les deux pieds dans la même bottine",
+   "en": "to be clumsy, not resourceful",
+   "ex": "Il a les deux pieds dans la même bottine.",
+   "qc": true
+  },
+  {
+   "fr": "attache ta tuque",
+   "en": "hold on tight, brace yourself",
+   "ex": "Attache ta tuque, ça va brasser!",
+   "qc": true
+  },
+  {
+   "fr": "c'est de valeur",
+   "en": "that's too bad",
+   "ex": "Tu ne peux pas venir? C'est de valeur.",
+   "qc": true
+  },
+  {
+   "fr": "se tirer une bûche",
+   "en": "to pull up a chair",
+   "ex": "Tire-toi une bûche!",
+   "qc": true
+  },
+  {
+   "fr": "accrocher ses patins",
+   "en": "to retire",
+   "ex": "Il va accrocher ses patins en juin.",
+   "qc": true
+  },
+  {
+   "fr": "niaiser avec la puck",
+   "en": "to waste time, dither",
+   "ex": "Arrête de niaiser avec la puck.",
+   "qc": true
+  },
+  {
+   "fr": "être vite sur ses patins",
+   "en": "to be quick-witted",
+   "ex": "Ma fille est vite sur ses patins.",
+   "qc": true
+  },
+  {
+   "fr": "parler à travers son chapeau",
+   "en": "to talk nonsense",
+   "ex": "Il parle à travers son chapeau.",
+   "qc": true
+  },
+  {
+   "fr": "avoir la chienne",
+   "en": "to be scared (informal)",
+   "ex": "J'avais la chienne dans l'avion.",
+   "qc": true
+  },
+  {
+   "fr": "cogner des clous",
+   "en": "to nod off",
+   "ex": "Je cognais des clous pendant la réunion.",
+   "qc": true
+  },
+  {
+   "fr": "le party",
+   "en": "party",
+   "g": "m",
+   "ex": "Le party de bureau est vendredi.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "aux oiseaux",
+    "tip": "Liaison: oh-zwa-ZOH."
+   },
+   {
+    "fr": "lâcher son fou",
+    "tip": "lâ-SHAY son FOO; long â."
+   },
+   {
+    "fr": "un sapin",
+    "tip": "sa-PAN, nasal."
+   },
+   {
+    "fr": "la bottine",
+    "tip": "bo-TSIN in Quebec (t before i)."
+   },
+   {
+    "fr": "c'est de valeur",
+    "tip": "sè d'va-LEUR; Quebec: sè d'va-LAÈR."
+   },
+   {
+    "fr": "le party",
+    "tip": "Said 'par-TÉ' or 'par-TI' in Quebec; masculine."
+   }
+  ],
+  "title": "Le party de retraite",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Tire-toi une bûche! On parlait du party de Jacques.",
+    "en": "Pull up a chair! We were talking about Jacques's party."
+   },
+   {
+    "s": "B",
+    "fr": "Ah oui, il accroche ses patins après trente ans!",
+    "en": "Oh yes, he's retiring after thirty years!"
+   },
+   {
+    "s": "A",
+    "fr": "Il est aux oiseaux. Il veut acheter un chalet.",
+    "en": "He's over the moon. He wants to buy a cottage."
+   },
+   {
+    "s": "B",
+    "fr": "J'espère qu'il ne va pas se faire passer un sapin comme son frère.",
+    "en": "I hope he won't get ripped off like his brother."
+   },
+   {
+    "s": "A",
+    "fr": "Inquiète-toi pas, il est vite sur ses patins.",
+    "en": "Don't worry, he's quick-witted."
+   },
+   {
+    "s": "B",
+    "fr": "Et toi, tu viens samedi?",
+    "en": "And you, are you coming Saturday?"
+   },
+   {
+    "s": "A",
+    "fr": "Non, je travaille. C'est de valeur!",
+    "en": "No, I'm working. Too bad!"
+   },
+   {
+    "s": "B",
+    "fr": "Dommage! Nous autres, on va lâcher notre fou!",
+    "en": "Too bad! We're going to let loose!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Why is there a party for Jacques?",
+    "options": [
+     "His birthday",
+     "He's retiring",
+     "He bought a cottage"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does Jacques want to buy?",
+    "options": [
+     "A car",
+     "A cottage",
+     "A boat"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Why can't speaker A go?",
+    "options": [
+     "A is sick",
+     "A is working",
+     "A wasn't invited"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Tell a friend about a time you were overjoyed, using être aux oiseaux.",
+   "model": "Quand j'ai eu ma résidence permanente, j'étais aux oiseaux!"
+  },
+  {
+   "prompt": "Warn a friend about a bumpy ride and invite them to sit down, using two expressions.",
+   "model": "Tire-toi une bûche pis attache ta tuque, ça va brasser!"
+  },
+  {
+   "prompt": "Say the same thing two ways, neutral and Quebec: 'I got ripped off when I bought my car.'",
+   "model": "Je me suis fait avoir quand j'ai acheté mon auto. / Je me suis fait passer un sapin avec mon char."
+  }
+ ],
+ "write": {
+  "prompt": "Write a short funny story (6–7 sentences) about a party or an event, using at least four expressions from this lesson.",
+  "model": "Samedi, c'était le party de retraite de ma tante. Elle accrochait ses patins après quarante ans à l'hôpital. Elle était aux oiseaux! Mon cousin est arrivé avec un pantalon trop court; il avait de l'eau dans la cave. Après le souper, tout le monde a lâché son fou sur la piste de danse. Seulement mon grand-père cognait des clous dans son coin. C'était une super soirée!"
+ },
+ "quiz": [
+  {
+   "q": "'Avoir la chienne' means…",
+   "options": [
+    "to have a dog",
+    "to be scared",
+    "to be lucky",
+    "to be tired"
+   ],
+   "a": 1,
+   "why": "Informal: to be scared."
+  },
+  {
+   "q": "'Il a du front tout le tour de la tête' means…",
+   "options": [
+    "He has a big forehead.",
+    "He's very cheeky / has a lot of nerve.",
+    "He's very smart.",
+    "He's bald."
+   ],
+   "a": 1,
+   "why": "Avoir du front = to have nerve."
+  },
+  {
+   "q": "Neutral equivalent of 'être aux oiseaux':",
+   "options": [
+    "être ravi",
+    "être fâché",
+    "être fatigué",
+    "être perdu"
+   ],
+   "a": 0,
+   "why": "Ravi = delighted."
+  },
+  {
+   "q": "'Cogner des clous' means…",
+   "options": [
+    "to do carpentry",
+    "to nod off",
+    "to work hard",
+    "to complain"
+   ],
+   "a": 1,
+   "why": "Your head drops like a hammer hitting nails."
+  },
+  {
+   "q": "'Être né pour un petit pain' describes someone who…",
+   "options": [
+    "loves bread",
+    "expects little from life",
+    "was born in a bakery",
+    "is very small"
+   ],
+   "a": 1,
+   "why": "Low expectations, modest ambitions."
+  },
+  {
+   "q": "'Parler à travers son chapeau' means…",
+   "options": [
+    "to whisper",
+    "to talk nonsense",
+    "to wear a hat",
+    "to talk politely"
+   ],
+   "a": 1,
+   "why": "Talking about things you don't know."
+  },
+  {
+   "q": "Which expression is NOT about hockey?",
+   "options": [
+    "accrocher ses patins",
+    "niaiser avec la puck",
+    "être vite sur ses patins",
+    "se tirer une bûche"
+   ],
+   "a": 3,
+   "why": "Se tirer une bûche = pull up a chair (a log)."
+  },
+  {
+   "q": "'Attache ta tuque!' means…",
+   "options": [
+    "It's cold, put on your hat!",
+    "Brace yourself / hold on tight!",
+    "Calm down!",
+    "Hurry up!"
+   ],
+   "a": 1,
+   "why": "A warning that something intense is coming."
+  }
+ ]
+}

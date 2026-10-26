@@ -1,0 +1,655 @@
+{
+ "w": 24,
+ "title": "Present tense, -ir verbs",
+ "goal": "By the end of this lesson you can conjugate regular -ir verbs like finir and choisir in the present, use the -iss- plural forms correctly, and understand how they are shortened in Quebec speech.",
+ "learn": [
+  {
+   "h": "The finir pattern",
+   "body": [
+    "Regular -ir verbs (the second group) drop *-ir* and add *-is, -is, -it, -issons, -issez, -issent*. The key is the *-iss-* that appears in the plural.",
+    "In speech, *je finis*, *tu finis* and *il finit* all sound the same [fi-ni]. The plural is where you hear the difference: *ils finissent* [fi-niss]."
+   ],
+   "table": {
+    "head": [
+     "Pronoun",
+     "finir (to finish)",
+     "choisir (to choose)"
+    ],
+    "rows": [
+     [
+      "je",
+      "finis",
+      "choisis"
+     ],
+     [
+      "tu",
+      "finis",
+      "choisis"
+     ],
+     [
+      "il / elle / on",
+      "finit",
+      "choisit"
+     ],
+     [
+      "nous",
+      "finissons",
+      "choisissons"
+     ],
+     [
+      "vous",
+      "finissez",
+      "choisissez"
+     ],
+     [
+      "ils / elles",
+      "finissent",
+      "choisissent"
+     ]
+    ]
+   },
+   "tip": "Singular: s, s, t. Plural: add -iss- before the normal endings."
+  },
+  {
+   "h": "Common verbs in this group",
+   "body": [
+    "Many of these verbs describe a change or a result: *grandir* (to grow up), *vieillir* (to get older), *maigrir* (to lose weight), *grossir* (to gain weight), *rougir* (to blush).",
+    "Others are everyday actions: *choisir* (to choose), *réussir* (to succeed, to pass), *réfléchir* (to think it over), *remplir* (to fill, to fill out), *obéir* (to obey), *agir* (to act)."
+   ],
+   "table": {
+    "head": [
+     "Verb",
+     "Meaning",
+     "Example"
+    ],
+    "rows": [
+     [
+      "réussir",
+      "to succeed, to pass",
+      "Elle réussit toujours ses examens."
+     ],
+     [
+      "réfléchir",
+      "to think (it over)",
+      "Je réfléchis."
+     ],
+     [
+      "remplir",
+      "to fill (out)",
+      "Vous remplissez le formulaire."
+     ],
+     [
+      "grandir",
+      "to grow up",
+      "Les enfants grandissent vite."
+     ],
+     [
+      "obéir à",
+      "to obey",
+      "Le chien obéit à Marc."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Useful patterns",
+   "body": [
+    "*Finir de* + infinitive = to finish doing: *Je finis de travailler à cinq heures.* *Choisir de* + infinitive = to choose to: *Il choisit de rester.*",
+    "*Réfléchir à* = to think about (consider): *Je réfléchis à ta question.* *Réussir* + noun = to pass: *Tu réussis ton examen.*",
+    "Negatives and questions work as usual: *Tu ne finis pas?* *Est-ce que vous choisissez?* *Finissez-vous tard?*"
+   ]
+  },
+  {
+   "h": "Watch out: not every -ir verb follows finir",
+   "body": [
+    "Some very common -ir verbs do NOT use *-iss-*: *dormir* (je dors, nous dormons), *partir*, *sortir*, *venir*, *ouvrir*. You will learn them next week.",
+    "If the verb is not on your -iss- list, check before you conjugate. The ones in this lesson are safe."
+   ],
+   "tip": "Nous dormons, but nous finissons: only the second group has -iss-."
+  },
+  {
+   "h": "Quebec: shortened forms in speech",
+   "body": [
+    "In casual Quebec speech, *je* loses its vowel before these verbs: *j'finis*, *j'choisis* (the j even sounds like 'sh' before ch: [shwa-zi]).",
+    "*Il* and *ils* become *y*, and *elle* becomes *a*: *Y finit tard.* *Y choisissent toujours la même affaire.* *A réussit tout.* Recognise these; write the full forms."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Je finis à cinq heures.",
+   "en": "I finish at five o'clock."
+  },
+  {
+   "fr": "Tu choisis le restaurant ce soir?",
+   "en": "Are you choosing the restaurant tonight?"
+  },
+  {
+   "fr": "Le film finit à dix heures.",
+   "en": "The movie ends at ten."
+  },
+  {
+   "fr": "Nous choisissons un cadeau pour Marie.",
+   "en": "We're choosing a gift for Marie.",
+   "note": "-iss- in the plural"
+  },
+  {
+   "fr": "Vous remplissez ce formulaire, s'il vous plaît.",
+   "en": "Please fill out this form."
+  },
+  {
+   "fr": "Les enfants grandissent vite!",
+   "en": "Children grow up fast!"
+  },
+  {
+   "fr": "Elle réussit toujours ses examens.",
+   "en": "She always passes her exams."
+  },
+  {
+   "fr": "Je réfléchis à ta question.",
+   "en": "I'm thinking about your question.",
+   "note": "réfléchir à + thing"
+  },
+  {
+   "fr": "Mon chien n'obéit pas.",
+   "en": "My dog doesn't obey."
+  },
+  {
+   "fr": "On finit de manger et on part.",
+   "en": "We finish eating and we leave.",
+   "note": "finir de + infinitive"
+  },
+  {
+   "fr": "Ils ne finissent pas avant minuit.",
+   "en": "They don't finish before midnight."
+  },
+  {
+   "fr": "Qu'est-ce que tu choisis?",
+   "en": "What are you choosing?"
+  },
+  {
+   "fr": "Mon père vieillit, mais il est en forme.",
+   "en": "My father is getting older, but he's in good shape."
+  },
+  {
+   "fr": "Je rougis quand je parle en public.",
+   "en": "I blush when I speak in public."
+  },
+  {
+   "fr": "Est-ce que vous finissez tôt le vendredi?",
+   "en": "Do you finish early on Fridays?"
+  },
+  {
+   "fr": "Je vais choisir la soupe.",
+   "en": "I'm going to choose the soup.",
+   "note": "futur proche: the infinitive choisir after vais"
+  }
+ ],
+ "quebec": {
+  "intro": "Finir and choisir are everyday verbs, so you hear them in their shortest spoken forms: j'finis, y finit, a choisit. The grammar is the same; only the pronouns shrink.",
+  "items": [
+   {
+    "std": "Je finis à cinq heures.",
+    "qc": "J'finis à cinq heures.",
+    "en": "I finish at five.",
+    "note": "je → j' in casual speech"
+   },
+   {
+    "std": "Je choisis celui-là.",
+    "qc": "J'choisis celui-là.",
+    "en": "I choose that one.",
+    "note": "sounds like 'shwazi': the j turns into ch before ch"
+   },
+   {
+    "std": "Il finit tard.",
+    "qc": "Y finit tard.",
+    "en": "He finishes late.",
+    "note": "il → y in fast speech"
+   },
+   {
+    "std": "Elle réussit tout.",
+    "qc": "A réussit toutt.",
+    "en": "She succeeds at everything.",
+    "note": "elle → a, informal; toutt with the final t"
+   },
+   {
+    "std": "Ils choisissent toujours la même chose.",
+    "qc": "Y choisissent toujours la même affaire.",
+    "en": "They always choose the same thing.",
+    "note": "ils → y; une affaire = a thing, very common in Quebec"
+   },
+   {
+    "std": "Tu finis quand?",
+    "qc": "Tu finis-tu tard?",
+    "en": "Do you finish late?",
+    "note": "informal -tu question particle"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Nous ___ à six heures.",
+   "options": [
+    "finons",
+    "finissons",
+    "finisons",
+    "finirons"
+   ],
+   "a": 1,
+   "why": "Plural forms add -iss-: nous finissons."
+  },
+  {
+   "t": "mcq",
+   "q": "Which form is 'il' for choisir?",
+   "options": [
+    "choisis",
+    "choisit",
+    "choisissent",
+    "choise"
+   ],
+   "a": 1,
+   "why": "Third person singular ends in -t: il choisit."
+  },
+  {
+   "t": "mcq",
+   "q": "Which verb does NOT follow the finir pattern?",
+   "options": [
+    "réussir",
+    "grandir",
+    "dormir",
+    "remplir"
+   ],
+   "a": 2,
+   "why": "Dormir has no -iss-: nous dormons."
+  },
+  {
+   "t": "mcq",
+   "q": "'Y finissent tard' is Quebec speech for…",
+   "options": [
+    "Il y finit tard.",
+    "Ils finissent tard.",
+    "Il finit tard.",
+    "Elles ont fini tard."
+   ],
+   "a": 1,
+   "why": "Y = il or ils in fast speech; finissent shows it's plural."
+  },
+  {
+   "t": "fill",
+   "q": "Vous ___ le formulaire. (remplir)",
+   "a": [
+    "remplissez"
+   ],
+   "en": "You fill out the form.",
+   "why": "vous + -issez."
+  },
+  {
+   "t": "fill",
+   "q": "Les enfants ___ vite. (grandir)",
+   "a": [
+    "grandissent"
+   ],
+   "en": "Children grow up fast.",
+   "why": "ils + -issent."
+  },
+  {
+   "t": "fill",
+   "q": "Je ___ à ta question. (réfléchir)",
+   "a": [
+    "réfléchis"
+   ],
+   "en": "I'm thinking about your question.",
+   "why": "je + -is."
+  },
+  {
+   "t": "fill",
+   "q": "Elle ___ toujours ses examens. (réussir)",
+   "a": [
+    "réussit"
+   ],
+   "en": "She always passes her exams.",
+   "why": "elle + -it."
+  },
+  {
+   "t": "build",
+   "en": "I finish work at five.",
+   "a": "Je finis de travailler à cinq heures."
+  },
+  {
+   "t": "build",
+   "en": "We are choosing a gift.",
+   "a": "Nous choisissons un cadeau."
+  },
+  {
+   "t": "translate",
+   "en": "What are you choosing?",
+   "a": [
+    "Qu'est-ce que tu choisis?",
+    "Qu'est-ce que vous choisissez?",
+    "Tu choisis quoi?",
+    "Vous choisissez quoi?",
+    "Que choisis-tu?",
+    "Que choisissez-vous?"
+   ],
+   "why": "choisir: tu choisis, vous choisissez."
+  },
+  {
+   "t": "translate",
+   "en": "The movie ends at ten.",
+   "a": [
+    "Le film finit à dix heures.",
+    "Le film finit à 22 heures.",
+    "Le film se termine à dix heures."
+   ],
+   "why": "Le film = il: finit."
+  },
+  {
+   "t": "translate",
+   "en": "They don't finish early.",
+   "a": [
+    "Ils ne finissent pas tôt.",
+    "Elles ne finissent pas tôt.",
+    "Ils finissent pas tôt.",
+    "Elles finissent pas tôt."
+   ],
+   "why": "Ne … pas around finissent; ne is often dropped in speech."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "finir",
+   "en": "to finish, to end",
+   "ex": "Je finis à cinq heures."
+  },
+  {
+   "fr": "choisir",
+   "en": "to choose",
+   "ex": "Tu choisis le film."
+  },
+  {
+   "fr": "réussir",
+   "en": "to succeed, to pass (a test)",
+   "ex": "Elle réussit son examen."
+  },
+  {
+   "fr": "réfléchir (à)",
+   "en": "to think (about), to reflect",
+   "ex": "Je réfléchis à la question."
+  },
+  {
+   "fr": "remplir",
+   "en": "to fill, to fill out",
+   "ex": "Remplissez le formulaire."
+  },
+  {
+   "fr": "grandir",
+   "en": "to grow up",
+   "ex": "Mon fils grandit vite."
+  },
+  {
+   "fr": "vieillir",
+   "en": "to get older",
+   "ex": "On vieillit tous."
+  },
+  {
+   "fr": "maigrir",
+   "en": "to lose weight",
+   "ex": "Il maigrit un peu."
+  },
+  {
+   "fr": "grossir",
+   "en": "to gain weight",
+   "ex": "Le chat grossit."
+  },
+  {
+   "fr": "rougir",
+   "en": "to blush",
+   "ex": "Elle rougit facilement."
+  },
+  {
+   "fr": "obéir (à)",
+   "en": "to obey",
+   "ex": "Le chien obéit à son maître."
+  },
+  {
+   "fr": "le formulaire",
+   "en": "form (to fill out)",
+   "g": "m",
+   "ex": "Le formulaire est en ligne."
+  },
+  {
+   "fr": "l'examen",
+   "en": "exam, test",
+   "g": "m",
+   "ex": "J'ai un examen demain."
+  },
+  {
+   "fr": "le cadeau",
+   "en": "gift, present",
+   "g": "m",
+   "ex": "C'est un cadeau pour toi."
+  },
+  {
+   "fr": "une affaire",
+   "en": "a thing, stuff (Quebec speech)",
+   "g": "f",
+   "ex": "C'est quoi, cette affaire-là?",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "je finis, il finit",
+    "tip": "Same sound: fee-NEE. Final s and t are silent."
+   },
+   {
+    "fr": "ils finissent",
+    "tip": "fee-NEESS; the -ent is silent."
+   },
+   {
+    "fr": "nous choisissons",
+    "tip": "shwa-zee-SON; the single s between vowels is [z], double ss is [s]."
+   },
+   {
+    "fr": "vous réussissez",
+    "tip": "ré-ü-see-SAY."
+   },
+   {
+    "fr": "réfléchir",
+    "tip": "ré-flé-SHEER; two closed é sounds."
+   },
+   {
+    "fr": "j'choisis",
+    "tip": "Quebec speech: shwa-ZEE, the j merges with ch."
+   }
+  ],
+  "title": "Au restaurant",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Bonsoir! Vous choisissez maintenant ou vous réfléchissez encore?",
+    "en": "Good evening! Are you choosing now or still thinking?"
+   },
+   {
+    "s": "B",
+    "fr": "Ma femme choisit la soupe, s'il vous plaît.",
+    "en": "My wife is having the soup, please."
+   },
+   {
+    "s": "A",
+    "fr": "Et pour vous, monsieur?",
+    "en": "And for you, sir?"
+   },
+   {
+    "s": "B",
+    "fr": "Euh... je réfléchis. Les poutines sont grosses?",
+    "en": "Um... I'm thinking. Are the poutines big?"
+   },
+   {
+    "s": "A",
+    "fr": "Oui, très grosses! Beaucoup de clients ne finissent pas.",
+    "en": "Yes, very big! Lots of customers don't finish."
+   },
+   {
+    "s": "B",
+    "fr": "Parfait, je choisis la petite poutine.",
+    "en": "Perfect, I'll choose the small poutine."
+   },
+   {
+    "s": "A",
+    "fr": "Très bien. La cuisine finit à dix heures, alors pas de problème.",
+    "en": "Very good. The kitchen closes at ten, so no problem."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What does the wife choose?",
+    "options": [
+     "Poutine",
+     "Soup",
+     "A salad"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Why does the man hesitate?",
+    "options": [
+     "The poutines are big",
+     "It's expensive",
+     "He's not hungry"
+    ],
+    "a": 0
+   },
+   {
+    "q": "When does the kitchen close?",
+    "options": [
+     "At nine",
+     "At ten",
+     "At midnight"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Say what time you finish work or school each day of the week.",
+   "model": "Le lundi, je finis à cinq heures. Le vendredi, je finis plus tôt, à trois heures."
+  },
+  {
+   "prompt": "You're at a restaurant. Say what you choose, and what your friend chooses.",
+   "model": "Je choisis la soupe et mon ami choisit le poulet."
+  },
+  {
+   "prompt": "Say 'I finish at five' the standard way, then the casual Quebec way.",
+   "model": "Je finis à cinq heures. / J'finis à cinq heures."
+  }
+ ],
+ "write": {
+  "prompt": "Write 5 sentences about your week using at least four different -ir verbs (finir, choisir, réussir, réfléchir, remplir…).",
+  "model": "Le lundi, je finis de travailler à six heures. Le soir, je choisis une recette et je cuisine. Mon fils réussit bien à l'école. Ma fille grandit vite. Le vendredi, nous choisissons un film ensemble."
+ },
+ "quiz": [
+  {
+   "q": "The plural of finir uses…",
+   "options": [
+    "-ss-",
+    "-iss-",
+    "-is-",
+    "no change"
+   ],
+   "a": 1,
+   "why": "nous finissons, vous finissez, ils finissent."
+  },
+  {
+   "q": "'Je finis' and 'il finit' sound…",
+   "options": [
+    "different",
+    "the same",
+    "different only in Quebec",
+    "the same only in writing"
+   ],
+   "a": 1,
+   "why": "Final s and t are silent: both [fi-ni]."
+  },
+  {
+   "q": "'Réfléchir à' means…",
+   "options": [
+    "to reflect light",
+    "to think about",
+    "to answer",
+    "to choose"
+   ],
+   "a": 1,
+   "why": "Je réfléchis à ta question = I'm thinking about your question."
+  },
+  {
+   "q": "Correct form: 'Vous ___ (choisir)'",
+   "options": [
+    "choisez",
+    "choisissez",
+    "choisisez",
+    "choisis"
+   ],
+   "a": 1,
+   "why": "vous choisissez."
+  },
+  {
+   "q": "'Finir de travailler' means…",
+   "options": [
+    "to finish work(ing)",
+    "to work at the end",
+    "to start working",
+    "to work finely"
+   ],
+   "a": 0,
+   "why": "finir de + infinitive = to finish doing something."
+  },
+  {
+   "q": "Which verb follows the finir pattern?",
+   "options": [
+    "partir",
+    "sortir",
+    "grandir",
+    "dormir"
+   ],
+   "a": 2,
+   "why": "Grandir: nous grandissons. The others have no -iss-."
+  },
+  {
+   "q": "'A réussit' in Quebec speech means…",
+   "options": [
+    "She succeeds",
+    "He succeeded",
+    "To succeed",
+    "Has succeeded"
+   ],
+   "a": 0,
+   "why": "Informal 'a' = elle."
+  },
+  {
+   "q": "'Maigrir' means…",
+   "options": [
+    "to get older",
+    "to lose weight",
+    "to gain weight",
+    "to blush"
+   ],
+   "a": 1,
+   "why": "maigrir = lose weight; grossir = gain weight."
+  },
+  {
+   "q": "Which is correct?",
+   "options": [
+    "Ils obéissent à leur mère.",
+    "Ils obéient à leur mère.",
+    "Ils obéisent à leur mère.",
+    "Ils obéissons à leur mère."
+   ],
+   "a": 0,
+   "why": "ils obéissent."
+  }
+ ]
+}

@@ -1,0 +1,662 @@
+{
+ "w": 149,
+ "title": "Register switching",
+ "goal": "By the end of this lesson you can tell the same story in three registers (very informal Quebec speech, neutral Quebec French and formal international French) and choose the right one for the situation.",
+ "learn": [
+  {
+   "h": "Three registers, one language",
+   "body": [
+    "Every French speaker moves between registers (*niveaux de langue*) many times a day. In Quebec, the range is especially wide: the same person may speak *joual*-tinged French with friends, neutral *français québécois standard* at work, and write formal international French in a report.",
+    "*Joual* is the name (from a popular pronunciation of *cheval*) for working-class Montreal French, made famous by Michel Tremblay's play *Les Belles-sœurs* (1968). Today people use the word loosely for very informal Quebec speech in general.",
+    "*Français québécois standard* is what you hear from Radio-Canada hosts, teachers and professionals: grammatically standard, Quebec pronunciation, Quebec vocabulary (*courriel*, *magasiner*, *dépanneur*), no slang or swearing."
+   ],
+   "table": {
+    "head": [
+     "Register",
+     "Where you hear it",
+     "Typical features"
+    ],
+    "rows": [
+     [
+      "Très familier / joual",
+      "friends, family, hockey arena",
+      "chu, y'a, a (elle), pis, tsé, anglicisms, sacres"
+     ],
+     [
+      "Québécois standard",
+      "news, workplace, school",
+      "full forms, Quebec words, tu/vous flexible"
+     ],
+     [
+      "Soutenu / international",
+      "reports, speeches, literature",
+      "inversion, nous, cela, subordinate clauses, no regionalisms"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "What changes between registers",
+   "body": [
+    "Pronouns: *chu* / *je suis*; *y'* / *il*; *a* / *elle*; *on* / *nous*; *ça* / *cela*.",
+    "Negation: *j'sais pas* drops the *ne*; neutral speech often drops it too; formal writing always keeps it: *je ne sais pas*.",
+    "Questions: *Tu viens-tu?* (familiar Quebec) / *Est-ce que tu viens?* (neutral) / *Viendrez-vous?* (formal).",
+    "Vocabulary: *char* / *auto* / *voiture*; *blonde* / *conjointe* / *compagne*; *une job* / *un emploi* / *un poste*; *faire le party* / *fêter* / *célébrer*."
+   ]
+  },
+  {
+   "h": "Building one story in three versions",
+   "body": [
+    "Start from the neutral version, then go down (shorter, contracted, Quebec words, discourse markers *pis*, *tsé*, *genre*) or up (full negation, inversion, *nous*, linking words like *toutefois*, *par conséquent*, the passé simple or passé composé depending on genre).",
+    "Watch out for mixing: a formal email with *pis* or *icitte* sounds odd; a chat with friends full of *néanmoins* sounds stiff and even ironic."
+   ],
+   "table": {
+    "head": [
+     "Joual / très familier",
+     "Québécois standard",
+     "Soutenu / international"
+    ],
+    "rows": [
+     [
+      "Mon char a pas parti à matin.",
+      "Mon auto n'a pas démarré ce matin.",
+      "Ma voiture n'a pas démarré ce matin."
+     ],
+     [
+      "Chu toute mêlé, là.",
+      "Je suis vraiment confus.",
+      "Je suis complètement désorienté."
+     ],
+     [
+      "Y'a pas de trouble.",
+      "Il n'y a pas de problème.",
+      "Cela ne pose aucune difficulté."
+     ],
+     [
+      "On a mangé une bonne poutine pis on est partis.",
+      "On a mangé une bonne poutine, puis on est partis.",
+      "Nous avons mangé une excellente poutine, puis nous sommes partis."
+     ]
+    ]
+   },
+   "tip": "Neutral first, then slide down or up. Never improvise slang you haven't heard used."
+  },
+  {
+   "h": "Choosing the right register",
+   "body": [
+    "Ask three questions: Who is listening? Is it spoken or written? What is at stake? A job interview in Montreal: neutral Quebec French, possibly *vous* at first. A complaint letter to Hydro-Québec: formal. A text to your *chum*: as familiar as you like.",
+    "As a learner, your safest default is neutral Quebec French: it is never wrong, and you can add familiar touches (*pis*, *tsé*, *c'est correct*) to sound warmer."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Chu pas capable d'y aller à soir.",
+   "en": "I can't go tonight.",
+   "note": "joual: chu = je suis, à soir = ce soir"
+  },
+  {
+   "fr": "Je ne peux pas y aller ce soir.",
+   "en": "I can't go tonight.",
+   "note": "neutral/international version"
+  },
+  {
+   "fr": "Il m'est malheureusement impossible de m'y rendre ce soir.",
+   "en": "Unfortunately I am unable to attend this evening.",
+   "note": "formal: impersonal construction, se rendre"
+  },
+  {
+   "fr": "Y'a pas personne qui m'a appelé.",
+   "en": "Nobody called me.",
+   "note": "very informal: double negation pas personne"
+  },
+  {
+   "fr": "Personne ne m'a téléphoné.",
+   "en": "Nobody called me.",
+   "note": "standard"
+  },
+  {
+   "fr": "Ma blonde pis moi, on s'en va magasiner.",
+   "en": "My girlfriend and I are going shopping.",
+   "note": "familiar Quebec: blonde, pis, on s'en va"
+  },
+  {
+   "fr": "Ma conjointe et moi allons faire des courses.",
+   "en": "My partner and I are going shopping.",
+   "note": "neutral to formal: conjointe, nous implied by allons"
+  },
+  {
+   "fr": "Tu veux-tu un café?",
+   "en": "Do you want a coffee?",
+   "note": "familiar Quebec question particle -tu"
+  },
+  {
+   "fr": "Désirez-vous un café?",
+   "en": "Would you like a coffee?",
+   "note": "formal: inversion + désirer"
+  },
+  {
+   "fr": "C'est ben l'fun, ton affaire!",
+   "en": "Your thing is really fun!",
+   "note": "familiar: ben = bien, l'fun"
+  },
+  {
+   "fr": "Votre projet est très intéressant.",
+   "en": "Your project is very interesting.",
+   "note": "neutral/formal"
+  },
+  {
+   "fr": "J'ai pogné un ticket en revenant.",
+   "en": "I got a ticket on the way back.",
+   "note": "familiar Quebec: pogner, ticket"
+  },
+  {
+   "fr": "J'ai reçu une contravention en revenant.",
+   "en": "I got a ticket on the way back.",
+   "note": "standard: contravention (also constat d'infraction in Quebec official use)"
+  },
+  {
+   "fr": "On s'est pas compris pantoute.",
+   "en": "We didn't understand each other at all.",
+   "note": "familiar Quebec: pantoute = pas du tout"
+  },
+  {
+   "fr": "Nous ne nous sommes nullement compris.",
+   "en": "We did not understand each other in the least.",
+   "note": "very formal: nullement"
+  },
+  {
+   "fr": "Il faut que je me dépêche, sinon je vais manquer mon autobus.",
+   "en": "I have to hurry, otherwise I'll miss my bus.",
+   "note": "neutral Quebec: autobus (bus in France also accepts autobus)"
+  }
+ ],
+ "quebec": {
+  "intro": "The Quebec point this lesson is the three-way switch: the same short story told in joual, in neutral Quebec French (le français québécois standard) and in international French. Joual is informal; never use it in writing unless you are quoting dialogue.",
+  "items": [
+   {
+    "std": "Je suis allé au dépanneur chercher du lait.",
+    "qc": "Chu allé au dep chercher du lait.",
+    "en": "I went to the corner store to get milk.",
+    "note": "joual: chu, dep (informal). Note dépanneur itself is standard Quebec French; France would say épicerie"
+   },
+   {
+    "std": "Ma voiture est tombée en panne sur l'autoroute.",
+    "qc": "Mon char a lâché su'l'autoroute.",
+    "en": "My car broke down on the highway.",
+    "note": "char = car, informal; su'l = sur le"
+   },
+   {
+    "std": "Il faisait extrêmement froid.",
+    "qc": "Y faisait frette en tabarnouche.",
+    "en": "It was extremely cold.",
+    "note": "frette = very cold (informal); tabarnouche = mild euphemistic swear"
+   },
+   {
+    "std": "Mon ami est arrivé avec une dépanneuse.",
+    "qc": "Mon chum est arrivé avec une towing.",
+    "en": "My friend arrived with a tow truck.",
+    "note": "chum, towing: informal; dépanneuse is the standard word"
+   },
+   {
+    "std": "Finalement, tout s'est bien terminé.",
+    "qc": "En fin de compte, toute a ben fini.",
+    "en": "In the end, everything turned out fine.",
+    "note": "toute = tout (Quebec pronunciation), ben = bien"
+   },
+   {
+    "std": "Nous sommes rentrés épuisés.",
+    "qc": "On est rentrés brûlés.",
+    "en": "We got home exhausted.",
+    "note": "brûlé = exhausted, familiar Quebec"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Which is the neutral (québécois standard) version of 'Mon char a pas parti'?",
+   "options": [
+    "Ma voiture ne démarra point.",
+    "Mon auto n'a pas démarré.",
+    "Mon char a pas démarré, là.",
+    "Mon auto partit pas."
+   ],
+   "a": 1,
+   "why": "Neutral Quebec French uses auto and full negation, without slang."
+  },
+  {
+   "t": "mcq",
+   "q": "Which sentence belongs in a formal letter?",
+   "options": [
+    "Y'a pas de trouble.",
+    "C'est correct.",
+    "Cela ne pose aucun problème.",
+    "Pas de souci, là."
+   ],
+   "a": 2,
+   "why": "cela + full verb phrase = formal written register."
+  },
+  {
+   "t": "mcq",
+   "q": "'Pantoute' means…",
+   "options": [
+    "everywhere",
+    "not at all",
+    "all the time",
+    "everything"
+   ],
+   "a": 1,
+   "why": "pantoute = pas du tout (familiar Quebec)."
+  },
+  {
+   "t": "mcq",
+   "q": "In which situation is neutral Quebec French the best choice?",
+   "options": [
+    "A text to your brother",
+    "A job interview",
+    "A joke with hockey friends",
+    "A poem in joual"
+   ],
+   "a": 1,
+   "why": "Professional situations call for neutral register."
+  },
+  {
+   "t": "fill",
+   "q": "Chu fatigué. → Neutral: Je ___ fatigué.",
+   "a": [
+    "suis"
+   ],
+   "en": "I'm tired.",
+   "why": "chu is the contracted Quebec pronunciation of je suis."
+  },
+  {
+   "t": "fill",
+   "q": "On a mangé pis on est partis. → Neutral: On a mangé, ___ on est partis.",
+   "a": [
+    "puis",
+    "et"
+   ],
+   "en": "We ate, then we left.",
+   "why": "pis = puis, very common in speech."
+  },
+  {
+   "t": "fill",
+   "q": "Tu veux-tu venir? → Formal: ___-vous venir?",
+   "a": [
+    "Voulez",
+    "Souhaitez",
+    "Désirez"
+   ],
+   "en": "Would you like to come?",
+   "why": "Formal register uses vous with inversion."
+  },
+  {
+   "t": "fill",
+   "q": "J'ai pogné un ticket. → Standard: J'ai reçu une ___.",
+   "a": [
+    "contravention"
+   ],
+   "en": "I got a ticket.",
+   "why": "Contravention is the standard word for a fine."
+  },
+  {
+   "t": "build",
+   "en": "Nobody called me.",
+   "a": "Personne ne m'a téléphoné."
+  },
+  {
+   "t": "build",
+   "en": "My partner and I are going shopping.",
+   "a": "Ma conjointe et moi allons faire des courses."
+  },
+  {
+   "t": "build",
+   "en": "I can't go tonight.",
+   "a": "Je ne peux pas y aller ce soir."
+  },
+  {
+   "t": "translate",
+   "en": "There's no problem. (neutral)",
+   "a": [
+    "Il n'y a pas de problème.",
+    "Il n'y a aucun problème.",
+    "Pas de problème."
+   ],
+   "why": "Avoid 'pas de trouble', a familiar anglicism."
+  },
+  {
+   "t": "translate",
+   "en": "It was very cold. (formal)",
+   "a": [
+    "Il faisait très froid.",
+    "Il faisait extrêmement froid.",
+    "Il faisait un froid intense."
+   ],
+   "why": "Frette is familiar; use froid in neutral and formal registers."
+  },
+  {
+   "t": "translate",
+   "en": "We didn't understand at all.",
+   "a": [
+    "Nous n'avons pas du tout compris.",
+    "On n'a pas du tout compris.",
+    "On a pas compris pantoute.",
+    "Nous n'avons rien compris.",
+    "On n'a rien compris."
+   ],
+   "why": "pantoute is the familiar Quebec version of pas du tout."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "le niveau de langue",
+   "en": "register, language level",
+   "g": "m",
+   "ex": "Il faut adapter son niveau de langue à la situation."
+  },
+  {
+   "fr": "le registre familier",
+   "en": "informal register",
+   "g": "m",
+   "ex": "« Chu » appartient au registre familier."
+  },
+  {
+   "fr": "le registre soutenu",
+   "en": "formal register",
+   "g": "m",
+   "ex": "Une lettre officielle exige un registre soutenu."
+  },
+  {
+   "fr": "le joual",
+   "en": "joual (working-class Montreal speech)",
+   "g": "m",
+   "ex": "Tremblay a fait entrer le joual au théâtre.",
+   "qc": true
+  },
+  {
+   "fr": "le char",
+   "en": "car (familiar)",
+   "g": "m",
+   "ex": "Mon char est au garage.",
+   "qc": true
+  },
+  {
+   "fr": "l'auto",
+   "en": "car (neutral)",
+   "g": "f",
+   "ex": "Mon auto est au garage."
+  },
+  {
+   "fr": "frette",
+   "en": "freezing cold (familiar)",
+   "ex": "Y fait frette à matin!",
+   "qc": true
+  },
+  {
+   "fr": "pantoute",
+   "en": "not at all (familiar)",
+   "ex": "J'aime pas ça pantoute.",
+   "qc": true
+  },
+  {
+   "fr": "pogner",
+   "en": "to catch, to get, to grab (familiar)",
+   "ex": "J'ai pogné le rhume.",
+   "qc": true
+  },
+  {
+   "fr": "le chum",
+   "en": "friend; boyfriend (familiar)",
+   "g": "m",
+   "ex": "Je sors avec mes chums.",
+   "qc": true
+  },
+  {
+   "fr": "le conjoint / la conjointe",
+   "en": "spouse, partner",
+   "ex": "Mon conjoint travaille à Laval."
+  },
+  {
+   "fr": "la contravention",
+   "en": "fine, ticket",
+   "g": "f",
+   "ex": "J'ai reçu une contravention pour excès de vitesse."
+  },
+  {
+   "fr": "la dépanneuse",
+   "en": "tow truck",
+   "g": "f",
+   "ex": "La dépanneuse est arrivée en vingt minutes."
+  },
+  {
+   "fr": "nullement",
+   "en": "not at all, in no way (formal)",
+   "ex": "Je ne suis nullement surpris."
+  },
+  {
+   "fr": "se rendre",
+   "en": "to go (to a place), formal",
+   "ex": "Je me rendrai à la réunion demain."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "chu",
+    "tip": "One syllable [ʃy]: the fused form of je suis in fast Quebec speech."
+   },
+   {
+    "fr": "à soir, à matin",
+    "tip": "Familiar Quebec for ce soir, ce matin."
+   },
+   {
+    "fr": "pis",
+    "tip": "[pi]: the spoken form of puis, used like 'and then'."
+   },
+   {
+    "fr": "su'l'autoroute",
+    "tip": "sul-o-to-ROUTE: sur le fuses into su'l."
+   },
+   {
+    "fr": "toute",
+    "tip": "Quebec pronounces tout as [tut] in many positions."
+   },
+   {
+    "fr": "Désirez-vous",
+    "tip": "dé-zi-ré-VOO: formal inversion, liaison-free."
+   }
+  ],
+  "title": "La même histoire, trois fois",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Pis, ta fin de semaine?",
+    "en": "So, your weekend?"
+   },
+   {
+    "s": "B",
+    "fr": "Ah, laisse faire! Mon char a lâché su'l'autoroute, pis y faisait frette en malade.",
+    "en": "Oh, forget it! My car died on the highway, and it was freezing cold."
+   },
+   {
+    "s": "A",
+    "fr": "Ouf! Et au bureau, tu l'as racontée comment?",
+    "en": "Oof! And at the office, how did you tell it?"
+   },
+   {
+    "s": "B",
+    "fr": "J'ai dit : « Mon auto est tombée en panne sur l'autoroute et il faisait très froid. »",
+    "en": "I said: 'My car broke down on the highway and it was very cold.'"
+   },
+   {
+    "s": "A",
+    "fr": "Et dans ton courriel à l'assurance?",
+    "en": "And in your email to the insurance company?"
+   },
+   {
+    "s": "B",
+    "fr": "« Mon véhicule a subi une panne sur l'autoroute 20, par un froid intense. »",
+    "en": "'My vehicle broke down on Highway 20, in intense cold.'"
+   },
+   {
+    "s": "A",
+    "fr": "T'es un vrai caméléon!",
+    "en": "You're a real chameleon!"
+   },
+   {
+    "s": "B",
+    "fr": "Faut ben! On parle pas à l'assurance comme à ses chums.",
+    "en": "You have to! You don't talk to the insurer like you talk to your buddies."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What happened to B's car?",
+    "options": [
+     "It was stolen",
+     "It broke down on the highway",
+     "It got a ticket"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Which version did B use in the insurance email?",
+    "options": [
+     "Joual",
+     "Neutral",
+     "Formal"
+    ],
+    "a": 2
+   },
+   {
+    "q": "What does 'frette' mean?",
+    "options": [
+     "Very cold",
+     "Very fast",
+     "Very late"
+    ],
+    "a": 0
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Tell what you did last weekend in three sentences, first to a friend (familiar), then to your manager (neutral).",
+   "model": "Familier : Samedi, chu allé au chalet avec mes chums, pis on a fait du ski. C'était malade! / Neutre : Samedi, je suis allé au chalet avec des amis et nous avons fait du ski. C'était vraiment agréable."
+  },
+  {
+   "prompt": "Say 'Do you want to come with us?' three ways: familiar Quebec, neutral, formal.",
+   "model": "Tu veux-tu venir avec nous autres? / Est-ce que tu veux venir avec nous? / Souhaiteriez-vous vous joindre à nous?"
+  },
+  {
+   "prompt": "Turn 'Y'a pas de trouble, c'est correct' into a formal sentence.",
+   "model": "Cela ne pose aucun problème; tout est en ordre."
+  }
+ ],
+ "write": {
+  "prompt": "Write the same short story (5–6 sentences: you missed your bus, it was raining, you arrived late) twice: once as a text message to a friend in familiar Quebec style, once as a formal email to your manager.",
+  "model": "Texto : Allo! J'ai manqué mon bus à matin, pis y mouillait à boire debout. Chu arrivé au bureau trempe, une demi-heure en retard. Ma journée commence ben mal! / Courriel : Bonjour Madame Tremblay, Je tiens à m'excuser de mon retard de ce matin. J'ai malheureusement manqué l'autobus et, en raison de la forte pluie, le suivant a été retardé. Je suis arrivé au bureau avec trente minutes de retard. Je rattraperai ce temps en fin de journée. Cordialement, Rishad"
+ },
+ "quiz": [
+  {
+   "q": "Where does the word 'joual' come from?",
+   "options": [
+    "An Indigenous word",
+    "A popular pronunciation of 'cheval'",
+    "An English word",
+    "A Paris neighbourhood"
+   ],
+   "a": 1,
+   "why": "joual = cheval in old working-class pronunciation."
+  },
+  {
+   "q": "Which play made joual famous on stage?",
+   "options": [
+    "Les Belles-sœurs",
+    "Kamouraska",
+    "Maria Chapdelaine",
+    "Bonheur d'occasion"
+   ],
+   "a": 0,
+   "why": "Michel Tremblay's Les Belles-sœurs (1968)."
+  },
+  {
+   "q": "Which word is neutral, not familiar?",
+   "options": [
+    "char",
+    "frette",
+    "courriel",
+    "pogner"
+   ],
+   "a": 2,
+   "why": "Courriel is standard Quebec French (and recommended in France too)."
+  },
+  {
+   "q": "'Tu viens-tu?' is…",
+   "options": [
+    "formal",
+    "neutral",
+    "familiar Quebec",
+    "an error in all contexts"
+   ],
+   "a": 2,
+   "why": "The -tu particle marks a yes/no question in familiar Quebec speech."
+  },
+  {
+   "q": "The safest default register for a learner in Quebec is…",
+   "options": [
+    "joual",
+    "neutral Quebec French",
+    "17th-century literary French",
+    "Parisian slang"
+   ],
+   "a": 1,
+   "why": "Neutral Quebec French is never inappropriate."
+  },
+  {
+   "q": "Formal version of 'On a mangé'?",
+   "options": [
+    "Nous avons mangé.",
+    "On mangea.",
+    "On a bouffé.",
+    "Nous a mangé."
+   ],
+   "a": 0,
+   "why": "nous + avons in formal register."
+  },
+  {
+   "q": "'Brûlé' in familiar Quebec speech can mean…",
+   "options": [
+    "exhausted",
+    "angry",
+    "drunk",
+    "late"
+   ],
+   "a": 0,
+   "why": "Chu brûlé = I'm exhausted."
+  },
+  {
+   "q": "Which sentence mixes registers awkwardly?",
+   "options": [
+    "Je vous prie d'agréer mes salutations.",
+    "Pis, néanmoins, j'vous prie d'agréer…",
+    "Salut, ça va?",
+    "On se voit demain."
+   ],
+   "a": 1,
+   "why": "Mixing pis with a formal closing formula sounds odd."
+  },
+  {
+   "q": "Standard word for 'towing' (tow truck)?",
+   "options": [
+    "le dépanneur",
+    "la dépanneuse",
+    "la débarbouillette",
+    "le towing"
+   ],
+   "a": 1,
+   "why": "Dépanneuse; the dépanneur is the corner store."
+  }
+ ]
+}

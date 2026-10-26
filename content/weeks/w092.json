@@ -1,0 +1,647 @@
+{
+ "w": 92,
+ "title": "Lequel and its forms",
+ "goal": "By the end of this lesson you can ask 'which one?' with lequel, use lequel, auquel and duquel after prepositions, and recognize how spoken Quebec French avoids them.",
+ "learn": [
+  {
+   "h": "Four forms that agree",
+   "body": [
+    "*Lequel* combines the article *le* with *quel*, and both parts agree in gender and number with the noun it replaces.",
+    "It has two jobs: as a question word (which one?) and as a relative pronoun after a preposition (the thing with which / that … with)."
+   ],
+   "table": {
+    "head": [
+     "",
+     "Masculine",
+     "Feminine"
+    ],
+    "rows": [
+     [
+      "Singular",
+      "lequel",
+      "laquelle"
+     ],
+     [
+      "Plural",
+      "lesquels",
+      "lesquelles"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Interrogative lequel: which one?",
+   "body": [
+    "Use it to ask someone to choose among items already mentioned: *J'ai deux tuques. Laquelle veux-tu?* (Which one do you want?)",
+    "It is completely normal in everyday speech, in Quebec too: *Lequel tu veux?* *Lesquelles sont à toi?*",
+    "With *de* to narrow a group: *Lequel de ces films as-tu vu?*"
+   ],
+   "tip": "Quel + noun (Quel film?), lequel alone (Lequel?)."
+  },
+  {
+   "h": "Contractions with à and de",
+   "body": [
+    "Like the articles *le* and *les*, the masculine and plural forms contract with *à* and *de*. *Laquelle* never contracts.",
+    "*À* forms appear with verbs like *penser à*, *participer à*, *s'intéresser à*, *assister à*. *De* forms appear after compound prepositions ending in *de*: *près de, à côté de, au bout de, en face de, au cours de*."
+   ],
+   "table": {
+    "head": [
+     "",
+     "+ à",
+     "+ de"
+    ],
+    "rows": [
+     [
+      "lequel",
+      "auquel",
+      "duquel"
+     ],
+     [
+      "laquelle",
+      "à laquelle",
+      "de laquelle"
+     ],
+     [
+      "lesquels",
+      "auxquels",
+      "desquels"
+     ],
+     [
+      "lesquelles",
+      "auxquelles",
+      "desquelles"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Relative lequel after a preposition",
+   "body": [
+    "For things, after a preposition use a form of *lequel*: *la raison pour laquelle*, *l'outil avec lequel*, *la chaise sur laquelle*, *le projet auquel je pense*, *le parc près duquel j'habite*.",
+    "For people, *qui* is preferred after a preposition: *l'ami avec qui je travaille*, *la personne à qui j'ai écrit*. *Lequel* for people is possible but formal, and is required after *parmi* and *entre*: *les candidats parmi lesquels*.",
+    "Use *dont* for a simple *de* (*le livre dont je parle*), but *duquel* after a compound preposition (*le parc à côté duquel*). Dont cannot follow a preposition."
+   ]
+  },
+  {
+   "h": "Quebec: interrogative yes, relative mostly written",
+   "body": [
+    "The roadmap says lequel is 'mostly written and formal' in Quebec. That's true of the relative uses (*auquel, duquel, pour laquelle*), which you'll meet in news, documents and careful speech. The interrogative *lequel? laquelle?* is used all the time in conversation.",
+    "Casual speech avoids relative lequel with *que* plus a word at the end: *la chaise que t'es assis dessus*, *la boîte que j'ai mis ça dedans*, or, under English influence, *le gars que je travaille avec*. These are informal or non-standard; write the lequel/qui versions."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "J'ai deux billets. Lequel veux-tu?",
+   "en": "I have two tickets. Which one do you want?",
+   "note": "interrogative, masculine singular"
+  },
+  {
+   "fr": "Laquelle de ces robes préfères-tu?",
+   "en": "Which of these dresses do you prefer?",
+   "note": "lequel de + group"
+  },
+  {
+   "fr": "Lesquels sont à toi, les bleus ou les noirs?",
+   "en": "Which ones are yours, the blue ones or the black ones?"
+  },
+  {
+   "fr": "Voilà la raison pour laquelle je suis en retard.",
+   "en": "That's the reason why I'm late.",
+   "note": "pour laquelle = for which / why"
+  },
+  {
+   "fr": "C'est l'ordinateur avec lequel je travaille.",
+   "en": "That's the computer I work with.",
+   "note": "avec + thing → lequel"
+  },
+  {
+   "fr": "La chaise sur laquelle tu es assis est cassée.",
+   "en": "The chair you're sitting on is broken.",
+   "note": "sur laquelle"
+  },
+  {
+   "fr": "C'est un projet auquel je pense depuis longtemps.",
+   "en": "It's a project I've been thinking about for a long time.",
+   "note": "penser à → auquel"
+  },
+  {
+   "fr": "Les cours auxquels je participe sont gratuits.",
+   "en": "The classes I take part in are free.",
+   "note": "participer à → auxquels"
+  },
+  {
+   "fr": "Le parc près duquel j'habite est magnifique.",
+   "en": "The park I live near is beautiful.",
+   "note": "près de → duquel (not dont)"
+  },
+  {
+   "fr": "La rivière au bord de laquelle on campe est froide.",
+   "en": "The river we're camping beside is cold.",
+   "note": "au bord de → de laquelle"
+  },
+  {
+   "fr": "L'amie avec qui je voyage parle espagnol.",
+   "en": "The friend I'm travelling with speaks Spanish.",
+   "note": "for people, qui after a preposition"
+  },
+  {
+   "fr": "Il y avait trente candidats, parmi lesquels deux Québécois.",
+   "en": "There were thirty candidates, among them two Quebecers.",
+   "note": "parmi → lesquels, even for people"
+  },
+  {
+   "fr": "La boîte dans laquelle j'ai mis les photos a disparu.",
+   "en": "The box I put the photos in has disappeared.",
+   "note": "dans laquelle"
+  },
+  {
+   "fr": "Auquel de tes frères as-tu parlé?",
+   "en": "Which of your brothers did you talk to?",
+   "note": "parler à → auquel, interrogative"
+  },
+  {
+   "fr": "C'est une question à laquelle je ne peux pas répondre.",
+   "en": "That's a question I can't answer.",
+   "note": "répondre à → à laquelle (no contraction)"
+  },
+  {
+   "fr": "Les raisons pour lesquelles il est parti restent un mystère.",
+   "en": "The reasons he left remain a mystery.",
+   "note": "feminine plural"
+  }
+ ],
+ "quebec": {
+  "intro": "Interrogative 'lequel?' is everyday Quebec French. Relative 'lequel, auquel, duquel' belong mainly to writing and careful speech; casual speech uses 'que' plus a word like dessus or dedans, or even an English-style preposition at the end.",
+  "items": [
+   {
+    "std": "Lequel veux-tu?",
+    "qc": "Lequel tu veux?",
+    "en": "Which one do you want?",
+    "note": "interrogative lequel is fully normal in speech"
+   },
+   {
+    "std": "La chaise sur laquelle tu es assis",
+    "qc": "La chaise que t'es assis dessus",
+    "en": "The chair you're sitting on",
+    "note": "que … dessus: popular speech, avoid in writing"
+   },
+   {
+    "std": "La boîte dans laquelle j'ai mis ça",
+    "qc": "La boîte que j'ai mis ça dedans",
+    "en": "The box I put that in",
+    "note": "que … dedans: popular speech"
+   },
+   {
+    "std": "Le gars avec qui je travaille",
+    "qc": "Le gars que je travaille avec",
+    "en": "The guy I work with",
+    "note": "preposition at the end: English influence, heard in Montreal; non-standard"
+   },
+   {
+    "std": "La raison pour laquelle je suis venu",
+    "qc": "C'est pour ça que chu venu",
+    "en": "That's why I came",
+    "note": "speech rephrases instead of using pour laquelle"
+   },
+   {
+    "std": "Le projet auquel je pense",
+    "qc": "Le projet que j'pense à",
+    "en": "The project I'm thinking about",
+    "note": "non-standard; standard: auquel"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "J'ai trois chemises. ___ préfères-tu?",
+   "options": [
+    "Lequel",
+    "Laquelle",
+    "Lesquelles",
+    "Quelle"
+   ],
+   "a": 1,
+   "why": "Une chemise: feminine singular → laquelle."
+  },
+  {
+   "t": "mcq",
+   "q": "Le projet ___ je pense est ambitieux.",
+   "options": [
+    "dont",
+    "auquel",
+    "duquel",
+    "lequel"
+   ],
+   "a": 1,
+   "why": "Penser à → auquel."
+  },
+  {
+   "t": "mcq",
+   "q": "Le parc à côté ___ j'habite…",
+   "options": [
+    "dont",
+    "duquel",
+    "auquel",
+    "où"
+   ],
+   "a": 1,
+   "why": "Compound preposition à côté de → duquel; dont cannot follow a preposition."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is best for a person: 'the friend I travel with'?",
+   "options": [
+    "l'ami avec lequel je voyage",
+    "l'ami avec qui je voyage",
+    "l'ami que je voyage avec",
+    "l'ami dont je voyage"
+   ],
+   "a": 1,
+   "why": "For people, qui after a preposition is preferred."
+  },
+  {
+   "t": "fill",
+   "q": "C'est la raison pour ___ je suis venu.",
+   "a": [
+    "laquelle"
+   ],
+   "en": "That's the reason I came.",
+   "why": "La raison (f) → pour laquelle."
+  },
+  {
+   "t": "fill",
+   "q": "Voici le stylo avec ___ j'ai signé. ",
+   "a": [
+    "lequel"
+   ],
+   "en": "Here's the pen I signed with.",
+   "why": "Le stylo (m) → avec lequel."
+  },
+  {
+   "t": "fill",
+   "q": "Les réunions ___ j'assiste sont longues. (à)",
+   "a": [
+    "auxquelles"
+   ],
+   "en": "The meetings I attend are long.",
+   "why": "Assister à + réunions (f pl) → auxquelles."
+  },
+  {
+   "t": "fill",
+   "q": "C'est une question à ___ je ne sais pas répondre.",
+   "a": [
+    "laquelle"
+   ],
+   "en": "It's a question I don't know how to answer.",
+   "why": "Laquelle never contracts: à laquelle."
+  },
+  {
+   "t": "fill",
+   "q": "Il y avait dix invités, parmi ___ mon patron. (m pl)",
+   "a": [
+    "lesquels"
+   ],
+   "en": "There were ten guests, including my boss.",
+   "why": "Parmi + lesquels, even for people."
+  },
+  {
+   "t": "build",
+   "en": "Which one do you want?",
+   "a": "Lequel veux-tu?"
+  },
+  {
+   "t": "build",
+   "en": "The chair you're sitting on is broken.",
+   "a": "La chaise sur laquelle tu es assis est cassée."
+  },
+  {
+   "t": "build",
+   "en": "It's a project I think about often.",
+   "a": "C'est un projet auquel je pense souvent."
+  },
+  {
+   "t": "translate",
+   "en": "Which of these books have you read?",
+   "a": [
+    "Lequel de ces livres as-tu lu?",
+    "Lesquels de ces livres as-tu lus?",
+    "Lequel de ces livres avez-vous lu?",
+    "Lesquels de ces livres avez-vous lus?",
+    "Lequel de ces livres tu as lu?",
+    "Lesquels de ces livres tu as lus?"
+   ],
+   "why": "Lequel de + group."
+  },
+  {
+   "t": "translate",
+   "en": "That's the reason why I'm late.",
+   "a": [
+    "C'est la raison pour laquelle je suis en retard.",
+    "Voilà la raison pour laquelle je suis en retard.",
+    "C'est pour ça que je suis en retard.",
+    "Voilà pourquoi je suis en retard."
+   ],
+   "why": "Pour laquelle, or the simpler c'est pour ça que."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "lequel / laquelle",
+   "en": "which one",
+   "ex": "Laquelle veux-tu?"
+  },
+  {
+   "fr": "lesquels / lesquelles",
+   "en": "which ones",
+   "ex": "Lesquels sont à toi?"
+  },
+  {
+   "fr": "auquel",
+   "en": "to which (one)",
+   "ex": "le film auquel je pense"
+  },
+  {
+   "fr": "duquel",
+   "en": "of which (one), near which",
+   "ex": "le lac près duquel on campe"
+  },
+  {
+   "fr": "la raison pour laquelle",
+   "en": "the reason why",
+   "ex": "Voilà la raison pour laquelle je pars."
+  },
+  {
+   "fr": "parmi",
+   "en": "among",
+   "ex": "parmi lesquels deux enfants"
+  },
+  {
+   "fr": "participer à",
+   "en": "to take part in",
+   "ex": "Je participe à un atelier."
+  },
+  {
+   "fr": "assister à",
+   "en": "to attend",
+   "ex": "J'assiste à la réunion."
+  },
+  {
+   "fr": "s'intéresser à",
+   "en": "to be interested in",
+   "ex": "le sujet auquel je m'intéresse"
+  },
+  {
+   "fr": "au bord de",
+   "en": "at the edge of, beside",
+   "ex": "au bord du lac"
+  },
+  {
+   "fr": "le candidat / la candidate",
+   "en": "candidate, applicant",
+   "ex": "Il y a trois candidats."
+  },
+  {
+   "fr": "cassé / cassée",
+   "en": "broken",
+   "ex": "La chaise est cassée."
+  },
+  {
+   "fr": "dessus",
+   "en": "on it, on top",
+   "ex": "Mets ton manteau dessus."
+  },
+  {
+   "fr": "dedans",
+   "en": "inside it",
+   "ex": "Il n'y a rien dedans."
+  },
+  {
+   "fr": "le chum",
+   "en": "friend (guy); boyfriend",
+   "g": "m",
+   "ex": "C'est mon chum de hockey.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "lequel",
+    "tip": "luh-KÈL; casual: l'kèl."
+   },
+   {
+    "fr": "laquelle",
+    "tip": "la-KÈL: sounds just like lequel except for la."
+   },
+   {
+    "fr": "lesquels",
+    "tip": "lè-KÈL: the s is silent."
+   },
+   {
+    "fr": "auquel / auxquels",
+    "tip": "Both o-KÈL: you can't hear the difference."
+   },
+   {
+    "fr": "duquel",
+    "tip": "dü-KÈL, with the French ü."
+   },
+   {
+    "fr": "parmi lesquels",
+    "tip": "par-MEE lè-KÈL."
+   }
+  ],
+  "title": "Au magasin de sport",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Bonjour, je cherche des bottes d'hiver.",
+    "en": "Hello, I'm looking for winter boots."
+   },
+   {
+    "s": "B",
+    "fr": "On en a plusieurs modèles. Lesquelles vous intéressent?",
+    "en": "We have several models. Which ones interest you?"
+   },
+   {
+    "s": "A",
+    "fr": "Celles-là, dans la vitrine. C'est quoi, la différence?",
+    "en": "Those, in the window. What's the difference?"
+   },
+   {
+    "s": "B",
+    "fr": "Les noires ont une semelle avec laquelle vous ne glisserez pas sur la glace.",
+    "en": "The black ones have a sole you won't slip on the ice with."
+   },
+   {
+    "s": "A",
+    "fr": "C'est exactement la raison pour laquelle je viens. Je suis tombée deux fois cette semaine.",
+    "en": "That's exactly why I'm here. I fell twice this week."
+   },
+   {
+    "s": "B",
+    "fr": "Ouch! Quelle pointure? Lequel de ces deux modèles voulez-vous essayer?",
+    "en": "Ouch! What size? Which of these two models do you want to try?"
+   },
+   {
+    "s": "A",
+    "fr": "Les noires, en huit, s'il vous plaît.",
+    "en": "The black ones, in an eight, please."
+   },
+   {
+    "s": "B",
+    "fr": "Assoyez-vous sur le banc, je reviens tout de suite.",
+    "en": "Have a seat on the bench, I'll be right back."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What is the customer looking for?",
+    "options": [
+     "Skates",
+     "Winter boots",
+     "A coat"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What is special about the black ones?",
+    "options": [
+     "They're waterproof",
+     "They don't slip on ice",
+     "They're on sale"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Why does the customer need them?",
+    "options": [
+     "She fell twice this week",
+     "Her old ones are lost",
+     "It's a gift"
+    ],
+    "a": 0
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Offer someone a choice between two things and ask 'which one?' using the right form of lequel.",
+   "model": "J'ai du thé vert et du thé noir. Lequel tu veux?"
+  },
+  {
+   "prompt": "Describe an object you use every day with 'avec lequel' or 'sur laquelle'.",
+   "model": "C'est le vélo avec lequel je vais au travail. C'est la table sur laquelle je fais mes devoirs."
+  },
+  {
+   "prompt": "Rewrite in standard French: 'C'est le gars que je joue au hockey avec.'",
+   "model": "C'est le gars avec qui je joue au hockey."
+  }
+ ],
+ "write": {
+  "prompt": "Write a short, fairly formal paragraph (5 sentences) presenting a cause or project you care about. Use at least four forms of lequel (pour laquelle, auquel, duquel, parmi lesquels…).",
+  "model": "Je fais du bénévolat dans une banque alimentaire à laquelle je donne quatre heures par semaine. C'est un organisme auquel je crois beaucoup. La raison pour laquelle je m'y suis engagé est simple : beaucoup de familles de mon quartier ont faim. Le local, près duquel il y a une école, est toujours plein. Nous sommes vingt bénévoles, parmi lesquels plusieurs étudiants."
+ },
+ "quiz": [
+  {
+   "q": "Which form never contracts with à or de?",
+   "options": [
+    "lequel",
+    "laquelle",
+    "lesquels",
+    "lesquelles"
+   ],
+   "a": 1,
+   "why": "À laquelle, de laquelle."
+  },
+  {
+   "q": "À + lesquelles = ?",
+   "options": [
+    "auxquelles",
+    "à lesquelles",
+    "auxquels",
+    "aux lesquelles"
+   ],
+   "a": 0,
+   "why": "À + les → aux: auxquelles."
+  },
+  {
+   "q": "Le restaurant en face ___ on attend…",
+   "options": [
+    "dont",
+    "duquel",
+    "auquel",
+    "lequel"
+   ],
+   "a": 1,
+   "why": "En face de → duquel."
+  },
+  {
+   "q": "Which use of lequel is very common in casual Quebec speech?",
+   "options": [
+    "auquel in relative clauses",
+    "the question 'Lequel?'",
+    "parmi lesquels",
+    "duquel after a compound preposition"
+   ],
+   "a": 1,
+   "why": "Interrogative lequel is everyday speech."
+  },
+  {
+   "q": "La personne ___ j'ai écrit…",
+   "options": [
+    "à qui",
+    "dont",
+    "que",
+    "où"
+   ],
+   "a": 0,
+   "why": "Écrire à + person → à qui (or the more formal à laquelle)."
+  },
+  {
+   "q": "'La chaise que t'es assis dessus' is…",
+   "options": [
+    "standard",
+    "popular speech for 'la chaise sur laquelle tu es assis'",
+    "a subjunctive",
+    "a France-only form"
+   ],
+   "a": 1,
+   "why": "Que + dessus replaces sur laquelle in casual speech."
+  },
+  {
+   "q": "Lequel agrees with…",
+   "options": [
+    "the subject of the sentence",
+    "the noun it replaces",
+    "the verb",
+    "nothing"
+   ],
+   "a": 1,
+   "why": "Gender and number of the noun it stands for."
+  },
+  {
+   "q": "C'est le sujet ___ je m'intéresse.",
+   "options": [
+    "dont",
+    "auquel",
+    "duquel",
+    "lequel"
+   ],
+   "a": 1,
+   "why": "S'intéresser à → auquel."
+  },
+  {
+   "q": "Why is 'le gars que je travaille avec' non-standard?",
+   "options": [
+    "Wrong gender",
+    "French doesn't put the preposition at the end",
+    "Travailler takes de",
+    "Gars is plural"
+   ],
+   "a": 1,
+   "why": "Standard: le gars avec qui je travaille."
+  }
+ ]
+}

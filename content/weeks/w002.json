@@ -1,0 +1,740 @@
+{
+ "w": 2,
+ "title": "Letter combinations and nasal vowels",
+ "goal": "By the end of this lesson you can read common letter combinations like ou, oi, eau, ch and gn correctly, pronounce the three main nasal vowels, and recognise the Quebec 'paère / faète' vowels.",
+ "learn": [
+  {
+   "h": "Vowel combinations: two letters, one sound",
+   "body": [
+    "French often writes one sound with two or three letters. Once you know the combinations, you can read almost any word aloud.",
+    "The big ones: *ou* sounds like 'oo' (*vous*), *oi* sounds like 'wa' (*moi*), *au* and *eau* both sound like 'oh' (*auto*, *beau*), and *ai* / *ei* sound like the 'e' in 'bed' (*lait*, *neige*)."
+   ],
+   "table": {
+    "head": [
+     "Letters",
+     "Sound",
+     "Examples"
+    ],
+    "rows": [
+     [
+      "ou",
+      "oo (food)",
+      "vous, rouge, bonjour"
+     ],
+     [
+      "oi",
+      "wa",
+      "moi, toi, trois, soir"
+     ],
+     [
+      "au / eau",
+      "oh",
+      "auto, chaud, beau, l'eau"
+     ],
+     [
+      "ai / ei",
+      "eh (bed)",
+      "lait, mais, neige, treize"
+     ],
+     [
+      "eu / œu",
+      "uh (lips rounded)",
+      "deux, bleu, sœur, cœur"
+     ],
+     [
+      "ui",
+      "wee",
+      "huit, nuit, suis"
+     ]
+    ]
+   },
+   "tip": "u alone = [ü]; ou = 'oo'. Tu (you) vs tout (all)."
+  },
+  {
+   "h": "Consonant combinations",
+   "body": [
+    "*ch* sounds like English 'sh' (*chat*, *chocolat*), never like 'ch' in 'church'. *gn* sounds like 'ny' in 'canyon' (*montagne*, *champignon*). *qu* is simply 'k' (*qui*, *quatre*). *ph* is 'f' (*photo*) and *th* is just 't' (*thé*).",
+    "*ill* after a vowel or in most words sounds like 'y': *fille* (fee-y), *famille*, *travail*. Three common exceptions keep a real l sound: *ville*, *mille*, *tranquille*."
+   ],
+   "table": {
+    "head": [
+     "Letters",
+     "Sound",
+     "Examples"
+    ],
+    "rows": [
+     [
+      "ch",
+      "sh",
+      "chat, chaud, dimanche"
+     ],
+     [
+      "gn",
+      "ny",
+      "montagne, ligne, champignon"
+     ],
+     [
+      "qu",
+      "k",
+      "qui, quatre, Québec"
+     ],
+     [
+      "ph",
+      "f",
+      "photo, téléphone"
+     ],
+     [
+      "th",
+      "t",
+      "thé, théâtre"
+     ],
+     [
+      "ill",
+      "y",
+      "fille, famille, travailler"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "The nasal vowels",
+   "body": [
+    "A nasal vowel is a vowel said partly through the nose. In writing, it is a vowel followed by *n* or *m*. The n or m itself is NOT pronounced: it only tells you the vowel is nasal.",
+    "French has three nasal vowels you must master (a fourth, *un*, has merged with *in* for many speakers in France, but Quebecers keep it distinct)."
+   ],
+   "table": {
+    "head": [
+     "Spellings",
+     "Sounds roughly like",
+     "Examples"
+    ],
+    "rows": [
+     [
+      "an, am, en, em",
+      "ahn (nasal 'ah')",
+      "France, chambre, enfant, temps"
+     ],
+     [
+      "in, im, ain, ein, yn",
+      "an (nasal 'a' of 'cat')",
+      "vin, simple, pain, plein"
+     ],
+     [
+      "on, om",
+      "ohn (nasal 'oh')",
+      "bon, nom, maison, onze"
+     ],
+     [
+      "un, um",
+      "uhn (nasal 'uh')",
+      "un, lundi, parfum"
+     ]
+    ]
+   },
+   "tip": "Never say the n: bon is 'bõ', not 'bonn'."
+  },
+  {
+   "h": "When n and m are NOT nasal",
+   "body": [
+    "If the *n* or *m* is followed by a vowel, or doubled (*nn*, *mm*), the vowel is NOT nasal and the consonant is pronounced: *bon* (nasal) but *bonne* (bonn), *an* (nasal) but *année* (a-né), *un* (nasal) but *une* (ün).",
+    "This is why many feminine forms 'open up' the nasal: *américain* / *américaine*, *italien* / *italienne*."
+   ],
+   "table": {
+    "head": [
+     "Nasal",
+     "Not nasal"
+    ],
+    "rows": [
+     [
+      "bon",
+      "bonne"
+     ],
+     [
+      "un",
+      "une"
+     ],
+     [
+      "plein",
+      "pleine"
+     ],
+     [
+      "an",
+      "année"
+     ],
+     [
+      "italien",
+      "italienne"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Quebec: vowels that slide",
+   "body": [
+    "In casual Quebec speech, a long vowel in the last syllable of a word often slides into two sounds (a diphthong). *Père* sounds like 'paère', *fête* like 'faète', *mère* like 'maère', *tête* like 'taète'.",
+    "This happens mainly with long vowels: è/ê before r, v, z, j, or written ê; the long vowels in *neige*, *chaise*, *rose*, *fleur*, *pâte*. It is a feature of informal speech, stronger in some regions and speakers than others. In careful speech (news, school) you will hear less of it."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Bonjour, ça va?",
+   "en": "Hello, how are you?",
+   "note": "ou = oo; on is nasal in bon"
+  },
+  {
+   "fr": "Le chat est noir.",
+   "en": "The cat is black.",
+   "note": "ch = sh, oi = wa"
+  },
+  {
+   "fr": "Il fait chaud.",
+   "en": "It's hot.",
+   "note": "ai = eh, au = oh, ch = sh"
+  },
+  {
+   "fr": "Le pain est bon.",
+   "en": "The bread is good.",
+   "note": "two nasals: ain [an] and on [ohn]"
+  },
+  {
+   "fr": "J'ai un enfant.",
+   "en": "I have a child.",
+   "note": "un [uhn], en [ahn], an [ahn]"
+  },
+  {
+   "fr": "Ma fille habite en ville.",
+   "en": "My daughter lives in town.",
+   "note": "fille has a y sound; ville has a real l"
+  },
+  {
+   "fr": "La montagne est belle.",
+   "en": "The mountain is beautiful.",
+   "note": "gn = ny"
+  },
+  {
+   "fr": "Le café au lait, c'est bon.",
+   "en": "Coffee with milk is good.",
+   "note": "au = oh, ai = eh"
+  },
+  {
+   "fr": "Il y a de la neige.",
+   "en": "There is snow.",
+   "note": "ei = eh; in Quebec, neige can slide: 'naèje'"
+  },
+  {
+   "fr": "Mon père est à la maison.",
+   "en": "My father is at home.",
+   "note": "Quebec casual: 'mon paère'"
+  },
+  {
+   "fr": "Bonne fête!",
+   "en": "Happy birthday!",
+   "note": "bonne is NOT nasal; in Quebec, fête can sound like 'faète'"
+  },
+  {
+   "fr": "Je bois de l'eau.",
+   "en": "I drink water.",
+   "note": "oi = wa, eau = oh"
+  },
+  {
+   "fr": "Quatre photos.",
+   "en": "Four photos.",
+   "note": "qu = k, ph = f"
+  },
+  {
+   "fr": "Une année, un an.",
+   "en": "One year, one year.",
+   "note": "année is not nasal (n + vowel); an is nasal"
+  },
+  {
+   "fr": "Il est huit heures.",
+   "en": "It's eight o'clock.",
+   "note": "ui = wee; liaison huit‿heures [t]"
+  }
+ ],
+ "quebec": {
+  "intro": "In everyday Quebec speech, long vowels at the end of a word often 'slide' into a diphthong: père sounds like paère, fête like faète. It is informal; careful speech uses the plain vowel.",
+  "items": [
+   {
+    "std": "Mon père",
+    "qc": "Mon paère",
+    "en": "My father",
+    "note": "informal pronunciation, same spelling"
+   },
+   {
+    "std": "Bonne fête!",
+    "qc": "Bonne faète!",
+    "en": "Happy birthday!",
+    "note": "in Quebec, bonne fête is the usual birthday wish"
+   },
+   {
+    "std": "Ma mère",
+    "qc": "Ma maère",
+    "en": "My mother",
+    "note": "informal"
+   },
+   {
+    "std": "J'ai mal à la tête.",
+    "qc": "J'ai mal à la taète.",
+    "en": "I have a headache.",
+    "note": "informal"
+   },
+   {
+    "std": "Il neige.",
+    "qc": "Il naèje.",
+    "en": "It's snowing.",
+    "note": "a light diphthong; you will hear it all winter"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "How is 'oi' pronounced in 'moi'?",
+   "options": [
+    "oy",
+    "wa",
+    "oh-ee",
+    "wee"
+   ],
+   "a": 1,
+   "why": "oi = wa: moi, toi, trois."
+  },
+  {
+   "t": "mcq",
+   "q": "Which word has the 'sh' sound?",
+   "options": [
+    "quatre",
+    "chat",
+    "photo",
+    "thé"
+   ],
+   "a": 1,
+   "why": "ch = sh in French."
+  },
+  {
+   "t": "mcq",
+   "q": "Which word has a NASAL vowel?",
+   "options": [
+    "bonne",
+    "une",
+    "bon",
+    "année"
+   ],
+   "a": 2,
+   "why": "In bon, the n ends the word, so the vowel is nasal. In the others, n is followed by a vowel or doubled."
+  },
+  {
+   "t": "mcq",
+   "q": "In which word does 'ill' keep a real L sound?",
+   "options": [
+    "fille",
+    "famille",
+    "ville",
+    "travail"
+   ],
+   "a": 2,
+   "why": "ville, mille and tranquille are the common exceptions."
+  },
+  {
+   "t": "mcq",
+   "q": "'eau' sounds like…",
+   "options": [
+    "ee-oh",
+    "oh",
+    "ay-oo",
+    "you"
+   ],
+   "a": 1,
+   "why": "eau and au both sound like 'oh'."
+  },
+  {
+   "t": "mcq",
+   "q": "In casual Quebec speech, 'père' often sounds like…",
+   "options": [
+    "pair",
+    "paère",
+    "pear-uh",
+    "pur"
+   ],
+   "a": 1,
+   "why": "Long vowels slide into a diphthong: paère."
+  },
+  {
+   "t": "fill",
+   "q": "Le ___ est bon. (bread)",
+   "a": [
+    "pain"
+   ],
+   "en": "The bread is good.",
+   "why": "ain is the nasal [an] sound."
+  },
+  {
+   "t": "fill",
+   "q": "Je bois de l'___. (water)",
+   "a": [
+    "eau"
+   ],
+   "en": "I drink water.",
+   "why": "eau = oh."
+  },
+  {
+   "t": "fill",
+   "q": "La ___ est belle. (mountain)",
+   "a": [
+    "montagne"
+   ],
+   "en": "The mountain is beautiful.",
+   "why": "gn = ny."
+  },
+  {
+   "t": "build",
+   "en": "The cat is black.",
+   "a": "Le chat est noir."
+  },
+  {
+   "t": "build",
+   "en": "My father is at home.",
+   "a": "Mon père est à la maison."
+  },
+  {
+   "t": "translate",
+   "en": "Happy birthday!",
+   "a": [
+    "Bonne fête!",
+    "Joyeux anniversaire!",
+    "Bonne fête.",
+    "Joyeux anniversaire."
+   ],
+   "why": "Bonne fête is what you'll hear most in Quebec."
+  },
+  {
+   "t": "translate",
+   "en": "It's hot.",
+   "a": [
+    "Il fait chaud.",
+    "Il fait chaud!",
+    "C'est chaud."
+   ],
+   "why": "Il fait chaud for the weather; c'est chaud for a thing."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "le chat",
+   "en": "cat",
+   "g": "m",
+   "ex": "Le chat est noir."
+  },
+  {
+   "fr": "noir / noire",
+   "en": "black",
+   "ex": "Un chat noir."
+  },
+  {
+   "fr": "chaud / chaude",
+   "en": "hot, warm",
+   "ex": "Il fait chaud."
+  },
+  {
+   "fr": "le pain",
+   "en": "bread",
+   "g": "m",
+   "ex": "Le pain est bon."
+  },
+  {
+   "fr": "bon / bonne",
+   "en": "good",
+   "ex": "C'est bon!"
+  },
+  {
+   "fr": "l'eau",
+   "en": "water",
+   "g": "f",
+   "ex": "Je bois de l'eau."
+  },
+  {
+   "fr": "le lait",
+   "en": "milk",
+   "g": "m",
+   "ex": "Un café au lait."
+  },
+  {
+   "fr": "la fille",
+   "en": "girl, daughter",
+   "g": "f",
+   "ex": "Ma fille a huit ans."
+  },
+  {
+   "fr": "la famille",
+   "en": "family",
+   "g": "f",
+   "ex": "Ma famille est à Montréal."
+  },
+  {
+   "fr": "la ville",
+   "en": "city, town",
+   "g": "f",
+   "ex": "J'habite en ville."
+  },
+  {
+   "fr": "la montagne",
+   "en": "mountain",
+   "g": "f",
+   "ex": "La montagne est belle."
+  },
+  {
+   "fr": "la neige",
+   "en": "snow",
+   "g": "f",
+   "ex": "Il y a de la neige."
+  },
+  {
+   "fr": "le père",
+   "en": "father",
+   "g": "m",
+   "ex": "Mon père est gentil."
+  },
+  {
+   "fr": "la mère",
+   "en": "mother",
+   "g": "f",
+   "ex": "Ma mère est à la maison."
+  },
+  {
+   "fr": "la fête",
+   "en": "party, birthday, holiday",
+   "g": "f",
+   "ex": "Bonne fête, Julie!"
+  },
+  {
+   "fr": "l'enfant",
+   "en": "child",
+   "g": "m",
+   "ex": "J'ai un enfant."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "vous, tu",
+    "tip": "ou = oo; u = ee with rounded lips. Keep them apart."
+   },
+   {
+    "fr": "moi, trois",
+    "tip": "oi = wa: mwa, trwa."
+   },
+   {
+    "fr": "beau, chaud",
+    "tip": "eau, au = oh. The final letters are silent."
+   },
+   {
+    "fr": "an, vin, bon",
+    "tip": "Three nasals: ahn, an, ohn. Never pronounce the n."
+   },
+   {
+    "fr": "bon, bonne",
+    "tip": "bõ (nasal) vs bonn (not nasal)."
+   },
+   {
+    "fr": "montagne",
+    "tip": "gn = ny: mon-TA-nyuh."
+   },
+   {
+    "fr": "fille, ville",
+    "tip": "fee-y vs veel."
+   },
+   {
+    "fr": "père, fête",
+    "tip": "Standard: pèr, fèt. Casual Quebec: paère, faète."
+   }
+  ],
+  "title": "Bonne fête, maman!",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Allô, maman! Bonne fête!",
+    "en": "Hi, Mom! Happy birthday!"
+   },
+   {
+    "s": "B",
+    "fr": "Merci, ma belle! Tu es à Montréal?",
+    "en": "Thanks, sweetie! Are you in Montreal?"
+   },
+   {
+    "s": "A",
+    "fr": "Oui. Il neige beaucoup ici.",
+    "en": "Yes. It's snowing a lot here."
+   },
+   {
+    "s": "B",
+    "fr": "Ici, il fait chaud! Ton père est au café.",
+    "en": "Here it's hot! Your father is at the café."
+   },
+   {
+    "s": "A",
+    "fr": "Et le chat?",
+    "en": "And the cat?"
+   },
+   {
+    "s": "B",
+    "fr": "Le chat est à la maison, avec moi.",
+    "en": "The cat is at home, with me."
+   },
+   {
+    "s": "A",
+    "fr": "Bonne journée, maman. Bonne fête encore!",
+    "en": "Have a good day, Mom. Happy birthday again!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Why is A calling?",
+    "options": [
+     "It's her mother's birthday",
+     "To ask about the cat",
+     "To say she is sick"
+    ],
+    "a": 0
+   },
+   {
+    "q": "What is the weather like in Montreal?",
+    "options": [
+     "It's hot",
+     "It's snowing",
+     "It's raining"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Where is the father?",
+    "options": [
+     "At home",
+     "In Montreal",
+     "At the café"
+    ],
+    "a": 2
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Read aloud, paying attention to the nasal vowels: 'Un bon vin blanc.'",
+   "model": "uhn bõ van blahn: no n is pronounced."
+  },
+  {
+   "prompt": "Read aloud: 'Le chat noir boit de l'eau.'",
+   "model": "luh sha nwar bwa duh lo"
+  },
+  {
+   "prompt": "Wish someone happy birthday the standard way, then imitate the casual Quebec vowel.",
+   "model": "Bonne fête! (fèt) / Bonne faète!"
+  }
+ ],
+ "write": {
+  "prompt": "Write 4–5 short sentences using at least five of this lesson's words. Circle every nasal vowel.",
+  "model": "Mon père est à la maison. Le pain est bon. Il neige en ville. Ma fille boit de l'eau. Bonne fête, maman!"
+ },
+ "quiz": [
+  {
+   "q": "How is 'ou' pronounced?",
+   "options": [
+    "like English 'oo'",
+    "like French u",
+    "like 'ow'",
+    "like 'oh'"
+   ],
+   "a": 0,
+   "why": "ou = oo, as in vous."
+  },
+  {
+   "q": "What sound does 'gn' make?",
+   "options": [
+    "g-n",
+    "ny",
+    "n",
+    "gw"
+   ],
+   "a": 1,
+   "why": "montagne = mon-ta-nyuh."
+  },
+  {
+   "q": "In a nasal vowel, the n or m is…",
+   "options": [
+    "strongly pronounced",
+    "not pronounced",
+    "pronounced like m",
+    "pronounced only in Quebec"
+   ],
+   "a": 1,
+   "why": "It only signals that the vowel is nasal."
+  },
+  {
+   "q": "Which word is NOT nasal?",
+   "options": [
+    "vin",
+    "une",
+    "lundi",
+    "maison"
+   ],
+   "a": 1,
+   "why": "In une, the n is followed by e, so it is pronounced: ün."
+  },
+  {
+   "q": "How is 'qu' pronounced in 'quatre'?",
+   "options": [
+    "kw",
+    "k",
+    "ch",
+    "kü"
+   ],
+   "a": 1,
+   "why": "qu = k in nearly all French words."
+  },
+  {
+   "q": "'ai' in 'lait' sounds like…",
+   "options": [
+    "eye",
+    "the e in 'bed'",
+    "ah-ee",
+    "ay"
+   ],
+   "a": 1,
+   "why": "ai and ei = eh."
+  },
+  {
+   "q": "Which pair shows the Quebec diphthong?",
+   "options": [
+    "tout → toutt",
+    "fête → faète",
+    "tu → tsu",
+    "petit → p'tit"
+   ],
+   "a": 1,
+   "why": "The long ê slides into 'aè' in casual speech."
+  },
+  {
+   "q": "'th' in 'thé' is pronounced…",
+   "options": [
+    "like English 'the'",
+    "like English 'think'",
+    "t",
+    "silent"
+   ],
+   "a": 2,
+   "why": "French has no English th sound: thé = té."
+  },
+  {
+   "q": "Which spelling does NOT give the [ahn] sound?",
+   "options": [
+    "an",
+    "en",
+    "em",
+    "on"
+   ],
+   "a": 3,
+   "why": "on gives [ohn], as in bon."
+  }
+ ]
+}

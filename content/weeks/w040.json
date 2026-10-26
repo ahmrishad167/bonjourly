@@ -1,0 +1,659 @@
+{
+ "w": 40,
+ "title": "A1 milestone test",
+ "goal": "By the end of this lesson you can pass an A1-level check covering lessons 1–39 and give a confident two-minute self-introduction in French, with a natural Quebec flavour.",
+ "learn": [
+  {
+   "h": "What A1 means",
+   "body": [
+    "At A1 you can introduce yourself and others, ask and answer simple questions about where you live, people you know and things you have, and handle everyday situations (stores, directions, time, weather) if people speak slowly.",
+    "This lesson you test yourself on everything so far and build your two-minute self-introduction: the task you'll use again and again in Quebec, at work, with neighbours, at the daycare or the doctor's."
+   ]
+  },
+  {
+   "h": "The A1 toolkit at a glance",
+   "body": [
+    "Sounds and spelling (lessons 1–4), articles and gender (5–6), pronouns and greetings (7–8), *être, avoir* and present-tense verbs (9–11, 24–25), negation and questions (12–15), numbers, dates and time (16–18), adjectives and possessives (20–21), prepositions (22), futur proche (23), partitives (26), connectors (29), reflexives (30), imperative (31), frequency (32), passé composé (34–36), and themes: family, weather, clothes, sports."
+   ],
+   "table": {
+    "head": [
+     "Time frame",
+     "Tool",
+     "Example"
+    ],
+    "rows": [
+     [
+      "Present",
+      "present tense",
+      "J'habite à Montréal."
+     ],
+     [
+      "Habits",
+      "present + frequency",
+      "Je joue souvent au soccer."
+     ],
+     [
+      "Past",
+      "passé composé",
+      "Je suis arrivé en 2022."
+     ],
+     [
+      "Future",
+      "aller + infinitive",
+      "Je vais voyager en Gaspésie."
+     ],
+     [
+      "Reasons",
+      "parce que",
+      "J'apprends le français parce que j'aime le Québec."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Building a two-minute self-introduction",
+   "body": [
+    "Two minutes is about 15–20 short sentences. Use this skeleton: (1) greeting and name, (2) origin and age, (3) where you live and since when, (4) work or studies, (5) family, (6) a typical day, (7) hobbies, (8) something you did recently, (9) a plan, (10) why you're learning French, (11) closing.",
+    "Link your sentences with *et, mais, parce que, donc, alors, puis*, and use all three time frames: present, past and future. That's what makes it sound like real speech, not a list."
+   ],
+   "table": {
+    "head": [
+     "Step",
+     "Model sentence"
+    ],
+    "rows": [
+     [
+      "Name",
+      "Bonjour! Je m'appelle Rishad."
+     ],
+     [
+      "Origin",
+      "Je viens de Toronto."
+     ],
+     [
+      "Home",
+      "J'habite à Montréal depuis trois ans."
+     ],
+     [
+      "Work",
+      "Je travaille dans une entreprise de pièces d'auto."
+     ],
+     [
+      "Family",
+      "Je suis marié et j'ai deux enfants."
+     ],
+     [
+      "Past",
+      "L'été passé, nous sommes allés à Québec."
+     ],
+     [
+      "Future",
+      "Cet hiver, je vais apprendre à patiner."
+     ],
+     [
+      "Why French",
+      "J'apprends le français parce que je vis au Québec."
+     ]
+    ]
+   },
+   "tip": "Present, past, future + one 'parce que' = a strong A1 introduction."
+  },
+  {
+   "h": "Quebec style",
+   "body": [
+    "Quebecers often introduce themselves with *Moi, c'est…* (I'm…). They say *je reste à…* as well as *j'habite à…* for 'I live in…' (in France, *rester* only means 'to stay'). *Ça fait trois ans que je suis ici* is the everyday way to say 'I've been here for three years'.",
+    "In a casual introduction you can drop in *mon chum / ma blonde*, *en fin de semaine*, *magasiner*, *jouer dehors*, *c'est le fun*. In a formal one (a job interview), stay with standard forms: *J'habite à…*, *mon conjoint / ma conjointe*."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Bonjour! Je m'appelle Rishad.",
+   "en": "Hello! My name is Rishad."
+  },
+  {
+   "fr": "Moi, c'est Sarah. Enchantée!",
+   "en": "I'm Sarah. Nice to meet you!",
+   "note": "Moi, c'est… is very common in Quebec"
+  },
+  {
+   "fr": "Je viens de Toronto, mais j'habite à Montréal.",
+   "en": "I'm from Toronto, but I live in Montreal."
+  },
+  {
+   "fr": "Ça fait trois ans que je suis au Québec.",
+   "en": "I've been in Quebec for three years."
+  },
+  {
+   "fr": "Je reste à Laval, près du métro.",
+   "en": "I live in Laval, near the metro.",
+   "note": "rester = to live (Quebec)"
+  },
+  {
+   "fr": "J'ai trente-cinq ans.",
+   "en": "I'm thirty-five."
+  },
+  {
+   "fr": "Je travaille dans le domaine de la vente.",
+   "en": "I work in sales."
+  },
+  {
+   "fr": "Je suis marié et j'ai deux enfants.",
+   "en": "I'm married and I have two children."
+  },
+  {
+   "fr": "Le matin, je me lève à six heures et je prends le métro.",
+   "en": "In the morning, I get up at six and take the metro."
+  },
+  {
+   "fr": "Dans mes temps libres, je joue au soccer et je cuisine.",
+   "en": "In my free time, I play soccer and cook."
+  },
+  {
+   "fr": "L'hiver passé, j'ai appris à faire de la raquette.",
+   "en": "Last winter, I learned to snowshoe."
+  },
+  {
+   "fr": "Cet été, nous allons visiter la Gaspésie.",
+   "en": "This summer, we're going to visit the Gaspé."
+  },
+  {
+   "fr": "J'apprends le français parce que je veux parler avec mes voisins.",
+   "en": "I'm learning French because I want to talk with my neighbours."
+  },
+  {
+   "fr": "Je comprends bien, mais je parle encore lentement.",
+   "en": "I understand well, but I still speak slowly."
+  },
+  {
+   "fr": "Pouvez-vous répéter plus lentement, s'il vous plaît?",
+   "en": "Could you repeat more slowly, please?",
+   "note": "a survival phrase for any test"
+  },
+  {
+   "fr": "Merci de m'avoir écouté!",
+   "en": "Thanks for listening to me!"
+  }
+ ],
+ "quebec": {
+  "intro": "A Quebec-style self-introduction is relaxed and direct: 'Moi, c'est…', 'je reste à…', 'ça fait trois ans que…'. Choose the casual or formal version depending on who's listening.",
+  "items": [
+   {
+    "std": "Je m'appelle Rishad.",
+    "qc": "Moi, c'est Rishad.",
+    "en": "I'm Rishad.",
+    "note": "neutral and friendly"
+   },
+   {
+    "std": "J'habite à Laval.",
+    "qc": "Je reste à Laval.",
+    "en": "I live in Laval.",
+    "note": "rester = to live in Quebec usage"
+   },
+   {
+    "std": "J'habite ici depuis trois ans.",
+    "qc": "Ça fait trois ans que chu icitte.",
+    "en": "I've been here three years.",
+    "note": "ça fait … que is neutral; chu icitte is very informal"
+   },
+   {
+    "std": "Ma copine / mon copain",
+    "qc": "Ma blonde / mon chum",
+    "en": "My girlfriend / my boyfriend",
+    "note": "informal but universal in Quebec"
+   },
+   {
+    "std": "Le week-end, je fais du sport.",
+    "qc": "En fin de semaine, j'joue dehors.",
+    "en": "On weekends, I play outside."
+   },
+   {
+    "std": "J'aime beaucoup ça.",
+    "qc": "C'est vraiment le fun.",
+    "en": "It's really fun.",
+    "note": "informal"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Which is a natural Quebec way to say your name?",
+   "options": [
+    "Moi, c'est Rishad.",
+    "Je suis appelé Rishad.",
+    "Mon nom est appelé Rishad.",
+    "Je m'appelle de Rishad."
+   ],
+   "a": 0,
+   "why": "Moi, c'est… is very common in Quebec."
+  },
+  {
+   "t": "mcq",
+   "q": "'Ça fait trois ans que j'habite ici' means…",
+   "options": [
+    "I lived here three years ago",
+    "I've lived here for three years",
+    "I'll live here for three years",
+    "I lived here for three years once"
+   ],
+   "a": 1,
+   "why": "Ça fait + time + que = for (ongoing)."
+  },
+  {
+   "t": "mcq",
+   "q": "'J'ai ___ ans.'",
+   "options": [
+    "trente-cinq",
+    "trente-cinquième",
+    "trente et cinq",
+    "trente-cinqs"
+   ],
+   "a": 0,
+   "why": "Age uses avoir + number + ans."
+  },
+  {
+   "t": "mcq",
+   "q": "Which sentence uses the passé composé correctly?",
+   "options": [
+    "Je suis arrivé au Québec en 2022.",
+    "J'ai arrivé au Québec en 2022.",
+    "Je suis arriver au Québec en 2022.",
+    "J'arrive été au Québec en 2022."
+   ],
+   "a": 0,
+   "why": "Arriver takes être."
+  },
+  {
+   "t": "fill",
+   "q": "Je ___ de Toronto. (venir)",
+   "a": [
+    "viens"
+   ],
+   "en": "I'm from Toronto.",
+   "why": "venir de + city."
+  },
+  {
+   "t": "fill",
+   "q": "J'apprends le français ___ je vis au Québec.",
+   "a": [
+    "parce que"
+   ],
+   "en": "I'm learning French because I live in Quebec.",
+   "why": "parce que + reason."
+  },
+  {
+   "t": "fill",
+   "q": "Cet été, nous ___ visiter la Gaspésie.",
+   "a": [
+    "allons"
+   ],
+   "en": "This summer, we're going to visit the Gaspé.",
+   "why": "Futur proche: nous allons."
+  },
+  {
+   "t": "fill",
+   "q": "Je ___ lève à six heures.",
+   "a": [
+    "me"
+   ],
+   "en": "I get up at six.",
+   "why": "Reflexive: je me lève."
+  },
+  {
+   "t": "build",
+   "en": "I'm married and I have two children.",
+   "a": "Je suis marié et j'ai deux enfants."
+  },
+  {
+   "t": "build",
+   "en": "Could you repeat, please?",
+   "a": "Pouvez-vous répéter, s'il vous plaît?"
+  },
+  {
+   "t": "build",
+   "en": "I live in Laval, near the metro.",
+   "a": "J'habite à Laval, près du métro."
+  },
+  {
+   "t": "translate",
+   "en": "I work in Montreal.",
+   "a": [
+    "Je travaille à Montréal."
+   ],
+   "why": "à + city."
+  },
+  {
+   "t": "translate",
+   "en": "In my free time, I cook.",
+   "a": [
+    "Dans mes temps libres, je cuisine.",
+    "Dans mon temps libre, je cuisine.",
+    "Pendant mes temps libres, je cuisine.",
+    "Pendant mon temps libre, je cuisine."
+   ],
+   "why": "temps libres (Quebec) / temps libre."
+  },
+  {
+   "t": "translate",
+   "en": "Last summer, we went to Quebec City.",
+   "a": [
+    "L'été passé, nous sommes allés à Québec.",
+    "L'été passé, on est allés à Québec.",
+    "L'été dernier, nous sommes allés à Québec.",
+    "L'été dernier, on est allés à Québec.",
+    "L'été passé, nous sommes allées à Québec.",
+    "L'été dernier, nous sommes allées à Québec.",
+    "L'été passé, on est allé à Québec.",
+    "L'été dernier, on est allé à Québec."
+   ],
+   "why": "aller → être + allés; à Québec = the city."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "se présenter",
+   "en": "to introduce oneself",
+   "ex": "Je vais me présenter."
+  },
+  {
+   "fr": "Enchanté(e)!",
+   "en": "Nice to meet you!",
+   "ex": "Enchantée, moi c'est Julie."
+  },
+  {
+   "fr": "venir de",
+   "en": "to come from",
+   "ex": "Je viens de l'Inde."
+  },
+  {
+   "fr": "habiter / vivre",
+   "en": "to live",
+   "ex": "J'habite à Montréal."
+  },
+  {
+   "fr": "rester",
+   "en": "to live (Quebec); to stay",
+   "ex": "Je reste à Longueuil.",
+   "qc": true
+  },
+  {
+   "fr": "ça fait … que",
+   "en": "it's been … that (for)",
+   "ex": "Ça fait deux ans que j'apprends le français."
+  },
+  {
+   "fr": "marié(e)",
+   "en": "married",
+   "ex": "Je suis mariée."
+  },
+  {
+   "fr": "le conjoint / la conjointe",
+   "en": "partner, spouse",
+   "ex": "Mon conjoint travaille à Laval."
+  },
+  {
+   "fr": "le domaine",
+   "en": "field (of work)",
+   "g": "m",
+   "ex": "Je travaille dans le domaine de la santé."
+  },
+  {
+   "fr": "l'entreprise",
+   "en": "company",
+   "g": "f",
+   "ex": "Une petite entreprise."
+  },
+  {
+   "fr": "les temps libres",
+   "en": "free time",
+   "g": "m",
+   "ex": "Dans mes temps libres, je lis.",
+   "qc": true
+  },
+  {
+   "fr": "apprendre",
+   "en": "to learn",
+   "ex": "J'apprends le français."
+  },
+  {
+   "fr": "lentement",
+   "en": "slowly",
+   "ex": "Parlez lentement, s'il vous plaît."
+  },
+  {
+   "fr": "encore",
+   "en": "still; again",
+   "ex": "Je parle encore lentement."
+  },
+  {
+   "fr": "Moi, c'est…",
+   "en": "I'm… (introducing yourself)",
+   "ex": "Moi, c'est Rishad.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "Je m'appelle",
+    "tip": "zhuh-ma-PÈLL; two l's, one sound."
+   },
+   {
+    "fr": "Enchanté",
+    "tip": "ahn-shahn-TÉ: two nasal vowels."
+   },
+   {
+    "fr": "J'habite à Montréal",
+    "tip": "zha-bee-ta-mon-ré-AL: link habite and à."
+   },
+   {
+    "fr": "trente-cinq ans",
+    "tip": "trahnt-sin-KAHN: the q links to ans."
+   },
+   {
+    "fr": "Ça fait trois ans",
+    "tip": "sa-fè-trwa-ZAHN: liaison in [z]."
+   },
+   {
+    "fr": "parce que",
+    "tip": "PARSS-kuh."
+   },
+   {
+    "fr": "Moi, c'est…",
+    "tip": "mwa-SÈ, with a slight pause after moi."
+   }
+  ],
+  "title": "Une nouvelle collègue",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Salut! Moi, c'est Isabelle. Tu es nouveau?",
+    "en": "Hi! I'm Isabelle. Are you new?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, enchanté! Je m'appelle Rishad. J'ai commencé lundi.",
+    "en": "Yes, nice to meet you! My name is Rishad. I started on Monday."
+   },
+   {
+    "s": "A",
+    "fr": "Bienvenue! Tu viens d'où?",
+    "en": "Welcome! Where are you from?"
+   },
+   {
+    "s": "B",
+    "fr": "Je viens de Toronto, mais ça fait trois ans que j'habite à Montréal.",
+    "en": "I'm from Toronto, but I've been living in Montreal for three years."
+   },
+   {
+    "s": "A",
+    "fr": "Ton français est bon! Tu l'apprends depuis longtemps?",
+    "en": "Your French is good! Have you been learning it long?"
+   },
+   {
+    "s": "B",
+    "fr": "Depuis un an. Je prends des cours parce que je veux parler avec tout le monde.",
+    "en": "For a year. I take classes because I want to talk with everybody."
+   },
+   {
+    "s": "A",
+    "fr": "Lâche pas! Tu fais quoi en fin de semaine?",
+    "en": "Keep it up! What are you doing this weekend?"
+   },
+   {
+    "s": "B",
+    "fr": "Je vais aller patiner avec mes enfants. C'est leur premier hiver ici!",
+    "en": "I'm going to go skating with my kids. It's their first winter here!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "When did Rishad start the job?",
+    "options": [
+     "Monday",
+     "Last month",
+     "Today"
+    ],
+    "a": 0
+   },
+   {
+    "q": "How long has Rishad lived in Montreal?",
+    "options": [
+     "One year",
+     "Three years",
+     "Five years"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What will he do this weekend?",
+    "options": [
+     "Ski",
+     "Skate with his kids",
+     "Go to Toronto"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "MILESTONE TASK: Give a two-minute self-introduction (15–20 sentences) using the 11-step skeleton. Use present, past and future, and at least one 'parce que'.",
+   "model": "Bonjour! Je m'appelle Rishad. Je viens de Toronto et j'ai trente-cinq ans. Ça fait trois ans que j'habite à Montréal, près du métro Jean-Talon. Je travaille dans une entreprise de pièces d'auto. Je suis marié et j'ai deux enfants. Ma fille a huit ans et mon fils a cinq ans. D'habitude, je me lève à six heures et je prends le métro. Le soir, je soupe en famille. Dans mes temps libres, je joue au soccer et je cuisine. L'hiver passé, j'ai appris à faire de la raquette. C'est vraiment le fun! L'été prochain, nous allons visiter la Gaspésie. J'apprends le français parce que je vis au Québec et parce que je veux parler avec mes voisins. Je comprends bien, mais je parle encore lentement. Merci de m'avoir écouté!"
+  },
+  {
+   "prompt": "Give a 30-second version of your introduction for a casual party, Quebec style.",
+   "model": "Salut! Moi, c'est Rishad. Je reste à Montréal avec ma blonde pis nos deux enfants. Ça fait trois ans qu'on est icitte. En fin de semaine, on joue dehors. C'est le fun!"
+  },
+  {
+   "prompt": "Ask your listener three questions back.",
+   "model": "Et toi, tu viens d'où? Tu habites où? Qu'est-ce que tu fais dans tes temps libres?"
+  }
+ ],
+ "write": {
+  "prompt": "MILESTONE TASK: Write your self-introduction as a 12–15 sentence paragraph you could post on a community group or send to a new colleague.",
+  "model": "Bonjour à tous! Je m'appelle Rishad et je viens de Toronto. J'ai trente-cinq ans. Ça fait trois ans que j'habite à Montréal. Je travaille dans une entreprise de pièces d'auto. Je suis marié et nous avons deux enfants. Le matin, je me lève tôt et je prends le métro. Je finis à cinq heures. Le week-end, je fais du vélo ou je joue au soccer. L'hiver passé, j'ai appris à patiner. Cet été, nous allons visiter la Gaspésie. J'apprends le français parce que j'aime le Québec et je veux parler avec tout le monde. Au plaisir de vous rencontrer!"
+ },
+ "quiz": [
+  {
+   "q": "Which is correct?",
+   "options": [
+    "Je suis 35 ans.",
+    "J'ai 35 ans.",
+    "J'ai 35 années.",
+    "Je fais 35 ans."
+   ],
+   "a": 1,
+   "why": "Age: avoir + ans (lessons 9, 16)."
+  },
+  {
+   "q": "'Tu viens d'où?' asks…",
+   "options": [
+    "Where are you going?",
+    "Where are you from?",
+    "When are you coming?",
+    "Where do you live?"
+   ],
+   "a": 1,
+   "why": "venir de = to come from."
+  },
+  {
+   "q": "'Je reste à Laval' in Quebec means…",
+   "options": [
+    "I'm staying in Laval tonight only",
+    "I live in Laval",
+    "I stay away from Laval",
+    "I'm resting in Laval"
+   ],
+   "a": 1,
+   "why": "Quebec rester = habiter."
+  },
+  {
+   "q": "Which sentence is in the futur proche?",
+   "options": [
+    "J'ai visité Québec.",
+    "Je visite Québec.",
+    "Je vais visiter Québec.",
+    "Je viens de visiter Québec."
+   ],
+   "a": 2,
+   "why": "aller + infinitive."
+  },
+  {
+   "q": "'Je suis arrivée' is said by…",
+   "options": [
+    "a man",
+    "a woman",
+    "a group of men",
+    "anyone"
+   ],
+   "a": 1,
+   "why": "Feminine agreement with être."
+  },
+  {
+   "q": "Best formal word for your partner in a job interview?",
+   "options": [
+    "ma blonde",
+    "mon chum",
+    "ma conjointe / mon conjoint",
+    "ma matante"
+   ],
+   "a": 2,
+   "why": "Conjoint(e) is neutral and formal."
+  },
+  {
+   "q": "Which phrase helps if you don't understand?",
+   "options": [
+    "Lâche pas!",
+    "Pouvez-vous répéter, s'il vous plaît?",
+    "C'est correct.",
+    "Envoye!"
+   ],
+   "a": 1,
+   "why": "Ask politely for repetition."
+  },
+  {
+   "q": "'Dans mes temps libres' means…",
+   "options": [
+    "In my free time",
+    "In my old times",
+    "At free events",
+    "In my spare room"
+   ],
+   "a": 0,
+   "why": "Temps libres = free time (Quebec plural)."
+  },
+  {
+   "q": "A strong A1 introduction should include…",
+   "options": [
+    "only the present tense",
+    "present, past and future",
+    "only formal words",
+    "only Quebec slang"
+   ],
+   "a": 1,
+   "why": "Mixing time frames makes it real speech."
+  }
+ ]
+}

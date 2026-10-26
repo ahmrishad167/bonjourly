@@ -1,0 +1,684 @@
+{
+ "w": 26,
+ "title": "Partitive articles, fruits, vegetables and groceries",
+ "goal": "By the end of this lesson you can talk about food and groceries using du, de la, de l' and des, switch to de after negatives and quantities, and shop with Quebec grocery vocabulary.",
+ "learn": [
+  {
+   "h": "Some: du, de la, de l', des",
+   "body": [
+    "French needs an article where English often has 'some' or nothing at all: *Je mange du pain.* = I eat (some) bread. This is the partitive article.",
+    "Use it for an unspecified amount of something you can't count (bread, milk, water) and *des* for an unspecified number of things you can count (apples, carrots)."
+   ],
+   "table": {
+    "head": [
+     "Before",
+     "Partitive",
+     "Example"
+    ],
+    "rows": [
+     [
+      "masculine noun",
+      "du",
+      "du pain, du fromage, du lait"
+     ],
+     [
+      "feminine noun",
+      "de la",
+      "de la viande, de la salade"
+     ],
+     [
+      "vowel or silent h",
+      "de l'",
+      "de l'eau, de l'huile"
+     ],
+     [
+      "plural noun",
+      "des",
+      "des pommes, des carottes"
+     ]
+    ]
+   },
+   "tip": "If you could say 'some' in English, French needs du / de la / des."
+  },
+  {
+   "h": "Like vs eat: le or du?",
+   "body": [
+    "After verbs of taste (*aimer, adorer, détester, préférer*), use the definite article because you mean the thing in general: *J'aime le fromage.* (I like cheese.)",
+    "After verbs of consuming or buying (*manger, boire, acheter, prendre, vouloir*), use the partitive: *J'achète du fromage.* (I'm buying some cheese.)"
+   ],
+   "table": {
+    "head": [
+     "In general (le, la, les)",
+     "Some (du, de la, des)"
+    ],
+    "rows": [
+     [
+      "J'aime le café.",
+      "Je bois du café."
+     ],
+     [
+      "Elle adore la salade.",
+      "Elle mange de la salade."
+     ],
+     [
+      "Je déteste les oignons.",
+      "J'achète des oignons."
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Negatives and quantities: just de",
+   "body": [
+    "After a negative, *du, de la, de l'* and *des* all become *de* (or *d'* before a vowel): *Je ne mange pas de viande.* *Il n'y a plus d'eau.*",
+    "After a quantity, also use *de* alone: *beaucoup de fruits*, *un peu de sucre*, *un kilo de pommes*, *une bouteille d'eau*, *une douzaine d'œufs*, *assez de lait*.",
+    "Exception: *être* in the negative keeps the article: *Ce n'est pas du sucre, c'est du sel.*"
+   ],
+   "table": {
+    "head": [
+     "Positive",
+     "Negative / quantity"
+    ],
+    "rows": [
+     [
+      "J'ai du lait.",
+      "Je n'ai pas de lait."
+     ],
+     [
+      "Il y a des œufs.",
+      "Il n'y a pas d'œufs."
+     ],
+     [
+      "Je veux de la soupe.",
+      "Je veux un bol de soupe."
+     ],
+     [
+      "On achète des fraises.",
+      "On achète un casseau de fraises."
+     ]
+    ]
+   },
+   "tip": "Pas de, beaucoup de, un kilo de: after these, the article disappears."
+  },
+  {
+   "h": "Quebec: where and what you buy",
+   "body": [
+    "In Quebec, *l'épicerie* is the grocery store (the supermarket), and *faire l'épicerie* means 'to do the groceries'. *Le dépanneur* is the small corner store for milk, bread and snacks.",
+    "*Une liqueur* in Quebec is a soft drink (pop), not an alcoholic liqueur as in France. Also Quebec: *des patates* (potatoes), *du blé d'Inde* (corn), *de la crème glacée* (ice cream), *un casseau* (small basket of berries)."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Je mange du pain le matin.",
+   "en": "I eat bread in the morning.",
+   "note": "pain is masculine: du"
+  },
+  {
+   "fr": "Tu veux de la soupe?",
+   "en": "Do you want some soup?"
+  },
+  {
+   "fr": "Je bois de l'eau.",
+   "en": "I drink water.",
+   "note": "de l' before a vowel"
+  },
+  {
+   "fr": "On achète des pommes et des carottes.",
+   "en": "We're buying apples and carrots."
+  },
+  {
+   "fr": "J'aime le fromage, alors j'achète du fromage.",
+   "en": "I like cheese, so I buy cheese.",
+   "note": "le for liking, du for buying"
+  },
+  {
+   "fr": "Je ne mange pas de viande.",
+   "en": "I don't eat meat.",
+   "note": "pas de"
+  },
+  {
+   "fr": "Il n'y a pas d'œufs dans le frigo.",
+   "en": "There are no eggs in the fridge."
+  },
+  {
+   "fr": "Elle mange beaucoup de fruits.",
+   "en": "She eats a lot of fruit."
+  },
+  {
+   "fr": "Je voudrais un kilo de tomates, s'il vous plaît.",
+   "en": "I'd like a kilo of tomatoes, please."
+  },
+  {
+   "fr": "Achète une bouteille de lait au dépanneur.",
+   "en": "Buy a bottle of milk at the corner store."
+  },
+  {
+   "fr": "On fait l'épicerie le samedi.",
+   "en": "We do the groceries on Saturdays.",
+   "note": "faire l'épicerie: Quebec usage"
+  },
+  {
+   "fr": "Les enfants veulent de la crème glacée.",
+   "en": "The kids want ice cream."
+  },
+  {
+   "fr": "Je prends une liqueur.",
+   "en": "I'll have a soft drink.",
+   "note": "liqueur = pop in Quebec"
+  },
+  {
+   "fr": "Il y a des patates et du blé d'Inde pour le souper.",
+   "en": "There are potatoes and corn for supper."
+  },
+  {
+   "fr": "Ce n'est pas du sucre, c'est du sel!",
+   "en": "That's not sugar, it's salt!",
+   "note": "with être, the article stays"
+  },
+  {
+   "fr": "Tu as assez d'argent?",
+   "en": "Do you have enough money?",
+   "note": "assez de + noun"
+  }
+ ],
+ "quebec": {
+  "intro": "Food shopping is full of Quebec words: you 'faire l'épicerie', grab milk at the dépanneur, and order a 'liqueur' when you want pop. Some words differ from France, so it's worth knowing both.",
+  "items": [
+   {
+    "std": "Je fais les courses.",
+    "qc": "Je fais l'épicerie.",
+    "en": "I'm doing the groceries.",
+    "note": "standard Quebec usage, not slang"
+   },
+   {
+    "std": "Je prends un soda.",
+    "qc": "J'prends une liqueur.",
+    "en": "I'll have a soft drink.",
+    "note": "in France, une liqueur is a sweet alcoholic drink"
+   },
+   {
+    "std": "des pommes de terre",
+    "qc": "des patates",
+    "en": "potatoes",
+    "note": "patates is universal in Quebec speech"
+   },
+   {
+    "std": "du maïs",
+    "qc": "du blé d'Inde",
+    "en": "corn (on the cob)",
+    "note": "épluchette de blé d'Inde = corn-husking party"
+   },
+   {
+    "std": "de la glace",
+    "qc": "de la crème glacée",
+    "en": "ice cream",
+    "note": "in Quebec, la glace is just ice"
+   },
+   {
+    "std": "une barquette de fraises",
+    "qc": "un casseau de fraises",
+    "en": "a basket of strawberries",
+    "note": "casseau is Quebec-only"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Je bois ___ lait.",
+   "options": [
+    "de la",
+    "du",
+    "des",
+    "de l'"
+   ],
+   "a": 1,
+   "why": "Lait is masculine: du lait."
+  },
+  {
+   "t": "mcq",
+   "q": "Je ne mange pas ___ viande.",
+   "options": [
+    "de la",
+    "du",
+    "de",
+    "la"
+   ],
+   "a": 2,
+   "why": "After a negative, the partitive becomes de."
+  },
+  {
+   "t": "mcq",
+   "q": "J'adore ___ chocolat.",
+   "options": [
+    "du",
+    "le",
+    "de",
+    "des"
+   ],
+   "a": 1,
+   "why": "After adorer (taste), use the definite article: le chocolat."
+  },
+  {
+   "t": "mcq",
+   "q": "In Quebec, 'une liqueur' is…",
+   "options": [
+    "a sweet alcohol",
+    "a soft drink",
+    "a coffee",
+    "a juice"
+   ],
+   "a": 1,
+   "why": "Liqueur = pop / soft drink in Quebec."
+  },
+  {
+   "t": "fill",
+   "q": "Tu veux ___ eau? (some)",
+   "a": [
+    "de l'"
+   ],
+   "en": "Do you want some water?",
+   "why": "De l' before a vowel."
+  },
+  {
+   "t": "fill",
+   "q": "On achète ___ pommes.",
+   "a": [
+    "des"
+   ],
+   "en": "We're buying apples.",
+   "why": "Plural countable: des."
+  },
+  {
+   "t": "fill",
+   "q": "Elle mange beaucoup ___ légumes.",
+   "a": [
+    "de"
+   ],
+   "en": "She eats a lot of vegetables.",
+   "why": "After beaucoup, just de."
+  },
+  {
+   "t": "fill",
+   "q": "Il n'y a pas ___ œufs.",
+   "a": [
+    "d'"
+   ],
+   "en": "There are no eggs.",
+   "why": "pas de → d' before a vowel."
+  },
+  {
+   "t": "fill",
+   "q": "Je voudrais ___ salade. (some)",
+   "a": [
+    "de la"
+   ],
+   "en": "I would like some salad.",
+   "why": "Salade is feminine: de la."
+  },
+  {
+   "t": "build",
+   "en": "I'd like a kilo of tomatoes.",
+   "a": "Je voudrais un kilo de tomates."
+  },
+  {
+   "t": "build",
+   "en": "We do the groceries on Saturday.",
+   "a": "On fait l'épicerie le samedi."
+  },
+  {
+   "t": "translate",
+   "en": "I don't drink coffee.",
+   "a": [
+    "Je ne bois pas de café.",
+    "Je bois pas de café."
+   ],
+   "why": "pas de café: the article becomes de."
+  },
+  {
+   "t": "translate",
+   "en": "Do you have bread?",
+   "a": [
+    "Tu as du pain?",
+    "Vous avez du pain?",
+    "As-tu du pain?",
+    "Avez-vous du pain?",
+    "Est-ce que tu as du pain?",
+    "Est-ce que vous avez du pain?",
+    "T'as du pain?"
+   ],
+   "why": "Pain is masculine: du pain."
+  },
+  {
+   "t": "translate",
+   "en": "She likes cheese.",
+   "a": [
+    "Elle aime le fromage."
+   ],
+   "why": "Aimer + definite article for things in general."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "le pain",
+   "en": "bread",
+   "g": "m",
+   "ex": "Je mange du pain."
+  },
+  {
+   "fr": "le fromage",
+   "en": "cheese",
+   "g": "m",
+   "ex": "J'achète du fromage."
+  },
+  {
+   "fr": "le lait",
+   "en": "milk",
+   "g": "m",
+   "ex": "Il n'y a plus de lait."
+  },
+  {
+   "fr": "l'eau",
+   "en": "water",
+   "g": "f",
+   "ex": "Je bois de l'eau."
+  },
+  {
+   "fr": "la viande",
+   "en": "meat",
+   "g": "f",
+   "ex": "Il ne mange pas de viande."
+  },
+  {
+   "fr": "l'œuf",
+   "en": "egg",
+   "g": "m",
+   "ex": "Une douzaine d'œufs."
+  },
+  {
+   "fr": "la pomme",
+   "en": "apple",
+   "g": "f",
+   "ex": "Des pommes du Québec."
+  },
+  {
+   "fr": "la carotte",
+   "en": "carrot",
+   "g": "f",
+   "ex": "J'achète des carottes."
+  },
+  {
+   "fr": "la tomate",
+   "en": "tomato",
+   "g": "f",
+   "ex": "Un kilo de tomates."
+  },
+  {
+   "fr": "les légumes",
+   "en": "vegetables",
+   "g": "m",
+   "ex": "Mange tes légumes!"
+  },
+  {
+   "fr": "les fruits",
+   "en": "fruit",
+   "g": "m",
+   "ex": "Elle mange beaucoup de fruits."
+  },
+  {
+   "fr": "l'épicerie",
+   "en": "grocery store; groceries",
+   "g": "f",
+   "ex": "Je fais l'épicerie.",
+   "qc": true
+  },
+  {
+   "fr": "la liqueur",
+   "en": "soft drink, pop",
+   "g": "f",
+   "ex": "Une liqueur, s'il vous plaît.",
+   "qc": true
+  },
+  {
+   "fr": "la patate",
+   "en": "potato",
+   "g": "f",
+   "ex": "Des patates pilées.",
+   "qc": true
+  },
+  {
+   "fr": "le blé d'Inde",
+   "en": "corn",
+   "g": "m",
+   "ex": "Du blé d'Inde en août.",
+   "qc": true
+  },
+  {
+   "fr": "la crème glacée",
+   "en": "ice cream",
+   "g": "f",
+   "ex": "Une crème glacée à la vanille.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "du, de",
+    "tip": "du [dü] has the tight French u; de [duh] is relaxed."
+   },
+   {
+    "fr": "des œufs",
+    "tip": "Liaison: day-ZUH; the f and s of œufs are silent in the plural."
+   },
+   {
+    "fr": "un œuf",
+    "tip": "In the singular, the f is pronounced: uh-NUF."
+   },
+   {
+    "fr": "de l'eau",
+    "tip": "duh-LOH, smooth and quick."
+   },
+   {
+    "fr": "blé d'Inde",
+    "tip": "blé-DINND."
+   },
+   {
+    "fr": "beaucoup de",
+    "tip": "boh-koo-duh; in speech often boh-koo-d'."
+   }
+  ],
+  "title": "Au dépanneur",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Bonjour! Vous avez du lait?",
+    "en": "Hello! Do you have milk?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, dans le frigo, au fond.",
+    "en": "Yes, in the fridge, at the back."
+   },
+   {
+    "s": "A",
+    "fr": "Et du pain?",
+    "en": "And bread?"
+   },
+   {
+    "s": "B",
+    "fr": "Désolé, il n'y a plus de pain aujourd'hui.",
+    "en": "Sorry, there's no more bread today."
+   },
+   {
+    "s": "A",
+    "fr": "Pas de problème. Je prends aussi deux liqueurs et des chips.",
+    "en": "No problem. I'll also take two soft drinks and some chips."
+   },
+   {
+    "s": "B",
+    "fr": "Autre chose? On a des casseaux de fraises du Québec.",
+    "en": "Anything else? We have baskets of Quebec strawberries."
+   },
+   {
+    "s": "A",
+    "fr": "Oh oui, un casseau, s'il vous plaît!",
+    "en": "Oh yes, one basket, please!"
+   },
+   {
+    "s": "B",
+    "fr": "Ça fait douze dollars.",
+    "en": "That's twelve dollars."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What is not available today?",
+    "options": [
+     "Milk",
+     "Bread",
+     "Strawberries"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does A buy to drink?",
+    "options": [
+     "Two soft drinks",
+     "Two beers",
+     "Two juices"
+    ],
+    "a": 0
+   },
+   {
+    "q": "How much does it cost?",
+    "options": [
+     "$10",
+     "$12",
+     "$20"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Say what you usually eat for breakfast, using du, de la or des.",
+   "model": "Le matin, je mange du pain avec du fromage et je bois du café."
+  },
+  {
+   "prompt": "Say two foods you don't eat or drink.",
+   "model": "Je ne mange pas de viande et je ne bois pas de liqueur."
+  },
+  {
+   "prompt": "Ask for three things at the dépanneur, with a quantity for each.",
+   "model": "Je voudrais une bouteille de lait, un sac de chips et une douzaine d'œufs, s'il vous plaît."
+  }
+ ],
+ "write": {
+  "prompt": "Write your grocery list for the week as 5–6 sentences: what you buy, how much, and one thing you never buy.",
+  "model": "Samedi, je fais l'épicerie. J'achète du pain, du lait et des œufs. Je prends aussi un kilo de pommes et un casseau de fraises. Pour le souper, j'achète des patates et du poulet. Je n'achète jamais de liqueur."
+ },
+ "quiz": [
+  {
+   "q": "Which partitive goes with 'viande' (f)?",
+   "options": [
+    "du",
+    "de la",
+    "des",
+    "de l'"
+   ],
+   "a": 1,
+   "why": "Feminine singular: de la viande."
+  },
+  {
+   "q": "'Je n'ai pas ___ argent.'",
+   "options": [
+    "de l'",
+    "d'",
+    "du",
+    "des"
+   ],
+   "a": 1,
+   "why": "After pas, de → d' before a vowel."
+  },
+  {
+   "q": "Which sentence is correct?",
+   "options": [
+    "J'aime du café.",
+    "J'aime le café.",
+    "J'aime de café.",
+    "J'aime des café."
+   ],
+   "a": 1,
+   "why": "Taste verbs take le / la / les."
+  },
+  {
+   "q": "'Un peu ___ sucre'",
+   "options": [
+    "du",
+    "de",
+    "de la",
+    "le"
+   ],
+   "a": 1,
+   "why": "After a quantity: de."
+  },
+  {
+   "q": "'Faire l'épicerie' in Quebec means…",
+   "options": [
+    "to run a grocery store",
+    "to do the groceries",
+    "to cook",
+    "to work at the corner store"
+   ],
+   "a": 1,
+   "why": "Faire l'épicerie = to do the grocery shopping."
+  },
+  {
+   "q": "Quebec 'des patates' are…",
+   "options": [
+    "potatoes",
+    "pasta",
+    "pastries",
+    "patties"
+   ],
+   "a": 0,
+   "why": "Patate = pomme de terre."
+  },
+  {
+   "q": "'Ce n'est pas ___ sucre, c'est du sel.'",
+   "options": [
+    "de",
+    "du",
+    "le",
+    "d'"
+   ],
+   "a": 1,
+   "why": "With être, the article stays after the negative."
+  },
+  {
+   "q": "Quebec 'crème glacée' in France is usually…",
+   "options": [
+    "la glace",
+    "la crème",
+    "le sorbet glacé",
+    "la neige"
+   ],
+   "a": 0,
+   "why": "France says une glace; Quebec says crème glacée."
+  },
+  {
+   "q": "'Une douzaine ___ œufs'",
+   "options": [
+    "des",
+    "de",
+    "d'",
+    "du"
+   ],
+   "a": 2,
+   "why": "Quantity + de, elided before a vowel: d'œufs."
+  }
+ ]
+}

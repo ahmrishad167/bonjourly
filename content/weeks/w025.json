@@ -1,0 +1,687 @@
+{
+ "w": 25,
+ "title": "Present tense, common -re and 3rd group verbs: prendre, mettre, venir, partir",
+ "goal": "By the end of this lesson you can conjugate prendre, mettre, venir and partir (plus sortir and dormir) in the present and use them in everyday sentences about transport, food, clothes and coming and going.",
+ "learn": [
+  {
+   "h": "Prendre and mettre",
+   "body": [
+    "*Prendre* (to take) is used for transport, food and drinks: *prendre le métro*, *prendre un café*. Watch the plural: the d disappears and *ils prennent* has a double n.",
+    "*Mettre* (to put, to put on) is used for objects and clothes: *Je mets mon manteau.* One t in the singular, two t's in the plural.",
+    "Verbs built on them follow the same pattern: *apprendre* (to learn), *comprendre* (to understand), *promettre* (to promise), *permettre* (to allow)."
+   ],
+   "table": {
+    "head": [
+     "Pronoun",
+     "prendre",
+     "mettre"
+    ],
+    "rows": [
+     [
+      "je",
+      "prends",
+      "mets"
+     ],
+     [
+      "tu",
+      "prends",
+      "mets"
+     ],
+     [
+      "il / elle / on",
+      "prend",
+      "met"
+     ],
+     [
+      "nous",
+      "prenons",
+      "mettons"
+     ],
+     [
+      "vous",
+      "prenez",
+      "mettez"
+     ],
+     [
+      "ils / elles",
+      "prennent",
+      "mettent"
+     ]
+    ]
+   },
+   "tip": "Il prend (d), il met (t): the singular keeps the last letter of the stem."
+  },
+  {
+   "h": "Venir",
+   "body": [
+    "*Venir* (to come) changes its vowel: *je viens* but *nous venons*, and *ils viennent* with a double n. *Revenir* (to come back) and *devenir* (to become) work the same way.",
+    "*Venir de* + place = to come from: *Je viens de Toronto.* *Venir de* + infinitive = to have just done something: *Je viens de manger.* (I just ate.)"
+   ],
+   "table": {
+    "head": [
+     "Pronoun",
+     "venir"
+    ],
+    "rows": [
+     [
+      "je",
+      "viens"
+     ],
+     [
+      "tu",
+      "viens"
+     ],
+     [
+      "il / elle / on",
+      "vient"
+     ],
+     [
+      "nous",
+      "venons"
+     ],
+     [
+      "vous",
+      "venez"
+     ],
+     [
+      "ils / elles",
+      "viennent"
+     ]
+    ]
+   },
+   "tip": "Je viens de… has two meanings: 'I'm from' (+ place) and 'I just' (+ verb)."
+  },
+  {
+   "h": "Partir, sortir, dormir",
+   "body": [
+    "These -ir verbs do NOT take *-iss-*. In the singular, drop the last consonant of the stem: *partir → je pars*, *sortir → je sors*, *dormir → je dors*. In the plural, keep it: *nous partons*, *ils sortent*, *vous dormez*.",
+    "*Partir* = to leave (a place): *Je pars à huit heures.* *Sortir* = to go out: *On sort ce soir.* *Dormir* = to sleep."
+   ],
+   "table": {
+    "head": [
+     "Pronoun",
+     "partir",
+     "sortir",
+     "dormir"
+    ],
+    "rows": [
+     [
+      "je / tu",
+      "pars",
+      "sors",
+      "dors"
+     ],
+     [
+      "il / elle / on",
+      "part",
+      "sort",
+      "dort"
+     ],
+     [
+      "nous",
+      "partons",
+      "sortons",
+      "dormons"
+     ],
+     [
+      "vous",
+      "partez",
+      "sortez",
+      "dormez"
+     ],
+     [
+      "ils / elles",
+      "partent",
+      "sortent",
+      "dorment"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Quebec: prendre une marche and other calques",
+   "body": [
+    "In Quebec, you'll hear *prendre une marche* (take a walk) everywhere. It's a calque of English; the standard form is *faire une promenade* or *aller marcher*, which Quebecers also say.",
+    "Also common: *Viens-t'en!* (Come on! Come here!), and in speech *j'pars*, *y viennent* (ils viennent), *a sort* (elle sort)."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Je prends le métro tous les matins.",
+   "en": "I take the metro every morning."
+  },
+  {
+   "fr": "Tu prends un café?",
+   "en": "Will you have a coffee?",
+   "note": "prendre for food and drinks"
+  },
+  {
+   "fr": "Ils prennent l'autobus 55.",
+   "en": "They take the 55 bus.",
+   "note": "double n in prennent"
+  },
+  {
+   "fr": "Je mets mon manteau, il fait froid.",
+   "en": "I'm putting on my coat, it's cold."
+  },
+  {
+   "fr": "Où est-ce que vous mettez les clés?",
+   "en": "Where do you put the keys?"
+  },
+  {
+   "fr": "Nous apprenons le français.",
+   "en": "We are learning French.",
+   "note": "apprendre follows prendre"
+  },
+  {
+   "fr": "Je ne comprends pas.",
+   "en": "I don't understand."
+  },
+  {
+   "fr": "Elle vient de Gatineau.",
+   "en": "She comes from Gatineau.",
+   "note": "venir de + place"
+  },
+  {
+   "fr": "Je viens de manger.",
+   "en": "I just ate.",
+   "note": "venir de + infinitive = just did"
+  },
+  {
+   "fr": "Vous venez avec nous?",
+   "en": "Are you coming with us?"
+  },
+  {
+   "fr": "Mes amis viennent samedi.",
+   "en": "My friends are coming on Saturday."
+  },
+  {
+   "fr": "Je pars à huit heures.",
+   "en": "I leave at eight."
+  },
+  {
+   "fr": "Le train part dans cinq minutes.",
+   "en": "The train leaves in five minutes."
+  },
+  {
+   "fr": "On sort ce soir?",
+   "en": "Are we going out tonight?"
+  },
+  {
+   "fr": "Les enfants dorment.",
+   "en": "The children are sleeping."
+  },
+  {
+   "fr": "Il revient demain.",
+   "en": "He's coming back tomorrow.",
+   "note": "revenir follows venir"
+  }
+ ],
+ "quebec": {
+  "intro": "Quebec French borrows the shape of some English expressions: 'prendre une marche' (take a walk) is the classic. It's normal in conversation; in formal writing use 'faire une promenade'.",
+  "items": [
+   {
+    "std": "Je vais faire une promenade.",
+    "qc": "J'vas prendre une marche.",
+    "en": "I'm going to take a walk.",
+    "note": "prendre une marche: everyday Quebec, a calque of English"
+   },
+   {
+    "std": "Viens ici! / Viens!",
+    "qc": "Viens-t'en!",
+    "en": "Come here! Come on!",
+    "note": "very common in Quebec, informal"
+   },
+   {
+    "std": "Je pars.",
+    "qc": "J'pars. / J'm'en vas.",
+    "en": "I'm leaving.",
+    "note": "j'm'en vas = je m'en vais (I'm off), casual"
+   },
+   {
+    "std": "Ils viennent ce soir.",
+    "qc": "Y viennent à soir.",
+    "en": "They're coming tonight.",
+    "note": "à soir = ce soir in Quebec speech"
+   },
+   {
+    "std": "Elle sort avec ses amies.",
+    "qc": "A sort avec ses chums.",
+    "en": "She's going out with her friends.",
+    "note": "chum = friend (also boyfriend), informal"
+   },
+   {
+    "std": "Je tente ma chance.",
+    "qc": "J'prends une chance.",
+    "en": "I'm taking a chance.",
+    "note": "another English calque, very common in Quebec speech"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Ils ___ le métro.",
+   "options": [
+    "prendent",
+    "prenent",
+    "prennent",
+    "prends"
+   ],
+   "a": 2,
+   "why": "ils prennent: no d, double n."
+  },
+  {
+   "t": "mcq",
+   "q": "'Je viens de manger' means…",
+   "options": [
+    "I come to eat",
+    "I just ate",
+    "I'm going to eat",
+    "I come from eating"
+   ],
+   "a": 1,
+   "why": "venir de + infinitive = to have just done."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is the correct 'je' form of partir?",
+   "options": [
+    "je partis",
+    "je part",
+    "je pars",
+    "je partes"
+   ],
+   "a": 2,
+   "why": "Drop the t of the stem in the singular: je pars."
+  },
+  {
+   "t": "mcq",
+   "q": "'Prendre une marche' is…",
+   "options": [
+    "standard French",
+    "a Quebec calque of 'take a walk'",
+    "a mistake no one says",
+    "a hiking term"
+   ],
+   "a": 1,
+   "why": "Standard: faire une promenade; Quebec speech: prendre une marche."
+  },
+  {
+   "t": "fill",
+   "q": "Je ___ mon manteau. (mettre)",
+   "a": [
+    "mets"
+   ],
+   "en": "I'm putting on my coat.",
+   "why": "je mets: one t."
+  },
+  {
+   "t": "fill",
+   "q": "Nous ___ le français. (apprendre)",
+   "a": [
+    "apprenons"
+   ],
+   "en": "We are learning French.",
+   "why": "nous apprenons, like prenons."
+  },
+  {
+   "t": "fill",
+   "q": "Mes amis ___ samedi. (venir)",
+   "a": [
+    "viennent"
+   ],
+   "en": "My friends are coming on Saturday.",
+   "why": "ils viennent: double n."
+  },
+  {
+   "t": "fill",
+   "q": "Les enfants ___ . (dormir)",
+   "a": [
+    "dorment"
+   ],
+   "en": "The children are sleeping.",
+   "why": "Plural keeps the m: ils dorment."
+  },
+  {
+   "t": "build",
+   "en": "I don't understand.",
+   "a": "Je ne comprends pas."
+  },
+  {
+   "t": "build",
+   "en": "The train leaves in five minutes.",
+   "a": "Le train part dans cinq minutes."
+  },
+  {
+   "t": "build",
+   "en": "She comes from Gatineau.",
+   "a": "Elle vient de Gatineau."
+  },
+  {
+   "t": "translate",
+   "en": "Are you coming with us?",
+   "a": [
+    "Tu viens avec nous?",
+    "Vous venez avec nous?",
+    "Est-ce que tu viens avec nous?",
+    "Est-ce que vous venez avec nous?",
+    "Viens-tu avec nous?",
+    "Venez-vous avec nous?"
+   ],
+   "why": "tu viens / vous venez."
+  },
+  {
+   "t": "translate",
+   "en": "We're going out tonight.",
+   "a": [
+    "On sort ce soir.",
+    "Nous sortons ce soir."
+   ],
+   "why": "on sort / nous sortons."
+  },
+  {
+   "t": "translate",
+   "en": "I'm having a coffee.",
+   "a": [
+    "Je prends un café."
+   ],
+   "why": "Use prendre for food and drinks."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "prendre",
+   "en": "to take; to have (food, drink)",
+   "ex": "Je prends le métro."
+  },
+  {
+   "fr": "apprendre",
+   "en": "to learn",
+   "ex": "J'apprends le français."
+  },
+  {
+   "fr": "comprendre",
+   "en": "to understand",
+   "ex": "Tu comprends?"
+  },
+  {
+   "fr": "mettre",
+   "en": "to put, to put on",
+   "ex": "Il met ses bottes."
+  },
+  {
+   "fr": "promettre",
+   "en": "to promise",
+   "ex": "Je promets."
+  },
+  {
+   "fr": "venir",
+   "en": "to come",
+   "ex": "Tu viens ce soir?"
+  },
+  {
+   "fr": "venir de (+ verb)",
+   "en": "to have just (done)",
+   "ex": "Je viens d'arriver."
+  },
+  {
+   "fr": "revenir",
+   "en": "to come back",
+   "ex": "Elle revient lundi."
+  },
+  {
+   "fr": "devenir",
+   "en": "to become",
+   "ex": "Il devient prof."
+  },
+  {
+   "fr": "partir",
+   "en": "to leave",
+   "ex": "Je pars à huit heures."
+  },
+  {
+   "fr": "sortir",
+   "en": "to go out",
+   "ex": "On sort ce soir."
+  },
+  {
+   "fr": "dormir",
+   "en": "to sleep",
+   "ex": "Je dors bien."
+  },
+  {
+   "fr": "le manteau",
+   "en": "coat",
+   "g": "m",
+   "ex": "Mets ton manteau."
+  },
+  {
+   "fr": "prendre une marche",
+   "en": "to take a walk",
+   "ex": "On prend une marche après le souper.",
+   "qc": true
+  },
+  {
+   "fr": "Viens-t'en!",
+   "en": "Come on! Come here!",
+   "ex": "Viens-t'en, on part!",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "je prends, ils prennent",
+    "tip": "PRAHN (nasal) vs PRENN (not nasal, like 'pren')."
+   },
+   {
+    "fr": "il met, ils mettent",
+    "tip": "MÈ vs MÈTT."
+   },
+   {
+    "fr": "je viens, ils viennent",
+    "tip": "VYIN (nasal) vs VYÈNN."
+   },
+   {
+    "fr": "nous venons",
+    "tip": "vuh-NON; the first e is light."
+   },
+   {
+    "fr": "je pars, ils partent",
+    "tip": "PAR vs PART: the plural lets you hear the t."
+   },
+   {
+    "fr": "Viens-t'en!",
+    "tip": "vyin-TAHN, one quick phrase."
+   }
+  ],
+  "title": "Une marche après le souper",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Je prends une marche après le souper. Tu viens?",
+    "en": "I'm taking a walk after supper. Are you coming?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, mais je viens de manger. Deux minutes!",
+    "en": "Yes, but I just ate. Two minutes!"
+   },
+   {
+    "s": "A",
+    "fr": "Mets ton manteau, il fait froid.",
+    "en": "Put your coat on, it's cold."
+   },
+   {
+    "s": "B",
+    "fr": "Je mets aussi ma tuque. Les enfants viennent?",
+    "en": "I'm putting my toque on too. Are the kids coming?"
+   },
+   {
+    "s": "A",
+    "fr": "Non, ils dorment déjà.",
+    "en": "No, they're already asleep."
+   },
+   {
+    "s": "B",
+    "fr": "Parfait. On part quand?",
+    "en": "Perfect. When do we leave?"
+   },
+   {
+    "s": "A",
+    "fr": "Tout de suite. Viens-t'en!",
+    "en": "Right now. Come on!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Why does B need two minutes?",
+    "options": [
+     "B is sleeping",
+     "B just ate",
+     "B can't find the coat"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does B put on besides the coat?",
+    "options": [
+     "Boots",
+     "A toque",
+     "Mittens"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Why aren't the children coming?",
+    "options": [
+     "They're sleeping",
+     "They're at school",
+     "It's too cold"
+    ],
+    "a": 0
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Say how you get to work or school and when you leave home.",
+   "model": "Je pars à sept heures et demie. Je prends l'autobus, puis le métro."
+  },
+  {
+   "prompt": "Say where you come from, and something you have just done.",
+   "model": "Je viens de Toronto. Je viens de finir mon café."
+  },
+  {
+   "prompt": "Suggest a walk after supper, the standard way and the Quebec way.",
+   "model": "On fait une promenade après le souper? / On prend une marche après le souper?"
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences about a typical morning: when you leave, what you take, what you put on, who comes with you.",
+  "model": "Le matin, je prends un café et des rôties. Je mets mon manteau et mes bottes. Je pars à huit heures. Je prends l'autobus avec ma voisine. Elle vient de Sherbrooke. Le soir, je reviens à six heures."
+ },
+ "quiz": [
+  {
+   "q": "'Nous ___ (prendre)'",
+   "options": [
+    "prendons",
+    "prenons",
+    "prennons",
+    "prendrons"
+   ],
+   "a": 1,
+   "why": "nous prenons: no d, one n."
+  },
+  {
+   "q": "Which verb follows the prendre pattern?",
+   "options": [
+    "comprendre",
+    "rendre",
+    "vendre",
+    "attendre"
+   ],
+   "a": 0,
+   "why": "Comprendre and apprendre conjugate like prendre; rendre, vendre and attendre are regular -re verbs."
+  },
+  {
+   "q": "'Elle vient de Paris' means…",
+   "options": [
+    "She just did Paris",
+    "She comes from Paris",
+    "She's going to Paris",
+    "She's coming to Paris"
+   ],
+   "a": 1,
+   "why": "venir de + place = come from."
+  },
+  {
+   "q": "'Ils ___ (mettre) la table.'",
+   "options": [
+    "mettent",
+    "metent",
+    "mets",
+    "mettont"
+   ],
+   "a": 0,
+   "why": "ils mettent: double t."
+  },
+  {
+   "q": "'Je dors' comes from…",
+   "options": [
+    "dorer",
+    "dormir",
+    "dire",
+    "donner"
+   ],
+   "a": 1,
+   "why": "dormir: je dors, nous dormons."
+  },
+  {
+   "q": "Partir vs sortir: 'We're going out tonight' is…",
+   "options": [
+    "On part ce soir.",
+    "On sort ce soir.",
+    "On dort ce soir.",
+    "On met ce soir."
+   ],
+   "a": 1,
+   "why": "sortir = go out; partir = leave."
+  },
+  {
+   "q": "'Viens-t'en!' is…",
+   "options": [
+    "a polite formal request",
+    "an informal Quebec 'Come on / come here'",
+    "a question",
+    "a negative order"
+   ],
+   "a": 1,
+   "why": "Very common informal Quebec expression."
+  },
+  {
+   "q": "'Je viens d'arriver' means…",
+   "options": [
+    "I'm arriving",
+    "I just arrived",
+    "I'm going to arrive",
+    "I come to arrive"
+   ],
+   "a": 1,
+   "why": "venir de + infinitive = just did."
+  },
+  {
+   "q": "Standard equivalent of 'prendre une marche'?",
+   "options": [
+    "faire une promenade",
+    "prendre une promenade",
+    "faire une marche-arrière",
+    "marcher une marche"
+   ],
+   "a": 0,
+   "why": "Faire une promenade (or aller marcher)."
+  }
+ ]
+}

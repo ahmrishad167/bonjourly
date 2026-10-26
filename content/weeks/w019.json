@@ -1,0 +1,705 @@
+{
+ "w": 19,
+ "title": "Review and checkpoint 1",
+ "goal": "By the end of this lesson you have reviewed lessons 1–18 (sounds, articles, pronouns, être, avoir, -er verbs, aller/faire/vouloir/pouvoir, negation, questions, il y a, numbers, dates and time) and can follow a short, casual Quebec conversation.",
+ "learn": [
+  {
+   "h": "Sounds and spelling (lessons 1–4)",
+   "body": [
+    "Letter names: E = 'uh', I = 'ee', G = 'zhay', J = 'zhee'. Combinations: *ou* = oo, *oi* = wa, *au/eau* = oh, *ch* = sh, *gn* = ny. Nasals: *an/en*, *in/ain*, *on* — never pronounce the n.",
+    "Accents matter: *a / à*, *ou / où*, *la / là*. Final consonants are usually silent except c, r, f, l (CaReFuL), and liaison links words: *les‿amis*, *vous‿êtes*.",
+    "Quebec sounds: *tu* → [tsü], *dix* → [dzis]; *père* → 'paère'; long *pâte* vs short *patte*; *tout* → 'toutt'."
+   ]
+  },
+  {
+   "h": "Nouns, articles, pronouns (lessons 5–8)",
+   "body": [
+    "Every noun has a gender: *le / la / l' / les*, *un / une / des*. Endings help: *-age, -ment, -eau* are usually masculine; *-tion, -té, -ure* usually feminine.",
+    "Pronouns: *je, tu, il, elle, on, nous, vous, ils, elles*. In speech, *on* = we. *Tu* is common in Quebec, but use *vous* with older strangers and in formal service.",
+    "Greetings: *Bonjour*, *Salut*, *Allô*, *Ça va? — Pas pire!*, *Bonne journée!*, *Bienvenue!* (you're welcome)."
+   ]
+  },
+  {
+   "h": "Core verbs (lessons 9–11)",
+   "body": [
+    "Learn these by heart; they appear in almost every sentence."
+   ],
+   "table": {
+    "head": [
+     "",
+     "être",
+     "avoir",
+     "aller",
+     "faire",
+     "vouloir",
+     "pouvoir"
+    ],
+    "rows": [
+     [
+      "je",
+      "suis",
+      "ai",
+      "vais",
+      "fais",
+      "veux",
+      "peux"
+     ],
+     [
+      "tu",
+      "es",
+      "as",
+      "vas",
+      "fais",
+      "veux",
+      "peux"
+     ],
+     [
+      "il/elle/on",
+      "est",
+      "a",
+      "va",
+      "fait",
+      "veut",
+      "peut"
+     ],
+     [
+      "nous",
+      "sommes",
+      "avons",
+      "allons",
+      "faisons",
+      "voulons",
+      "pouvons"
+     ],
+     [
+      "vous",
+      "êtes",
+      "avez",
+      "allez",
+      "faites",
+      "voulez",
+      "pouvez"
+     ],
+     [
+      "ils/elles",
+      "sont",
+      "ont",
+      "vont",
+      "font",
+      "veulent",
+      "peuvent"
+     ]
+    ]
+   },
+   "tip": "Regular -er verbs: -e, -es, -e, -ons, -ez, -ent (je parle … ils parlent). Quebec speech: chu, t'es, t'as, j'vas."
+  },
+  {
+   "h": "Negation, questions, il y a (lessons 12–15)",
+   "body": [
+    "Negation: *ne … pas* around the verb; *un/une/des* → *de* after it: *Je n'ai pas de voiture*. In speech, *ne* drops: *J'sais pas*.",
+    "Questions: intonation (*Tu viens?*), *est-ce que*, inversion (*Venez-vous?*), and Quebec *-tu* (*Tu viens-tu?*). Question words: *qui, qu'est-ce que / quoi, où, quand, comment, combien, pourquoi, quel*.",
+    "*Il y a* = there is/are (spoken *y'a*); *il n'y a pas de*; *il y a* + time = ago."
+   ]
+  },
+  {
+   "h": "Numbers, dates and time (lessons 16–18)",
+   "body": [
+    "70 = *soixante-dix*, 80 = *quatre-vingts*, 90 = *quatre-vingt-dix* (never septante/nonante in Quebec). Money slang: *piasse*, *cenne*, *trente sous*.",
+    "Dates: *le 24 juin*, *le premier juillet*; days and months are lowercase; weekend = *la fin de semaine*. Time: *Il est trois heures et quart / et demie / moins quart*; *midi*, *minuit*; signs use *15 h 30*."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Bonjour! Je m'appelle Ryan. Ça s'écrit R-Y-A-N.",
+   "en": "Hello! My name is Ryan. It's spelled R-Y-A-N.",
+   "note": "lessons 1 and 8"
+  },
+  {
+   "fr": "Les enfants sont à l'école.",
+   "en": "The children are at school.",
+   "note": "liaison les‿enfants; articles"
+  },
+  {
+   "fr": "J'ai une question.",
+   "en": "I have a question.",
+   "note": "-tion = feminine; avoir"
+  },
+  {
+   "fr": "On est à Montréal depuis deux ans.",
+   "en": "We've been in Montreal for two years.",
+   "note": "on = we"
+  },
+  {
+   "fr": "Vous êtes madame Côté?",
+   "en": "Are you Mrs. Côté?",
+   "note": "vous with an older stranger"
+  },
+  {
+   "fr": "Chu fatigué, mais j'ai faim.",
+   "en": "I'm tired, but I'm hungry.",
+   "note": "Quebec chu; avoir faim"
+  },
+  {
+   "fr": "Je travaille au centre-ville et j'habite à Verdun.",
+   "en": "I work downtown and live in Verdun.",
+   "note": "-er verbs; à + le = au"
+  },
+  {
+   "fr": "J'vas faire l'épicerie samedi.",
+   "en": "I'm going to do the groceries Saturday.",
+   "note": "Quebec j'vas; aller + infinitive"
+  },
+  {
+   "fr": "Je ne peux pas venir ce soir.",
+   "en": "I can't come tonight.",
+   "note": "negation around peux"
+  },
+  {
+   "fr": "Y'a pas de lait dans le frigo.",
+   "en": "There's no milk in the fridge.",
+   "note": "spoken y'a pas de"
+  },
+  {
+   "fr": "Tu viens-tu au party vendredi?",
+   "en": "Are you coming to the party Friday?",
+   "note": "Quebec -tu question"
+  },
+  {
+   "fr": "Comment ça coûte, le café?",
+   "en": "How much is the coffee?",
+   "note": "informal Quebec; standard: combien"
+  },
+  {
+   "fr": "Ça fait quatre-vingt-quinze dollars.",
+   "en": "That comes to ninety-five dollars.",
+   "note": "4 × 20 + 15"
+  },
+  {
+   "fr": "Mon anniversaire, c'est le premier juillet.",
+   "en": "My birthday is July 1st.",
+   "note": "le premier"
+  },
+  {
+   "fr": "Le train part à 17 h 45.",
+   "en": "The train leaves at 5:45 p.m.",
+   "note": "dix-sept heures quarante-cinq"
+  }
+ ],
+ "quebec": {
+  "intro": "This checkpoint's Quebec focus is listening: a short casual dialogue full of the spoken forms you've met (chu, t'as, j'vas, y'a, -tu, pas pire). Here they are side by side with standard French.",
+  "items": [
+   {
+    "std": "Salut, comment ça va?",
+    "qc": "Allô, ça va? — Pas pire, toi?",
+    "en": "Hi, how are you? — Pretty good, you?",
+    "note": "informal greeting"
+   },
+   {
+    "std": "Je suis en retard.",
+    "qc": "Chu en r'tard.",
+    "en": "I'm late.",
+    "note": "informal"
+   },
+   {
+    "std": "Est-ce que tu as faim?",
+    "qc": "T'as-tu faim?",
+    "en": "Are you hungry?",
+    "note": "informal: t'as + -tu"
+   },
+   {
+    "std": "Je vais au dépanneur.",
+    "qc": "J'vas au dép.",
+    "en": "I'm going to the convenience store.",
+    "note": "informal"
+   },
+   {
+    "std": "Il n'y a pas de problème.",
+    "qc": "Y'a pas de trouble.",
+    "en": "No problem.",
+    "note": "informal; trouble (anglicism) is very common"
+   },
+   {
+    "std": "Bon week-end!",
+    "qc": "Bonne fin de semaine!",
+    "en": "Have a good weekend!",
+    "note": "standard Quebec French"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Which letter is called 'zhay'?",
+   "options": [
+    "J",
+    "G",
+    "Z",
+    "E"
+   ],
+   "a": 1,
+   "why": "G = zhay, J = zhee (lesson 1)."
+  },
+  {
+   "t": "mcq",
+   "q": "Choose the article: '___ question'",
+   "options": [
+    "le",
+    "la",
+    "un",
+    "l'"
+   ],
+   "a": 1,
+   "why": "-tion words are feminine (lesson 6)."
+  },
+  {
+   "t": "mcq",
+   "q": "Ils ___ deux enfants. (avoir)",
+   "options": [
+    "sont",
+    "ont",
+    "avons",
+    "a"
+   ],
+   "a": 1,
+   "why": "ils ont (lesson 9)."
+  },
+  {
+   "t": "mcq",
+   "q": "'Tu viens-tu?' is…",
+   "options": [
+    "a mistake",
+    "a casual Quebec yes/no question",
+    "a formal question",
+    "a negative"
+   ],
+   "a": 1,
+   "why": "-tu is the Quebec question particle (lesson 13)."
+  },
+  {
+   "t": "mcq",
+   "q": "8:45 in casual Quebec speech is…",
+   "options": [
+    "huit heures et quart",
+    "neuf heures moins quart",
+    "huit heures moins quart",
+    "neuf heures et demie"
+   ],
+   "a": 1,
+   "why": "9:00 minus a quarter (lesson 18)."
+  },
+  {
+   "t": "fill",
+   "q": "Nous ___ français. (parler)",
+   "a": [
+    "parlons"
+   ],
+   "en": "We speak French.",
+   "why": "nous → -ons (lesson 10)."
+  },
+  {
+   "t": "fill",
+   "q": "Vous ___ quoi ce soir? (faire)",
+   "a": [
+    "faites"
+   ],
+   "en": "What are you doing tonight?",
+   "why": "vous faites (lesson 11)."
+  },
+  {
+   "t": "fill",
+   "q": "Je n'ai pas ___ voiture. (a)",
+   "a": [
+    "de"
+   ],
+   "en": "I don't have a car.",
+   "why": "une → de after a negative (lesson 12)."
+  },
+  {
+   "t": "fill",
+   "q": "Il ___ a un parc au coin. (there)",
+   "a": [
+    "y"
+   ],
+   "en": "There's a park on the corner.",
+   "why": "il y a (lesson 15)."
+  },
+  {
+   "t": "fill",
+   "q": "Ça coûte ___ dollars. (70)",
+   "a": [
+    "soixante-dix"
+   ],
+   "en": "It costs seventy dollars.",
+   "why": "60 + 10 (lesson 16)."
+  },
+  {
+   "t": "build",
+   "en": "What time is it?",
+   "a": "Quelle heure est-il?"
+  },
+  {
+   "t": "build",
+   "en": "Where do you live?",
+   "a": "Où est-ce que tu habites?"
+  },
+  {
+   "t": "translate",
+   "en": "I'm not working on Monday.",
+   "a": [
+    "Je ne travaille pas lundi.",
+    "Je travaille pas lundi.",
+    "J'travaille pas lundi."
+   ],
+   "why": "lundi without le = this Monday (lessons 12, 17)."
+  },
+  {
+   "t": "translate",
+   "en": "We want to go to the movies.",
+   "a": [
+    "On veut aller au cinéma.",
+    "Nous voulons aller au cinéma.",
+    "On veut aller aux vues."
+   ],
+   "why": "vouloir + infinitive; à + le = au (lesson 11)."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "s'appeler",
+   "en": "to be called",
+   "ex": "Je m'appelle Ryan."
+  },
+  {
+   "fr": "épeler",
+   "en": "to spell",
+   "ex": "Pouvez-vous épeler?"
+  },
+  {
+   "fr": "habiter",
+   "en": "to live",
+   "ex": "J'habite à Verdun."
+  },
+  {
+   "fr": "travailler",
+   "en": "to work",
+   "ex": "Je travaille au centre-ville."
+  },
+  {
+   "fr": "faire l'épicerie",
+   "en": "to do the groceries",
+   "ex": "On fait l'épicerie samedi.",
+   "qc": true
+  },
+  {
+   "fr": "le dépanneur (le dép)",
+   "en": "convenience store",
+   "g": "m",
+   "ex": "J'vas au dép.",
+   "qc": true
+  },
+  {
+   "fr": "le party",
+   "en": "party",
+   "g": "m",
+   "ex": "Y'a un party vendredi.",
+   "qc": true
+  },
+  {
+   "fr": "la fin de semaine",
+   "en": "weekend",
+   "g": "f",
+   "ex": "Bonne fin de semaine!",
+   "qc": true
+  },
+  {
+   "fr": "pas pire",
+   "en": "pretty good, not bad",
+   "ex": "Ça va? — Pas pire!",
+   "qc": true
+  },
+  {
+   "fr": "le trouble",
+   "en": "trouble, hassle (informal)",
+   "g": "m",
+   "ex": "Pas de trouble!",
+   "qc": true
+  },
+  {
+   "fr": "le frigo",
+   "en": "fridge",
+   "g": "m",
+   "ex": "Y'a rien dans le frigo."
+  },
+  {
+   "fr": "en retard",
+   "en": "late",
+   "ex": "Chu en retard!"
+  },
+  {
+   "fr": "le centre-ville",
+   "en": "downtown",
+   "g": "m",
+   "ex": "On va au centre-ville."
+  },
+  {
+   "fr": "le métro",
+   "en": "subway",
+   "g": "m",
+   "ex": "Je prends le métro."
+  },
+  {
+   "fr": "quand",
+   "en": "when",
+   "ex": "Tu arrives quand?"
+  },
+  {
+   "fr": "combien",
+   "en": "how much, how many",
+   "ex": "Combien ça coûte?"
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "Tu viens-tu?",
+    "tip": "Quebec: tsu vyan-TSU, rising at the end."
+   },
+   {
+    "fr": "chu",
+    "tip": "SHÜ: casual je suis."
+   },
+   {
+    "fr": "y'a pas",
+    "tip": "ya PA: casual il n'y a pas."
+   },
+   {
+    "fr": "j'vas",
+    "tip": "zhvaw: casual je vais."
+   },
+   {
+    "fr": "quatre-vingt-quinze",
+    "tip": "katr-van-KANZ."
+   },
+   {
+    "fr": "neuf heures moins quart",
+    "tip": "nuh-vur mwan KAR."
+   },
+   {
+    "fr": "pas pire",
+    "tip": "pa PEER: Quebec for 'pretty good'."
+   }
+  ],
+  "title": "Vendredi soir",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Allô Karine! Ça va?",
+    "en": "Hi Karine! How's it going?"
+   },
+   {
+    "s": "B",
+    "fr": "Pas pire, toi? Chu un peu fatiguée.",
+    "en": "Pretty good, you? I'm a bit tired."
+   },
+   {
+    "s": "A",
+    "fr": "Y'a un party chez Marc ce soir. Tu viens-tu?",
+    "en": "There's a party at Marc's tonight. Are you coming?"
+   },
+   {
+    "s": "B",
+    "fr": "C'est à quelle heure?",
+    "en": "What time is it?"
+   },
+   {
+    "s": "A",
+    "fr": "À neuf heures moins quart. C'est au métro Jean-Talon.",
+    "en": "At a quarter to nine. It's at Jean-Talon metro."
+   },
+   {
+    "s": "B",
+    "fr": "OK. J'vas passer au dép avant. Y'a pas de bière chez nous.",
+    "en": "OK. I'll stop by the convenience store first. There's no beer at our place."
+   },
+   {
+    "s": "A",
+    "fr": "Parfait. T'as-tu besoin d'un lift?",
+    "en": "Perfect. Do you need a ride?"
+   },
+   {
+    "s": "B",
+    "fr": "Non, merci, j'prends le métro. À tantôt!",
+    "en": "No, thanks, I'm taking the metro. See you later!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "How is Karine feeling?",
+    "options": [
+     "Very happy",
+     "A bit tired",
+     "Sick"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What time is the party?",
+    "options": [
+     "8:45",
+     "9:15",
+     "9:45"
+    ],
+    "a": 0
+   },
+   {
+    "q": "How will Karine get there?",
+    "options": [
+     "By car with A",
+     "By metro",
+     "On foot"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Why is she stopping at the dépanneur?",
+    "options": [
+     "To buy beer",
+     "To buy milk",
+     "To meet Marc"
+    ],
+    "a": 0
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Checkpoint task: introduce yourself in 6–8 sentences (name and spelling, origin, where you live, age, job, family, what you like).",
+   "model": "Bonjour! Je m'appelle Ryan, R-Y-A-N. Je viens de Toronto. J'habite à Verdun depuis deux ans. J'ai trente-quatre ans. Je suis infirmier. J'ai une fille. J'aime le hockey et le café."
+  },
+  {
+   "prompt": "Ask a new friend five questions using different question forms (intonation, est-ce que, a question word, -tu).",
+   "model": "Tu habites où? Est-ce que tu as des enfants? Qu'est-ce que tu fais comme travail? Tu aimes le hockey? Tu viens-tu au party samedi?"
+  },
+  {
+   "prompt": "Say what time it is now, today's date, and your plan for the weekend.",
+   "model": "Il est sept heures et demie. On est le 18 octobre. En fin de semaine, j'vas faire l'épicerie et aller au cinéma."
+  }
+ ],
+ "write": {
+  "prompt": "Checkpoint task: write a short message (6–8 sentences) introducing yourself to a French-speaking language exchange partner. Include one negative sentence, one question and one number above 70.",
+  "model": "Bonjour! Je m'appelle Ryan. J'ai trente-quatre ans et j'habite à Montréal. Je travaille dans un hôpital. Je parle anglais et un peu français. Je n'ai pas d'enfants, mais j'ai un chat. Ma grand-mère a quatre-vingt-deux ans et elle parle français. Et toi, tu habites où?"
+ },
+ "quiz": [
+  {
+   "q": "Which word has a nasal vowel?",
+   "options": [
+    "bonne",
+    "bon",
+    "année",
+    "une"
+   ],
+   "a": 1,
+   "why": "n at the end of the syllable makes the vowel nasal (lesson 2)."
+  },
+  {
+   "q": "'Où' with an accent means…",
+   "options": [
+    "or",
+    "where",
+    "there",
+    "has"
+   ],
+   "a": 1,
+   "why": "où = where; ou = or (lesson 3)."
+  },
+  {
+   "q": "In Quebec, 'une job' is…",
+   "options": [
+    "masculine",
+    "feminine",
+    "never used",
+    "plural"
+   ],
+   "a": 1,
+   "why": "Quebec makes job feminine (lesson 5)."
+  },
+  {
+   "q": "Which is spoken French for 'nous sommes'?",
+   "options": [
+    "on sont",
+    "on est",
+    "on êtes",
+    "nous est"
+   ],
+   "a": 1,
+   "why": "on + il form (lesson 7)."
+  },
+  {
+   "q": "'Bienvenue!' after 'Merci' in Quebec means…",
+   "options": [
+    "welcome to my home",
+    "you're welcome",
+    "goodbye",
+    "good luck"
+   ],
+   "a": 1,
+   "why": "Lesson 8."
+  },
+  {
+   "q": "Which form is irregular?",
+   "options": [
+    "vous parlez",
+    "vous faites",
+    "vous aimez",
+    "vous habitez"
+   ],
+   "a": 1,
+   "why": "faire: vous faites (lesson 11)."
+  },
+  {
+   "q": "Which question is formal?",
+   "options": [
+    "Tu viens?",
+    "Tu viens-tu?",
+    "Venez-vous?",
+    "Tu viens quand?"
+   ],
+   "a": 2,
+   "why": "Inversion = formal (lesson 13)."
+  },
+  {
+   "q": "92 in French is…",
+   "options": [
+    "nonante-deux",
+    "quatre-vingt-douze",
+    "quatre-vingts-deux",
+    "soixante-trente-deux"
+   ],
+   "a": 1,
+   "why": "4 × 20 + 12 (lesson 16)."
+  },
+  {
+   "q": "'Je travaille le samedi' means…",
+   "options": [
+    "I work this Saturday",
+    "I work on Saturdays",
+    "I worked Saturday",
+    "I don't work Saturday"
+   ],
+   "a": 1,
+   "why": "le + day = habit (lesson 17)."
+  },
+  {
+   "q": "'Y'é midi et demi' means…",
+   "options": [
+    "It's 12:30 p.m.",
+    "It's 12:30 a.m.",
+    "It's half past one",
+    "It's noon"
+   ],
+   "a": 0,
+   "why": "y'é = il est; midi et demi = 12:30 p.m. (lesson 18)."
+  }
+ ]
+}

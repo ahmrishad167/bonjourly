@@ -1,0 +1,639 @@
+{
+ "w": 141,
+ "title": "Ceci, cela, ça",
+ "goal": "By the end of this lesson you can use ceci, cela and ça in the right register, choose between ce and ça, use set expressions like cela dit and ça dépend, and recognise the Quebec 'ça l'a'.",
+ "learn": [
+  {
+   "h": "Three neutral demonstratives",
+   "body": [
+    "*Ceci*, *cela* and *ça* are neutral pronouns: they point to an idea, a situation or an unnamed thing, not to a specific masculine or feminine noun.",
+    "*Ça* is the everyday spoken form of *cela*. In speech, you will use *ça* 95% of the time. In formal writing (reports, essays, letters), use *cela*. *Ceci* is rare and mostly written."
+   ],
+   "table": {
+    "head": [
+     "Form",
+     "Register",
+     "Example"
+    ],
+    "rows": [
+     [
+      "ça",
+      "speech, informal writing",
+      "Ça coûte combien?"
+     ],
+     [
+      "cela",
+      "formal writing, careful speech",
+      "Cela me semble raisonnable."
+     ],
+     [
+      "ceci",
+      "formal, introduces what follows",
+      "Retenez bien ceci : …"
+     ]
+    ]
+   },
+   "tip": "Writing an email to a client? Replace every ça with cela. Texting a friend? Keep ça."
+  },
+  {
+   "h": "Ceci vs cela: forward and backward",
+   "body": [
+    "In careful writing, *ceci* announces what comes next and *cela* refers back to what has just been said: *Retenez ceci : le loyer est dû le premier du mois.* / *Le loyer est dû le premier du mois. Cela vaut pour tous les locataires.*",
+    "When both are used to contrast two objects, *ceci* = this (closer) and *cela* = that (farther): *Prenez ceci, laissez cela.*"
+   ]
+  },
+  {
+   "h": "Ce or ça?",
+   "body": [
+    "Before *être* in simple tenses, use *ce*: *c'est, c'était, ce sera, ce serait*. Never *ça est*.",
+    "Before other verbs, and before *être* in compound tenses or with a pronoun or adverb in between, use *ça* (or *cela*): *Ça marche. Ça a été difficile. Ça m'est égal. Ça n'est pas grave* (also possible, mostly spoken). Before a relative pronoun, use *ce*: *ce qui, ce que, ce dont*."
+   ],
+   "table": {
+    "head": [
+     "Context",
+     "Form",
+     "Example"
+    ],
+    "rows": [
+     [
+      "être, simple tense",
+      "ce",
+      "C'est vrai. C'était bon."
+     ],
+     [
+      "être, compound tense",
+      "ça / cela",
+      "Ça a été une belle soirée."
+     ],
+     [
+      "other verbs",
+      "ça / cela",
+      "Ça dépend. Cela suffit."
+     ],
+     [
+      "pronoun before être",
+      "ça / cela",
+      "Ça m'est égal."
+     ],
+     [
+      "before qui / que / dont",
+      "ce",
+      "Ce qui compte, c'est…"
+     ]
+    ]
+   }
+  },
+  {
+   "h": "Everyday expressions",
+   "body": [
+    "Many fixed expressions use *ça* in speech and *cela* in writing: *Ça dépend / Cela dépend*. *Ça ne fait rien* (never mind). *Ça fait deux ans que…* (it's been two years since…). *C'est ça* (that's right). *Comme ça* (like that, that way). *Ça y est* (done!). *Ça me plaît*. *Ça vaut la peine* (it's worth it).",
+    "Written connectors: *cela dit* / *ceci dit* (that said), *cela étant* (that being so), *malgré cela* (in spite of that), *à part cela* (apart from that), *pour cela* (for that, to that end)."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Ça coûte combien, ce manteau-là?",
+   "en": "How much does that coat cost?",
+   "note": "spoken ça"
+  },
+  {
+   "fr": "Cela me semble tout à fait raisonnable.",
+   "en": "That seems entirely reasonable to me.",
+   "note": "formal cela"
+  },
+  {
+   "fr": "Retenez bien ceci : la date limite est le 30 avril.",
+   "en": "Remember this carefully: the deadline is April 30.",
+   "note": "ceci announces what follows"
+  },
+  {
+   "fr": "Le loyer augmentera de 3 %. Cela s'applique à tous les logements.",
+   "en": "Rent will rise by 3%. That applies to all units.",
+   "note": "cela refers back"
+  },
+  {
+   "fr": "Prenez ceci et laissez cela.",
+   "en": "Take this and leave that.",
+   "note": "ceci = closer, cela = farther"
+  },
+  {
+   "fr": "C'était une belle soirée.",
+   "en": "It was a lovely evening.",
+   "note": "ce before être, simple tense"
+  },
+  {
+   "fr": "Ça a été une semaine difficile.",
+   "en": "It's been a difficult week.",
+   "note": "ça before être in a compound tense"
+  },
+  {
+   "fr": "Ça m'est égal, choisis, toi.",
+   "en": "I don't mind, you choose.",
+   "note": "pronoun between ça and être"
+  },
+  {
+   "fr": "Tu viens ce soir? — Ça dépend de la météo.",
+   "en": "Are you coming tonight? — It depends on the weather.",
+   "note": "ça dépend"
+  },
+  {
+   "fr": "Ça fait trois ans que j'habite à Québec.",
+   "en": "I've been living in Quebec City for three years.",
+   "note": "ça fait + duration + que"
+  },
+  {
+   "fr": "Vous partez lundi, c'est ça?",
+   "en": "You're leaving Monday, right?",
+   "note": "c'est ça = that's right"
+  },
+  {
+   "fr": "Ça ne fait rien, on réessaiera demain.",
+   "en": "Never mind, we'll try again tomorrow.",
+   "note": "ça ne fait rien"
+  },
+  {
+   "fr": "Cela dit, le projet reste intéressant.",
+   "en": "That said, the project is still interesting.",
+   "note": "written connector"
+  },
+  {
+   "fr": "Les coûts sont élevés. Malgré cela, nous recommandons d'aller de l'avant.",
+   "en": "Costs are high. In spite of that, we recommend going ahead.",
+   "note": "malgré cela, formal"
+  },
+  {
+   "fr": "Le voyage était long, mais ça valait la peine.",
+   "en": "The trip was long, but it was worth it.",
+   "note": "valoir la peine"
+  },
+  {
+   "fr": "Ce qui m'étonne, c'est qu'il n'ait rien dit.",
+   "en": "What surprises me is that he said nothing.",
+   "note": "ce before qui, not ça"
+  }
+ ],
+ "quebec": {
+  "intro": "Ça dominates Quebec speech; cela appears in writing, news reports and speeches. A typical Quebec feature: ça + a (avoir) often becomes 'ça l'a' in casual speech, with an inserted l. Very common, but don't write it.",
+  "items": [
+   {
+    "std": "Cela n'a pas de sens.",
+    "qc": "Ça l'a pas d'allure.",
+    "en": "That makes no sense.",
+    "note": "ça l'a = ça a; avoir de l'allure = to make sense; informal"
+   },
+   {
+    "std": "Ça a bien marché.",
+    "qc": "Ça l'a ben marché.",
+    "en": "It went well.",
+    "note": "ça l'a, ben = bien; informal"
+   },
+   {
+    "std": "C'est exact.",
+    "qc": "C'est ça. / C'est en plein ça.",
+    "en": "That's right. / That's exactly it.",
+    "note": "en plein = exactly; informal"
+   },
+   {
+    "std": "Donc, nous sommes partis.",
+    "qc": "Ça fait qu'on est partis. / Faque on est partis.",
+    "en": "So we left.",
+    "note": "ça fait que → faque; informal"
+   },
+   {
+    "std": "Cela ne me dérange pas.",
+    "qc": "Ça me dérange pas pantoute.",
+    "en": "It doesn't bother me at all.",
+    "note": "pantoute = pas du tout; informal"
+   },
+   {
+    "std": "Ça suffit!",
+    "qc": "C'est assez!",
+    "en": "That's enough!",
+    "note": "very common Quebec phrasing"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Which is correct?",
+   "options": [
+    "Ça est vrai.",
+    "C'est vrai.",
+    "Cela est vrai, c'est.",
+    "Ce a été vrai."
+   ],
+   "a": 1,
+   "why": "Before être in a simple tense: c'est."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is correct?",
+   "options": [
+    "Ce a été difficile.",
+    "Ça a été difficile.",
+    "Ça est été difficile.",
+    "Ce est été difficile."
+   ],
+   "a": 1,
+   "why": "Compound tense of être → ça a été (c'a été also exists in writing, but ça a été is the norm)."
+  },
+  {
+   "t": "mcq",
+   "q": "In a formal report, replace 'Ça montre que…' with…",
+   "options": [
+    "Ceci montre que…",
+    "Cela montre que…",
+    "Ce montre que…",
+    "Ça, ça montre que…"
+   ],
+   "a": 1,
+   "why": "Cela is the written form of ça referring back."
+  },
+  {
+   "t": "mcq",
+   "q": "'Retenez ___ : le bureau ferme à midi.'",
+   "options": [
+    "cela",
+    "ceci",
+    "ça",
+    "ce"
+   ],
+   "a": 1,
+   "why": "Ceci announces what follows."
+  },
+  {
+   "t": "mcq",
+   "q": "'Ça l'a pas d'allure' means…",
+   "options": [
+    "It has no shape.",
+    "That makes no sense.",
+    "It's not allowed.",
+    "It's not fast."
+   ],
+   "a": 1,
+   "why": "Avoir de l'allure = to make sense; ça l'a = ça a."
+  },
+  {
+   "t": "fill",
+   "q": "___ qui compte, c'est la santé.",
+   "a": [
+    "Ce"
+   ],
+   "en": "What matters is health.",
+   "why": "Before qui, use ce."
+  },
+  {
+   "t": "fill",
+   "q": "___ fait deux ans que je travaille ici.",
+   "a": [
+    "Ça",
+    "Cela"
+   ],
+   "en": "I've been working here for two years.",
+   "why": "Ça fait + duration + que."
+  },
+  {
+   "t": "fill",
+   "q": "Cela ___, le résultat est positif. (that said)",
+   "a": [
+    "dit"
+   ],
+   "en": "That said, the result is positive.",
+   "why": "Cela dit = that said."
+  },
+  {
+   "t": "fill",
+   "q": "Malgré ___, nous continuerons. (formal)",
+   "a": [
+    "cela"
+   ],
+   "en": "In spite of that, we will continue.",
+   "why": "Formal writing: cela."
+  },
+  {
+   "t": "build",
+   "en": "It depends on the weather.",
+   "a": "Ça dépend de la météo."
+  },
+  {
+   "t": "build",
+   "en": "I don't mind.",
+   "a": "Ça m'est égal."
+  },
+  {
+   "t": "build",
+   "en": "It was worth it.",
+   "a": "Ça valait la peine."
+  },
+  {
+   "t": "translate",
+   "en": "That's right.",
+   "a": [
+    "C'est ça.",
+    "C'est exact.",
+    "C'est vrai.",
+    "C'est juste."
+   ],
+   "why": "C'est ça is the most natural in speech."
+  },
+  {
+   "t": "translate",
+   "en": "Never mind.",
+   "a": [
+    "Ça ne fait rien.",
+    "Ça fait rien.",
+    "Laisse faire.",
+    "Laissez faire.",
+    "Cela ne fait rien.",
+    "Peu importe."
+   ],
+   "why": "Laisse faire is especially common in Quebec."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "ceci",
+   "en": "this",
+   "ex": "Lisez ceci attentivement."
+  },
+  {
+   "fr": "cela",
+   "en": "that (formal)",
+   "ex": "Cela ne me surprend pas."
+  },
+  {
+   "fr": "ça",
+   "en": "that, it (spoken)",
+   "ex": "Ça va?"
+  },
+  {
+   "fr": "cela dit / ceci dit",
+   "en": "that said",
+   "ex": "Cela dit, je reste optimiste."
+  },
+  {
+   "fr": "malgré cela",
+   "en": "in spite of that",
+   "ex": "Malgré cela, il est venu."
+  },
+  {
+   "fr": "à part cela / à part ça",
+   "en": "apart from that",
+   "ex": "À part ça, quoi de neuf?"
+  },
+  {
+   "fr": "ça dépend",
+   "en": "it depends",
+   "ex": "Ça dépend du prix."
+  },
+  {
+   "fr": "ça m'est égal",
+   "en": "I don't mind",
+   "ex": "Ça m'est égal, vraiment."
+  },
+  {
+   "fr": "valoir la peine",
+   "en": "to be worth it",
+   "ex": "Ça vaut la peine d'essayer."
+  },
+  {
+   "fr": "ça ne fait rien",
+   "en": "never mind, it doesn't matter",
+   "ex": "Ça ne fait rien, je vais attendre."
+  },
+  {
+   "fr": "comme ça",
+   "en": "like that, that way",
+   "ex": "Fais-le comme ça."
+  },
+  {
+   "fr": "avoir de l'allure",
+   "en": "to make sense (Quebec)",
+   "ex": "Ton plan a de l'allure.",
+   "qc": true
+  },
+  {
+   "fr": "pantoute",
+   "en": "not at all (informal)",
+   "ex": "J'ai pas faim pantoute.",
+   "qc": true
+  },
+  {
+   "fr": "laisse faire",
+   "en": "never mind, forget it (informal)",
+   "ex": "Laisse faire, je vais le faire.",
+   "qc": true
+  },
+  {
+   "fr": "en plein ça",
+   "en": "exactly that (informal)",
+   "ex": "C'est en plein ça que je voulais.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "ça / cela",
+    "tip": "[SA] / [suh-LA]: same meaning, different register."
+   },
+   {
+    "fr": "ceci",
+    "tip": "[suh-SI]."
+   },
+   {
+    "fr": "ça a été",
+    "tip": "[sa a é-TÉ]: two a sounds; don't merge them."
+   },
+   {
+    "fr": "ça l'a",
+    "tip": "Quebec: [sa LA]."
+   },
+   {
+    "fr": "pantoute",
+    "tip": "[pan-TOUTT], final t pronounced."
+   },
+   {
+    "fr": "c'est ça",
+    "tip": "Quebec: often [sé SA] with a long, drawn-out a."
+   }
+  ],
+  "title": "La réunion de copropriété",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Bon, la présidente a lu le rapport : « Les toitures doivent être refaites. Cela représente 80 000 $. »",
+    "en": "OK, the chair read the report: 'The roofs must be redone. That represents $80,000.'"
+   },
+   {
+    "s": "B",
+    "fr": "Quatre-vingt mille? Ça l'a pas d'allure!",
+    "en": "Eighty thousand? That makes no sense!"
+   },
+   {
+    "s": "A",
+    "fr": "Elle a ajouté : « Cela dit, une subvention pourrait couvrir le tiers. »",
+    "en": "She added: 'That said, a grant could cover one third.'"
+   },
+   {
+    "s": "B",
+    "fr": "Ah, ça change tout. Ça fait combien par unité?",
+    "en": "Oh, that changes everything. How much is that per unit?"
+   },
+   {
+    "s": "A",
+    "fr": "Environ quatre mille. Ça dépend de la grandeur du logement.",
+    "en": "About four thousand. It depends on the size of the unit."
+   },
+   {
+    "s": "B",
+    "fr": "C'est cher, mais si ça règle les fuites, ça vaut la peine.",
+    "en": "It's expensive, but if it fixes the leaks, it's worth it."
+   },
+   {
+    "s": "A",
+    "fr": "C'est en plein ça qu'elle a dit.",
+    "en": "That's exactly what she said."
+   }
+  ],
+  "questions": [
+   {
+    "q": "What must be redone?",
+    "options": [
+     "The windows",
+     "The roofs",
+     "The parking lot"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What could a grant cover?",
+    "options": [
+     "Half",
+     "One third",
+     "Everything"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What does the cost per unit depend on?",
+    "options": [
+     "The floor",
+     "The size of the unit",
+     "The owner's income"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "React to three pieces of news using ça expressions (ça dépend, ça m'est égal, ça vaut la peine…).",
+   "model": "On va au chalet ou au restaurant? Ça m'est égal. Tu prends l'autoroute? Ça dépend du trafic. Le nouveau musée? Allez-y, ça vaut la peine."
+  },
+  {
+   "prompt": "Say the same opinion casually, then formally: 'Ça a pas de sens, mais ça vaut la peine d'essayer.'",
+   "model": "Familier : Ça l'a pas d'allure, mais ça vaut la peine d'essayer. / Formel : Cela n'a pas de sens; cela dit, cela vaut la peine d'essayer."
+  },
+  {
+   "prompt": "Give a short instruction that starts with 'Retenez ceci :'.",
+   "model": "Retenez ceci : en cas de tempête, le bureau ferme et tout le monde travaille de la maison."
+  }
+ ],
+ "write": {
+  "prompt": "Rewrite this casual message as a formal email paragraph (4–6 sentences): 'Ça marche pas, le nouveau système. Ça fait deux semaines. Ça l'a pas d'allure. Mais à part ça, ça va bien.'",
+  "model": "Le nouveau système ne fonctionne toujours pas correctement. Cela fait maintenant deux semaines que le problème persiste. Cela me semble difficilement acceptable. Cela dit, à part cette difficulté, le projet avance bien. Je vous remercie de bien vouloir régler la situation dans les meilleurs délais."
+ },
+ "quiz": [
+  {
+   "q": "Which is the spoken form of cela?",
+   "options": [
+    "ceci",
+    "ça",
+    "ce",
+    "celui"
+   ],
+   "a": 1,
+   "why": "Ça is a contraction of cela."
+  },
+  {
+   "q": "In careful writing, ceci points…",
+   "options": [
+    "backward",
+    "forward to what follows",
+    "to people",
+    "to places"
+   ],
+   "a": 1,
+   "why": "Ceci announces; cela refers back."
+  },
+  {
+   "q": "Which is wrong?",
+   "options": [
+    "C'est bon.",
+    "Ça a été bon.",
+    "Ça est bon.",
+    "Ça m'est égal."
+   ],
+   "a": 2,
+   "why": "Never ça est in a simple tense: c'est."
+  },
+  {
+   "q": "'Ça vaut la peine' means…",
+   "options": [
+    "It hurts.",
+    "It's worth it.",
+    "It's a pity.",
+    "It's too much."
+   ],
+   "a": 1,
+   "why": "Valoir la peine = to be worth the effort."
+  },
+  {
+   "q": "Formal equivalent of 'à part ça':",
+   "options": [
+    "à part ceci",
+    "à part cela",
+    "à part ce",
+    "à part celui"
+   ],
+   "a": 1,
+   "why": "Cela replaces ça in formal writing."
+  },
+  {
+   "q": "'Ça fait longtemps que je t'attends' means…",
+   "options": [
+    "It makes a long time.",
+    "I've been waiting for you for a long time.",
+    "It will take long.",
+    "It's been a while since I saw you."
+   ],
+   "a": 1,
+   "why": "Ça fait + duration + que = for (duration)."
+  },
+  {
+   "q": "'Ça l'a ben marché' — the l is…",
+   "options": [
+    "a direct object pronoun",
+    "an inserted sound, informal Quebec",
+    "a typo",
+    "the article la"
+   ],
+   "a": 1,
+   "why": "Ça a → ça l'a in casual Quebec speech."
+  },
+  {
+   "q": "'Pantoute' means…",
+   "options": [
+    "everything",
+    "not at all",
+    "always",
+    "maybe"
+   ],
+   "a": 1,
+   "why": "Pantoute = pas du tout, informal Quebec."
+  }
+ ]
+}

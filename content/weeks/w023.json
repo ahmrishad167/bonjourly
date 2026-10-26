@@ -1,0 +1,668 @@
+{
+ "w": 23,
+ "title": "Futur proche",
+ "goal": "By the end of this lesson you can talk about plans and the near future with aller + infinitive, make it negative, ask questions with it, and recognise the Quebec spoken forms j'vas and m'as.",
+ "learn": [
+  {
+   "h": "Aller + infinitive = 'going to'",
+   "body": [
+    "The futur proche works exactly like English 'going to': conjugate *aller* in the present, then add a verb in the infinitive. *Je vais manger.* = I'm going to eat.",
+    "Only *aller* changes; the second verb never moves from its infinitive form: *nous allons partir*, *elles vont travailler*."
+   ],
+   "table": {
+    "head": [
+     "Pronoun",
+     "aller",
+     "+ infinitive",
+     "English"
+    ],
+    "rows": [
+     [
+      "je",
+      "vais",
+      "travailler",
+      "I'm going to work"
+     ],
+     [
+      "tu",
+      "vas",
+      "manger",
+      "you're going to eat"
+     ],
+     [
+      "il / elle / on",
+      "va",
+      "sortir",
+      "he / she / we are going to go out"
+     ],
+     [
+      "nous",
+      "allons",
+      "voyager",
+      "we're going to travel"
+     ],
+     [
+      "vous",
+      "allez",
+      "aimer ça",
+      "you're going to like it"
+     ],
+     [
+      "ils / elles",
+      "vont",
+      "arriver",
+      "they're going to arrive"
+     ]
+    ]
+   },
+   "tip": "Two verbs, one conjugated: vais + infinitive."
+  },
+  {
+   "h": "Time words that go with it",
+   "body": [
+    "The futur proche usually comes with a time word: *ce soir* (tonight), *demain* (tomorrow), *ce week-end* or *en fin de semaine* (this weekend), *la semaine prochaine* (next week), *l'année prochaine* (next year), *bientôt* (soon), *dans deux heures* (in two hours).",
+    "The time word can start or end the sentence: *Demain, je vais travailler.* / *Je vais travailler demain.*"
+   ]
+  },
+  {
+   "h": "Negatives and questions",
+   "body": [
+    "*Ne … pas* goes around the conjugated verb *aller*, not the infinitive: *Je ne vais pas manger.* *Il ne va pas venir.*",
+    "Questions use the patterns you know: intonation (*Tu vas venir?*), *est-ce que* (*Est-ce que tu vas venir?*) or inversion (*Vas-tu venir?* / *Va-t-il pleuvoir?*). With a question word: *Qu'est-ce que tu vas faire?* *Quand est-ce que vous allez partir?*"
+   ],
+   "table": {
+    "head": [
+     "Form",
+     "Example"
+    ],
+    "rows": [
+     [
+      "Affirmative",
+      "Je vais partir."
+     ],
+     [
+      "Negative",
+      "Je ne vais pas partir."
+     ],
+     [
+      "Intonation",
+      "Tu vas partir?"
+     ],
+     [
+      "Est-ce que",
+      "Est-ce que tu vas partir?"
+     ],
+     [
+      "Inversion",
+      "Vas-tu partir?"
+     ]
+    ]
+   },
+   "tip": "Ne … pas hugs vais, not the infinitive."
+  },
+  {
+   "h": "Aller + aller",
+   "body": [
+    "Yes, you can say *Je vais aller au cinéma.* (I'm going to go to the movies.) It sounds completely natural.",
+    "In daily speech, though, the present often does the job when the plan is clear: *Je vais au cinéma ce soir.*"
+   ]
+  },
+  {
+   "h": "Quebec: j'vas and m'as",
+   "body": [
+    "In Quebec speech, *je vais* is very often *j'vas* (you met it in lesson 11): *J'vas aller au dep.* Even shorter, and very informal, is *m'as*: *M'as te le dire.* (I'm gonna tell you.) Understand *m'as*, but don't write it.",
+    "With the reflexive verb *se voir* (to see each other), the *e* disappears: *On va s'voir demain.* And the Quebec *-tu* question particle attaches to *aller*: *Tu vas-tu venir?*"
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "Je vais travailler demain.",
+   "en": "I'm going to work tomorrow."
+  },
+  {
+   "fr": "Tu vas manger avec nous ce soir?",
+   "en": "Are you going to eat with us tonight?",
+   "note": "question by intonation"
+  },
+  {
+   "fr": "Il va pleuvoir cet après-midi.",
+   "en": "It's going to rain this afternoon."
+  },
+  {
+   "fr": "On va regarder un film.",
+   "en": "We're going to watch a movie.",
+   "note": "on + va, the everyday 'we'"
+  },
+  {
+   "fr": "Nous allons voyager en Gaspésie cet été.",
+   "en": "We're going to travel in the Gaspé this summer."
+  },
+  {
+   "fr": "Vous allez aimer ce restaurant.",
+   "en": "You're going to like this restaurant."
+  },
+  {
+   "fr": "Mes parents vont arriver dimanche.",
+   "en": "My parents are going to arrive on Sunday."
+  },
+  {
+   "fr": "Je ne vais pas sortir ce soir.",
+   "en": "I'm not going to go out tonight.",
+   "note": "ne … pas around vais"
+  },
+  {
+   "fr": "Elle ne va pas aimer ça.",
+   "en": "She's not going to like that."
+  },
+  {
+   "fr": "Qu'est-ce que tu vas faire en fin de semaine?",
+   "en": "What are you going to do this weekend?"
+  },
+  {
+   "fr": "Est-ce que vous allez prendre l'autobus?",
+   "en": "Are you going to take the bus?"
+  },
+  {
+   "fr": "Je vais aller au dépanneur.",
+   "en": "I'm going to go to the corner store.",
+   "note": "aller + aller is fine"
+  },
+  {
+   "fr": "Le film va commencer dans dix minutes.",
+   "en": "The movie is going to start in ten minutes.",
+   "note": "dans + time = in (time from now)"
+  },
+  {
+   "fr": "Quand est-ce qu'ils vont partir?",
+   "en": "When are they going to leave?"
+  },
+  {
+   "fr": "Ça va être le fun!",
+   "en": "It's going to be fun!",
+   "note": "c'est le fun → ça va être le fun"
+  },
+  {
+   "fr": "On va se voir la semaine prochaine.",
+   "en": "We'll see each other next week."
+  }
+ ],
+ "quebec": {
+  "intro": "The futur proche is the everyday future in Quebec. In speech, 'je vais' becomes 'j'vas' or even 'm'as', and the '-tu' particle turns plans into quick questions.",
+  "items": [
+   {
+    "std": "Je vais aller au cinéma.",
+    "qc": "J'vas aller au cinéma.",
+    "en": "I'm going to go to the movies.",
+    "note": "j'vas is very common in casual speech"
+   },
+   {
+    "std": "Je vais te le dire.",
+    "qc": "M'as te l'dire.",
+    "en": "I'm gonna tell you.",
+    "note": "m'as = je vais; very informal, spoken only"
+   },
+   {
+    "std": "On va se voir demain.",
+    "qc": "On va s'voir demain.",
+    "en": "We'll see each other tomorrow.",
+    "note": "the e of se drops in speech"
+   },
+   {
+    "std": "Tu vas venir?",
+    "qc": "Tu vas-tu venir?",
+    "en": "Are you going to come?",
+    "note": "informal -tu question particle"
+   },
+   {
+    "std": "Il va pleuvoir.",
+    "qc": "Y va pleuvoir.",
+    "en": "It's going to rain.",
+    "note": "il → y in fast speech"
+   },
+   {
+    "std": "Je ne vais pas travailler.",
+    "qc": "J'vas pas travailler.",
+    "en": "I'm not going to work.",
+    "note": "ne dropped, as usual in speech"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Nous ___ partir demain.",
+   "options": [
+    "allons",
+    "vont",
+    "allez",
+    "va"
+   ],
+   "a": 0,
+   "why": "nous allons."
+  },
+  {
+   "t": "mcq",
+   "q": "Which is the correct negative?",
+   "options": [
+    "Je vais ne pas manger.",
+    "Je ne vais pas manger.",
+    "Je ne vais manger pas.",
+    "Je vais manger ne pas."
+   ],
+   "a": 1,
+   "why": "Ne … pas surrounds the conjugated verb aller."
+  },
+  {
+   "t": "mcq",
+   "q": "'M'as partir' means…",
+   "options": [
+    "Make me leave",
+    "I'm going to leave",
+    "My leaving",
+    "I left"
+   ],
+   "a": 1,
+   "why": "M'as is very informal Quebec speech for je vais."
+  },
+  {
+   "t": "mcq",
+   "q": "Which time word means 'next week'?",
+   "options": [
+    "la semaine dernière",
+    "cette semaine",
+    "la semaine prochaine",
+    "en semaine"
+   ],
+   "a": 2,
+   "why": "Prochain(e) = next."
+  },
+  {
+   "t": "fill",
+   "q": "Ils ___ arriver à huit heures.",
+   "a": [
+    "vont"
+   ],
+   "en": "They're going to arrive at eight.",
+   "why": "ils vont."
+  },
+  {
+   "t": "fill",
+   "q": "Tu vas ___ avec nous? (to eat)",
+   "a": [
+    "manger"
+   ],
+   "en": "Are you going to eat with us?",
+   "why": "After aller, the verb stays in the infinitive."
+  },
+  {
+   "t": "fill",
+   "q": "Vous ___ aimer ça.",
+   "a": [
+    "allez"
+   ],
+   "en": "You're going to like that.",
+   "why": "vous allez."
+  },
+  {
+   "t": "fill",
+   "q": "Elle ne va ___ venir.",
+   "a": [
+    "pas"
+   ],
+   "en": "She's not going to come.",
+   "why": "ne va pas + infinitive."
+  },
+  {
+   "t": "build",
+   "en": "I'm going to work tomorrow.",
+   "a": "Je vais travailler demain."
+  },
+  {
+   "t": "build",
+   "en": "What are you going to do tonight?",
+   "a": "Qu'est-ce que tu vas faire ce soir?"
+  },
+  {
+   "t": "build",
+   "en": "It's going to rain this afternoon.",
+   "a": "Il va pleuvoir cet après-midi."
+  },
+  {
+   "t": "translate",
+   "en": "We're going to watch a movie.",
+   "a": [
+    "On va regarder un film.",
+    "Nous allons regarder un film."
+   ],
+   "why": "on va / nous allons + infinitive."
+  },
+  {
+   "t": "translate",
+   "en": "I'm not going to go out.",
+   "a": [
+    "Je ne vais pas sortir.",
+    "Je vais pas sortir."
+   ],
+   "why": "Ne … pas around vais; ne is often dropped in speech."
+  },
+  {
+   "t": "translate",
+   "en": "Are you going to come?",
+   "a": [
+    "Tu vas venir?",
+    "Vous allez venir?",
+    "Est-ce que tu vas venir?",
+    "Est-ce que vous allez venir?",
+    "Vas-tu venir?",
+    "Allez-vous venir?"
+   ],
+   "why": "Any question pattern works with aller + venir."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "aller + infinitif",
+   "en": "to be going to (do)",
+   "ex": "Je vais manger."
+  },
+  {
+   "fr": "demain",
+   "en": "tomorrow",
+   "ex": "Demain, je vais travailler."
+  },
+  {
+   "fr": "ce soir",
+   "en": "tonight, this evening",
+   "ex": "On va sortir ce soir."
+  },
+  {
+   "fr": "bientôt",
+   "en": "soon",
+   "ex": "Il va arriver bientôt."
+  },
+  {
+   "fr": "plus tard",
+   "en": "later",
+   "ex": "Je vais t'appeler plus tard."
+  },
+  {
+   "fr": "la semaine prochaine",
+   "en": "next week",
+   "g": "f",
+   "ex": "Je vais voyager la semaine prochaine."
+  },
+  {
+   "fr": "l'année prochaine",
+   "en": "next year",
+   "g": "f",
+   "ex": "Elle va étudier l'année prochaine."
+  },
+  {
+   "fr": "dans (+ time)",
+   "en": "in (time from now)",
+   "ex": "Le train part dans dix minutes."
+  },
+  {
+   "fr": "la fin de semaine",
+   "en": "the weekend",
+   "g": "f",
+   "ex": "Qu'est-ce que tu vas faire en fin de semaine?",
+   "qc": true
+  },
+  {
+   "fr": "sortir",
+   "en": "to go out",
+   "ex": "On va sortir ce soir."
+  },
+  {
+   "fr": "voyager",
+   "en": "to travel",
+   "ex": "Nous allons voyager cet été."
+  },
+  {
+   "fr": "pleuvoir",
+   "en": "to rain",
+   "ex": "Il va pleuvoir."
+  },
+  {
+   "fr": "arriver",
+   "en": "to arrive",
+   "ex": "Ils vont arriver à midi."
+  },
+  {
+   "fr": "se voir",
+   "en": "to see each other",
+   "ex": "On va se voir demain."
+  },
+  {
+   "fr": "m'as",
+   "en": "I'm gonna (very informal)",
+   "ex": "M'as y aller.",
+   "qc": true
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "je vais",
+    "tip": "zhuh-VÈ; the s is silent."
+   },
+   {
+    "fr": "nous allons",
+    "tip": "Liaison: noo-za-LON."
+   },
+   {
+    "fr": "vous allez",
+    "tip": "Liaison: voo-za-LAY."
+   },
+   {
+    "fr": "ils vont",
+    "tip": "eel-VON; nasal on, the t is silent."
+   },
+   {
+    "fr": "j'vas",
+    "tip": "Quebec speech: zhvah, one syllable."
+   },
+   {
+    "fr": "m'as",
+    "tip": "Quebec speech: mah. It means je vais."
+   },
+   {
+    "fr": "on va s'voir",
+    "tip": "on-va-SVWAR; the e of se disappears."
+   }
+  ],
+  "title": "Les plans de la fin de semaine",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Qu'est-ce que tu vas faire en fin de semaine?",
+    "en": "What are you going to do this weekend?"
+   },
+   {
+    "s": "B",
+    "fr": "Samedi, j'vas aller au marché Jean-Talon avec ma blonde.",
+    "en": "On Saturday, I'm going to go to the Jean-Talon market with my girlfriend."
+   },
+   {
+    "s": "A",
+    "fr": "Le fun! Et dimanche?",
+    "en": "Fun! And Sunday?"
+   },
+   {
+    "s": "B",
+    "fr": "Dimanche, on va rester à la maison. Il va pleuvoir.",
+    "en": "On Sunday, we're going to stay home. It's going to rain."
+   },
+   {
+    "s": "A",
+    "fr": "Moi, je vais regarder la game de hockey. Tu vas-tu venir?",
+    "en": "Me, I'm going to watch the hockey game. Are you going to come?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, bonne idée! La game va commencer à quelle heure?",
+    "en": "Yes, good idea! What time is the game going to start?"
+   },
+   {
+    "s": "A",
+    "fr": "À sept heures. On va manger de la pizza.",
+    "en": "At seven. We're going to eat pizza."
+   },
+   {
+    "s": "B",
+    "fr": "Parfait, on va s'voir dimanche!",
+    "en": "Perfect, see you Sunday!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Where is B going on Saturday?",
+    "options": [
+     "To a hockey game",
+     "To the Jean-Talon market",
+     "To the cinema"
+    ],
+    "a": 1
+   },
+   {
+    "q": "Why is B staying home on Sunday?",
+    "options": [
+     "It's going to rain",
+     "B is tired",
+     "B has to work"
+    ],
+    "a": 0
+   },
+   {
+    "q": "What time does the game start?",
+    "options": [
+     "Six",
+     "Seven",
+     "Eight"
+    ],
+    "a": 1
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Say three things you are going to do this weekend.",
+   "model": "Samedi, je vais faire l'épicerie. Dimanche, je vais aller au parc et je vais regarder un film."
+  },
+  {
+   "prompt": "Say two things you are NOT going to do tomorrow.",
+   "model": "Demain, je ne vais pas travailler et je ne vais pas faire le ménage."
+  },
+  {
+   "prompt": "Invite a friend to come watch a movie, first in standard French, then the casual Quebec way.",
+   "model": "Est-ce que tu vas venir regarder un film ce soir? / Tu vas-tu venir écouter un film à soir?"
+  }
+ ],
+ "write": {
+  "prompt": "Write 5–6 sentences about your plans for next week, using at least three different time words.",
+  "model": "La semaine prochaine, je vais être très occupé. Lundi, je vais travailler en ville. Mardi soir, je vais aller au cours de français. Mercredi, mes parents vont arriver de Toronto. On va manger au restaurant. En fin de semaine, nous allons visiter Québec."
+ },
+ "quiz": [
+  {
+   "q": "The futur proche is formed with…",
+   "options": [
+    "être + infinitive",
+    "aller + infinitive",
+    "avoir + infinitive",
+    "aller + past participle"
+   ],
+   "a": 1,
+   "why": "Present of aller + infinitive."
+  },
+  {
+   "q": "'Vous allez partir' means…",
+   "options": [
+    "You left",
+    "You are leaving now",
+    "You're going to leave",
+    "Go away"
+   ],
+   "a": 2,
+   "why": "aller + partir = going to leave."
+  },
+  {
+   "q": "Which verb is conjugated in 'Elle va chanter'?",
+   "options": [
+    "chanter",
+    "va",
+    "both",
+    "neither"
+   ],
+   "a": 1,
+   "why": "Only aller is conjugated; chanter stays in the infinitive."
+  },
+  {
+   "q": "Inversion form of 'Tu vas venir?'",
+   "options": [
+    "Vas-tu venir?",
+    "Venir-tu vas?",
+    "Tu-vas venir?",
+    "Va-tu venir?"
+   ],
+   "a": 0,
+   "why": "Invert tu and vas: Vas-tu venir?"
+  },
+  {
+   "q": "'Dans une heure' means…",
+   "options": [
+    "for an hour",
+    "an hour ago",
+    "in an hour",
+    "during an hour"
+   ],
+   "a": 2,
+   "why": "Dans + time = in that much time from now."
+  },
+  {
+   "q": "Is 'Je vais aller au parc' correct?",
+   "options": [
+    "Yes, it's natural",
+    "No, never use aller twice",
+    "Only in writing",
+    "Only in Quebec"
+   ],
+   "a": 0,
+   "why": "Aller + aller is perfectly normal French."
+  },
+  {
+   "q": "'J'vas manger' is…",
+   "options": [
+    "incorrect French",
+    "casual Quebec speech for je vais manger",
+    "the past tense",
+    "a formal written form"
+   ],
+   "a": 1,
+   "why": "J'vas is the everyday Quebec spoken form of je vais."
+  },
+  {
+   "q": "'Tu vas-tu sortir?' is…",
+   "options": [
+    "a typo",
+    "an informal Quebec yes/no question",
+    "a negative",
+    "an order"
+   ],
+   "a": 1,
+   "why": "-tu after the verb marks a yes/no question in Quebec speech."
+  },
+  {
+   "q": "Which sentence is correct?",
+   "options": [
+    "On allons partir.",
+    "On va partir.",
+    "On vont partir.",
+    "On vas partir."
+   ],
+   "a": 1,
+   "why": "On takes the il/elle form: on va."
+  }
+ ]
+}

@@ -1,0 +1,656 @@
+{
+ "w": 88,
+ "title": "Coordinating conjunctions: mais, ou, et, donc, or, ni, car",
+ "goal": "By the end of this lesson you can link ideas with the seven coordinating conjunctions, choose the right register, and understand the Quebec 'faque' and 'pis'.",
+ "learn": [
+  {
+   "h": "Mais où est donc Ornicar?",
+   "body": [
+    "French students memorize the coordinating conjunctions with the nonsense question *Mais où est donc Ornicar?* = *mais, ou, et, donc, or, ni, car*.",
+    "Coordinating conjunctions join two elements of the same kind: two words, two phrases or two independent clauses. Unlike *que* or *quand*, they never change the mood of the verb."
+   ],
+   "table": {
+    "head": [
+     "Conjunction",
+     "Meaning",
+     "Example"
+    ],
+    "rows": [
+     [
+      "et",
+      "and",
+      "Il pleut et il fait froid."
+     ],
+     [
+      "ou",
+      "or",
+      "Du thé ou du café?"
+     ],
+     [
+      "mais",
+      "but",
+      "C'est cher, mais c'est bon."
+     ],
+     [
+      "donc",
+      "so, therefore",
+      "Je pense, donc je suis."
+     ],
+     [
+      "or",
+      "yet, now (in reasoning)",
+      "Il devait venir. Or, il n'est pas là."
+     ],
+     [
+      "ni",
+      "nor, neither… nor",
+      "Je ne bois ni thé ni café."
+     ],
+     [
+      "car",
+      "for, because",
+      "Je reste, car il pleut."
+     ]
+    ]
+   },
+   "tip": "Ou (or) has no accent; où (where) has one."
+  },
+  {
+   "h": "Et, ou, mais",
+   "body": [
+    "*Et* joins without a comma in a simple list: *du pain et du beurre*. *Ou* offers a choice; *ou bien* insists on it: *Tu viens ou bien tu restes?*",
+    "*Mais* introduces a contrast and normally has a comma before it when it joins clauses: *J'aimerais venir, mais je travaille.* It is also an emphatic interjection: *Mais oui!* *Mais non!*"
+   ]
+  },
+  {
+   "h": "Donc, car, or: the logic connectors",
+   "body": [
+    "*Donc* draws a conclusion: *Il est malade, donc il ne vient pas.* In speech it also adds emphasis to commands and questions: *Viens donc!* (Come on!), *Qu'est-ce que tu veux donc?*",
+    "*Car* gives a justification. It is more formal than *parce que* and cannot begin a sentence in good style; it always follows the main clause: *Je prends un parapluie, car il va pleuvoir.*",
+    "*Or* is mainly written: it introduces a new fact that challenges or advances an argument (≈ 'yet', 'however', 'now'). *Tous les hommes sont mortels. Or, Socrate est un homme. Donc…*"
+   ],
+   "tip": "Car = formal parce que; in conversation, people almost always say parce que."
+  },
+  {
+   "h": "Ni… ni: the double negative 'neither… nor'",
+   "body": [
+    "*Ni* works with *ne* before the verb, and usually appears twice: *Je n'aime ni le thé ni le café.* Note that the articles *du, de la, des* disappear after *ni*: *Il ne mange ni viande ni poisson.*",
+    "With subjects: *Ni Paul ni Marie ne sont venus.* With *sans*: *sans sucre ni lait* (without sugar or milk)."
+   ]
+  },
+  {
+   "h": "Quebec: faque, pis, ou ben",
+   "body": [
+    "In conversation, Quebecers often replace *donc* with *ça fait que*, usually contracted to *faque* [fak]: *Il pleuvait, faque on est restés en dedans.* It is informal but extremely common; you will hear it many times a day.",
+    "*Et* in a sequence often becomes *pis* (from *puis*): *J'ai mangé pis j'suis parti.* *Ou bien* becomes *ou ben*. None of these belong in formal writing."
+   ]
+  }
+ ],
+ "examples": [
+  {
+   "fr": "J'ai acheté du pain et du fromage.",
+   "en": "I bought bread and cheese.",
+   "note": "et in a simple list, no comma"
+  },
+  {
+   "fr": "Tu préfères le métro ou l'autobus?",
+   "en": "Do you prefer the metro or the bus?",
+   "note": "ou = or, no accent"
+  },
+  {
+   "fr": "C'est un bon quartier, mais les loyers sont chers.",
+   "en": "It's a good neighbourhood, but rents are high.",
+   "note": "comma before mais"
+  },
+  {
+   "fr": "Il neige beaucoup, donc les écoles sont fermées.",
+   "en": "It's snowing a lot, so the schools are closed.",
+   "note": "donc = consequence"
+  },
+  {
+   "fr": "Je prends ma tuque, car il fait moins vingt.",
+   "en": "I'm taking my toque, because it's minus twenty.",
+   "note": "car = formal because; tuque is the Quebec word"
+  },
+  {
+   "fr": "Il devait arriver à midi. Or, à deux heures, il n'était toujours pas là.",
+   "en": "He was supposed to arrive at noon. Yet at two o'clock he still wasn't there.",
+   "note": "or = yet, in a narrative or argument"
+  },
+  {
+   "fr": "Je ne bois ni alcool ni café.",
+   "en": "I drink neither alcohol nor coffee.",
+   "note": "no article after ni"
+  },
+  {
+   "fr": "Ni ma sœur ni mon frère ne parlent anglais.",
+   "en": "Neither my sister nor my brother speaks English.",
+   "note": "ni… ni as subjects + ne"
+  },
+  {
+   "fr": "Tu viens avec nous ou bien tu restes ici?",
+   "en": "Are you coming with us or are you staying here?",
+   "note": "ou bien insists on the choice"
+  },
+  {
+   "fr": "Viens donc souper chez nous!",
+   "en": "Come on over for supper!",
+   "note": "donc as a friendly emphasis"
+  },
+  {
+   "fr": "Mais non, ce n'est pas grave!",
+   "en": "Oh no, it's no big deal!",
+   "note": "mais as an interjection"
+  },
+  {
+   "fr": "Il était fatigué, donc il est rentré tôt.",
+   "en": "He was tired, so he went home early."
+  },
+  {
+   "fr": "Elle parle français et anglais, mais pas espagnol.",
+   "en": "She speaks French and English, but not Spanish."
+  },
+  {
+   "fr": "Je l'aime bien, car il est toujours honnête.",
+   "en": "I like him, because he's always honest.",
+   "note": "car after the main clause"
+  },
+  {
+   "fr": "Un café sans sucre ni lait, s'il vous plaît.",
+   "en": "A coffee without sugar or milk, please.",
+   "note": "sans… ni"
+  },
+  {
+   "fr": "Il pleuvait, faque on est restés en dedans.",
+   "en": "It was raining, so we stayed inside.",
+   "note": "faque = donc, informal Quebec; en dedans = inside"
+  }
+ ],
+ "quebec": {
+  "intro": "Spoken Quebec French has its own connectors: 'ça fait que', shortened to 'faque' [fak], for 'donc', and 'pis' for 'et (puis)'. They are informal but everywhere in conversation.",
+  "items": [
+   {
+    "std": "Il était tard, donc je suis parti.",
+    "qc": "Y'était tard, faque chu parti.",
+    "en": "It was late, so I left.",
+    "note": "faque = ça fait que = donc; informal"
+   },
+   {
+    "std": "J'avais faim, alors j'ai mangé.",
+    "qc": "J'avais faim, ça fait que j'ai mangé.",
+    "en": "I was hungry, so I ate.",
+    "note": "ça fait que: the full form, still informal"
+   },
+   {
+    "std": "Je suis allé au marché, puis je suis rentré.",
+    "qc": "Chu allé au marché, pis chu rentré.",
+    "en": "I went to the market, and then I went home.",
+    "note": "pis = puis / et; informal"
+   },
+   {
+    "std": "Tu viens ou bien tu restes?",
+    "qc": "Tu viens-tu ou ben tu restes?",
+    "en": "Are you coming or are you staying?",
+    "note": "ou ben = ou bien; -tu marks a yes/no question"
+   },
+   {
+    "std": "Je n'ai ni le temps ni l'argent.",
+    "qc": "J'ai pas le temps pis pas l'argent.",
+    "en": "I have neither the time nor the money.",
+    "note": "ni… ni is rare in casual speech"
+   },
+   {
+    "std": "Donc, qu'est-ce qu'on fait?",
+    "qc": "Faque, qu'est-ce qu'on fait?",
+    "en": "So, what are we doing?",
+    "note": "faque often starts a sentence, like 'so' in English"
+   }
+  ]
+ },
+ "drills": [
+  {
+   "t": "mcq",
+   "q": "Which conjunction is most formal and cannot start a sentence?",
+   "options": [
+    "mais",
+    "car",
+    "et",
+    "ou"
+   ],
+   "a": 1,
+   "why": "Car follows the main clause and belongs to a more formal register."
+  },
+  {
+   "t": "mcq",
+   "q": "'Faque' means…",
+   "options": [
+    "but",
+    "because",
+    "so",
+    "or"
+   ],
+   "a": 2,
+   "why": "Faque = ça fait que = donc."
+  },
+  {
+   "t": "mcq",
+   "q": "Je ne mange ___ viande ___ poisson.",
+   "options": [
+    "pas… pas",
+    "ni… ni",
+    "ou… ou",
+    "et… et"
+   ],
+   "a": 1,
+   "why": "Neither… nor = ne… ni… ni."
+  },
+  {
+   "t": "mcq",
+   "q": "Which spelling means 'or'?",
+   "options": [
+    "où",
+    "ou",
+    "oû",
+    "houx"
+   ],
+   "a": 1,
+   "why": "Ou (no accent) = or; où = where."
+  },
+  {
+   "t": "fill",
+   "q": "C'est un bon film, ___ c'est trop long. (but)",
+   "a": [
+    "mais"
+   ],
+   "en": "It's a good movie, but it's too long.",
+   "why": "Contrast → mais."
+  },
+  {
+   "t": "fill",
+   "q": "Il fait beau, ___ on va au parc. (so)",
+   "a": [
+    "donc",
+    "alors",
+    "ça fait que",
+    "faque"
+   ],
+   "en": "The weather's nice, so we're going to the park.",
+   "why": "Consequence → donc (alors and faque are spoken equivalents)."
+  },
+  {
+   "t": "fill",
+   "q": "Je reste à la maison, ___ je suis malade. (for/because)",
+   "a": [
+    "car",
+    "parce que"
+   ],
+   "en": "I'm staying home, because I'm sick.",
+   "why": "Justification → car or parce que."
+  },
+  {
+   "t": "fill",
+   "q": "Ni Paul ___ Julie ne sont venus. (nor)",
+   "a": [
+    "ni"
+   ],
+   "en": "Neither Paul nor Julie came.",
+   "why": "Ni… ni."
+  },
+  {
+   "t": "build",
+   "en": "Do you prefer tea or coffee?",
+   "a": "Tu préfères le thé ou le café?"
+  },
+  {
+   "t": "build",
+   "en": "I drink neither tea nor coffee.",
+   "a": "Je ne bois ni thé ni café."
+  },
+  {
+   "t": "build",
+   "en": "It's snowing, so the schools are closed.",
+   "a": "Il neige, donc les écoles sont fermées."
+  },
+  {
+   "t": "translate",
+   "en": "I'm tired, so I'm going home.",
+   "a": [
+    "Je suis fatigué, donc je rentre.",
+    "Je suis fatiguée, donc je rentre.",
+    "Je suis fatigué, alors je rentre.",
+    "Je suis fatiguée, alors je rentre.",
+    "Je suis fatigué, donc je rentre à la maison.",
+    "Je suis fatiguée, donc je rentre à la maison.",
+    "Je suis fatigué, alors je rentre à la maison.",
+    "Je suis fatiguée, alors je rentre à la maison."
+   ],
+   "why": "Donc or alors for 'so'."
+  },
+  {
+   "t": "translate",
+   "en": "It's cheap but it's good.",
+   "a": [
+    "C'est pas cher, mais c'est bon.",
+    "Ce n'est pas cher, mais c'est bon.",
+    "C'est bon marché, mais c'est bon."
+   ],
+   "why": "Mais for contrast."
+  },
+  {
+   "t": "translate",
+   "en": "Neither my brother nor my sister speaks English.",
+   "a": [
+    "Ni mon frère ni ma sœur ne parlent anglais.",
+    "Ni mon frère ni ma sœur ne parle anglais."
+   ],
+   "why": "Ni… ni + ne; the verb is usually plural."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "mais",
+   "en": "but",
+   "ex": "Je veux, mais je ne peux pas."
+  },
+  {
+   "fr": "ou bien",
+   "en": "or else",
+   "ex": "Tu viens ou bien tu restes?"
+  },
+  {
+   "fr": "donc",
+   "en": "so, therefore",
+   "ex": "Il pleut, donc je prends l'auto."
+  },
+  {
+   "fr": "car",
+   "en": "for, because (formal)",
+   "ex": "Je pars, car il est tard."
+  },
+  {
+   "fr": "or",
+   "en": "yet, now (in an argument)",
+   "ex": "Or, personne ne le savait."
+  },
+  {
+   "fr": "ne… ni… ni",
+   "en": "neither… nor",
+   "ex": "Je n'ai ni faim ni soif."
+  },
+  {
+   "fr": "alors",
+   "en": "so, then",
+   "ex": "Alors, on y va?"
+  },
+  {
+   "fr": "puis",
+   "en": "then, next",
+   "ex": "J'ai mangé, puis je suis sorti."
+  },
+  {
+   "fr": "faque",
+   "en": "so (= ça fait que)",
+   "ex": "J'étais fatigué, faque chu rentré.",
+   "qc": true
+  },
+  {
+   "fr": "pis",
+   "en": "and, and then (informal)",
+   "ex": "Moi pis mon chum, on part demain.",
+   "qc": true
+  },
+  {
+   "fr": "ou ben",
+   "en": "or else (informal)",
+   "ex": "Tu viens ou ben tu restes?",
+   "qc": true
+  },
+  {
+   "fr": "en dedans",
+   "en": "inside",
+   "ex": "On reste en dedans aujourd'hui.",
+   "qc": true
+  },
+  {
+   "fr": "la tuque",
+   "en": "toque, winter hat",
+   "g": "f",
+   "ex": "Mets ta tuque, il fait froid.",
+   "qc": true
+  },
+  {
+   "fr": "le quartier",
+   "en": "neighbourhood",
+   "g": "m",
+   "ex": "C'est un quartier tranquille."
+  },
+  {
+   "fr": "honnête",
+   "en": "honest",
+   "ex": "Il est toujours honnête."
+  }
+ ],
+ "listen": {
+  "pron": [
+   {
+    "fr": "faque",
+    "tip": "One syllable: FAK."
+   },
+   {
+    "fr": "ça fait que",
+    "tip": "Fast speech: sa-fè-kuh, then fak."
+   },
+   {
+    "fr": "pis",
+    "tip": "PEE, often with a short i in Quebec: [pɪ]."
+   },
+   {
+    "fr": "donc",
+    "tip": "DON(K): the c may be heard at the end of a sentence or before a vowel."
+   },
+   {
+    "fr": "car",
+    "tip": "KAR, final r pronounced (CaReFuL)."
+   },
+   {
+    "fr": "ni thé ni café",
+    "tip": "nee-TAY nee-ka-FAY, even rhythm."
+   },
+   {
+    "fr": "Mais oui!",
+    "tip": "mè-WEE, often with a rising, enthusiastic tone."
+   }
+  ],
+  "title": "Une fin de semaine ratée",
+  "dialogue": [
+   {
+    "s": "A",
+    "fr": "Pis, ta fin de semaine au camping?",
+    "en": "So, your camping weekend?"
+   },
+   {
+    "s": "B",
+    "fr": "Bof. Il a plu samedi, faque on est restés dans la tente.",
+    "en": "Meh. It rained on Saturday, so we stayed in the tent."
+   },
+   {
+    "s": "A",
+    "fr": "Ah non! Pis dimanche?",
+    "en": "Oh no! And Sunday?"
+   },
+   {
+    "s": "B",
+    "fr": "Dimanche, il faisait beau, mais on avait plus ni bois ni allumettes.",
+    "en": "On Sunday the weather was nice, but we had neither wood nor matches left."
+   },
+   {
+    "s": "A",
+    "fr": "Vous auriez pu aller au dépanneur, non?",
+    "en": "You could have gone to the convenience store, no?"
+   },
+   {
+    "s": "B",
+    "fr": "Il était fermé, car c'était un jour férié.",
+    "en": "It was closed, because it was a holiday."
+   },
+   {
+    "s": "A",
+    "fr": "Faque vous êtes revenus plus tôt?",
+    "en": "So you came back earlier?"
+   },
+   {
+    "s": "B",
+    "fr": "Oui, pis on a commandé de la pizza. C'était parfait!",
+    "en": "Yes, and we ordered pizza. It was perfect!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Why did they stay in the tent on Saturday?",
+    "options": [
+     "It was cold",
+     "It rained",
+     "They were tired"
+    ],
+    "a": 1
+   },
+   {
+    "q": "What did they run out of?",
+    "options": [
+     "Food and water",
+     "Wood and matches",
+     "Gas and money"
+    ],
+    "a": 1
+   },
+   {
+    "q": "How did the weekend end?",
+    "options": [
+     "With a pizza at home",
+     "At a restaurant",
+     "At the campsite"
+    ],
+    "a": 0
+   }
+  ]
+ },
+ "speak": [
+  {
+   "prompt": "Describe your morning in four short clauses linked with et, mais, donc and puis.",
+   "model": "Je me suis levé tôt et j'ai pris un café, mais il n'y avait plus de lait, donc je suis allé au dépanneur, puis je suis parti travailler."
+  },
+  {
+   "prompt": "Say two things you neither eat nor drink, using ne… ni… ni.",
+   "model": "Je ne mange ni porc ni fruits de mer. Je ne bois ni bière ni vin."
+  },
+  {
+   "prompt": "Retell this casually, Quebec style: 'Il pleuvait, donc nous sommes restés à la maison et nous avons regardé un film.'",
+   "model": "Y mouillait, faque on est restés à maison pis on a écouté un film."
+  }
+ ],
+ "write": {
+  "prompt": "Write a short formal paragraph (5 sentences) explaining a decision (e.g. moving, changing jobs). Use at least five different coordinating conjunctions, including car and or.",
+  "model": "L'an dernier, j'ai décidé de quitter Toronto et de m'installer à Montréal. Je voulais améliorer mon français, car je travaille avec des clients québécois. Or, il est difficile d'apprendre une langue sans la pratiquer tous les jours. Je n'avais ni famille ni amis ici, mais j'ai vite rencontré des gens. Je suis donc très content de mon choix."
+ },
+ "quiz": [
+  {
+   "q": "What is the memory sentence for the coordinating conjunctions?",
+   "options": [
+    "Mais où est donc Ornicar?",
+    "Dr. Mrs Vandertramp",
+    "CaReFuL",
+    "BAGS"
+   ],
+   "a": 0,
+   "why": "mais, ou, et, donc, or, ni, car."
+  },
+  {
+   "q": "Which conjunction is mostly used in written argument?",
+   "options": [
+    "et",
+    "or",
+    "pis",
+    "mais"
+   ],
+   "a": 1,
+   "why": "Or introduces a new fact in reasoning, mostly in writing."
+  },
+  {
+   "q": "In 'Viens donc!', donc…",
+   "options": [
+    "means 'therefore'",
+    "adds friendly emphasis",
+    "is a mistake",
+    "means 'never'"
+   ],
+   "a": 1,
+   "why": "Donc can intensify an imperative: 'Come on!'"
+  },
+  {
+   "q": "'Il ne mange ni viande ni poisson' — why no article?",
+   "options": [
+    "It's a mistake",
+    "Partitive articles disappear after ni",
+    "Viande is plural",
+    "Because of ne"
+   ],
+   "a": 1,
+   "why": "After ni, du/de la/des are dropped."
+  },
+  {
+   "q": "Which is the informal Quebec equivalent of 'et puis'?",
+   "options": [
+    "pis",
+    "faque",
+    "ben",
+    "tsé"
+   ],
+   "a": 0,
+   "why": "Pis comes from puis."
+  },
+  {
+   "q": "Which sentence uses car correctly?",
+   "options": [
+    "Car il pleut, je reste.",
+    "Je reste, car il pleut.",
+    "Je reste car que il pleut.",
+    "Il pleut car."
+   ],
+   "a": 1,
+   "why": "Car follows the main clause."
+  },
+  {
+   "q": "Ça fait que is best translated as…",
+   "options": [
+    "it makes that",
+    "so",
+    "because",
+    "although"
+   ],
+   "a": 1,
+   "why": "It introduces a consequence, like donc."
+  },
+  {
+   "q": "Which belongs in a formal letter?",
+   "options": [
+    "faque",
+    "pis",
+    "donc",
+    "ou ben"
+   ],
+   "a": 2,
+   "why": "Faque, pis and ou ben are informal."
+  },
+  {
+   "q": "Ni Marc ni Lise ___ venus.",
+   "options": [
+    "ne sont",
+    "sont",
+    "ne sont pas",
+    "n'est pas"
+   ],
+   "a": 0,
+   "why": "Ni… ni subjects take ne (without pas) and usually a plural verb."
+  }
+ ]
+}
