@@ -329,9 +329,14 @@ function viewRegister() {
       e.preventDefault();
       const name = $('#reg-name').value.trim(), email = $('#reg-email').value.trim();
       if (!name) { $('#reg-name').focus(); return; }
-      state.profile = { name, email, at: Date.now() };
-      state.name = name;
-      try { sessionStorage.removeItem(KEY); } catch (err) { /* storage unavailable */ }
+      const same = profiles().find(p => p.name.trim().toLowerCase() === name.toLowerCase());
+      if (same) {
+        $('#reg-dup').hidden = false;
+        $('#reg-dup').innerHTML = `<b>${esc(same.name)}</b> already learns on this device. <button type="button" class="btn sm" id="reg-resume">Continue as ${esc(same.name)}</button> or pick a different name.`;
+        $('#reg-resume').onclick = () => { signIn(same.id); toast(`Welcome back, ${same.name}!`); location.hash = '#home'; render(); };
+        return;
+      }
+      createProfile(name, email);
       log('Created your Bonjourly profile', 'users');
       save();
       toast(`Bienvenue, ${name}! Everything is unlocked.`);
@@ -346,7 +351,9 @@ function viewRegister() {
       <form id="reg-form" class="stack" style="gap:14px;margin-top:18px">
         <label class="field">Your first name<input class="input" id="reg-name" autocomplete="given-name" required maxlength="40" placeholder="e.g. Alex"></label>
         <label class="field">Email <span class="sub" style="font-weight:500">optional, for account sync when it launches</span><input class="input" id="reg-email" type="email" autocomplete="email" maxlength="120" placeholder="you@example.com"></label>
+        <div class="tip" id="reg-dup" hidden></div>
         <button class="btn" type="submit">${ic('check')} Register and unlock all lessons</button>
+        ${profiles().length ? `<a href="#welcome" class="sub" style="text-align:center">Already registered on this device? Pick your name</a>` : ''}
       </form>
       <p class="sub" style="margin-top:14px">Your profile and progress are stored on this device only. Nothing is sent anywhere yet. Use <b>Progress → Save backup file</b> to move to another device.</p>
     </section>
@@ -360,4 +367,43 @@ function viewRegister() {
         <div class="req">${ic('x')} <span>Without a profile: lessons 1–${GUEST_LESSONS} only, and progress is lost when you close the browser</span></div>
       </div>
     </section></div>`;
+}
+
+// ---------- Who's learning? (learners on this device) ----------
+function viewWelcome() {
+  const list = profiles().sort((a, b) => (b.lastSeen || 0) - (a.lastSeen || 0));
+  const cur = state.profile && state.profile.id;
+  let armed = null;
+  later(() => {
+    $$('[data-learner]').forEach(b => b.onclick = () => {
+      if (signIn(b.dataset.learner)) { toast(`Welcome back, ${state.name}!`); location.hash = '#home'; render(); }
+      else toast('That learner\'s progress could not be found on this device.');
+    });
+    $$('[data-remove]').forEach(b => b.onclick = () => {
+      if (armed !== b.dataset.remove) { armed = b.dataset.remove; b.textContent = 'Click again to delete this learner\'s progress'; return; }
+      deleteProfile(b.dataset.remove); toast('Learner removed.'); render();
+    });
+    $$('[data-act-new]').forEach(b => b.onclick = () => { signOut(); location.hash = b.dataset.actNew; render(); });
+  });
+  const card = p => {
+    const initials = p.name.trim().split(/\s+/).map(s => s[0]).join('').slice(0, 2).toUpperCase();
+    const pct = Math.round((p.done || 0) / 168 * 100);
+    return `<div class="learner ${p.id === cur ? 'cur' : ''}">
+      <span class="avatar">${esc(initials)}</span>
+      <div class="who-l"><b>${esc(p.name)}</b><small>Lesson ${p.lesson || 1} · ${p.done || 0}/168 done · ${p.lastSeen ? `last practice ${ago(p.lastSeen).toLowerCase()}` : 'new'}</small>
+        <span class="bar"><span style="width:${pct}%"></span></span></div>
+      <button class="btn" data-learner="${esc(p.id)}">${p.id === cur ? 'Continue' : 'This is me'} ${ic('arrow')}</button>
+      <button class="link-btn" data-remove="${esc(p.id)}">Remove</button></div>`;
+  };
+  return `<div class="welcome">
+    <img src="logo.svg" alt="" width="64" height="64" onerror="this.remove()">
+    <h1>${list.length ? 'Who\'s learning?' : 'Bienvenue sur Bonjourly'}</h1>
+    <p class="sub">${list.length ? 'Pick your name to see your progress and continue where you left off.' : 'Create a free profile to save your progress, or try the free week first.'}</p>
+    <div class="learners">${list.map(card).join('')}</div>
+    <div class="row" style="justify-content:center;margin-top:18px">
+      <button class="btn ghost" data-act-new="#register">${ic('users')} New learner</button>
+      <button class="btn ghost" data-act-new="#home">Try the free week as a guest</button>
+    </div>
+    <p class="sub" style="margin-top:18px;max-width:520px">Names and progress are saved in this browser on this device. On a new device, use Progress → Save backup file here and Load backup file there.</p>
+  </div>`;
 }

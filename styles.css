@@ -591,3 +591,21 @@ button.chip { border: 0; cursor: pointer; }
 .register { display: grid; grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr); gap: 20px; align-items: start; max-width: 980px; }
 .reg-card h1 { font-size: 26px; font-weight: 800; margin-top: 10px; }
 @media (max-width: 800px) { .register { grid-template-columns: minmax(0, 1fr); } }
+
+/* ---------- Who's learning? ---------- */
+.welcome { max-width: 640px; margin: 10px auto; display: flex; flex-direction: column; align-items: center; text-align: center; gap: 6px; }
+.welcome h1 { font-size: 28px; font-weight: 800; margin-top: 6px; }
+.learners { display: flex; flex-direction: column; gap: 10px; width: 100%; margin-top: 18px; text-align: left; }
+.learner { display: grid; grid-template-columns: auto minmax(0, 1fr) auto; grid-template-areas: "av who go" "av rm rm"; column-gap: 14px; align-items: center;
+  background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 14px 16px; box-shadow: var(--shadow); }
+.learner.cur { border-color: var(--primary); box-shadow: 0 0 0 3px var(--primary-soft); }
+.learner .avatar { grid-area: av; width: 48px; height: 48px; font-size: 16px; }
+.learner .who-l { grid-area: who; min-width: 0; }
+.learner .who-l b { font-size: 16px; display: block; }
+.learner .who-l small { color: var(--muted); font-size: 12.5px; }
+.learner .who-l .bar { display: block; margin-top: 6px; height: 6px; max-width: 260px; }
+.learner .btn { grid-area: go; }
+.link-btn { grid-area: rm; justify-self: end; border: 0; background: none; color: var(--faint); font-size: 12px; padding: 4px 0 0; }
+.link-btn:hover { color: var(--bad); }
+.welcome-back { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; font-size: 13.5px; color: var(--muted); margin-top: -4px; }
+.welcome-back a { font-weight: 600; }

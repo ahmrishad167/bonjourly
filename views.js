@@ -38,7 +38,7 @@ function drawShell(base) {
   const initials = (state.name || '?').trim().split(/\s+/).map(s => s[0]).join('').slice(0, 2).toUpperCase();
   const me = $('#me');
   if (isGuest()) { me.href = '#register'; me.innerHTML = `<span class="btn sm">${ic('users')} Register free</span>`; }
-  else { me.href = '#progress'; me.innerHTML = `<span class="avatar">${esc(initials)}</span><span class="who"><b>${esc(state.name)}</b><small>Lesson ${cw} · ${ph.id} ${ph.name}</small></span>`; }
+  else { me.href = '#welcome'; me.title = 'Switch learner'; me.innerHTML = `<span class="avatar">${esc(initials)}</span><span class="who"><b>${esc(state.name)}</b><small>Lesson ${cw} · ${ph.id} ${ph.name}</small></span>`; }
 }
 
 function render() {
@@ -61,6 +61,7 @@ function render() {
   else if (h === 'placement') { base = 'path'; html = viewPlacement(); }
   else if (h === 'more') html = viewMore();
   else if (h === 'register') html = viewRegister();
+  else if (h === 'welcome') { base = 'progress'; html = viewWelcome(); }
   else if (h === 'path') html = viewPath();
   else if (h === 'vocab') html = viewVocab();
   else if (h === 'grammar') html = viewGrammar();
@@ -103,6 +104,8 @@ function viewHome() {
         <a class="btn" href="#w${cw}-d${d + 1}">Continue learning ${ic('chev')}</a>
       </div>
     </section>
+    ${state.profile ? `<div class="welcome-back">${state.prevVisit ? `Welcome back! Your last practice was ${ago(state.prevVisit).toLowerCase()}.` : `Your progress is saved under the name ${esc(state.name)}.`}
+      <a href="#welcome">Not ${esc(state.name)}? Switch learner</a></div>` : ''}
 
     ${isGuest() ? `<section class="guest-bar">${ic('users')}<div><b>You're on the free week: lessons 1–${GUEST_LESSONS}.</b><span>Register free to unlock all 168 lessons and save your progress.</span></div><a class="btn sm" href="#register">Register free</a></section>` : ''}
 
@@ -578,14 +581,26 @@ function viewProgress() {
       f.text().then(txt => {
         const d = JSON.parse(txt);
         if (!d || typeof d.weeks !== 'object') throw new Error('not a Bonjourly backup');
-        state = Object.assign(freshState(), d, { settings: Object.assign(freshState().settings, d.settings) });
-        save(); toast('Progress restored.'); render();
+        const me = state.profile;
+        state = hydrate(d);
+        if (me) { state.profile = me; state.name = me.name; save(); toast('Progress restored.'); }
+        else if (d.profile && d.name) {
+          // A returning learner on a new device: recreate their profile from the backup.
+          const taken = profiles().some(p => p.name.trim().toLowerCase() === d.name.trim().toLowerCase());
+          createProfile(taken ? `${d.name} (backup)` : d.name, d.profile.email || '');
+          toast(`Welcome back, ${state.name}! Your progress is restored.`);
+        } else { state.profile = null; state.name = ''; save(); toast('Progress restored. Register free to keep it.'); }
+        render();
       }).catch(() => toast('That file is not a Bonjourly backup.'));
     };
     $('#s-lock').onchange = e => { state.settings.lock = e.target.checked; save(); toast(e.target.checked ? 'Section locks on.' : 'Section locks off. Everything is open.'); };
     $('#s-reset').onclick = () => {
       if (!resetArmed) { resetArmed = true; $('#s-reset').textContent = 'Click again to erase all progress'; return; }
-      resetArmed = false; state = freshState(); save(); toast('Progress reset.'); render();
+      resetArmed = false;
+      const me = state.profile;
+      state = freshState();
+      if (me) { state.profile = me; state.name = me.name; }
+      save(); toast('Progress reset.'); render();
     };
   });
   return `<div class="page-head"><div><h1>Progress</h1><p>${isGuest() ? 'Guest mode: progress lasts until you close the browser. Register free to save it.' : 'Saved in this browser.'} You're on lesson ${cw}, month ${monthOf(cw)} of the 6-month plan.</p></div></div>
@@ -623,6 +638,7 @@ function viewProgress() {
         <div class="field">Back up your progress <span class="sub">Progress lives in this browser only. Save a backup file now and then, and load it on another device or browser.</span>
           <div class="row"><button class="btn sm ghost" id="s-export">${ic('arrow')} Save backup file</button>
           <label class="btn sm ghost" for="s-import">${ic('refresh')} Load backup file</label><input type="file" id="s-import" accept=".json,application/json" hidden></div></div>
+        ${isGuest() ? '' : `<div class="field">Learner<div class="row"><a class="btn sm ghost" href="#welcome">${ic('users')} Switch learner</a><button class="btn sm ghost" data-act="sign-out">Sign out</button></div></div>`}
         <div><button class="btn sm ghost" id="s-reset" style="color:var(--bad)">Reset all progress</button></div>
       </div></section>
     </div>
@@ -670,6 +686,8 @@ document.addEventListener('click', e => {
     a.innerHTML = `${ic('eye')} ${on ? 'Show English' : 'Hide English'}`;
   } else if (act === 'reveal') {
     const el = document.getElementById(a.dataset.target); el.hidden = !el.hidden;
+  } else if (act === 'sign-out') {
+    signOut(); toast('Signed out. Your progress stays saved under your name.'); location.hash = '#welcome'; render();
   } else if (act === 'known') {
     const k = a.dataset.k;
     if (state.known[k]) delete state.known[k]; else { state.known[k] = 1; touch(); }
@@ -680,4 +698,6 @@ document.addEventListener('click', e => {
 }, true);
 
 window.addEventListener('hashchange', render);
+// A returning visitor who isn't signed in starts at "Who's learning?" when learners exist on this device.
+if (isGuest() && profiles().length && !RM.some(r => daysDone(r.w) > 0) && /^#?(home)?$/.test(location.hash)) location.hash = '#welcome';
 render();

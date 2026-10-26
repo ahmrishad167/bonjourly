@@ -76,24 +76,77 @@ function freshState() {
     settings: { rate: 0.95, voice: '', lock: true },
   };
 }
-// Registered learners keep progress in localStorage; guests only for the browser session.
+// Learners on this device: each registered profile keeps its own progress in localStorage under
+// KEY:<id>, listed in PROFILES_KEY; ACTIVE_KEY remembers who is signed in. Guests use sessionStorage only.
+const PROFILES_KEY = 'bonjourly.profiles', ACTIVE_KEY = 'bonjourly.active';
+const stateKey = id => `${KEY}:${id}`;
+const hydrate = s => Object.assign(freshState(), s, { settings: Object.assign(freshState().settings, s.settings) });
+function readJSON(store, k) { try { return JSON.parse(store.getItem(k)); } catch (e) { return null; } }
+function writeJSON(store, k, v) { try { store.setItem(k, JSON.stringify(v)); } catch (e) { /* storage unavailable */ } }
+const profiles = () => readJSON(localStorage, PROFILES_KEY) || [];
+const saveProfiles = list => writeJSON(localStorage, PROFILES_KEY, list);
+function setActive(id) { try { id ? localStorage.setItem(ACTIVE_KEY, id) : localStorage.removeItem(ACTIVE_KEY); } catch (e) { /* storage unavailable */ } }
+const newId = () => Date.now().toString(36) + Math.random().toString(36).slice(2, 6);
+
+function migrateLegacy() {
+  // Before multi-learner support, one state lived under KEY itself.
+  const s = readJSON(localStorage, KEY);
+  if (!s || !s.weeks) return;
+  try { localStorage.removeItem(KEY); } catch (e) { /* storage unavailable */ }
+  if (s.profile) {
+    s.profile.id = s.profile.id || newId();
+    writeJSON(localStorage, stateKey(s.profile.id), s);
+    saveProfiles([...profiles(), { id: s.profile.id, name: s.profile.name, at: s.profile.at || Date.now(), lastSeen: Date.now() }]);
+    setActive(s.profile.id);
+  } else {
+    s.name = '';
+    writeJSON(sessionStorage, KEY, s); // unregistered progress becomes this session's guest progress
+  }
+}
 function loadState() {
-  try {
-    const s = JSON.parse(localStorage.getItem(KEY) || sessionStorage.getItem(KEY));
-    if (s && s.weeks) {
-      if (!s.profile) {
-        // Saved before registration existed (or a guest): no name, and guest progress lives in the session only.
-        s.name = '';
-        if (localStorage.getItem(KEY)) { sessionStorage.setItem(KEY, JSON.stringify(s)); localStorage.removeItem(KEY); }
-      }
-      return Object.assign(freshState(), s, { settings: Object.assign(freshState().settings, s.settings) });
-    }
-  } catch (e) { /* storage unavailable */ }
+  migrateLegacy();
+  let id = null;
+  try { id = localStorage.getItem(ACTIVE_KEY); } catch (e) { /* storage unavailable */ }
+  const mine = id && readJSON(localStorage, stateKey(id));
+  if (mine && mine.weeks) return hydrate(mine);
+  const guest = readJSON(sessionStorage, KEY);
+  if (guest && guest.weeks) { guest.name = ''; guest.profile = null; return hydrate(guest); }
   return freshState();
 }
 let state = loadState();
+if (state.profile) state.prevVisit = (profiles().find(p => p.id === state.profile.id) || {}).lastSeen || null;
 function save() {
-  try { (state.profile ? localStorage : sessionStorage).setItem(KEY, JSON.stringify(state)); } catch (e) { /* storage unavailable */ }
+  if (!state.profile) { writeJSON(sessionStorage, KEY, state); return; }
+  writeJSON(localStorage, stateKey(state.profile.id), state);
+  // Keep the "Who's learning?" summary current.
+  saveProfiles(profiles().map(p => p.id === state.profile.id
+    ? Object.assign(p, { name: state.name, lastSeen: Date.now(), lesson: currentWeek(), done: weeksDone() }) : p));
+}
+function signIn(id) {
+  const s = readJSON(localStorage, stateKey(id));
+  if (!s) return false;
+  state = hydrate(s);
+  state.prevVisit = (profiles().find(p => p.id === id) || {}).lastSeen || null;
+  setActive(id); save();
+  return true;
+}
+function signOut() {
+  setActive(null);
+  try { sessionStorage.removeItem(KEY); } catch (e) { /* storage unavailable */ }
+  state = freshState();
+}
+function createProfile(name, email) {
+  const id = newId();
+  state.profile = { id, name, email, at: Date.now() }; // the guest's progress so far carries over
+  state.name = name;
+  saveProfiles([...profiles(), { id, name, at: Date.now(), lastSeen: Date.now() }]);
+  try { sessionStorage.removeItem(KEY); } catch (e) { /* storage unavailable */ }
+  setActive(id); save();
+}
+function deleteProfile(id) {
+  saveProfiles(profiles().filter(p => p.id !== id));
+  try { localStorage.removeItem(stateKey(id)); } catch (e) { /* storage unavailable */ }
+  if (state.profile && state.profile.id === id) signOut(); else { try { if (localStorage.getItem(ACTIVE_KEY) === id) setActive(null); } catch (e) { /* storage unavailable */ } }
 }
 const GUEST_LESSONS = 7; // the free week: one lesson a day for 7 days
 const isGuest = () => !state.profile;
