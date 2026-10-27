@@ -41,6 +41,7 @@ function mergeStates(a, b) {
     const x = (a.weeks || {})[w] || { days: [0, 0, 0, 0, 0, 0] }, y = (b.weeks || {})[w] || { days: [0, 0, 0, 0, 0, 0] };
     out.weeks[w] = { days: x.days.map((d, i) => (d || y.days[i] ? 1 : 0)) };
     const at = [x.at, y.at].filter(Boolean); if (at.length) out.weeks[w].at = Math.min(...at);
+    if (x.best || y.best) out.weeks[w].best = [0, 1, 2, 3, 4, 5].map(i => Math.max((x.best || [])[i] || 0, (y.best || [])[i] || 0));
   });
   const union = k => Object.assign({}, b[k] || {}, a[k] || {});
   ['known', 'practiced', 'mistakes'].forEach(k => { out[k] = union(k); });
@@ -127,7 +128,9 @@ const Account = {
     if (!profiles().some(p => p.id === user.id)) saveProfiles([...profiles(), { id: user.id, name: prof.first_name, at: Date.now(), cloud: true }]);
     setActive(user.id);
     save(); this.push(true);
-    if (/^#?(home|register|signin|start|welcome)?$/.test(location.hash) || /access_token|error_description/.test(location.hash)) location.hash = '#home';
+    if (/^#?(home|register|signin|start|welcome)?$/.test(location.hash) || /access_token|error_description/.test(location.hash)) {
+      location.hash = (pending.welcome || {}).level === 'some' && placementOffered() ? '#placement' : '#home';
+    }
     render();
     return user;
   },

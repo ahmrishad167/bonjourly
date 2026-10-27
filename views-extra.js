@@ -305,9 +305,17 @@ function viewMore() {
 }
 
 // ---------- Shared ----------
+// The placement test is optional and only offered before the learner starts lesson 1.
+const placementOffered = () => !state.placedAt && !state.noPlacement && !RM.some(r => daysDone(r.w) > 0);
+function placementOffer() {
+  if (!placementOffered()) return '';
+  later(() => { const b = $('[data-act="no-placement"]'); if (b) b.onclick = () => { state.noPlacement = 1; save(); render(); }; });
+  return `<section class="offer">${ic('target')}<div><b>Already know some French?</b><span>Take the optional 5-minute placement test to skip what you know. Or just start with lesson 1.</span></div>
+    <a class="btn sm" href="#placement">Take the test</a><button class="btn sm ghost" data-act="no-placement" type="button">No thanks</button></section>`;
+}
 function lockedPanel(title, text, href, label) {
   return `<section class="card empty locked-panel"><span class="lock-ico">${ic('lock')}</span><h3>${esc(title)}</h3><p>${esc(text)}</p>
-    <div class="row" style="justify-content:center;margin-top:14px">${href ? `<a class="btn" href="${href}">${esc(label)}</a>` : ''}<a class="btn ghost" href="#placement">${ic('target')} Placement test</a></div></section>`;
+    <div class="row" style="justify-content:center;margin-top:14px">${href ? `<a class="btn" href="${href}">${esc(label)}</a>` : ''}</div></section>`;
 }
 function certificate(p) {
   const w = state.weeks[p.to] || {};

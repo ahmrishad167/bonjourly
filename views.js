@@ -119,6 +119,8 @@ function viewHome() {
 
     ${isGuest() ? `<section class="guest-bar">${ic('users')}<div><b>You're on the free week: lessons 1–${GUEST_LESSONS}.</b><span>Register free to unlock all 168 lessons and save your progress.</span></div><a class="btn sm" href="${(state.welcome || {}).done ? '#register' : '#start'}">Get started</a></section>` : ''}
 
+    ${placementOffer()}
+
     <section class="card">
       <div class="card-h"><span class="ico">${ic('target')}</span><div><h2>Your Learning Path</h2><div class="sub">Four phases, 168 lessons, about 6 months at one lesson a day.</div></div>
         <a class="more btn sm soft" href="#path">${ic('route')} Open path</a></div>
@@ -232,7 +234,8 @@ function viewPath() {
   });
   return `<div class="page-head"><div><h1>Learning Path</h1><p>168 lessons, each in six steps. One lesson a day finishes in about 6 months; go faster or slower as life allows. Review lessons recycle the block; milestones test the phase.</p></div>
     <div class="seg" style="margin-left:auto">${['all', 'A1', 'A2', 'B1', 'B2'].map(f => `<button data-pf="${f}" class="${pathFilter === f ? 'on' : ''}">${f === 'all' ? 'All' : f}</button>`).join('')}</div>
-    <a class="btn ghost" href="#placement">${ic('target')} Placement test</a><a class="btn" href="#w${cw}">${ic('play')} Lesson ${cw}</a></div>
+    <a class="btn" href="#w${cw}">${ic('play')} Lesson ${cw}</a></div>
+    ${placementOffer()}
     ${state.settings.lock ? `<p class="sub" style="margin:-8px 0 16px">${ic('lock')} Section locks are on: each step opens after you pass the previous step's check, and each lesson after the previous lesson. You can turn this off in Progress → Settings.</p>` : ''}${blocks}`;
 }
 function weekCard(r, cw) {
@@ -246,6 +249,20 @@ function weekCard(r, cw) {
 }
 
 // ---------- Week / lesson ----------
+// Best score per lesson step (older progress falls back to the score history).
+const retaking = new Set();
+function saveBest(w, d, pct) {
+  const st = state.weeks[w] || (state.weeks[w] = { days: [0, 0, 0, 0, 0, 0] });
+  st.best = st.best || [];
+  st.best[d] = Math.max(pct, st.best[d] || 0); save();
+}
+function bestScore(w, d, kind) {
+  const b = ((state.weeks[w] || {}).best || [])[d];
+  if (b !== undefined && b !== null) return b;
+  const hist = state.scores.filter(s => s.w === w && s.kind === kind).map(s => s.pct);
+  return hist.length ? Math.max(...hist) : null;
+}
+
 function viewWeek(w, d) {
   const r = RM[w - 1], c = WK[w], ph = phaseOf(w);
   const head = `<section class="card">
@@ -266,7 +283,7 @@ function viewWeek(w, d) {
   }
   if (isGuest() && w > GUEST_LESSONS) return head + registerPanel();
   if (!weekOpen(w)) {
-    return head + lockedPanel(`Lesson ${w} is locked`, `Complete lesson ${w - 1} first, or take the placement test to skip ahead.`, `#w${w - 1}`, `Go to lesson ${w - 1}`);
+    return head + lockedPanel(`Lesson ${w} is locked`, `Complete lesson ${w - 1} first.`, `#w${w - 1}`, `Go to lesson ${w - 1}`);
   }
   const tabs = `<nav class="day-tabs">${DAYS.map((x, k) => `<a class="day-tab ${k === d ? 'on' : ''} ${dayOpen(w, k) ? '' : 'locked'}" href="#w${w}-d${k + 1}"${k === d ? ' aria-current="page"' : ''}>
     ${wstate(w).days[k] ? `<span class="ok">${ic('check')}</span>` : dayOpen(w, k) ? '' : `<span class="ok lk">${ic('lock')}</span>`}<small>Step ${k + 1}</small><b>${x.n}</b></a>`).join('')}</nav>`;
@@ -275,17 +292,29 @@ function viewWeek(w, d) {
   }
   const next = d < 5 ? `#w${w}-d${d + 2}` : (w < 168 ? `#w${w + 1}` : '#progress');
   const nextLabel = d < 5 ? `Step ${d + 2}: ${DAYS[d + 1].n}` : (w < 168 ? `Lesson ${w + 1}` : 'See progress');
-  // Every day ends in an evaluation; passing it unlocks the next day.
+  // Every step ends in an evaluation; passing it unlocks the next step. A passed step shows its best score
+  // with a Retake option; an unfinished attempt resumes where the learner left off.
   const check = (title, note, items, pass, kind) => {
-    later(() => runner($(`#chk-${d}`), items, {
-      nextHref: next, nextLabel,
-      onFinish: pct => {
-        recordScore(kind, pct, w);
-        if (pct >= pass) { setDay(w, d); return d === 5 && isDone(w) ? `Lesson ${w} complete. Félicitations!` : `Passed. ${nextLabel} is open.`; }
-        return `You need ${pass}% to pass. Retry your mistakes, then start again.`;
-      },
-    }));
-    return `<section class="eval"><div class="eval-h">${ic('lock')}<div><h3>${title}</h3><div class="sub">${note} Pass mark: ${pass}%.${wstate(w).days[d] ? ' You already passed this.' : ''}</div></div></div><div id="chk-${d}"></div></section>`;
+    const key = `${w}-${d}`, best = bestScore(w, d, kind);
+    const showPassed = wstate(w).days[d] && !retaking.has(key);
+    later(() => {
+      const host = $(`#chk-${d}`);
+      if (showPassed) { $('[data-act="retake"]', host).onclick = () => { retaking.add(key); render(); }; return; }
+      runner(host, items, {
+        resumeKey: `step:${key}`, nextHref: next, nextLabel,
+        onFinish: pct => {
+          recordScore(kind, pct, w); saveBest(w, d, pct); retaking.delete(key); // back to the result card on the next visit
+          const wasPassed = !!wstate(w).days[d];
+          if (pct >= pass) { setDay(w, d); return d === 5 && isDone(w) ? `Lesson ${w} complete. Félicitations!` : `Passed. ${nextLabel} is open.`; }
+          return wasPassed ? `You need ${pass}% to pass. Don't worry: your earlier pass still counts.` : `You need ${pass}% to pass. Retry your mistakes, then start again.`;
+        },
+      });
+    });
+    const passedCard = `<div class="passed-card"><span class="pc-medal">${ic('trophy')}</span>
+      <div class="pc-body"><b>Félicitations! You passed this step.</b>
+        <span class="sub">${best !== null ? `Your best score: <b class="pc-score">${best}%</b> (pass mark ${pass}%)` : `Pass mark ${pass}%`}</span></div>
+      <div class="pc-acts"><button class="btn ghost" type="button" data-act="retake">${ic('refresh')} Retake</button><a class="btn" href="${next}">${esc(nextLabel)} ${ic('arrow')}</a></div></div>`;
+    return `<section class="eval ${showPassed ? 'done' : ''}"><div class="eval-h">${ic(showPassed ? 'check' : 'lock')}<div><h3>${title}</h3><div class="sub">${note} Pass mark: ${pass}%.</div></div></div><div id="chk-${d}">${showPassed ? passedCard : ''}</div></section>`;
   };
   const foot = () => wstate(w).days[d] ? `<div class="day-foot"><span class="sub">${ic('check')} Step ${d + 1} passed</span><a class="btn" href="${next}">${esc(nextLabel)} ${ic('arrow')}</a></div>` : '';
   Object.assign(foot, { check });
@@ -376,7 +405,7 @@ function daySpeak(w, c, r, { foot, next, nextLabel }) {
       const ok = spoken === c.speak.length && words >= need;
       $('#sw-req').innerHTML = `<div class="req ${spoken === c.speak.length ? 'met' : ''}">${ic('check')} Practise all ${c.speak.length} speaking prompts (${spoken}/${c.speak.length})</div>
         <div class="req ${words >= need ? 'met' : ''}">${ic('check')} Write at least ${need} words (${words}/${need})</div>
-        <div class="row" style="margin-top:12px">${wstate(w).days[4] ? `<a class="btn" href="${next}">${esc(nextLabel)} ${ic('arrow')}</a>`
+        <div class="row" style="margin-top:12px">${wstate(w).days[4] ? `<span class="chip green">${ic('trophy')} Step 5 complete. Félicitations!</span><a class="btn" href="${next}">${esc(nextLabel)} ${ic('arrow')}</a>`
           : `<button class="btn" id="sw-submit" ${ok ? '' : 'disabled'}>Submit step 5 ${ic('arrow')}</button>`}</div>`;
       const sb = $('#sw-submit');
       if (sb) sb.onclick = () => { setDay(w, 4); toast('Step 5 passed.'); location.hash = next; };
@@ -603,7 +632,6 @@ function viewProgress() {
         <div class="field">Goal for Phase 4 <span class="sub">Conversation keeps the plan as written. An exam turns lessons 152, 160, 161, 163 and 165 into exam-format practice.</span>
           <div class="seg">${[['conv', 'Conversation'], ['tef', 'TEF Canada'], ['delf', 'DELF B2'], ['undecided', 'Undecided']].map(([k, l]) => `<button data-goal="${k}" class="${state.goal === k ? 'on' : ''}">${l}</button>`).join('')}</div></div>
         <label class="row" style="gap:8px;font-weight:600"><input type="checkbox" id="s-lock" ${state.settings.lock ? 'checked' : ''}> Section locks <span class="sub" style="font-weight:500">Steps and lessons open only after you pass the previous one.</span></label>
-        <div class="field">Already know some French?<div class="row"><a class="btn sm ghost" href="#placement">${ic('target')} Take the placement test</a>${state.placed ? `<span class="sub">Lessons 1–${state.placed} unlocked by placement</span>` : ''}</div></div>
         <div class="field">Back up your progress <span class="sub">Progress lives in this browser only. Save a backup file now and then, and load it on another device or browser.</span>
           <div class="row"><button class="btn sm ghost" id="s-export">${ic('arrow')} Save backup file</button>
           <label class="btn sm ghost" for="s-import">${ic('refresh')} Load backup file</label><input type="file" id="s-import" accept=".json,application/json" hidden></div></div>

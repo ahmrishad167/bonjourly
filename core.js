@@ -73,7 +73,7 @@ function freshState() {
   return {
     name: '', profile: null, weeks, known: {}, scores: [], activity: [], days: {}, writes: {}, goal: 'undecided',
     srs: {}, daily: {}, stories: {}, practiced: {}, placed: 0,
-    mistakes: {}, skill: {}, lessonStats: {}, packs: {}, plan: null, welcome: null,
+    mistakes: {}, skill: {}, lessonStats: {}, packs: {}, plan: null, welcome: null, runs: {},
     settings: { rate: 0.95, voice: '', lock: true },
   };
 }
@@ -404,11 +404,27 @@ function runner(host, items, opts = {}) {
   // opts.test hides right/wrong until the end; opts.onAnswer(item, ok) sees every answer (mistake bank, stats).
   let list = items.slice(), i = 0, results = [], answered = false, built = [], sel = null, matched = new Set(), misses = 0;
   const total = () => list.length;
+  // opts.resumeKey: remember the place after every answer, so leaving halfway and coming back continues there.
+  const RK = opts.resumeKey;
+  const strip = it => { const c = Object.assign({}, it); delete c._words; delete c._f; delete c._e; return c; };
+  let resumed = false;
+  const saved = RK && state.runs && state.runs[RK];
+  if (saved && saved.items && saved.i > 0 && saved.i < saved.items.length) {
+    list = saved.items; i = saved.i; resumed = true;
+    results = saved.results.map(x => ({ it: list[x.k], ok: x.ok, given: x.given }));
+  }
+  const persist = () => {
+    if (!RK) return;
+    (state.runs || (state.runs = {}))[RK] = { items: list.map(strip), i: i + 1, at: Date.now(), results: results.map(r => ({ k: list.indexOf(r.it), ok: r.ok, given: r.given })) };
+    save();
+  };
+  const clearRun = () => { if (RK && state.runs && state.runs[RK]) { delete state.runs[RK]; save(); } };
 
   function frame(inner) {
     const pct = Math.round(i / total() * 100);
     host.innerHTML = `<div class="runner card">
       <div class="runner-top"><div class="bar"><span style="width:${pct}%"></span></div><span>${i + 1} / ${total()}</span></div>
+      ${resumed ? `<div class="resume-note">${ic('refresh')}<span>Welcome back: continuing at question ${i + 1} of ${total()} (${results.filter(r => r.ok).length} right so far).</span><button type="button" class="link-btn" data-r="restart">Start over</button></div>` : ''}
       ${inner}
       <div id="r-fb"></div>
       <div class="runner-actions" id="r-actions"></div>
@@ -473,6 +489,7 @@ function runner(host, items, opts = {}) {
     const it = list[i];
     const ok = status === 'ok' || status === 'almost';
     results.push({ it, ok, given });
+    persist();
     opts.onAnswer && opts.onAnswer(it, ok);
     if (opts.test) {
       $('#r-fb', host).innerHTML = `<div class="feedback neutral" role="status">${ic('check')}<div><b>Answer saved.</b><div class="why">Test mode: you'll see your score and corrections at the end.</div></div></div>`;
@@ -507,6 +524,7 @@ function runner(host, items, opts = {}) {
   }
 
   function finish() {
+    clearRun();
     const ok = results.filter(r => r.ok).length;
     const pct = total() ? Math.round(ok / total() * 100) : 0;
     const extra = opts.onFinish ? opts.onFinish(pct, results) : '';
@@ -571,14 +589,14 @@ function runner(host, items, opts = {}) {
       }).catch(() => toast('The microphone is not available here. Say it aloud and grade yourself.'))
         .finally(() => { t.classList.remove('on'); t.innerHTML = `${ic('mic')} Check with speech recognition`; });
     }
-    else if (r === 'next') { i++; draw(); }
-    else if (r === 'retry') { list = results.filter(x => !x.ok).map(x => x.it); i = 0; results = []; draw(); }
-    else if (r === 'restart') { list = items.slice(); i = 0; results = []; draw(); }
+    else if (r === 'next') { i++; resumed = false; draw(); }
+    else if (r === 'retry') { clearRun(); list = results.filter(x => !x.ok).map(x => x.it); i = 0; results = []; resumed = false; draw(); }
+    else if (r === 'restart') { clearRun(); list = items.slice(); i = 0; results = []; resumed = false; draw(); }
   };
   host.onkeydown = e => {
     const it = list[i];
     if (e.key === 'Enter' && !e.shiftKey && it && !answered && !['mcq', 'shadow', 'match'].includes(it.t) && (it.t !== 'build' || e.target.id === 'r-type')) { e.preventDefault(); check(); }
-    else if (e.key === 'Enter' && answered && e.target.tagName !== 'BUTTON') { e.preventDefault(); i++; draw(); }
+    else if (e.key === 'Enter' && answered && e.target.tagName !== 'BUTTON') { e.preventDefault(); i++; resumed = false; draw(); }
     else if (it && it.t === 'mcq' && !answered && /^[1-5]$/.test(e.key) && e.target.tagName !== 'INPUT') {
       const b = $(`[data-opt="${+e.key - 1}"]`, host); if (b) b.click();
     }

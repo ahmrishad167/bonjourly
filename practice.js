@@ -133,10 +133,10 @@ function practicePool() {
 // Rough count of distinct exercises the pool can produce (each example feeds five exercise types).
 const poolSize = pool => pool.reduce((n, c) => n + c.examples.length * 5 + c.drills.length + c.quiz.length + c.vocab.length * 3 + (c.quebec.items || []).length + c.listen.dialogue.length, 0);
 
-function startSession(host, items, { name, icon = 'target', test = false, onDone } = {}) {
+function startSession(host, items, { name, icon = 'target', test = false, onDone, resumeKey } = {}) {
   if (!items.length) { host.innerHTML = '<div class="card empty">Nothing to practise here yet. Try a wider lesson range.</div>'; return; }
   runner(host, items, {
-    test, onAnswer: recordAnswer,
+    test, onAnswer: recordAnswer, resumeKey,
     onFinish: pct => {
       recordScore(name, pct); markDaily('practice'); log(`Practice: ${name}, ${pct}%`, icon); save();
       return onDone ? onDone(pct) : '';
@@ -162,7 +162,7 @@ function viewPractice(mode) {
       if (pk) {
         if (!packOpen(pk)) { host.innerHTML = lockedPanel(`${pk.id} pack is locked`, `Pass the lesson ${pk.to} milestone test to unlock it.`, `#w${pk.to}`, `Go to lesson ${pk.to}`); return; }
         return startSession(host, mix(weeksWith(pk.from, pk.to), PACK_SIZE), {
-          name: `${pk.id} pack`, icon: 'trophy', test: true,
+          name: `${pk.id} pack`, icon: 'trophy', test: true, resumeKey: `pack:${pk.id}`,
           onDone: pct => { state.packs[pk.id] = Math.max(pct, state.packs[pk.id] || 0); save(); return pct >= 80 ? `${pk.id} pack mastered!` : 'Score 80% to master this pack.'; },
         });
       }

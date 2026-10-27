@@ -736,3 +736,22 @@ button.tile { cursor: pointer; font-family: inherit; }
 .kb-hint { display: flex; align-items: center; gap: 6px; color: var(--muted); font-size: 12.5px; margin-top: 8px; }
 .kb-hint svg.i { width: 14px; height: 14px; }
 .build-type { margin-top: 12px; }
+.offer { display: flex; gap: 12px; align-items: center; flex-wrap: wrap; background: var(--card); border: 1px dashed var(--primary); border-radius: var(--radius); padding: 14px 16px; }
+.offer > svg.i { color: var(--primary); width: 22px; height: 22px; }
+.offer div { flex: 1; min-width: 220px; }
+.offer b { display: block; }
+.offer span { color: var(--muted); font-size: 13.5px; }
+/* Resume note and passed-step card */
+.resume-note { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; background: var(--primary-soft); border-radius: 10px; padding: 8px 12px; font-size: 13px; margin-bottom: 12px; }
+.resume-note > svg.i { color: var(--primary); }
+.resume-note span { flex: 1; }
+.resume-note .link-btn { grid-area: auto; padding: 0; color: var(--primary); font-weight: 600; }
+.eval.done { border-style: solid; border-color: color-mix(in srgb, var(--good) 45%, var(--line)); background: color-mix(in srgb, var(--good-soft) 60%, transparent); }
+.eval.done .eval-h > svg.i { color: var(--good); }
+.passed-card { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; background: var(--card); border-radius: 12px; padding: 16px; box-shadow: var(--shadow); }
+.pc-medal { width: 52px; height: 52px; border-radius: 50%; display: grid; place-items: center; background: var(--t-amber); color: var(--t-amber-ink); flex: none; }
+.pc-medal svg.i { width: 26px; height: 26px; }
+.pc-body { flex: 1; min-width: 200px; display: flex; flex-direction: column; gap: 2px; }
+.pc-body b { font-size: 16px; }
+.pc-score { font-size: 18px; color: var(--good); }
+.pc-acts { display: flex; gap: 8px; flex-wrap: wrap; }
