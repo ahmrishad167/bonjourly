@@ -73,6 +73,7 @@ function freshState() {
   return {
     name: '', profile: null, weeks, known: {}, scores: [], activity: [], days: {}, writes: {}, goal: 'undecided',
     srs: {}, daily: {}, stories: {}, practiced: {}, placed: 0,
+    mistakes: {}, skill: {}, lessonStats: {}, packs: {},
     settings: { rate: 0.95, voice: '', lock: true },
   };
 }
@@ -240,6 +241,7 @@ function badges() {
     ['Perfect', 'Score 100% on any test', 'star', best === 100],
     ['Oreille canadienne', '80%+ on a Canadian ear session', 'chat', quebec],
     ['Placed', 'Take the placement test', 'target', !!state.placedAt],
+    ['Pack master', 'Score 80%+ on a level pack', 'trophy', Object.values(state.packs || {}).some(p => p >= 80)],
     ['A1 certificate', 'Pass the A1 milestone (lesson 40)', 'trophy', ms(40)],
     ['A2 certificate', 'Pass the A2 milestone (lesson 84)', 'trophy', ms(84)],
     ['B1 certificate', 'Pass the B1 milestone (lesson 128)', 'trophy', ms(128)],
@@ -386,18 +388,20 @@ const sayBtn = (text, slow) => `<button class="say" data-say="${esc(plainText(te
 
 // ---------- Exercise runner ----------
 // Item types: mcq, fill, build, translate (from content) plus dict and shadow (generated in Practice).
-const KIND = { mcq: 'Choose the answer', fill: 'Fill in the blank', build: 'Build the sentence', translate: 'Translate into French', dict: 'Dictation', shadow: 'Repeat after me' };
+const KIND = { mcq: 'Choose the answer', fill: 'Fill in the blank', build: 'Build the sentence', translate: 'Translate into French', dict: 'Dictation', shadow: 'Repeat after me', match: 'Match the pairs' };
 const ACCENTS = ['é', 'è', 'ê', 'à', 'â', 'ç', 'î', 'ô', 'û', 'ù', 'ë', 'ï', 'œ'];
 function answerOf(it) {
   if (it.t === 'mcq') return it.options[it.a];
   if (it.t === 'fill') return it.q.replace('___', it.a[0]);
   if (it.t === 'build') return it.a;
   if (it.t === 'translate') return it.a[0];
+  if (it.t === 'match') return it.pairs.map(p => `${p.fr} = ${p.en}`).join(' · ');
   return it.fr;
 }
 
 function runner(host, items, opts = {}) {
-  let list = items.slice(), i = 0, results = [], answered = false, built = [];
+  // opts.test hides right/wrong until the end; opts.onAnswer(item, ok) sees every answer (mistake bank, stats).
+  let list = items.slice(), i = 0, results = [], answered = false, built = [], sel = null, matched = new Set(), misses = 0;
   const total = () => list.length;
 
   function frame(inner) {
@@ -414,9 +418,9 @@ function runner(host, items, opts = {}) {
 
   function draw() {
     if (i >= total()) return finish();
-    answered = false; built = [];
+    answered = false; built = []; sel = null; matched = new Set(); misses = 0;
     const it = list[i];
-    const kind = `<div class="q-kind">${KIND[it.t] || ''}${it._w ? ` · Lesson ${it._w}` : ''}</div>`;
+    const kind = `<div class="q-kind">${it.label || KIND[it.t] || ''}${it._w ? ` · Lesson ${it._w}` : ''}</div>`;
     if (it.t === 'mcq') {
       if (it.audio) setTimeout(() => TTS.say(it.audio), 250);
       frame(`${kind}<div class="q-text">${md(it.q)}</div>${it.audio ? `<div class="row" style="margin-bottom:12px">${sayBtn(it.audio, true)}<span class="sub">Play again</span></div>` : ''}
@@ -449,6 +453,11 @@ function runner(host, items, opts = {}) {
       setActions((SR ? `<button class="btn ghost rec" data-r="rec">${ic('mic')} Check with speech recognition</button>` : '')
         + `<button class="btn ghost" data-r="self-no">Need more practice</button><button class="btn" data-r="self-ok">I said it well</button>`);
       setTimeout(() => TTS.say(it.fr), 250);
+    } else if (it.t === 'match') {
+      it._f = it._f || shuffle(it.pairs.map((_, k) => k)); it._e = it._e || shuffle(it.pairs.map((_, k) => k));
+      frame(`${kind}<div class="q-text">Tap a French word, then its meaning.</div>
+        <div class="match"><div>${it._f.map(k => `<button class="word" data-m="f${k}">${esc(it.pairs[k].fr)}</button>`).join('')}</div>
+        <div>${it._e.map(k => `<button class="word" data-m="e${k}">${esc(it.pairs[k].en)}</button>`).join('')}</div></div>`);
     }
     const inp = $('#r-in', host);
     if (inp) inp.focus({ preventScroll: true });
@@ -460,6 +469,13 @@ function runner(host, items, opts = {}) {
     const it = list[i];
     const ok = status === 'ok' || status === 'almost';
     results.push({ it, ok, given });
+    opts.onAnswer && opts.onAnswer(it, ok);
+    if (opts.test) {
+      $('#r-fb', host).innerHTML = `<div class="feedback neutral" role="status">${ic('check')}<div><b>Answer saved.</b><div class="why">Test mode: you'll see your score and corrections at the end.</div></div></div>`;
+      setActions(`<button class="btn" data-r="next">${i + 1 < total() ? 'Next' : 'See results'} ${ic('arrow')}</button>`);
+      $('[data-r="next"]', host).focus({ preventScroll: true });
+      return;
+    }
     const ans = answerOf(it);
     const head = status === 'ok' ? 'Correct!' : status === 'almost' ? 'Almost: check your accents.' : 'Not quite.';
     const showAns = it.t !== 'mcq' || status === 'no';
@@ -501,7 +517,7 @@ function runner(host, items, opts = {}) {
   }
 
   host.onclick = e => {
-    const t = e.target.closest('[data-opt],[data-word],[data-r],[data-acc]');
+    const t = e.target.closest('[data-opt],[data-word],[data-r],[data-acc],[data-m]');
     if (!t || !host.contains(t)) return;
     const it = list[i];
     if (t.dataset.acc) {
@@ -514,9 +530,26 @@ function runner(host, items, opts = {}) {
     }
     if (t.dataset.opt !== undefined && !answered) {
       const k = +t.dataset.opt;
-      $$('.opt', host).forEach((b, j) => { b.disabled = true; if (j === it.a) b.classList.add('right'); });
-      if (k !== it.a) t.classList.add('wrong');
+      if (opts.test) { $$('.opt', host).forEach(b => { b.disabled = true; }); t.classList.add('picked'); }
+      else {
+        $$('.opt', host).forEach((b, j) => { b.disabled = true; if (j === it.a) b.classList.add('right'); });
+        if (k !== it.a) t.classList.add('wrong');
+      }
       return grade(k === it.a ? 'ok' : 'no', it.options[k]);
+    }
+    if (t.dataset.m && !answered) {
+      const side = t.dataset.m[0], k = +t.dataset.m.slice(1);
+      if (matched.has(k)) return;
+      if (!sel || sel.side === side) { $$('[data-m]', host).forEach(b => b.classList.remove('sel')); sel = { side, k, el: t }; t.classList.add('sel'); return; }
+      const other = sel.el; sel = null;
+      $$('[data-m]', host).forEach(b => b.classList.remove('sel'));
+      if (other.dataset.m.slice(1) === String(k)) {
+        matched.add(k); [t, other].forEach(b => { b.classList.add('done'); b.disabled = true; });
+        if (matched.size === it.pairs.length) grade(misses <= 1 ? 'ok' : 'no', `${misses} mismatch${misses === 1 ? '' : 'es'}`);
+      } else {
+        misses++; [t, other].forEach(b => { b.classList.add('miss'); setTimeout(() => b.classList.remove('miss'), 450); });
+      }
+      return;
     }
     if (t.dataset.word !== undefined && !answered) {
       const k = +t.dataset.word;
@@ -546,7 +579,7 @@ function runner(host, items, opts = {}) {
   };
   host.onkeydown = e => {
     const it = list[i];
-    if (e.key === 'Enter' && !e.shiftKey && it && !answered && it.t !== 'mcq' && it.t !== 'shadow' && it.t !== 'build') { e.preventDefault(); check(); }
+    if (e.key === 'Enter' && !e.shiftKey && it && !answered && !['mcq', 'shadow', 'build', 'match'].includes(it.t)) { e.preventDefault(); check(); }
     else if (e.key === 'Enter' && answered && e.target.tagName !== 'BUTTON') { e.preventDefault(); i++; draw(); }
     else if (it && it.t === 'mcq' && !answered && /^[1-5]$/.test(e.key) && e.target.tagName !== 'INPUT') {
       const b = $(`[data-opt="${+e.key - 1}"]`, host); if (b) b.click();

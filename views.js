@@ -413,61 +413,7 @@ function dayQuiz(w, c, r, { foot }) {
   return foot.check(cp ? 'Checkpoint test' : 'Lesson quiz', `${c.quiz.length} questions on the whole lesson${cp ? '. Checkpoints need a higher score' : ''}.`, c.quiz.map(q => Object.assign({ t: 'mcq' }, q)), quizPass(w), 'quiz');
 }
 
-// ---------- Practice ----------
-let practiceScope = 'mine';
-const MODES = [
-  { id: 'mixed', name: 'Mixed drills', icon: 'target', tone: 'blue', desc: 'Sentence drills from your lessons' },
-  { id: 'quiz', name: 'Grammar quiz', icon: 'file', tone: 'violet', desc: '10 quiz questions' },
-  { id: 'listen', name: 'Listening dictation', icon: 'headphones', tone: 'blue', desc: 'Hear a sentence, type it' },
-  { id: 'speak', name: 'Speaking practice', icon: 'mic', tone: 'green', desc: 'Hear it, repeat it, check yourself' },
-  { id: 'cards', name: 'Flashcards', icon: 'cards', tone: 'red', desc: '20 words from your lessons' },
-  { id: 'quebec', name: 'Canadian ear', icon: 'chat', tone: 'amber', desc: 'Match standard French to Canadian speech' },
-  { id: 'verbs', name: 'Conjugation', icon: 'zap', tone: 'violet', desc: 'Verbs in the tenses you know' },
-];
-function practicePool() {
-  const cw = currentWeek();
-  if (practiceScope === 'week') return weeksWith(cw, cw);
-  if (practiceScope === 'all') return weeksWith(1, isGuest() ? GUEST_LESSONS : 168);
-  return weeksWith(1, cw);
-}
-function viewPractice(mode) {
-  const m = MODES.find(x => x.id === mode);
-  const pool = practicePool();
-  later(() => {
-    $$('[data-ps]').forEach(b => b.onclick = () => { practiceScope = b.dataset.ps; render(); });
-    if (!m) return;
-    const host = $('#p-host');
-    if (!pool.length) { host.innerHTML = `<div class="card empty">No lessons in this range yet. Try “Everything”.</div>`; return; }
-    const done = pct => { recordScore(m.id, pct); markDaily('practice'); log(`Practice: ${m.name}, ${pct}%`, m.icon); save(); return ''; };
-    const all = k => pool.flatMap(c => tag(c[k] || [], c.w));
-    if (m.id === 'mixed') runner(host, sample(all('drills'), 12), { onFinish: done });
-    else if (m.id === 'quiz') runner(host, sample(all('quiz'), 10).map(q => Object.assign({ t: 'mcq' }, q)), { onFinish: done });
-    else if (m.id === 'listen') runner(host, sample(all('examples').filter(e => e.fr.split(' ').length <= 10), 8).map(e => ({ t: 'dict', fr: e.fr, en: e.en, why: e.en, _w: e._w })), { onFinish: done });
-    else if (m.id === 'speak') runner(host, sample(all('examples'), 8).map(e => ({ t: 'shadow', fr: e.fr, en: e.en, _w: e._w })), { onFinish: done });
-    else if (m.id === 'cards') flashcards(host, sample(allVocab(pool), 20), { onDone: (k, n) => { markDaily('practice'); log(`Flashcards: ${k} of ${n} known`, 'cards'); save(); } });
-    else if (m.id === 'verbs') {
-      const vs = (EX.verbs || []).filter(v => !state.settings.lock || v.week <= currentWeek());
-      const items = verbItems(vs, 12);
-      if (!items.length) host.innerHTML = verbsNotYet();
-      else runner(host, items, { onFinish: done });
-    }
-    else if (m.id === 'quebec') {
-      const items = pool.flatMap(c => tag((c.quebec || {}).items || [], c.w));
-      runner(host, sample(items, 10).map(x => {
-        const wrong = sample(items.filter(y => y.qc !== x.qc), 3).map(y => y.qc);
-        const options = shuffle([x.qc, ...wrong]);
-        return { t: 'mcq', q: `How might you hear this in casual Canadian French? *${x.std}*`, options, a: options.indexOf(x.qc), why: `${x.en}${x.note ? ` · ${x.note}` : ''}`, _w: x._w };
-      }), { onFinish: done });
-    }
-  });
-  const cw = currentWeek();
-  return `<div class="page-head"><div><h1>Practice</h1><p>Short sessions built from your lessons. Pick a mode and a range.</p></div>
-    <div class="seg" style="margin-left:auto">${[['week', `Lesson ${cw} only`], ['mine', `Lessons 1–${cw}`], ['all', isGuest() ? 'Free week' : 'Everything']].map(([k, l]) => `<button data-ps="${k}" class="${practiceScope === k ? 'on' : ''}">${l}</button>`).join('')}</div></div>
-    <div class="tiles" style="grid-template-columns:repeat(auto-fill,minmax(160px,1fr));margin-bottom:20px">
-      ${MODES.map(x => `<a class="tile ${x.tone}" href="#practice-${x.id}" ${m && m.id === x.id ? 'style="box-shadow:0 0 0 2px currentColor"' : ''}>${ic(x.icon)}${x.name}<small>${x.desc}</small></a>`).join('')}
-    </div>
-    ${m ? `<div id="p-host"></div>` : `<div class="card empty">Choose a mode above to start. ${pool.length} lesson${pool.length === 1 ? '' : 's'} in range.</div>`}`;
-}
+// Practice lives in practice.js.
 
 // ---------- Vocabulary ----------
 const vocabF = { q: '', phase: 'all', qc: false, hideKnown: false, limit: 120 };
