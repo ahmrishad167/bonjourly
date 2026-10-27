@@ -385,7 +385,10 @@ table.t tr:last-child td { border-bottom: 0; }
 .opt.right { border-color: var(--good); background: var(--good-soft); }
 .opt.wrong { border-color: var(--bad); background: var(--bad-soft); }
 .opt[disabled] { cursor: default; }
-.fill-line { font-size: 19px; font-weight: 600; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px; margin-bottom: 8px; }
+.fill-line { font-size: 19px; font-weight: 600; line-height: 2.2; margin-bottom: 8px; }
+.fill-line span { white-space: pre-wrap; }
+.fill-line input { display: inline-block; vertical-align: baseline; }
+.fill-line input:disabled { opacity: .85; }
 .fill-line input { width: 160px; border: 0; border-bottom: 2px solid var(--primary); background: var(--primary-soft); border-radius: 6px 6px 0 0; padding: 4px 8px; font-weight: 700; outline: none; font-size: 18px; }
 .build-slot { min-height: 56px; border: 1.5px dashed var(--line); border-radius: 12px; padding: 8px; display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 12px; align-items: center; }
 .build-bank { display: flex; flex-wrap: wrap; gap: 8px; }

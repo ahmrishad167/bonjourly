@@ -393,7 +393,8 @@ const KIND = { mcq: 'Choose the answer', fill: 'Fill in the blank', build: 'Buil
 const ACCENTS = ['é', 'è', 'ê', 'à', 'â', 'ç', 'î', 'ô', 'û', 'ù', 'ë', 'ï', 'œ'];
 function answerOf(it) {
   if (it.t === 'mcq') return it.options[it.a];
-  if (it.t === 'fill') return it.q.replace('___', it.a[0]);
+  // The (hint) in a fill-in question is for the question only, not the corrected sentence or its audio.
+  if (it.t === 'fill') return it.q.replace(/\s*\([^()]*\)/g, '').replace('___', it.a[0]).replace(/\s{2,}/g, ' ').trim();
   if (it.t === 'build') return it.a;
   if (it.t === 'translate') return it.a[0];
   if (it.t === 'match') return it.pairs.map(p => `${p.fr} = ${p.en}`).join(' · ');
@@ -467,6 +468,8 @@ function runner(host, items, opts = {}) {
   function grade(status, given) {
     if (answered) return;
     answered = true;
+    const inp = $('#r-in', host); if (inp) inp.disabled = true;
+    const acc = $('.accents', host); if (acc) acc.remove();
     const it = list[i];
     const ok = status === 'ok' || status === 'almost';
     results.push({ it, ok, given });
@@ -523,7 +526,7 @@ function runner(host, items, opts = {}) {
     const it = list[i];
     if (t.dataset.acc) {
       const inp = $('#r-in', host);
-      if (!inp) return;
+      if (!inp || answered) return;
       const s = inp.selectionStart ?? inp.value.length, en = inp.selectionEnd ?? s;
       inp.value = inp.value.slice(0, s) + t.dataset.acc + inp.value.slice(en);
       inp.focus(); inp.setSelectionRange(s + 1, s + 1);

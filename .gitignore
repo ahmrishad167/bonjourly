@@ -2,3 +2,8 @@ __pycache__/
 dist/
 *.pyc
 BonjourPro French Learning Dashboard.png
+
+# Never commit credentials (e.g. Google OAuth downloads)
+client_secret*.json
+*.pem
+.env*
