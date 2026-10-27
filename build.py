@@ -195,7 +195,7 @@ def bundle_extra():
     return not bad
 
 
-APP_FILES = ("index.html", "styles.css", "core.js", "coach.js", "practice.js", "views-extra.js", "views.js", "manifest.webmanifest", "logo.svg",
+APP_FILES = ("index.html", "styles.css", "core.js", "coach.js", "practice.js", "config.js", "account.js", "profile.js", "views-extra.js", "views.js", "manifest.webmanifest", "logo.svg",
              "content/roadmap.js", "content/weeks.js", "content/extra.js")
 
 
@@ -222,7 +222,7 @@ def bundle_single():
 
     html = html.replace('<link rel="stylesheet" href="styles.css">',
                         "<style>\n" + (ROOT / "styles.css").read_text(encoding="utf-8") + "\n</style>")
-    for src in ("content/roadmap.js", "content/weeks.js", "content/extra.js", "core.js", "coach.js", "practice.js", "views-extra.js", "views.js"):
+    for src in ("content/roadmap.js", "content/weeks.js", "content/extra.js", "core.js", "coach.js", "practice.js", "config.js", "account.js", "profile.js", "views-extra.js", "views.js"):
         html = html.replace(f'<script src="{src}"></script>', script(src))
     # The artifact host supplies the document skeleton.
     html = re.sub(r"<!doctype html>\s*<html[^>]*>\s*<head>\s*", "", html, flags=re.I)

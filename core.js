@@ -73,7 +73,7 @@ function freshState() {
   return {
     name: '', profile: null, weeks, known: {}, scores: [], activity: [], days: {}, writes: {}, goal: 'undecided',
     srs: {}, daily: {}, stories: {}, practiced: {}, placed: 0,
-    mistakes: {}, skill: {}, lessonStats: {}, packs: {},
+    mistakes: {}, skill: {}, lessonStats: {}, packs: {}, plan: null, welcome: null,
     settings: { rate: 0.95, voice: '', lock: true },
   };
 }
@@ -119,6 +119,7 @@ if (state.profile) state.prevVisit = (profiles().find(p => p.id === state.profil
 function save() {
   if (!state.profile) { writeJSON(sessionStorage, KEY, state); return; }
   writeJSON(localStorage, stateKey(state.profile.id), state);
+  if (state.profile.cloud && typeof Account !== 'undefined') Account.schedule();
   // Keep the "Who's learning?" summary current.
   saveProfiles(profiles().map(p => p.id === state.profile.id
     ? Object.assign(p, { name: state.name, lastSeen: Date.now(), lesson: currentWeek(), done: weeksDone() }) : p));

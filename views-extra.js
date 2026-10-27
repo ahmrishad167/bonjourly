@@ -382,6 +382,8 @@ function viewWelcome() {
   let armed = null;
   later(() => {
     $$('[data-learner]').forEach(b => b.onclick = () => {
+      const pr = profiles().find(x => x.id === b.dataset.learner);
+      if (pr && pr.cloud && !(Account.user && Account.user.id === pr.id)) { location.hash = '#signin'; return; }
       if (signIn(b.dataset.learner)) { toast(`Welcome back, ${state.name}!`); location.hash = '#home'; render(); }
       else toast('That learner\'s progress could not be found on this device.');
     });
@@ -398,7 +400,7 @@ function viewWelcome() {
       <span class="avatar">${esc(initials)}</span>
       <div class="who-l"><b>${esc(p.name)}</b><small>Lesson ${p.lesson || 1} · ${p.done || 0}/168 done · ${p.lastSeen ? `last practice ${ago(p.lastSeen).toLowerCase()}` : 'new'}</small>
         <span class="bar"><span style="width:${pct}%"></span></span></div>
-      <button class="btn" data-learner="${esc(p.id)}">${p.id === cur ? 'Continue' : 'This is me'} ${ic('arrow')}</button>
+      <button class="btn" data-learner="${esc(p.id)}">${p.id === cur ? 'Continue' : p.cloud && !(Account.user && Account.user.id === p.id) ? 'Sign in' : 'This is me'} ${ic('arrow')}</button>
       <button class="link-btn" data-remove="${esc(p.id)}">Remove</button></div>`;
   };
   return `<div class="welcome">
@@ -407,6 +409,7 @@ function viewWelcome() {
     <p class="sub">${list.length ? 'Pick your name to see your progress and continue where you left off.' : 'Create a free profile to save your progress, or try the free week first.'}</p>
     <div class="learners">${list.map(card).join('')}</div>
     <div class="row" style="justify-content:center;margin-top:18px">
+      ${Account.enabled ? `<a class="btn" href="#signin">${ic('lock')} Sign in</a>` : ''}
       <button class="btn ghost" data-act-new="#register">${ic('users')} New learner</button>
       <button class="btn ghost" data-act-new="#home">Try the free week as a guest</button>
     </div>

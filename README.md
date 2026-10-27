@@ -36,4 +36,13 @@ After editing any JSON content, run `python build.py` and commit the regenerated
 
 ## Accounts and progress
 
-Profiles and progress are stored in the learner's browser (`localStorage`); guests' progress lasts for the browser session only. Progress → Settings has backup and restore. Real accounts with cloud sync need a backend and are planned for the hosted version.
+Without online accounts, profiles and progress live in the learner's browser (guests: for the browser session only), with backup and restore under Progress → Settings.
+
+Online accounts use [Supabase](https://supabase.com) (free tier) for sign-up, sign-in (email and password, Google) and syncing progress across devices:
+
+1. Create a Supabase project (region Canada (Central)) and run [`supabase/schema.sql`](supabase/schema.sql) in its SQL Editor.
+2. Authentication → URL Configuration: Site URL `https://ahmrishad167.github.io/bonjourly/`, redirect URLs `https://ahmrishad167.github.io/bonjourly/**` and `http://localhost:8000/**`.
+3. Optional Google sign-in: create an OAuth web client in Google Cloud and add its ID and secret under Authentication → Providers → Google.
+4. Put the Project URL and the **anon** key in [`config.js`](config.js) (never the service_role key), then commit.
+
+Every table uses row-level security, so learners can only read and change their own profile and progress. The Profile page offers data download and account deletion; the privacy policy is at `#privacy`.

@@ -1,10 +1,10 @@
 // Bonjourly offline support. Serves the cached copy immediately and refreshes it in the background
 // (stale-while-revalidate), so the app works offline and still picks up new content on the next visit.
 // build.py rewrites VERSION whenever the content changes, which clears old caches.
-const VERSION = '84cc1d5b4c';
+const VERSION = 'dd63a33042';
 const CACHE = `bonjourly-${VERSION}`;
 const CORE = [
-  './', 'index.html', 'styles.css', 'core.js', 'coach.js', 'practice.js', 'views-extra.js', 'views.js',
+  './', 'index.html', 'styles.css', 'core.js', 'coach.js', 'practice.js', 'config.js', 'account.js', 'profile.js', 'views-extra.js', 'views.js',
   'content/roadmap.js', 'content/weeks.js', 'content/extra.js',
   'logo.svg', 'manifest.webmanifest', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/icon-180.png',
 ];
@@ -23,7 +23,7 @@ self.addEventListener('fetch', e => {
   const req = e.request;
   if (req.method !== 'GET') return;
   const url = new URL(req.url);
-  const fonts = /fonts\.(googleapis|gstatic)\.com$/.test(url.hostname);
+  const fonts = /fonts\.(googleapis|gstatic)\.com$|^cdn\.jsdelivr\.net$/.test(url.hostname); // fonts and the pinned sign-in library
   if (url.origin !== location.origin && !fonts) return;
   e.respondWith(caches.open(CACHE).then(async cache => {
     const key = req.mode === 'navigate' ? 'index.html' : req;

@@ -8,7 +8,7 @@ const NAV_GROUPS = [
   ['Learn', [['home', 'Home', 'home'], ['path', 'Learning Path', 'route'], ['stories', 'Stories', 'book']]],
   ['Practise', [['practice', 'Practice', 'target'], ['review', 'Review', 'refresh'], ['sounds', 'Pronunciation', 'mic']]],
   ['Reference', [['vocab', 'Vocabulary', 'cards'], ['verbs', 'Verbs', 'zap'], ['grammar', 'Grammar', 'file'], ['quebec', 'Canadian French', 'chat']]],
-  ['Goals', [['exam', 'TEF Canada', 'flag'], ['progress', 'Progress', 'chart']]],
+  ['Goals', [['exam', 'TEF Canada', 'flag'], ['progress', 'Progress', 'chart'], ['profile', 'Profile', 'users']]],
 ];
 const BOTTOM = [['home', 'Home', 'home'], ['path', 'Path', 'route'], ['review', 'Review', 'refresh'], ['stories', 'Stories', 'book'], ['more', 'More', 'cards']];
 
@@ -37,8 +37,8 @@ function drawShell(base) {
   const cw = currentWeek(), ph = phaseOf(cw);
   const initials = (state.name || '?').trim().split(/\s+/).map(s => s[0]).join('').slice(0, 2).toUpperCase();
   const me = $('#me');
-  if (isGuest()) { me.href = '#register'; me.innerHTML = `<span class="btn sm">${ic('users')} Register free</span>`; }
-  else { me.href = '#welcome'; me.title = 'Switch learner'; me.innerHTML = `<span class="avatar">${esc(initials)}</span><span class="who"><b>${esc(state.name)}</b><small>Lesson ${cw} · ${ph.id} ${ph.name}</small></span>`; }
+  if (isGuest()) { me.href = (state.welcome || {}).done ? '#register' : '#start'; me.innerHTML = `<span class="btn sm">${ic('users')} Register free</span>`; }
+  else { me.href = '#profile'; me.title = 'Your profile'; me.innerHTML = `<span class="avatar" style="background:${avatarColor(state.name)}">${esc(initials)}</span><span class="who"><b>${esc(state.name)}</b><small>Lesson ${cw} · ${ph.id} ${ph.name}</small></span>`; }
 }
 
 function render() {
@@ -61,7 +61,14 @@ function render() {
   else if (h === 'sounds') html = viewSounds();
   else if (h === 'placement') { base = 'path'; html = viewPlacement(); }
   else if (h === 'more') html = viewMore();
-  else if (h === 'register') html = viewRegister();
+  else if (h === 'register') html = Account.enabled ? viewSignup() : viewRegister();
+  else if (h === 'start') html = viewStart();
+  else if (h === 'signin') html = viewSignin();
+  else if (h === 'reset-password') html = viewResetPassword();
+  else if (h === 'profile') html = viewProfile();
+  else if (h === 'privacy') { base = 'profile'; html = viewPrivacy(); }
+  else if (/access_token=/.test(h)) { base = 'home'; html = '<div class="card empty"><h3>Signing you in…</h3></div>'; }
+  else if (/error_description=/.test(h)) { base = 'home'; html = `<div class="card empty"><h3>That link didn\'t work</h3><p>${esc(decodeURIComponent((h.match(/error_description=([^&]*)/) || [])[1] || '').replace(/\+/g, ' '))}</p><a class="btn" href="#signin" style="margin-top:12px">Sign in</a></div>`; }
   else if (h === 'welcome') { base = 'progress'; html = viewWelcome(); }
   else if (h === 'path') html = viewPath();
   else if (h === 'vocab') html = viewVocab();
@@ -110,7 +117,7 @@ function viewHome() {
     ${state.profile ? `<div class="welcome-back">${state.prevVisit ? `Welcome back! Your last practice was ${ago(state.prevVisit).toLowerCase()}.` : `Your progress is saved under the name ${esc(state.name)}.`}
       <a href="#welcome">Not ${esc(state.name)}? Switch learner</a></div>` : ''}
 
-    ${isGuest() ? `<section class="guest-bar">${ic('users')}<div><b>You're on the free week: lessons 1–${GUEST_LESSONS}.</b><span>Register free to unlock all 168 lessons and save your progress.</span></div><a class="btn sm" href="#register">Register free</a></section>` : ''}
+    ${isGuest() ? `<section class="guest-bar">${ic('users')}<div><b>You're on the free week: lessons 1–${GUEST_LESSONS}.</b><span>Register free to unlock all 168 lessons and save your progress.</span></div><a class="btn sm" href="${(state.welcome || {}).done ? '#register' : '#start'}">Get started</a></section>` : ''}
 
     <section class="card">
       <div class="card-h"><span class="ico">${ic('target')}</span><div><h2>Your Learning Path</h2><div class="sub">Four phases, 168 lessons, about 6 months at one lesson a day.</div></div>
