@@ -1,7 +1,7 @@
 // Bonjourly offline support. Serves the cached copy immediately and refreshes it in the background
 // (stale-while-revalidate), so the app works offline and still picks up new content on the next visit.
 // build.py rewrites VERSION whenever the content changes, which clears old caches.
-const VERSION = 'dd63a33042';
+const VERSION = '18ce3b1c35';
 const CACHE = `bonjourly-${VERSION}`;
 const CORE = [
   './', 'index.html', 'styles.css', 'core.js', 'coach.js', 'practice.js', 'config.js', 'account.js', 'profile.js', 'views-extra.js', 'views.js',
