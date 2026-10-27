@@ -288,29 +288,71 @@ function similarity(heard, model) {
 }
 
 // ---------- Speech ----------
+// Speech uses the device's own voices. Mobile browsers need care:
+//  - iOS only allows speech after one utterance started inside a tap, so the first tap anywhere "primes" it;
+//  - Android Chrome can drop an utterance spoken right after cancel(), so a busy queue is cancelled first and we wait a beat;
+//  - long texts can stop partway, so text is spoken in sentence-sized chunks;
+//  - onend sometimes never fires, so every utterance has a fallback timeout.
 const TTS = {
-  ok: 'speechSynthesis' in window,
+  ok: 'speechSynthesis' in window && 'SpeechSynthesisUtterance' in window,
   token: 0,
+  primed: false,
+  live: [], // keeps utterances referenced until they finish (Chrome can garbage-collect them mid-speech)
+  warned: false,
   voices() { return this.ok ? speechSynthesis.getVoices().filter(v => /^fr/i.test(v.lang)) : []; },
+  rank(v) {
+    return (/fr[-_]CA/i.test(v.lang) ? 100 : 0) + (/natural|online|neural|premium|enhanced/i.test(v.name) ? 30 : 0) + (v.localService ? 5 : 0);
+  },
   voice() {
     const vs = this.voices();
-    return vs.find(v => v.name === state.settings.voice) || vs.find(v => /fr[-_]CA/i.test(v.lang)) || vs[0] || null;
+    return vs.find(v => v.name === state.settings.voice) || vs.slice().sort((a, b) => this.rank(b) - this.rank(a))[0] || null;
   },
-  stop() { this.token++; if (this.ok) speechSynthesis.cancel(); },
+  isCanadian() { const v = this.voice(); return !!v && /fr[-_]CA/i.test(v.lang); },
+  prime() {
+    if (!this.ok || this.primed) return;
+    this.primed = true;
+    try { const u = new SpeechSynthesisUtterance(' '); u.volume = 0; speechSynthesis.speak(u); } catch (e) { /* ignore */ }
+  },
+  stop() { this.token++; if (this.ok && (speechSynthesis.speaking || speechSynthesis.pending)) speechSynthesis.cancel(); },
+  chunks(text) {
+    const parts = text.match(/[^.!?…;:]+[.!?…;:]*\s*/g) || [text];
+    const out = [];
+    parts.forEach(p => { if (out.length && (out[out.length - 1] + p).length < 160) out[out.length - 1] += p; else out.push(p); });
+    return out.map(s => s.trim()).filter(Boolean);
+  },
+  failed(err) {
+    if (this.warned || err === 'interrupted' || err === 'canceled') return;
+    this.warned = true;
+    toast(this.voices().length ? 'Audio could not play. Check the volume and silent switch, then tap again.' : 'No French voice found on this device. See Progress → Settings → French voice.');
+  },
   say(text, opts = {}) {
-    if (!this.ok) { toast('This browser cannot play French audio.'); return Promise.resolve(); }
-    speechSynthesis.cancel();
-    const clean = plainText(text).replace(/\[[^\]]*\]/g, '').replace(/\s+\/\s+/g, '. ').replace(/_{2,}/g, '…');
-    return new Promise(res => {
-      const u = new SpeechSynthesisUtterance(clean);
-      const v = this.voice();
-      if (v) u.voice = v;
-      u.lang = v ? v.lang : 'fr-CA';
-      u.rate = (opts.rate || 1) * state.settings.rate;
-      u.pitch = opts.pitch || 1;
-      u.onend = u.onerror = () => res();
-      speechSynthesis.speak(u);
+    if (!this.ok) { toast('This browser cannot play audio. Try Chrome, Edge or Safari.'); return Promise.resolve(); }
+    const clean = plainText(text).replace(/\[[^\]]*\]/g, '').replace(/\s+\/\s+/g, '. ').replace(/_{2,}/g, '…').trim();
+    if (!clean) return Promise.resolve();
+    const busy = speechSynthesis.speaking || speechSynthesis.pending;
+    if (busy) speechSynthesis.cancel();
+    const v = this.voice();
+    const go = () => new Promise(res => {
+      const pieces = this.chunks(clean);
+      let left = pieces.length, finished = false;
+      const done = () => { if (!finished) { finished = true; this.live = []; res(); } };
+      try { speechSynthesis.resume(); } catch (e) { /* ignore */ }
+      pieces.forEach(p => {
+        const u = new SpeechSynthesisUtterance(p);
+        try { if (v) u.voice = v; } catch (e) { /* stale voice object: fall back to lang */ }
+        u.lang = v ? v.lang : 'fr-CA';
+        u.rate = (opts.rate || 1) * state.settings.rate;
+        u.pitch = opts.pitch || 1;
+        u.onend = () => { if (--left <= 0) done(); };
+        u.onerror = e => { this.failed(e && e.error); done(); };
+        this.live.push(u);
+        speechSynthesis.speak(u);
+      });
+      // Fallback if onend never arrives: roughly 90 ms per character at normal speed, plus slack.
+      setTimeout(done, clean.length * 90 / ((opts.rate || 1) * state.settings.rate) + 4000);
     });
+    this.primed = true;
+    return busy ? new Promise(r => setTimeout(r, 80)).then(go) : go();
   },
   async sequence(lines, onLine) {
     const my = ++this.token;
@@ -323,7 +365,10 @@ const TTS = {
     if (my === this.token) onLine && onLine(-1);
   },
 };
-if (TTS.ok) speechSynthesis.getVoices();
+if (TTS.ok) {
+  speechSynthesis.getVoices(); // starts the voice list loading on browsers that fill it lazily
+  ['pointerdown', 'touchend', 'keydown'].forEach(ev => document.addEventListener(ev, () => TTS.prime(), { once: true, capture: true }));
+}
 const SR = window.SpeechRecognition || window.webkitSpeechRecognition;
 function hear() {
   return new Promise((res, rej) => {

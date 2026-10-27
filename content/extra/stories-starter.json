@@ -1,0 +1,40 @@
+[
+  {
+    "id": "a00",
+    "title": "Comment ça s'écrit?",
+    "level": "A1",
+    "week": 2,
+    "place": "Montréal",
+    "summary": "On his first day in Montréal, Samir spells his name, e-mail and postal code at the pharmacy.",
+    "text": [
+      "Samir arrive à la pharmacie. La pharmacienne s'appelle Julie. « Bonjour! Votre nom, s'il vous plaît? » « Samir Haddad. » « Comment ça s'écrit? » « S, A, M, I, R. Et Haddad : H, A, deux D, A, D. »",
+      "« Merci. Et votre courriel? » « Samir point Haddad, arobase, exemple point ca. » « Arobase, oui. » Julie sourit : « Ici, beaucoup de gens disent aussi at, comme en anglais. »",
+      "« Et votre code postal? » « H2X 1Y4. » Julie répète : « H, 2, X, 1, i grec, 4. C'est parfait! » Samir est content. Il connaît l'alphabet!"
+    ],
+    "dialogue_ok": true,
+    "glossary": [
+      { "fr": "la pharmacie", "en": "pharmacy, drugstore" },
+      { "fr": "la pharmacienne", "en": "pharmacist (woman)" },
+      { "fr": "votre nom", "en": "your name" },
+      { "fr": "s'il vous plaît", "en": "please (polite)" },
+      { "fr": "Comment ça s'écrit?", "en": "How is that spelled?" },
+      { "fr": "deux D", "en": "double D (two Ds)" },
+      { "fr": "le courriel", "en": "e-mail", "qc": true },
+      { "fr": "point", "en": "dot" },
+      { "fr": "arobase", "en": "the @ sign" },
+      { "fr": "sourit", "en": "smiles" },
+      { "fr": "le code postal", "en": "postal code" },
+      { "fr": "i grec", "en": "the letter Y" },
+      { "fr": "C'est parfait!", "en": "That's perfect!" },
+      { "fr": "il connaît", "en": "he knows" }
+    ],
+    "questions": [
+      { "q": "Where is Samir?", "options": ["At the pharmacy", "At school", "At the bank"], "a": 0, "why": "Samir arrive à la pharmacie." },
+      { "q": "How does Samir spell the double letter in Haddad?", "options": ["« D, D »", "« deux D »", "« double D »"], "a": 1, "why": "French says deux D for a double letter." },
+      { "q": "What does arobase mean?", "options": ["the dot", "the @ sign", "the dash"], "a": 1, "why": "Arobase is the standard French word for @." },
+      { "q": "How do many people in Quebec also say @?", "options": ["« at », as in English", "« chez »", "« point »"], "a": 0, "why": "Julie says: beaucoup de gens disent aussi at." },
+      { "q": "How do you say the letter Y in French?", "options": ["« oui »", "« i grec »", "« why »"], "a": 1, "why": "Y is i grec, the Greek i." }
+    ],
+    "quebec_note": "In Canada an e-mail is usually *un courriel*, the OQLF term. The standard word for @ is *arobase*, but in everyday Quebec speech many people simply say « at »."
+  }
+]

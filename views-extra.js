@@ -239,7 +239,7 @@ function viewSounds() {
   else if (soundsTab === 'quebec') body = `<div class="stack">${p.quebec.map(q => `<section class="card"><div class="card-h"><h3>${esc(q.label)}</h3></div><p>${md(q.how)}</p>
     ${q.std ? `<div class="table-wrap" style="margin-top:10px"><table class="t"><thead><tr><th>Standard</th><th>Canadian</th></tr></thead><tbody><tr><td>${esc(q.std)}</td><td class="qc-cell">${esc(q.qc)}</td></tr></tbody></table></div>` : ''}
     ${(q.examples || []).length ? `<div class="ex-list" style="margin-top:6px">${q.examples.map(e => `<div class="ex"><div class="fr">${esc(e)}</div><div class="acts">${sayBtn(e, true)}</div></div>`).join('')}</div>` : ''}</section>`).join('')}
-    <p class="sub">Your device's French voice may be European. Use these notes to know what to listen for in real Canadian French: Radio-Canada, Ohdio podcasts, TFO, Télé-Québec.</p></div>`;
+    <div class="tip">${ic('volume')}<span>${voiceTip()} Listen to real Canadian French on Radio-Canada, Ohdio podcasts, TFO and Télé-Québec.</span></div></div>`;
   else if (soundsTab === 'twisters') body = `<section class="card"><div class="ex-list">${p.twisters.map(t => `<div class="ex"><div style="min-width:0"><div class="fr">${esc(t.fr)}</div><div class="en">${esc(t.en)}</div><div class="note">${esc(t.focus || '')}</div></div><div class="acts">${sayBtn(t.fr, true)}</div></div>`).join('')}</div></section>`;
   else body = `<p class="sub" style="margin-bottom:12px">Ten pairs of words that differ by one sound. Listen and pick the one you hear.</p><div id="ear-host"></div>`;
   return `<div class="page-head"><div><h1>Pronunciation</h1><p>The sounds of French, the features of the Canadian (Quebec) accent you'll hear across Canada, and ear training.</p></div></div>
@@ -406,4 +406,22 @@ function viewWelcome() {
     </div>
     <p class="sub" style="margin-top:18px;max-width:520px">Names and progress are saved in this browser on this device. On a new device, use Progress → Save backup file here and Load backup file there.</p>
   </div>`;
+}
+
+// ---------- Voice advice ----------
+// Which device is this, and how does its owner get a Canadian French voice?
+function voiceTip() {
+  if (!TTS.ok) return 'This browser has no speech engine. Use Chrome, Edge or Safari for audio.';
+  const v = TTS.voice(), ua = navigator.userAgent;
+  if (v && TTS.isCanadian()) return `${ic('check')} Using <b>${esc(v.name)}</b>, a Canadian French voice.`;
+  const how = /iPhone|iPad|iPod|Macintosh/.test(ua) && 'ontouchend' in document
+    ? 'iPhone/iPad: Settings → Accessibility → Spoken Content → Voices → French → <b>French (Canada)</b>, download Amélie, then reopen Bonjourly.'
+    : /Android/.test(ua)
+      ? 'Android: Settings → System → Languages → Text-to-speech → Google speech engine → Install voice data → <b>French (Canada)</b>, then reopen Bonjourly.'
+      : /Edg\//.test(ua)
+        ? 'Edge on Windows: Settings → Time &amp; language → Speech → Add voices → <b>French (Canada)</b>, then reopen Bonjourly.'
+        : /Mac/.test(ua)
+          ? 'Mac: System Settings → Accessibility → Spoken Content → System voice → Manage voices → <b>French (Canada)</b>.'
+          : 'Windows: open Bonjourly in <b>Microsoft Edge</b>, which includes natural Canadian voices (Sylvie, Antoine), or add French (Canada) under Settings → Time &amp; language → Speech.';
+  return `${v ? `Using <b>${esc(v.name)}</b> (${esc(v.lang)}), which is not a Canadian voice.` : 'No French voice is installed yet.'} For a Canadian accent: ${how}`;
 }

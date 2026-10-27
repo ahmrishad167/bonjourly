@@ -609,3 +609,22 @@ button.chip { border: 0; cursor: pointer; }
 .link-btn:hover { color: var(--bad); }
 .welcome-back { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; font-size: 13.5px; color: var(--muted); margin-top: -4px; }
 .welcome-back a { font-weight: 600; }
+
+/* ---------- Hero: keep the copy clear of the skyline ---------- */
+.hero .copy { max-width: min(440px, 42%); }
+.hero svg.sky { width: 54%; }
+.hero::before { background: linear-gradient(90deg, rgba(255,255,255,.97) 0%, rgba(255,255,255,.95) 52%, rgba(255,255,255,0) 68%); }
+@media (max-width: 900px) {
+  .hero { flex-direction: column; align-items: stretch; padding-bottom: 150px; }
+  .hero .copy { max-width: none; }
+  .hero::before { background: linear-gradient(180deg, rgba(255,255,255,.96) 0%, rgba(255,255,255,.92) 60%, rgba(255,255,255,0) 78%); }
+  .hero svg.sky { width: 100%; height: 160px; opacity: 1; }
+}
+/* Today's lesson card: phrase of the day */
+.postcard { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 10px; }
+.postcard small { color: #f3d9b8; text-transform: uppercase; letter-spacing: .12em; font-size: 10.5px; font-weight: 700; }
+.postcard .pc-en { color: #f7e6d0; font-size: 13px; max-width: 26ch; }
+/* Today's lesson: phrase card on top, lesson text below, at every width */
+.today { grid-template-columns: minmax(0, 1fr); }
+.today .postcard { order: -1; min-height: 140px; }
+.today .postcard { background: radial-gradient(circle at 8% 120%, rgba(230, 177, 122, .28) 0 26%, transparent 27%), linear-gradient(135deg, #5a3a26, #2b1a10); }

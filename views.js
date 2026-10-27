@@ -78,7 +78,9 @@ function render() {
 function viewHome() {
   const cw = currentWeek(), r = RM[cw - 1], c = WK[cw], ph = phaseOf(cw), d = nextDay(cw);
   const done = weeksDone(), pct = Math.round(done / 168 * 100);
-  const quote = (c && ((c.examples || []).find(e => e.fr.length <= 34) || {}).fr) || 'Bonjour, ça va?';
+  // Phrase of the day: the shortest natural example of today's lesson.
+  const phrase = (c && (c.examples || []).filter(e => e.fr.length >= 8).sort((x, y) => x.fr.length - y.fr.length)[0]) || { fr: 'Bonjour, ça va?', en: 'Hello, how are you?' };
+  const quote = phrase.fr;
   const known = Object.keys(state.known).length;
   const nextCheck = RM.find(x => x.w >= cw && isCheckpoint(x));
   const a1 = RM.filter(x => x.w <= 40 && isDone(x.w)).length;
@@ -125,7 +127,7 @@ function viewHome() {
             <p class="lead">${c ? esc(c.goal) : 'This lesson is still being written. You can preview the topic and its Canadian French layer.'}</p>
             <a class="btn" href="#w${cw}-d${d + 1}">Start lesson ${ic('chev')}</a>
           </div>
-          <div class="postcard"><q>${esc(quote)}</q><button class="say" data-say="${esc(quote)}" aria-label="Listen">${ic('play')}</button></div>
+          <div class="postcard"><small>Phrase du jour</small><q>${esc(quote)}</q><span class="pc-en">${esc(phrase.en)}</span><button class="say" data-say="${esc(quote)}" aria-label="Listen">${ic('play')}</button></div>
         </div>
       </section>
       <section class="card">
@@ -195,9 +197,12 @@ function dailyCard(cw, d) {
     ['review', due ? `Review ${due} word${due === 1 ? '' : 's'} due` : 'Review: nothing due', '#review', t.review || !due],
     ['practice', 'One practice session', '#practice', t.practice],
     ['story', 'Read a story', '#stories', t.story],
-  ];
+  ].filter(([k]) =>
+    // Only list what this learner can actually do today.
+    (k !== 'review' || !isGuest()) &&
+    (k !== 'story' || (EX.stories || []).some(s => storyOpen(s) && (!isGuest() || s.week <= GUEST_LESSONS))));
   const n = items.filter(x => x[3]).length;
-  return `<section class="card"><div class="card-h"><span class="ico">${ic('check')}</span><h2>Today's checklist</h2><span class="sub" style="margin-left:auto">${n}/4</span></div>
+  return `<section class="card"><div class="card-h"><span class="ico">${ic('check')}</span><h2>Today's checklist</h2><span class="sub" style="margin-left:auto">${n}/${items.length}</span></div>
     <div class="checklist-d">${items.map(([k, label, href, ok]) => `<a href="${href}" class="${ok ? 'ok' : ''}"><span class="box">${ok ? ic('check') : ''}</span>${esc(label)}</a>`).join('')}</div></section>`;
 }
 
@@ -559,12 +564,15 @@ function viewProgress() {
   later(() => {
     const vs = $('#s-voice');
     const fill = () => {
-      const voices = TTS.voices();
-      vs.innerHTML = `<option value="">Automatic (Canadian French if available)</option>` + voices.map(v => `<option value="${esc(v.name)}" ${v.name === state.settings.voice ? 'selected' : ''}>${esc(v.name)} (${esc(v.lang)})</option>`).join('');
+      const voices = TTS.voices().sort((a, b) => TTS.rank(b) - TTS.rank(a));
+      vs.innerHTML = `<option value="">Automatic (best Canadian French voice)</option>` + voices.map(v => `<option value="${esc(v.name)}" ${v.name === state.settings.voice ? 'selected' : ''}>${esc(v.name)} (${esc(v.lang)})${/fr[-_]CA/i.test(v.lang) ? ' · Canadian' : ''}</option>`).join('');
+      $('#s-voice-tip').innerHTML = voiceTip();
     };
     fill();
     if (TTS.ok) speechSynthesis.onvoiceschanged = fill;
-    vs.onchange = () => { state.settings.voice = vs.value; save(); TTS.say('Bonjour! Ça va bien?'); };
+    vs.onchange = () => { state.settings.voice = vs.value; save(); fill(); TTS.say('Bonjour! Ça va bien? Bienvenue sur Bonjourly.'); };
+    $('#s-voice-test').onclick = () => TTS.say('Bonjour! Ça va bien? Bienvenue sur Bonjourly.');
+    drawInstall();
     $('#s-rate').oninput = e => { state.settings.rate = +e.target.value; $('#s-rate-v').textContent = `${state.settings.rate.toFixed(2)}×`; save(); };
     $('#s-name').onchange = e => { state.name = e.target.value.trim() || state.name; save(); drawShell('progress'); };
     $$('[data-goal]').forEach(b => b.onclick = () => { state.goal = b.dataset.goal; save(); render(); });
@@ -629,7 +637,9 @@ function viewProgress() {
           </tbody></table></div>` : `<div class="empty">Drill, quiz and practice scores appear here.</div>`}</section>
       <section class="card"><div class="card-h"><h2>Settings</h2></div><div class="stack" style="gap:14px">
         <label class="field">Your name<input class="input" id="s-name" value="${esc(state.name)}"></label>
-        <label class="field">French voice<select class="input" id="s-voice"></select></label>
+        <div class="field"><label for="s-voice">French voice</label>
+          <div class="row" style="flex-wrap:nowrap"><select class="input" id="s-voice"></select><button class="btn sm ghost" id="s-voice-test" type="button">${ic('volume')} Test</button></div>
+          <div class="sub" id="s-voice-tip" style="font-weight:500"></div></div>
         <label class="field">Speech speed <span class="sub" id="s-rate-v">${state.settings.rate.toFixed(2)}×</span><input type="range" id="s-rate" min="0.5" max="1.3" step="0.05" value="${state.settings.rate}"></label>
         <div class="field">Goal for Phase 4 <span class="sub">Conversation keeps the plan as written. An exam turns lessons 152, 160, 161, 163 and 165 into exam-format practice.</span>
           <div class="seg">${[['conv', 'Conversation'], ['tef', 'TEF Canada'], ['delf', 'DELF B2'], ['undecided', 'Undecided']].map(([k, l]) => `<button data-goal="${k}" class="${state.goal === k ? 'on' : ''}">${l}</button>`).join('')}</div></div>
@@ -638,6 +648,7 @@ function viewProgress() {
         <div class="field">Back up your progress <span class="sub">Progress lives in this browser only. Save a backup file now and then, and load it on another device or browser.</span>
           <div class="row"><button class="btn sm ghost" id="s-export">${ic('arrow')} Save backup file</button>
           <label class="btn sm ghost" for="s-import">${ic('refresh')} Load backup file</label><input type="file" id="s-import" accept=".json,application/json" hidden></div></div>
+        <div class="field">Install Bonjourly as an app <span class="sub" style="font-weight:500">Opens from your home screen and works offline.</span><div id="s-install"></div></div>
         ${isGuest() ? '' : `<div class="field">Learner<div class="row"><a class="btn sm ghost" href="#welcome">${ic('users')} Switch learner</a><button class="btn sm ghost" data-act="sign-out">Sign out</button></div></div>`}
         <div><button class="btn sm ghost" id="s-reset" style="color:var(--bad)">Reset all progress</button></div>
       </div></section>
@@ -698,6 +709,26 @@ document.addEventListener('click', e => {
 }, true);
 
 window.addEventListener('hashchange', render);
+
+// ---------- Install as an app (PWA) ----------
+let installPrompt = null;
+const standalone = () => matchMedia('(display-mode: standalone)').matches || navigator.standalone === true;
+function drawInstall() {
+  const box = $('#s-install');
+  if (!box) return;
+  const ios = /iPhone|iPad|iPod/.test(navigator.userAgent) || (/Macintosh/.test(navigator.userAgent) && 'ontouchend' in document);
+  if (standalone()) box.innerHTML = `<span class="sub">${ic('check')} Bonjourly is installed on this device.</span>`;
+  else if (installPrompt) {
+    box.innerHTML = `<button class="btn sm" id="s-install-btn" type="button">${ic('arrow')} Install app</button>`;
+    $('#s-install-btn').onclick = async () => { installPrompt.prompt(); await installPrompt.userChoice; installPrompt = null; drawInstall(); };
+  } else if (ios) box.innerHTML = '<span class="sub">In Safari, tap the <b>Share</b> button, then <b>Add to Home Screen</b>.</span>';
+  else box.innerHTML = '<span class="sub">Use your browser menu: <b>Install app</b> or <b>Add to Home screen</b>.</span>';
+}
+window.addEventListener('beforeinstallprompt', e => { e.preventDefault(); installPrompt = e; drawInstall(); });
+window.addEventListener('appinstalled', () => { installPrompt = null; drawInstall(); toast('Bonjourly is installed.'); });
+if ('serviceWorker' in navigator && (location.protocol === 'https:' || location.hostname === 'localhost' || location.hostname === '127.0.0.1')) {
+  navigator.serviceWorker.register('sw.js').catch(() => { /* offline support is optional */ });
+}
 // A returning visitor who isn't signed in starts at "Who's learning?" when learners exist on this device.
 if (isGuest() && profiles().length && !RM.some(r => daysDone(r.w) > 0) && /^#?(home)?$/.test(location.hash)) location.hash = '#welcome';
 render();

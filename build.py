@@ -195,6 +195,22 @@ def bundle_extra():
     return not bad
 
 
+APP_FILES = ("index.html", "styles.css", "core.js", "views-extra.js", "views.js", "manifest.webmanifest", "logo.svg",
+             "content/roadmap.js", "content/weeks.js", "content/extra.js")
+
+
+def stamp_service_worker():
+    """Give sw.js a cache version derived from the app files, so installed copies update when anything changes."""
+    import hashlib
+    import re
+    h = hashlib.sha1()
+    for f in APP_FILES:
+        h.update((ROOT / f).read_bytes())
+    sw = ROOT / "sw.js"
+    src = sw.read_text(encoding="utf-8")
+    sw.write_text(re.sub(r"const VERSION = '[^']*';", f"const VERSION = '{h.hexdigest()[:10]}';", src), encoding="utf-8")
+
+
 def bundle_single():
     """Inline CSS, data and scripts into dist/bonjourly.html (one file, no external assets but fonts)."""
     import re
@@ -248,6 +264,7 @@ def main(argv):
     )
     print(f"Bundled {len(good)} weeks into {OUT.relative_to(ROOT)}")
     extra_ok = bundle_extra()
+    stamp_service_worker()
     if "--single" in argv:
         bundle_single()
     for w, errs in bad:
