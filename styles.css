@@ -733,3 +733,6 @@ button.tile { cursor: pointer; font-family: inherit; }
 .privacy h1 { font-size: 26px; font-weight: 800; margin-bottom: 4px; }
 .privacy h3 { margin: 18px 0 6px; }
 @media (max-width: 640px) { .pf-form, .choice-grid.two { grid-template-columns: minmax(0, 1fr); } .glance { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+.kb-hint { display: flex; align-items: center; gap: 6px; color: var(--muted); font-size: 12.5px; margin-top: 8px; }
+.kb-hint svg.i { width: 14px; height: 14px; }
+.build-type { margin-top: 12px; }

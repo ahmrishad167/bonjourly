@@ -390,7 +390,6 @@ const sayBtn = (text, slow) => `<button class="say" data-say="${esc(plainText(te
 // ---------- Exercise runner ----------
 // Item types: mcq, fill, build, translate (from content) plus dict and shadow (generated in Practice).
 const KIND = { mcq: 'Choose the answer', fill: 'Fill in the blank', build: 'Build the sentence', translate: 'Translate into French', dict: 'Dictation', shadow: 'Repeat after me', match: 'Match the pairs' };
-const ACCENTS = ['é', 'è', 'ê', 'à', 'â', 'ç', 'î', 'ô', 'û', 'ù', 'ë', 'ï', 'œ'];
 function answerOf(it) {
   if (it.t === 'mcq') return it.options[it.a];
   // The (hint) in a fill-in question is for the question only, not the corrected sentence or its audio.
@@ -415,7 +414,8 @@ function runner(host, items, opts = {}) {
       <div class="runner-actions" id="r-actions"></div>
     </div>`;
   }
-  const accentBar = () => `<div class="accents">${ACCENTS.map(a => `<button type="button" data-acc="${a}" tabindex="-1">${a}</button>`).join('')}</div>`;
+  // Learners type with their own keyboard; accents are optional (an answer without them still counts).
+  const typingHint = () => `<div class="kb-hint">${ic('pen')} Type with your keyboard. Accents are optional.</div>`;
   const setActions = html => { $('#r-actions', host).innerHTML = html; };
 
   function draw() {
@@ -430,22 +430,23 @@ function runner(host, items, opts = {}) {
         `<button class="opt" data-opt="${k}"><span class="k">${k + 1}</span><span>${md(o)}</span></button>`).join('')}</div>`);
     } else if (it.t === 'fill') {
       const [pre, post] = it.q.split('___');
-      frame(`${kind}<div class="fill-line"><span>${md(pre)}</span><input id="r-in" autocomplete="off" autocapitalize="off" spellcheck="false" aria-label="Your answer"><span>${md(post)}</span></div>
-        ${it.en ? `<div class="q-hint">${esc(it.en)}</div>` : ''}${accentBar()}`);
+      frame(`${kind}<div class="fill-line"><span>${md(pre)}</span><input id="r-in" lang="fr" enterkeyhint="done" autocomplete="off" autocapitalize="off" spellcheck="false" aria-label="Your answer"><span>${md(post)}</span></div>
+        ${it.en ? `<div class="q-hint">${esc(it.en)}</div>` : ''}${typingHint()}`);
       setActions(`<button class="btn" data-r="check">Check</button>`);
     } else if (it.t === 'build') {
       it._words = it._words || shuffle(it.a.split(' '));
-      frame(`${kind}<div class="q-text">${esc(it.en)}</div><div class="q-hint">Tap the words in order.</div>
-        <div class="build-slot" id="r-slot"></div><div class="build-bank" id="r-bank">${it._words.map((w, k) => `<button class="word" data-word="${k}">${esc(w)}</button>`).join('')}</div>`);
+      frame(`${kind}<div class="q-text">${esc(it.en)}</div><div class="q-hint">Tap the words in order, or type the sentence.</div>
+        <div class="build-slot" id="r-slot"></div><div class="build-bank" id="r-bank">${it._words.map((w, k) => `<button class="word" data-word="${k}">${esc(w)}</button>`).join('')}</div>
+        <input class="input build-type" id="r-type" lang="fr" enterkeyhint="done" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="…or type the sentence here" aria-label="Type the sentence">${typingHint()}`);
       setActions(`<button class="btn ghost" data-r="clear">Clear</button><button class="btn" data-r="check">Check</button>`);
     } else if (it.t === 'translate') {
       frame(`${kind}<div class="q-text">${esc(it.en)}</div>
-        <textarea class="input" id="r-in" rows="2" autocomplete="off" spellcheck="false" placeholder="Type in French…" aria-label="Your translation"></textarea>${accentBar()}`);
+        <textarea class="input" id="r-in" rows="2" lang="fr" enterkeyhint="done" autocomplete="off" spellcheck="false" placeholder="Type in French…" aria-label="Your translation"></textarea>${typingHint()}`);
       setActions(`<button class="btn ghost" data-r="reveal">Show answer</button><button class="btn" data-r="check">Check</button>`);
     } else if (it.t === 'dict') {
       frame(`${kind}<div class="q-text">Listen and type what you hear.</div>
         <div class="row" style="margin-bottom:12px">${sayBtn(it.fr, true)}<span class="sub">Play as often as you need.</span></div>
-        <textarea class="input" id="r-in" rows="2" autocomplete="off" spellcheck="false" placeholder="Type in French…" aria-label="What you heard"></textarea>${accentBar()}`);
+        <textarea class="input" id="r-in" rows="2" lang="fr" enterkeyhint="done" autocomplete="off" spellcheck="false" placeholder="Type in French…" aria-label="What you heard"></textarea>${typingHint()}`);
       setActions(`<button class="btn ghost" data-r="reveal">Show answer</button><button class="btn" data-r="check">Check</button>`);
       setTimeout(() => TTS.say(it.fr), 250);
     } else if (it.t === 'shadow') {
@@ -468,8 +469,7 @@ function runner(host, items, opts = {}) {
   function grade(status, given) {
     if (answered) return;
     answered = true;
-    const inp = $('#r-in', host); if (inp) inp.disabled = true;
-    const acc = $('.accents', host); if (acc) acc.remove();
+    $$('#r-in, #r-type', host).forEach(el => { el.disabled = true; });
     const it = list[i];
     const ok = status === 'ok' || status === 'almost';
     results.push({ it, ok, given });
@@ -481,9 +481,9 @@ function runner(host, items, opts = {}) {
       return;
     }
     const ans = answerOf(it);
-    const head = status === 'ok' ? 'Correct!' : status === 'almost' ? 'Almost: check your accents.' : 'Not quite.';
+    const head = status === 'ok' ? 'Correct!' : status === 'almost' ? 'Correct! With accents, it is spelled:' : 'Not quite.';
     const showAns = it.t !== 'mcq' || status === 'no';
-    $('#r-fb', host).innerHTML = `<div class="feedback ${status === 'ok' ? 'ok' : status === 'almost' ? 'almost' : 'no'}" role="status">
+    $('#r-fb', host).innerHTML = `<div class="feedback ${ok ? 'ok' : 'no'}" role="status">
       ${ic(ok ? 'check' : 'x')}<div style="flex:1;min-width:0"><b>${head}</b>
       ${showAns ? `<div class="row" style="margin-top:4px"><span>${md(ans)}</span>${it.t === 'mcq' && !/[a-zàâçéèêëîïôûùœ]{3}/i.test(ans) ? '' : sayBtn(ans)}</div>` : ''}
       ${it.why ? `<div class="why">${md(it.why)}</div>` : ''}</div></div>`;
@@ -494,6 +494,8 @@ function runner(host, items, opts = {}) {
   function check() {
     const it = list[i];
     if (it.t === 'build') {
+      const typed = ($('#r-type', host) || {}).value || '';
+      if (typed.trim()) return grade(checkText(typed, [it.a]), typed);
       if (!built.length) return;
       return grade(checkText(built.map(k => it._words[k]).join(' '), [it.a]), built.map(k => it._words[k]).join(' '));
     }
@@ -521,17 +523,9 @@ function runner(host, items, opts = {}) {
   }
 
   host.onclick = e => {
-    const t = e.target.closest('[data-opt],[data-word],[data-r],[data-acc],[data-m]');
+    const t = e.target.closest('[data-opt],[data-word],[data-r],[data-m]');
     if (!t || !host.contains(t)) return;
     const it = list[i];
-    if (t.dataset.acc) {
-      const inp = $('#r-in', host);
-      if (!inp || answered) return;
-      const s = inp.selectionStart ?? inp.value.length, en = inp.selectionEnd ?? s;
-      inp.value = inp.value.slice(0, s) + t.dataset.acc + inp.value.slice(en);
-      inp.focus(); inp.setSelectionRange(s + 1, s + 1);
-      return;
-    }
     if (t.dataset.opt !== undefined && !answered) {
       const k = +t.dataset.opt;
       if (opts.test) { $$('.opt', host).forEach(b => { b.disabled = true; }); t.classList.add('picked'); }
@@ -583,7 +577,7 @@ function runner(host, items, opts = {}) {
   };
   host.onkeydown = e => {
     const it = list[i];
-    if (e.key === 'Enter' && !e.shiftKey && it && !answered && !['mcq', 'shadow', 'build', 'match'].includes(it.t)) { e.preventDefault(); check(); }
+    if (e.key === 'Enter' && !e.shiftKey && it && !answered && !['mcq', 'shadow', 'match'].includes(it.t) && (it.t !== 'build' || e.target.id === 'r-type')) { e.preventDefault(); check(); }
     else if (e.key === 'Enter' && answered && e.target.tagName !== 'BUTTON') { e.preventDefault(); i++; draw(); }
     else if (it && it.t === 'mcq' && !answered && /^[1-5]$/.test(e.key) && e.target.tagName !== 'INPUT') {
       const b = $(`[data-opt="${+e.key - 1}"]`, host); if (b) b.click();
