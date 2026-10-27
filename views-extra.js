@@ -207,12 +207,18 @@ function viewExam(code, setIdx) {
   }
   const oral = sec.code === 'EO';
   later(() => {
+    mountRecorders(page, { max: 600 });
+    $$('[data-wcheck]').forEach(btn => btn.onclick = () => {
+      const k = +btn.dataset.wcheck, t = set.tasks[k], ta = btn.closest('.ex-task').querySelector('textarea');
+      const min = +((String(t.words || '').match(/\d+/) || [0])[0]);
+      $(`#tef-fb-${k}`).innerHTML = writingFeedback(checkWriting(ta.value, { min }));
+    });
     $$('.ex-task textarea').forEach(ta => { const out = ta.parentElement.querySelector('.wc'); ta.oninput = () => { out.textContent = `${wordCount(ta.value)} words`; state.writes[ta.id] = ta.value; save(); }; ta.oninput(); });
   });
   return back + `<h1 style="font-size:22px;margin:6px 0 14px">${esc(set.title)}</h1><div class="stack">${(set.tasks || []).map((t, i) => `<section class="card ex-task">
     <div class="card-h"><h3>Task ${i + 1}</h3><span class="chip grey" style="margin-left:auto">${esc(t.time || '')}</span>${t.words ? `<span class="chip grey">${esc(t.words)}</span>` : ''}</div>
     <p style="margin-bottom:12px">${md(t.prompt)}</p>
-    ${oral ? `<p class="sub">Answer out loud. Time yourself, then compare with the model.</p>` : `<textarea class="input" id="tef-${sec.code}-${setIdx}-${i}" rows="8" placeholder="Rédigez votre réponse…">${esc(state.writes[`tef-${sec.code}-${setIdx}-${i}`] || '')}</textarea><div class="sub wc" style="margin-top:6px"></div>`}
+    ${oral ? `<p class="sub">Answer out loud and record yourself (up to 10 minutes). Then compare your recording with the model.</p>${recorderUI(t.model, 'Record your answer')}` : `<textarea class="input" id="tef-${sec.code}-${setIdx}-${i}" rows="8" placeholder="Rédigez votre réponse…">${esc(state.writes[`tef-${sec.code}-${setIdx}-${i}`] || '')}</textarea><div class="row" style="margin-top:6px"><span class="sub wc"></span><button class="btn sm" type="button" data-wcheck="${i}" style="margin-left:auto">${ic('check')} Check my writing</button></div><div class="wfb-host" id="tef-fb-${i}"></div>`}
     <div class="row" style="margin-top:10px"><button class="btn sm soft" data-act="reveal" data-target="tm-${i}">${ic('eye')} Model answer</button><button class="btn sm ghost" data-act="reveal" data-target="tc-${i}">${ic('check')} Grader checklist</button></div>
     <div class="prompt" style="border:0;padding:0"><div class="model" id="tm-${i}" hidden><span style="flex:1;white-space:pre-line">${esc(t.model)}</span>${sayBtn(t.model)}</div></div>
     <ul class="checklist" id="tc-${i}" hidden>${(t.checklist || []).map(c => `<li>${md(c)}</li>`).join('')}</ul></section>`).join('')}</div>`;

@@ -43,6 +43,7 @@ function drawShell(base) {
 
 function render() {
   TTS.stop();
+  stopRecording();
   afterRender = [];
   const h = (location.hash || '#home').slice(1);
   let m, html, base = h;
@@ -374,7 +375,10 @@ function daySpeak(w, c, r, { foot, next, nextLabel }) {
       if (sb) sb.onclick = () => { setDay(w, 4); toast('Step 5 passed.'); location.hash = next; };
     };
     ta.oninput = () => { req(); clearTimeout(t); t = setTimeout(() => { state.writes[w] = ta.value; save(); const s = $('#write-saved'); if (s) s.textContent = 'Saved in this browser'; }, 400); };
-    $$('[data-act="practiced"]').forEach(b => b.onclick = () => { state.practiced[b.dataset.k] = 1; touch(); save(); b.classList.add('good'); b.innerHTML = `${ic('check')} Practised`; req(); });
+    const markPractised = k => { state.practiced[k] = 1; touch(); save(); const b = $(`[data-act="practiced"][data-k="${k}"]`); if (b) { b.classList.add('good'); b.innerHTML = `${ic('check')} Practised`; } req(); };
+    $$('[data-act="practiced"]').forEach(b => b.onclick = () => markPractised(b.dataset.k));
+    mountRecorders($('#speak-card'), { onTake: box => markPractised(box.closest('.prompt').dataset.k) });
+    $('#write-check').onclick = () => { $('#write-fb').innerHTML = writingFeedback(checkWriting(ta.value, { vocab: c.vocab, min: need })); markDaily('practice'); };
     req();
     $$('[data-act="rec"]').forEach(b => b.onclick = () => {
       const i = +b.dataset.i, model = c.speak[i].model;
@@ -384,22 +388,24 @@ function daySpeak(w, c, r, { foot, next, nextLabel }) {
         if (txt) { state.practiced[`${w}-${i}`] = 1; req(); }
         touch(); save();
       }).catch(() => toast('The microphone is not available here. Say it aloud and compare with the model.'))
-        .finally(() => { b.classList.remove('on'); b.innerHTML = `${ic('mic')} Record`; });
+        .finally(() => { b.classList.remove('on'); b.innerHTML = `${ic('mic')} Check with speech recognition`; });
     });
   });
   return `<div class="stack">
-    <section class="card"><div class="card-h"><span class="ico">${ic('mic')}</span><div><h2>Speak</h2><div class="sub">Answer out loud first. Then reveal and play the model answer and say it again.${SR ? '' : ' Recording works in Chrome or Edge when the app runs from your computer.'}</div></div></div>
-      ${c.speak.map((s, i) => `<div class="prompt"><b>${i + 1}. ${md(s.prompt)}</b>
-        <div class="row" style="margin-top:10px">${SR ? `<button class="btn sm ghost rec" data-act="rec" data-i="${i}">${ic('mic')} Record</button>` : ''}
+    <section class="card" id="speak-card"><div class="card-h"><span class="ico">${ic('mic')}</span><div><h2>Speak</h2><div class="sub">Answer out loud and record yourself. Then play your recording next to the model answer and try again until they sound alike. Recordings stay on this device.</div></div></div>
+      ${c.speak.map((s, i) => `<div class="prompt" data-k="${w}-${i}"><b>${i + 1}. ${md(s.prompt)}</b>
+        ${recorderUI(s.model)}
+        <div class="row" style="margin-top:10px">${SR ? `<button class="btn sm ghost rec" data-act="rec" data-i="${i}">${ic('mic')} Check with speech recognition</button>` : ''}
         <button class="btn sm soft" data-act="reveal" data-target="model-${i}">${ic('eye')} Show model</button>
         <button class="btn sm ${state.practiced[`${w}-${i}`] ? 'good' : 'ghost'}" data-act="practiced" data-k="${w}-${i}">${ic('check')} ${state.practiced[`${w}-${i}`] ? 'Practised' : 'I said it out loud'}</button></div>
         <div id="heard-${i}"></div>
         <div class="model" id="model-${i}" hidden><span style="flex:1">${esc(s.model)}</span>${sayBtn(s.model, true)}</div></div>`).join('')}</section>
     <section class="card"><div class="card-h"><span class="ico">${ic('pen')}</span><div><h2>Write</h2><div class="sub">${md(c.write.prompt)}</div></div></div>
       <textarea class="input" id="write-in" rows="6" placeholder="Écris ici…">${esc(state.writes[w] || '')}</textarea>
-      <div class="row" style="margin-top:10px"><span class="sub" id="write-saved"></span><button class="btn sm soft" style="margin-left:auto" data-act="reveal" data-target="wmodel">${ic('eye')} Show model answer</button></div>
+      <div class="row" style="margin-top:10px"><span class="sub" id="write-saved"></span><button class="btn sm" style="margin-left:auto" id="write-check" type="button">${ic('check')} Check my writing</button><button class="btn sm soft" data-act="reveal" data-target="wmodel">${ic('eye')} Show model answer</button></div>
+      <div id="write-fb"></div>
       <div class="prompt" style="margin-top:12px;border:0;padding:0"><div class="model" id="wmodel" hidden><span style="flex:1">${esc(c.write.model)}</span>${sayBtn(c.write.model)}</div></div></section>
-    <section class="eval"><div class="eval-h">${ic('lock')}<div><h3>Step 5 requirements</h3><div class="sub">Speaking and writing can't be auto-graded, so the step passes once you've done the work.</div></div></div><div id="sw-req"></div></section></div>`;
+    <section class="eval"><div class="eval-h">${ic('lock')}<div><h3>Step 5 requirements</h3><div class="sub">Record yourself (or say each answer aloud) and write your text. Use the checker and the model answers to improve before you submit.</div></div></div><div id="sw-req"></div></section></div>`;
 }
 
 function dayQuiz(w, c, r, { foot }) {

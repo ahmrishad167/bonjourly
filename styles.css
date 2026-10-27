@@ -56,6 +56,7 @@
 }
 
 * { box-sizing: border-box; }
+[hidden] { display: none !important; }
 html, body { height: 100%; }
 body {
   margin: 0; background: var(--bg); color: var(--ink); font-family: var(--font); font-size: 14.5px; line-height: 1.55;
@@ -628,3 +629,22 @@ button.chip { border: 0; cursor: pointer; }
 .today { grid-template-columns: minmax(0, 1fr); }
 .today .postcard { order: -1; min-height: 140px; }
 .today .postcard { background: radial-gradient(circle at 8% 120%, rgba(230, 177, 122, .28) 0 26%, transparent 27%), linear-gradient(135deg, #5a3a26, #2b1a10); }
+
+/* ---------- Coach: recorder and writing feedback ---------- */
+.recorder { margin-top: 10px; display: flex; flex-direction: column; gap: 8px; }
+.rec-btn { align-self: flex-start; }
+.rec-btn.on { background: var(--bad); color: #fff; animation: rec-pulse 1.2s ease-in-out infinite; }
+@keyframes rec-pulse { 50% { box-shadow: 0 0 0 6px color-mix(in srgb, var(--bad) 25%, transparent); } }
+@media (prefers-reduced-motion: reduce) { .rec-btn.on { animation: none; } }
+.takes { display: flex; flex-direction: column; gap: 8px; }
+.take { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.take-l { width: 52px; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
+.take audio { height: 36px; max-width: 100%; flex: 1; min-width: 200px; }
+.take-tip { margin: 0; }
+.wfb { margin-top: 12px; display: flex; flex-direction: column; gap: 8px; }
+.wfb-i { display: flex; gap: 10px; align-items: flex-start; border-radius: 10px; padding: 10px 12px; font-size: 13.5px; }
+.wfb-i > svg.i { margin-top: 2px; flex: none; }
+.wfb-i.ok { background: var(--good-soft); } .wfb-i.ok > svg.i { color: var(--good); }
+.wfb-i.fix { background: var(--bad-soft); } .wfb-i.fix > svg.i { color: var(--bad); }
+.wfb-i.tip { background: var(--warn-soft); } .wfb-i.tip > svg.i { color: var(--warn); }
+.wfb-i s { color: var(--muted); }

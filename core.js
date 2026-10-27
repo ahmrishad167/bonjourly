@@ -444,8 +444,9 @@ function runner(host, items, opts = {}) {
       setTimeout(() => TTS.say(it.fr), 250);
     } else if (it.t === 'shadow') {
       frame(`${kind}<div class="q-text">${esc(it.fr)}</div><div class="q-hint">${esc(it.en)}</div>
-        <div class="row">${sayBtn(it.fr, true)}<span class="sub">Listen, then say it out loud.</span></div><div id="r-heard"></div>`);
-      setActions((SR ? `<button class="btn ghost rec" data-r="rec">${ic('mic')} Record</button>` : '')
+        <div class="row">${sayBtn(it.fr, true)}<span class="sub">Listen, then say it out loud and record yourself.</span></div>${recorderUI(it.fr)}<div id="r-heard"></div>`);
+      mountRecorders(host, { max: 30 });
+      setActions((SR ? `<button class="btn ghost rec" data-r="rec">${ic('mic')} Check with speech recognition</button>` : '')
         + `<button class="btn ghost" data-r="self-no">Need more practice</button><button class="btn" data-r="self-ok">I said it well</button>`);
       setTimeout(() => TTS.say(it.fr), 250);
     }
@@ -537,7 +538,7 @@ function runner(host, items, opts = {}) {
         $('#r-heard', host).innerHTML = `<div class="prompt"><div class="heard">I heard: <b>${esc(txt || '(nothing)')}</b> · ${Math.round(sc * 100)}% match</div></div>`;
         if (txt) grade(sc >= 0.7 ? 'ok' : 'no', txt);
       }).catch(() => toast('The microphone is not available here. Say it aloud and grade yourself.'))
-        .finally(() => { t.classList.remove('on'); t.innerHTML = `${ic('mic')} Record`; });
+        .finally(() => { t.classList.remove('on'); t.innerHTML = `${ic('mic')} Check with speech recognition`; });
     }
     else if (r === 'next') { i++; draw(); }
     else if (r === 'retry') { list = results.filter(x => !x.ok).map(x => x.it); i = 0; results = []; draw(); }
